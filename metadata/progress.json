@@ -1,6 +1,6 @@
 {
   "project": "Oneness Scripture Data",
-  "current_focus": "Genesis 26-36 batch next",
+  "current_focus": "Genesis 37-50 batch next",
   "status_meanings": {
     "restored-draft": "Readable restored translation exists, but source-audit metadata is incomplete.",
     "source-audited-draft": "Verse-by-verse source-language review has been applied for major wording, grammar, context, and interpretive choices. Final scholarly review may still refine details.",
@@ -8,7 +8,8 @@
   },
   "completed_ranges": [
     {"book_id":"genesis","range":"1-11","status":"source-audited-draft + mystical companion"},
-    {"book_id":"genesis","range":"12-25","status":"source-audited-draft + mystical companion"}
+    {"book_id":"genesis","range":"12-25","status":"source-audited-draft + mystical companion"},
+    {"book_id":"genesis","range":"26-36","status":"source-audited-draft + mystical companion"}
   ],
   "chapters": [
     {"book_id":"genesis","chapter":1,"path":"scripture/genesis/genesis-001.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-001-mystical.json","notes":"Creation; embedded source-audit pass complete."},
@@ -35,11 +36,22 @@
     {"book_id":"genesis","chapter":22,"path":"scripture/genesis/genesis-022.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-022-mystical.json","notes":"Akedah, test, hineni, YHWH-yireh, ram provision, blessing oath, Rebekah setup."},
     {"book_id":"genesis","chapter":23,"path":"scripture/genesis/genesis-023.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-023-mystical.json","notes":"Sarah death, Machpelah purchase, Abraham as sojourner, first secured landholding."},
     {"book_id":"genesis","chapter":24,"path":"scripture/genesis/genesis-024.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-024-mystical.json","notes":"Rebekah betrothal, servant oath, chesed/emet, consent to go, Isaac comforted."},
-    {"book_id":"genesis","chapter":25,"path":"scripture/genesis/genesis-025.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-025-mystical.json","notes":"Abraham death, Ishmael line, Isaac/Rebekah twins, Jacob/Esau, birthright sale."}
+    {"book_id":"genesis","chapter":25,"path":"scripture/genesis/genesis-025.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-025-mystical.json","notes":"Abraham death, Ishmael line, Isaac/Rebekah twins, Jacob/Esau, birthright sale."},
+    {"book_id":"genesis","chapter":26,"path":"scripture/genesis/genesis-026.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-026-mystical.json","notes":"Isaac famine, Rebekah sister-wife pattern, wells, Rehoboth, Beersheba oath, Esau marriages."},
+    {"book_id":"genesis","chapter":27,"path":"scripture/genesis/genesis-027.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-027-mystical.json","notes":"Isaac blessing, Jacob/Rebekah deception, Esau bitter cry, stolen blessing, Jacob flight setup."},
+    {"book_id":"genesis","chapter":28,"path":"scripture/genesis/genesis-028.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-028-mystical.json","notes":"Jacob sent to Laban, Bethel dream, stairway, gate of heavens, vow and tenth."},
+    {"book_id":"genesis","chapter":29,"path":"scripture/genesis/genesis-029.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-029-mystical.json","notes":"Jacob at well, Rachel, Laban deception, Leah/Rachel, Reuben/Simeon/Levi/Judah naming."},
+    {"book_id":"genesis","chapter":30,"path":"scripture/genesis/genesis-030.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-030-mystical.json","notes":"Rachel/Leah rivalry, Bilhah/Zilpah sons, mandrakes, Joseph, Jacob's wages and flocks."},
+    {"book_id":"genesis","chapter":31,"path":"scripture/genesis/genesis-031.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-031-mystical.json","notes":"Jacob leaves Laban, Rachel teraphim, Laban pursuit, Galeed/Mizpah covenant boundary."},
+    {"book_id":"genesis","chapter":32,"path":"scripture/genesis/genesis-032.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-032-mystical.json","notes":"Mahanaim, fear of Esau, Jacob prayer/gifts, Jabbok wrestling, Israel naming, Peniel limp."},
+    {"book_id":"genesis","chapter":33,"path":"scripture/genesis/genesis-033.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-033-mystical.json","notes":"Jacob/Esau reconciliation, face of Divine, gift/blessing, Succoth, Shechem altar."},
+    {"book_id":"genesis","chapter":34,"path":"scripture/genesis/genesis-034.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-034-mystical.json","notes":"Dinah, Shechem/Hamor negotiation, brothers' deceit, circumcision condition, Simeon/Levi retaliation, plunder."},
+    {"book_id":"genesis","chapter":35,"path":"scripture/genesis/genesis-035.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-035-mystical.json","notes":"Bethel return, household purification, Israel name reaffirmed, Rachel death, Benjamin, Isaac death."},
+    {"book_id":"genesis","chapter":36,"path":"scripture/genesis/genesis-036.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-036-mystical.json","notes":"Esau/Edom genealogy, Seir, Horites, Edomite chiefs and kings before Israelite monarchy."}
   ],
   "next_actions": [
-    "Continue with Genesis 26-36 batch: Isaac, Jacob, Esau, Leah/Rachel, Dinah, and Edom line.",
-    "Add glossary files for recurring terms introduced in Genesis 1-25.",
+    "Continue with Genesis 37-50 batch: Joseph cycle and completion of Genesis.",
+    "Add glossary files for recurring terms introduced in Genesis 1-36.",
     "Later promote chapters to source-critical after textual variant and manuscript witness review."
   ]
 }
