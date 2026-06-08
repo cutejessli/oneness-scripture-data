@@ -3,11 +3,14 @@
   "book":"Mark",
   "current_status":"in-progress",
   "completed_ranges":[
-    {"range":"1-2","status":"source-audited-draft + mystical companion"}
+    {"range":"1-2","status":"source-audited-draft + mystical companion"},
+    {"range":"3-4","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/mark/mark-001.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-001-mystical.json","notes":"Opening good message, John, baptism, heavens torn open, Spirit descent, wilderness testing, reign proclamation, first disciples, Capernaum authority, healing and cleansing."},
-    {"chapter":2,"path":"scripture/mark/mark-002.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-002-mystical.json","notes":"Capernaum house, roof opening, release/healing, Son of Humanity authority, Levi call, table fellowship, fasting/bridegroom, new wine, Sabbath grainfields."}
+    {"chapter":2,"path":"scripture/mark/mark-002.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-002-mystical.json","notes":"Capernaum house, roof opening, release/healing, Son of Humanity authority, Levi call, table fellowship, fasting/bridegroom, new wine, Sabbath grainfields."},
+    {"chapter":3,"path":"scripture/mark/mark-003.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-003-mystical.json","notes":"Sabbath healing, hardness of heart, Pharisees/Herodians plot, crowds, Twelve appointed, Beelzebul controversy, binding the strong one, Spirit warning, family redefinition."},
+    {"chapter":4,"path":"scripture/mark/mark-004.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-004-mystical.json","notes":"Sea teaching, sower, mystery of the reign, Isaiah hearing/seeing, soils, lamp, measure, seed growing secretly, mustard seed, parables, storm calming."}
   ],
   "translation_notes":[
     "Mark's opening euangelion should be rendered as good message/good news with imperial-public-announcement resonance preserved.",
@@ -17,10 +20,12 @@
     "Unclean spirit / daimonion scenes should use careful spirit-language without over-importing later demonology.",
     "Son of Humanity should preserve huios tou anthropou resonance rather than flattening to a distant title only.",
     "Mystical companion layer remains interpretive and does not replace the source-audited restored text.",
-    "Mark 2 preserves aphiemi as release, pistis as trust, and Sabbath as gift for the human rather than human subordination to Sabbath."
+    "Mark 2 preserves aphiemi as release, pistis as trust, and Sabbath as gift for the human rather than human subordination to Sabbath.",
+    "Mark 3 preserves the Spirit controversy as mislabeling Spirit-work, not a generalized fear framework; family is redefined around doing the Divine will.",
+    "Mark 4 preserves parable epistemology: mystery, hearing, seeing, measure, hidden growth, and trust tested by the storm."
   ],
   "next_actions":[
-    "Continue Mark 3-4: Sabbath healing, appointment of the twelve, Beelzebul controversy, family redefinition, sower/parables, lamp/measure, seed growth, mustard seed, storm calming.",
-    "Add glossary entries or reuse shared Greek glossary hooks: euangelion, metanoia, basileia, euthys, pneuma, daimonion, huios tou anthropou, parabole, pistis, aphiemi, sozo."
+    "Continue Mark 5-8: Gerasene release, hemorrhaging woman, Jairus' daughter, Nazareth rejection, sending the Twelve, John/Herod, feedings, sea-walking, purity debate, Syrophoenician woman, deaf man, Peter confession, first passion prediction.",
+    "Add glossary entries or reuse shared Greek glossary hooks: euangelion, metanoia, basileia, euthys, pneuma, daimonion, huios tou anthropou, parabole, pistis, aphiemi, sozo, aion, mysterion, and distazo."
   ]
 }
