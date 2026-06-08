@@ -2,8 +2,13 @@
   "book_id":"luke",
   "book":"Luke",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-2","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/luke/luke-001.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-001-mystical.json","notes":"Prologue, Zechariah/Elizabeth, Gabriel, John announcement, Mary announcement, Mary/Elizabeth, Magnificat, John birth, Zechariah's speech release, Benedictus, Spirit/prophecy/mercy/covenant language."},
+    {"chapter":2,"path":"scripture/luke/luke-002.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-002-mystical.json","notes":"Census, Bethlehem birth, manger, shepherd announcement, angelic peace, circumcision/name, temple presentation, Simeon, Anna, Nazareth return, twelve-year-old Jesus in temple."}
+  ],
   "translation_notes":[
     "Luke's prologue should preserve ordered-account language, eyewitness/servant-of-the-word language, and Theophilus as recipient.",
     "Spirit language in Luke should preserve holy Spirit agency, prophetic filling, and joy without collapsing into later abstractions.",
@@ -12,10 +17,11 @@
     "Metanoia language should be rendered contextually as turning/realignment rather than guilt-heavy repentance.",
     "Sozo should remain saved/healed where rescue and embodied wholeness overlap.",
     "Mystical companion layer remains interpretive and does not replace the source-audited restored text.",
-    "Verse-number alignment must remain intact in both restored and mystical companion files."
+    "Verse-number alignment must remain intact in both restored and mystical companion files.",
+    "Luke 1-2 preserves imperial setting, humble birth, shepherd witness, Mary heart-pondering, Simeon/Anna temple prophecy, and Israel/nations light language."
   ],
   "next_actions":[
-    "Begin Luke 1-2: prologue, John/Jesus birth announcements, Mary/Elizabeth, Magnificat, Benedictus, birth of Jesus, shepherds, temple presentation, Simeon/Anna, twelve-year-old Jesus.",
-    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, and eirene."
+    "Continue Luke 3-4: John in wilderness, baptism of turning, genealogy, wilderness testing, Nazareth manifesto, early healings and releases.",
+    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, eirene, apolytrosis, soteria, and paraklesis."
   ]
 }
