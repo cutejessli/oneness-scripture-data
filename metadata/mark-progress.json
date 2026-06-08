@@ -2,8 +2,13 @@
   "book_id":"mark",
   "book":"Mark",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-2","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/mark/mark-001.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-001-mystical.json","notes":"Opening good message, John, baptism, heavens torn open, Spirit descent, wilderness testing, reign proclamation, first disciples, Capernaum authority, healing and cleansing."},
+    {"chapter":2,"path":"scripture/mark/mark-002.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-002-mystical.json","notes":"Capernaum house, roof opening, release/healing, Son of Humanity authority, Levi call, table fellowship, fasting/bridegroom, new wine, Sabbath grainfields."}
+  ],
   "translation_notes":[
     "Mark's opening euangelion should be rendered as good message/good news with imperial-public-announcement resonance preserved.",
     "Metanoia language should be rendered contextually as turning/realignment rather than guilt-heavy repentance.",
@@ -11,10 +16,11 @@
     "Immediately/euthys is a major Markan pacing signal and should be preserved where readable.",
     "Unclean spirit / daimonion scenes should use careful spirit-language without over-importing later demonology.",
     "Son of Humanity should preserve huios tou anthropou resonance rather than flattening to a distant title only.",
-    "Mystical companion layer remains interpretive and does not replace the source-audited restored text."
+    "Mystical companion layer remains interpretive and does not replace the source-audited restored text.",
+    "Mark 2 preserves aphiemi as release, pistis as trust, and Sabbath as gift for the human rather than human subordination to Sabbath."
   ],
   "next_actions":[
-    "Begin Mark 1-4: opening good message, John, baptism, wilderness testing, first disciples, healings, controversies, seed/parables, storm calming.",
+    "Continue Mark 3-4: Sabbath healing, appointment of the twelve, Beelzebul controversy, family redefinition, sower/parables, lamp/measure, seed growth, mustard seed, storm calming.",
     "Add glossary entries or reuse shared Greek glossary hooks: euangelion, metanoia, basileia, euthys, pneuma, daimonion, huios tou anthropou, parabole, pistis, aphiemi, sozo."
   ]
 }
