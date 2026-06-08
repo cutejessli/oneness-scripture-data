@@ -1,0 +1,63 @@
+﻿{
+  "book": "Genesis",
+  "book_id": "genesis",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At the beginning, the Divine created the heavens and the earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the beginning God created the heaven and the earth."
+      },
+      "notes": [
+        {
+          "title": "Why the Divine?",
+          "body": "The Divine translates Elohim here. Elohim is plural in form, but in this verse it acts with a singular verb. This keeps the vastness of the source word without forcing either the gods or the inherited masculine image of God."
+        }
+      ],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": ["creation", "divine-name", "beginning"]
+    },
+    {
+      "verse": 2,
+      "restored": "The earth was formless and empty, and darkness was over the face of the deep. And the breath-wind of the Divine was hovering over the face of the waters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+      },
+      "notes": [
+        {
+          "title": "Formless and empty",
+          "body": "The phrase points to unshaped, unordered reality. It does not mean evil. It is the raw field before form."
+        },
+        {
+          "title": "Breath-wind",
+          "body": "Breath-wind translates ruach, a word that can mean breath, wind, or spirit. This keeps the image embodied and moving instead of abstract."
+        }
+      ],
+      "terms": [
+        {
+          "display": "breath-wind",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach"
+        },
+        {
+          "display": "the deep",
+          "source": "tehom",
+          "language": "Hebrew",
+          "glossary_id": "tehom"
+        }
+      ],
+      "tags": ["creation", "breath", "darkness", "waters"]
+    }
+  ]
+}
