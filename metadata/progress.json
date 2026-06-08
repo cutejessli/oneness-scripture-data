@@ -1,0 +1,37 @@
+{
+  "project": "Oneness Scripture Data",
+  "current_focus": "Genesis pilot",
+  "status_meanings": {
+    "restored-draft": "Readable restored translation exists, but source-audit metadata is incomplete.",
+    "source-audited-draft": "Verse-by-verse source-language review has been applied for major wording, grammar, context, and interpretive choices. Final scholarly review may still refine details.",
+    "source-critical": "Textual variants and manuscript witnesses have also been reviewed where relevant."
+  },
+  "chapters": [
+    {
+      "book_id": "genesis",
+      "chapter": 1,
+      "path": "scripture/genesis/genesis-001.json",
+      "status": "restored-draft",
+      "notes": "Complete 31-verse restored translation exists with familiar KJV comparison, notes, terms, and tags. Needs embedded audit_status field and source-language cleanup pass."
+    },
+    {
+      "book_id": "genesis",
+      "chapter": 2,
+      "path": "scripture/genesis/genesis-002.json",
+      "status": "source-audited-draft",
+      "notes": "Added with source-aware review of YHWH Elohim, adam/adamah, nephesh chayyah, ezer kenegdo, tsela, ish/ishshah, avad/shamar, and shame/body language."
+    },
+    {
+      "book_id": "genesis",
+      "chapter": 3,
+      "path": "scripture/genesis/genesis-003.json",
+      "status": "source-audited-draft",
+      "notes": "Added with source-aware review of nachash, arum/arom wordplay, elohim ambiguity, tov/ra, ayeka, arar, teshuqah/mashal, mortality, and guarded tree-of-life language."
+    }
+  ],
+  "next_actions": [
+    "Embed audit_status into Genesis 1 and re-audit translation choices for verses 1-31.",
+    "Add glossary files for recurring terms introduced in Genesis 1-3.",
+    "Continue with Genesis 4 after Genesis 1 cleanup."
+  ]
+}
