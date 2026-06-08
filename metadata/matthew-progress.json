@@ -3,13 +3,17 @@
   "book":"Matthew",
   "current_status":"in-progress",
   "completed_ranges":[
-    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+    {"range":"1-4","status":"source-audited-draft + mystical companion"},
+    {"range":"5-7","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/matthew/matthew-001.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-001-mystical.json","notes":"Genealogy and birth narrative; genesis/birth language, David/Abraham framing, named women, Joseph/Mary, holy Spirit, Yeshua/save wordplay, Emmanuel/God-with-us."},
     {"chapter":2,"path":"scripture/matthew/matthew-002.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-002-mystical.json","notes":"Magi, Herod, star, Bethlehem/Micah, Egypt flight, Rachel lament, return to Nazareth, dream guidance and empire violence."},
     {"chapter":3,"path":"scripture/matthew/matthew-003.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-003-mystical.json","notes":"John the Baptist; metanoeite as turn/realign, reign of heavens, Jordan baptism, fruit worthy of realignment, Spirit/fire, Jesus baptism and beloved Son voice."},
-    {"chapter":4,"path":"scripture/matthew/matthew-004.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-004-mystical.json","notes":"Wilderness testing, adversarial/testing language, scripture replies, realms/glory temptation, Galilee light citation, first disciples, teaching/proclamation/healing summary."}
+    {"chapter":4,"path":"scripture/matthew/matthew-004.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-004-mystical.json","notes":"Wilderness testing, adversarial/testing language, scripture replies, realms/glory temptation, Galilee light citation, first disciples, teaching/proclamation/healing summary."},
+    {"chapter":5,"path":"scripture/matthew/matthew-005.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-005-mystical.json","notes":"Sermon opening; makarioi as blessed/flourishing, righteousness/justice, Torah fulfillment, Gehenna preserved, reconciliation, desire/coveting, oaths, nonretaliation, enemy-love, teleios as complete/whole."},
+    {"chapter":6,"path":"scripture/matthew/matthew-006.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-006-mystical.json","notes":"Mercy-giving, secret prayer, Lord's Prayer, debts/release, fasting, treasures, eye/lamp, Mammon, worry, birds/lilies, seeking divine reign and righteousness/justice."},
+    {"chapter":7,"path":"scripture/matthew/matthew-007.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-007-mystical.json","notes":"Judging, measure, speck/beam, ask-seek-knock, golden rule, narrow gate, false prophets, fruit discernment, Lord/Lord warning, rock/sand houses, authority."}
   ],
   "translation_notes":[
     "Greek metanoeite/metanoia should be rendered contextually as turn/realign/change consciousness rather than flattened to guilt-heavy repent.",
@@ -18,10 +22,11 @@
     "Aiōn language should be rendered age/era where context supports it, not world by default.",
     "Dikaiosyne should be translated by context as justice/righteousness/right-relatedness rather than only moral legal status.",
     "Jesus' teaching layer should preserve Jewish apocalyptic, wisdom, and Torah context while keeping mystical companion interpretation separate.",
-    "Matthew 4 adversarial language is rendered contextually as tester/adversarial one/adversary according to the scene, with Greek source hooks retained under the terms layer."
+    "Matthew 4 adversarial language is rendered contextually as tester/adversarial one/adversary according to the scene, with Greek source hooks retained under the terms layer.",
+    "Matthew 5-7 preserves Sermon on the Mount as Jewish wisdom/Torah fulfillment teaching rather than anti-Torah replacement. Gehenna remains Gehenna, teleios is rendered complete/whole, and the Father's reign is practical earth-facing alignment."
   ],
   "next_actions":[
-    "Continue Matthew 5-7: Sermon on the Mount, makarioi/blessed, Torah fulfillment, Gehenna, enemy-love, prayer, anxiety, judging, narrow gate, fruit, rock/sand.",
-    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, euangelion, peirazo, diabolos, satanas, and hamartia."
+    "Continue Matthew 8-14: healings, authority, discipleship, mission discourse, parables, John/Herod, feeding, walking on sea.",
+    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, euangelion, peirazo, diabolos, satanas, hamartia, teleios, mammon, epiousios, and anomia."
   ]
 }
