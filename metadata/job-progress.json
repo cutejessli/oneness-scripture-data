@@ -3,23 +3,31 @@
   "book": "Job",
   "current_status": "in-progress",
   "completed_ranges": [
-    {"range":"1-5","status":"source-audited-draft + mystical companion"}
+    {"range":"1-5","status":"source-audited-draft + mystical companion"},
+    {"range":"6-10","status":"source-audited-draft + mystical companion"}
   ],
   "chapters": [
     {"chapter":1,"path":"scripture/job/job-001.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-001-mystical.json","notes":"Job introduced as whole/upright; divine court; ha-satan rendered the Accuser; first loss cycle; Job does not charge the Divine with folly."},
     {"chapter":2,"path":"scripture/job/job-002.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-002-mystical.json","notes":"Second divine court; bodily affliction; skin-for-skin; Job's spouse; friends arrive and sit in seven-day silence."},
     {"chapter":3,"path":"scripture/job/job-003.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-003-mystical.json","notes":"Job's opening lament; curse of birth-day; Leviathan imagery; death/rest language; why-questions."},
     {"chapter":4,"path":"scripture/job/job-004.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-004-mystical.json","notes":"Eliphaz begins; retribution logic; secret night vision; mortal impurity argument. Marked as Eliphaz's counsel, not final theology."},
-    {"chapter":5,"path":"scripture/job/job-005.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-005-mystical.json","notes":"Eliphaz continues; discipline, rescue, reversal, and restoration promises. Preserved as friend-speech, not endorsed as final answer."}
+    {"chapter":5,"path":"scripture/job/job-005.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-005-mystical.json","notes":"Eliphaz continues; discipline, rescue, reversal, and restoration promises. Preserved as friend-speech, not endorsed as final answer."},
+    {"chapter":6,"path":"scripture/job/job-006.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-006-mystical.json","notes":"Job replies to Eliphaz; grief weighed honestly; arrows of Shaddai; failed friendship as dry wadis; despair speech defended."},
+    {"chapter":7,"path":"scripture/job/job-007.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-007-mystical.json","notes":"Job laments human hard service, sleeplessness, breath-like life, divine surveillance, Sea/Monster imagery, and plea for relief."},
+    {"chapter":8,"path":"scripture/job/job-008.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-008-mystical.json","notes":"Bildad's first speech; retribution theology, appeal to ancestors, papyrus/reed metaphor, restoration promise. Marked as Bildad's speech, not final theology."},
+    {"chapter":9,"path":"scripture/job/job-009.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-009-mystical.json","notes":"Job answers Bildad; impossibility of litigating with God, cosmic power, innocence under overwhelming force, longing for mediator."},
+    {"chapter":10,"path":"scripture/job/job-010.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-010-mystical.json","notes":"Job directly complains to God; creation/body imagery, hidden divine purpose, why-questioning, and plea for a little brightness before death-shadow."}
   ],
   "translation_notes": [
     "ha-satan is rendered as the Accuser in Job 1-2, preserving the Hebrew article/function rather than importing later devil theology.",
     "Friend speeches are tagged as counsel/speech and should not be treated as the book's final theological endorsement.",
-    "Job's lament language is preserved as honest grief rather than corrected or softened."
+    "Job's lament language is preserved as honest grief rather than corrected or softened.",
+    "Job's despair language is handled as grief-speech and should not be flattened into moral failure.",
+    "Retribution claims by Eliphaz and Bildad are preserved as their speeches, while the broader book later challenges their certainty."
   ],
   "next_actions": [
-    "Continue Job 6-10: Job's first reply and Bildad's first speech.",
-    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, and tsalmavet.",
+    "Continue Job 11-14: Zophar's first speech and Job's extended reply on wisdom, mortality, and hope beyond collapse.",
+    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, tsalmavet, chinnam, and mediator/legal imagery.",
     "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust."
   ]
 }
