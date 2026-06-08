@@ -1,48 +1,27 @@
 {
   "project": "Oneness Scripture Data",
-  "current_focus": "Genesis 4-11 batch",
+  "current_focus": "Genesis 12-25 batch next",
   "status_meanings": {
     "restored-draft": "Readable restored translation exists, but source-audit metadata is incomplete.",
     "source-audited-draft": "Verse-by-verse source-language review has been applied for major wording, grammar, context, and interpretive choices. Final scholarly review may still refine details.",
     "source-critical": "Textual variants and manuscript witnesses have also been reviewed where relevant."
   },
   "chapters": [
-    {
-      "book_id": "genesis",
-      "chapter": 1,
-      "path": "scripture/genesis/genesis-001.json",
-      "status": "source-audited-draft",
-      "mystical_path": "scripture/genesis/mystical/genesis-001-mystical.json",
-      "notes": "Embedded audit_status added. Re-audited major Hebrew terms and high-risk translation choices, including bereshit, bara, elohim, tohu/bohu, ruach, raqia, moedim, mashal, adam, tselem/demut, radah, kabash, nephesh chayyah, and tov meod."
-    },
-    {
-      "book_id": "genesis",
-      "chapter": 2,
-      "path": "scripture/genesis/genesis-002.json",
-      "status": "source-audited-draft",
-      "mystical_path": "scripture/genesis/mystical/genesis-002-mystical.json",
-      "notes": "Added with source-aware review of YHWH Elohim, adam/adamah, nephesh chayyah, ezer kenegdo, tsela, ish/ishshah, avad/shamar, and shame/body language."
-    },
-    {
-      "book_id": "genesis",
-      "chapter": 3,
-      "path": "scripture/genesis/genesis-003.json",
-      "status": "source-audited-draft",
-      "mystical_path": "scripture/genesis/mystical/genesis-003-mystical.json",
-      "notes": "Added with source-aware review of nachash, arum/arom wordplay, elohim ambiguity, tov/ra, ayeka, arar, teshuqah/mashal, mortality, and guarded tree-of-life language."
-    },
-    {
-      "book_id": "genesis",
-      "chapter": 4,
-      "path": "scripture/genesis/genesis-004.json",
-      "status": "source-audited-draft",
-      "mystical_path": "scripture/genesis/mystical/genesis-004-mystical.json",
-      "notes": "Added with source-aware review of Cain/Abel, qanah, hevel, minchah, chattat crouching at the doorway, teshuqah/mashal echo, blood crying from the ground, Cain's sign, Lamech's vengeance, and Seth/Enosh restoration line."
-    }
+    {"book_id":"genesis","chapter":1,"path":"scripture/genesis/genesis-001.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-001-mystical.json","notes":"Creation; embedded source-audit pass complete."},
+    {"book_id":"genesis","chapter":2,"path":"scripture/genesis/genesis-002.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-002-mystical.json","notes":"Garden, human from ground, breath, ezer kenegdo, body without shame."},
+    {"book_id":"genesis","chapter":3,"path":"scripture/genesis/genesis-003.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-003-mystical.json","notes":"Serpent, shame, consequence, mortality, guarded tree of life."},
+    {"book_id":"genesis","chapter":4,"path":"scripture/genesis/genesis-004.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-004-mystical.json","notes":"Cain/Abel, sin crouching at doorway, blood crying from ground, Cain sign, Lamech, Seth/Enosh."},
+    {"book_id":"genesis","chapter":5,"path":"scripture/genesis/genesis-005.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-005-mystical.json","notes":"Adam-to-Noah genealogy, image/likeness, mortality formula, Enoch walking with God, Noah comfort wordplay."},
+    {"book_id":"genesis","chapter":6,"path":"scripture/genesis/genesis-006.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-006-mystical.json","notes":"Sons of God, Nephilim, corruption, divine grief, Noah righteousness, ark and covenant."},
+    {"book_id":"genesis","chapter":7,"path":"scripture/genesis/genesis-007.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-007-mystical.json","notes":"Ark entry, clean/not-clean animals, flood waters, breath of life, remnant."},
+    {"book_id":"genesis","chapter":8,"path":"scripture/genesis/genesis-008.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-008-mystical.json","notes":"Divine remembering, wind over waters, raven/dove, altar, promise of creation rhythms."},
+    {"book_id":"genesis","chapter":9,"path":"scripture/genesis/genesis-009.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-009-mystical.json","notes":"Post-flood blessing, blood/life boundary, covenant bow, Noah vineyard, Canaan warning."},
+    {"book_id":"genesis","chapter":10,"path":"scripture/genesis/genesis-010.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-010-mystical.json","notes":"Table of Nations, Nimrod, Babel/Shinar setup, languages/lands/families/nations."},
+    {"book_id":"genesis","chapter":11,"path":"scripture/genesis/genesis-011.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-011-mystical.json","notes":"Babel, language confusion, scattering, Shem-to-Abram genealogy, Sarai barrenness, journey toward Canaan."}
   ],
   "next_actions": [
-    "Continue Genesis 4-11 batch with Genesis 5 restored source-audited draft and mystical companion.",
-    "Add glossary files for recurring terms introduced in Genesis 1-4.",
+    "Continue with Genesis 12-25 batch: Abram/Abraham and Sarah cycle.",
+    "Add glossary files for recurring terms introduced in Genesis 1-11.",
     "Later promote chapters to source-critical after textual variant and manuscript witness review."
   ]
 }
