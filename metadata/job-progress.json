@@ -6,7 +6,8 @@
     {"range":"1-5","status":"source-audited-draft + mystical companion"},
     {"range":"6-10","status":"source-audited-draft + mystical companion"},
     {"range":"11-14","status":"source-audited-draft + mystical companion"},
-    {"range":"15-21","status":"source-audited-draft + mystical companion"}
+    {"range":"15-21","status":"source-audited-draft + mystical companion"},
+    {"range":"22-27","status":"source-audited-draft + mystical companion"}
   ],
   "chapters": [
     {"chapter":1,"path":"scripture/job/job-001.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-001-mystical.json","notes":"Job introduced as whole/upright; divine court; ha-satan rendered the Accuser; first loss cycle; Job does not charge the Divine with folly."},
@@ -29,7 +30,13 @@
     {"chapter":18,"path":"scripture/job/job-018.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-018-mystical.json","notes":"Bildad's second speech; trap/net imagery, light extinguished, terrors, uprooted memory, fate of the wicked. Marked as Bildad's speech."},
     {"chapter":19,"path":"scripture/job/job-019.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-019-mystical.json","notes":"Job's social alienation, plea for pity, words inscribed forever, goel/vindicator lives, and warning to friends."},
     {"chapter":20,"path":"scripture/job/job-020.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-020-mystical.json","notes":"Zophar's second speech; short joy of the wicked, swallowed wealth, poison imagery, exposure by heaven/earth, and allotted fate. Marked as Zophar's speech."},
-    {"chapter":21,"path":"scripture/job/job-021.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-021-mystical.json","notes":"Job challenges tidy retribution doctrine by pointing to wicked prosperity, peaceful houses, joyful children, and honored burials; friends' comfort called empty."}
+    {"chapter":21,"path":"scripture/job/job-021.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-021-mystical.json","notes":"Job challenges tidy retribution doctrine by pointing to wicked prosperity, peaceful houses, joyful children, and honored burials; friends' comfort called empty."},
+    {"chapter":22,"path":"scripture/job/job-022.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-022-mystical.json","notes":"Eliphaz's third speech; specific unproven accusations against Job, call to return to Shaddai, and restoration promise. Marked as Eliphaz's speech."},
+    {"chapter":23,"path":"scripture/job/job-023.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-023-mystical.json","notes":"Job longs to find God's seat, arrange his case, and be heard; hiddenness in every direction; tested like gold; dread before Shaddai."},
+    {"chapter":24,"path":"scripture/job/job-024.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-024-mystical.json","notes":"Job challenges delayed justice: boundary theft, exploitation of poor/widows/orphans, hidden violence, divine delay, and unstable wicked prosperity."},
+    {"chapter":25,"path":"scripture/job/job-025.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-025-mystical.json","notes":"Bildad's final brief speech; dominion/dread, heavenly order, human impurity claim. Marked as Bildad's speech."},
+    {"chapter":26,"path":"scripture/job/job-026.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-026-mystical.json","notes":"Job answers with sarcasm and cosmic poetry: Sheol/Abaddon exposed, earth over nothing, sea/Rahab/serpent imagery, whisper of divine power."},
+    {"chapter":27,"path":"scripture/job/job-027.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-027-mystical.json","notes":"Job swears by the living Divine, refuses false speech, holds his integrity, and distinguishes his claim from godless insecurity."}
   ],
   "translation_notes": [
     "ha-satan is rendered as the Accuser in Job 1-2, preserving the Hebrew article/function rather than importing later devil theology.",
@@ -39,10 +46,12 @@
     "Retribution claims by Eliphaz, Bildad, and Zophar are preserved as their speeches, while the broader book challenges their certainty.",
     "Job's tree-hope and Sheol-waiting language in chapter 14 is preserved as longing/questioning rather than forced into later resurrection doctrine.",
     "Job 19 goel language is rendered vindicator/redeemer, preserving legal-family rescue resonance without forcing later doctrinal readings.",
-    "Job 21 explicitly challenges the friends' claim that wickedness always leads to visible immediate collapse."
+    "Job 21 explicitly challenges the friends' claim that wickedness always leads to visible immediate collapse.",
+    "Job 22's accusations are marked as Eliphaz's claims rather than established facts in the narrative.",
+    "Job 27 preserves the tension: Job refuses the friends' accusations while still affirming that godlessness has no final security."
   ],
   "next_actions": [
-    "Continue Job 22-27: third speech cycle and Job's continuing integrity claim.",
+    "Continue Job 28-31: wisdom poem and Job's final oath/defense before Elihu appears.",
     "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, tsalmavet, mediator/legal imagery, goel, and tree-hope/Sheol-waiting language.",
     "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust."
   ]
