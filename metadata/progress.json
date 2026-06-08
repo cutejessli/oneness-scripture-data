@@ -1,11 +1,15 @@
 {
   "project": "Oneness Scripture Data",
-  "current_focus": "Genesis 12-25 batch next",
+  "current_focus": "Genesis 26-36 batch next",
   "status_meanings": {
     "restored-draft": "Readable restored translation exists, but source-audit metadata is incomplete.",
     "source-audited-draft": "Verse-by-verse source-language review has been applied for major wording, grammar, context, and interpretive choices. Final scholarly review may still refine details.",
     "source-critical": "Textual variants and manuscript witnesses have also been reviewed where relevant."
   },
+  "completed_ranges": [
+    {"book_id":"genesis","range":"1-11","status":"source-audited-draft + mystical companion"},
+    {"book_id":"genesis","range":"12-25","status":"source-audited-draft + mystical companion"}
+  ],
   "chapters": [
     {"book_id":"genesis","chapter":1,"path":"scripture/genesis/genesis-001.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-001-mystical.json","notes":"Creation; embedded source-audit pass complete."},
     {"book_id":"genesis","chapter":2,"path":"scripture/genesis/genesis-002.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-002-mystical.json","notes":"Garden, human from ground, breath, ezer kenegdo, body without shame."},
@@ -17,11 +21,25 @@
     {"book_id":"genesis","chapter":8,"path":"scripture/genesis/genesis-008.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-008-mystical.json","notes":"Divine remembering, wind over waters, raven/dove, altar, promise of creation rhythms."},
     {"book_id":"genesis","chapter":9,"path":"scripture/genesis/genesis-009.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-009-mystical.json","notes":"Post-flood blessing, blood/life boundary, covenant bow, Noah vineyard, Canaan warning."},
     {"book_id":"genesis","chapter":10,"path":"scripture/genesis/genesis-010.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-010-mystical.json","notes":"Table of Nations, Nimrod, Babel/Shinar setup, languages/lands/families/nations."},
-    {"book_id":"genesis","chapter":11,"path":"scripture/genesis/genesis-011.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-011-mystical.json","notes":"Babel, language confusion, scattering, Shem-to-Abram genealogy, Sarai barrenness, journey toward Canaan."}
+    {"book_id":"genesis","chapter":11,"path":"scripture/genesis/genesis-011.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-011-mystical.json","notes":"Babel, language confusion, scattering, Shem-to-Abram genealogy, Sarai barrenness, journey toward Canaan."},
+    {"book_id":"genesis","chapter":12,"path":"scripture/genesis/genesis-012.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-012-mystical.json","notes":"Abram call, blessing, Sarai in Egypt, sister-wife danger, plague/intervention."},
+    {"book_id":"genesis","chapter":13,"path":"scripture/genesis/genesis-013.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-013-mystical.json","notes":"Abram/Lot separation, lifted eyes, land promise, Mamre altar."},
+    {"book_id":"genesis","chapter":14,"path":"scripture/genesis/genesis-014.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-014-mystical.json","notes":"Kings war, Lot rescue, Abram the Hebrew, Melchizedek, El Elyon, refusal of Sodom wealth."},
+    {"book_id":"genesis","chapter":15,"path":"scripture/genesis/genesis-015.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-015-mystical.json","notes":"Vision, trust reckoned righteousness, covenant cutting, exile prophecy, fire theophany."},
+    {"book_id":"genesis","chapter":16,"path":"scripture/genesis/genesis-016.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-016-mystical.json","notes":"Sarai/Hagar/Abram, affliction, Ishmael naming, El Roi, Beer-lahai-roi."},
+    {"book_id":"genesis","chapter":17,"path":"scripture/genesis/genesis-017.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-017-mystical.json","notes":"El Shaddai, Abraham/Sarah renaming, circumcision covenant, Isaac/Ishmael blessings."},
+    {"book_id":"genesis","chapter":18,"path":"scripture/genesis/genesis-018.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-018-mystical.json","notes":"Mamre visitors, Sarah laughter, too wonderful, Sodom outcry, Abraham intercession."},
+    {"book_id":"genesis","chapter":19,"path":"scripture/genesis/genesis-019.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-019-mystical.json","notes":"Sodom mob violence, Lot rescue, destruction, Lot's wife, Moab/Ammon origin."},
+    {"book_id":"genesis","chapter":20,"path":"scripture/genesis/genesis-020.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-020-mystical.json","notes":"Abimelech/Sarah, dream warning, integrity, Abraham prophet/intercessor, womb healing."},
+    {"book_id":"genesis","chapter":21,"path":"scripture/genesis/genesis-021.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-021-mystical.json","notes":"Isaac birth/laughter, Hagar and Ishmael wilderness rescue, God hears, Beersheba covenant."},
+    {"book_id":"genesis","chapter":22,"path":"scripture/genesis/genesis-022.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-022-mystical.json","notes":"Akedah, test, hineni, YHWH-yireh, ram provision, blessing oath, Rebekah setup."},
+    {"book_id":"genesis","chapter":23,"path":"scripture/genesis/genesis-023.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-023-mystical.json","notes":"Sarah death, Machpelah purchase, Abraham as sojourner, first secured landholding."},
+    {"book_id":"genesis","chapter":24,"path":"scripture/genesis/genesis-024.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-024-mystical.json","notes":"Rebekah betrothal, servant oath, chesed/emet, consent to go, Isaac comforted."},
+    {"book_id":"genesis","chapter":25,"path":"scripture/genesis/genesis-025.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-025-mystical.json","notes":"Abraham death, Ishmael line, Isaac/Rebekah twins, Jacob/Esau, birthright sale."}
   ],
   "next_actions": [
-    "Continue with Genesis 12-25 batch: Abram/Abraham and Sarah cycle.",
-    "Add glossary files for recurring terms introduced in Genesis 1-11.",
+    "Continue with Genesis 26-36 batch: Isaac, Jacob, Esau, Leah/Rachel, Dinah, and Edom line.",
+    "Add glossary files for recurring terms introduced in Genesis 1-25.",
     "Later promote chapters to source-critical after textual variant and manuscript witness review."
   ]
 }
