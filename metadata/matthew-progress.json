@@ -4,7 +4,8 @@
   "current_status":"in-progress",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
-    {"range":"5-7","status":"source-audited-draft + mystical companion"}
+    {"range":"5-7","status":"source-audited-draft + mystical companion"},
+    {"range":"8-14","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/matthew/matthew-001.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-001-mystical.json","notes":"Genealogy and birth narrative; genesis/birth language, David/Abraham framing, named women, Joseph/Mary, holy Spirit, Yeshua/save wordplay, Emmanuel/God-with-us."},
@@ -13,7 +14,14 @@
     {"chapter":4,"path":"scripture/matthew/matthew-004.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-004-mystical.json","notes":"Wilderness testing, adversarial/testing language, scripture replies, realms/glory temptation, Galilee light citation, first disciples, teaching/proclamation/healing summary."},
     {"chapter":5,"path":"scripture/matthew/matthew-005.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-005-mystical.json","notes":"Sermon opening; makarioi as blessed/flourishing, righteousness/justice, Torah fulfillment, Gehenna preserved, reconciliation, desire/coveting, oaths, nonretaliation, enemy-love, teleios as complete/whole."},
     {"chapter":6,"path":"scripture/matthew/matthew-006.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-006-mystical.json","notes":"Mercy-giving, secret prayer, Lord's Prayer, debts/release, fasting, treasures, eye/lamp, Mammon, worry, birds/lilies, seeking divine reign and righteousness/justice."},
-    {"chapter":7,"path":"scripture/matthew/matthew-007.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-007-mystical.json","notes":"Judging, measure, speck/beam, ask-seek-knock, golden rule, narrow gate, false prophets, fruit discernment, Lord/Lord warning, rock/sand houses, authority."}
+    {"chapter":7,"path":"scripture/matthew/matthew-007.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-007-mystical.json","notes":"Judging, measure, speck/beam, ask-seek-knock, golden rule, narrow gate, false prophets, fruit discernment, Lord/Lord warning, rock/sand houses, authority."},
+    {"chapter":8,"path":"scripture/matthew/matthew-008.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-008-mystical.json","notes":"Cleansing and healings, centurion trust, authority under authority, Isaiah carried-weakness citation, discipleship cost, storm calming, Gadarene deliverance scene with careful spirit-language."},
+    {"chapter":9,"path":"scripture/matthew/matthew-009.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-009-mystical.json","notes":"Forgiveness/release and healing, Matthew call, table fellowship, mercy not sacrifice, bridegroom/new wine, hemorrhaging woman, raised girl, blind/mute healings, compassion and harvest."},
+    {"chapter":10,"path":"scripture/matthew/matthew-010.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-010-mystical.json","notes":"Mission discourse; twelve sent, freely received/freely give, hospitality, sheep among wolves, Spirit speech, endurance, fear not, Gehenna, sparrows, cross, psyche as life/soul."},
+    {"chapter":11,"path":"scripture/matthew/matthew-011.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-011-mystical.json","notes":"John's question, Jesus' signs, Elijah motif, generation critique, woes to cities, hidden/revealed wisdom, Father/Son knowing, rest/yoke invitation."},
+    {"chapter":12,"path":"scripture/matthew/matthew-012.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-012-mystical.json","notes":"Sabbath mercy, servant citation, Spirit controversy, tree/fruit, sign of Jonah, return of unclean spirit, and family redefined around doing the Father's will."},
+    {"chapter":13,"path":"scripture/matthew/matthew-013.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-013-mystical.json","notes":"Parable discourse; sower, soils, Isaiah hearing, weeds/wheat, mustard seed, leaven, hidden treasure, pearl, net, age-completion, new-old treasure, Nazareth rejection."},
+    {"chapter":14,"path":"scripture/matthew/matthew-014.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-014-mystical.json","notes":"Herod and John, Jesus' withdrawal, compassion, feeding five thousand, prayer mountain, walking on sea, ego eimi/I am, Peter, little trust, Gennesaret healings."}
   ],
   "translation_notes":[
     "Greek metanoeite/metanoia should be rendered contextually as turn/realign/change consciousness rather than flattened to guilt-heavy repent.",
@@ -23,10 +31,12 @@
     "Dikaiosyne should be translated by context as justice/righteousness/right-relatedness rather than only moral legal status.",
     "Jesus' teaching layer should preserve Jewish apocalyptic, wisdom, and Torah context while keeping mystical companion interpretation separate.",
     "Matthew 4 adversarial language is rendered contextually as tester/adversarial one/adversary according to the scene, with Greek source hooks retained under the terms layer.",
-    "Matthew 5-7 preserves Sermon on the Mount as Jewish wisdom/Torah fulfillment teaching rather than anti-Torah replacement. Gehenna remains Gehenna, teleios is rendered complete/whole, and the Father's reign is practical earth-facing alignment."
+    "Matthew 5-7 preserves Sermon on the Mount as Jewish wisdom/Torah fulfillment teaching rather than anti-Torah replacement. Gehenna remains Gehenna, teleios is rendered complete/whole, and the Father's reign is practical earth-facing alignment.",
+    "Matthew 8-14 preserves sozo as saved/healed where the context bridges rescue and embodied healing, psyche as life/soul, aion as age, and ego eimi as I am in the sea-walking scene.",
+    "Spirit/deliverance passages use careful language: unclean spirits / troubling forces / spirit-language, avoiding over-importing later demonology while preserving the narrative function."
   ],
   "next_actions":[
-    "Continue Matthew 8-14: healings, authority, discipleship, mission discourse, parables, John/Herod, feeding, walking on sea.",
-    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, euangelion, peirazo, diabolos, satanas, hamartia, teleios, mammon, epiousios, and anomia."
+    "Continue Matthew 15-21: purity debate, Canaanite woman, feedings, confession, transfiguration, community teaching, forgiveness, rich young man, laborers, Jerusalem entry, temple action, fig tree.",
+    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, euangelion, peirazo, diabolos, satanas, hamartia, teleios, mammon, epiousios, anomia, psyche, sozo, ego eimi, parabole, mysterion, and synteleia-aion."
   ]
 }
