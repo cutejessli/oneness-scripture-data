@@ -1,7 +1,7 @@
 {
   "book_id": "job",
   "book": "Job",
-  "current_status": "in-progress",
+  "current_status": "complete-source-audited-draft-with-mystical-companions",
   "completed_ranges": [
     {"range":"1-5","status":"source-audited-draft + mystical companion"},
     {"range":"6-10","status":"source-audited-draft + mystical companion"},
@@ -9,8 +9,10 @@
     {"range":"15-21","status":"source-audited-draft + mystical companion"},
     {"range":"22-27","status":"source-audited-draft + mystical companion"},
     {"range":"28-31","status":"source-audited-draft + mystical companion"},
-    {"range":"32-37","status":"source-audited-draft + mystical companion"}
+    {"range":"32-37","status":"source-audited-draft + mystical companion"},
+    {"range":"38-42","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary": "Job 1-42 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. The Accuser is preserved for ha-satan; friends and Elihu are marked as speech/counsel rather than final theology; the whirlwind response is marked as the divine answer; Behemoth and Leviathan are preserved as mythic-poetic wild creature imagery.",
   "chapters": [
     {"chapter":1,"path":"scripture/job/job-001.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-001-mystical.json","notes":"Job introduced as whole/upright; divine court; ha-satan rendered the Accuser; first loss cycle; Job does not charge the Divine with folly."},
     {"chapter":2,"path":"scripture/job/job-002.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-002-mystical.json","notes":"Second divine court; bodily affliction; skin-for-skin; Job's spouse; friends arrive and sit in seven-day silence."},
@@ -48,7 +50,12 @@
     {"chapter":34,"path":"scripture/job/job-034.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-034-mystical.json","notes":"Elihu argues divine justice; impartiality toward rulers/rich/poor, divine seeing, hidden face, and critique of Job. Marked as Elihu's speech, not final theology."},
     {"chapter":35,"path":"scripture/job/job-035.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-035-mystical.json","notes":"Elihu on righteousness, benefit/harm, oppression cries, songs in the night, unanswered prayer, and Job's alleged empty speech. Marked as Elihu's speech."},
     {"chapter":36,"path":"scripture/job/job-036.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-036-mystical.json","notes":"Elihu continues: discipline through affliction, warning against wrath, divine greatness over rain/clouds/thunder/light."},
-    {"chapter":37,"path":"scripture/job/job-037.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-037-mystical.json","notes":"Elihu's final storm speech; thunder/voice, snow/rain, sealed human hand, cloud balance, awe before Shaddai; transition into the whirlwind."}
+    {"chapter":37,"path":"scripture/job/job-037.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-037-mystical.json","notes":"Elihu's final storm speech; thunder/voice, snow/rain, sealed human hand, cloud balance, awe before Shaddai; transition into the whirlwind."},
+    {"chapter":38,"path":"scripture/job/job-038.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-038-mystical.json","notes":"First whirlwind response; creation foundations, sea boundaries, dawn, depths, light/darkness, weather storehouses, stars, clouds, lions, ravens."},
+    {"chapter":39,"path":"scripture/job/job-039.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-039-mystical.json","notes":"Whirlwind animal sequence; wild goats, deer, wild donkey, wild ox, ostrich, horse, hawk, eagle; untamed creaturely wisdom beyond human control."},
+    {"chapter":40,"path":"scripture/job/job-040.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-040-mystical.json","notes":"Job's first reply, renewed divine challenge, justice/pride questions, and Behemoth imagery preserved as mythic-poetic wild creature language."},
+    {"chapter":41,"path":"scripture/job/job-041.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-041-mystical.json","notes":"Leviathan speech; untamable sea-creature/chaos imagery, failed capture, armor, flame/smoke poetry, weapon-resistance, king over proud beasts."},
+    {"chapter":42,"path":"scripture/job/job-042.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-042-mystical.json","notes":"Job's final response, hearing-to-seeing shift, retract/relent in dust and ashes, divine correction of friends, Job's intercession, restoration, daughters named/inherit, full-days ending."}
   ],
   "translation_notes": [
     "ha-satan is rendered as the Accuser in Job 1-2, preserving the Hebrew article/function rather than importing later devil theology.",
@@ -63,11 +70,14 @@
     "Job 27 preserves the tension: Job refuses the friends' accusations while still affirming that godlessness has no final security.",
     "Job 28 treats wisdom as hidden from human extraction and commerce; fear of the Lord and turning from evil are preserved as the poem's human-facing answer.",
     "Job 31 preserves Job's oath as a comprehensive ethical defense, including sexual integrity, servant justice, care for vulnerable people, wealth/idolatry refusal, hospitality, and land ethics.",
-    "Job 32-37 marks Elihu's speeches as Elihu's counsel before the whirlwind, not the book's final divine answer. His claims about suffering as instruction are preserved but not over-endorsed."
+    "Job 32-37 marks Elihu's speeches as Elihu's counsel before the whirlwind, not the book's final divine answer. His claims about suffering as instruction are preserved but not over-endorsed.",
+    "Job 38-42 marks the whirlwind as the divine answer. The response does not give a simple cause for Job's suffering; it reframes wisdom, justice, and creaturely reality through creation, wildness, and divine scale.",
+    "Job 42:6 is rendered retract/relent and be comforted upon dust and ashes, preserving ambiguity rather than forcing a simplistic repent-for-sin reading.",
+    "Job 42 explicitly says the friends did not speak rightly of the Divine as Job did, so their retribution theology must not be treated as the book's conclusion."
   ],
   "next_actions": [
-    "Continue Job 38-42: the whirlwind response, Behemoth/Leviathan, Job's response, divine correction of the friends, and restoration ending.",
-    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, Behemoth, musar, tsalmavet, mediator/legal imagery, goel, tree-hope/Sheol-waiting, fear-of-Lord wisdom language, and whirlwind/storm imagery.",
-    "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust."
+    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, Behemoth, musar, tsalmavet, mediator/legal imagery, goel, tree-hope/Sheol-waiting, fear-of-Lord wisdom language, whirlwind/storm imagery, and retract/relent in Job 42:6.",
+    "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust.",
+    "Begin Matthew pilot next according to the initial corpus plan."
   ]
 }
