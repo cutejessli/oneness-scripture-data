@@ -1,0 +1,59 @@
+{
+  "book": "Genesis",
+  "book_id": "genesis",
+  "chapter": 1,
+  "target_file": "scripture/genesis/genesis-001.json",
+  "audit_status": {
+    "status": "source-audit-needed-before-final",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Genesis 1 currently contains a complete restored translation draft. This sidecar records required source-audit checks before the chapter is treated as final."
+  },
+  "priority_checks": [
+    {
+      "verses": "1:1",
+      "terms": ["bereshit", "bara", "elohim", "shamayim", "eretz"],
+      "issue": "Confirm whether the primary rendering should be 'At the beginning' or 'In beginning'; confirm 'the Divine' for singular-function Elohim; review whether 'heavens and earth' should remain as totality formula."
+    },
+    {
+      "verses": "1:2",
+      "terms": ["tohu", "bohu", "choshekh", "tehom", "ruach elohim", "merachefet"],
+      "issue": "Confirm 'formless and empty', 'the deep', and 'breath-wind of the Divine'; review hovering/brooding motion without over-feminizing beyond source grammar."
+    },
+    {
+      "verses": "1:3-5",
+      "terms": ["or", "tov", "badal", "qara", "yom", "laylah"],
+      "issue": "Preserve that light is called good while darkness is not called evil; review 'one day' vs 'first day'."
+    },
+    {
+      "verses": "1:6-8",
+      "terms": ["raqia", "badal", "mayim", "shamayim"],
+      "issue": "Review whether 'vastness' or 'expanse' is the best main rendering for raqia; keep note that firmament is traditional but potentially misleading."
+    },
+    {
+      "verses": "1:9-13",
+      "terms": ["eretz", "yabbashah", "yamim", "deshe", "esev", "zera", "min"],
+      "issue": "Check earth/land/dry-ground distinctions and make sure seed/kind language is rendered consistently."
+    },
+    {
+      "verses": "1:14-19",
+      "terms": ["meorot", "otot", "moedim", "mashal", "kokhavim"],
+      "issue": "Review 'appointed times' for moedim and 'govern' vs 'rule' for mashal; note sun/moon unnamed in source."
+    },
+    {
+      "verses": "1:20-25",
+      "terms": ["sherets", "nephesh chayyah", "oph", "tanninim", "remes", "behemah", "chayyat haaretz"],
+      "issue": "Review creature categories and avoid over-modern animal classifications; confirm 'living beings' and 'great sea-creatures'."
+    },
+    {
+      "verses": "1:26-28",
+      "terms": ["adam", "tselem", "demut", "radah", "kabash", "zakar", "neqevah"],
+      "issue": "Re-audit 'human' for adam, 'stewardship' for radah, and 'tend it' for kabash. These are interpretive restorations and must be clearly marked as such."
+    },
+    {
+      "verses": "1:29-31",
+      "terms": ["zera", "peri", "okhlah", "nephesh chayyah", "tov meod"],
+      "issue": "Confirm plant-food language and 'very good' as central theological anchor before shame/fall readings."
+    }
+  ],
+  "required_update": "Next pass should embed audit_status into genesis-001.json and adjust any translation choices after the checks above."
+}
