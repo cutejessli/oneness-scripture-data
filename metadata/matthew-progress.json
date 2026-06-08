@@ -2,18 +2,26 @@
   "book_id":"matthew",
   "book":"Matthew",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/matthew/matthew-001.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-001-mystical.json","notes":"Genealogy and birth narrative; genesis/birth language, David/Abraham framing, named women, Joseph/Mary, holy Spirit, Yeshua/save wordplay, Emmanuel/God-with-us."},
+    {"chapter":2,"path":"scripture/matthew/matthew-002.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-002-mystical.json","notes":"Magi, Herod, star, Bethlehem/Micah, Egypt flight, Rachel lament, return to Nazareth, dream guidance and empire violence."},
+    {"chapter":3,"path":"scripture/matthew/matthew-003.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-003-mystical.json","notes":"John the Baptist; metanoeite as turn/realign, reign of heavens, Jordan baptism, fruit worthy of realignment, Spirit/fire, Jesus baptism and beloved Son voice."},
+    {"chapter":4,"path":"scripture/matthew/matthew-004.json","status":"source-audited-draft","mystical_path":"scripture/matthew/mystical/matthew-004-mystical.json","notes":"Wilderness testing, adversarial/testing language, scripture replies, realms/glory temptation, Galilee light citation, first disciples, teaching/proclamation/healing summary."}
+  ],
   "translation_notes":[
     "Greek metanoeite/metanoia should be rendered contextually as turn/realign/change consciousness rather than flattened to guilt-heavy repent.",
     "Basileia ton ouranon should be handled as reign/realm of the heavens, not merely a distant place called heaven.",
     "Gehenna should remain Gehenna with notes, not flattened into generic hell.",
     "Aiōn language should be rendered age/era where context supports it, not world by default.",
     "Dikaiosyne should be translated by context as justice/righteousness/right-relatedness rather than only moral legal status.",
-    "Jesus' teaching layer should preserve Jewish apocalyptic, wisdom, and Torah context while keeping mystical companion interpretation separate."
+    "Jesus' teaching layer should preserve Jewish apocalyptic, wisdom, and Torah context while keeping mystical companion interpretation separate.",
+    "Matthew 4 adversarial language is rendered contextually as tester/adversarial one/adversary according to the scene, with Greek source hooks retained under the terms layer."
   ],
   "next_actions":[
-    "Begin Matthew 1-7: genealogy, birth narrative, John, temptation, beginning of teaching, Sermon on the Mount.",
-    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, and euangelion."
+    "Continue Matthew 5-7: Sermon on the Mount, makarioi/blessed, Torah fulfillment, Gehenna, enemy-love, prayer, anxiety, judging, narrow gate, fruit, rock/sand.",
+    "Add glossary entries for metanoia, basileia, ouranoi, Gehenna, aiōn, dikaiosyne, makarioi, pneuma, logos, euangelion, peirazo, diabolos, satanas, and hamartia."
   ]
 }
