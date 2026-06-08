@@ -11,8 +11,8 @@
       "book_id": "genesis",
       "chapter": 1,
       "path": "scripture/genesis/genesis-001.json",
-      "status": "restored-draft",
-      "notes": "Complete 31-verse restored translation exists with familiar KJV comparison, notes, terms, and tags. Needs embedded audit_status field and source-language cleanup pass."
+      "status": "source-audited-draft",
+      "notes": "Embedded audit_status added. Re-audited major Hebrew terms and high-risk translation choices, including bereshit, bara, elohim, tohu/bohu, ruach, raqia, moedim, mashal, adam, tselem/demut, radah, kabash, nephesh chayyah, and tov meod."
     },
     {
       "book_id": "genesis",
@@ -30,8 +30,8 @@
     }
   ],
   "next_actions": [
-    "Embed audit_status into Genesis 1 and re-audit translation choices for verses 1-31.",
     "Add glossary files for recurring terms introduced in Genesis 1-3.",
-    "Continue with Genesis 4 after Genesis 1 cleanup."
+    "Continue with Genesis 4 in source-audited-draft format.",
+    "Later promote chapters to source-critical after textual variant and manuscript witness review."
   ]
 }
