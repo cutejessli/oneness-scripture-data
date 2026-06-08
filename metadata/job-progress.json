@@ -5,7 +5,8 @@
   "completed_ranges": [
     {"range":"1-5","status":"source-audited-draft + mystical companion"},
     {"range":"6-10","status":"source-audited-draft + mystical companion"},
-    {"range":"11-14","status":"source-audited-draft + mystical companion"}
+    {"range":"11-14","status":"source-audited-draft + mystical companion"},
+    {"range":"15-21","status":"source-audited-draft + mystical companion"}
   ],
   "chapters": [
     {"chapter":1,"path":"scripture/job/job-001.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-001-mystical.json","notes":"Job introduced as whole/upright; divine court; ha-satan rendered the Accuser; first loss cycle; Job does not charge the Divine with folly."},
@@ -21,7 +22,14 @@
     {"chapter":11,"path":"scripture/job/job-011.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-011-mystical.json","notes":"Zophar's first speech; many-words rebuke, claim Job receives less than guilt deserves, unreachable wisdom, repentance/restoration formula. Marked as Zophar's speech, not final theology."},
     {"chapter":12,"path":"scripture/job/job-012.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-012-mystical.json","notes":"Job replies with sarcasm toward friends' assumed wisdom; animals/earth/fish as witnesses; divine sovereignty over breath, nations, rulers, counselors."},
     {"chapter":13,"path":"scripture/job/job-013.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-013-mystical.json","notes":"Job rebukes friends as false healers and demands to argue his case before God; asks for charges to be disclosed and terror removed."},
-    {"chapter":14,"path":"scripture/job/job-014.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-014-mystical.json","notes":"Job meditates on human mortality, flower/shadow imagery, tree hope, Sheol concealment, longing for renewal, and erosion of mortal hope."}
+    {"chapter":14,"path":"scripture/job/job-014.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-014-mystical.json","notes":"Job meditates on human mortality, flower/shadow imagery, tree hope, Sheol concealment, longing for renewal, and erosion of mortal hope."},
+    {"chapter":15,"path":"scripture/job/job-015.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-015-mystical.json","notes":"Eliphaz's second speech; wind-words accusation, ancient wisdom appeal, human impurity claim, and fate-of-the-wicked imagery. Marked as Eliphaz's speech."},
+    {"chapter":16,"path":"scripture/job/job-016.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-016-mystical.json","notes":"Job calls the friends miserable comforters; describes assault imagery; claims clean prayer; calls for earth not to cover his blood and for a heavenly witness."},
+    {"chapter":17,"path":"scripture/job/job-017.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-017-mystical.json","notes":"Job's spirit broken; pledge/guarantor request; friends lack wisdom; hope descends toward Sheol and dust."},
+    {"chapter":18,"path":"scripture/job/job-018.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-018-mystical.json","notes":"Bildad's second speech; trap/net imagery, light extinguished, terrors, uprooted memory, fate of the wicked. Marked as Bildad's speech."},
+    {"chapter":19,"path":"scripture/job/job-019.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-019-mystical.json","notes":"Job's social alienation, plea for pity, words inscribed forever, goel/vindicator lives, and warning to friends."},
+    {"chapter":20,"path":"scripture/job/job-020.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-020-mystical.json","notes":"Zophar's second speech; short joy of the wicked, swallowed wealth, poison imagery, exposure by heaven/earth, and allotted fate. Marked as Zophar's speech."},
+    {"chapter":21,"path":"scripture/job/job-021.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-021-mystical.json","notes":"Job challenges tidy retribution doctrine by pointing to wicked prosperity, peaceful houses, joyful children, and honored burials; friends' comfort called empty."}
   ],
   "translation_notes": [
     "ha-satan is rendered as the Accuser in Job 1-2, preserving the Hebrew article/function rather than importing later devil theology.",
@@ -29,11 +37,13 @@
     "Job's lament language is preserved as honest grief rather than corrected or softened.",
     "Job's despair language is handled as grief-speech and should not be flattened into moral failure.",
     "Retribution claims by Eliphaz, Bildad, and Zophar are preserved as their speeches, while the broader book challenges their certainty.",
-    "Job's tree-hope and Sheol-waiting language in chapter 14 is preserved as longing/questioning rather than forced into later resurrection doctrine."
+    "Job's tree-hope and Sheol-waiting language in chapter 14 is preserved as longing/questioning rather than forced into later resurrection doctrine.",
+    "Job 19 goel language is rendered vindicator/redeemer, preserving legal-family rescue resonance without forcing later doctrinal readings.",
+    "Job 21 explicitly challenges the friends' claim that wickedness always leads to visible immediate collapse."
   ],
   "next_actions": [
-    "Continue Job 15-21: second speech cycle begins with Eliphaz, Job, Bildad, Job, Zophar, Job.",
-    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, tsalmavet, mediator/legal imagery, and tree-hope/Sheol-waiting language.",
+    "Continue Job 22-27: third speech cycle and Job's continuing integrity claim.",
+    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, tsalmavet, mediator/legal imagery, goel, and tree-hope/Sheol-waiting language.",
     "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust."
   ]
 }
