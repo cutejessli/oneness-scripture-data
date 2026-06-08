@@ -1,13 +1,15 @@
 {
   "book_id":"mark",
   "book":"Mark",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-2","status":"source-audited-draft + mystical companion"},
     {"range":"3-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
-    {"range":"9-12","status":"source-audited-draft + mystical companion"}
+    {"range":"9-12","status":"source-audited-draft + mystical companion"},
+    {"range":"13-16","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"Mark 1-16 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. The primary restored ending is Mark 16:8, with the shorter and longer endings noted as later textual traditions rather than erased or treated as primary.",
   "chapters":[
     {"chapter":1,"path":"scripture/mark/mark-001.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-001-mystical.json","notes":"Opening good message, John, baptism, heavens torn open, Spirit descent, wilderness testing, reign proclamation, first disciples, Capernaum authority, healing and cleansing."},
     {"chapter":2,"path":"scripture/mark/mark-002.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-002-mystical.json","notes":"Capernaum house, roof opening, release/healing, Son of Humanity authority, Levi call, table fellowship, fasting/bridegroom, new wine, Sabbath grainfields."},
@@ -20,7 +22,11 @@
     {"chapter":9,"path":"scripture/mark/mark-009.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-009-mystical.json","notes":"Transfiguration, Elijah/John pattern, difficult healing, I trust/help my untrust, second passion prediction, child/greatness, outsider in the name, little ones, Gehenna, salt/fire sayings."},
     {"chapter":10,"path":"scripture/mark/mark-010.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-010-mystical.json","notes":"Divorce debate, children, rich man, camel/needle, coming age and age-long life, third passion prediction, servant greatness, ransom language, Bartimaeus following on the way."},
     {"chapter":11,"path":"scripture/mark/mark-011.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-011-mystical.json","notes":"Jerusalem entry, colt, Hosanna, fig tree/temple frame, house of prayer for all nations, cave of robbers, trust/prayer/release, authority dispute."},
-    {"chapter":12,"path":"scripture/mark/mark-012.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-012-mystical.json","notes":"Vineyard tenants, rejected cornerstone, Caesar/image, resurrection dispute, Shema/greatest command, David/Lord question, scribes warning, poor widow's whole living."}
+    {"chapter":12,"path":"scripture/mark/mark-012.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-012-mystical.json","notes":"Vineyard tenants, rejected cornerstone, Caesar/image, resurrection dispute, Shema/greatest command, David/Lord question, scribes warning, poor widow's whole living."},
+    {"chapter":13,"path":"scripture/mark/mark-013.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-013-mystical.json","notes":"Olivet discourse; temple prediction, birth-pains, persecution, desolation warning, cosmic signs, Son of Humanity, fig tree discernment, unknown hour, watchfulness."},
+    {"chapter":14,"path":"scripture/mark/mark-014.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-014-mystical.json","notes":"Passion plot, Bethany anointing, Judas, Passover meal, covenant blood, Gethsemane, arrest, young man fleeing, trial, Son of Humanity saying, Peter denial."},
+    {"chapter":15,"path":"scripture/mark/mark-015.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-015-mystical.json","notes":"Pilate, Barabbas, crowd dynamics, mocking, crucifixion, Psalm lament, death, veil tearing, centurion confession, women witnesses, Joseph burial."},
+    {"chapter":16,"path":"scripture/mark/mark-016.json","status":"source-audited-draft","mystical_path":"scripture/mark/mystical/mark-016-mystical.json","notes":"Women at tomb, rolled stone, young man in white, empty tomb, Galilee message, fear/silence at 16:8, shorter/longer endings noted as later textual traditions."}
   ],
   "translation_notes":[
     "Mark's opening euangelion should be rendered as good message/good news with imperial-public-announcement resonance preserved.",
@@ -34,10 +40,11 @@
     "Mark 3 preserves the Spirit controversy as mislabeling Spirit-work, not a generalized fear framework; family is redefined around doing the Divine will.",
     "Mark 4 preserves parable epistemology: mystery, hearing, seeing, measure, hidden growth, and trust tested by the storm.",
     "Mark 5-8 preserves Mark's layered sight/understanding arc: restoration from fragmentation, daughter/trust language, loaves as heart-understanding, purity as heart-output, Gentile table mercy, Ephphatha/opening, Peter's confession, and the adversarial function appearing as human resistance to the cross path.",
-    "Mark 9-12 preserves the discipleship road: transfiguration, trust/untrust, servant-lastness, child-reception, Gehenna as warning imagery, wealth critique, ransom/service, Bartimaeus sight, fig tree/temple fruit frame, Caesar/image, resurrection as transformed life, Shema and neighbor-love."
+    "Mark 9-12 preserves the discipleship road: transfiguration, trust/untrust, servant-lastness, child-reception, Gehenna as warning imagery, wealth critique, ransom/service, Bartimaeus sight, fig tree/temple fruit frame, Caesar/image, resurrection as transformed life, Shema and neighbor-love.",
+    "Mark 13-16 preserves apocalyptic watchfulness, Passion verse alignment, women as witnesses, Psalm lament, veil tearing, centurion confession, and Mark's primary ending at 16:8 with later endings noted textually."
   ],
   "next_actions":[
-    "Continue Mark 13-16: Olivet discourse, anointing, Passover meal, Gethsemane, arrest, trial, crucifixion, burial, empty tomb, shorter/longer ending notes.",
-    "Add glossary entries or reuse shared Greek glossary hooks: euangelion, metanoia, basileia, euthys, pneuma, daimonion, huios tou anthropou, parabole, pistis, aphiemi, sozo, aion, mysterion, distazo, ego eimi, ephphatha, talitha-koum, psyche, koinos, Gehenna, lytron, bios, and Shema."
+    "Add glossary entries or reuse shared Greek glossary hooks: euangelion, metanoia, basileia, euthys, pneuma, daimonion, huios tou anthropou, parabole, pistis, aphiemi, sozo, aion, mysterion, distazo, ego eimi, ephphatha, talitha-koum, psyche, koinos, Gehenna, lytron, bios, Shema, parousia, Abba, and Mark 16 ending traditions.",
+    "Begin next corpus book according to project plan."
   ]
 }
