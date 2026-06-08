@@ -1,6 +1,6 @@
 {
   "project": "Oneness Scripture Data",
-  "current_focus": "Genesis 37-50 batch next",
+  "current_focus": "Job pilot next",
   "status_meanings": {
     "restored-draft": "Readable restored translation exists, but source-audit metadata is incomplete.",
     "source-audited-draft": "Verse-by-verse source-language review has been applied for major wording, grammar, context, and interpretive choices. Final scholarly review may still refine details.",
@@ -9,7 +9,11 @@
   "completed_ranges": [
     {"book_id":"genesis","range":"1-11","status":"source-audited-draft + mystical companion"},
     {"book_id":"genesis","range":"12-25","status":"source-audited-draft + mystical companion"},
-    {"book_id":"genesis","range":"26-36","status":"source-audited-draft + mystical companion"}
+    {"book_id":"genesis","range":"26-36","status":"source-audited-draft + mystical companion"},
+    {"book_id":"genesis","range":"37-50","status":"source-audited-draft + mystical companion"}
+  ],
+  "books": [
+    {"book_id":"genesis","chapters":"1-50","status":"complete-source-audited-draft-with-mystical-companions","notes":"Genesis has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Later pass should normalize glossary coverage, schema validation, and source-critical variant notes."}
   ],
   "chapters": [
     {"book_id":"genesis","chapter":1,"path":"scripture/genesis/genesis-001.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-001-mystical.json","notes":"Creation; embedded source-audit pass complete."},
@@ -47,11 +51,26 @@
     {"book_id":"genesis","chapter":33,"path":"scripture/genesis/genesis-033.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-033-mystical.json","notes":"Jacob/Esau reconciliation, face of Divine, gift/blessing, Succoth, Shechem altar."},
     {"book_id":"genesis","chapter":34,"path":"scripture/genesis/genesis-034.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-034-mystical.json","notes":"Dinah, Shechem/Hamor negotiation, brothers' deceit, circumcision condition, Simeon/Levi retaliation, plunder."},
     {"book_id":"genesis","chapter":35,"path":"scripture/genesis/genesis-035.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-035-mystical.json","notes":"Bethel return, household purification, Israel name reaffirmed, Rachel death, Benjamin, Isaac death."},
-    {"book_id":"genesis","chapter":36,"path":"scripture/genesis/genesis-036.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-036-mystical.json","notes":"Esau/Edom genealogy, Seir, Horites, Edomite chiefs and kings before Israelite monarchy."}
+    {"book_id":"genesis","chapter":36,"path":"scripture/genesis/genesis-036.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-036-mystical.json","notes":"Esau/Edom genealogy, Seir, Horites, Edomite chiefs and kings before Israelite monarchy."},
+    {"book_id":"genesis","chapter":37,"path":"scripture/genesis/genesis-037.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-037-mystical.json","notes":"Joseph favored tunic, dreams, brothers' hatred, pit, sale to Egypt, Jacob mourning."},
+    {"book_id":"genesis","chapter":38,"path":"scripture/genesis/genesis-038.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-038-mystical.json","notes":"Judah and Tamar, levirate duty, pledge/recognition, Judah's confession, Perez/Zerah."},
+    {"book_id":"genesis","chapter":39,"path":"scripture/genesis/genesis-039.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-039-mystical.json","notes":"Joseph in Potiphar's house, refusal, false accusation, prison, Eternal with Joseph."},
+    {"book_id":"genesis","chapter":40,"path":"scripture/genesis/genesis-040.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-040-mystical.json","notes":"Cupbearer and baker dreams, Joseph interpretations, restoration/judgment, forgotten Joseph."},
+    {"book_id":"genesis","chapter":41,"path":"scripture/genesis/genesis-041.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-041-mystical.json","notes":"Pharaoh dreams, Joseph interprets, seven years abundance/famine, Joseph elevated over Egypt."},
+    {"book_id":"genesis","chapter":42,"path":"scripture/genesis/genesis-042.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-042-mystical.json","notes":"Brothers go to Egypt, Joseph recognizes them, spy test, Simeon held, Benjamin required."},
+    {"book_id":"genesis","chapter":43,"path":"scripture/genesis/genesis-043.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-043-mystical.json","notes":"Judah surety, Benjamin brought, Joseph's house meal, Simeon released, Benjamin favored."},
+    {"book_id":"genesis","chapter":44,"path":"scripture/genesis/genesis-044.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-044-mystical.json","notes":"Silver cup test, Benjamin accused, Judah intercedes and offers himself instead."},
+    {"book_id":"genesis","chapter":45,"path":"scripture/genesis/genesis-045.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-045-mystical.json","notes":"Joseph reveals himself, divine sending/providence, reconciliation, Jacob revived."},
+    {"book_id":"genesis","chapter":46,"path":"scripture/genesis/genesis-046.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-046-mystical.json","notes":"Israel descends to Egypt, Beer-sheba vision, seventy persons, Joseph/Jacob reunion."},
+    {"book_id":"genesis","chapter":47,"path":"scripture/genesis/genesis-047.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-047-mystical.json","notes":"Goshen settlement, Jacob blesses Pharaoh, famine administration, burial oath."},
+    {"book_id":"genesis","chapter":48,"path":"scripture/genesis/genesis-048.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-048-mystical.json","notes":"Ephraim and Manasseh adopted/blessed, crossed hands, younger-before-older, return promise."},
+    {"book_id":"genesis","chapter":49,"path":"scripture/genesis/genesis-049.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-049-mystical.json","notes":"Jacob's final sayings over sons, Judah royal imagery, Joseph blessing, burial command."},
+    {"book_id":"genesis","chapter":50,"path":"scripture/genesis/genesis-050.json","status":"source-audited-draft","mystical_path":"scripture/genesis/mystical/genesis-050-mystical.json","notes":"Jacob burial, brothers fear, Joseph forgiveness/providence, Joseph death and bones oath."}
   ],
   "next_actions": [
-    "Continue with Genesis 37-50 batch: Joseph cycle and completion of Genesis.",
-    "Add glossary files for recurring terms introduced in Genesis 1-36.",
-    "Later promote chapters to source-critical after textual variant and manuscript witness review."
+    "Begin Job pilot: source-audited draft plus mystical companion, with special attention to ha-satan/the Accuser, suffering, divine justice, and counsel language.",
+    "Add glossary files for recurring terms introduced in Genesis 1-50.",
+    "Add schema validation for compact and full chapter JSON variants.",
+    "Later promote Genesis chapters to source-critical after textual variant and manuscript witness review."
   ]
 }
