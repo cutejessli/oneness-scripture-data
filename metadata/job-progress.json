@@ -1,0 +1,25 @@
+{
+  "book_id": "job",
+  "book": "Job",
+  "current_status": "in-progress",
+  "completed_ranges": [
+    {"range":"1-5","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters": [
+    {"chapter":1,"path":"scripture/job/job-001.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-001-mystical.json","notes":"Job introduced as whole/upright; divine court; ha-satan rendered the Accuser; first loss cycle; Job does not charge the Divine with folly."},
+    {"chapter":2,"path":"scripture/job/job-002.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-002-mystical.json","notes":"Second divine court; bodily affliction; skin-for-skin; Job's spouse; friends arrive and sit in seven-day silence."},
+    {"chapter":3,"path":"scripture/job/job-003.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-003-mystical.json","notes":"Job's opening lament; curse of birth-day; Leviathan imagery; death/rest language; why-questions."},
+    {"chapter":4,"path":"scripture/job/job-004.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-004-mystical.json","notes":"Eliphaz begins; retribution logic; secret night vision; mortal impurity argument. Marked as Eliphaz's counsel, not final theology."},
+    {"chapter":5,"path":"scripture/job/job-005.json","status":"source-audited-draft","mystical_path":"scripture/job/mystical/job-005-mystical.json","notes":"Eliphaz continues; discipline, rescue, reversal, and restoration promises. Preserved as friend-speech, not endorsed as final answer."}
+  ],
+  "translation_notes": [
+    "ha-satan is rendered as the Accuser in Job 1-2, preserving the Hebrew article/function rather than importing later devil theology.",
+    "Friend speeches are tagged as counsel/speech and should not be treated as the book's final theological endorsement.",
+    "Job's lament language is preserved as honest grief rather than corrected or softened."
+  ],
+  "next_actions": [
+    "Continue Job 6-10: Job's first reply and Bildad's first speech.",
+    "Add glossary entries for ha-satan, chinnam, tam/tummah, Shaddai, Leviathan, musar, and tsalmavet.",
+    "Later connect Job terms to Genesis glossary where overlap exists: ruach, ra, tov, shamar, barakh, chesed, sheol, dust."
+  ]
+}
