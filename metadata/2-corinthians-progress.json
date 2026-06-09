@@ -1,11 +1,13 @@
 {
   "book_id":"2-corinthians",
   "book":"2 Corinthians",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
-    {"range":"5-8","status":"source-audited-draft + mystical companion"}
+    {"range":"5-8","status":"source-audited-draft + mystical companion"},
+    {"range":"9-13","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"2 Corinthians 1-13 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. The book preserves Paul's wounded, comfort-bearing, reconciliatory, and weakness-centered pastoral voice: pressure becomes comfort, correction returns to love, hearts are widened, reconciliation becomes ministry, generosity becomes grace/equality, and Divine power is completed in weakness.",
   "chapters":[
     {"chapter":1,"path":"scripture/2-corinthians/2-corinthians-001.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-001-mystical.json","notes":"Opening, God of all comfort/encouragement, pressure and consolation, death sentence in Asia, prayer help, sincerity, changed travel plans, Yes in Messiah, Spirit seal/pledge, coworkers of joy not lording over trust."},
     {"chapter":2,"path":"scripture/2-corinthians/2-corinthians-002.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-002-mystical.json","notes":"Painful visit/letter, many tears, grief and love, forgiveness/restoration of offender, adversarial advantage through unforgiveness, Troas, Titus absence, fragrance/aroma of Messiah, sincerity not peddling the word."},
@@ -14,7 +16,12 @@
     {"chapter":5,"path":"scripture/2-corinthians/2-corinthians-005.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-005-mystical.json","notes":"Earthly tent and heavenly dwelling, mortal swallowed by life, Spirit pledge, walking by trust not sight, judgment seat, love of Messiah holding together, no longer knowing according to flesh, new creation, reconciliation ministry, ambassadors."},
     {"chapter":6,"path":"scripture/2-corinthians/2-corinthians-006.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-006-mystical.json","notes":"Do not receive grace into emptiness, now as day of salvation/healing, servant hardships and paradoxes, widened heart, unequal yoke as participation discernment, temple of living Divine, sons and daughters promise."},
     {"chapter":7,"path":"scripture/2-corinthians/2-corinthians-007.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-007-mystical.json","notes":"Cleansing holiness, make room for us, Macedonia pressure, Titus comfort, painful letter, grief according to Divine producing turning/salvation without regret, earnestness, repair, refreshed spirit."},
-    {"chapter":8,"path":"scripture/2-corinthians/2-corinthians-008.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-008-mystical.json","notes":"Macedonia generosity under pressure and poverty, giving as grace and participation, Messiah rich becoming poor, eagerness completed in action, equality, abundance meeting lack, honorable administration through Titus and siblings."}
+    {"chapter":8,"path":"scripture/2-corinthians/2-corinthians-008.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-008-mystical.json","notes":"Macedonia generosity under pressure and poverty, giving as grace and participation, Messiah rich becoming poor, eagerness completed in action, equality, abundance meeting lack, honorable administration through Titus and siblings."},
+    {"chapter":9,"path":"scripture/2-corinthians/2-corinthians-009.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-009-mystical.json","notes":"Cheerful giving, blessing not compulsion, sowing/reaping, all grace abounding into sufficiency, fruits of righteousness/justice, service filling lack, thanksgiving, indescribable gift."},
+    {"chapter":10,"path":"scripture/2-corinthians/2-corinthians-010.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-010-mystical.json","notes":"Meekness/gentleness of Messiah, warfare not according to flesh, strongholds as arguments/pride/thought-patterns, authority for building up not tearing down, boundaries, boasting in Lord."},
+    {"chapter":11,"path":"scripture/2-corinthians/2-corinthians-011.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-011-mystical.json","notes":"Divine jealousy, serpent craftiness, different Jesus/spirit/good news warning, false apostles, adversarial one as messenger of light, foolish boasting, hardship catalog, concern for assemblies, boasting in weakness."},
+    {"chapter":12,"path":"scripture/2-corinthians/2-corinthians-012.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-012-mystical.json","notes":"Third heaven/paradise, unspeakable words, thorn in flesh preserved as ambiguous, grace sufficient, power completed in weakness, apostolic signs, not seeking possessions but people, spend and be spent, fears of disorder."},
+    {"chapter":13,"path":"scripture/2-corinthians/2-corinthians-013.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-013-mystical.json","notes":"Third visit warning, test yourselves, Messiah crucified from weakness but lives by Divine power, truth, restoration/completion, authority for building up not tearing down, final grace/love/Spirit-fellowship blessing."}
   ],
   "translation_notes":[
     "2 Corinthians should preserve Paul's tender, wounded, reconciliatory, and sometimes sharp pastoral voice without flattening it into abstraction.",
@@ -27,10 +34,11 @@
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
     "2 Corinthians 1-4 establishes the comfort-and-vulnerability opening: pressure becomes transmissible comfort, correction must return to love, the community is a Spirit-written letter, freedom comes with unveiled face, and treasure shines in clay vessels.",
-    "2 Corinthians 5-8 develops reconciliation and embodied hope: mortal swallowed by life, new creation, ministry of reconciliation, widened hearts under pressure, restorative grief, and generosity as grace/equality rather than coercion."
+    "2 Corinthians 5-8 develops reconciliation and embodied hope: mortal swallowed by life, new creation, ministry of reconciliation, widened hearts under pressure, restorative grief, and generosity as grace/equality rather than coercion.",
+    "2 Corinthians 9-13 completes the book with cheerful sufficiency, strongholds as thought-patterns rather than people, false-light discernment, weakness-boasting, the ambiguous thorn, power perfected in weakness, and final restoration in grace, Divine love, and Spirit-fellowship."
   ],
   "next_actions":[
-    "Continue 2 Corinthians 9-13: cheerful giving, sufficiency, meekness/gentleness of Messiah, spiritual warfare imagery, false apostles, weakness boasting, thorn, power perfected in weakness, final testing and blessing.",
-    "Add glossary entries or reuse hooks: paraklesis, thlipsis, astheneia, dynamis, charis, doxa, pneuma, diakonia, katallage, koinonia, eleutheria, reconciliation, new creation, widened heart, grief according to Divine, generosity/equality, and tent/house body imagery."
+    "Begin next book according to project plan. Suggested next: Galatians, to continue Paul's argument on freedom, promise, Law, Spirit, flesh-pattern, new creation, and neither circumcision nor uncircumcision but faith/trust working through love.",
+    "Add glossary entries or reuse hooks: paraklesis, thlipsis, astheneia, dynamis, charis, doxa, pneuma, diakonia, katallage, koinonia, eleutheria, reconciliation, new creation, widened heart, grief according to Divine, generosity/equality, thorn, power perfected in weakness, and tent/house body imagery."
   ]
 }
