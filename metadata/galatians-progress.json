@@ -2,8 +2,14 @@
   "book_id":"galatians",
   "book":"Galatians",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-3","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/galatians/galatians-001.json","status":"source-audited-draft","mystical_path":"scripture/galatians/mystical/galatians-001-mystical.json","notes":"Urgent opening, rescue from present harmful age, no rival/distorted good news, human approval trap, good news through unveiling/apocalypse of Jesus Messiah, former zeal, Arabia/Damascus/Jerusalem narrative, former pursuer now announces trust."},
+    {"chapter":2,"path":"scripture/galatians/galatians-002.json","status":"source-audited-draft","mystical_path":"scripture/galatians/mystical/galatians-002-mystical.json","notes":"Jerusalem meeting, Titus not compelled to circumcision, false siblings spying freedom, right hand of fellowship, remembering the poor, Cephas confrontation at Antioch, table fellowship, justification/making-right through trust/faithfulness of Messiah, crucified with Messiah."},
+    {"chapter":3,"path":"scripture/galatians/galatians-003.json","status":"source-audited-draft","mystical_path":"scripture/galatians/mystical/galatians-003-mystical.json","notes":"Spirit received by hearing of trust, beginning in Spirit not completed by flesh, Abraham trusted and was counted righteous/just, nations blessed in Abraham, Law/curse and Messiah release, promise before Law, paidagogos/guardian, baptism into Messiah, Judean/Greek enslaved/free male/female one in Messiah."}
+  ],
   "translation_notes":[
     "Galatians should preserve Paul's urgent freedom argument without flattening it into anti-Torah or anti-Jewish contempt.",
     "Pistis should usually be trust/faithfulness; pisteuo trust; dikaiosyne righteousness/justice; dikaioo make righteous/just; charis grace; eleutheria freedom/liberty.",
@@ -13,9 +19,11 @@
     "Circumcision/uncircumcision should be treated as covenant-boundary markers in the argument, not as contempt for Jewish practice.",
     "Agape should be love; Galatians 5:6 trust working through love is a key interpretive anchor.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
-    "Verse-number alignment must remain intact in both restored and mystical companion files."
+    "Verse-number alignment must remain intact in both restored and mystical companion files.",
+    "Galatians 1-3 establishes the opening freedom argument: no rival good news, revelation of Messiah, table-fellowship conflict, trust/faithfulness rather than works of Law, Abraham promise, Spirit received through trust, Law as guardian, and baptismal oneness in Messiah."
   ],
   "next_actions":[
-    "Begin Galatians 1-3: no rival good news, Paul's calling/apocalypse of Jesus Messiah, Jerusalem/Cephas confrontation, justification/making-right by trust, Abraham promise, Law and curse, Spirit received by trust, promise before Law, one in Messiah."
+    "Continue Galatians 4-6: heirs and elemental powers, Abba Spirit, Hagar/Sarah allegory, freedom not slavery, trust working through love, Spirit versus flesh-pattern, fruit of Spirit, burden-bearing, sowing/reaping, new creation.",
+    "Add glossary entries or reuse hooks: pistis, pisteuo, dikaiosyne, dikaioo, charis, eleutheria, nomos, sarx, pneuma, stoicheia, circumcision/uncircumcision, agape, paidagogos, promise, seed, and new creation."
   ]
 }
