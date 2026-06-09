@@ -1,15 +1,17 @@
 {
   "book_id":"acts",
   "book":"Acts",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
     {"range":"9-12","status":"source-audited-draft + mystical companion"},
     {"range":"13-16","status":"source-audited-draft + mystical companion"},
     {"range":"17-20","status":"source-audited-draft + mystical companion"},
-    {"range":"21-24","status":"source-audited-draft + mystical companion"}
+    {"range":"21-24","status":"source-audited-draft + mystical companion"},
+    {"range":"25-28","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"Acts 1-28 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. Acts preserves Luke's second-volume arc: Spirit promise, witness, Jerusalem community, persecution/scattering, Samaria and nations, Saul/Paul, Antioch mission, Jerusalem council, Spirit-directed travel, custody, storm, Malta, and final unhindered Rome witness.",
   "chapters":[
     {"chapter":1,"path":"scripture/acts/acts-001.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-001-mystical.json","notes":"Luke prologue, risen Jesus, Spirit promise, kingdom question, witness from Jerusalem to end of earth, ascension, upper room prayer with women/Mary/brothers, Judas/Scripture, Matthias."},
     {"chapter":2,"path":"scripture/acts/acts-002.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-002-mystical.json","notes":"Pentecost, rushing breath/wind, tongues as heard languages, Spirit poured on all flesh, Peter's Joel/Psalm speech, raised Jesus, turning/realignment, baptism, release, holy Spirit gift, shared community life."},
@@ -34,7 +36,11 @@
     {"chapter":21,"path":"scripture/acts/acts-021.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-021-mystical.json","notes":"Journey to Jerusalem, Tyre warning through Spirit, Philip's four prophesying daughters, Agabus binding prophecy, Paul ready for the name, James/elders, Law-sensitive purification, temple arrest, Roman rescue, Hebrew address setup."},
     {"chapter":22,"path":"scripture/acts/acts-022.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-022-mystical.json","notes":"Paul's Hebrew defense, shared Judean formation, Damascus encounter retold, Ananias as Law-devout witness, baptism/name, temple vision, Stephen accountability, nations commission, crowd reaction, Roman citizenship."},
     {"chapter":23,"path":"scripture/acts/acts-023.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-023-mystical.json","notes":"Sanhedrin conflict, high priest strike, resurrection hope, Pharisee/Sadducee fracture, Lord's night encouragement toward Rome, assassination plot, nephew warning, transfer to Felix."},
-    {"chapter":24,"path":"scripture/acts/acts-024.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-024-mystical.json","notes":"Tertullus accusation, Paul defense before Felix, the Way as service to ancestral Divine, resurrection hope, conscience, absent accusers, Felix delay, Drusilla hearing, justice/self-control/coming judgment, bribe expectation, two-year custody."}
+    {"chapter":24,"path":"scripture/acts/acts-024.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-024-mystical.json","notes":"Tertullus accusation, Paul defense before Felix, the Way as service to ancestral Divine, resurrection hope, conscience, absent accusers, Felix delay, Drusilla hearing, justice/self-control/coming judgment, bribe expectation, two-year custody."},
+    {"chapter":25,"path":"scripture/acts/acts-025.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-025-mystical.json","notes":"Festus, renewed Jerusalem charges, hidden ambush request, Paul denies wrong against Law/temple/Caesar, appeal to Caesar, Agrippa and Bernice, Festus summary of the case."},
+    {"chapter":26,"path":"scripture/acts/acts-026.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-026-mystical.json","notes":"Paul before Agrippa, Pharisee hope, persecution accountability, Damascus commission, open eyes/darkness to light/release/inheritance mission, Festus interruption, Agrippa response."},
+    {"chapter":27,"path":"scripture/acts/acts-027.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-027-mystical.json","notes":"Voyage to Rome, storm, Paul warning, angelic assurance, courage, remain in ship to be saved/healed, bread and thanks before all, shipwreck, all brought safely through."},
+    {"chapter":28,"path":"scripture/acts/acts-028.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-028-mystical.json","notes":"Malta, island kindness, viper, Publius healings, voyage to Rome, siblings meet Paul, Rome lodging, Judean leaders, Isaiah hearing text, final bold and unhindered proclamation of the reign and Lord Jesus Messiah."}
   ],
   "translation_notes":[
     "Acts continues Luke's second volume and should preserve ordered narrative, Spirit agency, witness, prayer, communal life, and expansion from Jerusalem to nations.",
@@ -52,10 +58,11 @@
     "Acts 9-12 preserves Saul's reversal as name-bearing vocation, Ananias/Barnabas as bridge figures, Peter's healing/raising ministry, Gentile inclusion through Cornelius without partiality, Spirit falling before gatekeeping, Antioch's mixed mission, famine service, and Peter's prison release through prayer and messenger intervention.",
     "Acts 13-16 preserves Spirit-sent mission from Antioch, synagogue-first witness, Gentile joy and opposition, living Divine proclamation in pagan context, Jerusalem council discernment, no-distinction grace, minimal table fellowship requirements, Spirit-directed travel, Lydia's opened heart, release from exploited divination, and Philippi prison praise/liberation.",
     "Acts 17-20 preserves city-by-city mission through synagogue, marketplace, philosophical, domestic, and civic spaces; Divine nearness in Athens; Priscilla/Aquila as wisdom teachers; Spirit reception in Ephesus; name-power not as technique; economic backlash to the Way; and Paul's tearful shepherding farewell.",
-    "Acts 21-24 preserves the Jerusalem custody arc: Spirit warnings without coercion, prophesying daughters, Agabus sign-act, Law-sensitive witness, temple rumor, Roman rescue, Paul's accountability and nations commission, resurrection hope as central dispute, Rome-bound encouragement, and Felix's delayed compromised hearing."
+    "Acts 21-24 preserves the Jerusalem custody arc: Spirit warnings without coercion, prophesying daughters, Agabus sign-act, Law-sensitive witness, temple rumor, Roman rescue, Paul's accountability and nations commission, resurrection hope as central dispute, Rome-bound encouragement, and Felix's delayed compromised hearing.",
+    "Acts 25-28 completes the custody-to-Rome arc: Caesar appeal, Agrippa defense, light-to-nations commission, storm and shipwreck, Malta healings, Rome arrival, and final proclamation of the reign of the Divine and Lord Jesus Messiah with all boldness, unhindered."
   ],
   "next_actions":[
-    "Complete Acts 25-28: Festus, appeal to Caesar, Agrippa/Bernice, Paul defense, ship voyage, storm, Malta, Rome arrival, final witness in Rome.",
-    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, diakonia, episkope, ethnē/nations, charis/grace, hodos/Way, and episkopos/overseer."
+    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, diakonia, episkope, ethnē/nations, charis/grace, hodos/Way, and episkopos/overseer.",
+    "Begin next book according to project plan. Suggested next: Romans, to carry the Acts mission into Paul's theological synthesis around trust, justice/righteousness, grace, Spirit, body, and nations."
   ]
 }
