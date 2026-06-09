@@ -1,12 +1,14 @@
 {
   "book_id":"1-corinthians",
   "book":"1 Corinthians",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
-    {"range":"9-12","status":"source-audited-draft + mystical companion"}
+    {"range":"9-12","status":"source-audited-draft + mystical companion"},
+    {"range":"13-16","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"1 Corinthians 1-16 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. The book preserves Paul's pastoral correction of a gifted but fractured assembly: factionalism, wisdom, body holiness, conscience, table fellowship, gifts, love, resurrection, and practical solidarity.",
   "chapters":[
     {"chapter":1,"path":"scripture/1-corinthians/1-corinthians-001.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-001-mystical.json","notes":"Opening, grace-gifts, no lack, divisions, Chloe report, faction names, baptism/name issue, cross as foolishness/power, Divine wisdom overturning status-wisdom, no flesh boasting, Messiah as wisdom/righteousness/sanctification/release."},
     {"chapter":2,"path":"scripture/1-corinthians/1-corinthians-002.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-002-mystical.json","notes":"Paul's weakness/trembling, proclamation not in performance-wisdom, Spirit and power, hidden Divine wisdom, Spirit searching depths of the Divine, natural/soul-level versus spiritual discernment, mind of Messiah."},
@@ -19,7 +21,11 @@
     {"chapter":9,"path":"scripture/1-corinthians/1-corinthians-009.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-009-mystical.json","notes":"Apostolic rights, voluntary non-use of rights, worker support, stewardship, becoming all things to all, self-limitation for saving/healing, race/discipline imagery as service not body-hatred."},
     {"chapter":10,"path":"scripture/1-corinthians/1-corinthians-010.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-010-mystical.json","notes":"Israel wilderness warnings, testing and way out, cup/bread as participation in Messiah, one bread one body, rival tables, liberty governed by building and neighbor-good, all to Divine glory."},
     {"chapter":11,"path":"scripture/1-corinthians/1-corinthians-011.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-011-mystical.json","notes":"Imitation, head/source/order language, women praying and prophesying, mutuality in the Lord, assembly splits, Lord's supper abuse, poor shamed at meal, discerning the body, wait for one another."},
-    {"chapter":12,"path":"scripture/1-corinthians/1-corinthians-012.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-012-mystical.json","notes":"Spiritual things/gifts, one Spirit many gifts, manifestation for benefit, one body many members, Judean/Greek enslaved/free in one Spirit, weaker members necessary, more abundant honor, no split, same care, greater gifts and way beyond measure."}
+    {"chapter":12,"path":"scripture/1-corinthians/1-corinthians-012.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-012-mystical.json","notes":"Spiritual things/gifts, one Spirit many gifts, manifestation for benefit, one body many members, Judean/Greek enslaved/free in one Spirit, weaker members necessary, more abundant honor, no split, same care, greater gifts and way beyond measure."},
+    {"chapter":13,"path":"scripture/1-corinthians/1-corinthians-013.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-013-mystical.json","notes":"Love as the surpassing way, gifts without love as noise/nothing, love's patience/kindness/truth/endurance, partial knowledge and prophecy, mirror/enigma, trust/hope/love with love greatest."},
+    {"chapter":14,"path":"scripture/1-corinthians/1-corinthians-014.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-014-mystical.json","notes":"Prophecy and tongues under love's architecture, intelligibility, building the assembly, spirit and mind in prayer/song, outsiders, order, discernment, women-silence text flagged in tension with women praying/prophesying in chapter 11."},
+    {"chapter":15,"path":"scripture/1-corinthians/1-corinthians-015.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-015-mystical.json","notes":"Good news tradition, resurrection witnesses, grace after persecution, if Messiah not raised, firstfruits, Adam/Messiah, Divine all in all, resurrection body, death swallowed, steadfast labor not empty."},
+    {"chapter":16,"path":"scripture/1-corinthians/1-corinthians-016.json","status":"source-audited-draft","mystical_path":"scripture/1-corinthians/mystical/1-corinthians-016-mystical.json","notes":"Collection for Jerusalem, travel plans, Timothy and Apollos, open door and opposition, watchfulness/courage, all things in love, Stephanas/Fortunatus/Achaicus, Aquila/Prisca house-assembly, Marana tha, grace and love."}
   ],
   "translation_notes":[
     "1 Corinthians should preserve Paul's pastoral correction of a gifted but fractured assembly without flattening it into shame or control.",
@@ -35,10 +41,11 @@
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
     "1 Corinthians 1-4 establishes the opening diagnosis: a gifted assembly fractured by faction, status-wisdom, and spiritual ego. Paul's medicine is the cross as Divine wisdom/power, Spirit-depth perception, God's field/building/temple imagery, no boasting in humans, and trustworthy stewardship of mysteries.",
     "1 Corinthians 5-8 applies body/community medicine: discipline as protection not shame, body-positive holiness, freedom not mastery by appetite, marriage/singleness counsel under present distress, conscience-sensitive love, and knowledge governed by love.",
-    "1 Corinthians 9-12 reframes freedom through self-limiting love, reads Israel's wilderness as pattern-warning, treats communion as real participation, protects women praying/prophesying, rebukes meal inequality, and grounds gifts in one Spirit for one body with special honor to weaker members."
+    "1 Corinthians 9-12 reframes freedom through self-limiting love, reads Israel's wilderness as pattern-warning, treats communion as real participation, protects women praying/prophesying, rebukes meal inequality, and grounds gifts in one Spirit for one body with special honor to weaker members.",
+    "1 Corinthians 13-16 completes the letter by placing love as the surpassing way over all gifts, ordering prophecy/tongues by building and peace, preserving embodied resurrection hope, and grounding final exhortation in practical solidarity, courage, grace, and love."
   ],
   "next_actions":[
-    "Continue 1 Corinthians 13-16: love as the surpassing way, prophecy/tongues/order, resurrection of Messiah and bodies, collection, travel plans, final exhortations and greetings.",
-    "Add glossary entries or reuse hooks: sophia, moria, dynamis, pneuma, psychikos, sarkikos, ekklesia, schisma, charisma, agape, porneia, soma, temple/body, conscience, liberty, communion/participation, kephale head/source, and oikonomia/stewardship."
+    "Begin next book according to project plan. Suggested next: 2 Corinthians, to continue Paul's theology of weakness, comfort, reconciliation, unveiled face, treasure in clay vessels, generosity, and power perfected in weakness.",
+    "Add glossary entries or reuse hooks: sophia, moria, dynamis, pneuma, psychikos, sarkikos, ekklesia, schisma, charisma, agape, porneia, soma, temple/body, conscience, liberty, communion/participation, kephale head/source, resurrection body, and oikonomia/stewardship."
   ]
 }
