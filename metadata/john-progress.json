@@ -2,8 +2,15 @@
   "book_id":"john",
   "book":"John",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/john/john-001.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-001-mystical.json","notes":"Logos prologue, life/light/darkness, John witness, Word embodied and tenting among us, grace/truth, Lamb of God, first disciples, come-and-see/remain motif, Simon/Peter, Philip/Nathanael, Son of Humanity heaven-opened imagery."},
+    {"chapter":2,"path":"scripture/john/john-002.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-002-mystical.json","notes":"Cana wedding sign, water into wine, first sign revealing glory, disciples trust, temple action, Father's house, temple/body saying, sign-trust distinction."},
+    {"chapter":3,"path":"scripture/john/john-003.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-003-mystical.json","notes":"Nicodemus by night, born from above/anew, water and Spirit, Spirit/wind wordplay, lifted Son of Humanity, Divine love for world, saving/healing rather than condemning world, light/judgment, John bridegroom witness, Spirit without measure."},
+    {"chapter":4,"path":"scripture/john/john-004.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-004-mystical.json","notes":"Samaritan woman, living water, truth without shame reading, worship in Spirit and truth, ego eimi self-disclosure, woman as city witness, Samaritan trust, Savior of the world, royal official's son and word-trust."}
+  ],
   "translation_notes":[
     "John should preserve its distinct mystical and theological vocabulary while keeping the restored layer source-language-driven and cautious.",
     "Logos should be rendered as Word, with glossary support for living intelligibility/divine expression in companion layers, not over-expanded in the restored verse text.",
@@ -16,9 +23,11 @@
     "Meno should be rendered remain/abide according to context, preserving relational indwelling.",
     "Parakletos should be treated carefully as Advocate/Helper/Paraclete with glossary support.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
-    "Verse-number alignment must remain intact in both restored and mystical companion files."
+    "Verse-number alignment must remain intact in both restored and mystical companion files.",
+    "John 1-4 establishes the Johannine core: Word, life, light, darkness, world, witness, remain, born from above/anew, Spirit/wind, living water, worship in Spirit and truth, and Savior of the world."
   ],
   "next_actions":[
-    "Begin John 1-4: Logos prologue, John witness, first disciples, Cana, temple body, Nicodemus/born from above, living water and Samaritan woman, worship in Spirit and truth."
+    "Continue John 5-8: pool healing, Sabbath/Father work, life/judgment, witnesses, feeding/sign discourse, bread of life, walking on sea, living water at feast, disputed woman textual tradition if included, light of world, truth/free, before Abraham I am.",
+    "Add glossary entries or reuse shared hooks: logos, zoe, phos, skotia, kosmos, anothen, pneuma, hydor zon, ego eimi, meno, martyria, doxa, charis, aletheia, sarx, skenoo, monogenes, and parakletos."
   ]
 }
