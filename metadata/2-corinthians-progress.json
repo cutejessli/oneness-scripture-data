@@ -2,8 +2,15 @@
   "book_id":"2-corinthians",
   "book":"2 Corinthians",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/2-corinthians/2-corinthians-001.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-001-mystical.json","notes":"Opening, God of all comfort/encouragement, pressure and consolation, death sentence in Asia, prayer help, sincerity, changed travel plans, Yes in Messiah, Spirit seal/pledge, coworkers of joy not lording over trust."},
+    {"chapter":2,"path":"scripture/2-corinthians/2-corinthians-002.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-002-mystical.json","notes":"Painful visit/letter, many tears, grief and love, forgiveness/restoration of offender, adversarial advantage through unforgiveness, Troas, Titus absence, fragrance/aroma of Messiah, sincerity not peddling the word."},
+    {"chapter":3,"path":"scripture/2-corinthians/2-corinthians-003.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-003-mystical.json","notes":"Living letters, tablets of human hearts, new covenant, letter and Spirit, sufficiency from Divine, glory contrast, veil language with anti-Jewish safeguard, Spirit and freedom, unveiled face transformed from glory to glory."},
+    {"chapter":4,"path":"scripture/2-corinthians/2-corinthians-004.json","status":"source-audited-draft","mystical_path":"scripture/2-corinthians/mystical/2-corinthians-004-mystical.json","notes":"Mercy-given ministry, renouncing shame/craftiness, veiled good news, light in hearts through Jesus' face, treasure in clay vessels, pressured not crushed, Jesus' dying/life in the body, outer decay and inner renewal, seen/unseen."}
+  ],
   "translation_notes":[
     "2 Corinthians should preserve Paul's tender, wounded, reconciliatory, and sometimes sharp pastoral voice without flattening it into abstraction.",
     "Paraklesis should be comfort/encouragement/appeal according to context; preserve the repeated comfort language in chapter 1.",
@@ -13,9 +20,11 @@
     "Preserve the embodied imagery: fragrance, tablets of hearts, unveiled face, treasure in clay vessels, mortal body, tent/house imagery.",
     "Do not make Paul anti-Jewish. Handle Moses/veil/new covenant language carefully as transformation in Messiah, not contempt for Israel.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
-    "Verse-number alignment must remain intact in both restored and mystical companion files."
+    "Verse-number alignment must remain intact in both restored and mystical companion files.",
+    "2 Corinthians 1-4 establishes the comfort-and-vulnerability opening: pressure becomes transmissible comfort, correction must return to love, the community is a Spirit-written letter, freedom comes with unveiled face, and treasure shines in clay vessels."
   ],
   "next_actions":[
-    "Begin 2 Corinthians 1-4: God of all comfort, affliction and consolation, sincerity, severe letter/forgiveness, fragrance of Messiah, tablets of hearts, Spirit and freedom, unveiled face, treasure in clay vessels."
+    "Continue 2 Corinthians 5-8: earthly tent/heavenly dwelling, walking by trust not sight, reconciliation ministry, new creation, ambassadors, appeal, yoking warning, open heart, Macedonia generosity, grace of giving.",
+    "Add glossary entries or reuse hooks: paraklesis, thlipsis, astheneia, dynamis, charis, doxa, pneuma, diakonia, katallage, koinonia, eleutheria, unveiled face, treasure in clay vessels, and tent/house body imagery."
   ]
 }
