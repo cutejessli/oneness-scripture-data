@@ -5,7 +5,8 @@
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
-    {"range":"9-12","status":"source-audited-draft + mystical companion"}
+    {"range":"9-12","status":"source-audited-draft + mystical companion"},
+    {"range":"13-16","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/acts/acts-001.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-001-mystical.json","notes":"Luke prologue, risen Jesus, Spirit promise, kingdom question, witness from Jerusalem to end of earth, ascension, upper room prayer with women/Mary/brothers, Judas/Scripture, Matthias."},
@@ -19,7 +20,11 @@
     {"chapter":9,"path":"scripture/acts/acts-009.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-009-mystical.json","notes":"Saul encounter on Damascus road, Ananias as bridge, scales/sight/baptism, Damascus proclamation, basket escape, Barnabas mediation in Jerusalem, assembly peace, Peter heals Aeneas, raises Tabitha/Dorcas, Simon the tanner."},
     {"chapter":10,"path":"scripture/acts/acts-010.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-010-mystical.json","notes":"Cornelius vision, Peter rooftop vision, what the Divine cleansed do not make common, call no human common or unclean, no partiality, Gentile household hears, holy Spirit falls, baptism in Jesus Messiah's name."},
     {"chapter":11,"path":"scripture/acts/acts-011.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-011-mystical.json","notes":"Peter explains Gentile table fellowship in Jerusalem, Spirit says make no distinction, who was I to hinder the Divine, turning into life for nations, Antioch mission, Barnabas seeks Saul, Christian naming, Agabus famine relief."},
-    {"chapter":12,"path":"scripture/acts/acts-012.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-012-mystical.json","notes":"Herod persecution, James killed, Peter imprisoned during Unleavened Bread, earnest assembly prayer, messenger release, Rhoda at Mary's house, Herod's judgment, word grows and multiplies, Barnabas/Saul return with John Mark."}
+    {"chapter":12,"path":"scripture/acts/acts-012.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-012-mystical.json","notes":"Herod persecution, James killed, Peter imprisoned during Unleavened Bread, earnest assembly prayer, messenger release, Rhoda at Mary's house, Herod's judgment, word grows and multiplies, Barnabas/Saul return with John Mark."},
+    {"chapter":13,"path":"scripture/acts/acts-013.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-013-mystical.json","notes":"Antioch prophets/teachers, Spirit sending of Barnabas/Saul, Cyprus, Elymas and Sergius Paulus, Pisidian Antioch synagogue speech, Davidic promise, resurrection, release and justification, Gentile joy, light to nations, opposition."},
+    {"chapter":14,"path":"scripture/acts/acts-014.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-014-mystical.json","notes":"Iconium trust/opposition, Lystra healing, Zeus/Hermes misunderstanding, living Divine speech, Paul stoned and raised, strengthening disciples through pressures, appointing elders, door of trust to nations."},
+    {"chapter":15,"path":"scripture/acts/acts-015.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-015-mystical.json","notes":"Jerusalem council, circumcision dispute, Peter no-distinction speech, James and David's tent, Gentile letter, it seemed good to holy Spirit and us, Judas/Silas encouragement, Paul/Barnabas split."},
+    {"chapter":16,"path":"scripture/acts/acts-016.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-016-mystical.json","notes":"Timothy joins, Jerusalem decrees delivered, Spirit travel direction, Macedonian call, Lydia's opened heart and household, enslaved divination girl released, profit-loss opposition, Philippi prison, midnight prayer/hymns, earthquake, jailer household, Roman-citizen justice."}
   ],
   "translation_notes":[
     "Acts continues Luke's second volume and should preserve ordered narrative, Spirit agency, witness, prayer, communal life, and expansion from Jerusalem to nations.",
@@ -34,10 +39,11 @@
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
     "Acts 1-4 establishes the book's core template: Spirit promise, witness to the earth's edge, Pentecost speech, turning/release, communal sharing, temple healing, name-power, council opposition, boldness prayer, and Spirit-filled witness.",
     "Acts 5-8 preserves the assembly's inner integrity crisis, apostolic opposition, practical justice for widows, Stephen's prophetic witness, Spirit resistance critique, Saul's violent introduction, Samaria's joy, correction of power-for-money distortion, and the Ethiopian eunuch as boundary-crossing Scripture-guided inclusion.",
-    "Acts 9-12 preserves Saul's reversal as name-bearing vocation, Ananias/Barnabas as bridge figures, Peter's healing/raising ministry, Gentile inclusion through Cornelius without partiality, Spirit falling before gatekeeping, Antioch's mixed mission, famine service, and Peter's prison release through prayer and messenger intervention."
+    "Acts 9-12 preserves Saul's reversal as name-bearing vocation, Ananias/Barnabas as bridge figures, Peter's healing/raising ministry, Gentile inclusion through Cornelius without partiality, Spirit falling before gatekeeping, Antioch's mixed mission, famine service, and Peter's prison release through prayer and messenger intervention.",
+    "Acts 13-16 preserves Spirit-sent mission from Antioch, synagogue-first witness, Gentile joy and opposition, living Divine proclamation in pagan context, Jerusalem council discernment, no-distinction grace, minimal table fellowship requirements, Spirit-directed travel, Lydia's opened heart, release from exploited divination, and Philippi prison praise/liberation."
   ],
   "next_actions":[
-    "Continue Acts 13-16: Antioch sending, Cyprus, Sergius Paulus, Elymas, Pisidian Antioch speech, Gentile joy/opposition, Iconium/Lystra/Derbe, Jerusalem council, letter, Paul/Barnabas split, Timothy, Macedonian call, Lydia, Philippi prison." ,
-    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, diakonia, episkope, and restoration of all things."
+    "Continue Acts 17-20: Thessalonica, Berea, Athens/Areopagus, Corinth, Priscilla/Aquila/Apollos, Ephesus, sons of Sceva, riot, Macedonia/Greece, Eutychus, Miletus farewell to Ephesian elders.",
+    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, diakonia, episkope, ethnē/nations, charis/grace, and hodos/Way."
   ]
 }
