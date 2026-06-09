@@ -2,8 +2,15 @@
   "book_id":"acts",
   "book":"Acts",
   "current_status":"in-progress",
-  "completed_ranges":[],
-  "chapters":[],
+  "completed_ranges":[
+    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+  ],
+  "chapters":[
+    {"chapter":1,"path":"scripture/acts/acts-001.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-001-mystical.json","notes":"Luke prologue, risen Jesus, Spirit promise, kingdom question, witness from Jerusalem to end of earth, ascension, upper room prayer with women/Mary/brothers, Judas/Scripture, Matthias."},
+    {"chapter":2,"path":"scripture/acts/acts-002.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-002-mystical.json","notes":"Pentecost, rushing breath/wind, tongues as heard languages, Spirit poured on all flesh, Peter's Joel/Psalm speech, raised Jesus, turning/realignment, baptism, release, holy Spirit gift, shared community life."},
+    {"chapter":3,"path":"scripture/acts/acts-003.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-003-mystical.json","notes":"Temple prayer, Beautiful Gate healing, name of Jesus Messiah, walking/leaping/praising, Peter's Solomon Portico witness, Author of life, complete wholeness, turning and times of restoration."},
+    {"chapter":4,"path":"scripture/acts/acts-004.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-004-mystical.json","notes":"Arrest, council, name and saving/healing witness, rejected stone, no other name, boldness, prayer with Psalm 2, place shaken, Spirit-filled speech, one heart and soul/life, shared possessions, Barnabas."}
+  ],
   "translation_notes":[
     "Acts continues Luke's second volume and should preserve ordered narrative, Spirit agency, witness, prayer, communal life, and expansion from Jerusalem to nations.",
     "Pneuma hagion should usually be holy Spirit, preserving Spirit agency rather than abstraction.",
@@ -14,9 +21,11 @@
     "Name language should preserve power/authority/invocation/resonance around the name of Jesus Messiah.",
     "Keep Jewish temple, synagogue, prayer, festival, Scripture, and apostolic witness context intact; avoid replacement framing.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
-    "Verse-number alignment must remain intact in both restored and mystical companion files."
+    "Verse-number alignment must remain intact in both restored and mystical companion files.",
+    "Acts 1-4 establishes the book's core template: Spirit promise, witness to the earth's edge, Pentecost speech, turning/release, communal sharing, temple healing, name-power, council opposition, boldness prayer, and Spirit-filled witness."
   ],
   "next_actions":[
-    "Begin Acts 1-4: ascension, Spirit promise, Jerusalem witness, Matthias, Pentecost, Peter's speech, communal life, temple healing, Peter's Solomon Portico speech, arrest, council witness, boldness prayer, shared possessions."
+    "Continue Acts 5-8: Ananias/Sapphira, signs, second arrest, Gamaliel, seven appointed, Stephen's witness and death, Saul introduced, Samaria mission, Simon Magus, Ethiopian eunuch.",
+    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, and restoration of all things."
   ]
 }
