@@ -1,12 +1,14 @@
 {
   "book_id":"romans",
   "book":"Romans",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
-    {"range":"9-11","status":"source-audited-draft + mystical companion"}
+    {"range":"9-11","status":"source-audited-draft + mystical companion"},
+    {"range":"12-16","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"Romans 1-16 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. Romans preserves Paul's argument from good news, trust, righteousness/justice, universal accountability, Abrahamic promise, Spirit-life, Israel/nations mercy, embodied love, conscience, reciprocal mission, and living network of coworkers.",
   "chapters":[
     {"chapter":1,"path":"scripture/romans/romans-001.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-001-mystical.json","notes":"Opening, good news promised in Scriptures, Davidic seed and resurrection power, obedience of trust among nations, not ashamed, Divine righteousness/justice unveiled from trust to trust, wrath as unveiling against truth held down, idolatrous exchange, degraded social patterns. Includes safety note against weaponizing Romans 1 against sexual minorities."},
     {"chapter":2,"path":"scripture/romans/romans-002.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-002-mystical.json","notes":"Judging reader trap-door, kindness leading to turning/realignment, impartial judgment, doers of Law, nations showing Law-work in heart, Judean identity and hypocrisy critique, circumcision of heart in Spirit. Includes anti-replacement safety note."},
@@ -18,7 +20,12 @@
     {"chapter":8,"path":"scripture/romans/romans-008.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-008-mystical.json","notes":"No condemnation, Spirit of life, flesh-pattern versus Spirit-pattern, mortal bodies made alive, adoption/Abba, Spirit witness, creation groaning and birth pains, Spirit intercession, purpose/golden chain, no separation from Divine love in Messiah."},
     {"chapter":9,"path":"scripture/romans/romans-009.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-009-mystical.json","notes":"Paul's grief for Israel, Israel's honored gifts, promise/election, mercy, potter imagery, remnant, Hosea inclusion language, nations attaining righteousness/justice from trust, stumbling stone. Includes anti-replacement safety note."},
     {"chapter":10,"path":"scripture/romans/romans-010.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-010-mystical.json","notes":"Paul's prayer for Israel's salvation/healing, zeal and knowledge, Messiah as aim/completion of Law, word near mouth and heart, confession and trust, no distinction, beautiful feet, hearing and announcement."},
-    {"chapter":11,"path":"scripture/romans/romans-011.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-011-mystical.json","notes":"Israel not rejected, Paul as Israelite, remnant of grace, stumbling not final fall, olive tree, nations warned not to boast, gifts and calling irrevocable, mercy on all, doxology. Major anti-replacement anchor."}
+    {"chapter":11,"path":"scripture/romans/romans-011.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-011-mystical.json","notes":"Israel not rejected, Paul as Israelite, remnant of grace, stumbling not final fall, olive tree, nations warned not to boast, gifts and calling irrevocable, mercy on all, doxology. Major anti-replacement anchor."},
+    {"chapter":12,"path":"scripture/romans/romans-012.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-012-mystical.json","notes":"Living sacrifice, transformed mind, sober self-knowledge, one body and many members, gifts, sincere love, hospitality, empathy, blessing pursuers, non-retaliation, conquering harm with good."},
+    {"chapter":13,"path":"scripture/romans/romans-013.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-013-mystical.json","notes":"Governing authorities with caution against absolutizing empire obedience, taxes and honor, love as fulfillment of Law, awakening from sleep, putting on weapons of light and Lord Jesus Messiah."},
+    {"chapter":14,"path":"scripture/romans/romans-014.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-014-mystical.json","notes":"Weak/strong conscience, food and days, no contempt or judging, living/dying to the Lord, not placing stumbling block, nothing common in itself, reign as righteousness/justice, peace, and joy in holy Spirit."},
+    {"chapter":15,"path":"scripture/romans/romans-015.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-015-mystical.json","notes":"Strong bearing not-strong, receive one another, Messiah servant of circumcision confirming promises, nations praising with Israel, Divine of hope, Paul as priestly servant to nations, Jerusalem collection, Spain plans, prayer."},
+    {"chapter":16,"path":"scripture/romans/romans-016.json","status":"source-audited-draft","mystical_path":"scripture/romans/mystical/romans-016-mystical.json","notes":"Phoebe servant/deacon and patron/protector, Prisca/Aquila, Junia notable among apostles, women laborers, house assemblies, warning against divisions, Divine of peace crushing the Accuser, Tertius scribe, final mystery/doxology."}
   ],
   "translation_notes":[
     "Romans should preserve Paul's dense argument without flattening it into later doctrinal slogans.",
@@ -35,10 +42,11 @@
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
     "Romans 1-4 establishes the argument's opening movement: good news as Divine power, righteousness/justice from trust to trust, idolatrous exchange, the judging-reader reversal, impartial judgment, universal accountability, grace apart from boasting, and Abraham as father of trust across circumcision/uncircumcision.",
     "Romans 5-8 establishes the liberation core: peace and grace, hope without shame, love poured through Spirit, Adam/Messiah regime contrast, baptismal death/life participation, embodied justice, Law as holy and sin as parasitic power, no condemnation, Spirit adoption, creation groaning, Spirit intercession, and inseparable love.",
-    "Romans 9-11 preserves Paul's grief and honor for Israel, rejects replacement logic, frames election and mercy as mystery, warns nations-believers not to boast over the root, holds Israel beloved because of the fathers, and culminates in mercy on all and doxology."
+    "Romans 9-11 preserves Paul's grief and honor for Israel, rejects replacement logic, frames election and mercy as mystery, warns nations-believers not to boast over the root, holds Israel beloved because of the fathers, and culminates in mercy on all and doxology.",
+    "Romans 12-16 completes the letter as embodied communal practice: living sacrifice, transformed mind, body gifts, sincere love, authorities bounded by love and light, conscience-sensitive table fellowship, reciprocal nations/Israel mission, Phoebe/Prisca/Junia and the coworker network, and final mystery doxology."
   ],
   "next_actions":[
-    "Continue Romans 12-16: living sacrifice, transformed mind, body gifts, sincere love, governing authorities, love fulfilling Law, weak/strong conscience, nations praise, travel plans, Phoebe, greetings, final doxology.",
-    "Add glossary entries or reuse hooks: pistis, dikaiosyne, dikaioo, charis, hamartia, sarx, pneuma, nomos, ethnē, hilasterion, apolytrosis, logizomai, epangelia, Adam/Messiah, adoption, creation groaning, olive tree/root, mercy on all, and no-separation language."
+    "Add glossary entries or reuse hooks: pistis, dikaiosyne, dikaioo, charis, hamartia, sarx, pneuma, nomos, ethnē, hilasterion, apolytrosis, logizomai, epangelia, Adam/Messiah, adoption, creation groaning, olive tree/root, mercy on all, living sacrifice, transformed mind, conscience, Phoebe, Junia, and no-separation language.",
+    "Begin next book according to project plan. Suggested next: 1 Corinthians, for body/community/Spirit-gifts/love/resurrection continuity after Romans."
   ]
 }
