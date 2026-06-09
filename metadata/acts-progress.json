@@ -3,13 +3,18 @@
   "book":"Acts",
   "current_status":"in-progress",
   "completed_ranges":[
-    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+    {"range":"1-4","status":"source-audited-draft + mystical companion"},
+    {"range":"5-8","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/acts/acts-001.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-001-mystical.json","notes":"Luke prologue, risen Jesus, Spirit promise, kingdom question, witness from Jerusalem to end of earth, ascension, upper room prayer with women/Mary/brothers, Judas/Scripture, Matthias."},
     {"chapter":2,"path":"scripture/acts/acts-002.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-002-mystical.json","notes":"Pentecost, rushing breath/wind, tongues as heard languages, Spirit poured on all flesh, Peter's Joel/Psalm speech, raised Jesus, turning/realignment, baptism, release, holy Spirit gift, shared community life."},
     {"chapter":3,"path":"scripture/acts/acts-003.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-003-mystical.json","notes":"Temple prayer, Beautiful Gate healing, name of Jesus Messiah, walking/leaping/praising, Peter's Solomon Portico witness, Author of life, complete wholeness, turning and times of restoration."},
-    {"chapter":4,"path":"scripture/acts/acts-004.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-004-mystical.json","notes":"Arrest, council, name and saving/healing witness, rejected stone, no other name, boldness, prayer with Psalm 2, place shaken, Spirit-filled speech, one heart and soul/life, shared possessions, Barnabas."}
+    {"chapter":4,"path":"scripture/acts/acts-004.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-004-mystical.json","notes":"Arrest, council, name and saving/healing witness, rejected stone, no other name, boldness, prayer with Psalm 2, place shaken, Spirit-filled speech, one heart and soul/life, shared possessions, Barnabas."},
+    {"chapter":5,"path":"scripture/acts/acts-005.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-005-mystical.json","notes":"Ananias/Sapphira as heart-truth rupture, awe, signs through apostolic hands, healing, public custody, messenger release, temple teaching, council, obey Divine rather than humans, Gamaliel caution, rejoicing under dishonor for the Name."},
+    {"chapter":6,"path":"scripture/acts/acts-006.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-006-mystical.json","notes":"Hellenist/Hebrew widow-service conflict, seven Spirit-and-wisdom-filled servants appointed, Stephen full of grace and power, synagogue dispute, false witnesses, angelic face before council."},
+    {"chapter":7,"path":"scripture/acts/acts-007.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-007-mystical.json","notes":"Stephen's Israel-history witness from Abraham to Joseph to Moses to temple critique, Most High not contained in handmade houses, resistance to holy Spirit, Son of Humanity vision, Stephen's death, Saul introduced."},
+    {"chapter":8,"path":"scripture/acts/acts-008.json","status":"source-audited-draft","mystical_path":"scripture/acts/mystical/acts-008-mystical.json","notes":"Saul persecution and scattering, Philip in Samaria, healing/release and city joy, Simon Magus and heart correction, Peter/John Spirit reception, Ethiopian eunuch, Isaiah guidance, baptism, Spirit-snatching Philip, Caesarea route."}
   ],
   "translation_notes":[
     "Acts continues Luke's second volume and should preserve ordered narrative, Spirit agency, witness, prayer, communal life, and expansion from Jerusalem to nations.",
@@ -22,10 +27,11 @@
     "Keep Jewish temple, synagogue, prayer, festival, Scripture, and apostolic witness context intact; avoid replacement framing.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
-    "Acts 1-4 establishes the book's core template: Spirit promise, witness to the earth's edge, Pentecost speech, turning/release, communal sharing, temple healing, name-power, council opposition, boldness prayer, and Spirit-filled witness."
+    "Acts 1-4 establishes the book's core template: Spirit promise, witness to the earth's edge, Pentecost speech, turning/release, communal sharing, temple healing, name-power, council opposition, boldness prayer, and Spirit-filled witness.",
+    "Acts 5-8 preserves the assembly's inner integrity crisis, apostolic opposition, practical justice for widows, Stephen's prophetic witness, Spirit resistance critique, Saul's violent introduction, Samaria's joy, correction of power-for-money distortion, and the Ethiopian eunuch as boundary-crossing Scripture-guided inclusion."
   ],
   "next_actions":[
-    "Continue Acts 5-8: Ananias/Sapphira, signs, second arrest, Gamaliel, seven appointed, Stephen's witness and death, Saul introduced, Samaria mission, Simon Magus, Ethiopian eunuch.",
-    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, and restoration of all things."
+    "Continue Acts 9-12: Saul encounter and Ananias, Damascus/Jerusalem witness, Peter heals Aeneas, raises Tabitha, Cornelius vision and Spirit falling on Gentiles, Peter's Jerusalem explanation, Antioch, Barnabas/Saul, Agabus, James killed, Peter imprisoned and released.",
+    "Add glossary entries or reuse hooks: pneuma hagion, martys, martyria, dynamis, onoma/name, ekklesia, metanoia, aphesis, sozo, koinonia, parresia/boldness, diakonia, episkope, and restoration of all things."
   ]
 }
