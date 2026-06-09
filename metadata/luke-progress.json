@@ -1,15 +1,17 @@
 {
   "book_id":"luke",
   "book":"Luke",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-2","status":"source-audited-draft + mystical companion"},
     {"range":"3-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
     {"range":"9-12","status":"source-audited-draft + mystical companion"},
     {"range":"13-16","status":"source-audited-draft + mystical companion"},
-    {"range":"17-20","status":"source-audited-draft + mystical companion"}
+    {"range":"17-20","status":"source-audited-draft + mystical companion"},
+    {"range":"21-24","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"Luke 1-24 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. Luke's major themes are preserved: Spirit, mercy, reversal, table fellowship, women witnesses, Jerusalem road, embodied resurrection, and mission to all nations beginning from Jerusalem.",
   "chapters":[
     {"chapter":1,"path":"scripture/luke/luke-001.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-001-mystical.json","notes":"Prologue, Zechariah/Elizabeth, Gabriel, John announcement, Mary announcement, Mary/Elizabeth, Magnificat, John birth, Zechariah's speech release, Benedictus, Spirit/prophecy/mercy/covenant language."},
     {"chapter":2,"path":"scripture/luke/luke-002.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-002-mystical.json","notes":"Census, Bethlehem birth, manger, shepherd announcement, angelic peace, circumcision/name, temple presentation, Simeon, Anna, Nazareth return, twelve-year-old Jesus in temple."},
@@ -30,7 +32,11 @@
     {"chapter":17,"path":"scripture/luke/luke-017.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-017-mystical.json","notes":"Stumbling/release, mustard-seed trust, servant humility, ten lepers, Samaritan gratitude, reign within/among you, days of Son of Humanity, Noah/Lot warnings."},
     {"chapter":18,"path":"scripture/luke/luke-018.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-018-mystical.json","notes":"Persistent widow, Pharisee/tax collector prayer, children, rich ruler, third passion prediction, blind man near Jericho."},
     {"chapter":19,"path":"scripture/luke/luke-019.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-019-mystical.json","notes":"Zacchaeus, today salvation, restitution, son of Abraham, Son of Humanity seeking/saving the lost, minas parable, Jerusalem entry, city lament, temple action."},
-    {"chapter":20,"path":"scripture/luke/luke-020.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-020-mystical.json","notes":"Authority dispute, vineyard tenants, rejected cornerstone, Caesar/image, resurrection dispute, David/Lord question, warning against scribes devouring widows' houses."}
+    {"chapter":20,"path":"scripture/luke/luke-020.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-020-mystical.json","notes":"Authority dispute, vineyard tenants, rejected cornerstone, Caesar/image, resurrection dispute, David/Lord question, warning against scribes devouring widows' houses."},
+    {"chapter":21,"path":"scripture/luke/luke-021.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-021-mystical.json","notes":"Widow offering, temple prediction, apocalyptic discourse, Jerusalem surrounded, Son of Humanity, fig tree discernment, watchfulness."},
+    {"chapter":22,"path":"scripture/luke/luke-022.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-022-mystical.json","notes":"Passion plot, supper, covenant cup, table betrayal, greatness/service dispute, Peter warning, Mount of Olives prayer, arrest, enemy healing, Peter denial, mocking, council."},
+    {"chapter":23,"path":"scripture/luke/luke-023.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-023-mystical.json","notes":"Pilate/Herod trials, Barabbas, daughters of Jerusalem, crucifixion, forgiveness textual variant, criminals, death, centurion, women witnesses, Joseph burial."},
+    {"chapter":24,"path":"scripture/luke/luke-024.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-024-mystical.json","notes":"Empty tomb, women witnesses, Peter, Emmaus, opened Scriptures, recognized in broken bread, resurrection appearance, opened minds, mission to all nations, promise from on high, Bethany blessing/ascension."}
   ],
   "translation_notes":[
     "Luke's prologue should preserve ordered-account language, eyewitness/servant-of-the-word language, and Theophilus as recipient.",
@@ -46,10 +52,11 @@
     "Luke 5-8 preserves Luke's embodied discipleship arc: deep-water trust, table fellowship, Sabbath mercy, level-place reversal ethics, outsider trust, widow restoration, release/love/trust, women supporters, fruitful hearing, storm trust, Gerasene restoration, and daughter language.",
     "Luke 9-12 preserves the Jerusalem road hinge: mission-sending, loaves, confession, transfiguration as exodus/departure, Samaritan non-retaliation, neighbor-as-mercy, Mary/Martha listening, prayer, Spirit gift, inner light, wealth/anxiety warnings, little flock, treasure-heart, and watchful stewardship.",
     "Luke 13-16 preserves anti-victim-blame turning warnings, daughter of Abraham Sabbath release, banquet reversal, cost of discipleship, lost/found joy, father mercy, Mammon critique, and rich/Lazarus reversal as warning to hear Moses and Prophets.",
-    "Luke 17-20 preserves release/turning practice, Samaritan gratitude, entos hymon as within/among you, persistent justice, humble prayer, Zacchaeus' restitution, Jerusalem lament, temple action, Caesar/image, and resurrection as life to the Divine."
+    "Luke 17-20 preserves release/turning practice, Samaritan gratitude, entos hymon as within/among you, persistent justice, humble prayer, Zacchaeus' restitution, Jerusalem lament, temple action, Caesar/image, and resurrection as life to the Divine.",
+    "Luke 21-24 preserves whole-living widow offering, apocalyptic watchfulness, Passion textual variants, enemy-healing at arrest, women as resurrection witnesses, Emmaus recognition in broken bread, embodied resurrection, opened Scriptures/minds, and mission of turning/release to all nations."
   ],
   "next_actions":[
-    "Continue Luke 21-24: widow offering, temple prediction, apocalyptic discourse, Passion plot, supper, Gethsemane/Mount of Olives, arrest, trials, crucifixion, burial, empty tomb, Emmaus, resurrection appearance, ascension.",
-    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, eirene, apolytrosis, soteria, paraklesis, aphiemi, peirazo, euangelizomai, makarios, splagchnizomai, exodos, epiousios, Gehenna, psyche, Mammon, Hades, Abraham's bosom, entos hymon, and Zacchaeus."
+    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, eirene, apolytrosis, soteria, paraklesis, aphiemi, peirazo, euangelizomai, makarios, splagchnizomai, exodos, epiousios, Gehenna, psyche, Mammon, Hades, Abraham's bosom, entos hymon, Zacchaeus, Emmaus, and opened Scriptures.",
+    "Begin next corpus book according to project plan."
   ]
 }
