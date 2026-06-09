@@ -3,13 +3,18 @@
   "book":"John",
   "current_status":"in-progress",
   "completed_ranges":[
-    {"range":"1-4","status":"source-audited-draft + mystical companion"}
+    {"range":"1-4","status":"source-audited-draft + mystical companion"},
+    {"range":"5-8","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/john/john-001.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-001-mystical.json","notes":"Logos prologue, life/light/darkness, John witness, Word embodied and tenting among us, grace/truth, Lamb of God, first disciples, come-and-see/remain motif, Simon/Peter, Philip/Nathanael, Son of Humanity heaven-opened imagery."},
     {"chapter":2,"path":"scripture/john/john-002.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-002-mystical.json","notes":"Cana wedding sign, water into wine, first sign revealing glory, disciples trust, temple action, Father's house, temple/body saying, sign-trust distinction."},
     {"chapter":3,"path":"scripture/john/john-003.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-003-mystical.json","notes":"Nicodemus by night, born from above/anew, water and Spirit, Spirit/wind wordplay, lifted Son of Humanity, Divine love for world, saving/healing rather than condemning world, light/judgment, John bridegroom witness, Spirit without measure."},
-    {"chapter":4,"path":"scripture/john/john-004.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-004-mystical.json","notes":"Samaritan woman, living water, truth without shame reading, worship in Spirit and truth, ego eimi self-disclosure, woman as city witness, Samaritan trust, Savior of the world, royal official's son and word-trust."}
+    {"chapter":4,"path":"scripture/john/john-004.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-004-mystical.json","notes":"Samaritan woman, living water, truth without shame reading, worship in Spirit and truth, ego eimi self-disclosure, woman as city witness, Samaritan trust, Savior of the world, royal official's son and word-trust."},
+    {"chapter":5,"path":"scripture/john/john-005.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-005-mystical.json","notes":"Pool healing with textual variant bracketed, Sabbath controversy, Father/Son work, life/judgment, witnesses, Scripture/Moses testimony."},
+    {"chapter":6,"path":"scripture/john/john-006.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-006-mystical.json","notes":"Feeding sign, walking on sea with ego eimi, bread from heaven discourse, bread of life, hard saying, Spirit/life, Peter confession, Judas handing-over."},
+    {"chapter":7,"path":"scripture/john/john-007.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-007-mystical.json","notes":"Booths feast, hiddenness/time, temple teaching, just judgment, origin dispute, officers, living water at feast, Spirit note, division, Nicodemus, and 7:53 textual transition."},
+    {"chapter":8,"path":"scripture/john/john-008.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-008-mystical.json","notes":"Pericope adulterae bracketed as later textual tradition, light of world, testimony/Father, lifted Son of Humanity, truth/free, ancestry dispute, adversarial father imagery, glory, Abraham, and before Abraham I am."}
   ],
   "translation_notes":[
     "John should preserve its distinct mystical and theological vocabulary while keeping the restored layer source-language-driven and cautious.",
@@ -24,10 +29,11 @@
     "Parakletos should be treated carefully as Advocate/Helper/Paraclete with glossary support.",
     "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
-    "John 1-4 establishes the Johannine core: Word, life, light, darkness, world, witness, remain, born from above/anew, Spirit/wind, living water, worship in Spirit and truth, and Savior of the world."
+    "John 1-4 establishes the Johannine core: Word, life, light, darkness, world, witness, remain, born from above/anew, Spirit/wind, living water, worship in Spirit and truth, and Savior of the world.",
+    "John 5-8 establishes Father/Son work, life/judgment, sign-to-bread discourse, Spirit/life, living water from within, light of world, truth/free, and the major ego eimi climax before Abraham. Later textual traditions at John 5:4 and 7:53-8:11 are bracketed honestly."
   ],
   "next_actions":[
-    "Continue John 5-8: pool healing, Sabbath/Father work, life/judgment, witnesses, feeding/sign discourse, bread of life, walking on sea, living water at feast, disputed woman textual tradition if included, light of world, truth/free, before Abraham I am.",
-    "Add glossary entries or reuse shared hooks: logos, zoe, phos, skotia, kosmos, anothen, pneuma, hydor zon, ego eimi, meno, martyria, doxa, charis, aletheia, sarx, skenoo, monogenes, and parakletos."
+    "Continue John 9-12: man born blind, sight/judgment, good shepherd, one flock, feast of Dedication, Lazarus, Mary anointing, entry into Jerusalem, Greeks seeking Jesus, grain of wheat, lifted up, final public appeal.",
+    "Add glossary entries or reuse shared hooks: logos, zoe, phos, skotia, kosmos, anothen, pneuma, hydor zon, ego eimi, meno, martyria, doxa, charis, aletheia, sarx, skenoo, monogenes, parakletos, artos tes zoes, and huios tou anthropou."
   ]
 }
