@@ -4,13 +4,18 @@
   "current_status":"in-progress",
   "completed_ranges":[
     {"range":"1-2","status":"source-audited-draft + mystical companion"},
-    {"range":"3-4","status":"source-audited-draft + mystical companion"}
+    {"range":"3-4","status":"source-audited-draft + mystical companion"},
+    {"range":"5-8","status":"source-audited-draft + mystical companion"}
   ],
   "chapters":[
     {"chapter":1,"path":"scripture/luke/luke-001.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-001-mystical.json","notes":"Prologue, Zechariah/Elizabeth, Gabriel, John announcement, Mary announcement, Mary/Elizabeth, Magnificat, John birth, Zechariah's speech release, Benedictus, Spirit/prophecy/mercy/covenant language."},
     {"chapter":2,"path":"scripture/luke/luke-002.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-002-mystical.json","notes":"Census, Bethlehem birth, manger, shepherd announcement, angelic peace, circumcision/name, temple presentation, Simeon, Anna, Nazareth return, twelve-year-old Jesus in temple."},
     {"chapter":3,"path":"scripture/luke/luke-003.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-003-mystical.json","notes":"Imperial dating, John in wilderness, baptism of turning/realignment for release, Isaiah way-preparation, fruits worthy of turning, sharing/justice instructions, baptism of Jesus, voice, genealogy back to Adam."},
-    {"chapter":4,"path":"scripture/luke/luke-004.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-004-mystical.json","notes":"Wilderness testing, Spirit-filled return, Nazareth synagogue manifesto from Isaiah, rejected prophet pattern, Capernaum authority, unclean spirit release, Simon's mother-in-law, healing summary, proclamation mission."}
+    {"chapter":4,"path":"scripture/luke/luke-004.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-004-mystical.json","notes":"Wilderness testing, Spirit-filled return, Nazareth synagogue manifesto from Isaiah, rejected prophet pattern, Capernaum authority, unclean spirit release, Simon's mother-in-law, healing summary, proclamation mission."},
+    {"chapter":5,"path":"scripture/luke/luke-005.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-005-mystical.json","notes":"Miraculous catch, calling Simon/James/John, cleansing of skin disease, paralyzed man release/rising, Levi call, table fellowship, fasting, new wine/wineskins."},
+    {"chapter":6,"path":"scripture/luke/luke-006.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-006-mystical.json","notes":"Sabbath grainfields, Sabbath healing, choosing the Twelve, plain sermon blessings/woes, enemy-love, mercy, judging/release, tree/fruit, foundation sayings."},
+    {"chapter":7,"path":"scripture/luke/luke-007.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-007-mystical.json","notes":"Centurion servant, widow's son at Nain, John question, Jesus' witness to John, wisdom/children saying, anointing woman with release/love/trust."},
+    {"chapter":8,"path":"scripture/luke/luke-008.json","status":"source-audited-draft","mystical_path":"scripture/luke/mystical/luke-008-mystical.json","notes":"Women supporters, sower, lamp, family redefinition, storm calming, Gerasene release, Jairus, hemorrhaging woman, daughter's raising."}
   ],
   "translation_notes":[
     "Luke's prologue should preserve ordered-account language, eyewitness/servant-of-the-word language, and Theophilus as recipient.",
@@ -22,10 +27,11 @@
     "Mystical companion layer remains interpretive and does not replace the source-audited restored text.",
     "Verse-number alignment must remain intact in both restored and mystical companion files.",
     "Luke 1-2 preserves imperial setting, humble birth, shepherd witness, Mary heart-pondering, Simeon/Anna temple prophecy, and Israel/nations light language.",
-    "Luke 3-4 preserves John as ethical-turning prophet, genealogy back to Adam for universal-human scope, Spirit-led wilderness testing, and Jesus' Nazareth manifesto of good news, release, sight, and liberation."
+    "Luke 3-4 preserves John as ethical-turning prophet, genealogy back to Adam for universal-human scope, Spirit-led wilderness testing, and Jesus' Nazareth manifesto of good news, release, sight, and liberation.",
+    "Luke 5-8 preserves Luke's embodied discipleship arc: deep-water trust, table fellowship, Sabbath mercy, level-place reversal ethics, outsider trust, widow restoration, release/love/trust, women supporters, fruitful hearing, storm trust, Gerasene restoration, and daughter language."
   ],
   "next_actions":[
-    "Continue Luke 5-8: calling fishermen, cleansing/healing, Levi/table fellowship, Sabbath controversies, choosing the Twelve, plain sermon, centurion, widow's son, John question, anointing woman, women supporters, sower/parables, storm, Gerasene release, Jairus and hemorrhaging woman.",
-    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, eirene, apolytrosis, soteria, paraklesis, aphiemi, peirazo, and euangelizomai."
+    "Continue Luke 9-12: sending the Twelve, feeding five thousand, Peter confession, transfiguration, difficult healing, road to Jerusalem, Samaritan rejection, seventy-two sent, Good Samaritan, Mary/Martha, prayer, Beelzebul controversy, woes, fear/courage sayings, rich fool, ravens/lilies, watchfulness.",
+    "Add glossary entries or reuse shared Greek glossary hooks: logos, autoptai, hyperetai, Theophilus, charis, pneuma hagion, kyrios, sozo, eleos, diatheke, basileia, metanoia, eirene, apolytrosis, soteria, paraklesis, aphiemi, peirazo, euangelizomai, makarios, and splagchnizomai."
   ]
 }
