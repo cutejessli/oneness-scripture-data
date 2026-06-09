@@ -1,13 +1,15 @@
 {
   "book_id":"john",
   "book":"John",
-  "current_status":"in-progress",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
   "completed_ranges":[
     {"range":"1-4","status":"source-audited-draft + mystical companion"},
     {"range":"5-8","status":"source-audited-draft + mystical companion"},
     {"range":"9-12","status":"source-audited-draft + mystical companion"},
-    {"range":"13-17","status":"source-audited-draft + mystical companion"}
+    {"range":"13-17","status":"source-audited-draft + mystical companion"},
+    {"range":"18-21","status":"source-audited-draft + mystical companion"}
   ],
+  "book_summary":"John 1-21 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. John preserves its distinct mystical vocabulary: Word, life, light, world, witness, I am, remain/abide, Spirit of truth, Paraclete/Advocate, mutual indwelling, oneness, signs, and life in the name.",
   "chapters":[
     {"chapter":1,"path":"scripture/john/john-001.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-001-mystical.json","notes":"Logos prologue, life/light/darkness, John witness, Word embodied and tenting among us, grace/truth, Lamb of God, first disciples, come-and-see/remain motif, Simon/Peter, Philip/Nathanael, Son of Humanity heaven-opened imagery."},
     {"chapter":2,"path":"scripture/john/john-002.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-002-mystical.json","notes":"Cana wedding sign, water into wine, first sign revealing glory, disciples trust, temple action, Father's house, temple/body saying, sign-trust distinction."},
@@ -25,7 +27,11 @@
     {"chapter":14,"path":"scripture/john/john-014.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-014-mystical.json","notes":"Many dwelling places, way/truth/life, seeing Father in Son, works/asking in name, love and commands, Advocate/Paraclete, Spirit of truth, mutual indwelling, peace not as the world gives."},
     {"chapter":15,"path":"scripture/john/john-015.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-015-mystical.json","notes":"True vine, Father vine-worker, remain/abide, fruit, love/commands, joy fulfilled, friends not servants, world-order hatred, Advocate/Spirit of truth witness."},
     {"chapter":16,"path":"scripture/john/john-016.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-016-mystical.json","notes":"Persecution warning, Advocate/Spirit of truth, exposing world-order, guiding into all truth, grief-to-joy birth imagery, asking in name, plain speech, peace and overcoming world."},
-    {"chapter":17,"path":"scripture/john/john-017.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-017-mystical.json","notes":"Hour/glory prayer, age-long life as knowing Father and Son, keeping the name, protection in world, sanctification in truth, sent-into-world mission, oneness, mutual indwelling, glory and love in them."}
+    {"chapter":17,"path":"scripture/john/john-017.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-017-mystical.json","notes":"Hour/glory prayer, age-long life as knowing Father and Son, keeping the name, protection in world, sanctification in truth, sent-into-world mission, oneness, mutual indwelling, glory and love in them."},
+    {"chapter":18,"path":"scripture/john/john-018.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-018-mystical.json","notes":"Garden arrest, ego eimi arrest scene, Peter sword, Annas/Caiaphas, Peter denial at charcoal fire, Pilate, kingdom not from this world, truth, Barabbas."},
+    {"chapter":19,"path":"scripture/john/john-019.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-019-mystical.json","notes":"Flogging/mock kingship, behold the human, no king but Caesar, crucifixion, mother and beloved disciple, thirst/completion, blood and water, witness, Joseph and Nicodemus burial."},
+    {"chapter":20,"path":"scripture/john/john-020.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-020-mystical.json","notes":"Empty tomb, Mary Magdalene witness, beloved disciple sees and trusts, Rabbouni, not-yet-ascended saying, peace, breath/holy Spirit, Thomas, signs purpose statement."},
+    {"chapter":21,"path":"scripture/john/john-021.json","status":"source-audited-draft","mystical_path":"scripture/john/mystical/john-021-mystical.json","notes":"Sea of Tiberias appearance, miraculous catch, charcoal fire breakfast, Peter threefold love/restoration, feed/shepherd sheep, beloved disciple witness, closing overflow of unwritten works."}
   ],
   "translation_notes":[
     "John should preserve its distinct mystical and theological vocabulary while keeping the restored layer source-language-driven and cautious.",
@@ -43,10 +49,11 @@
     "John 1-4 establishes the Johannine core: Word, life, light, darkness, world, witness, remain, born from above/anew, Spirit/wind, living water, worship in Spirit and truth, and Savior of the world.",
     "John 5-8 establishes Father/Son work, life/judgment, sign-to-bread discourse, Spirit/life, living water from within, light of world, truth/free, and the major ego eimi climax before Abraham. Later textual traditions at John 5:4 and 7:53-8:11 are bracketed honestly.",
     "John 9-12 establishes sight/judgment reversal, anti-victim-blame, Good Shepherd/one flock, Father-Son oneness, Lazarus as resurrection-life sign, Mary anointing, Greeks seeking Jesus, grain-of-wheat fruitfulness, lifted-up drawing, and final public light appeal.",
-    "John 13-17 establishes the farewell discourse and oneness core: love to completion, foot-washing service, new commandment, way/truth/life, Paraclete/Advocate, Spirit of truth, mutual indwelling, vine/branches remaining, world-order pressure, grief-to-joy, and the prayer that all may be one."
+    "John 13-17 establishes the farewell discourse and oneness core: love to completion, foot-washing service, new commandment, way/truth/life, Paraclete/Advocate, Spirit of truth, mutual indwelling, vine/branches remaining, world-order pressure, grief-to-joy, and the prayer that all may be one.",
+    "John 18-21 completes the Passion and resurrection witness: ego eimi arrest scene, not-from-this-world reign, behold the human, completed/finished, blood and water, Mary Magdalene apostolic witness, breath/Spirit, Thomas confession, written signs purpose, and Peter restoration by the charcoal fire."
   ],
   "next_actions":[
-    "Complete John 18-21: arrest, trials, Peter denial, Pilate, crucifixion, beloved disciple and mother, death/blood/water, burial, empty tomb, Mary Magdalene, Thomas, signs purpose statement, Sea of Tiberias, Peter restoration, beloved disciple witness.",
-    "Add glossary entries or reuse shared hooks: logos, zoe, phos, skotia, kosmos, anothen, pneuma, hydor zon, ego eimi, meno, martyria, doxa, charis, aletheia, sarx, skenoo, monogenes, parakletos, artos tes zoes, huios tou anthropou, poimen kalos, and hen/oneness language."
+    "Add glossary entries or reuse shared hooks: logos, zoe, phos, skotia, kosmos, anothen, pneuma, hydor zon, ego eimi, meno, martyria, doxa, charis, aletheia, sarx, skenoo, monogenes, parakletos, artos tes zoes, huios tou anthropou, poimen kalos, hen/oneness, and signs-purpose statement.",
+    "Begin next corpus book according to project plan. Suggested next: Acts, to continue Luke-John into Spirit, witness, community, and expansion to nations."
   ]
 }
