@@ -1,0 +1,42 @@
+{
+  "checklist_id":"source-witness-audit-checklist",
+  "title":"Earliest Recoverable Source Witness Audit Checklist",
+  "status":"active-project-standard",
+  "purpose":"Ensure the restored/source-audited scripture layer is aligned with the earliest recoverable textual witnesses, not merely with a later Protestant, Catholic, Orthodox, or modern denominational translation tradition.",
+  "core_principles":[
+    "Use the familiar 66-book scaffold as a working build order only, not as a claim of earliest canon boundary.",
+    "Prioritize earliest recoverable textual witnesses and source languages wherever possible.",
+    "Keep source-audited restored translation separate from mystical/contemplative companion layer.",
+    "Preserve uncertainty honestly where textual witnesses differ.",
+    "Avoid anti-Jewish, supersessionist, anti-body, misogynistic, anti-queer, or domination-sanctioning readings where the source text does not require them.",
+    "After initial book completion, run deeper source-witness audit passes for variant-sensitive books/passages."
+  ],
+  "source_witnesses_to_track":[
+    "Hebrew Masoretic tradition",
+    "Aramaic portions where applicable",
+    "Dead Sea Scrolls where relevant",
+    "Septuagint / Old Greek traditions where relevant",
+    "Samaritan Pentateuch for Torah where relevant",
+    "Greek New Testament textual tradition and major manuscript variants",
+    "Early versions such as Syriac, Latin, Coptic where variant-sensitive",
+    "Second Temple and Septuagintal/deuterocanonical expansion texts after core scaffold"
+  ],
+  "per_book_metadata_to_add_or_enrich":[
+    "primary_source_language",
+    "primary_source_base",
+    "major_witnesses_considered",
+    "variant_sensitive_passages",
+    "canon_track: core_scaffold / septuagintal_deuterocanonical / second_temple_expansion",
+    "confidence_level: high / medium / variant_sensitive",
+    "notes_on_where_restored_reading_follows_one_witness_over_another",
+    "notes_on_doctrinal_or_traditional_pressure_to_avoid"
+  ],
+  "second_pass_tasks":[
+    "Review completed books for stronger source-witness metadata.",
+    "Flag major textual variants already known in completed New Testament books.",
+    "Flag major Hebrew/Greek/Samaritan/Dead Sea Scroll differences in completed Hebrew Bible books.",
+    "Add Septuagint/deuterocanonical expansion track after core scaffold reaches stable coverage.",
+    "Add Second Temple wisdom/visionary track after canonical/deuterocanonical scaffold is stable."
+  ],
+  "working_note":"The project remains aligned around earliest recoverable source integrity: build the restored layer first, preserve mystical companion separately, then enrich with deeper witness audit metadata and expansion tracks."
+}
