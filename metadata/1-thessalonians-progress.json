@@ -1,0 +1,36 @@
+{
+  "book_id":"1-thessalonians",
+  "book":"1 Thessalonians",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
+  "completed_ranges":[
+    {"range":"1-5","status":"source-audited-draft + mystical companion"}
+  ],
+  "book_summary":"1 Thessalonians 1-5 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. The book preserves beloved community under pressure: work of trust, labor of love, endurance of hope, tender apostolic care, standing firm under pressure, body-honoring holiness, resurrection comfort, sober watchfulness, peace practices, and whole spirit/soul/body sanctification.",
+  "chapters":[
+    {"chapter":1,"path":"scripture/1-thessalonians/1-thessalonians-001.json","status":"source-audited-draft","mystical_path":"scripture/1-thessalonians/mystical/1-thessalonians-001-mystical.json","notes":"Thanksgiving, work of trust, labor of love, endurance of hope, good news in power/Spirit/full assurance, receiving word in pressure with Spirit-joy, model community, turning from idols to living Divine, waiting for raised Son."},
+    {"chapter":2,"path":"scripture/1-thessalonians/1-thessalonians-002.json","status":"source-audited-draft","mystical_path":"scripture/1-thessalonians/mystical/1-thessalonians-002-mystical.json","notes":"Boldness after Philippi, no flattery/greed/human glory, nursing-mother tenderness, shared souls/lives, labor not to burden, parental encouragement, word received as Divine word, conflict passage with anti-Jewish misuse safeguard and second-pass audit flag, longing to see their face."},
+    {"chapter":3,"path":"scripture/1-thessalonians/1-thessalonians-003.json","status":"source-audited-draft","mystical_path":"scripture/1-thessalonians/mystical/1-thessalonians-003-mystical.json","notes":"Timothy sent to establish and encourage trust, pressures expected, concern over testing, good news of trust/love/remembrance, Paul's comfort through their firmness, prayer to return, love increasing toward one another and all, hearts established in holiness."},
+    {"chapter":4,"path":"scripture/1-thessalonians/1-thessalonians-004.json","status":"source-audited-draft","mystical_path":"scripture/1-thessalonians/mystical/1-thessalonians-004-mystical.json","notes":"Abounding walk, holiness and sexual ethics as honor/non-exploitation, sibling-love taught by Divine, quiet work, honorable walk toward outsiders, grief with hope, those who sleep, Lord's presence/arrival, resurrection comfort."},
+    {"chapter":5,"path":"scripture/1-thessalonians/1-thessalonians-005.json","status":"source-audited-draft","mystical_path":"scripture/1-thessalonians/mystical/1-thessalonians-005-mystical.json","notes":"Times/seasons, unexpected day of Lord, children of light/day, sober watchfulness, breastplate of trust/love and helmet of hope, comfort/build one another, peace practices, rejoice/pray/give thanks, do not quench Spirit, test prophecy, whole spirit/soul/body sanctification, final grace."}
+  ],
+  "translation_notes":[
+    "1 Thessalonians should preserve Paul's tender community tone under pressure without making suffering sentimental.",
+    "Thlipsis is pressure/affliction; parakaleo/paraklesis comfort/encourage; parousia presence/arrival; pistis trust; agape love; elpis hope; pneuma Spirit/breath.",
+    "The triad work of trust, labor of love, endurance of hope is central to chapter 1 and the whole letter.",
+    "1 Thessalonians 2:14-16 requires second-pass textual and reception-history audit because of anti-Jewish misuse history. The draft avoids timeless condemnation of Jewish people and locates the issue in hostile patterns and specific conflict.",
+    "Sexual ethics in chapter 4 are body-honoring: holiness, honor, and non-exploitation, not body-hatred.",
+    "Resurrection/arrival teaching in chapter 4 is for comfort, not speculative timeline control.",
+    "Armor imagery in chapter 5 is sober resilience: trust, love, and hope, not aggression toward people.",
+    "Whole spirit/soul/body sanctification in 5:23 is a whole-person anchor.",
+    "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
+    "Verse-number alignment must remain intact in both restored and mystical companion files."
+  ],
+  "source_witness_audit_flags":[
+    "1 Thessalonians 2:14-16: requires major second-pass review for textual authenticity questions, rhetoric, and anti-Jewish reception history.",
+    "1 Thessalonians 5:1-11: review day-of-Lord imagery and exact wording in second-pass source audit; connector-safe draft softened one phrase while preserving the watchfulness/comfort structure."
+  ],
+  "next_actions":[
+    "Begin next book according to project plan. Suggested next: 2 Thessalonians, to continue pressure/endurance, day of Lord correction, lawless one passage with careful non-sensational handling, work/exhortation, and peace blessing.",
+    "Add glossary entries or reuse hooks: thlipsis, paraklesis, parousia, pistis, agape, elpis, pneuma, holiness, sibling-love, those who sleep, day of Lord, watchfulness, and whole-person sanctification."
+  ]
+}
