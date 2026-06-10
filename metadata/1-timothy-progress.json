@@ -1,0 +1,40 @@
+{
+  "book_id":"1-timothy",
+  "book":"1 Timothy",
+  "current_status":"complete-source-audited-draft-with-mystical-companions",
+  "completed_ranges":[
+    {"range":"1-6","status":"source-audited-draft + mystical companion"}
+  ],
+  "book_summary":"1 Timothy 1-6 has full chapter coverage with source-audited-draft restored translation and mystical companion layers. Verse-number alignment is preserved in both restored and mystical files. The book is treated with Pastoral Epistles caution: healthy teaching aimed at love, mercy and good conscience, difficult women/teaching passage flagged for deep audit, leadership as tested care, creation/body-positive anti-ascetic teaching, household/widow care, wealth warnings, and anti-domination safeguards for slavery and authority passages.",
+  "chapters":[
+    {"chapter":1,"path":"scripture/1-timothy/1-timothy-001.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-001-mystical.json","notes":"False teaching, myths/genealogies, aim of instruction as love, Law used lawfully, vice-list with queer non-weaponization note, mercy to Paul, trustworthy saying, good conscience, Hymenaeus/Alexander discipline as restorative training."},
+    {"chapter":2,"path":"scripture/1-timothy/1-timothy-002.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-002-mystical.json","notes":"Prayer for all humans and rulers, Divine wills all to be saved/healed, one mediator, modesty/good works, women learning, women/teaching/domineering passage flagged for Greek syntax/context/reception audit, Adam/Eve reasoning, trust/love/holiness."},
+    {"chapter":3,"path":"scripture/1-timothy/1-timothy-003.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-003-mystical.json","notes":"Overseers and servants/deacons as tested care and character, not status hierarchy; women likewise ambiguity preserved; household of living Divine as pillar/support of truth; mystery of reverence/godliness hymn."},
+    {"chapter":4,"path":"scripture/1-timothy/1-timothy-004.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-004-mystical.json","notes":"Later departures, misleading teachings, anti-ascetic creation goodness, foods received with thanksgiving, bodily training valued but relativized, youth as pattern, public reading/encouragement/teaching, grace-gift not neglected."},
+    {"chapter":5,"path":"scripture/1-timothy/1-timothy-005.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-005-mystical.json","notes":"Relational correction by age/family image, widow honor and household responsibility, enrolled widows, economic/community care not moral policing, elders double honor, accusations require witnesses, impartiality, practical health note, visible and hidden works."},
+    {"chapter":6,"path":"scripture/1-timothy/1-timothy-006.json","status":"source-audited-draft","mystical_path":"scripture/1-timothy/mystical/1-timothy-006-mystical.json","notes":"Ancient enslaved/master instructions with anti-sanctification safeguard, healthy words versus dispute culture, reverence with contentment, love of money warning, human of Divine pursuits, beautiful struggle of trust, rich warned to hope in Divine and share, guard the deposit."}
+  ],
+  "translation_notes":[
+    "1 Timothy should be handled with Pastoral Epistles caution: authorship/source setting, ecclesial reception, and difficult passages require second-pass audit.",
+    "The aim of instruction in 1:5 is love from a pure heart, good conscience, and unhypocritical trust; this frames all correction.",
+    "Authentein in 2:12 is rare and should not be flattened into ordinary authority without audit; domineer/usurp is preserved as a cautionary rendering.",
+    "Women learning in 2:11 must be preserved and weighed with women coworkers, deacons, prophets, and leaders elsewhere in the Pauline corpus and early assemblies.",
+    "Overseer/deacon language is character-and-care language, not status hierarchy.",
+    "Creation and body are affirmed in chapter 4; false asceticism is rejected.",
+    "Widow care in chapter 5 is economic/community care and household responsibility, not moral policing.",
+    "Slavery texts in chapter 6 must not sanctify slavery or coercive labor; preserve dignity and broader trajectory of release, siblinghood, and justice.",
+    "Wealth warnings critique greed, status, and hope in riches, not survival needs or poverty.",
+    "Mystical companion layer remains interpretive and does not replace source-audited restored text.",
+    "Verse-number alignment must remain intact in both restored and mystical companion files."
+  ],
+  "source_witness_audit_flags":[
+    "1 Timothy 2:11-15: deep second-pass Greek syntax, historical context, authorship, and reception-history audit required before interpretive use.",
+    "1 Timothy 3:16: second-pass textual variant audit for 'who/which/God was manifested in flesh' traditions.",
+    "Pastoral Epistles authorship/source-setting: add metadata noting scholarly debate and reception history in second pass.",
+    "1 Timothy 6:1-2: second-pass ethical reception audit to prevent sanctifying slavery or coercive labor."
+  ],
+  "next_actions":[
+    "Begin next book according to project plan. Suggested next: 2 Timothy, with attention to suffering, faithful transmission, Scripture, false teachers, women-household exploitation passage, and final charge.",
+    "Add glossary entries or reuse hooks: didaskalia/teaching, oikonomia/stewardship, nomos/Law, episkope/oversight, episkopos/overseer, diakonos/servant-deacon, authentein/domineer, eusebeia/reverence-godliness, paratheke/deposit, and autarkeia/contentment."
+  ]
+}
