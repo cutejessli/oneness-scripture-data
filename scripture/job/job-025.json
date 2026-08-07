@@ -22,7 +22,17 @@
       "notes": [],
       "cross_references": [],
       "terms": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Then Bildad the Shuhite replied:"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וַ֭יַּעַן בִּלְדַּ֥ד הַשֻּׁחִ֗י וַיֹּאמַֽר"
+      }
     },
     {
       "verse": 2,
@@ -39,7 +49,17 @@
       "notes": [],
       "cross_references": [],
       "terms": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "“Dominion and awe belong to God; He establishes harmony in the heights of heaven."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הַמְשֵׁ֣ל וָפַ֣חַד עִמּ֑וֹ עֹשֶׂ֥ה שָׁ֝ל֗וֹם בִּמְרוֹמָֽיו"
+      }
     },
     {
       "verse": 3,
@@ -55,7 +75,17 @@
       "notes": [],
       "cross_references": [],
       "terms": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Can His troops be numbered? On whom does His light not rise?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הֲיֵ֣שׁ מִ֭סְפָּר לִגְדוּדָ֑יו וְעַל מִ֝֗י לֹא יָק֥וּם אוֹרֵֽהוּ"
+      }
     },
     {
       "verse": 4,
@@ -83,7 +113,17 @@
       ],
       "editorial_flags": [
         "gender-power-audit"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "How then can a man be just before God? How can one born of woman be pure?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וּמַה יִּצְדַּ֣ק אֱנ֣וֹשׁ עִם אֵ֑ל וּמַה יִּ֝זְכֶּ֗ה יְל֣וּד אִשָּֽׁה"
+      }
     },
     {
       "verse": 5,
@@ -100,7 +140,17 @@
       "notes": [],
       "cross_references": [],
       "terms": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "If even the moon does not shine, and the stars are not pure in His sight,"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הֵ֣ן עַד יָ֭רֵחַ וְלֹ֣א יַאֲהִ֑יל וְ֝כוֹכָבִ֗ים לֹא זַכּ֥וּ בְעֵינָֽיו"
+      }
     },
     {
       "verse": 6,
@@ -117,7 +167,17 @@
       "notes": [],
       "cross_references": [],
       "terms": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "how much less man, who is but a maggot, and the son of man, who is but a worm!”"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אַ֭ף כִּֽי אֱנ֣וֹשׁ רִמָּ֑ה וּבֶן אָ֝דָ֗ם תּוֹלֵעָֽה"
+      }
     }
   ],
   "layer_status": {
@@ -128,7 +188,9 @@
     "tags": "present-all-verses",
     "cross_references": "pending-deep-backfill",
     "editorial_flags": "partial-1-of-6",
-    "mystical_companion": "separate-file"
+    "mystical_companion": "separate-file",
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "backfill_status": {
     "status": "baseline-rich-layer-backfilled",
@@ -138,5 +200,25 @@
     "source_language": "Hebrew",
     "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
     "batch_version": 4
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
