@@ -1,52 +1,866 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":25,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for ten virgins, talents, watchfulness, Son of Humanity throne, sheep/goats, least ones, age-long correction/life."},
-  "verses":[
-    {"verse":1,"restored":"Then the reign of the heavens will be like ten virgins who took their lamps and went out to meet the bridegroom.","tags":["parable","ten-virgins","kingdom"]},
-    {"verse":2,"restored":"Five of them were foolish and five wise.","tags":["wisdom","folly"]},
-    {"verse":3,"restored":"The foolish took their lamps but did not take oil with them.","tags":["lamps","oil"]},
-    {"verse":4,"restored":"The wise took oil in vessels with their lamps.","tags":["wisdom","preparedness"]},
-    {"verse":5,"restored":"As the bridegroom delayed, they all became drowsy and slept.","tags":["delay","sleep"]},
-    {"verse":6,"restored":"At midnight there was a cry: Look, the bridegroom! Come out to meet him.","tags":["midnight","bridegroom"]},
-    {"verse":7,"restored":"Then all those virgins rose and trimmed their lamps.","tags":["lamps","readiness"]},
-    {"verse":8,"restored":"The foolish said to the wise, Give us some of your oil, because our lamps are going out.","tags":["oil","lack"]},
-    {"verse":9,"restored":"The wise answered, Perhaps there will not be enough for us and you; go rather to the sellers and buy for yourselves.","tags":["wisdom","preparedness"]},
-    {"verse":10,"restored":"While they were going away to buy, the bridegroom came; those ready went in with him to the wedding feast, and the door was shut.","tags":["wedding","door","readiness"]},
-    {"verse":11,"restored":"Later the other virgins came also, saying, Lord, Lord, open to us.","tags":["lord","door"]},
-    {"verse":12,"restored":"But he answered, Amen, I say to you: I do not know you.","tags":["knowing","warning"]},
-    {"verse":13,"restored":"Therefore keep watch, because you know neither the day nor the hour.","tags":["watchfulness"]},
-    {"verse":14,"restored":"For it is like a man going away who called his own servants and handed over his possessions to them.","tags":["parable","servants"]},
-    {"verse":15,"restored":"To one he gave five talents, to another two, to another one, each according to his own ability; and he went away.","tags":["talents","ability"]},
-    {"verse":16,"restored":"Immediately the one receiving five talents went and worked with them and gained five more.","tags":["faithfulness","increase"]},
-    {"verse":17,"restored":"Likewise the one with two gained two more.","tags":["increase"]},
-    {"verse":18,"restored":"But the one receiving one went away, dug in the ground, and hid his lord's silver.","tags":["hiding","fear"]},
-    {"verse":19,"restored":"After much time, the lord of those servants came and settled account with them.","tags":["account","return"]},
-    {"verse":20,"restored":"The one receiving five talents brought five more, saying, Lord, you handed me five talents; look, I gained five more.","tags":["faithfulness"]},
-    {"verse":21,"restored":"His lord said to him, Well done, good and faithful servant. You were faithful over a few things; I will appoint you over many things. Enter into the joy of your lord.","tags":["faithful","joy"]},
-    {"verse":22,"restored":"The one with two talents also came, saying, Lord, you handed me two talents; look, I gained two more.","tags":["faithfulness"]},
-    {"verse":23,"restored":"His lord said to him, Well done, good and faithful servant. You were faithful over a few things; I will appoint you over many things. Enter into the joy of your lord.","tags":["faithful","joy"]},
-    {"verse":24,"restored":"The one having received one talent came and said, Lord, I knew you to be a hard man, reaping where you did not sow and gathering where you did not scatter.","tags":["fear","hard-master"]},
-    {"verse":25,"restored":"Being afraid, I went and hid your talent in the ground. Look, you have what is yours.","tags":["fear","hiding"]},
-    {"verse":26,"restored":"His lord answered, Harmful and lazy servant, you knew that I reap where I did not sow and gather where I did not scatter?","tags":["warning","servant"]},
-    {"verse":27,"restored":"Then you should have placed my silver with the bankers, and coming I would have received what was mine with interest.","tags":["accountability"]},
-    {"verse":28,"restored":"Therefore take the talent from him and give it to the one having ten talents.","tags":["reversal"]},
-    {"verse":29,"restored":"For to everyone having, more will be given and he will overflow; but from the one not having, even what he has will be taken.","tags":["abundance","loss"]},
-    {"verse":30,"restored":"Cast the unprofitable servant into the outer darkness; there will be weeping and grinding of teeth.","tags":["warning","outer-darkness"]},
-    {"verse":31,"restored":"When the Son of Humanity comes in his glory, and all the messengers with him, then he will sit on his throne of glory.","tags":["son-of-humanity","glory","throne"]},
-    {"verse":32,"restored":"All the nations will be gathered before him, and he will separate them from one another as the shepherd separates sheep from goats.","tags":["nations","sheep","goats"]},
-    {"verse":33,"restored":"He will set the sheep on his right and the goats on his left.","tags":["right-left","separation"]},
-    {"verse":34,"restored":"Then the King will say to those on his right, Come, blessed of my Father, inherit the reign prepared for you from the foundation of the world.","tags":["inheritance","kingdom","foundation"]},
-    {"verse":35,"restored":"For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you gathered me in;","tags":["hunger","thirst","stranger"]},
-    {"verse":36,"restored":"naked and you clothed me; sick and you visited me; in prison and you came to me.","tags":["clothing","sick","prison"]},
-    {"verse":37,"restored":"Then the righteous will answer, Lord, when did we see you hungry and feed you, or thirsty and give drink?","tags":["righteous","seeing"]},
-    {"verse":38,"restored":"When did we see you a stranger and gather you in, or naked and clothe you?","tags":["stranger","clothing"]},
-    {"verse":39,"restored":"When did we see you sick or in prison and come to you?","tags":["sick","prison"]},
-    {"verse":40,"restored":"The King will answer, Amen, I say to you: as much as you did it to one of the least of these my brothers and sisters, you did it to me.","tags":["least-ones","king"]},
-    {"verse":41,"restored":"Then he will say to those on the left, Depart from me, cursed ones, into the age-long fire prepared for the adversarial one and his messengers.","terms":[{"display":"age-long","source":"aionion","language":"Greek","glossary_id":"aionios"}],"tags":["warning","age-long"]},
-    {"verse":42,"restored":"For I was hungry and you did not give me food; I was thirsty and you did not give me drink;","tags":["hunger","thirst"]},
-    {"verse":43,"restored":"I was a stranger and you did not gather me in; naked and you did not clothe me; sick and in prison and you did not visit me.","tags":["stranger","sick","prison"]},
-    {"verse":44,"restored":"Then they also will answer, Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not serve you?","tags":["seeing","service"]},
-    {"verse":45,"restored":"Then he will answer, Amen, I say to you: as much as you did not do it to one of the least of these, neither did you do it to me.","tags":["least-ones","service"]},
-    {"verse":46,"restored":"These will go away into age-long correction, but the righteous into age-long life.","terms":[{"display":"correction","source":"kolasin","language":"Greek","glossary_id":"kolasis"},{"display":"age-long life","source":"zoen aionion","language":"Greek","glossary_id":"zoe-aionios"}],"tags":["age-long","life","correction"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 25,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for ten virgins, talents, watchfulness, Son of Humanity throne, sheep/goats, least ones, age-long correction/life."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then the reign of the heavens will be like ten virgins who took their lamps and went out to meet the bridegroom.",
+      "tags": [
+        "parable",
+        "ten-virgins",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall the kingdom of heaven be likened unto ten virgins, which took their lamps, and went forth to meet the bridegroom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Five of them were foolish and five wise.",
+      "tags": [
+        "wisdom",
+        "folly"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And five of them were wise, and five were foolish."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "The foolish took their lamps but did not take oil with them.",
+      "tags": [
+        "lamps",
+        "oil"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They that were foolish took their lamps, and took no oil with them:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The wise took oil in vessels with their lamps.",
+      "tags": [
+        "wisdom",
+        "preparedness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the wise took oil in their vessels with their lamps."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "As the bridegroom delayed, they all became drowsy and slept.",
+      "tags": [
+        "delay",
+        "sleep"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "While the bridegroom tarried, they all slumbered and slept."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "At midnight there was a cry: Look, the bridegroom! Come out to meet him.",
+      "tags": [
+        "midnight",
+        "bridegroom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And at midnight there was a cry made, Behold, the bridegroom cometh; go ye out to meet him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Then all those virgins rose and trimmed their lamps.",
+      "tags": [
+        "lamps",
+        "readiness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all those virgins arose, and trimmed their lamps."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The foolish said to the wise, Give us some of your oil, because our lamps are going out.",
+      "tags": [
+        "oil",
+        "lack"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the foolish said unto the wise, Give us of your oil; for our lamps are gone out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The wise answered, Perhaps there will not be enough for us and you; go rather to the sellers and buy for yourselves.",
+      "tags": [
+        "wisdom",
+        "preparedness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the wise answered, saying, Not so; lest there be not enough for us and you: but go ye rather to them that sell, and buy for yourselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "While they were going away to buy, the bridegroom came; those ready went in with him to the wedding feast, and the door was shut.",
+      "tags": [
+        "wedding",
+        "door",
+        "readiness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And while they went to buy, the bridegroom came; and they that were ready went in with him to the marriage: and the door was shut."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Later the other virgins came also, saying, Lord, Lord, open to us.",
+      "tags": [
+        "lord",
+        "door"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Afterward came also the other virgins, saying, Lord, Lord, open to us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But he answered, Amen, I say to you: I do not know you.",
+      "tags": [
+        "knowing",
+        "warning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he answered and said, Verily I say unto you, I know you not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Therefore keep watch, because you know neither the day nor the hour.",
+      "tags": [
+        "watchfulness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Watch therefore, for ye know neither the day nor the hour wherein the Son of man cometh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For it is like a man going away who called his own servants and handed over his possessions to them.",
+      "tags": [
+        "parable",
+        "servants",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the kingdom of heaven is as a man travelling into a far country, who called his own servants, and delivered unto them his goods."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "To one he gave five talents, to another two, to another one, each according to his own ability; and he went away.",
+      "tags": [
+        "talents",
+        "ability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And unto one he gave five talents, to another two, and to another one; to every man according to his several ability; and straightway took his journey."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Immediately the one receiving five talents went and worked with them and gained five more.",
+      "tags": [
+        "faithfulness",
+        "increase"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he that had received the five talents went and traded with the same, and made them other five talents."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Likewise the one with two gained two more.",
+      "tags": [
+        "increase"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And likewise he that had received two, he also gained other two."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But the one receiving one went away, dug in the ground, and hid his lord's silver.",
+      "tags": [
+        "hiding",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that had received one went and digged in the earth, and hid his lord’s money."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "After much time, the lord of those servants came and settled account with them.",
+      "tags": [
+        "account",
+        "return",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After a long time the lord of those servants cometh, and reckoneth with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "The one receiving five talents brought five more, saying, Lord, you handed me five talents; look, I gained five more.",
+      "tags": [
+        "faithfulness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And so he that had received five talents came and brought other five talents, saying, Lord, thou deliveredst unto me five talents: behold, I have gained beside them five talents more."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "His lord said to him, Well done, good and faithful servant. You were faithful over a few things; I will appoint you over many things. Enter into the joy of your lord.",
+      "tags": [
+        "faithful",
+        "joy",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His lord said unto him, Well done, thou good and faithful servant: thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "The one with two talents also came, saying, Lord, you handed me two talents; look, I gained two more.",
+      "tags": [
+        "faithfulness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He also that had received two talents came and said, Lord, thou deliveredst unto me two talents: behold, I have gained two other talents beside them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "His lord said to him, Well done, good and faithful servant. You were faithful over a few things; I will appoint you over many things. Enter into the joy of your lord.",
+      "tags": [
+        "faithful",
+        "joy",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His lord said unto him, Well done, good and faithful servant; thou hast been faithful over a few things, I will make thee ruler over many things: enter thou into the joy of thy lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "The one having received one talent came and said, Lord, I knew you to be a hard man, reaping where you did not sow and gathering where you did not scatter.",
+      "tags": [
+        "fear",
+        "hard-master"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he which had received the one talent came and said, Lord, I knew thee that thou art an hard man, reaping where thou hast not sown, and gathering where thou hast not strawed:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Being afraid, I went and hid your talent in the ground. Look, you have what is yours.",
+      "tags": [
+        "fear",
+        "hiding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I was afraid, and went and hid thy talent in the earth: lo, there thou hast that is thine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "His lord answered, Harmful and lazy servant, you knew that I reap where I did not sow and gather where I did not scatter?",
+      "tags": [
+        "warning",
+        "servant",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His lord answered and said unto him, Thou wicked and slothful servant, thou knewest that I reap where I sowed not, and gather where I have not strawed:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Then you should have placed my silver with the bankers, and coming I would have received what was mine with interest.",
+      "tags": [
+        "accountability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou oughtest therefore to have put my money to the exchangers, and then at my coming I should have received mine own with usury."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Therefore take the talent from him and give it to the one having ten talents.",
+      "tags": [
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take therefore the talent from him, and give it unto him which hath ten talents."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "For to everyone having, more will be given and he will overflow; but from the one not having, even what he has will be taken.",
+      "tags": [
+        "abundance",
+        "loss"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For unto every one that hath shall be given, and he shall have abundance: but from him that hath not shall be taken away even that which he hath."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Cast the unprofitable servant into the outer darkness; there will be weeping and grinding of teeth.",
+      "tags": [
+        "warning",
+        "outer-darkness",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And cast ye the unprofitable servant into outer darkness: there shall be weeping and gnashing of teeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "When the Son of Humanity comes in his glory, and all the messengers with him, then he will sit on his throne of glory.",
+      "tags": [
+        "son-of-humanity",
+        "glory",
+        "throne",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the Son of man shall come in his glory, and all the holy angels with him, then shall he sit upon the throne of his glory:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "All the nations will be gathered before him, and he will separate them from one another as the shepherd separates sheep from goats.",
+      "tags": [
+        "nations",
+        "sheep",
+        "goats"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And before him shall be gathered all nations: and he shall separate them one from another, as a shepherd divideth his sheep from the goats:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "He will set the sheep on his right and the goats on his left.",
+      "tags": [
+        "right-left",
+        "separation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall set the sheep on his right hand, but the goats on the left."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Then the King will say to those on his right, Come, blessed of my Father, inherit the reign prepared for you from the foundation of the world.",
+      "tags": [
+        "inheritance",
+        "kingdom",
+        "foundation",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall the King say unto them on his right hand, Come, ye blessed of my Father, inherit the kingdom prepared for you from the foundation of the world:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "For I was hungry and you gave me food; I was thirsty and you gave me drink; I was a stranger and you gathered me in;",
+      "tags": [
+        "hunger",
+        "thirst",
+        "stranger",
+        "foreigner-migrant",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I was an hungred, and ye gave me meat: I was thirsty, and ye gave me drink: I was a stranger, and ye took me in:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "naked and you clothed me; sick and you visited me; in prison and you came to me.",
+      "tags": [
+        "clothing",
+        "sick",
+        "prison",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Naked, and ye clothed me: I was sick, and ye visited me: I was in prison, and ye came unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "Then the righteous will answer, Lord, when did we see you hungry and feed you, or thirsty and give drink?",
+      "tags": [
+        "righteous",
+        "seeing",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall the righteous answer him, saying, Lord, when saw we thee an hungred, and fed thee? or thirsty, and gave thee drink?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "When did we see you a stranger and gather you in, or naked and clothe you?",
+      "tags": [
+        "stranger",
+        "clothing",
+        "foreigner-migrant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When saw we thee a stranger, and took thee in? or naked, and clothed thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "When did we see you sick or in prison and come to you?",
+      "tags": [
+        "sick",
+        "prison",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or when saw we thee sick, or in prison, and came unto thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "The King will answer, Amen, I say to you: as much as you did it to one of the least of these my brothers and sisters, you did it to me.",
+      "tags": [
+        "least-ones",
+        "king",
+        "kingship-power",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the King shall answer and say unto them, Verily I say unto you, Inasmuch as ye have done it unto one of the least of these my brethren, ye have done it unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 41,
+      "restored": "Then he will say to those on the left, Depart from me, cursed ones, into the age-long fire prepared for the adversarial one and his messengers.",
+      "terms": [
+        {
+          "display": "age-long",
+          "source": "aionion",
+          "language": "Greek",
+          "glossary_id": "aionios"
+        }
+      ],
+      "tags": [
+        "warning",
+        "age-long"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall he say also unto them on the left hand, Depart from me, ye cursed, into everlasting fire, prepared for the devil and his angels:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "For I was hungry and you did not give me food; I was thirsty and you did not give me drink;",
+      "tags": [
+        "hunger",
+        "thirst",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I was an hungred, and ye gave me no meat: I was thirsty, and ye gave me no drink:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "I was a stranger and you did not gather me in; naked and you did not clothe me; sick and in prison and you did not visit me.",
+      "tags": [
+        "stranger",
+        "sick",
+        "prison",
+        "foreigner-migrant",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I was a stranger, and ye took me not in: naked, and ye clothed me not: sick, and in prison, and ye visited me not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "migrant-dignity",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 44,
+      "restored": "Then they also will answer, Lord, when did we see you hungry, thirsty, a stranger, naked, sick, or in prison, and did not serve you?",
+      "tags": [
+        "seeing",
+        "service",
+        "foreigner-migrant",
+        "poverty-economic-justice",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall they also answer him, saying, Lord, when saw we thee an hungred, or athirst, or a stranger, or naked, or sick, or in prison, and did not minister unto thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "migrant-dignity",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 45,
+      "restored": "Then he will answer, Amen, I say to you: as much as you did not do it to one of the least of these, neither did you do it to me.",
+      "tags": [
+        "least-ones",
+        "service"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall he answer them, saying, Verily I say unto you, Inasmuch as ye did it not to one of the least of these, ye did it not to me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "These will go away into age-long correction, but the righteous into age-long life.",
+      "terms": [
+        {
+          "display": "correction",
+          "source": "kolasin",
+          "language": "Greek",
+          "glossary_id": "kolasis"
+        },
+        {
+          "display": "age-long life",
+          "source": "zoen aionion",
+          "language": "Greek",
+          "glossary_id": "zoe-aionios"
+        }
+      ],
+      "tags": [
+        "age-long",
+        "life",
+        "correction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And these shall go away into everlasting punishment: but the righteous into life eternal."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-46",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-15-of-46",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

@@ -1,30 +1,444 @@
 {
-  "book":"Job","book_id":"job","chapter":40,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as continuation of the whirlwind: Job's first reply, renewed divine challenge, justice/pride questions, and Behemoth imagery. Behemoth is preserved as poetic/mythic wild creature language rather than flattened."},
-  "verses":[
-    {"verse":1,"restored":"The Eternal answered Job and said:","tags":["divine-answer"]},
-    {"verse":2,"restored":"Shall one who argues with Shaddai correct him? Let the one who reproves the Divine answer it.","tags":["shaddai","answer","reproof"]},
-    {"verse":3,"restored":"Job answered the Eternal and said:","tags":["job","reply"]},
-    {"verse":4,"restored":"Look, I am small. What shall I answer you? I place my hand over my mouth.","tags":["humility","mouth"]},
-    {"verse":5,"restored":"Once I have spoken, and I will not answer; twice, but I will add no more.","tags":["silence","speech"]},
-    {"verse":6,"restored":"Then the Eternal answered Job from the whirlwind and said:","tags":["whirlwind","divine-answer"]},
-    {"verse":7,"restored":"Gird your loins like a strong man; I will ask you, and you make it known to me.","tags":["challenge","answer"]},
-    {"verse":8,"restored":"Will you truly annul my justice? Will you condemn me so that you may be righteous?","tags":["justice","righteousness"]},
-    {"verse":9,"restored":"Do you have an arm like the Divine, and can you thunder with a voice like his?","tags":["arm","thunder","voice"]},
-    {"verse":10,"restored":"Adorn yourself now with majesty and height; clothe yourself with splendor and glory.","tags":["majesty","glory"]},
-    {"verse":11,"restored":"Pour out the overflowings of your anger; look at every proud one and bring him low.","tags":["anger","pride"]},
-    {"verse":12,"restored":"Look at every proud one and humble him; tread down the wicked where they stand.","tags":["pride","wicked"]},
-    {"verse":13,"restored":"Hide them in the dust together; bind their faces in the hidden place.","tags":["dust","hidden"]},
-    {"verse":14,"restored":"Then I myself will acknowledge you, that your own right hand can save you.","tags":["right-hand","salvation"]},
-    {"verse":15,"restored":"Look now at Behemoth, which I made with you; he eats grass like an ox.","tags":["behemoth","creature"]},
-    {"verse":16,"restored":"Look, his strength is in his loins, and his power in the muscles of his belly.","tags":["strength","body"]},
-    {"verse":17,"restored":"He bends his tail like a cedar; the sinews of his thighs are woven together.","tags":["behemoth","cedar"]},
-    {"verse":18,"restored":"His bones are tubes of bronze; his limbs like bars of iron.","tags":["bones","bronze","iron"]},
-    {"verse":19,"restored":"He is the first of the ways of the Divine; only his Maker can bring near his sword.","tags":["maker","behemoth"]},
-    {"verse":20,"restored":"For the mountains bring him produce, and all the beasts of the field play there.","tags":["mountains","beasts"]},
-    {"verse":21,"restored":"Under lotus plants he lies, in the hiding place of reeds and marsh.","tags":["lotus","marsh"]},
-    {"verse":22,"restored":"Lotus plants cover him with shade; willows of the brook surround him.","tags":["shade","willows"]},
-    {"verse":23,"restored":"Look, if the river presses, he does not panic; he is confident though Jordan rushes to his mouth.","tags":["river","confidence"]},
-    {"verse":24,"restored":"Can anyone take him by his eyes, or pierce his nose with snares?","tags":["behemoth","untamed"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 40,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as continuation of the whirlwind: Job's first reply, renewed divine challenge, justice/pride questions, and Behemoth imagery. Behemoth is preserved as poetic/mythic wild creature language rather than flattened."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The Eternal answered Job and said:",
+      "tags": [
+        "divine-answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the LORD answered Job, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Shall one who argues with Shaddai correct him? Let the one who reproves the Divine answer it.",
+      "tags": [
+        "shaddai",
+        "answer",
+        "reproof"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall he that contendeth with the Almighty instruct him? he that reproveth God, let him answer it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Job answered the Eternal and said:",
+      "tags": [
+        "job",
+        "reply"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Job answered the LORD, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Look, I am small. What shall I answer you? I place my hand over my mouth.",
+      "tags": [
+        "humility",
+        "mouth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I am vile; what shall I answer thee? I will lay mine hand upon my mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Once I have spoken, and I will not answer; twice, but I will add no more.",
+      "tags": [
+        "silence",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Once have I spoken; but I will not answer: yea, twice; but I will proceed no further."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Then the Eternal answered Job from the whirlwind and said:",
+      "tags": [
+        "whirlwind",
+        "divine-answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered the LORD unto Job out of the whirlwind, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Gird your loins like a strong man; I will ask you, and you make it known to me.",
+      "tags": [
+        "challenge",
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Gird up thy loins now like a man: I will demand of thee, and declare thou unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Will you truly annul my justice? Will you condemn me so that you may be righteous?",
+      "tags": [
+        "justice",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wilt thou also disannul my judgment? wilt thou condemn me, that thou mayest be righteous?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Do you have an arm like the Divine, and can you thunder with a voice like his?",
+      "tags": [
+        "arm",
+        "thunder",
+        "voice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hast thou an arm like God? or canst thou thunder with a voice like him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Adorn yourself now with majesty and height; clothe yourself with splendor and glory.",
+      "tags": [
+        "majesty",
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Deck thyself now with majesty and excellency; and array thyself with glory and beauty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Pour out the overflowings of your anger; look at every proud one and bring him low.",
+      "tags": [
+        "anger",
+        "pride"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Cast abroad the rage of thy wrath: and behold every one that is proud, and abase him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Look at every proud one and humble him; tread down the wicked where they stand.",
+      "tags": [
+        "pride",
+        "wicked"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Look on every one that is proud, and bring him low; and tread down the wicked in their place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Hide them in the dust together; bind their faces in the hidden place.",
+      "tags": [
+        "dust",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hide them in the dust together; and bind their faces in secret."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Then I myself will acknowledge you, that your own right hand can save you.",
+      "tags": [
+        "right-hand",
+        "salvation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then will I also confess unto thee that thine own right hand can save thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Look now at Behemoth, which I made with you; he eats grass like an ox.",
+      "tags": [
+        "behemoth",
+        "creature"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold now behemoth, which I made with thee; he eateth grass as an ox."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Look, his strength is in his loins, and his power in the muscles of his belly.",
+      "tags": [
+        "strength",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo now, his strength is in his loins, and his force is in the navel of his belly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He bends his tail like a cedar; the sinews of his thighs are woven together.",
+      "tags": [
+        "behemoth",
+        "cedar"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He moveth his tail like a cedar: the sinews of his stones are wrapped together."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "His bones are tubes of bronze; his limbs like bars of iron.",
+      "tags": [
+        "bones",
+        "bronze",
+        "iron"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His bones are as strong pieces of brass; his bones are like bars of iron."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "He is the first of the ways of the Divine; only his Maker can bring near his sword.",
+      "tags": [
+        "maker",
+        "behemoth",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He is the chief of the ways of God: he that made him can make his sword to approach unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "For the mountains bring him produce, and all the beasts of the field play there.",
+      "tags": [
+        "mountains",
+        "beasts"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely the mountains bring him forth food, where all the beasts of the field play."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Under lotus plants he lies, in the hiding place of reeds and marsh.",
+      "tags": [
+        "lotus",
+        "marsh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He lieth under the shady trees, in the covert of the reed, and fens."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Lotus plants cover him with shade; willows of the brook surround him.",
+      "tags": [
+        "shade",
+        "willows"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The shady trees cover him with their shadow; the willows of the brook compass him about."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Look, if the river presses, he does not panic; he is confident though Jordan rushes to his mouth.",
+      "tags": [
+        "river",
+        "confidence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, he drinketh up a river, and hasteth not: he trusteth that he can draw up Jordan into his mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Can anyone take him by his eyes, or pierce his nose with snares?",
+      "tags": [
+        "behemoth",
+        "untamed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He taketh it with his eyes: his nose pierceth through snares."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-24",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

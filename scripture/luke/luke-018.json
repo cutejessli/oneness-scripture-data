@@ -1,51 +1,782 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":18,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for persistent widow, Pharisee/tax collector, children, rich ruler, third passion prediction, and blind man near Jericho."},
-  "verses":[
-    {"verse":1,"restored":"He spoke a parable to them about the necessity always to pray and not lose heart.","tags":["parable","prayer","endurance"]},
-    {"verse":2,"restored":"He said, In a certain city there was a judge who did not fear the Divine and did not respect humans.","tags":["judge","city"]},
-    {"verse":3,"restored":"There was a widow in that city, and she kept coming to him, saying, Give me justice against my opponent.","tags":["widow","justice","opponent"]},
-    {"verse":4,"restored":"For a time he was not willing; but afterward he said within himself, Even though I do not fear the Divine or respect humans,","tags":["judge","reasoning"]},
-    {"verse":5,"restored":"yet because this widow causes me trouble, I will give her justice, so that she may not finally come and wear me out.","tags":["widow","justice","persistence"]},
-    {"verse":6,"restored":"The Lord said, Hear what the judge of injustice says.","tags":["hearing","injustice"]},
-    {"verse":7,"restored":"Will not the Divine make justice for his chosen ones who cry to him day and night, and will he delay long over them?","tags":["justice","chosen","cry"]},
-    {"verse":8,"restored":"I say to you, he will make justice for them quickly. Yet when the Son of Humanity comes, will he find trust on the earth?","tags":["son-of-humanity","trust","earth"]},
-    {"verse":9,"restored":"He also spoke this parable to some who trusted in themselves that they were righteous and treated the rest as nothing.","tags":["parable","self-righteousness"]},
-    {"verse":10,"restored":"Two people went up into the temple to pray, one a Pharisee and the other a tax collector.","tags":["temple","prayer","pharisee","tax-collector"]},
-    {"verse":11,"restored":"The Pharisee, standing by himself, prayed these things: Divine, I thank you that I am not like the rest of people: extortioners, unjust, adulterers, or even like this tax collector.","tags":["pharisee","prayer","comparison"]},
-    {"verse":12,"restored":"I fast twice a week; I tithe all that I acquire.","tags":["fasting","tithe"]},
-    {"verse":13,"restored":"But the tax collector, standing far off, was not even willing to lift his eyes to heaven, but struck his chest, saying, Divine, be merciful to me, the sinner/misaligned one.","tags":["tax-collector","mercy","humility"]},
-    {"verse":14,"restored":"I say to you, this one went down to his house justified rather than the other; because everyone exalting oneself will be humbled, but the one humbling oneself will be exalted.","tags":["justified","humility","reversal"]},
-    {"verse":15,"restored":"They were bringing even infants to him so that he might touch them. Seeing this, the disciples rebuked them.","tags":["infants","touch","disciples"]},
-    {"verse":16,"restored":"But Jesus called them to him, saying, Let the children come to me and do not hinder them, for of such is the reign of the Divine.","tags":["children","kingdom"]},
-    {"verse":17,"restored":"Amen, I say to you: whoever does not receive the reign of the Divine like a child will certainly not enter it.","tags":["receiving","child","kingdom"]},
-    {"verse":18,"restored":"A certain ruler questioned him, saying, Good Teacher, what shall I do to inherit age-long life?","tags":["ruler","life","inheritance"]},
-    {"verse":19,"restored":"Jesus said to him, Why do you call me good? No one is good except the Divine alone.","tags":["good","divine"]},
-    {"verse":20,"restored":"You know the commands: Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.","tags":["commands"]},
-    {"verse":21,"restored":"He said, All these I have guarded from youth.","tags":["commands","youth"]},
-    {"verse":22,"restored":"Hearing this, Jesus said to him, One thing you still lack: sell all that you have and distribute to poor people, and you will have treasure in the heavens; then come, follow me.","tags":["wealth","poor","treasure","following"]},
-    {"verse":23,"restored":"But hearing these things, he became deeply grieved, for he was exceedingly rich.","tags":["wealth","grief"]},
-    {"verse":24,"restored":"Seeing him, Jesus said, How difficult it is for those having wealth to enter the reign of the Divine.","tags":["wealth","kingdom"]},
-    {"verse":25,"restored":"For it is easier for a camel to enter through the eye of a needle than for a rich person to enter the reign of the Divine.","tags":["camel","needle","wealth"]},
-    {"verse":26,"restored":"Those hearing said, Then who is able to be saved/healed?","tags":["saved","question"]},
-    {"verse":27,"restored":"He said, The things impossible with humans are possible with the Divine.","tags":["possible","divine"]},
-    {"verse":28,"restored":"Peter said, Look, we left our own things and followed you.","tags":["peter","following"]},
-    {"verse":29,"restored":"He said to them, Amen, I say to you: there is no one who has left house, wife, brothers, parents, or children because of the reign of the Divine,","tags":["leaving","kingdom"]},
-    {"verse":30,"restored":"who will not receive many times more in this time, and in the coming age, age-long life.","tags":["age","life"]},
-    {"verse":31,"restored":"Taking the twelve, he said to them, Look, we are going up to Jerusalem, and all the things written through the prophets about the Son of Humanity will be completed.","tags":["jerusalem","son-of-humanity","prophets"]},
-    {"verse":32,"restored":"For he will be handed over to the nations, mocked, insulted, and spit upon.","tags":["handed-over","nations","mockery"]},
-    {"verse":33,"restored":"After flogging him, they will kill him, and on the third day he will rise.","tags":["third-day","rise"]},
-    {"verse":34,"restored":"They understood none of these things; this word was hidden from them, and they did not know the things being said.","tags":["misunderstanding","hidden"]},
-    {"verse":35,"restored":"As he drew near to Jericho, a certain blind person was sitting beside the way, begging.","tags":["jericho","blind","begging"]},
-    {"verse":36,"restored":"Hearing a crowd passing through, he inquired what this might be.","tags":["hearing","crowd"]},
-    {"verse":37,"restored":"They reported to him, Jesus the Nazarene is passing by.","tags":["jesus","nazarene"]},
-    {"verse":38,"restored":"He cried out, saying, Jesus, Son of David, have mercy on me.","tags":["son-of-david","mercy"]},
-    {"verse":39,"restored":"Those going before rebuked him so he would be silent, but he cried out much more, Son of David, have mercy on me.","tags":["rebuke","mercy"]},
-    {"verse":40,"restored":"Jesus stood still and commanded him to be brought to him. When he came near, he questioned him,","tags":["call","question"]},
-    {"verse":41,"restored":"What do you want me to do for you? He said, Lord, that I may see again.","tags":["sight","request"]},
-    {"verse":42,"restored":"Jesus said to him, See again; your trust has saved/healed you.","tags":["trust","sozo","sight"]},
-    {"verse":43,"restored":"Immediately he saw again and followed him, glorifying the Divine. All the people, seeing, gave praise to the Divine.","tags":["immediately","following","glory"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 18,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for persistent widow, Pharisee/tax collector, children, rich ruler, third passion prediction, and blind man near Jericho."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "He spoke a parable to them about the necessity always to pray and not lose heart.",
+      "tags": [
+        "parable",
+        "prayer",
+        "endurance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake a parable unto them to this end, that men ought always to pray, and not to faint;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He said, In a certain city there was a judge who did not fear the Divine and did not respect humans.",
+      "tags": [
+        "judge",
+        "city"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, There was in a city a judge, which feared not God, neither regarded man:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "There was a widow in that city, and she kept coming to him, saying, Give me justice against my opponent.",
+      "tags": [
+        "widow",
+        "justice",
+        "opponent",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was a widow in that city; and she came unto him, saying, Avenge me of mine adversary."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For a time he was not willing; but afterward he said within himself, Even though I do not fear the Divine or respect humans,",
+      "tags": [
+        "judge",
+        "reasoning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he would not for a while: but afterward he said within himself, Though I fear not God, nor regard man;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "yet because this widow causes me trouble, I will give her justice, so that she may not finally come and wear me out.",
+      "tags": [
+        "widow",
+        "justice",
+        "persistence",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet because this widow troubleth me, I will avenge her, lest by her continual coming she weary me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The Lord said, Hear what the judge of injustice says.",
+      "tags": [
+        "hearing",
+        "injustice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord said, Hear what the unjust judge saith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Will not the Divine make justice for his chosen ones who cry to him day and night, and will he delay long over them?",
+      "tags": [
+        "justice",
+        "chosen",
+        "cry"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And shall not God avenge his own elect, which cry day and night unto him, though he bear long with them?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "I say to you, he will make justice for them quickly. Yet when the Son of Humanity comes, will he find trust on the earth?",
+      "tags": [
+        "son-of-humanity",
+        "trust",
+        "earth",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I tell you that he will avenge them speedily. Nevertheless when the Son of man cometh, shall he find faith on the earth?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He also spoke this parable to some who trusted in themselves that they were righteous and treated the rest as nothing.",
+      "tags": [
+        "parable",
+        "self-righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake this parable unto certain which trusted in themselves that they were righteous, and despised others:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Two people went up into the temple to pray, one a Pharisee and the other a tax collector.",
+      "tags": [
+        "temple",
+        "prayer",
+        "pharisee",
+        "tax-collector",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Two men went up into the temple to pray; the one a Pharisee, and the other a publican."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The Pharisee, standing by himself, prayed these things: Divine, I thank you that I am not like the rest of people: extortioners, unjust, adulterers, or even like this tax collector.",
+      "tags": [
+        "pharisee",
+        "prayer",
+        "comparison"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Pharisee stood and prayed thus with himself, God, I thank thee, that I am not as other men are, extortioners, unjust, adulterers, or even as this publican."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I fast twice a week; I tithe all that I acquire.",
+      "tags": [
+        "fasting",
+        "tithe"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I fast twice in the week, I give tithes of all that I possess."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But the tax collector, standing far off, was not even willing to lift his eyes to heaven, but struck his chest, saying, Divine, be merciful to me, the sinner/misaligned one.",
+      "tags": [
+        "tax-collector",
+        "mercy",
+        "humility",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the publican, standing afar off, would not lift up so much as his eyes unto heaven, but smote upon his breast, saying, God be merciful to me a sinner."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "I say to you, this one went down to his house justified rather than the other; because everyone exalting oneself will be humbled, but the one humbling oneself will be exalted.",
+      "tags": [
+        "justified",
+        "humility",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I tell you, this man went down to his house justified rather than the other: for every one that exalteth himself shall be abased; and he that humbleth himself shall be exalted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They were bringing even infants to him so that he might touch them. Seeing this, the disciples rebuked them.",
+      "tags": [
+        "infants",
+        "touch",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But Jesus called them to him, saying, Let the children come to me and do not hinder them, for of such is the reign of the Divine.",
+      "tags": [
+        "children",
+        "kingdom",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus called them unto him, and said, Suffer little children to come unto me, and forbid them not: for of such is the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Amen, I say to you: whoever does not receive the reign of the Divine like a child will certainly not enter it.",
+      "tags": [
+        "receiving",
+        "child",
+        "kingdom",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, Whosoever shall not receive the kingdom of God as a little child shall in no wise enter therein."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "A certain ruler questioned him, saying, Good Teacher, what shall I do to inherit age-long life?",
+      "tags": [
+        "ruler",
+        "life",
+        "inheritance",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a certain ruler asked him, saying, Good Master, what shall I do to inherit eternal life?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Jesus said to him, Why do you call me good? No one is good except the Divine alone.",
+      "tags": [
+        "good",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, Why callest thou me good? none is good, save one, that is, God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "You know the commands: Do not commit adultery, do not murder, do not steal, do not bear false witness, honor your father and mother.",
+      "tags": [
+        "commands"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou knowest the commandments, Do not commit adultery, Do not kill, Do not steal, Do not bear false witness, Honour thy father and thy mother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He said, All these I have guarded from youth.",
+      "tags": [
+        "commands",
+        "youth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, All these have I kept from my youth up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Hearing this, Jesus said to him, One thing you still lack: sell all that you have and distribute to poor people, and you will have treasure in the heavens; then come, follow me.",
+      "tags": [
+        "wealth",
+        "poor",
+        "treasure",
+        "following",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Jesus heard these things, he said unto him, Yet lackest thou one thing: sell all that thou hast, and distribute unto the poor, and thou shalt have treasure in heaven: and come, follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "But hearing these things, he became deeply grieved, for he was exceedingly rich.",
+      "tags": [
+        "wealth",
+        "grief"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he heard this, he was very sorrowful: for he was very rich."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Seeing him, Jesus said, How difficult it is for those having wealth to enter the reign of the Divine.",
+      "tags": [
+        "wealth",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Jesus saw that he was very sorrowful, he said, How hardly shall they that have riches enter into the kingdom of God!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For it is easier for a camel to enter through the eye of a needle than for a rich person to enter the reign of the Divine.",
+      "tags": [
+        "camel",
+        "needle",
+        "wealth",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is easier for a camel to go through a needle’s eye, than for a rich man to enter into the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Those hearing said, Then who is able to be saved/healed?",
+      "tags": [
+        "saved",
+        "question",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that heard it said, Who then can be saved?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "He said, The things impossible with humans are possible with the Divine.",
+      "tags": [
+        "possible",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, The things which are impossible with men are possible with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Peter said, Look, we left our own things and followed you.",
+      "tags": [
+        "peter",
+        "following"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Peter said, Lo, we have left all, and followed thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "He said to them, Amen, I say to you: there is no one who has left house, wife, brothers, parents, or children because of the reign of the Divine,",
+      "tags": [
+        "leaving",
+        "kingdom",
+        "kingship-power",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Verily I say unto you, There is no man that hath left house, or parents, or brethren, or wife, or children, for the kingdom of God’s sake,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "who will not receive many times more in this time, and in the coming age, age-long life.",
+      "tags": [
+        "age",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall not receive manifold more in this present time, and in the world to come life everlasting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Taking the twelve, he said to them, Look, we are going up to Jerusalem, and all the things written through the prophets about the Son of Humanity will be completed.",
+      "tags": [
+        "jerusalem",
+        "son-of-humanity",
+        "prophets",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he took unto him the twelve, and said unto them, Behold, we go up to Jerusalem, and all things that are written by the prophets concerning the Son of man shall be accomplished."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "For he will be handed over to the nations, mocked, insulted, and spit upon.",
+      "tags": [
+        "handed-over",
+        "nations",
+        "mockery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he shall be delivered unto the Gentiles, and shall be mocked, and spitefully entreated, and spitted on:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "After flogging him, they will kill him, and on the third day he will rise.",
+      "tags": [
+        "third-day",
+        "rise",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall scourge him, and put him to death: and the third day he shall rise again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "They understood none of these things; this word was hidden from them, and they did not know the things being said.",
+      "tags": [
+        "misunderstanding",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "As he drew near to Jericho, a certain blind person was sitting beside the way, begging.",
+      "tags": [
+        "jericho",
+        "blind",
+        "begging",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that as he was come nigh unto Jericho, a certain blind man sat by the way side begging:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "Hearing a crowd passing through, he inquired what this might be.",
+      "tags": [
+        "hearing",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And hearing the multitude pass by, he asked what it meant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "They reported to him, Jesus the Nazarene is passing by.",
+      "tags": [
+        "jesus",
+        "nazarene"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they told him, that Jesus of Nazareth passeth by."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "He cried out, saying, Jesus, Son of David, have mercy on me.",
+      "tags": [
+        "son-of-david",
+        "mercy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he cried, saying, Jesus, thou son of David, have mercy on me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "Those going before rebuked him so he would be silent, but he cried out much more, Son of David, have mercy on me.",
+      "tags": [
+        "rebuke",
+        "mercy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou son of David, have mercy on me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Jesus stood still and commanded him to be brought to him. When he came near, he questioned him,",
+      "tags": [
+        "call",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus stood, and commanded him to be brought unto him: and when he was come near, he asked him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "What do you want me to do for you? He said, Lord, that I may see again.",
+      "tags": [
+        "sight",
+        "request"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, What wilt thou that I shall do unto thee? And he said, Lord, that I may receive my sight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "Jesus said to him, See again; your trust has saved/healed you.",
+      "tags": [
+        "trust",
+        "sozo",
+        "sight",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, Receive thy sight: thy faith hath saved thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "Immediately he saw again and followed him, glorifying the Divine. All the people, seeing, gave praise to the Divine.",
+      "tags": [
+        "immediately",
+        "following",
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-43",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

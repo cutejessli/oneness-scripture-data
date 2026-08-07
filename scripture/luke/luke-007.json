@@ -1,58 +1,948 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":7,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for centurion servant, widow's son at Nain, John question, Jesus' witness to John, wisdom/children saying, and anointing woman with release/love/trust."},
-  "verses":[
-    {"verse":1,"restored":"After he completed all his words in the hearing of the people, he entered Capernaum.","tags":["capernaum","words"]},
-    {"verse":2,"restored":"A certain centurion's servant, who was precious to him, was sick and about to die.","tags":["centurion","servant","sickness"]},
-    {"verse":3,"restored":"Hearing about Jesus, he sent elders of the Judeans to him, asking him to come and save/heal his servant.","terms":[{"display":"save/heal","source":"diasose","language":"Greek","glossary_id":"sozo"}],"tags":["healing","servant"]},
-    {"verse":4,"restored":"Coming to Jesus, they appealed earnestly to him, saying, He is worthy for you to grant this,","tags":["appeal","worthiness"]},
-    {"verse":5,"restored":"for he loves our nation and built the synagogue for us.","tags":["synagogue","love"]},
-    {"verse":6,"restored":"Jesus went with them. Already not far from the house, the centurion sent friends, saying, Lord, do not trouble yourself, for I am not sufficient that you should enter under my roof.","tags":["centurion","house","humility"]},
-    {"verse":7,"restored":"Therefore I did not consider myself worthy to come to you; but say the word, and let my servant be healed.","tags":["word","healing"]},
-    {"verse":8,"restored":"For I also am a person set under authority, having soldiers under me; I say to this one, Go, and he goes, and to another, Come, and he comes, and to my servant, Do this, and he does it.","tags":["authority","soldiers"]},
-    {"verse":9,"restored":"Hearing these things, Jesus marveled at him, and turning to the crowd following him, said, I tell you, not even in Israel have I found such trust.","tags":["trust","israel","wonder"]},
-    {"verse":10,"restored":"Those who had been sent returned to the house and found the servant healthy.","tags":["healing","house"]},
-    {"verse":11,"restored":"Soon afterward he went to a city called Nain, and his disciples and a great crowd went with him.","tags":["nain","disciples","crowd"]},
-    {"verse":12,"restored":"As he drew near the gate of the city, look, one who had died was being carried out, an only son of his mother; she was a widow, and a considerable crowd from the city was with her.","tags":["widow","only-son","death"]},
-    {"verse":13,"restored":"Seeing her, the Lord was moved with compassion for her and said to her, Do not weep.","tags":["compassion","widow"]},
-    {"verse":14,"restored":"Coming near, he touched the bier, and those carrying it stood still. He said, Young man, I say to you, rise.","tags":["touch","rise"]},
-    {"verse":15,"restored":"The dead one sat up and began to speak, and Jesus gave him to his mother.","tags":["life","mother"]},
-    {"verse":16,"restored":"Fear seized all, and they glorified the Divine, saying, A great prophet has been raised among us, and the Divine has visited his people.","tags":["fear","prophet","visitation"]},
-    {"verse":17,"restored":"This word about him went out in all Judea and all the surrounding region.","tags":["word","judea"]},
-    {"verse":18,"restored":"John's disciples reported to him concerning all these things.","tags":["john","disciples"]},
-    {"verse":19,"restored":"Calling two of his disciples, John sent them to the Lord, saying, Are you the coming one, or should we expect another?","tags":["john","question","coming-one"]},
-    {"verse":20,"restored":"The men came to him and said, John the Baptist sent us to you, saying, Are you the coming one, or should we expect another?","tags":["john","question"]},
-    {"verse":21,"restored":"In that hour he healed many from diseases, afflictions, and harmful spirits, and gifted sight to many blind people.","tags":["healing","sight"]},
-    {"verse":22,"restored":"Answering, he said to them, Go report to John what you saw and heard: blind people see again, lame people walk, those with skin disease are cleansed, deaf people hear, dead people are raised, poor people receive good news.","tags":["isaiah-signs","poor","good-news"]},
-    {"verse":23,"restored":"Blessed/flourishing is whoever is not caused to stumble in me.","tags":["blessed","stumbling"]},
-    {"verse":24,"restored":"When John's messengers had gone away, he began to speak to the crowds concerning John: What did you go out into the wilderness to behold? A reed shaken by wind?","tags":["john","wilderness"]},
-    {"verse":25,"restored":"But what did you go out to see? A person clothed in soft garments? Look, those in glorious clothing and luxury are in royal palaces.","tags":["luxury","palaces"]},
-    {"verse":26,"restored":"But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet.","tags":["prophet","john"]},
-    {"verse":27,"restored":"This is the one about whom it has been written: Look, I send my messenger before your face, who will prepare your way before you.","tags":["messenger","way"]},
-    {"verse":28,"restored":"I say to you, among those born of women, no one is greater than John; yet the smaller one in the reign of the Divine is greater than he.","tags":["john","kingdom"]},
-    {"verse":29,"restored":"All the people hearing, and the tax collectors, justified the Divine, having been baptized with John's baptism.","tags":["people","tax-collectors","baptism"]},
-    {"verse":30,"restored":"But the Pharisees and lawyers rejected the counsel of the Divine for themselves, not having been baptized by him.","tags":["pharisees","lawyers","rejection"]},
-    {"verse":31,"restored":"To what then shall I compare the people of this generation, and what are they like?","tags":["generation","parable"]},
-    {"verse":32,"restored":"They are like children sitting in a marketplace and calling to one another: We piped to you, and you did not dance; we lamented, and you did not weep.","tags":["children","marketplace"]},
-    {"verse":33,"restored":"For John the Baptist has come neither eating bread nor drinking wine, and you say, He has an unclean spirit.","tags":["john","accusation"]},
-    {"verse":34,"restored":"The Son of Humanity has come eating and drinking, and you say, Look, a glutton and wine-drinker, friend of tax collectors and sinners/misaligned ones.","tags":["son-of-humanity","friend","table"]},
-    {"verse":35,"restored":"Yet wisdom is justified by all her children.","tags":["wisdom","children"]},
-    {"verse":36,"restored":"One of the Pharisees asked him to eat with him. Entering the Pharisee's house, he reclined.","tags":["pharisee","table"]},
-    {"verse":37,"restored":"Look, a woman in the city, who was a sinner/misaligned woman, learning that he reclined in the Pharisee's house, brought an alabaster jar of ointment.","tags":["woman","alabaster"]},
-    {"verse":38,"restored":"Standing behind at his feet, weeping, she began to wet his feet with tears, wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.","tags":["tears","feet","anointing"]},
-    {"verse":39,"restored":"Seeing this, the Pharisee who invited him said within himself, If this one were a prophet, he would know who and what sort of woman is touching him, that she is a sinner/misaligned one.","tags":["pharisee","judgment","touch"]},
-    {"verse":40,"restored":"Jesus answered him, Simon, I have something to say to you. He said, Teacher, say it.","tags":["simon","teaching"]},
-    {"verse":41,"restored":"A certain lender had two debtors; one owed five hundred denarii, the other fifty.","tags":["parable","debt"]},
-    {"verse":42,"restored":"When they had nothing to pay, he freely forgave both. Which of them, then, will love him more?","tags":["forgiveness","love"]},
-    {"verse":43,"restored":"Simon answered, I suppose the one for whom he freely forgave more. He said to him, You judged rightly.","tags":["judgment","forgiveness"]},
-    {"verse":44,"restored":"Turning toward the woman, he said to Simon, Do you see this woman? I entered your house; you gave me no water for my feet, but she wet my feet with tears and wiped them with her hair.","tags":["woman","seeing","hospitality"]},
-    {"verse":45,"restored":"You gave me no kiss, but from the time I entered, she has not stopped kissing my feet.","tags":["kiss","hospitality"]},
-    {"verse":46,"restored":"You did not anoint my head with oil, but she anointed my feet with ointment.","tags":["anointing","hospitality"]},
-    {"verse":47,"restored":"For this reason I say to you: her many sins/misalignments have been released, for she loved much; but the one to whom little is released loves little.","tags":["release","love"]},
-    {"verse":48,"restored":"He said to her, Your sins/misalignments are released.","tags":["release","woman"]},
-    {"verse":49,"restored":"Those reclining with him began to say among themselves, Who is this who even releases sins/misalignments?","tags":["table","release"]},
-    {"verse":50,"restored":"He said to the woman, Your trust has saved/healed you; go into peace.","tags":["trust","sozo","peace"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for centurion servant, widow's son at Nain, John question, Jesus' witness to John, wisdom/children saying, and anointing woman with release/love/trust."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After he completed all his words in the hearing of the people, he entered Capernaum.",
+      "tags": [
+        "capernaum",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when he had ended all his sayings in the audience of the people, he entered into Capernaum."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "A certain centurion's servant, who was precious to him, was sick and about to die.",
+      "tags": [
+        "centurion",
+        "servant",
+        "sickness",
+        "labor-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a certain centurion’s servant, who was dear unto him, was sick, and ready to die."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Hearing about Jesus, he sent elders of the Judeans to him, asking him to come and save/heal his servant.",
+      "terms": [
+        {
+          "display": "save/heal",
+          "source": "diasose",
+          "language": "Greek",
+          "glossary_id": "sozo"
+        }
+      ],
+      "tags": [
+        "healing",
+        "servant",
+        "labor-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he heard of Jesus, he sent unto him the elders of the Jews, beseeching him that he would come and heal his servant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Coming to Jesus, they appealed earnestly to him, saying, He is worthy for you to grant this,",
+      "tags": [
+        "appeal",
+        "worthiness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they came to Jesus, they besought him instantly, saying, That he was worthy for whom he should do this:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "for he loves our nation and built the synagogue for us.",
+      "tags": [
+        "synagogue",
+        "love",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he loveth our nation, and he hath built us a synagogue."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Jesus went with them. Already not far from the house, the centurion sent friends, saying, Lord, do not trouble yourself, for I am not sufficient that you should enter under my roof.",
+      "tags": [
+        "centurion",
+        "house",
+        "humility"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus went with them. And when he was now not far from the house, the centurion sent friends to him, saying unto him, Lord, trouble not thyself: for I am not worthy that thou shouldest enter under my roof:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore I did not consider myself worthy to come to you; but say the word, and let my servant be healed.",
+      "tags": [
+        "word",
+        "healing",
+        "labor-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore neither thought I myself worthy to come unto thee: but say in a word, and my servant shall be healed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For I also am a person set under authority, having soldiers under me; I say to this one, Go, and he goes, and to another, Come, and he comes, and to my servant, Do this, and he does it.",
+      "tags": [
+        "authority",
+        "soldiers",
+        "war-violence",
+        "labor-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I also am a man set under authority, having under me soldiers, and I say unto one, Go, and he goeth; and to another, Come, and he cometh; and to my servant, Do this, and he doeth it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Hearing these things, Jesus marveled at him, and turning to the crowd following him, said, I tell you, not even in Israel have I found such trust.",
+      "tags": [
+        "trust",
+        "israel",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus heard these things, he marvelled at him, and turned him about, and said unto the people that followed him, I say unto you, I have not found so great faith, no, not in Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Those who had been sent returned to the house and found the servant healthy.",
+      "tags": [
+        "healing",
+        "house",
+        "labor-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that were sent, returning to the house, found the servant whole that had been sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Soon afterward he went to a city called Nain, and his disciples and a great crowd went with him.",
+      "tags": [
+        "nain",
+        "disciples",
+        "crowd",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass the day after, that he went into a city called Nain; and many of his disciples went with him, and much people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "As he drew near the gate of the city, look, one who had died was being carried out, an only son of his mother; she was a widow, and a considerable crowd from the city was with her.",
+      "tags": [
+        "widow",
+        "only-son",
+        "death",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when he came nigh to the gate of the city, behold, there was a dead man carried out, the only son of his mother, and she was a widow: and much people of the city was with her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Seeing her, the Lord was moved with compassion for her and said to her, Do not weep.",
+      "tags": [
+        "compassion",
+        "widow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the Lord saw her, he had compassion on her, and said unto her, Weep not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Coming near, he touched the bier, and those carrying it stood still. He said, Young man, I say to you, rise.",
+      "tags": [
+        "touch",
+        "rise"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came and touched the bier: and they that bare him stood still. And he said, Young man, I say unto thee, Arise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "The dead one sat up and began to speak, and Jesus gave him to his mother.",
+      "tags": [
+        "life",
+        "mother"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that was dead sat up, and began to speak. And he delivered him to his mother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Fear seized all, and they glorified the Divine, saying, A great prophet has been raised among us, and the Divine has visited his people.",
+      "tags": [
+        "fear",
+        "prophet",
+        "visitation",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came a fear on all: and they glorified God, saying, That a great prophet is risen up among us; and, That God hath visited his people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "This word about him went out in all Judea and all the surrounding region.",
+      "tags": [
+        "word",
+        "judea"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And this rumour of him went forth throughout all Judaea, and throughout all the region round about."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "John's disciples reported to him concerning all these things.",
+      "tags": [
+        "john",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the disciples of John shewed him of all these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Calling two of his disciples, John sent them to the Lord, saying, Are you the coming one, or should we expect another?",
+      "tags": [
+        "john",
+        "question",
+        "coming-one",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And John calling unto him two of his disciples sent them to Jesus, saying, Art thou he that should come? or look we for another?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The men came to him and said, John the Baptist sent us to you, saying, Are you the coming one, or should we expect another?",
+      "tags": [
+        "john",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the men were come unto him, they said, John Baptist hath sent us unto thee, saying, Art thou he that should come? or look we for another?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "In that hour he healed many from diseases, afflictions, and harmful spirits, and gifted sight to many blind people.",
+      "tags": [
+        "healing",
+        "sight",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in that same hour he cured many of their infirmities and plagues, and of evil spirits; and unto many that were blind he gave sight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Answering, he said to them, Go report to John what you saw and heard: blind people see again, lame people walk, those with skin disease are cleansed, deaf people hear, dead people are raised, poor people receive good news.",
+      "tags": [
+        "isaiah-signs",
+        "poor",
+        "good-news",
+        "poverty-economic-justice",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus answering said unto them, Go your way, and tell John what things ye have seen and heard; how that the blind see, the lame walk, the lepers are cleansed, the deaf hear, the dead are raised, to the poor the gospel is preached."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Blessed/flourishing is whoever is not caused to stumble in me.",
+      "tags": [
+        "blessed",
+        "stumbling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And blessed is he, whosoever shall not be offended in me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "When John's messengers had gone away, he began to speak to the crowds concerning John: What did you go out into the wilderness to behold? A reed shaken by wind?",
+      "tags": [
+        "john",
+        "wilderness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the messengers of John were departed, he began to speak unto the people concerning John, What went ye out into the wilderness for to see? A reed shaken with the wind?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But what did you go out to see? A person clothed in soft garments? Look, those in glorious clothing and luxury are in royal palaces.",
+      "tags": [
+        "luxury",
+        "palaces",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But what went ye out for to see? A man clothed in soft raiment? Behold, they which are gorgeously apparelled, and live delicately, are in kings’ courts."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "But what did you go out to see? A prophet? Yes, I say to you, and more than a prophet.",
+      "tags": [
+        "prophet",
+        "john",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But what went ye out for to see? A prophet? Yea, I say unto you, and much more than a prophet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "This is the one about whom it has been written: Look, I send my messenger before your face, who will prepare your way before you.",
+      "tags": [
+        "messenger",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "I say to you, among those born of women, no one is greater than John; yet the smaller one in the reign of the Divine is greater than he.",
+      "tags": [
+        "john",
+        "kingdom",
+        "kingship-power",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I say unto you, Among those that are born of women there is not a greater prophet than John the Baptist: but he that is least in the kingdom of God is greater than he."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "All the people hearing, and the tax collectors, justified the Divine, having been baptized with John's baptism.",
+      "tags": [
+        "people",
+        "tax-collectors",
+        "baptism"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the people that heard him, and the publicans, justified God, being baptized with the baptism of John."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "But the Pharisees and lawyers rejected the counsel of the Divine for themselves, not having been baptized by him.",
+      "tags": [
+        "pharisees",
+        "lawyers",
+        "rejection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "To what then shall I compare the people of this generation, and what are they like?",
+      "tags": [
+        "generation",
+        "parable"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord said, Whereunto then shall I liken the men of this generation? and to what are they like?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "They are like children sitting in a marketplace and calling to one another: We piped to you, and you did not dance; we lamented, and you did not weep.",
+      "tags": [
+        "children",
+        "marketplace",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They are like unto children sitting in the marketplace, and calling one to another, and saying, We have piped unto you, and ye have not danced; we have mourned to you, and ye have not wept."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "For John the Baptist has come neither eating bread nor drinking wine, and you say, He has an unclean spirit.",
+      "tags": [
+        "john",
+        "accusation",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For John the Baptist came neither eating bread nor drinking wine; and ye say, He hath a devil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "The Son of Humanity has come eating and drinking, and you say, Look, a glutton and wine-drinker, friend of tax collectors and sinners/misaligned ones.",
+      "tags": [
+        "son-of-humanity",
+        "friend",
+        "table",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Son of man is come eating and drinking; and ye say, Behold a gluttonous man, and a winebibber, a friend of publicans and sinners!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Yet wisdom is justified by all her children.",
+      "tags": [
+        "wisdom",
+        "children",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But wisdom is justified of all her children."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "One of the Pharisees asked him to eat with him. Entering the Pharisee's house, he reclined.",
+      "tags": [
+        "pharisee",
+        "table"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of the Pharisees desired him that he would eat with him. And he went into the Pharisee’s house, and sat down to meat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Look, a woman in the city, who was a sinner/misaligned woman, learning that he reclined in the Pharisee's house, brought an alabaster jar of ointment.",
+      "tags": [
+        "woman",
+        "alabaster",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, a woman in the city, which was a sinner, when she knew that Jesus sat at meat in the Pharisee’s house, brought an alabaster box of ointment,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 38,
+      "restored": "Standing behind at his feet, weeping, she began to wet his feet with tears, wiped them with the hair of her head, kissed his feet, and anointed them with the ointment.",
+      "tags": [
+        "tears",
+        "feet",
+        "anointing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And stood at his feet behind him weeping, and began to wash his feet with tears, and did wipe them with the hairs of her head, and kissed his feet, and anointed them with the ointment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "Seeing this, the Pharisee who invited him said within himself, If this one were a prophet, he would know who and what sort of woman is touching him, that she is a sinner/misaligned one.",
+      "tags": [
+        "pharisee",
+        "judgment",
+        "touch",
+        "religious-authority",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when the Pharisee which had bidden him saw it, he spake within himself, saying, This man, if he were a prophet, would have known who and what manner of woman this is that toucheth him: for she is a sinner."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "Jesus answered him, Simon, I have something to say to you. He said, Teacher, say it.",
+      "tags": [
+        "simon",
+        "teaching",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto him, Simon, I have somewhat to say unto thee. And he saith, Master, say on."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 41,
+      "restored": "A certain lender had two debtors; one owed five hundred denarii, the other fifty.",
+      "tags": [
+        "parable",
+        "debt"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There was a certain creditor which had two debtors: the one owed five hundred pence, and the other fifty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "When they had nothing to pay, he freely forgave both. Which of them, then, will love him more?",
+      "tags": [
+        "forgiveness",
+        "love"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had nothing to pay, he frankly forgave them both. Tell me therefore, which of them will love him most?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "Simon answered, I suppose the one for whom he freely forgave more. He said to him, You judged rightly.",
+      "tags": [
+        "judgment",
+        "forgiveness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Simon answered and said, I suppose that he, to whom he forgave most. And he said unto him, Thou hast rightly judged."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "Turning toward the woman, he said to Simon, Do you see this woman? I entered your house; you gave me no water for my feet, but she wet my feet with tears and wiped them with her hair.",
+      "tags": [
+        "woman",
+        "seeing",
+        "hospitality",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he turned to the woman, and said unto Simon, Seest thou this woman? I entered into thine house, thou gavest me no water for my feet: but she hath washed my feet with tears, and wiped them with the hairs of her head."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 45,
+      "restored": "You gave me no kiss, but from the time I entered, she has not stopped kissing my feet.",
+      "tags": [
+        "kiss",
+        "hospitality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou gavest me no kiss: but this woman since the time I came in hath not ceased to kiss my feet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "You did not anoint my head with oil, but she anointed my feet with ointment.",
+      "tags": [
+        "anointing",
+        "hospitality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My head with oil thou didst not anoint: but this woman hath anointed my feet with ointment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 47,
+      "restored": "For this reason I say to you: her many sins/misalignments have been released, for she loved much; but the one to whom little is released loves little.",
+      "tags": [
+        "release",
+        "love",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I say unto thee, Her sins, which are many, are forgiven; for she loved much: but to whom little is forgiven, the same loveth little."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "He said to her, Your sins/misalignments are released.",
+      "tags": [
+        "release",
+        "woman"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto her, Thy sins are forgiven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "Those reclining with him began to say among themselves, Who is this who even releases sins/misalignments?",
+      "tags": [
+        "table",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that sat at meat with him began to say within themselves, Who is this that forgiveth sins also?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "He said to the woman, Your trust has saved/healed you; go into peace.",
+      "tags": [
+        "trust",
+        "sozo",
+        "peace",
+        "women-gender",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said to the woman, Thy faith hath saved thee; go in peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-50",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-19-of-50",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

@@ -1,47 +1,716 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":5,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for miraculous catch, calling Simon/James/John, cleansing of skin disease, paralyzed man, Levi call, table fellowship, fasting, and new wine/wineskins."},
-  "verses":[
-    {"verse":1,"restored":"It happened as the crowd pressed upon him to hear the word of the Divine, he was standing beside the lake of Gennesaret.","tags":["word","lake","crowd"]},
-    {"verse":2,"restored":"He saw two boats standing beside the lake; the fishers had gone out from them and were washing the nets.","tags":["boats","fishers","nets"]},
-    {"verse":3,"restored":"Entering one of the boats, which was Simon's, he asked him to put out a little from the land; sitting down, he taught the crowds from the boat.","tags":["simon","boat","teaching"]},
-    {"verse":4,"restored":"When he stopped speaking, he said to Simon, Put out into the deep and let down your nets for a catch.","tags":["deep","nets","catch"]},
-    {"verse":5,"restored":"Simon answered, Master, through the whole night we labored and took nothing; but at your word I will let down the nets.","tags":["simon","word","trust"]},
-    {"verse":6,"restored":"Doing this, they enclosed a great multitude of fish, and their nets were breaking.","tags":["fish","abundance"]},
-    {"verse":7,"restored":"They signaled to partners in the other boat to come help them; they came and filled both boats, so that they were sinking.","tags":["partners","boats","abundance"]},
-    {"verse":8,"restored":"Seeing this, Simon Peter fell at Jesus' knees, saying, Depart from me, Lord, because I am a sinful/misaligned man.","tags":["peter","knees","misalignment"]},
-    {"verse":9,"restored":"For astonishment seized him and all those with him at the catch of fish they had taken.","tags":["astonishment","catch"]},
-    {"verse":10,"restored":"Likewise also James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon, Do not fear; from now you will be catching people alive.","tags":["james","john","fear-not","call"]},
-    {"verse":11,"restored":"Bringing the boats to land, leaving everything, they followed him.","tags":["following","leaving"]},
-    {"verse":12,"restored":"While he was in one of the cities, look, a man full of skin disease. Seeing Jesus, he fell on his face and pleaded, Lord, if you are willing, you are able to cleanse me.","tags":["skin-disease","cleansing","willing"]},
-    {"verse":13,"restored":"Stretching out his hand, he touched him, saying, I am willing; be cleansed. Immediately the skin disease left him.","tags":["touch","cleansing","immediately"]},
-    {"verse":14,"restored":"He instructed him to tell no one, but, Go show yourself to the priest and offer for your cleansing as Moses commanded, as a testimony to them.","tags":["priest","moses","testimony"]},
-    {"verse":15,"restored":"The word about him spread even more, and great crowds came together to hear and to be healed from their weaknesses.","tags":["word","healing","crowds"]},
-    {"verse":16,"restored":"But he would withdraw in deserted places and pray.","tags":["prayer","withdrawal"]},
-    {"verse":17,"restored":"On one of the days he was teaching, Pharisees and teachers of the Law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem; and power of the Lord was with him to heal.","tags":["teaching","pharisees","healing"]},
-    {"verse":18,"restored":"Look, men were carrying on a bed a person who was paralyzed, and they were seeking to bring him in and place him before Jesus.","tags":["paralyzed","bed"]},
-    {"verse":19,"restored":"Not finding how to bring him in because of the crowd, they went up on the roof and lowered him through the tiles with the bed into the middle before Jesus.","tags":["roof","crowd","middle"]},
-    {"verse":20,"restored":"Seeing their trust, he said, Human one, your sins/misalignments are released for you.","terms":[{"display":"trust","source":"pistis","language":"Greek","glossary_id":"pistis"},{"display":"released","source":"apheontai","language":"Greek","glossary_id":"aphiemi"}],"tags":["trust","release"]},
-    {"verse":21,"restored":"The scribes and Pharisees began reasoning, saying, Who is this who speaks blasphemies? Who is able to release sins/misalignments except the Divine alone?","tags":["scribes","pharisees","release"]},
-    {"verse":22,"restored":"Jesus, knowing their reasonings, answered them, Why are you reasoning in your hearts?","tags":["heart","reasoning"]},
-    {"verse":23,"restored":"Which is easier: to say, Your sins/misalignments are released for you, or to say, Rise and walk?","tags":["release","healing"]},
-    {"verse":24,"restored":"But so that you may know that the Son of Humanity has authority on earth to release sins/misalignments, he said to the paralyzed one, I say to you, rise, take up your bed, and go to your house.","terms":[{"display":"Son of Humanity","source":"huios tou anthropou","language":"Greek","glossary_id":"son-of-humanity"}],"tags":["son-of-humanity","authority","release"]},
-    {"verse":25,"restored":"Immediately rising before them, he took up what he had been lying on and went to his house, glorifying the Divine.","tags":["immediately","glory","house"]},
-    {"verse":26,"restored":"Astonishment seized them all; they glorified the Divine and were filled with fear, saying, We have seen remarkable things today.","tags":["wonder","today"]},
-    {"verse":27,"restored":"After these things he went out and saw a tax collector named Levi sitting at the tax booth, and he said to him, Follow me.","tags":["levi","tax-collector","call"]},
-    {"verse":28,"restored":"Leaving everything, he rose and followed him.","tags":["leaving","following"]},
-    {"verse":29,"restored":"Levi made a great feast for him in his house, and there was a great crowd of tax collectors and others reclining with them.","tags":["feast","table","tax-collectors"]},
-    {"verse":30,"restored":"The Pharisees and their scribes were grumbling to his disciples, saying, Why do you eat and drink with tax collectors and sinners/misaligned ones?","tags":["pharisees","table","sinners"]},
-    {"verse":31,"restored":"Jesus answered them, Those who are healthy do not need a physician, but those having harm.","tags":["physician","healing"]},
-    {"verse":32,"restored":"I have not come to call righteous ones but sinners/misaligned ones into turning/realignment.","tags":["call","metanoia"]},
-    {"verse":33,"restored":"They said to him, John's disciples fast often and make prayers, likewise also those of the Pharisees, but yours eat and drink.","tags":["fasting","prayer"]},
-    {"verse":34,"restored":"Jesus said to them, Can you make the sons of the bridal chamber fast while the bridegroom is with them?","tags":["bridegroom","fasting"]},
-    {"verse":35,"restored":"Days will come, and when the bridegroom is taken away from them, then they will fast in those days.","tags":["bridegroom","fasting"]},
-    {"verse":36,"restored":"He also spoke a parable to them: No one tears a patch from a new garment and puts it on an old garment; otherwise the new will be torn, and the patch from the new will not match the old.","tags":["parable","new-old"]},
-    {"verse":37,"restored":"No one puts new wine into old wineskins; otherwise the new wine will burst the skins, and it will be spilled, and the skins destroyed.","tags":["new-wine","wineskins"]},
-    {"verse":38,"restored":"But new wine must be put into fresh wineskins.","tags":["new-wine"]},
-    {"verse":39,"restored":"And no one drinking old wine desires new, for he says, The old is good/useful.","tags":["old-new","wine"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for miraculous catch, calling Simon/James/John, cleansing of skin disease, paralyzed man, Levi call, table fellowship, fasting, and new wine/wineskins."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "It happened as the crowd pressed upon him to hear the word of the Divine, he was standing beside the lake of Gennesaret.",
+      "tags": [
+        "word",
+        "lake",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, as the people pressed upon him to hear the word of God, he stood by the lake of Gennesaret,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He saw two boats standing beside the lake; the fishers had gone out from them and were washing the nets.",
+      "tags": [
+        "boats",
+        "fishers",
+        "nets"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And saw two ships standing by the lake: but the fishermen were gone out of them, and were washing their nets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Entering one of the boats, which was Simon's, he asked him to put out a little from the land; sitting down, he taught the crowds from the boat.",
+      "tags": [
+        "simon",
+        "boat",
+        "teaching"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he entered into one of the ships, which was Simon’s, and prayed him that he would thrust out a little from the land. And he sat down, and taught the people out of the ship."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "When he stopped speaking, he said to Simon, Put out into the deep and let down your nets for a catch.",
+      "tags": [
+        "deep",
+        "nets",
+        "catch"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when he had left speaking, he said unto Simon, Launch out into the deep, and let down your nets for a draught."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Simon answered, Master, through the whole night we labored and took nothing; but at your word I will let down the nets.",
+      "tags": [
+        "simon",
+        "word",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Simon answering said unto him, Master, we have toiled all the night, and have taken nothing: nevertheless at thy word I will let down the net."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Doing this, they enclosed a great multitude of fish, and their nets were breaking.",
+      "tags": [
+        "fish",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had this done, they inclosed a great multitude of fishes: and their net brake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They signaled to partners in the other boat to come help them; they came and filled both boats, so that they were sinking.",
+      "tags": [
+        "partners",
+        "boats",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they beckoned unto their partners, which were in the other ship, that they should come and help them. And they came, and filled both the ships, so that they began to sink."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Seeing this, Simon Peter fell at Jesus' knees, saying, Depart from me, Lord, because I am a sinful/misaligned man.",
+      "tags": [
+        "peter",
+        "knees",
+        "misalignment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Simon Peter saw it, he fell down at Jesus’ knees, saying, Depart from me; for I am a sinful man, O Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For astonishment seized him and all those with him at the catch of fish they had taken.",
+      "tags": [
+        "astonishment",
+        "catch"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he was astonished, and all that were with him, at the draught of the fishes which they had taken:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Likewise also James and John, sons of Zebedee, who were partners with Simon. Jesus said to Simon, Do not fear; from now you will be catching people alive.",
+      "tags": [
+        "james",
+        "john",
+        "fear-not",
+        "call",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And so was also James, and John, the sons of Zebedee, which were partners with Simon. And Jesus said unto Simon, Fear not; from henceforth thou shalt catch men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Bringing the boats to land, leaving everything, they followed him.",
+      "tags": [
+        "following",
+        "leaving"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had brought their ships to land, they forsook all, and followed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "While he was in one of the cities, look, a man full of skin disease. Seeing Jesus, he fell on his face and pleaded, Lord, if you are willing, you are able to cleanse me.",
+      "tags": [
+        "skin-disease",
+        "cleansing",
+        "willing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when he was in a certain city, behold a man full of leprosy: who seeing Jesus fell on his face, and besought him, saying, Lord, if thou wilt, thou canst make me clean."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Stretching out his hand, he touched him, saying, I am willing; be cleansed. Immediately the skin disease left him.",
+      "tags": [
+        "touch",
+        "cleansing",
+        "immediately",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put forth his hand, and touched him, saying, I will: be thou clean. And immediately the leprosy departed from him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He instructed him to tell no one, but, Go show yourself to the priest and offer for your cleansing as Moses commanded, as a testimony to them.",
+      "tags": [
+        "priest",
+        "moses",
+        "testimony",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he charged him to tell no man: but go, and shew thyself to the priest, and offer for thy cleansing, according as Moses commanded, for a testimony unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "The word about him spread even more, and great crowds came together to hear and to be healed from their weaknesses.",
+      "tags": [
+        "word",
+        "healing",
+        "crowds",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But so much the more went there a fame abroad of him: and great multitudes came together to hear, and to be healed by him of their infirmities."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But he would withdraw in deserted places and pray.",
+      "tags": [
+        "prayer",
+        "withdrawal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he withdrew himself into the wilderness, and prayed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "On one of the days he was teaching, Pharisees and teachers of the Law were sitting there, who had come from every village of Galilee and Judea and from Jerusalem; and power of the Lord was with him to heal.",
+      "tags": [
+        "teaching",
+        "pharisees",
+        "healing",
+        "religious-authority",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Look, men were carrying on a bed a person who was paralyzed, and they were seeking to bring him in and place him before Jesus.",
+      "tags": [
+        "paralyzed",
+        "bed",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Not finding how to bring him in because of the crowd, they went up on the roof and lowered him through the tiles with the bed into the middle before Jesus.",
+      "tags": [
+        "roof",
+        "crowd",
+        "middle"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Seeing their trust, he said, Human one, your sins/misalignments are released for you.",
+      "terms": [
+        {
+          "display": "trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis"
+        },
+        {
+          "display": "released",
+          "source": "apheontai",
+          "language": "Greek",
+          "glossary_id": "aphiemi"
+        }
+      ],
+      "tags": [
+        "trust",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he saw their faith, he said unto him, Man, thy sins are forgiven thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The scribes and Pharisees began reasoning, saying, Who is this who speaks blasphemies? Who is able to release sins/misalignments except the Divine alone?",
+      "tags": [
+        "scribes",
+        "pharisees",
+        "release",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Jesus, knowing their reasonings, answered them, Why are you reasoning in your hearts?",
+      "tags": [
+        "heart",
+        "reasoning",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Which is easier: to say, Your sins/misalignments are released for you, or to say, Rise and walk?",
+      "tags": [
+        "release",
+        "healing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "But so that you may know that the Son of Humanity has authority on earth to release sins/misalignments, he said to the paralyzed one, I say to you, rise, take up your bed, and go to your house.",
+      "terms": [
+        {
+          "display": "Son of Humanity",
+          "source": "huios tou anthropou",
+          "language": "Greek",
+          "glossary_id": "son-of-humanity"
+        }
+      ],
+      "tags": [
+        "son-of-humanity",
+        "authority",
+        "release",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Immediately rising before them, he took up what he had been lying on and went to his house, glorifying the Divine.",
+      "tags": [
+        "immediately",
+        "glory",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Astonishment seized them all; they glorified the Divine and were filled with fear, saying, We have seen remarkable things today.",
+      "tags": [
+        "wonder",
+        "today"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "After these things he went out and saw a tax collector named Levi sitting at the tax booth, and he said to him, Follow me.",
+      "tags": [
+        "levi",
+        "tax-collector",
+        "call"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after these things he went forth, and saw a publican, named Levi, sitting at the receipt of custom: and he said unto him, Follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Leaving everything, he rose and followed him.",
+      "tags": [
+        "leaving",
+        "following"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he left all, rose up, and followed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Levi made a great feast for him in his house, and there was a great crowd of tax collectors and others reclining with them.",
+      "tags": [
+        "feast",
+        "table",
+        "tax-collectors"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Levi made him a great feast in his own house: and there was a great company of publicans and of others that sat down with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "The Pharisees and their scribes were grumbling to his disciples, saying, Why do you eat and drink with tax collectors and sinners/misaligned ones?",
+      "tags": [
+        "pharisees",
+        "table",
+        "sinners",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But their scribes and Pharisees murmured against his disciples, saying, Why do ye eat and drink with publicans and sinners?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Jesus answered them, Those who are healthy do not need a physician, but those having harm.",
+      "tags": [
+        "physician",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto them, They that are whole need not a physician; but they that are sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "I have not come to call righteous ones but sinners/misaligned ones into turning/realignment.",
+      "tags": [
+        "call",
+        "metanoia"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I came not to call the righteous, but sinners to repentance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "They said to him, John's disciples fast often and make prayers, likewise also those of the Pharisees, but yours eat and drink.",
+      "tags": [
+        "fasting",
+        "prayer",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto him, Why do the disciples of John fast often, and make prayers, and likewise the disciples of the Pharisees; but thine eat and drink?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Jesus said to them, Can you make the sons of the bridal chamber fast while the bridegroom is with them?",
+      "tags": [
+        "bridegroom",
+        "fasting",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Can ye make the children of the bridechamber fast, while the bridegroom is with them?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Days will come, and when the bridegroom is taken away from them, then they will fast in those days.",
+      "tags": [
+        "bridegroom",
+        "fasting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the days will come, when the bridegroom shall be taken away from them, and then shall they fast in those days."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "He also spoke a parable to them: No one tears a patch from a new garment and puts it on an old garment; otherwise the new will be torn, and the patch from the new will not match the old.",
+      "tags": [
+        "parable",
+        "new-old"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake also a parable unto them; No man putteth a piece of a new garment upon an old; if otherwise, then both the new maketh a rent, and the piece that was taken out of the new agreeth not with the old."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "No one puts new wine into old wineskins; otherwise the new wine will burst the skins, and it will be spilled, and the skins destroyed.",
+      "tags": [
+        "new-wine",
+        "wineskins"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And no man putteth new wine into old bottles; else the new wine will burst the bottles, and be spilled, and the bottles shall perish."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "But new wine must be put into fresh wineskins.",
+      "tags": [
+        "new-wine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But new wine must be put into new bottles; and both are preserved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "And no one drinking old wine desires new, for he says, The old is good/useful.",
+      "tags": [
+        "old-new",
+        "wine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No man also having drunk old wine straightway desireth new: for he saith, The old is better."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-39",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-39",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

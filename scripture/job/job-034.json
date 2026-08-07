@@ -1,43 +1,727 @@
 {
-  "book":"Job","book_id":"job","chapter":34,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Elihu's justice speech: appeal to wise hearers, quotation/summary of Job, defense of divine justice, impartiality toward rulers and poor, divine seeing, hiddenness, and Elihu's critique of Job. Marked as Elihu's speech, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"Elihu answered and said:","tags":["elihu","speech"]},
-    {"verse":2,"restored":"Hear my words, you wise ones, and give ear to me, you who know.","tags":["wisdom","hearing"]},
-    {"verse":3,"restored":"For the ear tests words as the palate tastes food.","tags":["discernment","words"]},
-    {"verse":4,"restored":"Let us choose justice for ourselves; let us know among ourselves what is good.","tags":["justice","good"]},
-    {"verse":5,"restored":"For Job has said, I am righteous, but the Divine has turned aside my justice.","tags":["job","righteousness","justice"]},
-    {"verse":6,"restored":"Concerning my justice, should I lie? My wound is incurable though I have no transgression.","tags":["wound","transgression"]},
-    {"verse":7,"restored":"What man is like Job, who drinks mockery like water,","tags":["job","mockery"]},
-    {"verse":8,"restored":"who travels in company with workers of harm and walks with wicked people?","tags":["wicked","harm"]},
-    {"verse":9,"restored":"For he has said, It profits a strong man nothing to delight in the Divine.","tags":["profit","divine"]},
-    {"verse":10,"restored":"Therefore, hear me, people of heart: far be it from the Divine to do wickedness, and from Shaddai to do injustice.","tags":["divine-justice","shaddai"]},
-    {"verse":11,"restored":"For he repays a human according to his deed, and according to a person's way he makes it find him.","tags":["deed","way","retribution"]},
-    {"verse":12,"restored":"Surely the Divine does not do wickedness, and Shaddai does not twist justice.","tags":["justice","shaddai"]},
-    {"verse":13,"restored":"Who appointed the earth to him, and who placed the whole world under him?","tags":["earth","world"]},
-    {"verse":14,"restored":"If he set his heart upon himself, if he gathered to himself his spirit and breath,","tags":["spirit","breath"]},
-    {"verse":15,"restored":"all flesh would expire together, and humanity would return to dust.","tags":["flesh","dust","mortality"]},
-    {"verse":16,"restored":"If you have understanding, hear this; give ear to the sound of my words.","tags":["understanding","hearing"]},
-    {"verse":17,"restored":"Shall one who hates justice govern? Will you condemn the righteous, mighty One?","tags":["justice","govern"]},
-    {"verse":18,"restored":"Who says to a king, Worthless one, and to nobles, Wicked one?","tags":["kings","nobles"]},
-    {"verse":19,"restored":"Who shows no partiality to princes and does not recognize rich more than poor, for they are all the work of his hands?","tags":["partiality","rich","poor"]},
-    {"verse":20,"restored":"In a moment they die; at midnight people are shaken and pass away, and the mighty are removed without a hand.","tags":["death","mighty"]},
-    {"verse":21,"restored":"For his eyes are on a person's ways, and he sees all his steps.","tags":["eyes","ways","steps"]},
-    {"verse":22,"restored":"There is no darkness and no deep shadow where workers of harm may hide themselves.","tags":["darkness","shadow","hidden"]},
-    {"verse":23,"restored":"For he does not need to set a time for a person to go before the Divine in judgment.","tags":["judgment","time"]},
-    {"verse":24,"restored":"He breaks mighty ones without searching and sets others in their place.","tags":["mighty","reversal"]},
-    {"verse":25,"restored":"Therefore he recognizes their works; he overturns them in the night, and they are crushed.","tags":["works","night"]},
-    {"verse":26,"restored":"He strikes them as wicked people in a place where others see,","tags":["wicked","public"]},
-    {"verse":27,"restored":"because they turned aside from following him and had no insight into any of his ways,","tags":["turning","ways"]},
-    {"verse":28,"restored":"so that they caused the cry of the poor to come to him, and he heard the cry of the afflicted.","tags":["poor","cry","afflicted"]},
-    {"verse":29,"restored":"When he gives quiet, who can condemn? When he hides his face, who can behold him, whether over a nation or a human together?","tags":["hidden-face","nation"]},
-    {"verse":30,"restored":"so that a godless person should not reign, nor be snares for the people.","tags":["godless","rule"]},
-    {"verse":31,"restored":"For has anyone said to the Divine, I have borne chastening; I will not act corruptly?","tags":["chastening","corruption"]},
-    {"verse":32,"restored":"What I do not see, teach me; if I have done injustice, I will not do it again.","tags":["teach","injustice"]},
-    {"verse":33,"restored":"Should he repay on your terms because you reject it? You must choose, not I; so speak what you know.","tags":["repayment","choice"]},
-    {"verse":34,"restored":"People of heart will say to me, and a wise man who hears me:","tags":["wise","heart"]},
-    {"verse":35,"restored":"Job speaks without knowledge, and his words are without insight.","tags":["job","knowledge"]},
-    {"verse":36,"restored":"Would that Job were tested to the end, because of answers like people of harm.","tags":["testing","harm"]},
-    {"verse":37,"restored":"For he adds rebellion to his sin; among us he claps his hands and multiplies his words against the Divine.","tags":["rebellion","words","divine"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 34,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Elihu's justice speech: appeal to wise hearers, quotation/summary of Job, defense of divine justice, impartiality toward rulers and poor, divine seeing, hiddenness, and Elihu's critique of Job. Marked as Elihu's speech, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Elihu answered and said:",
+      "tags": [
+        "elihu",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Furthermore Elihu answered and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Hear my words, you wise ones, and give ear to me, you who know.",
+      "tags": [
+        "wisdom",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear my words, O ye wise men; and give ear unto me, ye that have knowledge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For the ear tests words as the palate tastes food.",
+      "tags": [
+        "discernment",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the ear trieth words, as the mouth tasteth meat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Let us choose justice for ourselves; let us know among ourselves what is good.",
+      "tags": [
+        "justice",
+        "good"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let us choose to us judgment: let us know among ourselves what is good."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For Job has said, I am righteous, but the Divine has turned aside my justice.",
+      "tags": [
+        "job",
+        "righteousness",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For Job hath said, I am righteous: and God hath taken away my judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Concerning my justice, should I lie? My wound is incurable though I have no transgression.",
+      "tags": [
+        "wound",
+        "transgression"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Should I lie against my right? my wound is incurable without transgression."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "What man is like Job, who drinks mockery like water,",
+      "tags": [
+        "job",
+        "mockery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What man is like Job, who drinketh up scorning like water?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "who travels in company with workers of harm and walks with wicked people?",
+      "tags": [
+        "wicked",
+        "harm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which goeth in company with the workers of iniquity, and walketh with wicked men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For he has said, It profits a strong man nothing to delight in the Divine.",
+      "tags": [
+        "profit",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he hath said, It profiteth a man nothing that he should delight himself with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Therefore, hear me, people of heart: far be it from the Divine to do wickedness, and from Shaddai to do injustice.",
+      "tags": [
+        "divine-justice",
+        "shaddai"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore hearken unto me ye men of understanding: far be it from God, that he should do wickedness; and from the Almighty, that he should commit iniquity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For he repays a human according to his deed, and according to a person's way he makes it find him.",
+      "tags": [
+        "deed",
+        "way",
+        "retribution",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the work of a man shall he render unto him, and cause every man to find according to his ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Surely the Divine does not do wickedness, and Shaddai does not twist justice.",
+      "tags": [
+        "justice",
+        "shaddai"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, surely God will not do wickedly, neither will the Almighty pervert judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Who appointed the earth to him, and who placed the whole world under him?",
+      "tags": [
+        "earth",
+        "world"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who hath given him a charge over the earth? or who hath disposed the whole world?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "If he set his heart upon himself, if he gathered to himself his spirit and breath,",
+      "tags": [
+        "spirit",
+        "breath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If he set his heart upon man, if he gather unto himself his spirit and his breath;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "all flesh would expire together, and humanity would return to dust.",
+      "tags": [
+        "flesh",
+        "dust",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "All flesh shall perish together, and man shall turn again unto dust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "If you have understanding, hear this; give ear to the sound of my words.",
+      "tags": [
+        "understanding",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If now thou hast understanding, hear this: hearken to the voice of my words."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Shall one who hates justice govern? Will you condemn the righteous, mighty One?",
+      "tags": [
+        "justice",
+        "govern"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall even he that hateth right govern? and wilt thou condemn him that is most just?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Who says to a king, Worthless one, and to nobles, Wicked one?",
+      "tags": [
+        "kings",
+        "nobles",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Who shows no partiality to princes and does not recognize rich more than poor, for they are all the work of his hands?",
+      "tags": [
+        "partiality",
+        "rich",
+        "poor",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How much less to him that accepteth not the persons of princes, nor regardeth the rich more than the poor? for they all are the work of his hands."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "In a moment they die; at midnight people are shaken and pass away, and the mighty are removed without a hand.",
+      "tags": [
+        "death",
+        "mighty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In a moment shall they die, and the people shall be troubled at midnight, and pass away: and the mighty shall be taken away without hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For his eyes are on a person's ways, and he sees all his steps.",
+      "tags": [
+        "eyes",
+        "ways",
+        "steps",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For his eyes are upon the ways of man, and he seeth all his goings."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "There is no darkness and no deep shadow where workers of harm may hide themselves.",
+      "tags": [
+        "darkness",
+        "shadow",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There is no darkness, nor shadow of death, where the workers of iniquity may hide themselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For he does not need to set a time for a person to go before the Divine in judgment.",
+      "tags": [
+        "judgment",
+        "time",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he will not lay upon man more than right; that he should enter into judgment with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He breaks mighty ones without searching and sets others in their place.",
+      "tags": [
+        "mighty",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall break in pieces mighty men without number, and set others in their stead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Therefore he recognizes their works; he overturns them in the night, and they are crushed.",
+      "tags": [
+        "works",
+        "night"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore he knoweth their works, and he overturneth them in the night, so that they are destroyed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "He strikes them as wicked people in a place where others see,",
+      "tags": [
+        "wicked",
+        "public"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He striketh them as wicked men in the open sight of others;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "because they turned aside from following him and had no insight into any of his ways,",
+      "tags": [
+        "turning",
+        "ways"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because they turned back from him, and would not consider any of his ways:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "so that they caused the cry of the poor to come to him, and he heard the cry of the afflicted.",
+      "tags": [
+        "poor",
+        "cry",
+        "afflicted",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "When he gives quiet, who can condemn? When he hides his face, who can behold him, whether over a nation or a human together?",
+      "tags": [
+        "hidden-face",
+        "nation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When he giveth quietness, who then can make trouble? and when he hideth his face, who then can behold him? whether it be done against a nation, or against a man only:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "so that a godless person should not reign, nor be snares for the people.",
+      "tags": [
+        "godless",
+        "rule",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That the hypocrite reign not, lest the people be ensnared."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "For has anyone said to the Divine, I have borne chastening; I will not act corruptly?",
+      "tags": [
+        "chastening",
+        "corruption"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely it is meet to be said unto God, I have borne chastisement, I will not offend any more:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "What I do not see, teach me; if I have done injustice, I will not do it again.",
+      "tags": [
+        "teach",
+        "injustice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That which I see not teach thou me: if I have done iniquity, I will do no more."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Should he repay on your terms because you reject it? You must choose, not I; so speak what you know.",
+      "tags": [
+        "repayment",
+        "choice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Should it be according to thy mind? he will recompense it, whether thou refuse, or whether thou choose; and not I: therefore speak what thou knowest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "People of heart will say to me, and a wise man who hears me:",
+      "tags": [
+        "wise",
+        "heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let men of understanding tell me, and let a wise man hearken unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Job speaks without knowledge, and his words are without insight.",
+      "tags": [
+        "job",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Job hath spoken without knowledge, and his words were without wisdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Would that Job were tested to the end, because of answers like people of harm.",
+      "tags": [
+        "testing",
+        "harm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My desire is that Job may be tried unto the end because of his answers for wicked men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "For he adds rebellion to his sin; among us he claps his hands and multiplies his words against the Divine.",
+      "tags": [
+        "rebellion",
+        "words",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-37",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-37",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

@@ -1,22 +1,316 @@
 {
-  "book":"Job","book_id":"job","chapter":35,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Elihu's speech on righteousness, benefit/harm, oppression cries, songs in the night, unanswered prayer, and Job's alleged empty speech. Marked as Elihu's speech, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"Elihu answered and said:","tags":["elihu","speech"]},
-    {"verse":2,"restored":"Do you think this is justice? You say, My righteousness is more than the Divine's.","tags":["justice","righteousness"]},
-    {"verse":3,"restored":"For you say, What benefit is it to you? What profit do I have more than if I had sinned?","tags":["benefit","sin"]},
-    {"verse":4,"restored":"I will answer you with words, and your friends with you.","tags":["answer","friends"]},
-    {"verse":5,"restored":"Look toward the heavens and see; behold the clouds, which are higher than you.","tags":["heavens","clouds"]},
-    {"verse":6,"restored":"If you sin, what do you do against him? If your transgressions multiply, what do you do to him?","tags":["sin","transgression"]},
-    {"verse":7,"restored":"If you are righteous, what do you give him, or what does he receive from your hand?","tags":["righteousness","hand"]},
-    {"verse":8,"restored":"Your harm affects a person like yourself, and your righteousness a human being.","tags":["human","ethics"]},
-    {"verse":9,"restored":"Because of many oppressions people cry out; they cry for help because of the arm of the great.","tags":["oppression","cry"]},
-    {"verse":10,"restored":"But no one says, Where is the Divine my Maker, who gives songs in the night,","tags":["maker","songs-night"]},
-    {"verse":11,"restored":"who teaches us more than the beasts of the earth and makes us wiser than the birds of the heavens?","tags":["teaching","animals","wisdom"]},
-    {"verse":12,"restored":"There they cry out, but he does not answer, because of the pride of evil people.","tags":["cry","pride"]},
-    {"verse":13,"restored":"Surely emptiness the Divine will not hear, and Shaddai will not regard it.","tags":["emptiness","shaddai"]},
-    {"verse":14,"restored":"How much less when you say you do not behold him; the case is before him, and you must wait for him.","tags":["hidden-god","case","waiting"]},
-    {"verse":15,"restored":"But now, because his anger has not punished, and he does not greatly regard transgression,","tags":["anger","transgression"]},
-    {"verse":16,"restored":"Job opens his mouth in emptiness; without knowledge he multiplies words.","tags":["job","words","knowledge"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 35,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Elihu's speech on righteousness, benefit/harm, oppression cries, songs in the night, unanswered prayer, and Job's alleged empty speech. Marked as Elihu's speech, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Elihu answered and said:",
+      "tags": [
+        "elihu",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Elihu spake moreover, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Do you think this is justice? You say, My righteousness is more than the Divine's.",
+      "tags": [
+        "justice",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For you say, What benefit is it to you? What profit do I have more than if I had sinned?",
+      "tags": [
+        "benefit",
+        "sin"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I will answer you with words, and your friends with you.",
+      "tags": [
+        "answer",
+        "friends"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I will answer thee, and thy companions with thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Look toward the heavens and see; behold the clouds, which are higher than you.",
+      "tags": [
+        "heavens",
+        "clouds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Look unto the heavens, and see; and behold the clouds which are higher than thou."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "If you sin, what do you do against him? If your transgressions multiply, what do you do to him?",
+      "tags": [
+        "sin",
+        "transgression"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If you are righteous, what do you give him, or what does he receive from your hand?",
+      "tags": [
+        "righteousness",
+        "hand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Your harm affects a person like yourself, and your righteousness a human being.",
+      "tags": [
+        "human",
+        "ethics",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Because of many oppressions people cry out; they cry for help because of the arm of the great.",
+      "tags": [
+        "oppression",
+        "cry"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "But no one says, Where is the Divine my Maker, who gives songs in the night,",
+      "tags": [
+        "maker",
+        "songs-night",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But none saith, Where is God my maker, who giveth songs in the night;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "who teaches us more than the beasts of the earth and makes us wiser than the birds of the heavens?",
+      "tags": [
+        "teaching",
+        "animals",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "There they cry out, but he does not answer, because of the pride of evil people.",
+      "tags": [
+        "cry",
+        "pride"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There they cry, but none giveth answer, because of the pride of evil men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Surely emptiness the Divine will not hear, and Shaddai will not regard it.",
+      "tags": [
+        "emptiness",
+        "shaddai"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely God will not hear vanity, neither will the Almighty regard it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "How much less when you say you do not behold him; the case is before him, and you must wait for him.",
+      "tags": [
+        "hidden-god",
+        "case",
+        "waiting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But now, because his anger has not punished, and he does not greatly regard transgression,",
+      "tags": [
+        "anger",
+        "transgression"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But now, because it is not so, he hath visited in his anger; yet he knoweth it not in great extremity:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Job opens his mouth in emptiness; without knowledge he multiplies words.",
+      "tags": [
+        "job",
+        "words",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore doth Job open his mouth in vain; he multiplieth words without knowledge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-16",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

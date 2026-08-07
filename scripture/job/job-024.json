@@ -1,31 +1,462 @@
 {
-  "book":"Job","book_id":"job","chapter":24,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's challenge to retribution theology: hidden times, social injustice, exploitation of poor/widows/orphans, night crimes, divine delay, and unresolved wicked prosperity."},
-  "verses":[
-    {"verse":1,"restored":"Why are times not stored up by Shaddai, and why do those who know him not see his days?","tags":["shaddai","times","justice-delay"]},
-    {"verse":2,"restored":"People move boundary markers; they seize flocks and pasture them.","tags":["land-theft","flocks"]},
-    {"verse":3,"restored":"They drive away the donkey of orphans; they take the widow’s ox as pledge.","tags":["orphans","widow","pledge"]},
-    {"verse":4,"restored":"They turn the needy aside from the way; the poor of the earth hide together.","tags":["poor","needy"]},
-    {"verse":5,"restored":"Look, like wild donkeys in the wilderness, they go out to their work, seeking food; the desert gives bread for their young.","tags":["poor","wilderness","bread"]},
-    {"verse":6,"restored":"In the field they harvest fodder, and they glean the vineyard of the wicked.","tags":["gleaning","wicked"]},
-    {"verse":7,"restored":"They spend the night naked, without clothing, and have no covering in the cold.","tags":["poor","cold","clothing"]},
-    {"verse":8,"restored":"They are wet with mountain rain and cling to the rock for lack of shelter.","tags":["rain","shelter"]},
-    {"verse":9,"restored":"The orphan is torn from the breast, and a pledge is taken from the poor.","tags":["orphan","poor","pledge"]},
-    {"verse":10,"restored":"They go about naked, without clothing; hungry, they carry sheaves.","tags":["hungry","sheaves"]},
-    {"verse":11,"restored":"Between their walls they press oil; they tread winepresses, yet thirst.","tags":["oil","winepress","thirst"]},
-    {"verse":12,"restored":"From the city people groan, and the soul of the wounded cries out; yet the Divine does not charge it as folly.","tags":["city","groaning","divine-delay"]},
-    {"verse":13,"restored":"They are among rebels against light; they do not recognize its ways and do not remain in its paths.","tags":["light","rebellion"]},
-    {"verse":14,"restored":"At dawn the murderer rises; he kills the poor and needy, and in the night he is like a thief.","tags":["violence","poor","night"]},
-    {"verse":15,"restored":"The eye of the adulterer waits for twilight, saying, No eye will see me, and he sets a covering on his face.","tags":["hiddenness","face"]},
-    {"verse":16,"restored":"In the dark they dig through houses; by day they shut themselves in; they do not know light.","tags":["darkness","houses"]},
-    {"verse":17,"restored":"For deep darkness is morning to all of them, because they know the terrors of deep darkness.","tags":["deep-darkness","terror"]},
-    {"verse":18,"restored":"They are swift on the face of the waters; their portion is cursed in the earth; no one turns toward the way of the vineyards.","tags":["waters","curse"]},
-    {"verse":19,"restored":"Drought and heat steal snow-waters; Sheol steals those who have sinned.","tags":["drought","sheol","sin"]},
-    {"verse":20,"restored":"The womb forgets him; worms feed sweetly on him; he is remembered no more, and injustice is broken like a tree.","tags":["forgetting","injustice","tree"]},
-    {"verse":21,"restored":"He feeds on the barren woman who does not bear and does no good to the widow.","tags":["barren","widow"]},
-    {"verse":22,"restored":"Yet he draws the mighty by his power; he rises up, and no one is sure of life.","tags":["power","life"]},
-    {"verse":23,"restored":"He gives him security, and he leans on it; yet his eyes are on their ways.","tags":["security","watching"]},
-    {"verse":24,"restored":"They are lifted a little, then are no more; they are brought low, gathered like all others, and cut off like heads of grain.","tags":["mortality","grain"]},
-    {"verse":25,"restored":"If it is not so, who will make me a liar and make my word nothing?","tags":["challenge","truth"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 24,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's challenge to retribution theology: hidden times, social injustice, exploitation of poor/widows/orphans, night crimes, divine delay, and unresolved wicked prosperity."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Why are times not stored up by Shaddai, and why do those who know him not see his days?",
+      "tags": [
+        "shaddai",
+        "times",
+        "justice-delay"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Why, seeing times are not hidden from the Almighty, do they that know him not see his days?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "People move boundary markers; they seize flocks and pasture them.",
+      "tags": [
+        "land-theft",
+        "flocks"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Some remove the landmarks; they violently take away flocks, and feed thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They drive away the donkey of orphans; they take the widow’s ox as pledge.",
+      "tags": [
+        "orphans",
+        "widow",
+        "pledge",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They drive away the ass of the fatherless, they take the widow’s ox for a pledge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "They turn the needy aside from the way; the poor of the earth hide together.",
+      "tags": [
+        "poor",
+        "needy",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They turn the needy out of the way: the poor of the earth hide themselves together."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Look, like wild donkeys in the wilderness, they go out to their work, seeking food; the desert gives bread for their young.",
+      "tags": [
+        "poor",
+        "wilderness",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "In the field they harvest fodder, and they glean the vineyard of the wicked.",
+      "tags": [
+        "gleaning",
+        "wicked"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They reap every one his corn in the field: and they gather the vintage of the wicked."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They spend the night naked, without clothing, and have no covering in the cold.",
+      "tags": [
+        "poor",
+        "cold",
+        "clothing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They cause the naked to lodge without clothing, that they have no covering in the cold."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They are wet with mountain rain and cling to the rock for lack of shelter.",
+      "tags": [
+        "rain",
+        "shelter"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They are wet with the showers of the mountains, and embrace the rock for want of a shelter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The orphan is torn from the breast, and a pledge is taken from the poor.",
+      "tags": [
+        "orphan",
+        "poor",
+        "pledge",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They pluck the fatherless from the breast, and take a pledge of the poor."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They go about naked, without clothing; hungry, they carry sheaves.",
+      "tags": [
+        "hungry",
+        "sheaves",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They cause him to go naked without clothing, and they take away the sheaf from the hungry;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Between their walls they press oil; they tread winepresses, yet thirst.",
+      "tags": [
+        "oil",
+        "winepress",
+        "thirst"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which make oil within their walls, and tread their winepresses, and suffer thirst."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "From the city people groan, and the soul of the wounded cries out; yet the Divine does not charge it as folly.",
+      "tags": [
+        "city",
+        "groaning",
+        "divine-delay"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Men groan from out of the city, and the soul of the wounded crieth out: yet God layeth not folly to them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They are among rebels against light; they do not recognize its ways and do not remain in its paths.",
+      "tags": [
+        "light",
+        "rebellion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They are of those that rebel against the light; they know not the ways thereof, nor abide in the paths thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "At dawn the murderer rises; he kills the poor and needy, and in the night he is like a thief.",
+      "tags": [
+        "violence",
+        "poor",
+        "night",
+        "war-violence",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The murderer rising with the light killeth the poor and needy, and in the night is as a thief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "The eye of the adulterer waits for twilight, saying, No eye will see me, and he sets a covering on his face.",
+      "tags": [
+        "hiddenness",
+        "face"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The eye also of the adulterer waiteth for the twilight, saying, No eye shall see me: and disguiseth his face."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "In the dark they dig through houses; by day they shut themselves in; they do not know light.",
+      "tags": [
+        "darkness",
+        "houses"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For deep darkness is morning to all of them, because they know the terrors of deep darkness.",
+      "tags": [
+        "deep-darkness",
+        "terror"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "They are swift on the face of the waters; their portion is cursed in the earth; no one turns toward the way of the vineyards.",
+      "tags": [
+        "waters",
+        "curse"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He is swift as the waters; their portion is cursed in the earth: he beholdeth not the way of the vineyards."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Drought and heat steal snow-waters; Sheol steals those who have sinned.",
+      "tags": [
+        "drought",
+        "sheol",
+        "sin"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Drought and heat consume the snow waters: so doth the grave those which have sinned."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The womb forgets him; worms feed sweetly on him; he is remembered no more, and injustice is broken like a tree.",
+      "tags": [
+        "forgetting",
+        "injustice",
+        "tree"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The womb shall forget him; the worm shall feed sweetly on him; he shall be no more remembered; and wickedness shall be broken as a tree."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He feeds on the barren woman who does not bear and does no good to the widow.",
+      "tags": [
+        "barren",
+        "widow",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He evil entreateth the barren that beareth not: and doeth not good to the widow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Yet he draws the mighty by his power; he rises up, and no one is sure of life.",
+      "tags": [
+        "power",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He draweth also the mighty with his power: he riseth up, and no man is sure of life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "He gives him security, and he leans on it; yet his eyes are on their ways.",
+      "tags": [
+        "security",
+        "watching"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though it be given him to be in safety, whereon he resteth; yet his eyes are upon their ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "They are lifted a little, then are no more; they are brought low, gathered like all others, and cut off like heads of grain.",
+      "tags": [
+        "mortality",
+        "grain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They are exalted for a little while, but are gone and brought low; they are taken out of the way as all other, and cut off as the tops of the ears of corn."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "If it is not so, who will make me a liar and make my word nothing?",
+      "tags": [
+        "challenge",
+        "truth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if it be not so now, who will make me a liar, and make my speech nothing worth?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-25",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

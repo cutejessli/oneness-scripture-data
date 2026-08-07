@@ -1,31 +1,473 @@
 {
-  "book":"Job","book_id":"job","chapter":12,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's reply to Zophar: sarcastic rebuke of friends' assumed wisdom, appeal to animals/earth/fish, God's sovereignty over breath and nations, and reversal of rulers/counselors."},
-  "verses":[
-    {"verse":1,"restored":"Job answered and said:","tags":["job","reply"]},
-    {"verse":2,"restored":"Surely you are the people, and wisdom will die with you.","tags":["sarcasm","wisdom"]},
-    {"verse":3,"restored":"But I too have a heart like you; I do not fall below you. Who does not know such things as these?","tags":["heart","wisdom"]},
-    {"verse":4,"restored":"I am a laughingstock to my companion, one who called to the Divine and was answered; a laughingstock, righteous and whole.","tags":["laughingstock","righteous","whole"]},
-    {"verse":5,"restored":"In the thought of one at ease there is contempt for calamity; it is ready for those whose foot slips.","tags":["ease","calamity","contempt"]},
-    {"verse":6,"restored":"The tents of destroyers are at ease, and those who provoke the Divine are secure, those who bring a god in their hand.","tags":["wicked-prosperity","security"]},
-    {"verse":7,"restored":"But ask the animals, and they will teach you; the birds of the heavens, and they will tell you.","tags":["animals","teaching"]},
-    {"verse":8,"restored":"Or speak to the earth, and it will teach you; the fish of the sea will recount to you.","tags":["earth","fish","wisdom"]},
-    {"verse":9,"restored":"Who among all these does not know that the hand of the Eternal has done this?","tags":["hand","creation"]},
-    {"verse":10,"restored":"In his hand is the life of every living thing and the breath of all human flesh.","tags":["life","breath","flesh"]},
-    {"verse":11,"restored":"Does not the ear test words as the palate tastes food?","tags":["discernment","words"]},
-    {"verse":12,"restored":"With the aged is wisdom, and length of days is understanding.","tags":["aged","wisdom"]},
-    {"verse":13,"restored":"With him are wisdom and strength; counsel and understanding are his.","tags":["divine-wisdom","strength"]},
-    {"verse":14,"restored":"Look, he tears down, and it cannot be rebuilt; he shuts over a person, and it cannot be opened.","tags":["power","closed"]},
-    {"verse":15,"restored":"Look, he withholds waters and they dry up; he sends them out and they overturn the earth.","tags":["waters","earth"]},
-    {"verse":16,"restored":"With him are strength and sound wisdom; the deceived and the deceiver are his.","tags":["deception","wisdom"]},
-    {"verse":17,"restored":"He leads counselors away stripped, and judges he makes fools.","tags":["counselors","judges"]},
-    {"verse":18,"restored":"He loosens the bond of kings and binds a belt around their waist.","tags":["kings","reversal"]},
-    {"verse":19,"restored":"He leads priests away stripped and overthrows the enduring ones.","tags":["priests","reversal"]},
-    {"verse":20,"restored":"He removes speech from the trusted and takes away the discernment of elders.","tags":["speech","elders"]},
-    {"verse":21,"restored":"He pours contempt on nobles and loosens the belt of the strong.","tags":["nobles","strong"]},
-    {"verse":22,"restored":"He uncovers deep things from darkness and brings deep shadow to light.","tags":["darkness","light","revelation"]},
-    {"verse":23,"restored":"He makes nations great and destroys them; he spreads nations out and leads them away.","tags":["nations","reversal"]},
-    {"verse":24,"restored":"He removes the heart of the heads of the people of the earth and makes them wander in a wasteland where there is no way.","tags":["leaders","wandering"]},
-    {"verse":25,"restored":"They grope in darkness without light, and he makes them stagger like a drunkard.","tags":["darkness","staggering"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's reply to Zophar: sarcastic rebuke of friends' assumed wisdom, appeal to animals/earth/fish, God's sovereignty over breath and nations, and reversal of rulers/counselors."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Job answered and said:",
+      "tags": [
+        "job",
+        "reply"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Job answered and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Surely you are the people, and wisdom will die with you.",
+      "tags": [
+        "sarcasm",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No doubt but ye are the people, and wisdom shall die with you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But I too have a heart like you; I do not fall below you. Who does not know such things as these?",
+      "tags": [
+        "heart",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I am a laughingstock to my companion, one who called to the Divine and was answered; a laughingstock, righteous and whole.",
+      "tags": [
+        "laughingstock",
+        "righteous",
+        "whole"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "In the thought of one at ease there is contempt for calamity; it is ready for those whose foot slips.",
+      "tags": [
+        "ease",
+        "calamity",
+        "contempt"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "The tents of destroyers are at ease, and those who provoke the Divine are secure, those who bring a god in their hand.",
+      "tags": [
+        "wicked-prosperity",
+        "security"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The tabernacles of robbers prosper, and they that provoke God are secure; into whose hand God bringeth abundantly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But ask the animals, and they will teach you; the birds of the heavens, and they will tell you.",
+      "tags": [
+        "animals",
+        "teaching"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Or speak to the earth, and it will teach you; the fish of the sea will recount to you.",
+      "tags": [
+        "earth",
+        "fish",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Who among all these does not know that the hand of the Eternal has done this?",
+      "tags": [
+        "hand",
+        "creation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who knoweth not in all these that the hand of the LORD hath wrought this?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "In his hand is the life of every living thing and the breath of all human flesh.",
+      "tags": [
+        "life",
+        "breath",
+        "flesh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In whose hand is the soul of every living thing, and the breath of all mankind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Does not the ear test words as the palate tastes food?",
+      "tags": [
+        "discernment",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth not the ear try words? and the mouth taste his meat?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "With the aged is wisdom, and length of days is understanding.",
+      "tags": [
+        "aged",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "With the ancient is wisdom; and in length of days understanding."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "With him are wisdom and strength; counsel and understanding are his.",
+      "tags": [
+        "divine-wisdom",
+        "strength"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "With him is wisdom and strength, he hath counsel and understanding."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Look, he tears down, and it cannot be rebuilt; he shuts over a person, and it cannot be opened.",
+      "tags": [
+        "power",
+        "closed",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, he breaketh down, and it cannot be built again: he shutteth up a man, and there can be no opening."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Look, he withholds waters and they dry up; he sends them out and they overturn the earth.",
+      "tags": [
+        "waters",
+        "earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, he withholdeth the waters, and they dry up: also he sendeth them out, and they overturn the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "With him are strength and sound wisdom; the deceived and the deceiver are his.",
+      "tags": [
+        "deception",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "With him is strength and wisdom: the deceived and the deceiver are his."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He leads counselors away stripped, and judges he makes fools.",
+      "tags": [
+        "counselors",
+        "judges"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He leadeth counsellors away spoiled, and maketh the judges fools."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He loosens the bond of kings and binds a belt around their waist.",
+      "tags": [
+        "kings",
+        "reversal",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He looseth the bond of kings, and girdeth their loins with a girdle."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He leads priests away stripped and overthrows the enduring ones.",
+      "tags": [
+        "priests",
+        "reversal",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He leadeth princes away spoiled, and overthroweth the mighty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "He removes speech from the trusted and takes away the discernment of elders.",
+      "tags": [
+        "speech",
+        "elders"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He removeth away the speech of the trusty, and taketh away the understanding of the aged."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He pours contempt on nobles and loosens the belt of the strong.",
+      "tags": [
+        "nobles",
+        "strong"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He poureth contempt upon princes, and weakeneth the strength of the mighty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "He uncovers deep things from darkness and brings deep shadow to light.",
+      "tags": [
+        "darkness",
+        "light",
+        "revelation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He discovereth deep things out of darkness, and bringeth out to light the shadow of death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "He makes nations great and destroys them; he spreads nations out and leads them away.",
+      "tags": [
+        "nations",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He increaseth the nations, and destroyeth them: he enlargeth the nations, and straiteneth them again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He removes the heart of the heads of the people of the earth and makes them wander in a wasteland where there is no way.",
+      "tags": [
+        "leaders",
+        "wandering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He taketh away the heart of the chief of the people of the earth, and causeth them to wander in a wilderness where there is no way."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "They grope in darkness without light, and he makes them stagger like a drunkard.",
+      "tags": [
+        "darkness",
+        "staggering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They grope in the dark without light, and he maketh them to stagger like a drunken man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-25",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

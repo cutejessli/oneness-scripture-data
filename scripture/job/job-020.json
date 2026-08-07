@@ -1,35 +1,537 @@
 {
-  "book":"Job","book_id":"job","chapter":20,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Zophar's second speech: urgency of reply, short joy of the wicked, swallowed wealth, poison imagery, exposure by heaven/earth, and allotted fate. Marked as Zophar's speech, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"Zophar the Naamathite answered and said:","tags":["zophar","speech"]},
-    {"verse":2,"restored":"Therefore my troubled thoughts answer me, because of my haste within me.","tags":["thoughts","haste"]},
-    {"verse":3,"restored":"I hear a correction that insults me, and a spirit from my understanding answers me.","tags":["correction","spirit"]},
-    {"verse":4,"restored":"Do you not know this from old, since humanity was placed on earth,","tags":["tradition","humanity"]},
-    {"verse":5,"restored":"that the shouting of the wicked is short, and the joy of the godless is only for a moment?","tags":["wicked","short-joy"]},
-    {"verse":6,"restored":"Though his height rises to the heavens and his head reaches the clouds,","tags":["height","clouds"]},
-    {"verse":7,"restored":"he perishes forever like his own dung; those who saw him say, Where is he?","tags":["perishing","shame"]},
-    {"verse":8,"restored":"He flies away like a dream and is not found; he is chased away like a vision of the night.","tags":["dream","night-vision"]},
-    {"verse":9,"restored":"The eye that saw him will not see him again, and his place will behold him no more.","tags":["eye","place"]},
-    {"verse":10,"restored":"His children will seek the favor of the poor, and his hands will return his wealth.","tags":["children","wealth"]},
-    {"verse":11,"restored":"His bones are full of his youth, but it will lie down with him in the dust.","tags":["bones","dust"]},
-    {"verse":12,"restored":"Though evil is sweet in his mouth, though he hides it under his tongue,","tags":["evil","mouth"]},
-    {"verse":13,"restored":"though he spares it and does not let it go, holding it in the midst of his palate,","tags":["palate","evil"]},
-    {"verse":14,"restored":"his food is turned in his bowels; it becomes venom within him.","tags":["venom","body"]},
-    {"verse":15,"restored":"He swallows wealth, but vomits it up; the Divine drives it out of his belly.","tags":["wealth","belly"]},
-    {"verse":16,"restored":"He sucks the venom of cobras; the tongue of a viper kills him.","tags":["venom","viper"]},
-    {"verse":17,"restored":"He will not look on the streams, the rivers flowing with honey and curds.","tags":["streams","abundance"]},
-    {"verse":18,"restored":"He returns what he labored for and does not swallow it; according to the wealth of his exchange, he will not rejoice.","tags":["labor","wealth"]},
-    {"verse":19,"restored":"For he crushed and abandoned the poor; he seized a house he did not build.","tags":["poor","injustice"]},
-    {"verse":20,"restored":"Because he knew no quiet in his belly, he will not escape with what he desires.","tags":["desire","restlessness"]},
-    {"verse":21,"restored":"Nothing escaped his eating; therefore his prosperity will not endure.","tags":["prosperity","greed"]},
-    {"verse":22,"restored":"In the fullness of his abundance he will be distressed; every hand of trouble will come against him.","tags":["abundance","distress"]},
-    {"verse":23,"restored":"To fill his belly, the Divine will send fierce anger against him and rain it upon him as his food.","tags":["anger","food"]},
-    {"verse":24,"restored":"He flees from an iron weapon; a bronze bow pierces him.","tags":["weapon","bow"]},
-    {"verse":25,"restored":"He draws it out, and it comes from his body; the glittering point comes from his gall. Terrors come upon him.","tags":["weapon","terror"]},
-    {"verse":26,"restored":"All darkness is stored up for his treasures; a fire not blown will consume him; what remains in his tent will suffer harm.","tags":["darkness","fire","tent"]},
-    {"verse":27,"restored":"The heavens will reveal his guilt, and the earth will rise against him.","tags":["heavens","earth","guilt"]},
-    {"verse":28,"restored":"The increase of his house will depart, flowing away in the day of his anger.","tags":["house","anger"]},
-    {"verse":29,"restored":"This is the portion of a wicked person from the Divine, the inheritance appointed to him by God.","tags":["wicked","portion","inheritance"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Zophar's second speech: urgency of reply, short joy of the wicked, swallowed wealth, poison imagery, exposure by heaven/earth, and allotted fate. Marked as Zophar's speech, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Zophar the Naamathite answered and said:",
+      "tags": [
+        "zophar",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Zophar the Naamathite, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Therefore my troubled thoughts answer me, because of my haste within me.",
+      "tags": [
+        "thoughts",
+        "haste"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore do my thoughts cause me to answer, and for this I make haste."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I hear a correction that insults me, and a spirit from my understanding answers me.",
+      "tags": [
+        "correction",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I have heard the check of my reproach, and the spirit of my understanding causeth me to answer."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Do you not know this from old, since humanity was placed on earth,",
+      "tags": [
+        "tradition",
+        "humanity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowest thou not this of old, since man was placed upon earth,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "that the shouting of the wicked is short, and the joy of the godless is only for a moment?",
+      "tags": [
+        "wicked",
+        "short-joy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That the triumphing of the wicked is short, and the joy of the hypocrite but for a moment?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Though his height rises to the heavens and his head reaches the clouds,",
+      "tags": [
+        "height",
+        "clouds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though his excellency mount up to the heavens, and his head reach unto the clouds;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "he perishes forever like his own dung; those who saw him say, Where is he?",
+      "tags": [
+        "perishing",
+        "shame"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He flies away like a dream and is not found; he is chased away like a vision of the night.",
+      "tags": [
+        "dream",
+        "night-vision"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall fly away as a dream, and shall not be found: yea, he shall be chased away as a vision of the night."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The eye that saw him will not see him again, and his place will behold him no more.",
+      "tags": [
+        "eye",
+        "place"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The eye also which saw him shall see him no more; neither shall his place any more behold him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "His children will seek the favor of the poor, and his hands will return his wealth.",
+      "tags": [
+        "children",
+        "wealth",
+        "poverty-economic-justice",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His children shall seek to please the poor, and his hands shall restore their goods."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "His bones are full of his youth, but it will lie down with him in the dust.",
+      "tags": [
+        "bones",
+        "dust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His bones are full of the sin of his youth, which shall lie down with him in the dust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Though evil is sweet in his mouth, though he hides it under his tongue,",
+      "tags": [
+        "evil",
+        "mouth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though wickedness be sweet in his mouth, though he hide it under his tongue;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "though he spares it and does not let it go, holding it in the midst of his palate,",
+      "tags": [
+        "palate",
+        "evil"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though he spare it, and forsake it not; but keep it still within his mouth:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "his food is turned in his bowels; it becomes venom within him.",
+      "tags": [
+        "venom",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet his meat in his bowels is turned, it is the gall of asps within him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He swallows wealth, but vomits it up; the Divine drives it out of his belly.",
+      "tags": [
+        "wealth",
+        "belly"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath swallowed down riches, and he shall vomit them up again: God shall cast them out of his belly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He sucks the venom of cobras; the tongue of a viper kills him.",
+      "tags": [
+        "venom",
+        "viper",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall suck the poison of asps: the viper’s tongue shall slay him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He will not look on the streams, the rivers flowing with honey and curds.",
+      "tags": [
+        "streams",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall not see the rivers, the floods, the brooks of honey and butter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He returns what he labored for and does not swallow it; according to the wealth of his exchange, he will not rejoice.",
+      "tags": [
+        "labor",
+        "wealth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That which he laboured for shall he restore, and shall not swallow it down: according to his substance shall the restitution be, and he shall not rejoice therein."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For he crushed and abandoned the poor; he seized a house he did not build.",
+      "tags": [
+        "poor",
+        "injustice",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because he hath oppressed and hath forsaken the poor; because he hath violently taken away an house which he builded not;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Because he knew no quiet in his belly, he will not escape with what he desires.",
+      "tags": [
+        "desire",
+        "restlessness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely he shall not feel quietness in his belly, he shall not save of that which he desired."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Nothing escaped his eating; therefore his prosperity will not endure.",
+      "tags": [
+        "prosperity",
+        "greed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There shall none of his meat be left; therefore shall no man look for his goods."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "In the fullness of his abundance he will be distressed; every hand of trouble will come against him.",
+      "tags": [
+        "abundance",
+        "distress"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In the fulness of his sufficiency he shall be in straits: every hand of the wicked shall come upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "To fill his belly, the Divine will send fierce anger against him and rain it upon him as his food.",
+      "tags": [
+        "anger",
+        "food"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When he is about to fill his belly, God shall cast the fury of his wrath upon him, and shall rain it upon him while he is eating."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He flees from an iron weapon; a bronze bow pierces him.",
+      "tags": [
+        "weapon",
+        "bow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall flee from the iron weapon, and the bow of steel shall strike him through."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He draws it out, and it comes from his body; the glittering point comes from his gall. Terrors come upon him.",
+      "tags": [
+        "weapon",
+        "terror"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is drawn, and cometh out of the body; yea, the glittering sword cometh out of his gall: terrors are upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "All darkness is stored up for his treasures; a fire not blown will consume him; what remains in his tent will suffer harm.",
+      "tags": [
+        "darkness",
+        "fire",
+        "tent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "All darkness shall be hid in his secret places: a fire not blown shall consume him; it shall go ill with him that is left in his tabernacle."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "The heavens will reveal his guilt, and the earth will rise against him.",
+      "tags": [
+        "heavens",
+        "earth",
+        "guilt"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The heaven shall reveal his iniquity; and the earth shall rise up against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The increase of his house will depart, flowing away in the day of his anger.",
+      "tags": [
+        "house",
+        "anger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The increase of his house shall depart, and his goods shall flow away in the day of his wrath."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "This is the portion of a wicked person from the Divine, the inheritance appointed to him by God.",
+      "tags": [
+        "wicked",
+        "portion",
+        "inheritance",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the portion of a wicked man from God, and the heritage appointed unto him by God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-29",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

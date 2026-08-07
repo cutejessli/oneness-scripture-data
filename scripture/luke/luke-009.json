@@ -1,70 +1,1146 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":9,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for sending the Twelve, Herod's question, feeding five thousand, Peter confession, passion prediction, cross-following, transfiguration, difficult healing, greatness, outsider in the name, and setting face toward Jerusalem."},
-  "verses":[
-    {"verse":1,"restored":"Calling together the twelve, he gave them power and authority over all unclean spirits and to heal diseases.","tags":["twelve","authority","healing"]},
-    {"verse":2,"restored":"He sent them to proclaim the reign of the Divine and to heal.","tags":["sending","kingdom","healing"]},
-    {"verse":3,"restored":"He said to them, Take nothing for the way: neither staff, nor bag, nor bread, nor silver, nor two tunics each.","tags":["mission","simplicity"]},
-    {"verse":4,"restored":"Whatever house you enter, remain there, and from there go out.","tags":["house","hospitality"]},
-    {"verse":5,"restored":"As many as do not receive you, going out from that city, shake off the dust from your feet as a testimony against them.","tags":["rejection","testimony","dust"]},
-    {"verse":6,"restored":"Going out, they traveled through the villages, announcing good news and healing everywhere.","tags":["good-news","healing"]},
-    {"verse":7,"restored":"Herod the tetrarch heard all that was happening and was perplexed, because some were saying John had been raised from the dead.","tags":["herod","john","perplexed"]},
-    {"verse":8,"restored":"Others said Elijah had appeared, and others that one of the ancient prophets had risen.","tags":["elijah","prophets"]},
-    {"verse":9,"restored":"Herod said, John I beheaded; but who is this about whom I hear such things? And he sought to see him.","tags":["herod","identity"]},
-    {"verse":10,"restored":"When the apostles returned, they described to him all they had done. Taking them, he withdrew privately to a city called Bethsaida.","tags":["apostles","bethsaida","withdrawal"]},
-    {"verse":11,"restored":"But the crowds, knowing, followed him. Receiving them, he spoke to them about the reign of the Divine and healed those needing healing.","tags":["crowds","kingdom","healing"]},
-    {"verse":12,"restored":"The day began to decline. The twelve came and said to him, Release the crowd, so they may go into the surrounding villages and farms to lodge and find provisions, because we are here in a deserted place.","tags":["twelve","deserted-place","food"]},
-    {"verse":13,"restored":"He said to them, You give them something to eat. They said, We have no more than five loaves and two fish, unless we go and buy food for all these people.","tags":["feeding","loaves","fish"]},
-    {"verse":14,"restored":"For there were about five thousand men. He said to his disciples, Make them recline in groups of about fifty each.","tags":["five-thousand","groups"]},
-    {"verse":15,"restored":"They did so and made them all recline.","tags":["feeding"]},
-    {"verse":16,"restored":"Taking the five loaves and two fish, looking up to heaven, he blessed them, broke them, and gave them to the disciples to set before the crowd.","tags":["blessing","breaking","feeding"]},
-    {"verse":17,"restored":"All ate and were filled, and what remained was taken up: twelve baskets of broken pieces.","tags":["fullness","twelve","baskets"]},
-    {"verse":18,"restored":"It happened, as he was praying alone, the disciples were with him, and he questioned them, saying, Who do the crowds say I am?","tags":["prayer","identity"]},
-    {"verse":19,"restored":"They answered, John the Baptist; others, Elijah; others, that one of the ancient prophets has risen.","tags":["john","elijah","prophets"]},
-    {"verse":20,"restored":"He said to them, But you, who do you say I am? Peter answered, The Messiah of the Divine.","tags":["peter","messiah"]},
-    {"verse":21,"restored":"He strictly warned and instructed them to tell this to no one,","tags":["warning","silence"]},
-    {"verse":22,"restored":"saying, It is necessary for the Son of Humanity to suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and on the third day be raised.","tags":["son-of-humanity","suffering","third-day"]},
-    {"verse":23,"restored":"He said to all, If anyone wants to come after me, let that one deny self, take up one's cross daily, and follow me.","tags":["cross","daily","following"]},
-    {"verse":24,"restored":"For whoever wants to save one's life/soul will lose it, but whoever loses one's life/soul because of me, this one will save it.","terms":[{"display":"life/soul","source":"psyche","language":"Greek","glossary_id":"psyche"}],"tags":["psyche","save"]},
-    {"verse":25,"restored":"For what does a person profit, having gained the whole world, but losing or forfeiting oneself?","tags":["world","self"]},
-    {"verse":26,"restored":"Whoever is ashamed of me and my words, of this one the Son of Humanity will be ashamed when he comes in his glory and the glory of the Father and of the holy messengers.","tags":["son-of-humanity","glory"]},
-    {"verse":27,"restored":"Truly I say to you: there are some standing here who will certainly not taste death until they see the reign of the Divine.","tags":["kingdom","seeing"]},
-    {"verse":28,"restored":"About eight days after these words, he took Peter, John, and James and went up into the mountain to pray.","tags":["mountain","prayer","transfiguration"]},
-    {"verse":29,"restored":"As he was praying, the appearance of his face became different, and his clothing became white, flashing like lightning.","tags":["face","radiance"]},
-    {"verse":30,"restored":"Look, two men were speaking with him: Moses and Elijah,","tags":["moses","elijah"]},
-    {"verse":31,"restored":"who appeared in glory and spoke of his exodus/departure, which he was about to fulfill in Jerusalem.","terms":[{"display":"exodus/departure","source":"exodos","language":"Greek","glossary_id":"exodos"}],"tags":["glory","jerusalem","exodus"]},
-    {"verse":32,"restored":"Peter and those with him had been weighed down with sleep; but becoming fully awake, they saw his glory and the two men standing with him.","tags":["sleep","awake","glory"]},
-    {"verse":33,"restored":"As they were parting from him, Peter said to Jesus, Master, it is beautiful/good for us to be here; let us make three tents, one for you, one for Moses, and one for Elijah, not knowing what he was saying.","tags":["peter","tents"]},
-    {"verse":34,"restored":"As he was saying these things, a cloud came and overshadowed them; they feared as they entered the cloud.","tags":["cloud","fear"]},
-    {"verse":35,"restored":"A voice came from the cloud, saying, This is my Son, the Chosen One; listen to him.","tags":["voice","chosen-son","listen"]},
-    {"verse":36,"restored":"When the voice had happened, Jesus was found alone. They kept silent and reported to no one in those days anything of what they had seen.","tags":["silence","vision"]},
-    {"verse":37,"restored":"On the next day, when they came down from the mountain, a great crowd met him.","tags":["mountain","crowd"]},
-    {"verse":38,"restored":"Look, a man from the crowd cried out, Teacher, I beg you to look upon my son, because he is my only child.","tags":["son","only-child"]},
-    {"verse":39,"restored":"Look, a spirit seizes him, and suddenly he cries out; it convulses him with foam and scarcely departs from him, bruising him.","tags":["spirit","affliction"]},
-    {"verse":40,"restored":"I begged your disciples to cast it out, and they were not able.","tags":["disciples","inability"]},
-    {"verse":41,"restored":"Jesus answered, O untrusting and twisted generation, how long shall I be with you and bear with you? Bring your son here.","tags":["generation","trust"]},
-    {"verse":42,"restored":"As he was coming, the troubling spirit threw him down and convulsed him. Jesus rebuked the unclean spirit, healed the child, and gave him back to his father.","tags":["rebuke","healing","father"]},
-    {"verse":43,"restored":"All were struck with wonder at the majesty of the Divine. While all were marveling at all he was doing, he said to his disciples,","tags":["wonder","majesty"]},
-    {"verse":44,"restored":"Place these words in your ears: the Son of Humanity is about to be handed over into human hands.","tags":["son-of-humanity","handed-over"]},
-    {"verse":45,"restored":"But they did not understand this word; it was hidden from them so they would not perceive it, and they were afraid to ask him about this word.","tags":["misunderstanding","fear"]},
-    {"verse":46,"restored":"A reasoning entered among them about which of them might be greatest.","tags":["greatness","reasoning"]},
-    {"verse":47,"restored":"Jesus, knowing the reasoning of their heart, took a child and stood the child beside him,","tags":["child","heart"]},
-    {"verse":48,"restored":"and said to them, Whoever receives this child in my name receives me, and whoever receives me receives the One who sent me; for the smaller one among all of you, this one is great.","tags":["child","receiving","greatness"]},
-    {"verse":49,"restored":"John answered, Master, we saw someone casting out unclean spirits in your name, and we tried to stop him because he does not follow with us.","tags":["john","outsider","name"]},
-    {"verse":50,"restored":"Jesus said to him, Do not stop him, for whoever is not against you is for you.","tags":["for-you","outsider"]},
-    {"verse":51,"restored":"It happened, when the days were being fulfilled for his taking up, he set his face to go to Jerusalem.","tags":["jerusalem","face","turning-point"]},
-    {"verse":52,"restored":"He sent messengers before his face. Going, they entered a Samaritan village to prepare for him.","tags":["samaritan","messengers"]},
-    {"verse":53,"restored":"They did not receive him, because his face was going toward Jerusalem.","tags":["samaritan","rejection","jerusalem"]},
-    {"verse":54,"restored":"Seeing this, the disciples James and John said, Lord, do you want us to command fire to come down from heaven and consume them?","tags":["james","john","fire"]},
-    {"verse":55,"restored":"But turning, he rebuked them.","tags":["rebuke","disciples"]},
-    {"verse":56,"restored":"And they went to another village.","tags":["village"]},
-    {"verse":57,"restored":"As they were going on the way, someone said to him, I will follow you wherever you go.","tags":["following","way"]},
-    {"verse":58,"restored":"Jesus said to him, Foxes have holes and birds of heaven nests, but the Son of Humanity has nowhere to lay the head.","tags":["son-of-humanity","homelessness"]},
-    {"verse":59,"restored":"He said to another, Follow me. But he said, Lord, permit me first to go away and bury my father.","tags":["following","burial"]},
-    {"verse":60,"restored":"He said to him, Leave the dead to bury their own dead; but you, going away, proclaim the reign of the Divine.","tags":["kingdom","proclamation"]},
-    {"verse":61,"restored":"Another also said, I will follow you, Lord, but first permit me to say farewell to those in my house.","tags":["following","house"]},
-    {"verse":62,"restored":"Jesus said to him, No one putting hand to plow and looking back is fit for the reign of the Divine.","tags":["plow","kingdom","looking-back"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for sending the Twelve, Herod's question, feeding five thousand, Peter confession, passion prediction, cross-following, transfiguration, difficult healing, greatness, outsider in the name, and setting face toward Jerusalem."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Calling together the twelve, he gave them power and authority over all unclean spirits and to heal diseases.",
+      "tags": [
+        "twelve",
+        "authority",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he called his twelve disciples together, and gave them power and authority over all devils, and to cure diseases."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He sent them to proclaim the reign of the Divine and to heal.",
+      "tags": [
+        "sending",
+        "kingdom",
+        "healing",
+        "kingship-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sent them to preach the kingdom of God, and to heal the sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He said to them, Take nothing for the way: neither staff, nor bag, nor bread, nor silver, nor two tunics each.",
+      "tags": [
+        "mission",
+        "simplicity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Take nothing for your journey, neither staves, nor scrip, neither bread, neither money; neither have two coats apiece."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Whatever house you enter, remain there, and from there go out.",
+      "tags": [
+        "house",
+        "hospitality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whatsoever house ye enter into, there abide, and thence depart."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "As many as do not receive you, going out from that city, shake off the dust from your feet as a testimony against them.",
+      "tags": [
+        "rejection",
+        "testimony",
+        "dust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever will not receive you, when ye go out of that city, shake off the very dust from your feet for a testimony against them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Going out, they traveled through the villages, announcing good news and healing everywhere.",
+      "tags": [
+        "good-news",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they departed, and went through the towns, preaching the gospel, and healing every where."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Herod the tetrarch heard all that was happening and was perplexed, because some were saying John had been raised from the dead.",
+      "tags": [
+        "herod",
+        "john",
+        "perplexed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Herod the tetrarch heard of all that was done by him: and he was perplexed, because that it was said of some, that John was risen from the dead;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Others said Elijah had appeared, and others that one of the ancient prophets had risen.",
+      "tags": [
+        "elijah",
+        "prophets",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And of some, that Elias had appeared; and of others, that one of the old prophets was risen again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Herod said, John I beheaded; but who is this about whom I hear such things? And he sought to see him.",
+      "tags": [
+        "herod",
+        "identity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Herod said, John have I beheaded: but who is this, of whom I hear such things? And he desired to see him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When the apostles returned, they described to him all they had done. Taking them, he withdrew privately to a city called Bethsaida.",
+      "tags": [
+        "apostles",
+        "bethsaida",
+        "withdrawal",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the apostles, when they were returned, told him all that they had done. And he took them, and went aside privately into a desert place belonging to the city called Bethsaida."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "But the crowds, knowing, followed him. Receiving them, he spoke to them about the reign of the Divine and healed those needing healing.",
+      "tags": [
+        "crowds",
+        "kingdom",
+        "healing",
+        "kingship-power",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people, when they knew it, followed him: and he received them, and spake unto them of the kingdom of God, and healed them that had need of healing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The day began to decline. The twelve came and said to him, Release the crowd, so they may go into the surrounding villages and farms to lodge and find provisions, because we are here in a deserted place.",
+      "tags": [
+        "twelve",
+        "deserted-place",
+        "food"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the day began to wear away, then came the twelve, and said unto him, Send the multitude away, that they may go into the towns and country round about, and lodge, and get victuals: for we are here in a desert place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He said to them, You give them something to eat. They said, We have no more than five loaves and two fish, unless we go and buy food for all these people.",
+      "tags": [
+        "feeding",
+        "loaves",
+        "fish"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he said unto them, Give ye them to eat. And they said, We have no more but five loaves and two fishes; except we should go and buy meat for all this people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For there were about five thousand men. He said to his disciples, Make them recline in groups of about fifty each.",
+      "tags": [
+        "five-thousand",
+        "groups",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For they were about five thousand men. And he said to his disciples, Make them sit down by fifties in a company."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They did so and made them all recline.",
+      "tags": [
+        "feeding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they did so, and made them all sit down."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Taking the five loaves and two fish, looking up to heaven, he blessed them, broke them, and gave them to the disciples to set before the crowd.",
+      "tags": [
+        "blessing",
+        "breaking",
+        "feeding",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he took the five loaves and the two fishes, and looking up to heaven, he blessed them, and brake, and gave to the disciples to set before the multitude."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "All ate and were filled, and what remained was taken up: twelve baskets of broken pieces.",
+      "tags": [
+        "fullness",
+        "twelve",
+        "baskets"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they did eat, and were all filled: and there was taken up of fragments that remained to them twelve baskets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "It happened, as he was praying alone, the disciples were with him, and he questioned them, saying, Who do the crowds say I am?",
+      "tags": [
+        "prayer",
+        "identity",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as he was alone praying, his disciples were with him: and he asked them, saying, Whom say the people that I am?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "They answered, John the Baptist; others, Elijah; others, that one of the ancient prophets has risen.",
+      "tags": [
+        "john",
+        "elijah",
+        "prophets",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They answering said, John the Baptist; but some say, Elias; and others say, that one of the old prophets is risen again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "He said to them, But you, who do you say I am? Peter answered, The Messiah of the Divine.",
+      "tags": [
+        "peter",
+        "messiah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He said unto them, But whom say ye that I am? Peter answering said, The Christ of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "He strictly warned and instructed them to tell this to no one,",
+      "tags": [
+        "warning",
+        "silence",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he straitly charged them, and commanded them to tell no man that thing;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "saying, It is necessary for the Son of Humanity to suffer many things, be rejected by the elders, chief priests, and scribes, be killed, and on the third day be raised.",
+      "tags": [
+        "son-of-humanity",
+        "suffering",
+        "third-day",
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, The Son of man must suffer many things, and be rejected of the elders and chief priests and scribes, and be slain, and be raised the third day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "He said to all, If anyone wants to come after me, let that one deny self, take up one's cross daily, and follow me.",
+      "tags": [
+        "cross",
+        "daily",
+        "following"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said to them all, If any man will come after me, let him deny himself, and take up his cross daily, and follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For whoever wants to save one's life/soul will lose it, but whoever loses one's life/soul because of me, this one will save it.",
+      "terms": [
+        {
+          "display": "life/soul",
+          "source": "psyche",
+          "language": "Greek",
+          "glossary_id": "psyche"
+        }
+      ],
+      "tags": [
+        "psyche",
+        "save"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever will save his life shall lose it: but whosoever will lose his life for my sake, the same shall save it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For what does a person profit, having gained the whole world, but losing or forfeiting oneself?",
+      "tags": [
+        "world",
+        "self",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For what is a man advantaged, if he gain the whole world, and lose himself, or be cast away?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Whoever is ashamed of me and my words, of this one the Son of Humanity will be ashamed when he comes in his glory and the glory of the Father and of the holy messengers.",
+      "tags": [
+        "son-of-humanity",
+        "glory",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever shall be ashamed of me and of my words, of him shall the Son of man be ashamed, when he shall come in his own glory, and in his Father’s, and of the holy angels."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Truly I say to you: there are some standing here who will certainly not taste death until they see the reign of the Divine.",
+      "tags": [
+        "kingdom",
+        "seeing",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I tell you of a truth, there be some standing here, which shall not taste of death, till they see the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "About eight days after these words, he took Peter, John, and James and went up into the mountain to pray.",
+      "tags": [
+        "mountain",
+        "prayer",
+        "transfiguration"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass about an eight days after these sayings, he took Peter and John and James, and went up into a mountain to pray."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "As he was praying, the appearance of his face became different, and his clothing became white, flashing like lightning.",
+      "tags": [
+        "face",
+        "radiance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as he prayed, the fashion of his countenance was altered, and his raiment was white and glistering."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Look, two men were speaking with him: Moses and Elijah,",
+      "tags": [
+        "moses",
+        "elijah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, there talked with him two men, which were Moses and Elias:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "who appeared in glory and spoke of his exodus/departure, which he was about to fulfill in Jerusalem.",
+      "terms": [
+        {
+          "display": "exodus/departure",
+          "source": "exodos",
+          "language": "Greek",
+          "glossary_id": "exodos"
+        }
+      ],
+      "tags": [
+        "glory",
+        "jerusalem",
+        "exodus"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who appeared in glory, and spake of his decease which he should accomplish at Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Peter and those with him had been weighed down with sleep; but becoming fully awake, they saw his glory and the two men standing with him.",
+      "tags": [
+        "sleep",
+        "awake",
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Peter and they that were with him were heavy with sleep: and when they were awake, they saw his glory, and the two men that stood with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "As they were parting from him, Peter said to Jesus, Master, it is beautiful/good for us to be here; let us make three tents, one for you, one for Moses, and one for Elijah, not knowing what he was saying.",
+      "tags": [
+        "peter",
+        "tents"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as they departed from him, Peter said unto Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias: not knowing what he said."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "As he was saying these things, a cloud came and overshadowed them; they feared as they entered the cloud.",
+      "tags": [
+        "cloud",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "While he thus spake, there came a cloud, and overshadowed them: and they feared as they entered into the cloud."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "A voice came from the cloud, saying, This is my Son, the Chosen One; listen to him.",
+      "tags": [
+        "voice",
+        "chosen-son",
+        "listen",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came a voice out of the cloud, saying, This is my beloved Son: hear him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "When the voice had happened, Jesus was found alone. They kept silent and reported to no one in those days anything of what they had seen.",
+      "tags": [
+        "silence",
+        "vision"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the voice was past, Jesus was found alone. And they kept it close, and told no man in those days any of those things which they had seen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "On the next day, when they came down from the mountain, a great crowd met him.",
+      "tags": [
+        "mountain",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that on the next day, when they were come down from the hill, much people met him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "Look, a man from the crowd cried out, Teacher, I beg you to look upon my son, because he is my only child.",
+      "tags": [
+        "son",
+        "only-child",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, a man of the company cried out, saying, Master, I beseech thee, look upon my son: for he is mine only child."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "Look, a spirit seizes him, and suddenly he cries out; it convulses him with foam and scarcely departs from him, bruising him.",
+      "tags": [
+        "spirit",
+        "affliction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, lo, a spirit taketh him, and he suddenly crieth out; and it teareth him that he foameth again, and bruising him hardly departeth from him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "I begged your disciples to cast it out, and they were not able.",
+      "tags": [
+        "disciples",
+        "inability",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I besought thy disciples to cast him out; and they could not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Jesus answered, O untrusting and twisted generation, how long shall I be with you and bear with you? Bring your son here.",
+      "tags": [
+        "generation",
+        "trust",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said, O faithless and perverse generation, how long shall I be with you, and suffer you? Bring thy son hither."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "As he was coming, the troubling spirit threw him down and convulsed him. Jesus rebuked the unclean spirit, healed the child, and gave him back to his father.",
+      "tags": [
+        "rebuke",
+        "healing",
+        "father",
+        "spirit",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "All were struck with wonder at the majesty of the Divine. While all were marveling at all he was doing, he said to his disciples,",
+      "tags": [
+        "wonder",
+        "majesty",
+        "war-violence",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they were all amazed at the mighty power of God. But while they wondered every one at all things which Jesus did, he said unto his disciples,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 44,
+      "restored": "Place these words in your ears: the Son of Humanity is about to be handed over into human hands.",
+      "tags": [
+        "son-of-humanity",
+        "handed-over",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let these sayings sink down into your ears: for the Son of man shall be delivered into the hands of men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "But they did not understand this word; it was hidden from them so they would not perceive it, and they were afraid to ask him about this word.",
+      "tags": [
+        "misunderstanding",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But they understood not this saying, and it was hid from them, that they perceived it not: and they feared to ask him of that saying."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "A reasoning entered among them about which of them might be greatest.",
+      "tags": [
+        "greatness",
+        "reasoning",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there arose a reasoning among them, which of them should be greatest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "Jesus, knowing the reasoning of their heart, took a child and stood the child beside him,",
+      "tags": [
+        "child",
+        "heart",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus, perceiving the thought of their heart, took a child, and set him by him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "and said to them, Whoever receives this child in my name receives me, and whoever receives me receives the One who sent me; for the smaller one among all of you, this one is great.",
+      "tags": [
+        "child",
+        "receiving",
+        "greatness",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto them, Whosoever shall receive this child in my name receiveth me: and whosoever shall receive me receiveth him that sent me: for he that is least among you all, the same shall be great."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "John answered, Master, we saw someone casting out unclean spirits in your name, and we tried to stop him because he does not follow with us.",
+      "tags": [
+        "john",
+        "outsider",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And John answered and said, Master, we saw one casting out devils in thy name; and we forbad him, because he followeth not with us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "Jesus said to him, Do not stop him, for whoever is not against you is for you.",
+      "tags": [
+        "for-you",
+        "outsider"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, Forbid him not: for he that is not against us is for us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "It happened, when the days were being fulfilled for his taking up, he set his face to go to Jerusalem.",
+      "tags": [
+        "jerusalem",
+        "face",
+        "turning-point"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the time was come that he should be received up, he stedfastly set his face to go to Jerusalem,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "He sent messengers before his face. Going, they entered a Samaritan village to prepare for him.",
+      "tags": [
+        "samaritan",
+        "messengers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And sent messengers before his face: and they went, and entered into a village of the Samaritans, to make ready for him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 53,
+      "restored": "They did not receive him, because his face was going toward Jerusalem.",
+      "tags": [
+        "samaritan",
+        "rejection",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they did not receive him, because his face was as though he would go to Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "Seeing this, the disciples James and John said, Lord, do you want us to command fire to come down from heaven and consume them?",
+      "tags": [
+        "james",
+        "john",
+        "fire",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when his disciples James and John saw this, they said, Lord, wilt thou that we command fire to come down from heaven, and consume them, even as Elias did?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 55,
+      "restored": "But turning, he rebuked them.",
+      "tags": [
+        "rebuke",
+        "disciples"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he turned, and rebuked them, and said, Ye know not what manner of spirit ye are of."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 56,
+      "restored": "And they went to another village.",
+      "tags": [
+        "village"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Son of man is not come to destroy men’s lives, but to save them. And they went to another village."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 57,
+      "restored": "As they were going on the way, someone said to him, I will follow you wherever you go.",
+      "tags": [
+        "following",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, as they went in the way, a certain man said unto him, Lord, I will follow thee whithersoever thou goest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 58,
+      "restored": "Jesus said to him, Foxes have holes and birds of heaven nests, but the Son of Humanity has nowhere to lay the head.",
+      "tags": [
+        "son-of-humanity",
+        "homelessness",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, Foxes have holes, and birds of the air have nests; but the Son of man hath not where to lay his head."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 59,
+      "restored": "He said to another, Follow me. But he said, Lord, permit me first to go away and bury my father.",
+      "tags": [
+        "following",
+        "burial"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto another, Follow me. But he said, Lord, suffer me first to go and bury my father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 60,
+      "restored": "He said to him, Leave the dead to bury their own dead; but you, going away, proclaim the reign of the Divine.",
+      "tags": [
+        "kingdom",
+        "proclamation",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus said unto him, Let the dead bury their dead: but go thou and preach the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 61,
+      "restored": "Another also said, I will follow you, Lord, but first permit me to say farewell to those in my house.",
+      "tags": [
+        "following",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And another also said, Lord, I will follow thee; but let me first go bid them farewell, which are at home at my house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 62,
+      "restored": "Jesus said to him, No one putting hand to plow and looking back is fit for the reign of the Divine.",
+      "tags": [
+        "plow",
+        "kingdom",
+        "looking-back",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, No man, having put his hand to the plough, and looking back, is fit for the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-62",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-62",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

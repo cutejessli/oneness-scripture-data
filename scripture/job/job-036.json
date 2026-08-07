@@ -1,39 +1,618 @@
 {
-  "book":"Job","book_id":"job","chapter":36,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Elihu continues: claim to speak for God, divine justice, discipline through affliction, warning against ransom/anger, and transition into divine greatness over rain, clouds, thunder, and light."},
-  "verses":[
-    {"verse":1,"restored":"Elihu continued and said:","tags":["elihu","speech"]},
-    {"verse":2,"restored":"Bear with me a little, and I will show you, for there are still words for the Divine.","tags":["words","divine"]},
-    {"verse":3,"restored":"I will lift my knowledge from afar and give righteousness to my Maker.","tags":["knowledge","maker","righteousness"]},
-    {"verse":4,"restored":"For truly my words are not false; one complete in knowledge is with you.","tags":["knowledge","truth"]},
-    {"verse":5,"restored":"Look, the Divine is mighty and does not reject; mighty in strength of heart.","tags":["mighty","heart"]},
-    {"verse":6,"restored":"He does not preserve the life of the wicked, but gives justice to the afflicted.","tags":["justice","afflicted"]},
-    {"verse":7,"restored":"He does not withdraw his eyes from the righteous, but with kings on the throne he seats them forever, and they are exalted.","tags":["righteous","kings"]},
-    {"verse":8,"restored":"If they are bound in chains, caught in cords of affliction,","tags":["chains","affliction"]},
-    {"verse":9,"restored":"then he tells them their work and their transgressions, that they have acted proudly.","tags":["transgression","pride"]},
-    {"verse":10,"restored":"He opens their ear to instruction and says that they should turn back from harm.","tags":["ear","instruction","turning"]},
-    {"verse":11,"restored":"If they listen and serve, they complete their days in good and their years in pleasantness.","tags":["listen","good","pleasantness"]},
-    {"verse":12,"restored":"But if they do not listen, they pass through the weapon and expire without knowledge.","tags":["listen","knowledge"]},
-    {"verse":13,"restored":"The godless in heart store up anger; they do not cry for help when he binds them.","tags":["heart","anger"]},
-    {"verse":14,"restored":"Their soul dies in youth, and their life among the shameful.","tags":["soul","life"]},
-    {"verse":15,"restored":"He rescues the afflicted through their affliction and opens their ear through pressure.","tags":["affliction","rescue","ear"]},
-    {"verse":16,"restored":"Indeed, he would have drawn you out from the mouth of distress to a broad place with no constraint, and what is set on your table would be full of fatness.","tags":["distress","broad-place","table"]},
-    {"verse":17,"restored":"But you are full of the judgment of the wicked; judgment and justice take hold.","tags":["judgment","justice"]},
-    {"verse":18,"restored":"Beware lest wrath entice you into scoffing, and do not let a great ransom turn you aside.","tags":["wrath","ransom"]},
-    {"verse":19,"restored":"Will your cry for help arrange you beyond distress, or all the forces of strength?","tags":["cry","distress"]},
-    {"verse":20,"restored":"Do not long for the night, when peoples are taken up from their place.","tags":["night","peoples"]},
-    {"verse":21,"restored":"Guard yourself; do not turn to harm, for you have chosen this rather than affliction.","tags":["guard","harm","affliction"]},
-    {"verse":22,"restored":"Look, the Divine is exalted in his power; who is a teacher like him?","tags":["power","teacher"]},
-    {"verse":23,"restored":"Who has appointed his way for him, or who has said, You have done wrong?","tags":["way","wrong"]},
-    {"verse":24,"restored":"Remember to magnify his work, of which people have sung.","tags":["work","song"]},
-    {"verse":25,"restored":"All humanity has seen it; a mortal beholds it from afar.","tags":["sight","humanity"]},
-    {"verse":26,"restored":"Look, the Divine is great, and we do not know him; the number of his years is beyond searching.","tags":["greatness","mystery"]},
-    {"verse":27,"restored":"For he draws up drops of water; they distill rain from his mist,","tags":["water","rain"]},
-    {"verse":28,"restored":"which the clouds pour down; they drip upon humanity abundantly.","tags":["clouds","abundance"]},
-    {"verse":29,"restored":"Can anyone understand the spreadings of the clouds, the thunderings of his pavilion?","tags":["clouds","thunder"]},
-    {"verse":30,"restored":"Look, he spreads his light around him and covers the roots of the sea.","tags":["light","sea"]},
-    {"verse":31,"restored":"For by these he judges peoples; he gives food in abundance.","tags":["judgment","food"]},
-    {"verse":32,"restored":"He covers his hands with lightning and commands it against the target.","tags":["lightning","hand"]},
-    {"verse":33,"restored":"His thunder declares concerning him; the livestock also, concerning what rises.","tags":["thunder","storm"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 36,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Elihu continues: claim to speak for God, divine justice, discipline through affliction, warning against ransom/anger, and transition into divine greatness over rain, clouds, thunder, and light."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Elihu continued and said:",
+      "tags": [
+        "elihu",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Elihu also proceeded, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Bear with me a little, and I will show you, for there are still words for the Divine.",
+      "tags": [
+        "words",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Suffer me a little, and I will shew thee that I have yet to speak on God’s behalf."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I will lift my knowledge from afar and give righteousness to my Maker.",
+      "tags": [
+        "knowledge",
+        "maker",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I will fetch my knowledge from afar, and will ascribe righteousness to my Maker."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For truly my words are not false; one complete in knowledge is with you.",
+      "tags": [
+        "knowledge",
+        "truth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For truly my words shall not be false: he that is perfect in knowledge is with thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Look, the Divine is mighty and does not reject; mighty in strength of heart.",
+      "tags": [
+        "mighty",
+        "heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, God is mighty, and despiseth not any: he is mighty in strength and wisdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He does not preserve the life of the wicked, but gives justice to the afflicted.",
+      "tags": [
+        "justice",
+        "afflicted"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He preserveth not the life of the wicked: but giveth right to the poor."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He does not withdraw his eyes from the righteous, but with kings on the throne he seats them forever, and they are exalted.",
+      "tags": [
+        "righteous",
+        "kings",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He withdraweth not his eyes from the righteous: but with kings are they on the throne; yea, he doth establish them for ever, and they are exalted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "If they are bound in chains, caught in cords of affliction,",
+      "tags": [
+        "chains",
+        "affliction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if they be bound in fetters, and be holden in cords of affliction;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "then he tells them their work and their transgressions, that they have acted proudly.",
+      "tags": [
+        "transgression",
+        "pride"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he sheweth them their work, and their transgressions that they have exceeded."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He opens their ear to instruction and says that they should turn back from harm.",
+      "tags": [
+        "ear",
+        "instruction",
+        "turning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He openeth also their ear to discipline, and commandeth that they return from iniquity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "If they listen and serve, they complete their days in good and their years in pleasantness.",
+      "tags": [
+        "listen",
+        "good",
+        "pleasantness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If they obey and serve him, they shall spend their days in prosperity, and their years in pleasures."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But if they do not listen, they pass through the weapon and expire without knowledge.",
+      "tags": [
+        "listen",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if they obey not, they shall perish by the sword, and they shall die without knowledge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The godless in heart store up anger; they do not cry for help when he binds them.",
+      "tags": [
+        "heart",
+        "anger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the hypocrites in heart heap up wrath: they cry not when he bindeth them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Their soul dies in youth, and their life among the shameful.",
+      "tags": [
+        "soul",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They die in youth, and their life is among the unclean."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He rescues the afflicted through their affliction and opens their ear through pressure.",
+      "tags": [
+        "affliction",
+        "rescue",
+        "ear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He delivereth the poor in his affliction, and openeth their ears in oppression."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Indeed, he would have drawn you out from the mouth of distress to a broad place with no constraint, and what is set on your table would be full of fatness.",
+      "tags": [
+        "distress",
+        "broad-place",
+        "table"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so would he have removed thee out of the strait into a broad place, where there is no straitness; and that which should be set on thy table should be full of fatness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But you are full of the judgment of the wicked; judgment and justice take hold.",
+      "tags": [
+        "judgment",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou hast fulfilled the judgment of the wicked: judgment and justice take hold on thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Beware lest wrath entice you into scoffing, and do not let a great ransom turn you aside.",
+      "tags": [
+        "wrath",
+        "ransom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because there is wrath, beware lest he take thee away with his stroke: then a great ransom cannot deliver thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Will your cry for help arrange you beyond distress, or all the forces of strength?",
+      "tags": [
+        "cry",
+        "distress"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Will he esteem thy riches? no, not gold, nor all the forces of strength."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Do not long for the night, when peoples are taken up from their place.",
+      "tags": [
+        "night",
+        "peoples"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Desire not the night, when people are cut off in their place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Guard yourself; do not turn to harm, for you have chosen this rather than affliction.",
+      "tags": [
+        "guard",
+        "harm",
+        "affliction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed, regard not iniquity: for this hast thou chosen rather than affliction."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Look, the Divine is exalted in his power; who is a teacher like him?",
+      "tags": [
+        "power",
+        "teacher",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, God exalteth by his power: who teacheth like him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Who has appointed his way for him, or who has said, You have done wrong?",
+      "tags": [
+        "way",
+        "wrong"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who hath enjoined him his way? or who can say, Thou hast wrought iniquity?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Remember to magnify his work, of which people have sung.",
+      "tags": [
+        "work",
+        "song"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember that thou magnify his work, which men behold."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "All humanity has seen it; a mortal beholds it from afar.",
+      "tags": [
+        "sight",
+        "humanity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Every man may see it; man may behold it afar off."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Look, the Divine is great, and we do not know him; the number of his years is beyond searching.",
+      "tags": [
+        "greatness",
+        "mystery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, God is great, and we know him not, neither can the number of his years be searched out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "For he draws up drops of water; they distill rain from his mist,",
+      "tags": [
+        "water",
+        "rain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he maketh small the drops of water: they pour down rain according to the vapour thereof:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "which the clouds pour down; they drip upon humanity abundantly.",
+      "tags": [
+        "clouds",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which the clouds do drop and distil upon man abundantly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Can anyone understand the spreadings of the clouds, the thunderings of his pavilion?",
+      "tags": [
+        "clouds",
+        "thunder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Also can any understand the spreadings of the clouds, or the noise of his tabernacle?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Look, he spreads his light around him and covers the roots of the sea.",
+      "tags": [
+        "light",
+        "sea"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, he spreadeth his light upon it, and covereth the bottom of the sea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "For by these he judges peoples; he gives food in abundance.",
+      "tags": [
+        "judgment",
+        "food"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For by them judgeth he the people; he giveth meat in abundance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "He covers his hands with lightning and commands it against the target.",
+      "tags": [
+        "lightning",
+        "hand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "With clouds he covereth the light; and commandeth it not to shine by the cloud that cometh betwixt."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "His thunder declares concerning him; the livestock also, concerning what rises.",
+      "tags": [
+        "thunder",
+        "storm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The noise thereof sheweth concerning it, the cattle also concerning the vapour."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-33",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-33",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

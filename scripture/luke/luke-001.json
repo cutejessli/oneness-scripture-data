@@ -1,88 +1,1530 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":1,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for prologue, Zechariah/Elizabeth, Gabriel, John announcement, Mary announcement, Mary/Elizabeth, Magnificat, John birth, Benedictus, Spirit/prophecy/mercy/covenant language."},
-  "verses":[
-    {"verse":1,"restored":"Since many have undertaken to arrange an account concerning the matters fulfilled among us,","tags":["prologue","account"]},
-    {"verse":2,"restored":"just as those who from the beginning were eyewitnesses and servants of the word handed them down to us,","terms":[{"display":"eyewitnesses","source":"autoptai","language":"Greek","glossary_id":"autoptai"},{"display":"servants of the word","source":"hyperetai tou logou","language":"Greek","glossary_id":"hyperetai-logou"}],"tags":["eyewitnesses","word","tradition"]},
-    {"verse":3,"restored":"it seemed good to me also, having followed all things closely from the first, to write them in order for you, most excellent Theophilus,","tags":["order","theophilus"]},
-    {"verse":4,"restored":"so that you may know the secure certainty concerning the words in which you were instructed.","tags":["certainty","instruction"]},
-    {"verse":5,"restored":"In the days of Herod, king of Judea, there was a certain priest named Zechariah, from the division of Abijah, and his wife from the daughters of Aaron; her name was Elizabeth.","tags":["herod","zechariah","elizabeth","priest"]},
-    {"verse":6,"restored":"They were both righteous before the Divine, walking blamelessly in all the commands and ordinances of the Lord.","tags":["righteous","commands"]},
-    {"verse":7,"restored":"They had no child, because Elizabeth was barren, and both were advanced in their days.","tags":["barrenness","age"]},
-    {"verse":8,"restored":"It happened while he was serving as priest before the Divine in the order of his division,","tags":["priesthood","service"]},
-    {"verse":9,"restored":"according to the custom of the priesthood, he was chosen by lot to enter the sanctuary of the Lord and burn incense.","tags":["incense","sanctuary"]},
-    {"verse":10,"restored":"The whole multitude of the people was praying outside at the hour of incense.","tags":["prayer","incense"]},
-    {"verse":11,"restored":"A messenger of the Lord appeared to him, standing at the right side of the altar of incense.","tags":["messenger","altar"]},
-    {"verse":12,"restored":"Zechariah was troubled when he saw, and fear fell upon him.","tags":["fear","vision"]},
-    {"verse":13,"restored":"But the messenger said to him, Do not fear, Zechariah, because your prayer has been heard; your wife Elizabeth will bear you a son, and you will call his name John.","tags":["fear-not","john","prayer"]},
-    {"verse":14,"restored":"There will be joy and gladness for you, and many will rejoice at his birth.","tags":["joy","birth"]},
-    {"verse":15,"restored":"For he will be great before the Lord; wine and strong drink he will certainly not drink, and he will be filled with holy Spirit even from his mother's womb.","terms":[{"display":"holy Spirit","source":"pneumatos hagiou","language":"Greek","glossary_id":"pneuma-hagion"}],"tags":["spirit","womb","john"]},
-    {"verse":16,"restored":"He will turn many of the children of Israel back to the Lord their Divine.","tags":["turning","israel"]},
-    {"verse":17,"restored":"He will go before him in the spirit and power of Elijah, to turn hearts of fathers toward children and disobedient ones into the wisdom of the righteous, to prepare for the Lord a people made ready.","tags":["elijah","hearts","preparation"]},
-    {"verse":18,"restored":"Zechariah said to the messenger, By what shall I know this? For I am old, and my wife is advanced in her days.","tags":["question","age"]},
-    {"verse":19,"restored":"The messenger answered, I am Gabriel, the one standing before the Divine; I was sent to speak to you and announce these good things to you.","tags":["gabriel","announcement"]},
-    {"verse":20,"restored":"Look, you will be silent and unable to speak until the day these things happen, because you did not trust my words, which will be fulfilled in their time.","tags":["silence","trust","fulfillment"]},
-    {"verse":21,"restored":"The people were waiting for Zechariah and marveling at his delay in the sanctuary.","tags":["waiting","sanctuary"]},
-    {"verse":22,"restored":"Coming out, he was not able to speak to them; they recognized that he had seen a vision in the sanctuary. He was making signs to them and remained mute.","tags":["vision","silence"]},
-    {"verse":23,"restored":"When the days of his service were completed, he went to his house.","tags":["service","house"]},
-    {"verse":24,"restored":"After these days Elizabeth his wife conceived, and she kept herself hidden five months, saying,","tags":["elizabeth","conception","hidden"]},
-    {"verse":25,"restored":"Thus the Lord has done for me in the days when he looked upon me, to take away my reproach among people.","tags":["mercy","reproach"]},
-    {"verse":26,"restored":"In the sixth month, the messenger Gabriel was sent from the Divine to a city of Galilee named Nazareth,","tags":["gabriel","galilee","nazareth"]},
-    {"verse":27,"restored":"to a virgin betrothed to a man named Joseph, from the house of David; the virgin's name was Mary.","tags":["mary","joseph","david"]},
-    {"verse":28,"restored":"Coming to her, he said, Rejoice, favored one; the Lord is with you.","terms":[{"display":"favored one","source":"kecharitomene","language":"Greek","glossary_id":"kecharitomene"}],"tags":["mary","favor","rejoice"]},
-    {"verse":29,"restored":"She was deeply disturbed at the word and was reasoning what kind of greeting this might be.","tags":["mary","greeting"]},
-    {"verse":30,"restored":"The messenger said to her, Do not fear, Mary, for you have found favor with the Divine.","tags":["fear-not","favor"]},
-    {"verse":31,"restored":"Look, you will conceive in your womb and bear a son, and you will call his name Jesus.","tags":["conception","jesus","womb"]},
-    {"verse":32,"restored":"He will be great and will be called Son of the Most High; the Lord Divine will give him the throne of David his father.","tags":["son-most-high","david","throne"]},
-    {"verse":33,"restored":"He will reign over the house of Jacob into the ages, and of his reign there will be no end.","terms":[{"display":"ages","source":"aionas","language":"Greek","glossary_id":"aion"}],"tags":["reign","jacob","age"]},
-    {"verse":34,"restored":"Mary said to the messenger, How will this be, since I do not know a man?","tags":["mary","question"]},
-    {"verse":35,"restored":"The messenger answered her, Holy Spirit will come upon you, and power of the Most High will overshadow you; therefore the holy one being born will be called Son of the Divine.","tags":["holy-spirit","overshadow","son-divine"]},
-    {"verse":36,"restored":"Look, Elizabeth your relative has also conceived a son in her old age; this is the sixth month for her who was called barren.","tags":["elizabeth","barrenness","sixth-month"]},
-    {"verse":37,"restored":"For no word from the Divine will be impossible.","tags":["word","impossible"]},
-    {"verse":38,"restored":"Mary said, Look, the servant of the Lord; let it happen to me according to your word. And the messenger departed from her.","tags":["mary","servant","consent"]},
-    {"verse":39,"restored":"In those days Mary rose and went with haste into the hill country, to a city of Judah.","tags":["mary","judah","haste"]},
-    {"verse":40,"restored":"She entered the house of Zechariah and greeted Elizabeth.","tags":["elizabeth","greeting"]},
-    {"verse":41,"restored":"When Elizabeth heard Mary's greeting, the baby leapt in her womb, and Elizabeth was filled with holy Spirit.","tags":["womb","spirit","leaping"]},
-    {"verse":42,"restored":"She cried out with a great voice and said, Blessed are you among women, and blessed is the fruit of your womb.","tags":["blessed","womb","women"]},
-    {"verse":43,"restored":"How has this happened to me, that the mother of my Lord should come to me?","tags":["mother","lord"]},
-    {"verse":44,"restored":"For look, when the voice of your greeting came into my ears, the baby in my womb leapt in gladness.","tags":["voice","womb","joy"]},
-    {"verse":45,"restored":"Blessed/flourishing is she who trusted that there will be fulfillment of the things spoken to her from the Lord.","terms":[{"display":"trusted","source":"pisteusasa","language":"Greek","glossary_id":"pistis"}],"tags":["trust","fulfillment"]},
-    {"verse":46,"restored":"Mary said, My soul magnifies the Lord,","tags":["magnificat","soul","lord"]},
-    {"verse":47,"restored":"and my spirit rejoices in the Divine my Savior,","tags":["spirit","joy","savior"]},
-    {"verse":48,"restored":"because he looked upon the lowliness of his servant. For look, from now all generations will call me blessed,","tags":["lowliness","servant","generations"]},
-    {"verse":49,"restored":"because the Mighty One has done great things for me, and holy is his name.","tags":["holy","name"]},
-    {"verse":50,"restored":"His mercy is into generations and generations for those who reverence him.","tags":["mercy","generations"]},
-    {"verse":51,"restored":"He has shown strength with his arm; he has scattered the proud in the reasoning of their hearts.","tags":["reversal","proud","heart"]},
-    {"verse":52,"restored":"He has pulled down rulers from thrones and lifted up the lowly.","tags":["reversal","rulers","lowly"]},
-    {"verse":53,"restored":"The hungry he has filled with good things, and the rich he has sent away empty.","tags":["hungry","rich","reversal"]},
-    {"verse":54,"restored":"He has helped Israel his servant, remembering mercy,","tags":["israel","mercy"]},
-    {"verse":55,"restored":"just as he spoke to our fathers, to Abraham and to his seed into the age.","tags":["abraham","covenant","age"]},
-    {"verse":56,"restored":"Mary remained with her about three months and returned to her house.","tags":["mary","three-months"]},
-    {"verse":57,"restored":"For Elizabeth, the time was fulfilled for her to give birth, and she bore a son.","tags":["elizabeth","birth","son"]},
-    {"verse":58,"restored":"Her neighbors and relatives heard that the Lord magnified his mercy with her, and they rejoiced with her.","tags":["mercy","joy"]},
-    {"verse":59,"restored":"On the eighth day they came to circumcise the child, and they were calling him by his father's name, Zechariah.","tags":["eighth-day","circumcision","name"]},
-    {"verse":60,"restored":"His mother answered, No; he will be called John.","tags":["elizabeth","john","name"]},
-    {"verse":61,"restored":"They said to her, There is no one from your relatives who is called by this name.","tags":["relatives","name"]},
-    {"verse":62,"restored":"They were signaling to his father what he might wish him to be called.","tags":["zechariah","name"]},
-    {"verse":63,"restored":"Asking for a writing tablet, he wrote, His name is John. They all marveled.","tags":["tablet","john","wonder"]},
-    {"verse":64,"restored":"Immediately his mouth was opened and his tongue released, and he spoke, blessing the Divine.","tags":["immediately","speech","blessing"]},
-    {"verse":65,"restored":"Fear came upon all those living around them, and all these words were being spoken throughout the whole hill country of Judea.","tags":["fear","judea"]},
-    {"verse":66,"restored":"All who heard placed them in their hearts, saying, What then will this child be? For the hand of the Lord was with him.","tags":["heart","child","hand"]},
-    {"verse":67,"restored":"Zechariah his father was filled with holy Spirit and prophesied, saying,","tags":["zechariah","spirit","prophecy"]},
-    {"verse":68,"restored":"Blessed is the Lord, the Divine of Israel, because he has visited and made redemption for his people.","tags":["benedictus","israel","redemption"]},
-    {"verse":69,"restored":"He has raised a horn of salvation for us in the house of David his servant,","tags":["salvation","david"]},
-    {"verse":70,"restored":"just as he spoke through the mouth of his holy prophets from of old,","tags":["prophets","mouth"]},
-    {"verse":71,"restored":"salvation from our enemies and from the hand of all who hate us,","tags":["salvation","enemies"]},
-    {"verse":72,"restored":"to do mercy with our fathers and to remember his holy covenant,","tags":["mercy","covenant"]},
-    {"verse":73,"restored":"the oath that he swore to Abraham our father, to grant us","tags":["abraham","oath"]},
-    {"verse":74,"restored":"that, rescued from the hand of enemies, we might serve him without fear,","tags":["rescue","service","fearless"]},
-    {"verse":75,"restored":"in holiness and righteousness before him all our days.","tags":["holiness","righteousness"]},
-    {"verse":76,"restored":"And you, child, will be called prophet of the Most High, for you will go before the Lord to prepare his ways,","tags":["john","prophet","preparation"]},
-    {"verse":77,"restored":"to give knowledge of salvation to his people in release of their sins/misalignments,","tags":["salvation","release"]},
-    {"verse":78,"restored":"through the deep mercy of our Divine, by which the dawn from on high will visit us,","tags":["mercy","dawn"]},
-    {"verse":79,"restored":"to shine upon those sitting in darkness and death's shadow, to guide our feet into the way of peace.","tags":["darkness","peace","way"]},
-    {"verse":80,"restored":"The child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.","tags":["john","wilderness","israel"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for prologue, Zechariah/Elizabeth, Gabriel, John announcement, Mary announcement, Mary/Elizabeth, Magnificat, John birth, Benedictus, Spirit/prophecy/mercy/covenant language."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Since many have undertaken to arrange an account concerning the matters fulfilled among us,",
+      "tags": [
+        "prologue",
+        "account"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "just as those who from the beginning were eyewitnesses and servants of the word handed them down to us,",
+      "terms": [
+        {
+          "display": "eyewitnesses",
+          "source": "autoptai",
+          "language": "Greek",
+          "glossary_id": "autoptai"
+        },
+        {
+          "display": "servants of the word",
+          "source": "hyperetai tou logou",
+          "language": "Greek",
+          "glossary_id": "hyperetai-logou"
+        }
+      ],
+      "tags": [
+        "eyewitnesses",
+        "word",
+        "tradition",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even as they delivered them unto us, which from the beginning were eyewitnesses, and ministers of the word;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "it seemed good to me also, having followed all things closely from the first, to write them in order for you, most excellent Theophilus,",
+      "tags": [
+        "order",
+        "theophilus"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It seemed good to me also, having had perfect understanding of all things from the very first, to write unto thee in order, most excellent Theophilus,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "so that you may know the secure certainty concerning the words in which you were instructed.",
+      "tags": [
+        "certainty",
+        "instruction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That thou mightest know the certainty of those things, wherein thou hast been instructed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "In the days of Herod, king of Judea, there was a certain priest named Zechariah, from the division of Abijah, and his wife from the daughters of Aaron; her name was Elizabeth.",
+      "tags": [
+        "herod",
+        "zechariah",
+        "elizabeth",
+        "priest",
+        "kingship-power",
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There was in the days of Herod, the king of Judaea, a certain priest named Zacharias, of the course of Abia: and his wife was of the daughters of Aaron, and her name was Elisabeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "They were both righteous before the Divine, walking blamelessly in all the commands and ordinances of the Lord.",
+      "tags": [
+        "righteous",
+        "commands",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "They had no child, because Elizabeth was barren, and both were advanced in their days.",
+      "tags": [
+        "barrenness",
+        "age",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they had no child, because that Elisabeth was barren, and they both were now well stricken in years."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "It happened while he was serving as priest before the Divine in the order of his division,",
+      "tags": [
+        "priesthood",
+        "service",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that while he executed the priest’s office before God in the order of his course,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "according to the custom of the priesthood, he was chosen by lot to enter the sanctuary of the Lord and burn incense.",
+      "tags": [
+        "incense",
+        "sanctuary",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "According to the custom of the priest’s office, his lot was to burn incense when he went into the temple of the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The whole multitude of the people was praying outside at the hour of incense.",
+      "tags": [
+        "prayer",
+        "incense"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the whole multitude of the people were praying without at the time of incense."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "A messenger of the Lord appeared to him, standing at the right side of the altar of incense.",
+      "tags": [
+        "messenger",
+        "altar",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there appeared unto him an angel of the Lord standing on the right side of the altar of incense."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Zechariah was troubled when he saw, and fear fell upon him.",
+      "tags": [
+        "fear",
+        "vision"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Zacharias saw him, he was troubled, and fear fell upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But the messenger said to him, Do not fear, Zechariah, because your prayer has been heard; your wife Elizabeth will bear you a son, and you will call his name John.",
+      "tags": [
+        "fear-not",
+        "john",
+        "prayer",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the angel said unto him, Fear not, Zacharias: for thy prayer is heard; and thy wife Elisabeth shall bear thee a son, and thou shalt call his name John."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "There will be joy and gladness for you, and many will rejoice at his birth.",
+      "tags": [
+        "joy",
+        "birth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt have joy and gladness; and many shall rejoice at his birth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "For he will be great before the Lord; wine and strong drink he will certainly not drink, and he will be filled with holy Spirit even from his mother's womb.",
+      "terms": [
+        {
+          "display": "holy Spirit",
+          "source": "pneumatos hagiou",
+          "language": "Greek",
+          "glossary_id": "pneuma-hagion"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "womb",
+        "john"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he shall be great in the sight of the Lord, and shall drink neither wine nor strong drink; and he shall be filled with the Holy Ghost, even from his mother’s womb."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He will turn many of the children of Israel back to the Lord their Divine.",
+      "tags": [
+        "turning",
+        "israel",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And many of the children of Israel shall he turn to the Lord their God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He will go before him in the spirit and power of Elijah, to turn hearts of fathers toward children and disobedient ones into the wisdom of the righteous, to prepare for the Lord a people made ready.",
+      "tags": [
+        "elijah",
+        "hearts",
+        "preparation",
+        "spirit",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall go before him in the spirit and power of Elias, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just; to make ready a people prepared for the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Zechariah said to the messenger, By what shall I know this? For I am old, and my wife is advanced in her days.",
+      "tags": [
+        "question",
+        "age",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zacharias said unto the angel, Whereby shall I know this? for I am an old man, and my wife well stricken in years."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "The messenger answered, I am Gabriel, the one standing before the Divine; I was sent to speak to you and announce these good things to you.",
+      "tags": [
+        "gabriel",
+        "announcement"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel answering said unto him, I am Gabriel, that stand in the presence of God; and am sent to speak unto thee, and to shew thee these glad tidings."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Look, you will be silent and unable to speak until the day these things happen, because you did not trust my words, which will be fulfilled in their time.",
+      "tags": [
+        "silence",
+        "trust",
+        "fulfillment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, thou shalt be dumb, and not able to speak, until the day that these things shall be performed, because thou believest not my words, which shall be fulfilled in their season."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The people were waiting for Zechariah and marveling at his delay in the sanctuary.",
+      "tags": [
+        "waiting",
+        "sanctuary",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people waited for Zacharias, and marvelled that he tarried so long in the temple."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Coming out, he was not able to speak to them; they recognized that he had seen a vision in the sanctuary. He was making signs to them and remained mute.",
+      "tags": [
+        "vision",
+        "silence",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "When the days of his service were completed, he went to his house.",
+      "tags": [
+        "service",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, as soon as the days of his ministration were accomplished, he departed to his own house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "After these days Elizabeth his wife conceived, and she kept herself hidden five months, saying,",
+      "tags": [
+        "elizabeth",
+        "conception",
+        "hidden",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after those days his wife Elisabeth conceived, and hid herself five months, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Thus the Lord has done for me in the days when he looked upon me, to take away my reproach among people.",
+      "tags": [
+        "mercy",
+        "reproach"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus hath the Lord dealt with me in the days wherein he looked on me, to take away my reproach among men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "In the sixth month, the messenger Gabriel was sent from the Divine to a city of Galilee named Nazareth,",
+      "tags": [
+        "gabriel",
+        "galilee",
+        "nazareth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "to a virgin betrothed to a man named Joseph, from the house of David; the virgin's name was Mary.",
+      "tags": [
+        "mary",
+        "joseph",
+        "david"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To a virgin espoused to a man whose name was Joseph, of the house of David; and the virgin’s name was Mary."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Coming to her, he said, Rejoice, favored one; the Lord is with you.",
+      "terms": [
+        {
+          "display": "favored one",
+          "source": "kecharitomene",
+          "language": "Greek",
+          "glossary_id": "kecharitomene"
+        }
+      ],
+      "tags": [
+        "mary",
+        "favor",
+        "rejoice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel came in unto her, and said, Hail, thou that art highly favoured, the Lord is with thee: blessed art thou among women."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "She was deeply disturbed at the word and was reasoning what kind of greeting this might be.",
+      "tags": [
+        "mary",
+        "greeting",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when she saw him, she was troubled at his saying, and cast in her mind what manner of salutation this should be."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "The messenger said to her, Do not fear, Mary, for you have found favor with the Divine.",
+      "tags": [
+        "fear-not",
+        "favor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel said unto her, Fear not, Mary: for thou hast found favour with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Look, you will conceive in your womb and bear a son, and you will call his name Jesus.",
+      "tags": [
+        "conception",
+        "jesus",
+        "womb",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, thou shalt conceive in thy womb, and bring forth a son, and shalt call his name JESUS."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "He will be great and will be called Son of the Most High; the Lord Divine will give him the throne of David his father.",
+      "tags": [
+        "son-most-high",
+        "david",
+        "throne",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall be great, and shall be called the Son of the Highest: and the Lord God shall give unto him the throne of his father David:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "He will reign over the house of Jacob into the ages, and of his reign there will be no end.",
+      "terms": [
+        {
+          "display": "ages",
+          "source": "aionas",
+          "language": "Greek",
+          "glossary_id": "aion"
+        }
+      ],
+      "tags": [
+        "reign",
+        "jacob",
+        "age",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall reign over the house of Jacob for ever; and of his kingdom there shall be no end."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Mary said to the messenger, How will this be, since I do not know a man?",
+      "tags": [
+        "mary",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Mary unto the angel, How shall this be, seeing I know not a man?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "The messenger answered her, Holy Spirit will come upon you, and power of the Most High will overshadow you; therefore the holy one being born will be called Son of the Divine.",
+      "tags": [
+        "holy-spirit",
+        "overshadow",
+        "son-divine",
+        "spirit",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel answered and said unto her, The Holy Ghost shall come upon thee, and the power of the Highest shall overshadow thee: therefore also that holy thing which shall be born of thee shall be called the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Look, Elizabeth your relative has also conceived a son in her old age; this is the sixth month for her who was called barren.",
+      "tags": [
+        "elizabeth",
+        "barrenness",
+        "sixth-month",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, thy cousin Elisabeth, she hath also conceived a son in her old age: and this is the sixth month with her, who was called barren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "For no word from the Divine will be impossible.",
+      "tags": [
+        "word",
+        "impossible"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For with God nothing shall be impossible."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "Mary said, Look, the servant of the Lord; let it happen to me according to your word. And the messenger departed from her.",
+      "tags": [
+        "mary",
+        "servant",
+        "consent",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mary said, Behold the handmaid of the Lord; be it unto me according to thy word. And the angel departed from her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "In those days Mary rose and went with haste into the hill country, to a city of Judah.",
+      "tags": [
+        "mary",
+        "judah",
+        "haste"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mary arose in those days, and went into the hill country with haste, into a city of Juda;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "She entered the house of Zechariah and greeted Elizabeth.",
+      "tags": [
+        "elizabeth",
+        "greeting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And entered into the house of Zacharias, and saluted Elisabeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "When Elizabeth heard Mary's greeting, the baby leapt in her womb, and Elizabeth was filled with holy Spirit.",
+      "tags": [
+        "womb",
+        "spirit",
+        "leaping"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, when Elisabeth heard the salutation of Mary, the babe leaped in her womb; and Elisabeth was filled with the Holy Ghost:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "She cried out with a great voice and said, Blessed are you among women, and blessed is the fruit of your womb.",
+      "tags": [
+        "blessed",
+        "womb",
+        "women",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she spake out with a loud voice, and said, Blessed art thou among women, and blessed is the fruit of thy womb."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 43,
+      "restored": "How has this happened to me, that the mother of my Lord should come to me?",
+      "tags": [
+        "mother",
+        "lord"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whence is this to me, that the mother of my Lord should come to me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "For look, when the voice of your greeting came into my ears, the baby in my womb leapt in gladness.",
+      "tags": [
+        "voice",
+        "womb",
+        "joy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For, lo, as soon as the voice of thy salutation sounded in mine ears, the babe leaped in my womb for joy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Blessed/flourishing is she who trusted that there will be fulfillment of the things spoken to her from the Lord.",
+      "terms": [
+        {
+          "display": "trusted",
+          "source": "pisteusasa",
+          "language": "Greek",
+          "glossary_id": "pistis"
+        }
+      ],
+      "tags": [
+        "trust",
+        "fulfillment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And blessed is she that believed: for there shall be a performance of those things which were told her from the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "Mary said, My soul magnifies the Lord,",
+      "tags": [
+        "magnificat",
+        "soul",
+        "lord"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mary said, My soul doth magnify the Lord,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "and my spirit rejoices in the Divine my Savior,",
+      "tags": [
+        "spirit",
+        "joy",
+        "savior"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And my spirit hath rejoiced in God my Saviour."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "because he looked upon the lowliness of his servant. For look, from now all generations will call me blessed,",
+      "tags": [
+        "lowliness",
+        "servant",
+        "generations",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he hath regarded the low estate of his handmaiden: for, behold, from henceforth all generations shall call me blessed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 49,
+      "restored": "because the Mighty One has done great things for me, and holy is his name.",
+      "tags": [
+        "holy",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that is mighty hath done to me great things; and holy is his name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "His mercy is into generations and generations for those who reverence him.",
+      "tags": [
+        "mercy",
+        "generations"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his mercy is on them that fear him from generation to generation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "He has shown strength with his arm; he has scattered the proud in the reasoning of their hearts.",
+      "tags": [
+        "reversal",
+        "proud",
+        "heart",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "He has pulled down rulers from thrones and lifted up the lowly.",
+      "tags": [
+        "reversal",
+        "rulers",
+        "lowly",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath put down the mighty from their seats, and exalted them of low degree."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 53,
+      "restored": "The hungry he has filled with good things, and the rich he has sent away empty.",
+      "tags": [
+        "hungry",
+        "rich",
+        "reversal",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath filled the hungry with good things; and the rich he hath sent empty away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "He has helped Israel his servant, remembering mercy,",
+      "tags": [
+        "israel",
+        "mercy",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath holpen his servant Israel, in remembrance of his mercy;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 55,
+      "restored": "just as he spoke to our fathers, to Abraham and to his seed into the age.",
+      "tags": [
+        "abraham",
+        "covenant",
+        "age"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As he spake to our fathers, to Abraham, and to his seed for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 56,
+      "restored": "Mary remained with her about three months and returned to her house.",
+      "tags": [
+        "mary",
+        "three-months"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mary abode with her about three months, and returned to her own house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 57,
+      "restored": "For Elizabeth, the time was fulfilled for her to give birth, and she bore a son.",
+      "tags": [
+        "elizabeth",
+        "birth",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Elisabeth’s full time came that she should be delivered; and she brought forth a son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 58,
+      "restored": "Her neighbors and relatives heard that the Lord magnified his mercy with her, and they rejoiced with her.",
+      "tags": [
+        "mercy",
+        "joy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 59,
+      "restored": "On the eighth day they came to circumcise the child, and they were calling him by his father's name, Zechariah.",
+      "tags": [
+        "eighth-day",
+        "circumcision",
+        "name",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 60,
+      "restored": "His mother answered, No; he will be called John.",
+      "tags": [
+        "elizabeth",
+        "john",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his mother answered and said, Not so; but he shall be called John."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 61,
+      "restored": "They said to her, There is no one from your relatives who is called by this name.",
+      "tags": [
+        "relatives",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto her, There is none of thy kindred that is called by this name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 62,
+      "restored": "They were signaling to his father what he might wish him to be called.",
+      "tags": [
+        "zechariah",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they made signs to his father, how he would have him called."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 63,
+      "restored": "Asking for a writing tablet, he wrote, His name is John. They all marveled.",
+      "tags": [
+        "tablet",
+        "john",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 64,
+      "restored": "Immediately his mouth was opened and his tongue released, and he spoke, blessing the Divine.",
+      "tags": [
+        "immediately",
+        "speech",
+        "blessing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his mouth was opened immediately, and his tongue loosed, and he spake, and praised God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 65,
+      "restored": "Fear came upon all those living around them, and all these words were being spoken throughout the whole hill country of Judea.",
+      "tags": [
+        "fear",
+        "judea"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 66,
+      "restored": "All who heard placed them in their hearts, saying, What then will this child be? For the hand of the Lord was with him.",
+      "tags": [
+        "heart",
+        "child",
+        "hand",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 67,
+      "restored": "Zechariah his father was filled with holy Spirit and prophesied, saying,",
+      "tags": [
+        "zechariah",
+        "spirit",
+        "prophecy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his father Zacharias was filled with the Holy Ghost, and prophesied, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 68,
+      "restored": "Blessed is the Lord, the Divine of Israel, because he has visited and made redemption for his people.",
+      "tags": [
+        "benedictus",
+        "israel",
+        "redemption"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed be the Lord God of Israel; for he hath visited and redeemed his people,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 69,
+      "restored": "He has raised a horn of salvation for us in the house of David his servant,",
+      "tags": [
+        "salvation",
+        "david",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And hath raised up an horn of salvation for us in the house of his servant David;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 70,
+      "restored": "just as he spoke through the mouth of his holy prophets from of old,",
+      "tags": [
+        "prophets",
+        "mouth",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As he spake by the mouth of his holy prophets, which have been since the world began:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 71,
+      "restored": "salvation from our enemies and from the hand of all who hate us,",
+      "tags": [
+        "salvation",
+        "enemies"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That we should be saved from our enemies, and from the hand of all that hate us;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 72,
+      "restored": "to do mercy with our fathers and to remember his holy covenant,",
+      "tags": [
+        "mercy",
+        "covenant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To perform the mercy promised to our fathers, and to remember his holy covenant;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 73,
+      "restored": "the oath that he swore to Abraham our father, to grant us",
+      "tags": [
+        "abraham",
+        "oath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The oath which he sware to our father Abraham,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 74,
+      "restored": "that, rescued from the hand of enemies, we might serve him without fear,",
+      "tags": [
+        "rescue",
+        "service",
+        "fearless"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That he would grant unto us, that we being delivered out of the hand of our enemies might serve him without fear,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 75,
+      "restored": "in holiness and righteousness before him all our days.",
+      "tags": [
+        "holiness",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In holiness and righteousness before him, all the days of our life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 76,
+      "restored": "And you, child, will be called prophet of the Most High, for you will go before the Lord to prepare his ways,",
+      "tags": [
+        "john",
+        "prophet",
+        "preparation",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou, child, shalt be called the prophet of the Highest: for thou shalt go before the face of the Lord to prepare his ways;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 77,
+      "restored": "to give knowledge of salvation to his people in release of their sins/misalignments,",
+      "tags": [
+        "salvation",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To give knowledge of salvation unto his people by the remission of their sins,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 78,
+      "restored": "through the deep mercy of our Divine, by which the dawn from on high will visit us,",
+      "tags": [
+        "mercy",
+        "dawn"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Through the tender mercy of our God; whereby the dayspring from on high hath visited us,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 79,
+      "restored": "to shine upon those sitting in darkness and death's shadow, to guide our feet into the way of peace.",
+      "tags": [
+        "darkness",
+        "peace",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To give light to them that sit in darkness and in the shadow of death, to guide our feet into the way of peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 80,
+      "restored": "The child grew and became strong in spirit, and he was in the wilderness until the day of his public appearance to Israel.",
+      "tags": [
+        "john",
+        "wilderness",
+        "israel",
+        "spirit",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the child grew, and waxed strong in spirit, and was in the deserts till the day of his shewing unto Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-80",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-15-of-80",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

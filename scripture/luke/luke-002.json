@@ -1,60 +1,1003 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":2,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for census, birth in Bethlehem, manger, shepherd announcement, angelic peace, circumcision/name, temple presentation, Simeon, Anna, Nazareth return, and twelve-year-old Jesus."},
-  "verses":[
-    {"verse":1,"restored":"In those days a decree went out from Caesar Augustus that all the inhabited world should be registered.","tags":["caesar","census"]},
-    {"verse":2,"restored":"This first registration happened while Quirinius was governing Syria.","tags":["quirinius","syria","registration"]},
-    {"verse":3,"restored":"All went to be registered, each to his own city.","tags":["registration","city"]},
-    {"verse":4,"restored":"Joseph also went up from Galilee, from the city Nazareth, to Judea, to David's city, which is called Bethlehem, because he was from the house and family line of David,","tags":["joseph","galilee","nazareth","bethlehem","david"]},
-    {"verse":5,"restored":"to be registered with Mary, who had been betrothed to him, being pregnant.","tags":["mary","pregnancy"]},
-    {"verse":6,"restored":"While they were there, the days were fulfilled for her to give birth.","tags":["birth","fulfilled"]},
-    {"verse":7,"restored":"She gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no place for them in the guest room.","tags":["firstborn","manger","guest-room"]},
-    {"verse":8,"restored":"In the same region there were shepherds living in the fields, keeping watch over their flock by night.","tags":["shepherds","watch","night"]},
-    {"verse":9,"restored":"A messenger of the Lord stood over them, and glory of the Lord shone around them, and they feared a great fear.","tags":["messenger","glory","fear"]},
-    {"verse":10,"restored":"The messenger said to them, Do not fear, for look, I announce to you good news of great joy that will be for all the people.","terms":[{"display":"announce good news","source":"euangelizomai","language":"Greek","glossary_id":"euangelizomai"}],"tags":["fear-not","joy","people"]},
-    {"verse":11,"restored":"Today in David's city a Savior was born for you, who is Messiah, Lord.","tags":["savior","messiah","lord","david"]},
-    {"verse":12,"restored":"This will be the sign for you: you will find a baby wrapped in cloths and lying in a manger.","tags":["sign","baby","manger"]},
-    {"verse":13,"restored":"Suddenly there was with the messenger a multitude of the heavenly army praising the Divine and saying,","tags":["heavenly-army","praise"]},
-    {"verse":14,"restored":"Glory to the Divine in the highest, and on earth peace among people of favor.","terms":[{"display":"peace","source":"eirene","language":"Greek","glossary_id":"eirene"}],"tags":["glory","peace","favor"]},
-    {"verse":15,"restored":"When the messengers went away from them into heaven, the shepherds were saying to one another, Let us go through to Bethlehem and see this word/event that has happened, which the Lord made known to us.","tags":["shepherds","bethlehem","word-event"]},
-    {"verse":16,"restored":"They went with haste and found Mary and Joseph, and the baby lying in the manger.","tags":["mary","joseph","baby","manger"]},
-    {"verse":17,"restored":"Seeing, they made known the word spoken to them concerning this child.","tags":["witness","child"]},
-    {"verse":18,"restored":"All who heard marveled concerning the things spoken by the shepherds to them.","tags":["wonder","shepherds"]},
-    {"verse":19,"restored":"But Mary kept all these words/events, pondering them in her heart.","tags":["mary","heart","pondering"]},
-    {"verse":20,"restored":"The shepherds returned, glorifying and praising the Divine for all they heard and saw, just as it had been spoken to them.","tags":["shepherds","praise"]},
-    {"verse":21,"restored":"When eight days were fulfilled to circumcise him, his name was called Jesus, the name called by the messenger before he was conceived in the womb.","tags":["eighth-day","circumcision","jesus","name"]},
-    {"verse":22,"restored":"When the days of their purification according to the Law of Moses were fulfilled, they brought him up to Jerusalem to present him to the Lord,","tags":["purification","moses","jerusalem"]},
-    {"verse":23,"restored":"as it has been written in the Law of the Lord: Every male opening the womb shall be called holy to the Lord,","tags":["law","womb","holy"]},
-    {"verse":24,"restored":"and to give a sacrifice according to what is said in the Law of the Lord: a pair of turtledoves or two young pigeons.","tags":["sacrifice","poverty","law"]},
-    {"verse":25,"restored":"Look, there was a man in Jerusalem whose name was Simeon; this man was righteous and devout, waiting for the consolation of Israel, and holy Spirit was upon him.","tags":["simeon","israel","holy-spirit"]},
-    {"verse":26,"restored":"It had been revealed to him by the holy Spirit that he would not see death before he saw the Lord's Messiah.","tags":["spirit","messiah","revelation"]},
-    {"verse":27,"restored":"He came in the Spirit into the temple; and when the parents brought in the child Jesus to do for him according to the custom of the Law,","tags":["spirit","temple","parents"]},
-    {"verse":28,"restored":"he received him into his arms, blessed the Divine, and said,","tags":["arms","blessing"]},
-    {"verse":29,"restored":"Now you release your servant, Master, according to your word, in peace,","tags":["release","servant","peace"]},
-    {"verse":30,"restored":"because my eyes have seen your salvation,","tags":["eyes","salvation"]},
-    {"verse":31,"restored":"which you prepared before the face of all peoples,","tags":["peoples","preparation"]},
-    {"verse":32,"restored":"a light for revelation to the nations and glory of your people Israel.","tags":["light","nations","israel"]},
-    {"verse":33,"restored":"His father and mother were marveling at the things spoken concerning him.","tags":["parents","wonder"]},
-    {"verse":34,"restored":"Simeon blessed them and said to Mary his mother, Look, this one is appointed for falling and rising of many in Israel, and for a sign spoken against,","tags":["simeon","mary","falling-rising","sign"]},
-    {"verse":35,"restored":"and a sword will pass through your own soul also, so that reasonings from many hearts may be revealed.","tags":["sword","soul","hearts","revealed"]},
-    {"verse":36,"restored":"There was Anna, a prophetess, daughter of Phanuel, from the tribe of Asher; she was advanced in many days, having lived with a husband seven years from her virginity,","tags":["anna","prophetess","asher"]},
-    {"verse":37,"restored":"and she was a widow until eighty-four years, who did not depart from the temple, serving with fastings and prayers night and day.","tags":["widow","temple","prayer","fasting"]},
-    {"verse":38,"restored":"At that very hour she stood near, gave thanks to the Divine, and spoke about him to all those waiting for redemption of Jerusalem.","tags":["thanksgiving","redemption","jerusalem"]},
-    {"verse":39,"restored":"When they completed all things according to the Law of the Lord, they returned to Galilee, to their own city Nazareth.","tags":["law","galilee","nazareth"]},
-    {"verse":40,"restored":"The child grew and became strong, being filled with wisdom; and favor of the Divine was upon him.","tags":["growth","wisdom","favor"]},
-    {"verse":41,"restored":"His parents went each year to Jerusalem for the feast of Passover.","tags":["parents","jerusalem","passover"]},
-    {"verse":42,"restored":"When he became twelve years old, they went up according to the custom of the feast.","tags":["twelve","feast"]},
-    {"verse":43,"restored":"After completing the days, as they were returning, the boy Jesus remained behind in Jerusalem, and his parents did not know it.","tags":["jesus","jerusalem","parents"]},
-    {"verse":44,"restored":"Supposing him to be in the travel group, they went a day's journey and were seeking him among relatives and acquaintances.","tags":["seeking","relatives"]},
-    {"verse":45,"restored":"Not finding him, they returned to Jerusalem seeking him.","tags":["seeking","jerusalem"]},
-    {"verse":46,"restored":"After three days they found him in the temple, sitting in the midst of the teachers, hearing them and questioning them.","tags":["three-days","temple","teachers"]},
-    {"verse":47,"restored":"All those hearing him were astonished at his understanding and answers.","tags":["understanding","answers"]},
-    {"verse":48,"restored":"Seeing him, they were struck with wonder, and his mother said to him, Child, why did you do this to us? Look, your father and I were distressed, seeking you.","tags":["mary","distress","seeking"]},
-    {"verse":49,"restored":"He said to them, Why were you seeking me? Did you not know that it is necessary for me to be in the things/house of my Father?","tags":["father","necessity"]},
-    {"verse":50,"restored":"They did not understand the word that he spoke to them.","tags":["misunderstanding","word"]},
-    {"verse":51,"restored":"He went down with them and came to Nazareth, and was subject to them. His mother kept all these words/events in her heart.","tags":["nazareth","mary","heart"]},
-    {"verse":52,"restored":"Jesus advanced in wisdom and stature, and in favor with the Divine and humans.","tags":["jesus","wisdom","favor","growth"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for census, birth in Bethlehem, manger, shepherd announcement, angelic peace, circumcision/name, temple presentation, Simeon, Anna, Nazareth return, and twelve-year-old Jesus."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In those days a decree went out from Caesar Augustus that all the inhabited world should be registered.",
+      "tags": [
+        "caesar",
+        "census"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in those days, that there went out a decree from Caesar Augustus, that all the world should be taxed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "This first registration happened while Quirinius was governing Syria.",
+      "tags": [
+        "quirinius",
+        "syria",
+        "registration"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(And this taxing was first made when Cyrenius was governor of Syria.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "All went to be registered, each to his own city.",
+      "tags": [
+        "registration",
+        "city"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all went to be taxed, every one into his own city."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Joseph also went up from Galilee, from the city Nazareth, to Judea, to David's city, which is called Bethlehem, because he was from the house and family line of David,",
+      "tags": [
+        "joseph",
+        "galilee",
+        "nazareth",
+        "bethlehem",
+        "david"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "to be registered with Mary, who had been betrothed to him, being pregnant.",
+      "tags": [
+        "mary",
+        "pregnancy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To be taxed with Mary his espoused wife, being great with child."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "While they were there, the days were fulfilled for her to give birth.",
+      "tags": [
+        "birth",
+        "fulfilled"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And so it was, that, while they were there, the days were accomplished that she should be delivered."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "She gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no place for them in the guest room.",
+      "tags": [
+        "firstborn",
+        "manger",
+        "guest-room",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she brought forth her firstborn son, and wrapped him in swaddling clothes, and laid him in a manger; because there was no room for them in the inn."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "In the same region there were shepherds living in the fields, keeping watch over their flock by night.",
+      "tags": [
+        "shepherds",
+        "watch",
+        "night"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there were in the same country shepherds abiding in the field, keeping watch over their flock by night."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "A messenger of the Lord stood over them, and glory of the Lord shone around them, and they feared a great fear.",
+      "tags": [
+        "messenger",
+        "glory",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The messenger said to them, Do not fear, for look, I announce to you good news of great joy that will be for all the people.",
+      "terms": [
+        {
+          "display": "announce good news",
+          "source": "euangelizomai",
+          "language": "Greek",
+          "glossary_id": "euangelizomai"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "fear-not",
+        "joy",
+        "people"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Today in David's city a Savior was born for you, who is Messiah, Lord.",
+      "tags": [
+        "savior",
+        "messiah",
+        "lord",
+        "david"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For unto you is born this day in the city of David a Saviour, which is Christ the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "This will be the sign for you: you will find a baby wrapped in cloths and lying in a manger.",
+      "tags": [
+        "sign",
+        "baby",
+        "manger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Suddenly there was with the messenger a multitude of the heavenly army praising the Divine and saying,",
+      "tags": [
+        "heavenly-army",
+        "praise",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Glory to the Divine in the highest, and on earth peace among people of favor.",
+      "terms": [
+        {
+          "display": "peace",
+          "source": "eirene",
+          "language": "Greek",
+          "glossary_id": "eirene"
+        }
+      ],
+      "tags": [
+        "glory",
+        "peace",
+        "favor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Glory to God in the highest, and on earth peace, good will toward men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "When the messengers went away from them into heaven, the shepherds were saying to one another, Let us go through to Bethlehem and see this word/event that has happened, which the Lord made known to us.",
+      "tags": [
+        "shepherds",
+        "bethlehem",
+        "word-event"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "They went with haste and found Mary and Joseph, and the baby lying in the manger.",
+      "tags": [
+        "mary",
+        "joseph",
+        "baby",
+        "manger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they came with haste, and found Mary, and Joseph, and the babe lying in a manger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Seeing, they made known the word spoken to them concerning this child.",
+      "tags": [
+        "witness",
+        "child",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had seen it, they made known abroad the saying which was told them concerning this child."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "All who heard marveled concerning the things spoken by the shepherds to them.",
+      "tags": [
+        "wonder",
+        "shepherds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all they that heard it wondered at those things which were told them by the shepherds."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But Mary kept all these words/events, pondering them in her heart.",
+      "tags": [
+        "mary",
+        "heart",
+        "pondering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Mary kept all these things, and pondered them in her heart."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The shepherds returned, glorifying and praising the Divine for all they heard and saw, just as it had been spoken to them.",
+      "tags": [
+        "shepherds",
+        "praise"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "When eight days were fulfilled to circumcise him, his name was called Jesus, the name called by the messenger before he was conceived in the womb.",
+      "tags": [
+        "eighth-day",
+        "circumcision",
+        "jesus",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "When the days of their purification according to the Law of Moses were fulfilled, they brought him up to Jerusalem to present him to the Lord,",
+      "tags": [
+        "purification",
+        "moses",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "as it has been written in the Law of the Lord: Every male opening the womb shall be called holy to the Lord,",
+      "tags": [
+        "law",
+        "womb",
+        "holy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(As it is written in the law of the LORD, Every male that openeth the womb shall be called holy to the Lord;)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "and to give a sacrifice according to what is said in the Law of the Lord: a pair of turtledoves or two young pigeons.",
+      "tags": [
+        "sacrifice",
+        "poverty",
+        "law",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Look, there was a man in Jerusalem whose name was Simeon; this man was righteous and devout, waiting for the consolation of Israel, and holy Spirit was upon him.",
+      "tags": [
+        "simeon",
+        "israel",
+        "holy-spirit",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, there was a man in Jerusalem, whose name was Simeon; and the same man was just and devout, waiting for the consolation of Israel: and the Holy Ghost was upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "It had been revealed to him by the holy Spirit that he would not see death before he saw the Lord's Messiah.",
+      "tags": [
+        "spirit",
+        "messiah",
+        "revelation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was revealed unto him by the Holy Ghost, that he should not see death, before he had seen the Lord’s Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "He came in the Spirit into the temple; and when the parents brought in the child Jesus to do for him according to the custom of the Law,",
+      "tags": [
+        "spirit",
+        "temple",
+        "parents",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came by the Spirit into the temple: and when the parents brought in the child Jesus, to do for him after the custom of the law,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "he received him into his arms, blessed the Divine, and said,",
+      "tags": [
+        "arms",
+        "blessing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then took he him up in his arms, and blessed God, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Now you release your servant, Master, according to your word, in peace,",
+      "tags": [
+        "release",
+        "servant",
+        "peace",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lord, now lettest thou thy servant depart in peace, according to thy word:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "because my eyes have seen your salvation,",
+      "tags": [
+        "eyes",
+        "salvation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For mine eyes have seen thy salvation,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "which you prepared before the face of all peoples,",
+      "tags": [
+        "peoples",
+        "preparation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which thou hast prepared before the face of all people;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "a light for revelation to the nations and glory of your people Israel.",
+      "tags": [
+        "light",
+        "nations",
+        "israel"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "A light to lighten the Gentiles, and the glory of thy people Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "His father and mother were marveling at the things spoken concerning him.",
+      "tags": [
+        "parents",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joseph and his mother marvelled at those things which were spoken of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Simeon blessed them and said to Mary his mother, Look, this one is appointed for falling and rising of many in Israel, and for a sign spoken against,",
+      "tags": [
+        "simeon",
+        "mary",
+        "falling-rising",
+        "sign"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Simeon blessed them, and said unto Mary his mother, Behold, this child is set for the fall and rising again of many in Israel; and for a sign which shall be spoken against;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "and a sword will pass through your own soul also, so that reasonings from many hearts may be revealed.",
+      "tags": [
+        "sword",
+        "soul",
+        "hearts",
+        "revealed",
+        "war-violence",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(Yea, a sword shall pierce through thy own soul also,) that the thoughts of many hearts may be revealed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "There was Anna, a prophetess, daughter of Phanuel, from the tribe of Asher; she was advanced in many days, having lived with a husband seven years from her virginity,",
+      "tags": [
+        "anna",
+        "prophetess",
+        "asher",
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was one Anna, a prophetess, the daughter of Phanuel, of the tribe of Aser: she was of a great age, and had lived with an husband seven years from her virginity;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "and she was a widow until eighty-four years, who did not depart from the temple, serving with fastings and prayers night and day.",
+      "tags": [
+        "widow",
+        "temple",
+        "prayer",
+        "fasting",
+        "sacred-space",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she was a widow of about fourscore and four years, which departed not from the temple, but served God with fastings and prayers night and day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 38,
+      "restored": "At that very hour she stood near, gave thanks to the Divine, and spoke about him to all those waiting for redemption of Jerusalem.",
+      "tags": [
+        "thanksgiving",
+        "redemption",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she coming in that instant gave thanks likewise unto the Lord, and spake of him to all them that looked for redemption in Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "When they completed all things according to the Law of the Lord, they returned to Galilee, to their own city Nazareth.",
+      "tags": [
+        "law",
+        "galilee",
+        "nazareth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "The child grew and became strong, being filled with wisdom; and favor of the Divine was upon him.",
+      "tags": [
+        "growth",
+        "wisdom",
+        "favor",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the child grew, and waxed strong in spirit, filled with wisdom: and the grace of God was upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "His parents went each year to Jerusalem for the feast of Passover.",
+      "tags": [
+        "parents",
+        "jerusalem",
+        "passover"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now his parents went to Jerusalem every year at the feast of the passover."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "When he became twelve years old, they went up according to the custom of the feast.",
+      "tags": [
+        "twelve",
+        "feast"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was twelve years old, they went up to Jerusalem after the custom of the feast."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "After completing the days, as they were returning, the boy Jesus remained behind in Jerusalem, and his parents did not know it.",
+      "tags": [
+        "jesus",
+        "jerusalem",
+        "parents"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had fulfilled the days, as they returned, the child Jesus tarried behind in Jerusalem; and Joseph and his mother knew not of it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "Supposing him to be in the travel group, they went a day's journey and were seeking him among relatives and acquaintances.",
+      "tags": [
+        "seeking",
+        "relatives"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But they, supposing him to have been in the company, went a day’s journey; and they sought him among their kinsfolk and acquaintance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Not finding him, they returned to Jerusalem seeking him.",
+      "tags": [
+        "seeking",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they found him not, they turned back again to Jerusalem, seeking him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "After three days they found him in the temple, sitting in the midst of the teachers, hearing them and questioning them.",
+      "tags": [
+        "three-days",
+        "temple",
+        "teachers",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 47,
+      "restored": "All those hearing him were astonished at his understanding and answers.",
+      "tags": [
+        "understanding",
+        "answers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all that heard him were astonished at his understanding and answers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "Seeing him, they were struck with wonder, and his mother said to him, Child, why did you do this to us? Look, your father and I were distressed, seeking you.",
+      "tags": [
+        "mary",
+        "distress",
+        "seeking",
+        "war-violence",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 49,
+      "restored": "He said to them, Why were you seeking me? Did you not know that it is necessary for me to be in the things/house of my Father?",
+      "tags": [
+        "father",
+        "necessity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, How is it that ye sought me? wist ye not that I must be about my Father’s business?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "They did not understand the word that he spoke to them.",
+      "tags": [
+        "misunderstanding",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they understood not the saying which he spake unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "He went down with them and came to Nazareth, and was subject to them. His mother kept all these words/events in her heart.",
+      "tags": [
+        "nazareth",
+        "mary",
+        "heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went down with them, and came to Nazareth, and was subject unto them: but his mother kept all these sayings in her heart."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "Jesus advanced in wisdom and stature, and in favor with the Divine and humans.",
+      "tags": [
+        "jesus",
+        "wisdom",
+        "favor",
+        "growth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus increased in wisdom and stature, and in favour with God and man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-52",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-52",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

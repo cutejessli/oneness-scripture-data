@@ -1,42 +1,614 @@
 {
-  "book":"Matthew",
-  "book_id":"matthew",
-  "chapter":6,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for mercy-giving, prayer, secrecy, Father language, Lord's Prayer, debts, fasting, treasures, eye/lamp imagery, Mammon, worry, birds/lilies, and seeking the reign and righteousness/justice."},
-  "verses":[
-    {"verse":1,"restored":"Pay attention not to do your righteousness/justice before people in order to be seen by them; otherwise you have no reward with your Father in the heavens.","tags":["justice","reward","visibility"]},
-    {"verse":2,"restored":"Therefore when you give mercy-gifts, do not announce it dramatically as the hypocrites do in the synagogues and streets, so they may be honored by people. Amen, I say to you: they have received their reward.","tags":["giving","hypocrisy","reward"]},
-    {"verse":3,"restored":"But when you give mercy-gifts, do not let your left hand know what your right hand is doing,","tags":["giving","hidden"]},
-    {"verse":4,"restored":"so that your mercy-gift may be in secret; and your Father who sees in secret will give back to you.","tags":["secret","father","reward"]},
-    {"verse":5,"restored":"When you pray, you shall not be like the hypocrites, because they love to stand and pray in the synagogues and at the street corners so they may appear to people. Amen, I say to you: they have received their reward.","tags":["prayer","hypocrisy"]},
-    {"verse":6,"restored":"But you, when you pray, enter your inner room, shut your door, and pray to your Father in secret; and your Father who sees in secret will give back to you.","tags":["prayer","secret","father"]},
-    {"verse":7,"restored":"When praying, do not babble on like the nations, for they think they will be heard by their many words.","tags":["prayer","nations","words"]},
-    {"verse":8,"restored":"Therefore do not be like them, for your Father knows what you need before you ask him.","tags":["father","need"]},
-    {"verse":9,"restored":"Therefore pray this way: Our Father in the heavens, let your name be made holy.","tags":["prayer","father","holy-name"]},
-    {"verse":10,"restored":"Let your reign come; let your will come to be, as in heaven, also on earth.","tags":["kingdom","will","heaven-earth"]},
-    {"verse":11,"restored":"Give us today our bread for the coming day / our needed bread.","tags":["bread","daily-bread"]},
-    {"verse":12,"restored":"And release us from our debts, as we also have released our debtors.","tags":["debts","forgiveness"]},
-    {"verse":13,"restored":"And do not bring us into testing, but rescue us from the harmful one.","tags":["testing","rescue"]},
-    {"verse":14,"restored":"For if you release people from their trespasses, your heavenly Father will also release you.","tags":["forgiveness","father"]},
-    {"verse":15,"restored":"But if you do not release people, neither will your Father release your trespasses.","tags":["forgiveness","release"]},
-    {"verse":16,"restored":"When you fast, do not become gloomy-faced like the hypocrites, for they alter their faces so they may appear to people as fasting. Amen, I say to you: they have received their reward.","tags":["fasting","hypocrisy","face"]},
-    {"verse":17,"restored":"But you, when fasting, anoint your head and wash your face,","tags":["fasting","hidden"]},
-    {"verse":18,"restored":"so that you may not appear to people as fasting, but to your Father in secret; and your Father who sees in secret will give back to you.","tags":["fasting","secret","father"]},
-    {"verse":19,"restored":"Do not store up for yourselves treasures on earth, where moth and decay consume and where thieves break in and take.","tags":["treasure","earth"]},
-    {"verse":20,"restored":"But store up for yourselves treasures in heaven, where neither moth nor decay consumes and where thieves do not break in or take.","tags":["treasure","heaven"]},
-    {"verse":21,"restored":"For where your treasure is, there your heart will be also.","tags":["treasure","heart"]},
-    {"verse":22,"restored":"The lamp of the body is the eye. Therefore if your eye is single/clear/generous, your whole body will be full of light.","terms":[{"display":"single/clear/generous","source":"haplous","language":"Greek","glossary_id":"haplous"}],"tags":["eye","body","light"]},
-    {"verse":23,"restored":"But if your eye is harmful, your whole body will be dark. Therefore if the light in you is darkness, how great is that darkness!","tags":["eye","darkness","body"]},
-    {"verse":24,"restored":"No one is able to serve two masters; for either he will reject the one and love the other, or hold to one and despise the other. You cannot serve the Divine and Mammon.","terms":[{"display":"Mammon","source":"mamonas","language":"Greek","glossary_id":"mammon"}],"tags":["service","wealth","mammon"]},
-    {"verse":25,"restored":"Because of this I say to you: do not be worried for your life, what you will eat or drink, nor for your body, what you will wear. Is not life more than food, and the body more than clothing?","tags":["worry","life","body"]},
-    {"verse":26,"restored":"Look at the birds of the heavens: they do not sow, reap, or gather into barns, and your heavenly Father feeds them. Are you not worth more than they?","tags":["birds","father","provision"]},
-    {"verse":27,"restored":"Which of you by worrying is able to add one cubit/span to his life?","tags":["worry","life"]},
-    {"verse":28,"restored":"And why are you worried about clothing? Learn from the lilies of the field, how they grow; they do not labor or spin.","tags":["lilies","field","worry"]},
-    {"verse":29,"restored":"Yet I say to you that not even Solomon in all his glory was clothed like one of these.","tags":["solomon","glory","clothing"]},
-    {"verse":30,"restored":"If the Divine clothes the grass of the field this way, alive today and tomorrow placed in the oven, will he not much more clothe you, ones of little trust?","tags":["trust","clothing","field"]},
-    {"verse":31,"restored":"Therefore do not be worried, saying, What shall we eat? or What shall we drink? or What shall we wear?","tags":["worry","food","clothing"]},
-    {"verse":32,"restored":"For the nations seek after all these things, and your heavenly Father knows that you need them all.","tags":["nations","need","father"]},
-    {"verse":33,"restored":"But seek first the reign and righteousness/justice of the Divine, and all these things will be added to you.","tags":["kingdom","justice","seeking"]},
-    {"verse":34,"restored":"Therefore do not be worried for tomorrow, for tomorrow will worry about itself. Sufficient for the day is its own trouble.","tags":["worry","tomorrow","day"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for mercy-giving, prayer, secrecy, Father language, Lord's Prayer, debts, fasting, treasures, eye/lamp imagery, Mammon, worry, birds/lilies, and seeking the reign and righteousness/justice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Pay attention not to do your righteousness/justice before people in order to be seen by them; otherwise you have no reward with your Father in the heavens.",
+      "tags": [
+        "justice",
+        "reward",
+        "visibility"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed that ye do not your alms before men, to be seen of them: otherwise ye have no reward of your Father which is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Therefore when you give mercy-gifts, do not announce it dramatically as the hypocrites do in the synagogues and streets, so they may be honored by people. Amen, I say to you: they have received their reward.",
+      "tags": [
+        "giving",
+        "hypocrisy",
+        "reward",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore when thou doest thine alms, do not sound a trumpet before thee, as the hypocrites do in the synagogues and in the streets, that they may have glory of men. Verily I say unto you, They have their reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But when you give mercy-gifts, do not let your left hand know what your right hand is doing,",
+      "tags": [
+        "giving",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when thou doest alms, let not thy left hand know what thy right hand doeth:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "so that your mercy-gift may be in secret; and your Father who sees in secret will give back to you.",
+      "tags": [
+        "secret",
+        "father",
+        "reward"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That thine alms may be in secret: and thy Father which seeth in secret himself shall reward thee openly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "When you pray, you shall not be like the hypocrites, because they love to stand and pray in the synagogues and at the street corners so they may appear to people. Amen, I say to you: they have received their reward.",
+      "tags": [
+        "prayer",
+        "hypocrisy",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when thou prayest, thou shalt not be as the hypocrites are: for they love to pray standing in the synagogues and in the corners of the streets, that they may be seen of men. Verily I say unto you, They have their reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But you, when you pray, enter your inner room, shut your door, and pray to your Father in secret; and your Father who sees in secret will give back to you.",
+      "tags": [
+        "prayer",
+        "secret",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou, when thou prayest, enter into thy closet, and when thou hast shut thy door, pray to thy Father which is in secret; and thy Father which seeth in secret shall reward thee openly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "When praying, do not babble on like the nations, for they think they will be heard by their many words.",
+      "tags": [
+        "prayer",
+        "nations",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when ye pray, use not vain repetitions, as the heathen do: for they think that they shall be heard for their much speaking."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore do not be like them, for your Father knows what you need before you ask him.",
+      "tags": [
+        "father",
+        "need"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Be not ye therefore like unto them: for your Father knoweth what things ye have need of, before ye ask him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Therefore pray this way: Our Father in the heavens, let your name be made holy.",
+      "tags": [
+        "prayer",
+        "father",
+        "holy-name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After this manner therefore pray ye: Our Father which art in heaven, Hallowed be thy name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Let your reign come; let your will come to be, as in heaven, also on earth.",
+      "tags": [
+        "kingdom",
+        "will",
+        "heaven-earth",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thy kingdom come. Thy will be done in earth, as it is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Give us today our bread for the coming day / our needed bread.",
+      "tags": [
+        "bread",
+        "daily-bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Give us this day our daily bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And release us from our debts, as we also have released our debtors.",
+      "tags": [
+        "debts",
+        "forgiveness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And forgive us our debts, as we forgive our debtors."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And do not bring us into testing, but rescue us from the harmful one.",
+      "tags": [
+        "testing",
+        "rescue"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And lead us not into temptation, but deliver us from evil: For thine is the kingdom, and the power, and the glory, for ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For if you release people from their trespasses, your heavenly Father will also release you.",
+      "tags": [
+        "forgiveness",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For if ye forgive men their trespasses, your heavenly Father will also forgive you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But if you do not release people, neither will your Father release your trespasses.",
+      "tags": [
+        "forgiveness",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye forgive not men their trespasses, neither will your Father forgive your trespasses."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "When you fast, do not become gloomy-faced like the hypocrites, for they alter their faces so they may appear to people as fasting. Amen, I say to you: they have received their reward.",
+      "tags": [
+        "fasting",
+        "hypocrisy",
+        "face"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover when ye fast, be not, as the hypocrites, of a sad countenance: for they disfigure their faces, that they may appear unto men to fast. Verily I say unto you, They have their reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But you, when fasting, anoint your head and wash your face,",
+      "tags": [
+        "fasting",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou, when thou fastest, anoint thine head, and wash thy face;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "so that you may not appear to people as fasting, but to your Father in secret; and your Father who sees in secret will give back to you.",
+      "tags": [
+        "fasting",
+        "secret",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That thou appear not unto men to fast, but unto thy Father which is in secret: and thy Father, which seeth in secret, shall reward thee openly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Do not store up for yourselves treasures on earth, where moth and decay consume and where thieves break in and take.",
+      "tags": [
+        "treasure",
+        "earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lay not up for yourselves treasures upon earth, where moth and rust doth corrupt, and where thieves break through and steal:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But store up for yourselves treasures in heaven, where neither moth nor decay consumes and where thieves do not break in or take.",
+      "tags": [
+        "treasure",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But lay up for yourselves treasures in heaven, where neither moth nor rust doth corrupt, and where thieves do not break through nor steal:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For where your treasure is, there your heart will be also.",
+      "tags": [
+        "treasure",
+        "heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For where your treasure is, there will your heart be also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The lamp of the body is the eye. Therefore if your eye is single/clear/generous, your whole body will be full of light.",
+      "terms": [
+        {
+          "display": "single/clear/generous",
+          "source": "haplous",
+          "language": "Greek",
+          "glossary_id": "haplous"
+        }
+      ],
+      "tags": [
+        "eye",
+        "body",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The light of the body is the eye: if therefore thine eye be single, thy whole body shall be full of light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "But if your eye is harmful, your whole body will be dark. Therefore if the light in you is darkness, how great is that darkness!",
+      "tags": [
+        "eye",
+        "darkness",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if thine eye be evil, thy whole body shall be full of darkness. If therefore the light that is in thee be darkness, how great is that darkness!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "No one is able to serve two masters; for either he will reject the one and love the other, or hold to one and despise the other. You cannot serve the Divine and Mammon.",
+      "terms": [
+        {
+          "display": "Mammon",
+          "source": "mamonas",
+          "language": "Greek",
+          "glossary_id": "mammon"
+        }
+      ],
+      "tags": [
+        "service",
+        "wealth",
+        "mammon"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No man can serve two masters: for either he will hate the one, and love the other; or else he will hold to the one, and despise the other. Ye cannot serve God and mammon."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Because of this I say to you: do not be worried for your life, what you will eat or drink, nor for your body, what you will wear. Is not life more than food, and the body more than clothing?",
+      "tags": [
+        "worry",
+        "life",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore I say unto you, Take no thought for your life, what ye shall eat, or what ye shall drink; nor yet for your body, what ye shall put on. Is not the life more than meat, and the body than raiment?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Look at the birds of the heavens: they do not sow, reap, or gather into barns, and your heavenly Father feeds them. Are you not worth more than they?",
+      "tags": [
+        "birds",
+        "father",
+        "provision"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold the fowls of the air: for they sow not, neither do they reap, nor gather into barns; yet your heavenly Father feedeth them. Are ye not much better than they?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Which of you by worrying is able to add one cubit/span to his life?",
+      "tags": [
+        "worry",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which of you by taking thought can add one cubit unto his stature?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "And why are you worried about clothing? Learn from the lilies of the field, how they grow; they do not labor or spin.",
+      "tags": [
+        "lilies",
+        "field",
+        "worry"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And why take ye thought for raiment? Consider the lilies of the field, how they grow; they toil not, neither do they spin:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Yet I say to you that not even Solomon in all his glory was clothed like one of these.",
+      "tags": [
+        "solomon",
+        "glory",
+        "clothing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And yet I say unto you, That even Solomon in all his glory was not arrayed like one of these."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "If the Divine clothes the grass of the field this way, alive today and tomorrow placed in the oven, will he not much more clothe you, ones of little trust?",
+      "tags": [
+        "trust",
+        "clothing",
+        "field"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, if God so clothe the grass of the field, which to day is, and to morrow is cast into the oven, shall he not much more clothe you, O ye of little faith?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Therefore do not be worried, saying, What shall we eat? or What shall we drink? or What shall we wear?",
+      "tags": [
+        "worry",
+        "food",
+        "clothing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore take no thought, saying, What shall we eat? or, What shall we drink? or, Wherewithal shall we be clothed?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "For the nations seek after all these things, and your heavenly Father knows that you need them all.",
+      "tags": [
+        "nations",
+        "need",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(For after all these things do the Gentiles seek:) for your heavenly Father knoweth that ye have need of all these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "But seek first the reign and righteousness/justice of the Divine, and all these things will be added to you.",
+      "tags": [
+        "kingdom",
+        "justice",
+        "seeking",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But seek ye first the kingdom of God, and his righteousness; and all these things shall be added unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Therefore do not be worried for tomorrow, for tomorrow will worry about itself. Sufficient for the day is its own trouble.",
+      "tags": [
+        "worry",
+        "tomorrow",
+        "day"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take therefore no thought for the morrow: for the morrow shall take thought for the things of itself. Sufficient unto the day is the evil thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-34",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

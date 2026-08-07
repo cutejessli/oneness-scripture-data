@@ -1,79 +1,1233 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":22,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Passion plot, supper, covenant cup, dispute over greatness, Peter warning, Mount of Olives prayer, arrest, Peter denial, mocking, council."},
-  "verses":[
-    {"verse":1,"restored":"The feast of Unleavened Bread, called Passover, was drawing near.","tags":["passover","unleavened"]},
-    {"verse":2,"restored":"The chief priests and scribes were seeking how they might remove him, for they feared the people.","tags":["plot","fear"]},
-    {"verse":3,"restored":"The Adversary entered into Judas called Iscariot, who was of the number of the twelve.","tags":["judas","adversary"]},
-    {"verse":4,"restored":"He went away and conferred with the chief priests and officers how he might hand him over to them.","tags":["betrayal","handed-over"]},
-    {"verse":5,"restored":"They rejoiced and agreed to give him silver.","tags":["silver","betrayal"]},
-    {"verse":6,"restored":"He consented and sought a good opportunity to hand him over apart from a crowd.","tags":["opportunity","crowd"]},
-    {"verse":7,"restored":"The day of Unleavened Bread came, on which the Passover had to be sacrificed.","tags":["passover"]},
-    {"verse":8,"restored":"He sent Peter and John, saying, Go and prepare the Passover for us, so that we may eat.","tags":["peter","john","preparation"]},
-    {"verse":9,"restored":"They said to him, Where do you want us to prepare?","tags":["question"]},
-    {"verse":10,"restored":"He said to them, Look, when you enter the city, a person carrying a jar of water will meet you; follow him into the house he enters.","tags":["water-jar","house"]},
-    {"verse":11,"restored":"Say to the house-master, The Teacher says to you, Where is the guest room where I may eat the Passover with my disciples?","tags":["guest-room","teacher"]},
-    {"verse":12,"restored":"He will show you a large furnished upper room; prepare there.","tags":["upper-room"]},
-    {"verse":13,"restored":"They went and found just as he had said to them, and they prepared the Passover.","tags":["preparation"]},
-    {"verse":14,"restored":"When the hour came, he reclined, and the apostles with him.","tags":["hour","apostles"]},
-    {"verse":15,"restored":"He said to them, With desire I desired to eat this Passover with you before I suffer.","tags":["desire","suffering"]},
-    {"verse":16,"restored":"For I say to you, I will certainly not eat it until it is fulfilled in the reign of the Divine.","tags":["kingdom","fulfillment"]},
-    {"verse":17,"restored":"Taking a cup, giving thanks, he said, Take this and divide it among yourselves.","tags":["cup","thanks"]},
-    {"verse":18,"restored":"For I say to you, from now on I will certainly not drink from the fruit of the vine until the reign of the Divine comes.","tags":["vine","kingdom"]},
-    {"verse":19,"restored":"Taking bread, giving thanks, he broke it and gave it to them, saying, This is my body, given for you; do this in remembrance of me.","tags":["bread","body","remembrance"]},
-    {"verse":20,"restored":"Likewise also the cup after supper, saying, This cup is the new covenant in my blood, poured out for you.","tags":["cup","covenant","blood"]},
-    {"verse":21,"restored":"But look, the hand of the one handing me over is with me on the table.","tags":["betrayal","table"]},
-    {"verse":22,"restored":"For the Son of Humanity goes according to what has been determined; nevertheless woe to that person through whom he is handed over.","tags":["son-of-humanity","woe"]},
-    {"verse":23,"restored":"They began to discuss among themselves who of them might be about to do this.","tags":["disciples","betrayal"]},
-    {"verse":24,"restored":"A dispute also arose among them about which of them seemed to be greatest.","tags":["greatness","dispute"]},
-    {"verse":25,"restored":"He said to them, The kings of the nations lord it over them, and those exercising authority over them are called benefactors.","tags":["nations","power"]},
-    {"verse":26,"restored":"But not so with you; rather the greater among you must become like the younger, and the leader like the one serving.","tags":["service","reversal"]},
-    {"verse":27,"restored":"For who is greater, the one reclining or the one serving? Is it not the one reclining? But I am among you as the one serving.","tags":["service","table"]},
-    {"verse":28,"restored":"You are the ones who have remained with me in my tests.","tags":["tests","companionship"]},
-    {"verse":29,"restored":"I appoint to you, just as my Father appointed to me, a reign,","tags":["kingdom","father"]},
-    {"verse":30,"restored":"so that you may eat and drink at my table in my reign, and sit on thrones judging the twelve tribes of Israel.","tags":["table","israel","twelve"]},
-    {"verse":31,"restored":"Simon, Simon, look, the Adversary demanded to sift you all like wheat.","tags":["peter","adversary","sifting"]},
-    {"verse":32,"restored":"But I prayed concerning you, that your trust may not fail; and you, when you have turned back, strengthen your siblings.","tags":["prayer","trust","strengthen"]},
-    {"verse":33,"restored":"He said to him, Lord, with you I am ready to go both to prison and to death.","tags":["peter","prison","death"]},
-    {"verse":34,"restored":"He said, I tell you, Peter, a rooster will not sound today until three times you deny knowing me.","tags":["peter","denial","rooster"]},
-    {"verse":35,"restored":"He said to them, When I sent you without purse, bag, and sandals, did you lack anything? They said, Nothing.","tags":["mission","lack"]},
-    {"verse":36,"restored":"He said to them, But now, the one having a purse, take it, likewise a bag; and the one not having, sell one's cloak and buy a sword.","tags":["purse","sword"]},
-    {"verse":37,"restored":"For I say to you that this written thing must be completed in me: And he was counted with lawless ones. For indeed what concerns me has its completion.","tags":["scripture","completion"]},
-    {"verse":38,"restored":"They said, Lord, look, here are two swords. He said to them, It is enough.","tags":["swords"]},
-    {"verse":39,"restored":"Going out, he went according to custom to the Mount of Olives, and the disciples followed him.","tags":["olives","disciples"]},
-    {"verse":40,"restored":"Arriving at the place, he said to them, Pray not to enter testing.","tags":["prayer","testing"]},
-    {"verse":41,"restored":"He withdrew from them about a stone's throw, knelt down, and prayed,","tags":["prayer","kneeling"]},
-    {"verse":42,"restored":"Father, if you are willing, take this cup away from me; yet not my will, but yours happen.","tags":["father","cup","will"]},
-    {"verse":43,"restored":"[A messenger from heaven appeared to him, strengthening him.]","tags":["textual-variant","messenger"]},
-    {"verse":44,"restored":"[Being in agony, he prayed more earnestly, and his sweat became like drops of blood falling to the ground.]","tags":["textual-variant","agony"]},
-    {"verse":45,"restored":"Rising from prayer, coming to the disciples, he found them sleeping from grief.","tags":["sleep","grief"]},
-    {"verse":46,"restored":"He said to them, Why are you sleeping? Rise and pray, so that you may not enter testing.","tags":["prayer","testing"]},
-    {"verse":47,"restored":"While he was still speaking, look, a crowd, and the one called Judas, one of the twelve, was going before them. He drew near to Jesus to kiss him.","tags":["judas","kiss"]},
-    {"verse":48,"restored":"Jesus said to him, Judas, do you hand over the Son of Humanity with a kiss?","tags":["betrayal","son-of-humanity"]},
-    {"verse":49,"restored":"Those around him, seeing what would be, said, Lord, shall we strike with a sword?","tags":["sword"]},
-    {"verse":50,"restored":"A certain one of them struck the servant of the high priest and cut off his right ear.","tags":["servant","ear"]},
-    {"verse":51,"restored":"Jesus answered, Permit even this. Touching the ear, he healed him.","tags":["healing","enemy-love"]},
-    {"verse":52,"restored":"Jesus said to the chief priests, officers of the temple, and elders who had come against him, Have you come out as against a robber, with swords and clubs?","tags":["arrest","temple"]},
-    {"verse":53,"restored":"Day by day, while I was with you in the temple, you did not stretch out hands against me; but this is your hour and the authority of darkness.","tags":["hour","darkness"]},
-    {"verse":54,"restored":"Seizing him, they led him away and brought him into the high priest's house. Peter was following from far away.","tags":["arrest","peter"]},
-    {"verse":55,"restored":"They kindled a fire in the middle of the courtyard and sat together; Peter sat among them.","tags":["fire","courtyard"]},
-    {"verse":56,"restored":"A certain servant girl, seeing him sitting by the light and looking closely at him, said, This one also was with him.","tags":["servant-girl","peter"]},
-    {"verse":57,"restored":"But he denied it, saying, Woman, I do not know him.","tags":["denial"]},
-    {"verse":58,"restored":"After a little while, another seeing him said, You also are one of them. But Peter said, Human one, I am not.","tags":["denial"]},
-    {"verse":59,"restored":"After about one hour had passed, another insisted, saying, In truth this one also was with him, for he is a Galilean.","tags":["galilean","denial"]},
-    {"verse":60,"restored":"Peter said, Human one, I do not know what you say. Immediately, while he was still speaking, a rooster sounded.","tags":["rooster","denial"]},
-    {"verse":61,"restored":"The Lord turned and looked at Peter. Peter remembered the word of the Lord, how he had said to him, Before a rooster sounds today, you will deny me three times.","tags":["look","memory"]},
-    {"verse":62,"restored":"Going out, he wept bitterly.","tags":["weeping"]},
-    {"verse":63,"restored":"The men holding him were mocking and beating him.","tags":["mockery"]},
-    {"verse":64,"restored":"Covering him, they were questioning him, saying, Prophesy: who is the one who struck you?","tags":["mockery","prophecy"]},
-    {"verse":65,"restored":"They spoke many other blasphemous things against him.","tags":["blasphemy"]},
-    {"verse":66,"restored":"When day came, the council of elders of the people gathered, both chief priests and scribes, and they led him into their council.","tags":["council","chief-priests"]},
-    {"verse":67,"restored":"They said, If you are the Messiah, tell us. He said to them, If I tell you, you will certainly not trust.","tags":["messiah","trust"]},
-    {"verse":68,"restored":"And if I question, you will certainly not answer.","tags":["question"]},
-    {"verse":69,"restored":"But from now on the Son of Humanity will be seated at the right hand of the power of the Divine.","tags":["son-of-humanity","right-hand"]},
-    {"verse":70,"restored":"They all said, Are you then the Son of the Divine? He said to them, You say that I am.","tags":["son-divine","i-am"]},
-    {"verse":71,"restored":"They said, What further need do we have of testimony? For we ourselves heard from his mouth.","tags":["testimony","mouth"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Passion plot, supper, covenant cup, dispute over greatness, Peter warning, Mount of Olives prayer, arrest, Peter denial, mocking, council."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The feast of Unleavened Bread, called Passover, was drawing near.",
+      "tags": [
+        "passover",
+        "unleavened"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the feast of unleavened bread drew nigh, which is called the Passover."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "The chief priests and scribes were seeking how they might remove him, for they feared the people.",
+      "tags": [
+        "plot",
+        "fear",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief priests and scribes sought how they might kill him; for they feared the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "The Adversary entered into Judas called Iscariot, who was of the number of the twelve.",
+      "tags": [
+        "judas",
+        "adversary"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then entered Satan into Judas surnamed Iscariot, being of the number of the twelve."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He went away and conferred with the chief priests and officers how he might hand him over to them.",
+      "tags": [
+        "betrayal",
+        "handed-over",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went his way, and communed with the chief priests and captains, how he might betray him unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They rejoiced and agreed to give him silver.",
+      "tags": [
+        "silver",
+        "betrayal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they were glad, and covenanted to give him money."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He consented and sought a good opportunity to hand him over apart from a crowd.",
+      "tags": [
+        "opportunity",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he promised, and sought opportunity to betray him unto them in the absence of the multitude."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "The day of Unleavened Bread came, on which the Passover had to be sacrificed.",
+      "tags": [
+        "passover",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came the day of unleavened bread, when the passover must be killed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He sent Peter and John, saying, Go and prepare the Passover for us, so that we may eat.",
+      "tags": [
+        "peter",
+        "john",
+        "preparation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sent Peter and John, saying, Go and prepare us the passover, that we may eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "They said to him, Where do you want us to prepare?",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto him, Where wilt thou that we prepare?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He said to them, Look, when you enter the city, a person carrying a jar of water will meet you; follow him into the house he enters.",
+      "tags": [
+        "water-jar",
+        "house",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Behold, when ye are entered into the city, there shall a man meet you, bearing a pitcher of water; follow him into the house where he entereth in."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Say to the house-master, The Teacher says to you, Where is the guest room where I may eat the Passover with my disciples?",
+      "tags": [
+        "guest-room",
+        "teacher",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall say unto the goodman of the house, The Master saith unto thee, Where is the guestchamber, where I shall eat the passover with my disciples?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "He will show you a large furnished upper room; prepare there.",
+      "tags": [
+        "upper-room"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall shew you a large upper room furnished: there make ready."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They went and found just as he had said to them, and they prepared the Passover.",
+      "tags": [
+        "preparation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they went, and found as he had said unto them: and they made ready the passover."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When the hour came, he reclined, and the apostles with him.",
+      "tags": [
+        "hour",
+        "apostles",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the hour was come, he sat down, and the twelve apostles with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He said to them, With desire I desired to eat this Passover with you before I suffer.",
+      "tags": [
+        "desire",
+        "suffering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, With desire I have desired to eat this passover with you before I suffer:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For I say to you, I will certainly not eat it until it is fulfilled in the reign of the Divine.",
+      "tags": [
+        "kingdom",
+        "fulfillment",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I say unto you, I will not any more eat thereof, until it be fulfilled in the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Taking a cup, giving thanks, he said, Take this and divide it among yourselves.",
+      "tags": [
+        "cup",
+        "thanks"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took the cup, and gave thanks, and said, Take this, and divide it among yourselves:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For I say to you, from now on I will certainly not drink from the fruit of the vine until the reign of the Divine comes.",
+      "tags": [
+        "vine",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I say unto you, I will not drink of the fruit of the vine, until the kingdom of God shall come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Taking bread, giving thanks, he broke it and gave it to them, saying, This is my body, given for you; do this in remembrance of me.",
+      "tags": [
+        "bread",
+        "body",
+        "remembrance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took bread, and gave thanks, and brake it, and gave unto them, saying, This is my body which is given for you: this do in remembrance of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Likewise also the cup after supper, saying, This cup is the new covenant in my blood, poured out for you.",
+      "tags": [
+        "cup",
+        "covenant",
+        "blood"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise also the cup after supper, saying, This cup is the new testament in my blood, which is shed for you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "But look, the hand of the one handing me over is with me on the table.",
+      "tags": [
+        "betrayal",
+        "table"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But, behold, the hand of him that betrayeth me is with me on the table."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For the Son of Humanity goes according to what has been determined; nevertheless woe to that person through whom he is handed over.",
+      "tags": [
+        "son-of-humanity",
+        "woe",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And truly the Son of man goeth, as it was determined: but woe unto that man by whom he is betrayed!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They began to discuss among themselves who of them might be about to do this.",
+      "tags": [
+        "disciples",
+        "betrayal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they began to enquire among themselves, which of them it was that should do this thing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "A dispute also arose among them about which of them seemed to be greatest.",
+      "tags": [
+        "greatness",
+        "dispute"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was also a strife among them, which of them should be accounted the greatest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He said to them, The kings of the nations lord it over them, and those exercising authority over them are called benefactors.",
+      "tags": [
+        "nations",
+        "power",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, The kings of the Gentiles exercise lordship over them; and they that exercise authority upon them are called benefactors."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "But not so with you; rather the greater among you must become like the younger, and the leader like the one serving.",
+      "tags": [
+        "service",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye shall not be so: but he that is greatest among you, let him be as the younger; and he that is chief, as he that doth serve."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "For who is greater, the one reclining or the one serving? Is it not the one reclining? But I am among you as the one serving.",
+      "tags": [
+        "service",
+        "table"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whether is greater, he that sitteth at meat, or he that serveth? is not he that sitteth at meat? but I am among you as he that serveth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "You are the ones who have remained with me in my tests.",
+      "tags": [
+        "tests",
+        "companionship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are they which have continued with me in my temptations."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "I appoint to you, just as my Father appointed to me, a reign,",
+      "tags": [
+        "kingdom",
+        "father",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I appoint unto you a kingdom, as my Father hath appointed unto me;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "so that you may eat and drink at my table in my reign, and sit on thrones judging the twelve tribes of Israel.",
+      "tags": [
+        "table",
+        "israel",
+        "twelve",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye may eat and drink at my table in my kingdom, and sit on thrones judging the twelve tribes of Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "Simon, Simon, look, the Adversary demanded to sift you all like wheat.",
+      "tags": [
+        "peter",
+        "adversary",
+        "sifting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord said, Simon, Simon, behold, Satan hath desired to have you, that he may sift you as wheat:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "But I prayed concerning you, that your trust may not fail; and you, when you have turned back, strengthen your siblings.",
+      "tags": [
+        "prayer",
+        "trust",
+        "strengthen"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have prayed for thee, that thy faith fail not: and when thou art converted, strengthen thy brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "He said to him, Lord, with you I am ready to go both to prison and to death.",
+      "tags": [
+        "peter",
+        "prison",
+        "death",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Lord, I am ready to go with thee, both into prison, and to death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "He said, I tell you, Peter, a rooster will not sound today until three times you deny knowing me.",
+      "tags": [
+        "peter",
+        "denial",
+        "rooster"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, I tell thee, Peter, the cock shall not crow this day, before that thou shalt thrice deny that thou knowest me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "He said to them, When I sent you without purse, bag, and sandals, did you lack anything? They said, Nothing.",
+      "tags": [
+        "mission",
+        "lack"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, When I sent you without purse, and scrip, and shoes, lacked ye any thing? And they said, Nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "He said to them, But now, the one having a purse, take it, likewise a bag; and the one not having, sell one's cloak and buy a sword.",
+      "tags": [
+        "purse",
+        "sword",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said he unto them, But now, he that hath a purse, let him take it, and likewise his scrip: and he that hath no sword, let him sell his garment, and buy one."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "For I say to you that this written thing must be completed in me: And he was counted with lawless ones. For indeed what concerns me has its completion.",
+      "tags": [
+        "scripture",
+        "completion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I say unto you, that this that is written must yet be accomplished in me, And he was reckoned among the transgressors: for the things concerning me have an end."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "They said, Lord, look, here are two swords. He said to them, It is enough.",
+      "tags": [
+        "swords",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, Lord, behold, here are two swords. And he said unto them, It is enough."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "Going out, he went according to custom to the Mount of Olives, and the disciples followed him.",
+      "tags": [
+        "olives",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came out, and went, as he was wont, to the mount of Olives; and his disciples also followed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Arriving at the place, he said to them, Pray not to enter testing.",
+      "tags": [
+        "prayer",
+        "testing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was at the place, he said unto them, Pray that ye enter not into temptation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "He withdrew from them about a stone's throw, knelt down, and prayed,",
+      "tags": [
+        "prayer",
+        "kneeling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he was withdrawn from them about a stone’s cast, and kneeled down, and prayed,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "Father, if you are willing, take this cup away from me; yet not my will, but yours happen.",
+      "tags": [
+        "father",
+        "cup",
+        "will"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Father, if thou be willing, remove this cup from me: nevertheless not my will, but thine, be done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "[A messenger from heaven appeared to him, strengthening him.]",
+      "tags": [
+        "textual-variant",
+        "messenger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there appeared an angel unto him from heaven, strengthening him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "[Being in agony, he prayed more earnestly, and his sweat became like drops of blood falling to the ground.]",
+      "tags": [
+        "textual-variant",
+        "agony"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And being in an agony he prayed more earnestly: and his sweat was as it were great drops of blood falling down to the ground."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Rising from prayer, coming to the disciples, he found them sleeping from grief.",
+      "tags": [
+        "sleep",
+        "grief",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he rose up from prayer, and was come to his disciples, he found them sleeping for sorrow,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "He said to them, Why are you sleeping? Rise and pray, so that you may not enter testing.",
+      "tags": [
+        "prayer",
+        "testing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto them, Why sleep ye? rise and pray, lest ye enter into temptation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "While he was still speaking, look, a crowd, and the one called Judas, one of the twelve, was going before them. He drew near to Jesus to kiss him.",
+      "tags": [
+        "judas",
+        "kiss"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "Jesus said to him, Judas, do you hand over the Son of Humanity with a kiss?",
+      "tags": [
+        "betrayal",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "Those around him, seeing what would be, said, Lord, shall we strike with a sword?",
+      "tags": [
+        "sword",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 50,
+      "restored": "A certain one of them struck the servant of the high priest and cut off his right ear.",
+      "tags": [
+        "servant",
+        "ear",
+        "war-violence",
+        "religious-authority",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of them smote the servant of the high priest, and cut off his right ear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 51,
+      "restored": "Jesus answered, Permit even this. Touching the ear, he healed him.",
+      "tags": [
+        "healing",
+        "enemy-love",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "Jesus said to the chief priests, officers of the temple, and elders who had come against him, Have you come out as against a robber, with swords and clubs?",
+      "tags": [
+        "arrest",
+        "temple",
+        "war-violence",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus said unto the chief priests, and captains of the temple, and the elders, which were come to him, Be ye come out, as against a thief, with swords and staves?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 53,
+      "restored": "Day by day, while I was with you in the temple, you did not stretch out hands against me; but this is your hour and the authority of darkness.",
+      "tags": [
+        "hour",
+        "darkness",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When I was daily with you in the temple, ye stretched forth no hands against me: but this is your hour, and the power of darkness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "Seizing him, they led him away and brought him into the high priest's house. Peter was following from far away.",
+      "tags": [
+        "arrest",
+        "peter",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then took they him, and led him, and brought him into the high priest’s house. And Peter followed afar off."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 55,
+      "restored": "They kindled a fire in the middle of the courtyard and sat together; Peter sat among them.",
+      "tags": [
+        "fire",
+        "courtyard"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had kindled a fire in the midst of the hall, and were set down together, Peter sat down among them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 56,
+      "restored": "A certain servant girl, seeing him sitting by the light and looking closely at him, said, This one also was with him.",
+      "tags": [
+        "servant-girl",
+        "peter",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But a certain maid beheld him as he sat by the fire, and earnestly looked upon him, and said, This man was also with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 57,
+      "restored": "But he denied it, saying, Woman, I do not know him.",
+      "tags": [
+        "denial",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he denied him, saying, Woman, I know him not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 58,
+      "restored": "After a little while, another seeing him said, You also are one of them. But Peter said, Human one, I am not.",
+      "tags": [
+        "denial"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after a little while another saw him, and said, Thou art also of them. And Peter said, Man, I am not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 59,
+      "restored": "After about one hour had passed, another insisted, saying, In truth this one also was with him, for he is a Galilean.",
+      "tags": [
+        "galilean",
+        "denial"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And about the space of one hour after another confidently affirmed, saying, Of a truth this fellow also was with him: for he is a Galilaean."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 60,
+      "restored": "Peter said, Human one, I do not know what you say. Immediately, while he was still speaking, a rooster sounded.",
+      "tags": [
+        "rooster",
+        "denial"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Peter said, Man, I know not what thou sayest. And immediately, while he yet spake, the cock crew."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 61,
+      "restored": "The Lord turned and looked at Peter. Peter remembered the word of the Lord, how he had said to him, Before a rooster sounds today, you will deny me three times.",
+      "tags": [
+        "look",
+        "memory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord turned, and looked upon Peter. And Peter remembered the word of the Lord, how he had said unto him, Before the cock crow, thou shalt deny me thrice."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 62,
+      "restored": "Going out, he wept bitterly.",
+      "tags": [
+        "weeping"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Peter went out, and wept bitterly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 63,
+      "restored": "The men holding him were mocking and beating him.",
+      "tags": [
+        "mockery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men that held Jesus mocked him, and smote him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 64,
+      "restored": "Covering him, they were questioning him, saying, Prophesy: who is the one who struck you?",
+      "tags": [
+        "mockery",
+        "prophecy",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had blindfolded him, they struck him on the face, and asked him, saying, Prophesy, who is it that smote thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 65,
+      "restored": "They spoke many other blasphemous things against him.",
+      "tags": [
+        "blasphemy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And many other things blasphemously spake they against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 66,
+      "restored": "When day came, the council of elders of the people gathered, both chief priests and scribes, and they led him into their council.",
+      "tags": [
+        "council",
+        "chief-priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as soon as it was day, the elders of the people and the chief priests and the scribes came together, and led him into their council, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 67,
+      "restored": "They said, If you are the Messiah, tell us. He said to them, If I tell you, you will certainly not trust.",
+      "tags": [
+        "messiah",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Art thou the Christ? tell us. And he said unto them, If I tell you, ye will not believe:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 68,
+      "restored": "And if I question, you will certainly not answer.",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if I also ask you, ye will not answer me, nor let me go."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 69,
+      "restored": "But from now on the Son of Humanity will be seated at the right hand of the power of the Divine.",
+      "tags": [
+        "son-of-humanity",
+        "right-hand",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hereafter shall the Son of man sit on the right hand of the power of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 70,
+      "restored": "They all said, Are you then the Son of the Divine? He said to them, You say that I am.",
+      "tags": [
+        "son-divine",
+        "i-am",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they all, Art thou then the Son of God? And he said unto them, Ye say that I am."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 71,
+      "restored": "They said, What further need do we have of testimony? For we ourselves heard from his mouth.",
+      "tags": [
+        "testimony",
+        "mouth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, What need we any further witness? for we ourselves have heard of his own mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-71",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-71",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

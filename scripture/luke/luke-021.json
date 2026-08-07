@@ -1,46 +1,672 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":21,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for widow offering, temple prediction, apocalyptic warnings, Jerusalem surrounded, Son of Humanity, fig tree, watchfulness."},
-  "verses":[
-    {"verse":1,"restored":"Looking up, he saw rich people casting their gifts into the treasury.","tags":["treasury","rich"]},
-    {"verse":2,"restored":"He saw a certain poor widow casting there two small coins.","tags":["widow","poverty"]},
-    {"verse":3,"restored":"He said, Truly I say to you, this poor widow cast in more than all.","tags":["widow","reversal"]},
-    {"verse":4,"restored":"For all these cast in gifts from their abundance, but she from her lack cast in all the living she had.","tags":["living","giving"]},
-    {"verse":5,"restored":"As some were speaking about the temple, that it had been adorned with beautiful stones and offerings, he said,","tags":["temple","stones"]},
-    {"verse":6,"restored":"These things that you behold, days will come in which not one stone will be left upon another that will not be thrown down.","tags":["temple","destruction"]},
-    {"verse":7,"restored":"They questioned him, saying, Teacher, when then will these things be, and what will be the sign when these things are about to happen?","tags":["question","sign"]},
-    {"verse":8,"restored":"He said, Watch that you are not led astray; for many will come in my name, saying, I am, and, The time has drawn near. Do not go after them.","tags":["warning","false-claims"]},
-    {"verse":9,"restored":"When you hear of wars and disturbances, do not be terrified; for these things must happen first, but the end is not immediately.","tags":["wars","end"]},
-    {"verse":10,"restored":"Then he said to them, Nation will rise against nation, and reign against reign.","tags":["nations","kingdoms"]},
-    {"verse":11,"restored":"There will be great earthquakes, and in various places famines and plagues; there will be fearful sights and great signs from heaven.","tags":["earthquakes","signs"]},
-    {"verse":12,"restored":"But before all these things, they will lay hands on you and persecute you, handing you over to synagogues and prisons, bringing you before kings and governors because of my name.","tags":["persecution","name"]},
-    {"verse":13,"restored":"It will turn out for you as testimony.","tags":["testimony"]},
-    {"verse":14,"restored":"Settle therefore in your hearts not to prepare beforehand to defend yourselves.","tags":["heart","defense"]},
-    {"verse":15,"restored":"For I will give you a mouth and wisdom that all those opposing you will not be able to withstand or contradict.","tags":["mouth","wisdom"]},
-    {"verse":16,"restored":"You will be handed over even by parents, brothers, relatives, and friends, and some of you they will put to death.","tags":["family","handed-over"]},
-    {"verse":17,"restored":"You will be hated by all because of my name.","tags":["name","hatred"]},
-    {"verse":18,"restored":"Yet not a hair from your head will perish.","tags":["protection","hair"]},
-    {"verse":19,"restored":"In your endurance you will gain your lives/souls.","tags":["endurance","psyche"]},
-    {"verse":20,"restored":"When you see Jerusalem surrounded by armies, then know that her desolation has drawn near.","tags":["jerusalem","desolation"]},
-    {"verse":21,"restored":"Then those in Judea must flee to the mountains, those in the city must depart, and those in the countryside must not enter her.","tags":["judea","flight"]},
-    {"verse":22,"restored":"For these are days of justice/reckoning, to fulfill all that has been written.","tags":["fulfillment","reckoning"]},
-    {"verse":23,"restored":"Woe to those carrying in the womb and nursing infants in those days; for there will be great pressure on the land and wrath for this people.","tags":["woe","vulnerable"]},
-    {"verse":24,"restored":"They will fall by edge of sword and be led captive into all the nations, and Jerusalem will be trampled by nations until the times of nations are fulfilled.","tags":["jerusalem","nations"]},
-    {"verse":25,"restored":"There will be signs in sun, moon, and stars, and on earth distress of nations in perplexity at the roar of sea and waves.","tags":["cosmic-signs","sea"]},
-    {"verse":26,"restored":"People fainting from fear and expectation of the things coming upon the inhabited world, for the powers of the heavens will be shaken.","tags":["fear","heavens"]},
-    {"verse":27,"restored":"Then they will see the Son of Humanity coming in a cloud with power and great glory.","tags":["son-of-humanity","cloud","glory"]},
-    {"verse":28,"restored":"When these things begin to happen, straighten up and lift your heads, because your redemption draws near.","tags":["redemption","hope"]},
-    {"verse":29,"restored":"He spoke a parable to them: Look at the fig tree and all the trees.","tags":["fig-tree","parable"]},
-    {"verse":30,"restored":"When they put out leaves, seeing it, you know for yourselves that summer is already near.","tags":["discernment","summer"]},
-    {"verse":31,"restored":"So also, when you see these things happening, know that the reign of the Divine is near.","tags":["kingdom","near"]},
-    {"verse":32,"restored":"Amen, I say to you: this generation will certainly not pass away until all things happen.","tags":["generation"]},
-    {"verse":33,"restored":"Heaven and earth will pass away, but my words will certainly not pass away.","tags":["words","heaven-earth"]},
-    {"verse":34,"restored":"Watch yourselves, lest your hearts be weighed down with dissipation, drunkenness, and anxieties of life, and that day come upon you suddenly like a trap.","tags":["watch","heart","anxiety"]},
-    {"verse":35,"restored":"For it will come upon all those sitting on the face of all the earth.","tags":["earth","day"]},
-    {"verse":36,"restored":"Stay awake at every time, praying that you may have strength to escape all these things about to happen and to stand before the Son of Humanity.","tags":["awake","prayer","son-of-humanity"]},
-    {"verse":37,"restored":"During the days he was teaching in the temple, and at night he went out and lodged on the mountain called Olivet.","tags":["temple","olivet"]},
-    {"verse":38,"restored":"All the people came early in the morning to him in the temple to hear him.","tags":["people","hearing","temple"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 21,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for widow offering, temple prediction, apocalyptic warnings, Jerusalem surrounded, Son of Humanity, fig tree, watchfulness."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Looking up, he saw rich people casting their gifts into the treasury.",
+      "tags": [
+        "treasury",
+        "rich"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he looked up, and saw the rich men casting their gifts into the treasury."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He saw a certain poor widow casting there two small coins.",
+      "tags": [
+        "widow",
+        "poverty",
+        "women-gender",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he saw also a certain poor widow casting in thither two mites."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He said, Truly I say to you, this poor widow cast in more than all.",
+      "tags": [
+        "widow",
+        "reversal",
+        "women-gender",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Of a truth I say unto you, that this poor widow hath cast in more than they all:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For all these cast in gifts from their abundance, but she from her lack cast in all the living she had.",
+      "tags": [
+        "living",
+        "giving"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For all these have of their abundance cast in unto the offerings of God: but she of her penury hath cast in all the living that she had."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "As some were speaking about the temple, that it had been adorned with beautiful stones and offerings, he said,",
+      "tags": [
+        "temple",
+        "stones",
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "These things that you behold, days will come in which not one stone will be left upon another that will not be thrown down.",
+      "tags": [
+        "temple",
+        "destruction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As for these things which ye behold, the days will come, in the which there shall not be left one stone upon another, that shall not be thrown down."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They questioned him, saying, Teacher, when then will these things be, and what will be the sign when these things are about to happen?",
+      "tags": [
+        "question",
+        "sign",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "He said, Watch that you are not led astray; for many will come in my name, saying, I am, and, The time has drawn near. Do not go after them.",
+      "tags": [
+        "warning",
+        "false-claims"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Take heed that ye be not deceived: for many shall come in my name, saying, I am Christ; and the time draweth near: go ye not therefore after them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "When you hear of wars and disturbances, do not be terrified; for these things must happen first, but the end is not immediately.",
+      "tags": [
+        "wars",
+        "end",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when ye shall hear of wars and commotions, be not terrified: for these things must first come to pass; but the end is not by and by."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Then he said to them, Nation will rise against nation, and reign against reign.",
+      "tags": [
+        "nations",
+        "kingdoms",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said he unto them, Nation shall rise against nation, and kingdom against kingdom:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "There will be great earthquakes, and in various places famines and plagues; there will be fearful sights and great signs from heaven.",
+      "tags": [
+        "earthquakes",
+        "signs"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And great earthquakes shall be in divers places, and famines, and pestilences; and fearful sights and great signs shall there be from heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But before all these things, they will lay hands on you and persecute you, handing you over to synagogues and prisons, bringing you before kings and governors because of my name.",
+      "tags": [
+        "persecution",
+        "name",
+        "kingship-power",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But before all these, they shall lay their hands on you, and persecute you, delivering you up to the synagogues, and into prisons, being brought before kings and rulers for my name’s sake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "It will turn out for you as testimony.",
+      "tags": [
+        "testimony"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall turn to you for a testimony."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Settle therefore in your hearts not to prepare beforehand to defend yourselves.",
+      "tags": [
+        "heart",
+        "defense"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Settle it therefore in your hearts, not to meditate before what ye shall answer:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "For I will give you a mouth and wisdom that all those opposing you will not be able to withstand or contradict.",
+      "tags": [
+        "mouth",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I will give you a mouth and wisdom, which all your adversaries shall not be able to gainsay nor resist."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "You will be handed over even by parents, brothers, relatives, and friends, and some of you they will put to death.",
+      "tags": [
+        "family",
+        "handed-over"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall be betrayed both by parents, and brethren, and kinsfolks, and friends; and some of you shall they cause to be put to death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You will be hated by all because of my name.",
+      "tags": [
+        "name",
+        "hatred"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall be hated of all men for my name’s sake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Yet not a hair from your head will perish.",
+      "tags": [
+        "protection",
+        "hair"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But there shall not an hair of your head perish."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "In your endurance you will gain your lives/souls.",
+      "tags": [
+        "endurance",
+        "psyche"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In your patience possess ye your souls."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "When you see Jerusalem surrounded by armies, then know that her desolation has drawn near.",
+      "tags": [
+        "jerusalem",
+        "desolation",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when ye shall see Jerusalem compassed with armies, then know that the desolation thereof is nigh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Then those in Judea must flee to the mountains, those in the city must depart, and those in the countryside must not enter her.",
+      "tags": [
+        "judea",
+        "flight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then let them which are in Judaea flee to the mountains; and let them which are in the midst of it depart out; and let not them that are in the countries enter thereinto."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For these are days of justice/reckoning, to fulfill all that has been written.",
+      "tags": [
+        "fulfillment",
+        "reckoning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For these be the days of vengeance, that all things which are written may be fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Woe to those carrying in the womb and nursing infants in those days; for there will be great pressure on the land and wrath for this people.",
+      "tags": [
+        "woe",
+        "vulnerable"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But woe unto them that are with child, and to them that give suck, in those days! for there shall be great distress in the land, and wrath upon this people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "They will fall by edge of sword and be led captive into all the nations, and Jerusalem will be trampled by nations until the times of nations are fulfilled.",
+      "tags": [
+        "jerusalem",
+        "nations",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall fall by the edge of the sword, and shall be led away captive into all nations: and Jerusalem shall be trodden down of the Gentiles, until the times of the Gentiles be fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "There will be signs in sun, moon, and stars, and on earth distress of nations in perplexity at the roar of sea and waves.",
+      "tags": [
+        "cosmic-signs",
+        "sea"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there shall be signs in the sun, and in the moon, and in the stars; and upon the earth distress of nations, with perplexity; the sea and the waves roaring;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "People fainting from fear and expectation of the things coming upon the inhabited world, for the powers of the heavens will be shaken.",
+      "tags": [
+        "fear",
+        "heavens"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Men’s hearts failing them for fear, and for looking after those things which are coming on the earth: for the powers of heaven shall be shaken."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Then they will see the Son of Humanity coming in a cloud with power and great glory.",
+      "tags": [
+        "son-of-humanity",
+        "cloud",
+        "glory",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And then shall they see the Son of man coming in a cloud with power and great glory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "When these things begin to happen, straighten up and lift your heads, because your redemption draws near.",
+      "tags": [
+        "redemption",
+        "hope"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when these things begin to come to pass, then look up, and lift up your heads; for your redemption draweth nigh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "He spoke a parable to them: Look at the fig tree and all the trees.",
+      "tags": [
+        "fig-tree",
+        "parable"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake to them a parable; Behold the fig tree, and all the trees;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "When they put out leaves, seeing it, you know for yourselves that summer is already near.",
+      "tags": [
+        "discernment",
+        "summer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When they now shoot forth, ye see and know of your own selves that summer is now nigh at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "So also, when you see these things happening, know that the reign of the Divine is near.",
+      "tags": [
+        "kingdom",
+        "near",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So likewise ye, when ye see these things come to pass, know ye that the kingdom of God is nigh at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Amen, I say to you: this generation will certainly not pass away until all things happen.",
+      "tags": [
+        "generation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, This generation shall not pass away, till all be fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Heaven and earth will pass away, but my words will certainly not pass away.",
+      "tags": [
+        "words",
+        "heaven-earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Heaven and earth shall pass away: but my words shall not pass away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Watch yourselves, lest your hearts be weighed down with dissipation, drunkenness, and anxieties of life, and that day come upon you suddenly like a trap.",
+      "tags": [
+        "watch",
+        "heart",
+        "anxiety"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And take heed to yourselves, lest at any time your hearts be overcharged with surfeiting, and drunkenness, and cares of this life, and so that day come upon you unawares."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "For it will come upon all those sitting on the face of all the earth.",
+      "tags": [
+        "earth",
+        "day"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as a snare shall it come on all them that dwell on the face of the whole earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Stay awake at every time, praying that you may have strength to escape all these things about to happen and to stand before the Son of Humanity.",
+      "tags": [
+        "awake",
+        "prayer",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Watch ye therefore, and pray always, that ye may be accounted worthy to escape all these things that shall come to pass, and to stand before the Son of man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "During the days he was teaching in the temple, and at night he went out and lodged on the mountain called Olivet.",
+      "tags": [
+        "temple",
+        "olivet",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the day time he was teaching in the temple; and at night he went out, and abode in the mount that is called the mount of Olives."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "All the people came early in the morning to him in the temple to hear him.",
+      "tags": [
+        "people",
+        "hearing",
+        "temple",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the people came early in the morning to him in the temple, for to hear him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-38",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

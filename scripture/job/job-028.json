@@ -1,34 +1,496 @@
 {
-  "book":"Job","book_id":"job","chapter":28,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as the wisdom poem: mining imagery, hidden depths, wisdom not found by human industry or wealth, Abaddon/Death testimony, and fear of the Lord as wisdom."},
-  "verses":[
-    {"verse":1,"restored":"Surely there is a mine for silver, and a place for gold that they refine.","tags":["wisdom-poem","silver","gold"]},
-    {"verse":2,"restored":"Iron is taken from dust, and copper is smelted from stone.","tags":["mining","iron","copper"]},
-    {"verse":3,"restored":"A human puts an end to darkness and searches out to the farthest limit the stone of deep gloom and shadow.","tags":["darkness","search"]},
-    {"verse":4,"restored":"He breaks open a shaft far from where people dwell, forgotten by the foot; they hang and sway far from mortals.","tags":["mine-shaft","human-skill"]},
-    {"verse":5,"restored":"As for the earth, from it comes bread, but underneath it is overturned as by fire.","tags":["earth","bread","fire"]},
-    {"verse":6,"restored":"Its stones are the place of sapphire, and it has dust of gold.","tags":["sapphire","gold"]},
-    {"verse":7,"restored":"No bird of prey knows that path, and the falcon’s eye has not seen it.","tags":["hidden-path","birds"]},
-    {"verse":8,"restored":"The proud beasts have not trodden it; the lion has not passed over it.","tags":["hidden-path","lion"]},
-    {"verse":9,"restored":"He sends his hand against the flint; he overturns mountains from the root.","tags":["hand","mountains"]},
-    {"verse":10,"restored":"He cuts channels in the rocks, and his eye sees every precious thing.","tags":["channels","precious"]},
-    {"verse":11,"restored":"He binds the streams so they do not drip, and what is hidden he brings out to light.","tags":["hidden","light"]},
-    {"verse":12,"restored":"But wisdom, from where shall it be found? And where is the place of understanding?","tags":["wisdom","question"]},
-    {"verse":13,"restored":"A mortal does not know its value, and it is not found in the land of the living.","tags":["wisdom","living"]},
-    {"verse":14,"restored":"The Deep says, It is not in me; and the Sea says, It is not with me.","tags":["deep","sea","wisdom"]},
-    {"verse":15,"restored":"Pure gold cannot be given for it, nor can silver be weighed as its price.","tags":["wisdom","gold","silver"]},
-    {"verse":16,"restored":"It cannot be valued with gold of Ophir, with precious onyx or sapphire.","tags":["ophir","gems"]},
-    {"verse":17,"restored":"Gold and glass cannot equal it, nor can it be exchanged for vessels of fine gold.","tags":["wisdom","value"]},
-    {"verse":18,"restored":"Coral and crystal shall not be mentioned, and the price of wisdom is above pearls.","tags":["wisdom","pearls"]},
-    {"verse":19,"restored":"The topaz of Cush cannot equal it; it cannot be valued with pure gold.","tags":["cush","topaz"]},
-    {"verse":20,"restored":"Wisdom, then, from where does it come? And where is the place of understanding?","tags":["wisdom","question"]},
-    {"verse":21,"restored":"It is hidden from the eyes of all living and concealed from the birds of the heavens.","tags":["hidden","living"]},
-    {"verse":22,"restored":"Abaddon and Death say, With our ears we have heard a rumor of it.","tags":["abaddon","death","rumor"]},
-    {"verse":23,"restored":"The Divine understands its way, and he knows its place.","tags":["divine-wisdom","place"]},
-    {"verse":24,"restored":"For he looks to the ends of the earth and sees under all the heavens.","tags":["earth","heavens","sight"]},
-    {"verse":25,"restored":"When he gave weight to the wind and measured the waters by measure,","tags":["wind","waters","measure"]},
-    {"verse":26,"restored":"when he made a decree for the rain and a way for the thunderbolt,","tags":["rain","thunder"]},
-    {"verse":27,"restored":"then he saw it and recounted it; he established it and also searched it out.","tags":["wisdom","established"]},
-    {"verse":28,"restored":"And he said to the human, Look, the fear of the Lord, that is wisdom; and turning away from evil is understanding.","tags":["fear-of-lord","wisdom","evil"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 28,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as the wisdom poem: mining imagery, hidden depths, wisdom not found by human industry or wealth, Abaddon/Death testimony, and fear of the Lord as wisdom."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Surely there is a mine for silver, and a place for gold that they refine.",
+      "tags": [
+        "wisdom-poem",
+        "silver",
+        "gold"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely there is a vein for the silver, and a place for gold where they fine it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Iron is taken from dust, and copper is smelted from stone.",
+      "tags": [
+        "mining",
+        "iron",
+        "copper"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Iron is taken out of the earth, and brass is molten out of the stone."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "A human puts an end to darkness and searches out to the farthest limit the stone of deep gloom and shadow.",
+      "tags": [
+        "darkness",
+        "search"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He breaks open a shaft far from where people dwell, forgotten by the foot; they hang and sway far from mortals.",
+      "tags": [
+        "mine-shaft",
+        "human-skill"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "As for the earth, from it comes bread, but underneath it is overturned as by fire.",
+      "tags": [
+        "earth",
+        "bread",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As for the earth, out of it cometh bread: and under it is turned up as it were fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Its stones are the place of sapphire, and it has dust of gold.",
+      "tags": [
+        "sapphire",
+        "gold"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The stones of it are the place of sapphires: and it hath dust of gold."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "No bird of prey knows that path, and the falcon’s eye has not seen it.",
+      "tags": [
+        "hidden-path",
+        "birds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There is a path which no fowl knoweth, and which the vulture’s eye hath not seen:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The proud beasts have not trodden it; the lion has not passed over it.",
+      "tags": [
+        "hidden-path",
+        "lion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The lion’s whelps have not trodden it, nor the fierce lion passed by it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He sends his hand against the flint; he overturns mountains from the root.",
+      "tags": [
+        "hand",
+        "mountains"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He cuts channels in the rocks, and his eye sees every precious thing.",
+      "tags": [
+        "channels",
+        "precious"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He cutteth out rivers among the rocks; and his eye seeth every precious thing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He binds the streams so they do not drip, and what is hidden he brings out to light.",
+      "tags": [
+        "hidden",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But wisdom, from where shall it be found? And where is the place of understanding?",
+      "tags": [
+        "wisdom",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But where shall wisdom be found? and where is the place of understanding?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "A mortal does not know its value, and it is not found in the land of the living.",
+      "tags": [
+        "wisdom",
+        "living"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Man knoweth not the price thereof; neither is it found in the land of the living."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The Deep says, It is not in me; and the Sea says, It is not with me.",
+      "tags": [
+        "deep",
+        "sea",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The depth saith, It is not in me: and the sea saith, It is not with me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Pure gold cannot be given for it, nor can silver be weighed as its price.",
+      "tags": [
+        "wisdom",
+        "gold",
+        "silver"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "It cannot be valued with gold of Ophir, with precious onyx or sapphire.",
+      "tags": [
+        "ophir",
+        "gems"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Gold and glass cannot equal it, nor can it be exchanged for vessels of fine gold.",
+      "tags": [
+        "wisdom",
+        "value"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Coral and crystal shall not be mentioned, and the price of wisdom is above pearls.",
+      "tags": [
+        "wisdom",
+        "pearls"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The topaz of Cush cannot equal it; it cannot be valued with pure gold.",
+      "tags": [
+        "cush",
+        "topaz"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The topaz of Ethiopia shall not equal it, neither shall it be valued with pure gold."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Wisdom, then, from where does it come? And where is the place of understanding?",
+      "tags": [
+        "wisdom",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whence then cometh wisdom? and where is the place of understanding?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "It is hidden from the eyes of all living and concealed from the birds of the heavens.",
+      "tags": [
+        "hidden",
+        "living"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Abaddon and Death say, With our ears we have heard a rumor of it.",
+      "tags": [
+        "abaddon",
+        "death",
+        "rumor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Destruction and death say, We have heard the fame thereof with our ears."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "The Divine understands its way, and he knows its place.",
+      "tags": [
+        "divine-wisdom",
+        "place"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "God understandeth the way thereof, and he knoweth the place thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For he looks to the ends of the earth and sees under all the heavens.",
+      "tags": [
+        "earth",
+        "heavens",
+        "sight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he looketh to the ends of the earth, and seeth under the whole heaven;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "When he gave weight to the wind and measured the waters by measure,",
+      "tags": [
+        "wind",
+        "waters",
+        "measure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To make the weight for the winds; and he weigheth the waters by measure."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "when he made a decree for the rain and a way for the thunderbolt,",
+      "tags": [
+        "rain",
+        "thunder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When he made a decree for the rain, and a way for the lightning of the thunder:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "then he saw it and recounted it; he established it and also searched it out.",
+      "tags": [
+        "wisdom",
+        "established"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then did he see it, and declare it; he prepared it, yea, and searched it out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "And he said to the human, Look, the fear of the Lord, that is wisdom; and turning away from evil is understanding.",
+      "tags": [
+        "fear-of-lord",
+        "wisdom",
+        "evil"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-28",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

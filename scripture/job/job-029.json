@@ -1,31 +1,474 @@
 {
-  "book":"Job","book_id":"job","chapter":29,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's remembrance of former days: divine intimacy, household abundance, public honor, rescue of poor/orphan/widow, justice as clothing, and respected counsel."},
-  "verses":[
-    {"verse":1,"restored":"Job again lifted up his discourse and said:","tags":["job","discourse"]},
-    {"verse":2,"restored":"If only I were as in the months of old, as in the days when the Divine guarded me,","tags":["memory","divine-guarding"]},
-    {"verse":3,"restored":"when his lamp shone over my head, and by his light I walked through darkness,","tags":["lamp","light","darkness"]},
-    {"verse":4,"restored":"as I was in the days of my autumn/ripeness, when the intimate counsel of the Divine was over my tent,","tags":["intimacy","tent"]},
-    {"verse":5,"restored":"when Shaddai was still with me, and my children were around me,","tags":["shaddai","children"]},
-    {"verse":6,"restored":"when my steps were washed with butter, and the rock poured out streams of oil for me.","tags":["abundance","oil"]},
-    {"verse":7,"restored":"When I went out to the gate by the city, when I prepared my seat in the square,","tags":["gate","city","honor"]},
-    {"verse":8,"restored":"young men saw me and hid themselves, and elders rose and stood.","tags":["elders","honor"]},
-    {"verse":9,"restored":"Princes held back words and laid a hand on their mouth.","tags":["princes","silence"]},
-    {"verse":10,"restored":"The voice of nobles was hidden, and their tongue clung to their palate.","tags":["nobles","speech"]},
-    {"verse":11,"restored":"For the ear heard and blessed me, and the eye saw and bore witness for me,","tags":["witness","blessing"]},
-    {"verse":12,"restored":"because I rescued the poor who cried out, and the orphan who had no helper.","tags":["poor","orphan","rescue"]},
-    {"verse":13,"restored":"The blessing of the perishing came upon me, and the heart of the widow I made sing for joy.","tags":["widow","joy"]},
-    {"verse":14,"restored":"I put on righteousness, and it clothed me; my justice was like a robe and turban.","tags":["righteousness","justice","clothing"]},
-    {"verse":15,"restored":"I was eyes to the blind and feet to the lame.","tags":["blind","lame","aid"]},
-    {"verse":16,"restored":"I was a father to the needy, and the case I did not know I searched out.","tags":["needy","father","case"]},
-    {"verse":17,"restored":"I broke the jaws of the unjust and made him drop the prey from his teeth.","tags":["injustice","prey"]},
-    {"verse":18,"restored":"Then I said, I shall expire with my nest, and like the sand multiply my days.","tags":["hope","days"]},
-    {"verse":19,"restored":"My root was open to waters, and dew lodged all night on my branch.","tags":["root","water","dew"]},
-    {"verse":20,"restored":"My glory was fresh with me, and my bow was renewed in my hand.","tags":["glory","renewal"]},
-    {"verse":21,"restored":"They listened to me and waited, and they kept silent for my counsel.","tags":["counsel","silence"]},
-    {"verse":22,"restored":"After my word they did not speak again, and my speech dropped on them.","tags":["speech","authority"]},
-    {"verse":23,"restored":"They waited for me as for rain, and opened their mouth as for spring rain.","tags":["rain","counsel"]},
-    {"verse":24,"restored":"I smiled on them when they had no confidence, and the light of my face they did not cast down.","tags":["face","light"]},
-    {"verse":25,"restored":"I chose their way and sat as head; I dwelled like a king among troops, like one who comforts mourners.","tags":["king","comfort","mourners"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 29,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's remembrance of former days: divine intimacy, household abundance, public honor, rescue of poor/orphan/widow, justice as clothing, and respected counsel."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Job again lifted up his discourse and said:",
+      "tags": [
+        "job",
+        "discourse"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover Job continued his parable, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "If only I were as in the months of old, as in the days when the Divine guarded me,",
+      "tags": [
+        "memory",
+        "divine-guarding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Oh that I were as in months past, as in the days when God preserved me;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "when his lamp shone over my head, and by his light I walked through darkness,",
+      "tags": [
+        "lamp",
+        "light",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When his candle shined upon my head, and when by his light I walked through darkness;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "as I was in the days of my autumn/ripeness, when the intimate counsel of the Divine was over my tent,",
+      "tags": [
+        "intimacy",
+        "tent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As I was in the days of my youth, when the secret of God was upon my tabernacle;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "when Shaddai was still with me, and my children were around me,",
+      "tags": [
+        "shaddai",
+        "children",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the Almighty was yet with me, when my children were about me;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "when my steps were washed with butter, and the rock poured out streams of oil for me.",
+      "tags": [
+        "abundance",
+        "oil"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When I washed my steps with butter, and the rock poured me out rivers of oil;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "When I went out to the gate by the city, when I prepared my seat in the square,",
+      "tags": [
+        "gate",
+        "city",
+        "honor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When I went out to the gate through the city, when I prepared my seat in the street!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "young men saw me and hid themselves, and elders rose and stood.",
+      "tags": [
+        "elders",
+        "honor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The young men saw me, and hid themselves: and the aged arose, and stood up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Princes held back words and laid a hand on their mouth.",
+      "tags": [
+        "princes",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The princes refrained talking, and laid their hand on their mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The voice of nobles was hidden, and their tongue clung to their palate.",
+      "tags": [
+        "nobles",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The nobles held their peace, and their tongue cleaved to the roof of their mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For the ear heard and blessed me, and the eye saw and bore witness for me,",
+      "tags": [
+        "witness",
+        "blessing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "because I rescued the poor who cried out, and the orphan who had no helper.",
+      "tags": [
+        "poor",
+        "orphan",
+        "rescue",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The blessing of the perishing came upon me, and the heart of the widow I made sing for joy.",
+      "tags": [
+        "widow",
+        "joy",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "I put on righteousness, and it clothed me; my justice was like a robe and turban.",
+      "tags": [
+        "righteousness",
+        "justice",
+        "clothing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "I was eyes to the blind and feet to the lame.",
+      "tags": [
+        "blind",
+        "lame",
+        "aid",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I was eyes to the blind, and feet was I to the lame."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "I was a father to the needy, and the case I did not know I searched out.",
+      "tags": [
+        "needy",
+        "father",
+        "case"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I was a father to the poor: and the cause which I knew not I searched out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "I broke the jaws of the unjust and made him drop the prey from his teeth.",
+      "tags": [
+        "injustice",
+        "prey"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Then I said, I shall expire with my nest, and like the sand multiply my days.",
+      "tags": [
+        "hope",
+        "days"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I said, I shall die in my nest, and I shall multiply my days as the sand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "My root was open to waters, and dew lodged all night on my branch.",
+      "tags": [
+        "root",
+        "water",
+        "dew"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My root was spread out by the waters, and the dew lay all night upon my branch."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "My glory was fresh with me, and my bow was renewed in my hand.",
+      "tags": [
+        "glory",
+        "renewal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My glory was fresh in me, and my bow was renewed in my hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They listened to me and waited, and they kept silent for my counsel.",
+      "tags": [
+        "counsel",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto me men gave ear, and waited, and kept silence at my counsel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "After my word they did not speak again, and my speech dropped on them.",
+      "tags": [
+        "speech",
+        "authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After my words they spake not again; and my speech dropped upon them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They waited for me as for rain, and opened their mouth as for spring rain.",
+      "tags": [
+        "rain",
+        "counsel"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "I smiled on them when they had no confidence, and the light of my face they did not cast down.",
+      "tags": [
+        "face",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If I laughed on them, they believed it not; and the light of my countenance they cast not down."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "I chose their way and sat as head; I dwelled like a king among troops, like one who comforts mourners.",
+      "tags": [
+        "king",
+        "comfort",
+        "mourners",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-25",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

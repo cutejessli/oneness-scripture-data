@@ -1,28 +1,178 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":16,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for women at tomb, rolled stone, young man in white, empty tomb, Galilee message, fear/silence at 16:8, and shorter/longer ending as later textual additions rather than main restored text."},
-  "verses":[
-    {"verse":1,"restored":"When the Sabbath had passed, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go and anoint him.","tags":["sabbath","women","anointing"]},
-    {"verse":2,"restored":"Very early on the first day of the week, they come to the tomb after the sun had risen.","tags":["first-day","tomb","morning"]},
-    {"verse":3,"restored":"They were saying to one another, Who will roll away the stone for us from the door of the tomb?","tags":["stone","tomb"]},
-    {"verse":4,"restored":"Looking up, they see that the stone has been rolled away, for it was very large.","tags":["stone","rolled-away"]},
-    {"verse":5,"restored":"Entering the tomb, they saw a young man sitting on the right side, clothed in a white robe, and they were alarmed.","tags":["young-man","white-robe","alarm"]},
-    {"verse":6,"restored":"He says to them, Do not be alarmed. You seek Jesus the Nazarene, the crucified one. He was raised; he is not here. Look, the place where they laid him.","tags":["raised","empty-tomb","nazarene"]},
-    {"verse":7,"restored":"But go, tell his disciples and Peter that he goes before you into Galilee. There you will see him, just as he told you.","tags":["disciples","peter","galilee"]},
-    {"verse":8,"restored":"Going out, they fled from the tomb, for trembling and astonishment held them; and they said nothing to anyone, for they were afraid.","tags":["fear","trembling","silence"]}
-  ],
-  "textual_notes":[
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 16,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for women at tomb, rolled stone, young man in white, empty tomb, Galilee message, fear/silence at 16:8, and shorter/longer ending as later textual additions rather than main restored text."
+  },
+  "verses": [
     {
-      "range":"16:9-20",
-      "status":"later_longer_ending",
-      "note":"Many later manuscripts include a longer ending after 16:8. This project keeps 16:8 as the restored primary ending while preserving the longer ending as a textual tradition note rather than erasing it."
+      "verse": 1,
+      "restored": "When the Sabbath had passed, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go and anoint him.",
+      "tags": [
+        "sabbath",
+        "women",
+        "anointing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the sabbath was past, Mary Magdalene, and Mary the mother of James, and Salome, had bought sweet spices, that they might come and anoint him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
     },
     {
-      "range":"shorter ending",
-      "status":"later_shorter_ending",
-      "note":"Some witnesses include a shorter ending after 16:8. It is noted as a later textual ending, not the main restored reading."
+      "verse": 2,
+      "restored": "Very early on the first day of the week, they come to the tomb after the sun had risen.",
+      "tags": [
+        "first-day",
+        "tomb",
+        "morning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And very early in the morning the first day of the week, they came unto the sepulchre at the rising of the sun."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They were saying to one another, Who will roll away the stone for us from the door of the tomb?",
+      "tags": [
+        "stone",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said among themselves, Who shall roll us away the stone from the door of the sepulchre?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Looking up, they see that the stone has been rolled away, for it was very large.",
+      "tags": [
+        "stone",
+        "rolled-away"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they looked, they saw that the stone was rolled away: for it was very great."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Entering the tomb, they saw a young man sitting on the right side, clothed in a white robe, and they were alarmed.",
+      "tags": [
+        "young-man",
+        "white-robe",
+        "alarm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And entering into the sepulchre, they saw a young man sitting on the right side, clothed in a long white garment; and they were affrighted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He says to them, Do not be alarmed. You seek Jesus the Nazarene, the crucified one. He was raised; he is not here. Look, the place where they laid him.",
+      "tags": [
+        "raised",
+        "empty-tomb",
+        "nazarene"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he saith unto them, Be not affrighted: Ye seek Jesus of Nazareth, which was crucified: he is risen; he is not here: behold the place where they laid him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But go, tell his disciples and Peter that he goes before you into Galilee. There you will see him, just as he told you.",
+      "tags": [
+        "disciples",
+        "peter",
+        "galilee",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But go your way, tell his disciples and Peter that he goeth before you into Galilee: there shall ye see him, as he said unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Going out, they fled from the tomb, for trembling and astonishment held them; and they said nothing to anyone, for they were afraid.",
+      "tags": [
+        "fear",
+        "trembling",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they went out quickly, and fled from the sepulchre; for they trembled and were amazed: neither said they any thing to any man; for they were afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
     }
-  ]
+  ],
+  "textual_notes": [
+    {
+      "range": "16:9-20",
+      "status": "later_longer_ending",
+      "note": "Many later manuscripts include a longer ending after 16:8. This project keeps 16:8 as the restored primary ending while preserving the longer ending as a textual tradition note rather than erasing it."
+    },
+    {
+      "range": "shorter ending",
+      "status": "later_shorter_ending",
+      "note": "Some witnesses include a shorter ending after 16:8. It is noted as a later textual ending, not the main restored reading."
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

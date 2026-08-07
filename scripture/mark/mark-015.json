@@ -1,55 +1,890 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":15,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Pilate, Barabbas, crowd dynamics, mocking, crucifixion, Psalm lament, death, veil tearing, centurion confession, women witnesses, and Joseph burial."},
-  "verses":[
-    {"verse":1,"restored":"Immediately in the morning, the chief priests with the elders, scribes, and whole council took counsel. Binding Jesus, they led him away and handed him over to Pilate.","tags":["morning","pilate","handed-over"]},
-    {"verse":2,"restored":"Pilate questioned him, Are you the king of the Judeans? He answered him, You say it.","tags":["pilate","king"]},
-    {"verse":3,"restored":"The chief priests were accusing him of many things.","tags":["accusation","chief-priests"]},
-    {"verse":4,"restored":"Pilate again questioned him, saying, Do you answer nothing? See how many things they accuse you of.","tags":["pilate","question"]},
-    {"verse":5,"restored":"But Jesus no longer answered anything, so that Pilate marveled.","tags":["silence","wonder"]},
-    {"verse":6,"restored":"At the feast he would release for them one prisoner whom they requested.","tags":["feast","release"]},
-    {"verse":7,"restored":"There was one called Barabbas, bound with the rebels who had committed murder in the uprising.","tags":["barabbas","uprising"]},
-    {"verse":8,"restored":"The crowd came up and began to ask him to do as he usually did for them.","tags":["crowd","release"]},
-    {"verse":9,"restored":"Pilate answered them, saying, Do you want me to release for you the king of the Judeans?","tags":["pilate","king"]},
-    {"verse":10,"restored":"For he knew that the chief priests had handed him over because of envy.","tags":["envy","chief-priests"]},
-    {"verse":11,"restored":"But the chief priests stirred up the crowd so that he would release Barabbas for them instead.","tags":["crowd","barabbas"]},
-    {"verse":12,"restored":"Pilate again answered and said to them, What then do you want me to do with the one you call king of the Judeans?","tags":["pilate","king"]},
-    {"verse":13,"restored":"They cried out again, Crucify him.","tags":["crucifixion","crowd"]},
-    {"verse":14,"restored":"Pilate said to them, Why, what harm has he done? But they cried out even more, Crucify him.","tags":["harm","crucifixion"]},
-    {"verse":15,"restored":"Pilate, wishing to satisfy the crowd, released Barabbas for them; and after flogging Jesus, he handed him over to be crucified.","tags":["pilate","barabbas","crucifixion"]},
-    {"verse":16,"restored":"The soldiers led him away inside the courtyard, that is, the praetorium, and called together the whole cohort.","tags":["soldiers","praetorium"]},
-    {"verse":17,"restored":"They clothed him in purple, and twisting a thorn crown, they placed it on him.","tags":["purple","thorns","mockery"]},
-    {"verse":18,"restored":"They began to greet him, Hail, king of the Judeans.","tags":["mockery","king"]},
-    {"verse":19,"restored":"They struck his head with a reed, spat on him, and kneeling, bowed before him.","tags":["mockery","violence"]},
-    {"verse":20,"restored":"When they had mocked him, they stripped off the purple and put his own garments on him, and they led him out to crucify him.","tags":["mockery","crucifixion"]},
-    {"verse":21,"restored":"They compel one passing by, Simon of Cyrene, coming from the country, the father of Alexander and Rufus, to carry his cross.","tags":["simon-cyrene","cross"]},
-    {"verse":22,"restored":"They bring him to the place Golgotha, which is translated, Place of a Skull.","tags":["golgotha"]},
-    {"verse":23,"restored":"They offered him wine mixed with myrrh, but he did not take it.","tags":["wine","myrrh"]},
-    {"verse":24,"restored":"They crucify him and divide his garments, casting lots for them, who should take what.","tags":["crucifixion","garments","lots"]},
-    {"verse":25,"restored":"It was the third hour, and they crucified him.","tags":["third-hour","crucifixion"]},
-    {"verse":26,"restored":"The inscription of the charge against him was written: The King of the Judeans.","tags":["inscription","king"]},
-    {"verse":27,"restored":"With him they crucify two robbers, one at his right and one at his left.","tags":["robbers","right-left"]},
-    {"verse":28,"restored":"[Some later manuscripts add: And the Scripture was fulfilled that says, He was counted with lawless ones.]","tags":["textual-variant","scripture"]},
-    {"verse":29,"restored":"Those passing by blasphemed him, shaking their heads and saying, Ha! You who destroy the temple and build it in three days,","tags":["mockery","temple"]},
-    {"verse":30,"restored":"save yourself by coming down from the cross.","tags":["save","cross"]},
-    {"verse":31,"restored":"Likewise the chief priests with the scribes mocked among themselves, saying, He saved others; himself he cannot save.","tags":["chief-priests","mockery","save"]},
-    {"verse":32,"restored":"Let the Messiah, the king of Israel, come down now from the cross, so that we may see and trust. Those crucified with him also reproached him.","tags":["messiah","king","trust"]},
-    {"verse":33,"restored":"When the sixth hour came, darkness came over the whole land until the ninth hour.","tags":["darkness","sixth-hour","ninth-hour"]},
-    {"verse":34,"restored":"At the ninth hour Jesus cried out with a great voice, Eloi, Eloi, lema sabachthani? which is translated, My God, my God, why have you forsaken me?","tags":["psalm","cry","forsaken"]},
-    {"verse":35,"restored":"Some of those standing by heard and said, Look, he calls Elijah.","tags":["elijah"]},
-    {"verse":36,"restored":"Someone ran, filled a sponge with sour wine, put it on a reed, and gave him drink, saying, Leave him; let us see whether Elijah comes to take him down.","tags":["sour-wine","elijah"]},
-    {"verse":37,"restored":"Jesus, releasing a great voice, breathed out.","tags":["death","breath"]},
-    {"verse":38,"restored":"The veil of the temple was torn in two from top to bottom.","tags":["veil","temple"]},
-    {"verse":39,"restored":"When the centurion standing opposite him saw that in this way he breathed out, he said, Truly this human was Son of the Divine.","tags":["centurion","son-divine"]},
-    {"verse":40,"restored":"There were also women watching from afar, among whom were Mary Magdalene, Mary the mother of James the Little and Joses, and Salome.","tags":["women","mary-magdalene","salome"]},
-    {"verse":41,"restored":"When he was in Galilee, they followed him and served him, and many other women came up with him to Jerusalem.","tags":["women","service","galilee"]},
-    {"verse":42,"restored":"When evening had already come, since it was Preparation, that is, the day before Sabbath,","tags":["evening","preparation","sabbath"]},
-    {"verse":43,"restored":"Joseph of Arimathea, a respected council member who himself was waiting for the reign of the Divine, came boldly to Pilate and asked for the body of Jesus.","tags":["joseph-arimathea","body","kingdom"]},
-    {"verse":44,"restored":"Pilate marveled that he had already died; calling the centurion, he asked whether he had been dead for some time.","tags":["pilate","centurion"]},
-    {"verse":45,"restored":"Learning from the centurion, he granted the corpse to Joseph.","tags":["body","joseph"]},
-    {"verse":46,"restored":"Buying a linen cloth, he took him down, wrapped him in the linen cloth, and placed him in a tomb that had been cut from rock. He rolled a stone against the door of the tomb.","tags":["burial","linen","tomb","stone"]},
-    {"verse":47,"restored":"Mary Magdalene and Mary the mother of Joses were watching where he was placed.","tags":["mary-magdalene","women","tomb"]}
-  ]
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Pilate, Barabbas, crowd dynamics, mocking, crucifixion, Psalm lament, death, veil tearing, centurion confession, women witnesses, and Joseph burial."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Immediately in the morning, the chief priests with the elders, scribes, and whole council took counsel. Binding Jesus, they led him away and handed him over to Pilate.",
+      "tags": [
+        "morning",
+        "pilate",
+        "handed-over",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And straightway in the morning the chief priests held a consultation with the elders and scribes and the whole council, and bound Jesus, and carried him away, and delivered him to Pilate."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Pilate questioned him, Are you the king of the Judeans? He answered him, You say it.",
+      "tags": [
+        "pilate",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pilate asked him, Art thou the King of the Jews? And he answering said unto him, Thou sayest it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "The chief priests were accusing him of many things.",
+      "tags": [
+        "accusation",
+        "chief-priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief priests accused him of many things: but he answered nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Pilate again questioned him, saying, Do you answer nothing? See how many things they accuse you of.",
+      "tags": [
+        "pilate",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pilate asked him again, saying, Answerest thou nothing? behold how many things they witness against thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But Jesus no longer answered anything, so that Pilate marveled.",
+      "tags": [
+        "silence",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus yet answered nothing; so that Pilate marvelled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "At the feast he would release for them one prisoner whom they requested.",
+      "tags": [
+        "feast",
+        "release",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now at that feast he released unto them one prisoner, whomsoever they desired."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "There was one called Barabbas, bound with the rebels who had committed murder in the uprising.",
+      "tags": [
+        "barabbas",
+        "uprising"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was one named Barabbas, which lay bound with them that had made insurrection with him, who had committed murder in the insurrection."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The crowd came up and began to ask him to do as he usually did for them.",
+      "tags": [
+        "crowd",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the multitude crying aloud began to desire him to do as he had ever done unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Pilate answered them, saying, Do you want me to release for you the king of the Judeans?",
+      "tags": [
+        "pilate",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Pilate answered them, saying, Will ye that I release unto you the King of the Jews?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "For he knew that the chief priests had handed him over because of envy.",
+      "tags": [
+        "envy",
+        "chief-priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he knew that the chief priests had delivered him for envy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But the chief priests stirred up the crowd so that he would release Barabbas for them instead.",
+      "tags": [
+        "crowd",
+        "barabbas",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the chief priests moved the people, that he should rather release Barabbas unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Pilate again answered and said to them, What then do you want me to do with the one you call king of the Judeans?",
+      "tags": [
+        "pilate",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pilate answered and said again unto them, What will ye then that I shall do unto him whom ye call the King of the Jews?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "They cried out again, Crucify him.",
+      "tags": [
+        "crucifixion",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they cried out again, Crucify him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Pilate said to them, Why, what harm has he done? But they cried out even more, Crucify him.",
+      "tags": [
+        "harm",
+        "crucifixion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Pilate said unto them, Why, what evil hath he done? And they cried out the more exceedingly, Crucify him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Pilate, wishing to satisfy the crowd, released Barabbas for them; and after flogging Jesus, he handed him over to be crucified.",
+      "tags": [
+        "pilate",
+        "barabbas",
+        "crucifixion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And so Pilate, willing to content the people, released Barabbas unto them, and delivered Jesus, when he had scourged him, to be crucified."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "The soldiers led him away inside the courtyard, that is, the praetorium, and called together the whole cohort.",
+      "tags": [
+        "soldiers",
+        "praetorium",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the soldiers led him away into the hall, called Praetorium; and they call together the whole band."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "They clothed him in purple, and twisting a thorn crown, they placed it on him.",
+      "tags": [
+        "purple",
+        "thorns",
+        "mockery",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they clothed him with purple, and platted a crown of thorns, and put it about his head,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "They began to greet him, Hail, king of the Judeans.",
+      "tags": [
+        "mockery",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And began to salute him, Hail, King of the Jews!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "They struck his head with a reed, spat on him, and kneeling, bowed before him.",
+      "tags": [
+        "mockery",
+        "violence",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they smote him on the head with a reed, and did spit upon him, and bowing their knees worshipped him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "When they had mocked him, they stripped off the purple and put his own garments on him, and they led him out to crucify him.",
+      "tags": [
+        "mockery",
+        "crucifixion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had mocked him, they took off the purple from him, and put his own clothes on him, and led him out to crucify him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They compel one passing by, Simon of Cyrene, coming from the country, the father of Alexander and Rufus, to carry his cross.",
+      "tags": [
+        "simon-cyrene",
+        "cross"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they compel one Simon a Cyrenian, who passed by, coming out of the country, the father of Alexander and Rufus, to bear his cross."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "They bring him to the place Golgotha, which is translated, Place of a Skull.",
+      "tags": [
+        "golgotha"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They offered him wine mixed with myrrh, but he did not take it.",
+      "tags": [
+        "wine",
+        "myrrh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gave him to drink wine mingled with myrrh: but he received it not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "They crucify him and divide his garments, casting lots for them, who should take what.",
+      "tags": [
+        "crucifixion",
+        "garments",
+        "lots"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had crucified him, they parted his garments, casting lots upon them, what every man should take."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "It was the third hour, and they crucified him.",
+      "tags": [
+        "third-hour",
+        "crucifixion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was the third hour, and they crucified him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "The inscription of the charge against him was written: The King of the Judeans.",
+      "tags": [
+        "inscription",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the superscription of his accusation was written over, THE KING OF THE JEWS."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "With him they crucify two robbers, one at his right and one at his left.",
+      "tags": [
+        "robbers",
+        "right-left"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And with him they crucify two thieves; the one on his right hand, and the other on his left."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "[Some later manuscripts add: And the Scripture was fulfilled that says, He was counted with lawless ones.]",
+      "tags": [
+        "textual-variant",
+        "scripture"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the scripture was fulfilled, which saith, And he was numbered with the transgressors."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Those passing by blasphemed him, shaking their heads and saying, Ha! You who destroy the temple and build it in three days,",
+      "tags": [
+        "mockery",
+        "temple",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that passed by railed on him, wagging their heads, and saying, Ah, thou that destroyest the temple, and buildest it in three days,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "save yourself by coming down from the cross.",
+      "tags": [
+        "save",
+        "cross"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Save thyself, and come down from the cross."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Likewise the chief priests with the scribes mocked among themselves, saying, He saved others; himself he cannot save.",
+      "tags": [
+        "chief-priests",
+        "mockery",
+        "save",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise also the chief priests mocking said among themselves with the scribes, He saved others; himself he cannot save."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Let the Messiah, the king of Israel, come down now from the cross, so that we may see and trust. Those crucified with him also reproached him.",
+      "tags": [
+        "messiah",
+        "king",
+        "trust",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let Christ the King of Israel descend now from the cross, that we may see and believe. And they that were crucified with him reviled him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "When the sixth hour came, darkness came over the whole land until the ninth hour.",
+      "tags": [
+        "darkness",
+        "sixth-hour",
+        "ninth-hour"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the sixth hour was come, there was darkness over the whole land until the ninth hour."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "At the ninth hour Jesus cried out with a great voice, Eloi, Eloi, lema sabachthani? which is translated, My God, my God, why have you forsaken me?",
+      "tags": [
+        "psalm",
+        "cry",
+        "forsaken"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And at the ninth hour Jesus cried with a loud voice, saying, Eloi, Eloi, lama sabachthani? which is, being interpreted, My God, my God, why hast thou forsaken me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Some of those standing by heard and said, Look, he calls Elijah.",
+      "tags": [
+        "elijah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of them that stood by, when they heard it, said, Behold, he calleth Elias."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Someone ran, filled a sponge with sour wine, put it on a reed, and gave him drink, saying, Leave him; let us see whether Elijah comes to take him down.",
+      "tags": [
+        "sour-wine",
+        "elijah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one ran and filled a spunge full of vinegar, and put it on a reed, and gave him to drink, saying, Let alone; let us see whether Elias will come to take him down."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Jesus, releasing a great voice, breathed out.",
+      "tags": [
+        "death",
+        "breath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus cried with a loud voice, and gave up the ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "The veil of the temple was torn in two from top to bottom.",
+      "tags": [
+        "veil",
+        "temple",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the veil of the temple was rent in twain from the top to the bottom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "When the centurion standing opposite him saw that in this way he breathed out, he said, Truly this human was Son of the Divine.",
+      "tags": [
+        "centurion",
+        "son-divine",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the centurion, which stood over against him, saw that he so cried out, and gave up the ghost, he said, Truly this man was the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "There were also women watching from afar, among whom were Mary Magdalene, Mary the mother of James the Little and Joses, and Salome.",
+      "tags": [
+        "women",
+        "mary-magdalene",
+        "salome",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There were also women looking on afar off: among whom was Mary Magdalene, and Mary the mother of James the less and of Joses, and Salome;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 41,
+      "restored": "When he was in Galilee, they followed him and served him, and many other women came up with him to Jerusalem.",
+      "tags": [
+        "women",
+        "service",
+        "galilee",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(Who also, when he was in Galilee, followed him, and ministered unto him;) and many other women which came up with him unto Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 42,
+      "restored": "When evening had already come, since it was Preparation, that is, the day before Sabbath,",
+      "tags": [
+        "evening",
+        "preparation",
+        "sabbath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And now when the even was come, because it was the preparation, that is, the day before the sabbath,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "Joseph of Arimathea, a respected council member who himself was waiting for the reign of the Divine, came boldly to Pilate and asked for the body of Jesus.",
+      "tags": [
+        "joseph-arimathea",
+        "body",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Joseph of Arimathaea, an honourable counsellor, which also waited for the kingdom of God, came, and went in boldly unto Pilate, and craved the body of Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "Pilate marveled that he had already died; calling the centurion, he asked whether he had been dead for some time.",
+      "tags": [
+        "pilate",
+        "centurion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pilate marvelled if he were already dead: and calling unto him the centurion, he asked him whether he had been any while dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Learning from the centurion, he granted the corpse to Joseph.",
+      "tags": [
+        "body",
+        "joseph"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he knew it of the centurion, he gave the body to Joseph."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "Buying a linen cloth, he took him down, wrapped him in the linen cloth, and placed him in a tomb that had been cut from rock. He rolled a stone against the door of the tomb.",
+      "tags": [
+        "burial",
+        "linen",
+        "tomb",
+        "stone"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he bought fine linen, and took him down, and wrapped him in the linen, and laid him in a sepulchre which was hewn out of a rock, and rolled a stone unto the door of the sepulchre."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "Mary Magdalene and Mary the mother of Joses were watching where he was placed.",
+      "tags": [
+        "mary-magdalene",
+        "women",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-47",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-47",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

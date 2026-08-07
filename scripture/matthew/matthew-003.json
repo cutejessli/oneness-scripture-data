@@ -1,23 +1,407 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":3,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for John the Baptist, metanoeite, reign/realm of the heavens, wilderness Isaiah voice, Pharisees/Sadducees, fruit language, axe/root, Spirit and fire baptism, winnowing imagery, and Jesus' baptism/theophany."},
-  "verses":[
-    {"verse":1,"restored":"In those days John the Baptist came proclaiming in the wilderness of Judea,","tags":["john","wilderness","proclamation"]},
-    {"verse":2,"restored":"saying, Turn and realign your mind/heart, for the reign of the heavens has drawn near.","terms":[{"display":"turn and realign","source":"metanoeite","language":"Greek","glossary_id":"metanoia"},{"display":"reign of the heavens","source":"basileia ton ouranon","language":"Greek","glossary_id":"basileia-ouranon"}],"tags":["metanoia","kingdom","heavens"]},
-    {"verse":3,"restored":"For this is the one spoken of through Isaiah the prophet: A voice of one crying in the wilderness, Prepare the way of the Lord; make his paths straight.","tags":["isaiah","voice","way"]},
-    {"verse":4,"restored":"John himself had clothing from camel's hair and a leather belt around his waist, and his food was locusts and wild honey.","tags":["john","prophet","wilderness"]},
-    {"verse":5,"restored":"Then Jerusalem, all Judea, and all the region around the Jordan went out to him.","tags":["jerusalem","judea","jordan"]},
-    {"verse":6,"restored":"They were baptized by him in the Jordan River, confessing their sins/misalignments.","terms":[{"display":"baptized","source":"ebaptizonto","language":"Greek","glossary_id":"baptizo"},{"display":"sins/misalignments","source":"hamartias","language":"Greek","glossary_id":"hamartia"}],"tags":["baptism","confession","jordan"]},
-    {"verse":7,"restored":"Seeing many of the Pharisees and Sadducees coming to the baptism, he said to them, Offspring of vipers, who warned you to flee from the coming wrath?","tags":["pharisees","sadducees","vipers","wrath"]},
-    {"verse":8,"restored":"Therefore produce fruit worthy of turning/realignment.","terms":[{"display":"turning/realignment","source":"metanoias","language":"Greek","glossary_id":"metanoia"}],"tags":["fruit","metanoia"]},
-    {"verse":9,"restored":"Do not suppose you can say among yourselves, We have Abraham as father; for I say to you that the Divine is able from these stones to raise up children for Abraham.","tags":["abraham","stones","children"]},
-    {"verse":10,"restored":"Already the axe lies at the root of the trees; every tree not producing beautiful/good fruit is cut down and thrown into fire.","terms":[{"display":"beautiful/good","source":"kalon","language":"Greek","glossary_id":"kalos"}],"tags":["axe","root","fruit","fire"]},
-    {"verse":11,"restored":"I baptize you in water for turning/realignment, but the one coming after me is stronger than I; I am not worthy to carry his sandals. He will baptize you in holy Spirit and fire.","terms":[{"display":"holy Spirit","source":"pneumati hagio","language":"Greek","glossary_id":"pneuma-hagion"}],"tags":["water","spirit","fire","messiah"]},
-    {"verse":12,"restored":"His winnowing fork is in his hand. He will thoroughly clear his threshing floor, gather his wheat into the storehouse, and burn the chaff with unquenchable fire.","tags":["winnowing","wheat","chaff","fire"]},
-    {"verse":13,"restored":"Then Jesus came from Galilee to the Jordan to John, to be baptized by him.","tags":["jesus","john","baptism"]},
-    {"verse":14,"restored":"But John tried to prevent him, saying, I have need to be baptized by you, and you come to me?","tags":["john","jesus"]},
-    {"verse":15,"restored":"Jesus answered him, Allow it now, for in this way it is fitting for us to fulfill all righteousness/justice. Then he allowed him.","terms":[{"display":"righteousness/justice","source":"dikaiosynen","language":"Greek","glossary_id":"dikaiosyne"}],"tags":["fulfillment","justice","baptism"]},
-    {"verse":16,"restored":"After being baptized, Jesus immediately came up from the water; and look, the heavens were opened, and he saw the Spirit of the Divine descending like a dove and coming upon him.","tags":["heavens","spirit","dove"]},
-    {"verse":17,"restored":"And look, a voice from the heavens said, This is my beloved Son, in whom I delight.","terms":[{"display":"beloved","source":"agapetos","language":"Greek","glossary_id":"agapetos"}],"tags":["voice","son","beloved"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for John the Baptist, metanoeite, reign/realm of the heavens, wilderness Isaiah voice, Pharisees/Sadducees, fruit language, axe/root, Spirit and fire baptism, winnowing imagery, and Jesus' baptism/theophany."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In those days John the Baptist came proclaiming in the wilderness of Judea,",
+      "tags": [
+        "john",
+        "wilderness",
+        "proclamation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In those days came John the Baptist, preaching in the wilderness of Judaea,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "saying, Turn and realign your mind/heart, for the reign of the heavens has drawn near.",
+      "terms": [
+        {
+          "display": "turn and realign",
+          "source": "metanoeite",
+          "language": "Greek",
+          "glossary_id": "metanoia"
+        },
+        {
+          "display": "reign of the heavens",
+          "source": "basileia ton ouranon",
+          "language": "Greek",
+          "glossary_id": "basileia-ouranon"
+        }
+      ],
+      "tags": [
+        "metanoia",
+        "kingdom",
+        "heavens",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And saying, Repent ye: for the kingdom of heaven is at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For this is the one spoken of through Isaiah the prophet: A voice of one crying in the wilderness, Prepare the way of the Lord; make his paths straight.",
+      "tags": [
+        "isaiah",
+        "voice",
+        "way",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For this is he that was spoken of by the prophet Esaias, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "John himself had clothing from camel's hair and a leather belt around his waist, and his food was locusts and wild honey.",
+      "tags": [
+        "john",
+        "prophet",
+        "wilderness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the same John had his raiment of camel’s hair, and a leathern girdle about his loins; and his meat was locusts and wild honey."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Then Jerusalem, all Judea, and all the region around the Jordan went out to him.",
+      "tags": [
+        "jerusalem",
+        "judea",
+        "jordan"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "They were baptized by him in the Jordan River, confessing their sins/misalignments.",
+      "terms": [
+        {
+          "display": "baptized",
+          "source": "ebaptizonto",
+          "language": "Greek",
+          "glossary_id": "baptizo"
+        },
+        {
+          "display": "sins/misalignments",
+          "source": "hamartias",
+          "language": "Greek",
+          "glossary_id": "hamartia"
+        }
+      ],
+      "tags": [
+        "baptism",
+        "confession",
+        "jordan"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And were baptized of him in Jordan, confessing their sins."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Seeing many of the Pharisees and Sadducees coming to the baptism, he said to them, Offspring of vipers, who warned you to flee from the coming wrath?",
+      "tags": [
+        "pharisees",
+        "sadducees",
+        "vipers",
+        "wrath",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when he saw many of the Pharisees and Sadducees come to his baptism, he said unto them, O generation of vipers, who hath warned you to flee from the wrath to come?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore produce fruit worthy of turning/realignment.",
+      "terms": [
+        {
+          "display": "turning/realignment",
+          "source": "metanoias",
+          "language": "Greek",
+          "glossary_id": "metanoia"
+        }
+      ],
+      "tags": [
+        "fruit",
+        "metanoia"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Bring forth therefore fruits meet for repentance:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Do not suppose you can say among yourselves, We have Abraham as father; for I say to you that the Divine is able from these stones to raise up children for Abraham.",
+      "tags": [
+        "abraham",
+        "stones",
+        "children",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And think not to say within yourselves, We have Abraham to our father: for I say unto you, that God is able of these stones to raise up children unto Abraham."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Already the axe lies at the root of the trees; every tree not producing beautiful/good fruit is cut down and thrown into fire.",
+      "terms": [
+        {
+          "display": "beautiful/good",
+          "source": "kalon",
+          "language": "Greek",
+          "glossary_id": "kalos"
+        }
+      ],
+      "tags": [
+        "axe",
+        "root",
+        "fruit",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And now also the axe is laid unto the root of the trees: therefore every tree which bringeth not forth good fruit is hewn down, and cast into the fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "I baptize you in water for turning/realignment, but the one coming after me is stronger than I; I am not worthy to carry his sandals. He will baptize you in holy Spirit and fire.",
+      "terms": [
+        {
+          "display": "holy Spirit",
+          "source": "pneumati hagio",
+          "language": "Greek",
+          "glossary_id": "pneuma-hagion"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "water",
+        "spirit",
+        "fire",
+        "messiah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "His winnowing fork is in his hand. He will thoroughly clear his threshing floor, gather his wheat into the storehouse, and burn the chaff with unquenchable fire.",
+      "tags": [
+        "winnowing",
+        "wheat",
+        "chaff",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose fan is in his hand, and he will throughly purge his floor, and gather his wheat into the garner; but he will burn up the chaff with unquenchable fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Then Jesus came from Galilee to the Jordan to John, to be baptized by him.",
+      "tags": [
+        "jesus",
+        "john",
+        "baptism"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But John tried to prevent him, saying, I have need to be baptized by you, and you come to me?",
+      "tags": [
+        "john",
+        "jesus"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But John forbad him, saying, I have need to be baptized of thee, and comest thou to me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Jesus answered him, Allow it now, for in this way it is fitting for us to fulfill all righteousness/justice. Then he allowed him.",
+      "terms": [
+        {
+          "display": "righteousness/justice",
+          "source": "dikaiosynen",
+          "language": "Greek",
+          "glossary_id": "dikaiosyne"
+        }
+      ],
+      "tags": [
+        "fulfillment",
+        "justice",
+        "baptism"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto him, Suffer it to be so now: for thus it becometh us to fulfil all righteousness. Then he suffered him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "After being baptized, Jesus immediately came up from the water; and look, the heavens were opened, and he saw the Spirit of the Divine descending like a dove and coming upon him.",
+      "tags": [
+        "heavens",
+        "spirit",
+        "dove"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus, when he was baptized, went up straightway out of the water: and, lo, the heavens were opened unto him, and he saw the Spirit of God descending like a dove, and lighting upon him:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And look, a voice from the heavens said, This is my beloved Son, in whom I delight.",
+      "terms": [
+        {
+          "display": "beloved",
+          "source": "agapetos",
+          "language": "Greek",
+          "glossary_id": "agapetos"
+        }
+      ],
+      "tags": [
+        "voice",
+        "son",
+        "beloved",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And lo a voice from heaven, saying, This is my beloved Son, in whom I am well pleased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-17",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-17",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

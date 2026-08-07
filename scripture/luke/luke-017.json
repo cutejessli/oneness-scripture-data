@@ -1,45 +1,678 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":17,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for stumbling, release/forgiveness, mustard trust, servant saying, ten lepers, Samaritan gratitude, reign within/among, and days of Son of Humanity."},
-  "verses":[
-    {"verse":1,"restored":"He said to his disciples, It is impossible for stumbling-blocks not to come, but woe to the one through whom they come.","tags":["stumbling","woe"]},
-    {"verse":2,"restored":"It would be better for that one if a millstone were hung around the neck and one were thrown into the sea than to cause one of these little ones to stumble.","tags":["little-ones","warning"]},
-    {"verse":3,"restored":"Watch yourselves. If your sibling sins/misaligns, rebuke that one; and if that one turns/realigns, release that one.","terms":[{"display":"release","source":"aphes","language":"Greek","glossary_id":"aphiemi"}],"tags":["release","metanoia","rebuke"]},
-    {"verse":4,"restored":"If seven times in the day that one sins/misaligns against you, and seven times turns back to you saying, I turn/realign, you shall release that one.","tags":["release","seven","turning"]},
-    {"verse":5,"restored":"The apostles said to the Lord, Add trust to us.","tags":["apostles","trust"]},
-    {"verse":6,"restored":"The Lord said, If you have trust like a mustard seed, you would say to this mulberry tree, Be uprooted and planted in the sea, and it would obey you.","tags":["mustard-seed","trust","tree"]},
-    {"verse":7,"restored":"Which of you, having a servant plowing or shepherding, who comes in from the field, will say to him, Come immediately and recline?","tags":["servant","field"]},
-    {"verse":8,"restored":"Will he not say to him, Prepare something for me to eat, gird yourself, and serve me until I eat and drink; afterward you will eat and drink?","tags":["service","meal"]},
-    {"verse":9,"restored":"Does he thank the servant because he did the things commanded?","tags":["servant","command"]},
-    {"verse":10,"restored":"So also you, when you have done all the things commanded you, say, We are unprofitable servants; what we were obligated to do, we have done.","tags":["humility","service"]},
-    {"verse":11,"restored":"It happened, as he was going to Jerusalem, that he was passing through the middle of Samaria and Galilee.","tags":["jerusalem","samaria","galilee"]},
-    {"verse":12,"restored":"As he entered a certain village, ten men with skin disease met him, standing at a distance.","tags":["ten","skin-disease","distance"]},
-    {"verse":13,"restored":"They lifted up their voices, saying, Jesus, Master, have mercy on us.","tags":["mercy","voice"]},
-    {"verse":14,"restored":"Seeing them, he said, Go show yourselves to the priests. And it happened, as they went, they were cleansed.","tags":["cleansing","priests"]},
-    {"verse":15,"restored":"One of them, seeing that he was healed, returned, glorifying the Divine with a great voice.","tags":["healing","return","glory"]},
-    {"verse":16,"restored":"He fell on his face at Jesus' feet, giving thanks to him; and he was a Samaritan.","tags":["samaritan","gratitude","feet"]},
-    {"verse":17,"restored":"Jesus answered, Were not ten cleansed? Where are the nine?","tags":["ten","nine"]},
-    {"verse":18,"restored":"Were none found returning to give glory to the Divine except this foreigner?","tags":["foreigner","glory"]},
-    {"verse":19,"restored":"He said to him, Rise and go; your trust has saved/healed you.","tags":["trust","sozo","rise"]},
-    {"verse":20,"restored":"Being questioned by the Pharisees when the reign of the Divine comes, he answered them, The reign of the Divine does not come with observable watching.","tags":["kingdom","pharisees"]},
-    {"verse":21,"restored":"Nor will they say, Look, here, or, There; for look, the reign of the Divine is within/among you.","terms":[{"display":"within/among you","source":"entos hymon","language":"Greek","glossary_id":"entos-hymon"}],"tags":["kingdom","within-among"]},
-    {"verse":22,"restored":"He said to the disciples, Days will come when you will desire to see one of the days of the Son of Humanity, and you will not see it.","tags":["son-of-humanity","days"]},
-    {"verse":23,"restored":"They will say to you, Look, there, or, Look, here. Do not go away or run after them.","tags":["warning","false-claims"]},
-    {"verse":24,"restored":"For just as lightning flashing lights up from one side under heaven to the other, so will the Son of Humanity be in his day.","tags":["lightning","son-of-humanity"]},
-    {"verse":25,"restored":"But first it is necessary for him to suffer many things and be rejected by this generation.","tags":["suffering","rejection"]},
-    {"verse":26,"restored":"Just as it happened in the days of Noah, so also it will be in the days of the Son of Humanity.","tags":["noah","son-of-humanity"]},
-    {"verse":27,"restored":"They were eating, drinking, marrying, and being given in marriage, until the day Noah entered the ark, and the flood came and destroyed them all.","tags":["noah","flood"]},
-    {"verse":28,"restored":"Likewise, just as it happened in the days of Lot: they were eating, drinking, buying, selling, planting, building.","tags":["lot","ordinary-life"]},
-    {"verse":29,"restored":"But on the day Lot went out from Sodom, fire and sulfur rained from heaven and destroyed them all.","tags":["sodom","judgment"]},
-    {"verse":30,"restored":"According to these things it will be on the day the Son of Humanity is revealed.","tags":["son-of-humanity","revealed"]},
-    {"verse":31,"restored":"On that day, let the one on the roof, with goods in the house, not go down to take them; likewise the one in the field must not turn back.","tags":["urgency","not-turn-back"]},
-    {"verse":32,"restored":"Remember Lot's wife.","tags":["lot-wife","memory"]},
-    {"verse":33,"restored":"Whoever seeks to preserve one's life/soul will lose it, and whoever loses it will keep it alive.","tags":["psyche","life"]},
-    {"verse":34,"restored":"I say to you, in that night two will be in one bed; one will be taken and the other left.","tags":["taken-left"]},
-    {"verse":35,"restored":"Two women will be grinding together; one will be taken and the other left.","tags":["taken-left"]},
-    {"verse":36,"restored":"[Some later manuscripts add: Two will be in a field; one will be taken and the other left.]","tags":["textual-variant"]},
-    {"verse":37,"restored":"Answering, they said to him, Where, Lord? He said to them, Where the body is, there also the vultures/eagles will be gathered.","tags":["body","vultures"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 17,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for stumbling, release/forgiveness, mustard trust, servant saying, ten lepers, Samaritan gratitude, reign within/among, and days of Son of Humanity."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "He said to his disciples, It is impossible for stumbling-blocks not to come, but woe to the one through whom they come.",
+      "tags": [
+        "stumbling",
+        "woe",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said he unto the disciples, It is impossible but that offences will come: but woe unto him, through whom they come!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "It would be better for that one if a millstone were hung around the neck and one were thrown into the sea than to cause one of these little ones to stumble.",
+      "tags": [
+        "little-ones",
+        "warning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It were better for him that a millstone were hanged about his neck, and he cast into the sea, than that he should offend one of these little ones."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Watch yourselves. If your sibling sins/misaligns, rebuke that one; and if that one turns/realigns, release that one.",
+      "terms": [
+        {
+          "display": "release",
+          "source": "aphes",
+          "language": "Greek",
+          "glossary_id": "aphiemi"
+        }
+      ],
+      "tags": [
+        "release",
+        "metanoia",
+        "rebuke"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed to yourselves: If thy brother trespass against thee, rebuke him; and if he repent, forgive him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "If seven times in the day that one sins/misaligns against you, and seven times turns back to you saying, I turn/realign, you shall release that one.",
+      "tags": [
+        "release",
+        "seven",
+        "turning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if he trespass against thee seven times in a day, and seven times in a day turn again to thee, saying, I repent; thou shalt forgive him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The apostles said to the Lord, Add trust to us.",
+      "tags": [
+        "apostles",
+        "trust",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the apostles said unto the Lord, Increase our faith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The Lord said, If you have trust like a mustard seed, you would say to this mulberry tree, Be uprooted and planted in the sea, and it would obey you.",
+      "tags": [
+        "mustard-seed",
+        "trust",
+        "tree"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord said, If ye had faith as a grain of mustard seed, ye might say unto this sycamine tree, Be thou plucked up by the root, and be thou planted in the sea; and it should obey you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Which of you, having a servant plowing or shepherding, who comes in from the field, will say to him, Come immediately and recline?",
+      "tags": [
+        "servant",
+        "field",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But which of you, having a servant plowing or feeding cattle, will say unto him by and by, when he is come from the field, Go and sit down to meat?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Will he not say to him, Prepare something for me to eat, gird yourself, and serve me until I eat and drink; afterward you will eat and drink?",
+      "tags": [
+        "service",
+        "meal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And will not rather say unto him, Make ready wherewith I may sup, and gird thyself, and serve me, till I have eaten and drunken; and afterward thou shalt eat and drink?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Does he thank the servant because he did the things commanded?",
+      "tags": [
+        "servant",
+        "command",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth he thank that servant because he did the things that were commanded him? I trow not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "So also you, when you have done all the things commanded you, say, We are unprofitable servants; what we were obligated to do, we have done.",
+      "tags": [
+        "humility",
+        "service",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So likewise ye, when ye shall have done all those things which are commanded you, say, We are unprofitable servants: we have done that which was our duty to do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "It happened, as he was going to Jerusalem, that he was passing through the middle of Samaria and Galilee.",
+      "tags": [
+        "jerusalem",
+        "samaria",
+        "galilee"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "As he entered a certain village, ten men with skin disease met him, standing at a distance.",
+      "tags": [
+        "ten",
+        "skin-disease",
+        "distance",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "They lifted up their voices, saying, Jesus, Master, have mercy on us.",
+      "tags": [
+        "mercy",
+        "voice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they lifted up their voices, and said, Jesus, Master, have mercy on us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Seeing them, he said, Go show yourselves to the priests. And it happened, as they went, they were cleansed.",
+      "tags": [
+        "cleansing",
+        "priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "One of them, seeing that he was healed, returned, glorifying the Divine with a great voice.",
+      "tags": [
+        "healing",
+        "return",
+        "glory",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He fell on his face at Jesus' feet, giving thanks to him; and he was a Samaritan.",
+      "tags": [
+        "samaritan",
+        "gratitude",
+        "feet"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And fell down on his face at his feet, giving him thanks: and he was a Samaritan."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Jesus answered, Were not ten cleansed? Where are the nine?",
+      "tags": [
+        "ten",
+        "nine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said, Were there not ten cleansed? but where are the nine?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Were none found returning to give glory to the Divine except this foreigner?",
+      "tags": [
+        "foreigner",
+        "glory",
+        "kingship-power",
+        "foreigner-migrant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There are not found that returned to give glory to God, save this stranger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He said to him, Rise and go; your trust has saved/healed you.",
+      "tags": [
+        "trust",
+        "sozo",
+        "rise",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Being questioned by the Pharisees when the reign of the Divine comes, he answered them, The reign of the Divine does not come with observable watching.",
+      "tags": [
+        "kingdom",
+        "pharisees",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was demanded of the Pharisees, when the kingdom of God should come, he answered them and said, The kingdom of God cometh not with observation:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Nor will they say, Look, here, or, There; for look, the reign of the Divine is within/among you.",
+      "terms": [
+        {
+          "display": "within/among you",
+          "source": "entos hymon",
+          "language": "Greek",
+          "glossary_id": "entos-hymon"
+        }
+      ],
+      "tags": [
+        "kingdom",
+        "within-among",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shall they say, Lo here! or, lo there! for, behold, the kingdom of God is within you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "He said to the disciples, Days will come when you will desire to see one of the days of the Son of Humanity, and you will not see it.",
+      "tags": [
+        "son-of-humanity",
+        "days",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto the disciples, The days will come, when ye shall desire to see one of the days of the Son of man, and ye shall not see it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They will say to you, Look, there, or, Look, here. Do not go away or run after them.",
+      "tags": [
+        "warning",
+        "false-claims"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall say to you, See here; or, see there: go not after them, nor follow them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For just as lightning flashing lights up from one side under heaven to the other, so will the Son of Humanity be in his day.",
+      "tags": [
+        "lightning",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the lightning, that lighteneth out of the one part under heaven, shineth unto the other part under heaven; so shall also the Son of man be in his day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But first it is necessary for him to suffer many things and be rejected by this generation.",
+      "tags": [
+        "suffering",
+        "rejection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But first must he suffer many things, and be rejected of this generation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Just as it happened in the days of Noah, so also it will be in the days of the Son of Humanity.",
+      "tags": [
+        "noah",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as it was in the days of Noe, so shall it be also in the days of the Son of man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "They were eating, drinking, marrying, and being given in marriage, until the day Noah entered the ark, and the flood came and destroyed them all.",
+      "tags": [
+        "noah",
+        "flood"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They did eat, they drank, they married wives, they were given in marriage, until the day that Noe entered into the ark, and the flood came, and destroyed them all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Likewise, just as it happened in the days of Lot: they were eating, drinking, buying, selling, planting, building.",
+      "tags": [
+        "lot",
+        "ordinary-life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise also as it was in the days of Lot; they did eat, they drank, they bought, they sold, they planted, they builded;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "But on the day Lot went out from Sodom, fire and sulfur rained from heaven and destroyed them all.",
+      "tags": [
+        "sodom",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the same day that Lot went out of Sodom it rained fire and brimstone from heaven, and destroyed them all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "According to these things it will be on the day the Son of Humanity is revealed.",
+      "tags": [
+        "son-of-humanity",
+        "revealed",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even thus shall it be in the day when the Son of man is revealed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "On that day, let the one on the roof, with goods in the house, not go down to take them; likewise the one in the field must not turn back.",
+      "tags": [
+        "urgency",
+        "not-turn-back"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In that day, he which shall be upon the housetop, and his stuff in the house, let him not come down to take it away: and he that is in the field, let him likewise not return back."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Remember Lot's wife.",
+      "tags": [
+        "lot-wife",
+        "memory",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember Lot’s wife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Whoever seeks to preserve one's life/soul will lose it, and whoever loses it will keep it alive.",
+      "tags": [
+        "psyche",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever shall seek to save his life shall lose it; and whosoever shall lose his life shall preserve it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "I say to you, in that night two will be in one bed; one will be taken and the other left.",
+      "tags": [
+        "taken-left"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I tell you, in that night there shall be two men in one bed; the one shall be taken, and the other shall be left."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Two women will be grinding together; one will be taken and the other left.",
+      "tags": [
+        "taken-left",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Two women shall be grinding together; the one shall be taken, and the other left."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "[Some later manuscripts add: Two will be in a field; one will be taken and the other left.]",
+      "tags": [
+        "textual-variant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Two men shall be in the field; the one shall be taken, and the other left."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Answering, they said to him, Where, Lord? He said to them, Where the body is, there also the vultures/eagles will be gathered.",
+      "tags": [
+        "body",
+        "vultures"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they answered and said unto him, Where, Lord? And he said unto them, Wheresoever the body is, thither will the eagles be gathered together."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-37",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-37",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

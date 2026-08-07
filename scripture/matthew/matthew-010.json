@@ -1,49 +1,805 @@
 {
-  "book":"Matthew","book_id":"matthew",
-  "chapter":10,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for mission discourse: twelve apostles, authority, Israel mission, freely received/freely give, hospitality, sheep among wolves, Spirit speech, endurance, fear not, Gehenna, sparrows, confession, sword/division, taking cross, losing/finding life, receiving emissaries."},
-  "verses":[
-    {"verse":1,"restored":"Calling his twelve disciples, he gave them authority over unclean spirits, to cast them out and to heal every disease and every weakness.","tags":["twelve","authority","healing"]},
-    {"verse":2,"restored":"The names of the twelve apostles are these: first Simon, called Peter, and Andrew his brother; James son of Zebedee and John his brother;","tags":["apostles","peter","andrew","james","john"]},
-    {"verse":3,"restored":"Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus and Thaddaeus;","tags":["apostles"]},
-    {"verse":4,"restored":"Simon the Cananaean/Zealot and Judas Iscariot, who also handed him over.","tags":["apostles","judas"]},
-    {"verse":5,"restored":"These twelve Jesus sent out, instructing them, saying, Do not go into a way of nations and do not enter a city of Samaritans,","tags":["mission","nations","samaritans"]},
-    {"verse":6,"restored":"but go rather to the lost sheep of the house of Israel.","tags":["israel","lost-sheep"]},
-    {"verse":7,"restored":"As you go, proclaim, saying, The reign of the heavens has drawn near.","tags":["proclamation","kingdom"]},
-    {"verse":8,"restored":"Heal the sick, raise the dead, cleanse those with skin disease, cast out unclean spirits. Freely you received; freely give.","tags":["healing","freely-give"]},
-    {"verse":9,"restored":"Do not acquire gold, silver, or copper in your belts,","tags":["simplicity","money"]},
-    {"verse":10,"restored":"no bag for the way, nor two tunics, sandals, or staff; for the worker is worthy of his food.","tags":["mission","worker"]},
-    {"verse":11,"restored":"Whatever city or village you enter, inquire who in it is worthy, and remain there until you leave.","tags":["hospitality","mission"]},
-    {"verse":12,"restored":"Entering the house, greet it.","tags":["house","peace"]},
-    {"verse":13,"restored":"If the house is worthy, let your peace come upon it; but if it is not worthy, let your peace return to you.","tags":["peace","hospitality"]},
-    {"verse":14,"restored":"Whoever does not receive you or hear your words, as you go out of that house or city, shake off the dust from your feet.","tags":["dust","rejection"]},
-    {"verse":15,"restored":"Amen, I say to you: it will be more bearable for the land of Sodom and Gomorrah in the day of judgment than for that city.","tags":["sodom","judgment"]},
-    {"verse":16,"restored":"Look, I send you out as sheep in the midst of wolves; therefore become wise as serpents and unmixed/innocent as doves.","tags":["sheep","wolves","wisdom","doves"]},
-    {"verse":17,"restored":"Beware of people, for they will hand you over to councils and flog you in their synagogues.","tags":["persecution","councils"]},
-    {"verse":18,"restored":"You will be brought before governors and kings because of me, as a testimony to them and to the nations.","tags":["testimony","nations"]},
-    {"verse":19,"restored":"When they hand you over, do not worry about how or what you should speak, for what you should speak will be given to you in that hour.","tags":["speech","spirit"]},
-    {"verse":20,"restored":"For it is not you speaking, but the Spirit of your Father speaking in you.","tags":["spirit","father","speech"]},
-    {"verse":21,"restored":"Brother will hand over brother, and father child; children will rise up against parents and bring about their death.","tags":["division","family"]},
-    {"verse":22,"restored":"You will be hated by all because of my name, but the one enduring to the end will be saved.","tags":["endurance","name","saved"]},
-    {"verse":23,"restored":"When they persecute you in this city, flee to the next; for amen, I say to you, you will not finish the cities of Israel until the Son of Humanity comes.","tags":["persecution","israel","son-of-humanity"]},
-    {"verse":24,"restored":"A disciple is not above the teacher, nor a servant above the lord.","tags":["disciple","teacher"]},
-    {"verse":25,"restored":"It is enough for the disciple to become like the teacher, and the servant like the lord. If they called the master of the house Beelzebul, how much more the members of his household.","tags":["teacher","household","beelzebul"]},
-    {"verse":26,"restored":"Therefore do not fear them; for nothing is covered that will not be unveiled, and hidden that will not be known.","tags":["fear-not","unveiling"]},
-    {"verse":27,"restored":"What I tell you in darkness, speak in light; and what you hear in the ear, proclaim on the rooftops.","tags":["darkness","light","proclamation"]},
-    {"verse":28,"restored":"Do not fear those who kill the body but cannot kill the soul; rather fear the one able to destroy both soul and body in Gehenna.","tags":["body","soul","gehenna"]},
-    {"verse":29,"restored":"Are not two sparrows sold for an assarion? Yet not one of them falls to the earth apart from your Father.","tags":["sparrows","father"]},
-    {"verse":30,"restored":"Even the hairs of your head are all numbered.","tags":["care","head"]},
-    {"verse":31,"restored":"Therefore do not fear; you are worth more than many sparrows.","tags":["fear-not","worth"]},
-    {"verse":32,"restored":"Everyone who confesses me before people, I also will confess before my Father in the heavens.","tags":["confession","father"]},
-    {"verse":33,"restored":"Whoever denies me before people, I also will deny before my Father in the heavens.","tags":["denial","father"]},
-    {"verse":34,"restored":"Do not think that I came to bring peace on the earth; I did not come to bring peace but a sword.","tags":["division","sword"]},
-    {"verse":35,"restored":"For I came to divide a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law.","tags":["family","division"]},
-    {"verse":36,"restored":"A person's enemies will be members of his own household.","tags":["household","conflict"]},
-    {"verse":37,"restored":"The one loving father or mother more than me is not worthy of me, and the one loving son or daughter more than me is not worthy of me.","tags":["love","discipleship"]},
-    {"verse":38,"restored":"Whoever does not take his cross and follow after me is not worthy of me.","tags":["cross","following"]},
-    {"verse":39,"restored":"The one finding his life/soul will lose it, and the one losing his life/soul because of me will find it.","terms":[{"display":"life/soul","source":"psyche","language":"Greek","glossary_id":"psyche"}],"tags":["life","soul","discipleship"]},
-    {"verse":40,"restored":"The one receiving you receives me, and the one receiving me receives the One who sent me.","tags":["receiving","sending"]},
-    {"verse":41,"restored":"The one receiving a prophet in the name of a prophet will receive a prophet's reward, and the one receiving a righteous person in the name of a righteous person will receive a righteous person's reward.","tags":["prophet","reward"]},
-    {"verse":42,"restored":"Whoever gives one of these little ones only a cup of cold water in the name of a disciple, amen, I say to you, he will certainly not lose his reward.","tags":["little-ones","water","reward"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 10,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for mission discourse: twelve apostles, authority, Israel mission, freely received/freely give, hospitality, sheep among wolves, Spirit speech, endurance, fear not, Gehenna, sparrows, confession, sword/division, taking cross, losing/finding life, receiving emissaries."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Calling his twelve disciples, he gave them authority over unclean spirits, to cast them out and to heal every disease and every weakness.",
+      "tags": [
+        "twelve",
+        "authority",
+        "healing",
+        "religious-authority",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had called unto him his twelve disciples, he gave them power against unclean spirits, to cast them out, and to heal all manner of sickness and all manner of disease."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "The names of the twelve apostles are these: first Simon, called Peter, and Andrew his brother; James son of Zebedee and John his brother;",
+      "tags": [
+        "apostles",
+        "peter",
+        "andrew",
+        "james",
+        "john",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the names of the twelve apostles are these; The first, Simon, who is called Peter, and Andrew his brother; James the son of Zebedee, and John his brother;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Philip and Bartholomew; Thomas and Matthew the tax collector; James son of Alphaeus and Thaddaeus;",
+      "tags": [
+        "apostles",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Philip, and Bartholomew; Thomas, and Matthew the publican; James the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Simon the Cananaean/Zealot and Judas Iscariot, who also handed him over.",
+      "tags": [
+        "apostles",
+        "judas"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Simon the Canaanite, and Judas Iscariot, who also betrayed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "These twelve Jesus sent out, instructing them, saying, Do not go into a way of nations and do not enter a city of Samaritans,",
+      "tags": [
+        "mission",
+        "nations",
+        "samaritans"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "These twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "but go rather to the lost sheep of the house of Israel.",
+      "tags": [
+        "israel",
+        "lost-sheep"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But go rather to the lost sheep of the house of Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "As you go, proclaim, saying, The reign of the heavens has drawn near.",
+      "tags": [
+        "proclamation",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as ye go, preach, saying, The kingdom of heaven is at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Heal the sick, raise the dead, cleanse those with skin disease, cast out unclean spirits. Freely you received; freely give.",
+      "tags": [
+        "healing",
+        "freely-give",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Heal the sick, cleanse the lepers, raise the dead, cast out devils: freely ye have received, freely give."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Do not acquire gold, silver, or copper in your belts,",
+      "tags": [
+        "simplicity",
+        "money"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Provide neither gold, nor silver, nor brass in your purses,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "no bag for the way, nor two tunics, sandals, or staff; for the worker is worthy of his food.",
+      "tags": [
+        "mission",
+        "worker"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Nor scrip for your journey, neither two coats, neither shoes, nor yet staves: for the workman is worthy of his meat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Whatever city or village you enter, inquire who in it is worthy, and remain there until you leave.",
+      "tags": [
+        "hospitality",
+        "mission"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And into whatsoever city or town ye shall enter, enquire who in it is worthy; and there abide till ye go thence."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Entering the house, greet it.",
+      "tags": [
+        "house",
+        "peace"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when ye come into an house, salute it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "If the house is worthy, let your peace come upon it; but if it is not worthy, let your peace return to you.",
+      "tags": [
+        "peace",
+        "hospitality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the house be worthy, let your peace come upon it: but if it be not worthy, let your peace return to you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Whoever does not receive you or hear your words, as you go out of that house or city, shake off the dust from your feet.",
+      "tags": [
+        "dust",
+        "rejection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever shall not receive you, nor hear your words, when ye depart out of that house or city, shake off the dust of your feet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Amen, I say to you: it will be more bearable for the land of Sodom and Gomorrah in the day of judgment than for that city.",
+      "tags": [
+        "sodom",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, It shall be more tolerable for the land of Sodom and Gomorrha in the day of judgment, than for that city."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Look, I send you out as sheep in the midst of wolves; therefore become wise as serpents and unmixed/innocent as doves.",
+      "tags": [
+        "sheep",
+        "wolves",
+        "wisdom",
+        "doves"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I send you forth as sheep in the midst of wolves: be ye therefore wise as serpents, and harmless as doves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Beware of people, for they will hand you over to councils and flog you in their synagogues.",
+      "tags": [
+        "persecution",
+        "councils",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But beware of men: for they will deliver you up to the councils, and they will scourge you in their synagogues;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "You will be brought before governors and kings because of me, as a testimony to them and to the nations.",
+      "tags": [
+        "testimony",
+        "nations",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall be brought before governors and kings for my sake, for a testimony against them and the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "When they hand you over, do not worry about how or what you should speak, for what you should speak will be given to you in that hour.",
+      "tags": [
+        "speech",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when they deliver you up, take no thought how or what ye shall speak: for it shall be given you in that same hour what ye shall speak."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For it is not you speaking, but the Spirit of your Father speaking in you.",
+      "tags": [
+        "spirit",
+        "father",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is not ye that speak, but the Spirit of your Father which speaketh in you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Brother will hand over brother, and father child; children will rise up against parents and bring about their death.",
+      "tags": [
+        "division",
+        "family",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the brother shall deliver up the brother to death, and the father the child: and the children shall rise up against their parents, and cause them to be put to death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "You will be hated by all because of my name, but the one enduring to the end will be saved.",
+      "tags": [
+        "endurance",
+        "name",
+        "saved"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall be hated of all men for my name’s sake: but he that endureth to the end shall be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "When they persecute you in this city, flee to the next; for amen, I say to you, you will not finish the cities of Israel until the Son of Humanity comes.",
+      "tags": [
+        "persecution",
+        "israel",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when they persecute you in this city, flee ye into another: for verily I say unto you, Ye shall not have gone over the cities of Israel, till the Son of man be come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "A disciple is not above the teacher, nor a servant above the lord.",
+      "tags": [
+        "disciple",
+        "teacher",
+        "religious-authority",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The disciple is not above his master, nor the servant above his lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "It is enough for the disciple to become like the teacher, and the servant like the lord. If they called the master of the house Beelzebul, how much more the members of his household.",
+      "tags": [
+        "teacher",
+        "household",
+        "beelzebul",
+        "religious-authority",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is enough for the disciple that he be as his master, and the servant as his lord. If they have called the master of the house Beelzebub, how much more shall they call them of his household?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Therefore do not fear them; for nothing is covered that will not be unveiled, and hidden that will not be known.",
+      "tags": [
+        "fear-not",
+        "unveiling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Fear them not therefore: for there is nothing covered, that shall not be revealed; and hid, that shall not be known."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "What I tell you in darkness, speak in light; and what you hear in the ear, proclaim on the rooftops.",
+      "tags": [
+        "darkness",
+        "light",
+        "proclamation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What I tell you in darkness, that speak ye in light: and what ye hear in the ear, that preach ye upon the housetops."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Do not fear those who kill the body but cannot kill the soul; rather fear the one able to destroy both soul and body in Gehenna.",
+      "tags": [
+        "body",
+        "soul",
+        "gehenna",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And fear not them which kill the body, but are not able to kill the soul: but rather fear him which is able to destroy both soul and body in hell."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Are not two sparrows sold for an assarion? Yet not one of them falls to the earth apart from your Father.",
+      "tags": [
+        "sparrows",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Are not two sparrows sold for a farthing? and one of them shall not fall on the ground without your Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Even the hairs of your head are all numbered.",
+      "tags": [
+        "care",
+        "head"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the very hairs of your head are all numbered."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Therefore do not fear; you are worth more than many sparrows.",
+      "tags": [
+        "fear-not",
+        "worth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Fear ye not therefore, ye are of more value than many sparrows."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Everyone who confesses me before people, I also will confess before my Father in the heavens.",
+      "tags": [
+        "confession",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever therefore shall confess me before men, him will I confess also before my Father which is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Whoever denies me before people, I also will deny before my Father in the heavens.",
+      "tags": [
+        "denial",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But whosoever shall deny me before men, him will I also deny before my Father which is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Do not think that I came to bring peace on the earth; I did not come to bring peace but a sword.",
+      "tags": [
+        "division",
+        "sword",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Think not that I am come to send peace on earth: I came not to send peace, but a sword."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "For I came to divide a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law.",
+      "tags": [
+        "family",
+        "division",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I am come to set a man at variance against his father, and the daughter against her mother, and the daughter in law against her mother in law."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "A person's enemies will be members of his own household.",
+      "tags": [
+        "household",
+        "conflict",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a man’s foes shall be they of his own household."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "The one loving father or mother more than me is not worthy of me, and the one loving son or daughter more than me is not worthy of me.",
+      "tags": [
+        "love",
+        "discipleship",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that loveth father or mother more than me is not worthy of me: and he that loveth son or daughter more than me is not worthy of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 38,
+      "restored": "Whoever does not take his cross and follow after me is not worthy of me.",
+      "tags": [
+        "cross",
+        "following"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that taketh not his cross, and followeth after me, is not worthy of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "The one finding his life/soul will lose it, and the one losing his life/soul because of me will find it.",
+      "terms": [
+        {
+          "display": "life/soul",
+          "source": "psyche",
+          "language": "Greek",
+          "glossary_id": "psyche"
+        }
+      ],
+      "tags": [
+        "life",
+        "soul",
+        "discipleship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that findeth his life shall lose it: and he that loseth his life for my sake shall find it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "The one receiving you receives me, and the one receiving me receives the One who sent me.",
+      "tags": [
+        "receiving",
+        "sending"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that receiveth you receiveth me, and he that receiveth me receiveth him that sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "The one receiving a prophet in the name of a prophet will receive a prophet's reward, and the one receiving a righteous person in the name of a righteous person will receive a righteous person's reward.",
+      "tags": [
+        "prophet",
+        "reward",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that receiveth a prophet in the name of a prophet shall receive a prophet’s reward; and he that receiveth a righteous man in the name of a righteous man shall receive a righteous man’s reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 42,
+      "restored": "Whoever gives one of these little ones only a cup of cold water in the name of a disciple, amen, I say to you, he will certainly not lose his reward.",
+      "tags": [
+        "little-ones",
+        "water",
+        "reward",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever shall give to drink unto one of these little ones a cup of cold water only in the name of a disciple, verily I say unto you, he shall in no wise lose his reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-42",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-42",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

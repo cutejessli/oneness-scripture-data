@@ -1,28 +1,398 @@
 {
-  "book":"Job","book_id":"job","chapter":14,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's meditation on human mortality: flower/shadow imagery, clean/unclean question, limits of days, tree hope, Sheol concealment, longing for renewal, and erosion imagery."},
-  "verses":[
-    {"verse":1,"restored":"A human born of woman is short of days and full of trouble.","tags":["human","mortality","trouble"]},
-    {"verse":2,"restored":"He comes out like a flower and withers; he flees like a shadow and does not stand.","tags":["flower","shadow","mortality"]},
-    {"verse":3,"restored":"Do you open your eyes on such a one and bring me into judgment with you?","tags":["judgment","eyes"]},
-    {"verse":4,"restored":"Who can bring a clean thing out of an unclean? Not one.","tags":["clean","unclean"]},
-    {"verse":5,"restored":"Since his days are determined, the number of his months is with you; you have set his limits, and he cannot pass them.","tags":["limits","days"]},
-    {"verse":6,"restored":"Look away from him, that he may rest, until he enjoys like a hired worker his day.","tags":["rest","hired-worker"]},
-    {"verse":7,"restored":"For there is hope for a tree: if it is cut down, it will sprout again, and its shoot will not cease.","tags":["tree","hope","renewal"]},
-    {"verse":8,"restored":"Though its root grows old in the earth and its stump dies in the dust,","tags":["root","dust"]},
-    {"verse":9,"restored":"at the scent of water it will bud and make branches like a young plant.","tags":["water","branches","renewal"]},
-    {"verse":10,"restored":"But a strong man dies and lies low; a human expires, and where is he?","tags":["death","question"]},
-    {"verse":11,"restored":"Waters fail from a sea, and a river wastes away and dries up;","tags":["waters","dryness"]},
-    {"verse":12,"restored":"so a man lies down and does not rise; until the heavens are no more, they will not awake or be roused from their sleep.","tags":["sleep","heavens","death"]},
-    {"verse":13,"restored":"If only you would hide me in Sheol, conceal me until your anger turns back, set a fixed time for me, and remember me!","tags":["sheol","remember","anger"]},
-    {"verse":14,"restored":"If a strong man dies, will he live again? All the days of my hard service I would wait, until my change comes.","tags":["renewal","waiting","service"]},
-    {"verse":15,"restored":"You would call, and I would answer you; you would long for the work of your hands.","tags":["call-answer","hands","longing"]},
-    {"verse":16,"restored":"For then you would count my steps; you would not keep watch over my sin.","tags":["steps","sin"]},
-    {"verse":17,"restored":"My transgression would be sealed in a bag, and you would plaster over my guilt.","tags":["transgression","guilt","covering"]},
-    {"verse":18,"restored":"But a mountain falling crumbles, and a rock is moved from its place;","tags":["mountain","rock"]},
-    {"verse":19,"restored":"waters wear away stones; floods wash away the dust of the earth; so you destroy the hope of a mortal.","tags":["waters","hope","mortality"]},
-    {"verse":20,"restored":"You overpower him forever, and he passes; you change his face and send him away.","tags":["face","mortality"]},
-    {"verse":21,"restored":"His children are honored, but he does not know it; they are brought low, but he does not perceive them.","tags":["children","unknowing"]},
-    {"verse":22,"restored":"Only his flesh pains him, and his soul mourns over him.","tags":["flesh","soul","mourning"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 14,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's meditation on human mortality: flower/shadow imagery, clean/unclean question, limits of days, tree hope, Sheol concealment, longing for renewal, and erosion imagery."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "A human born of woman is short of days and full of trouble.",
+      "tags": [
+        "human",
+        "mortality",
+        "trouble",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Man that is born of a woman is of few days, and full of trouble."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He comes out like a flower and withers; he flees like a shadow and does not stand.",
+      "tags": [
+        "flower",
+        "shadow",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Do you open your eyes on such a one and bring me into judgment with you?",
+      "tags": [
+        "judgment",
+        "eyes"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And dost thou open thine eyes upon such an one, and bringest me into judgment with thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Who can bring a clean thing out of an unclean? Not one.",
+      "tags": [
+        "clean",
+        "unclean"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who can bring a clean thing out of an unclean? not one."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Since his days are determined, the number of his months is with you; you have set his limits, and he cannot pass them.",
+      "tags": [
+        "limits",
+        "days"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Seeing his days are determined, the number of his months are with thee, thou hast appointed his bounds that he cannot pass;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Look away from him, that he may rest, until he enjoys like a hired worker his day.",
+      "tags": [
+        "rest",
+        "hired-worker"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Turn from him, that he may rest, till he shall accomplish, as an hireling, his day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For there is hope for a tree: if it is cut down, it will sprout again, and its shoot will not cease.",
+      "tags": [
+        "tree",
+        "hope",
+        "renewal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For there is hope of a tree, if it be cut down, that it will sprout again, and that the tender branch thereof will not cease."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Though its root grows old in the earth and its stump dies in the dust,",
+      "tags": [
+        "root",
+        "dust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though the root thereof wax old in the earth, and the stock thereof die in the ground;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "at the scent of water it will bud and make branches like a young plant.",
+      "tags": [
+        "water",
+        "branches",
+        "renewal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet through the scent of water it will bud, and bring forth boughs like a plant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "But a strong man dies and lies low; a human expires, and where is he?",
+      "tags": [
+        "death",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But man dieth, and wasteth away: yea, man giveth up the ghost, and where is he?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Waters fail from a sea, and a river wastes away and dries up;",
+      "tags": [
+        "waters",
+        "dryness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As the waters fail from the sea, and the flood decayeth and drieth up:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "so a man lies down and does not rise; until the heavens are no more, they will not awake or be roused from their sleep.",
+      "tags": [
+        "sleep",
+        "heavens",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "If only you would hide me in Sheol, conceal me until your anger turns back, set a fixed time for me, and remember me!",
+      "tags": [
+        "sheol",
+        "remember",
+        "anger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "O that thou wouldest hide me in the grave, that thou wouldest keep me secret, until thy wrath be past, that thou wouldest appoint me a set time, and remember me!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "If a strong man dies, will he live again? All the days of my hard service I would wait, until my change comes.",
+      "tags": [
+        "renewal",
+        "waiting",
+        "service"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man die, shall he live again? all the days of my appointed time will I wait, till my change come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "You would call, and I would answer you; you would long for the work of your hands.",
+      "tags": [
+        "call-answer",
+        "hands",
+        "longing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt call, and I will answer thee: thou wilt have a desire to the work of thine hands."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For then you would count my steps; you would not keep watch over my sin.",
+      "tags": [
+        "steps",
+        "sin"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For now thou numberest my steps: dost thou not watch over my sin?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "My transgression would be sealed in a bag, and you would plaster over my guilt.",
+      "tags": [
+        "transgression",
+        "guilt",
+        "covering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My transgression is sealed up in a bag, and thou sewest up mine iniquity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But a mountain falling crumbles, and a rock is moved from its place;",
+      "tags": [
+        "mountain",
+        "rock"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And surely the mountain falling cometh to nought, and the rock is removed out of his place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "waters wear away stones; floods wash away the dust of the earth; so you destroy the hope of a mortal.",
+      "tags": [
+        "waters",
+        "hope",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The waters wear the stones: thou washest away the things which grow out of the dust of the earth; and thou destroyest the hope of man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "You overpower him forever, and he passes; you change his face and send him away.",
+      "tags": [
+        "face",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou prevailest for ever against him, and he passeth: thou changest his countenance, and sendest him away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "His children are honored, but he does not know it; they are brought low, but he does not perceive them.",
+      "tags": [
+        "children",
+        "unknowing",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His sons come to honour, and he knoweth it not; and they are brought low, but he perceiveth it not of them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Only his flesh pains him, and his soul mourns over him.",
+      "tags": [
+        "flesh",
+        "soul",
+        "mourning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But his flesh upon him shall have pain, and his soul within him shall mourn."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-22",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

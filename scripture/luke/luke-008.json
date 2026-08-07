@@ -1,64 +1,1026 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":8,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for women supporters, sower, lamp, family redefinition, storm calming, Gerasene release, Jairus, hemorrhaging woman, and daughter's raising."},
-  "verses":[
-    {"verse":1,"restored":"Soon afterward he traveled through cities and villages, proclaiming and announcing the good news of the reign of the Divine; the twelve were with him,","tags":["proclamation","kingdom","twelve"]},
-    {"verse":2,"restored":"and certain women who had been healed from harmful spirits and weaknesses: Mary called Magdalene, from whom seven unclean spirits had gone out,","tags":["women","mary-magdalene","healing"]},
-    {"verse":3,"restored":"Joanna wife of Chuza, Herod's steward, Susanna, and many others, who were serving them from their resources.","tags":["joanna","susanna","women","resources"]},
-    {"verse":4,"restored":"When a great crowd was gathering and people from city after city came to him, he spoke through a parable.","tags":["crowd","parable"]},
-    {"verse":5,"restored":"The sower went out to sow his seed. As he sowed, some fell beside the way and was trampled, and the birds of heaven devoured it.","tags":["sower","seed","way"]},
-    {"verse":6,"restored":"Other seed fell on rock, and growing up it withered because it had no moisture.","tags":["rock","seed"]},
-    {"verse":7,"restored":"Other seed fell in the middle of thorns, and the thorns grew with it and choked it.","tags":["thorns","seed"]},
-    {"verse":8,"restored":"Other seed fell into beautiful/good earth, and growing, it made fruit a hundredfold. Saying these things, he called out, Whoever has ears to hear, let that one hear.","tags":["good-soil","fruit","hearing"]},
-    {"verse":9,"restored":"His disciples questioned him about what this parable might be.","tags":["disciples","parable"]},
-    {"verse":10,"restored":"He said, To you it has been given to know the mysteries of the reign of the Divine, but to the rest in parables, so that seeing they may not see, and hearing they may not understand.","tags":["mysteries","kingdom","seeing","hearing"]},
-    {"verse":11,"restored":"This is the parable: the seed is the word of the Divine.","tags":["seed","word"]},
-    {"verse":12,"restored":"Those beside the way are the ones who hear; then the adversarial one comes and takes away the word from their heart, so that they may not trust and be saved/healed.","tags":["heart","trust","sozo"]},
-    {"verse":13,"restored":"Those on the rock are the ones who, when they hear, receive the word with joy; these have no root, who trust for a season and in time of testing fall away.","tags":["root","joy","testing"]},
-    {"verse":14,"restored":"What fell into thorns, these are the ones who hear, and as they go are choked by worries, wealth, and pleasures of life, and do not bring fruit to completion.","tags":["thorns","wealth","fruit"]},
-    {"verse":15,"restored":"What fell in beautiful/good earth, these are the ones who, hearing the word in a beautiful/good and noble heart, hold it fast and bear fruit in endurance.","tags":["good-soil","heart","endurance"]},
-    {"verse":16,"restored":"No one lighting a lamp covers it with a vessel or puts it under a bed, but places it on a lampstand, so those entering may see the light.","tags":["lamp","light"]},
-    {"verse":17,"restored":"For nothing hidden will not become visible, nor secret that will not be known and come into the open.","tags":["hidden","revealed"]},
-    {"verse":18,"restored":"Therefore watch how you hear; for whoever has, more will be given, and whoever does not have, even what one thinks one has will be taken away.","tags":["hearing","measure"]},
-    {"verse":19,"restored":"His mother and brothers came to him and were not able to meet him because of the crowd.","tags":["mother","brothers","crowd"]},
-    {"verse":20,"restored":"It was reported to him, Your mother and your brothers are standing outside wanting to see you.","tags":["family"]},
-    {"verse":21,"restored":"He answered them, My mother and my brothers are those who hear the word of the Divine and do it.","tags":["family","hearing","doing"]},
-    {"verse":22,"restored":"One day he entered a boat with his disciples and said to them, Let us cross over to the other side of the lake. They set sail.","tags":["boat","crossing"]},
-    {"verse":23,"restored":"As they sailed, he fell asleep. A windstorm came down on the lake, and they were filling with water and were in danger.","tags":["storm","sleep","danger"]},
-    {"verse":24,"restored":"They came and woke him, saying, Master, Master, we are perishing. He woke and rebuked the wind and the surge of water; they ceased, and there was calm.","tags":["rebuke","calm"]},
-    {"verse":25,"restored":"He said to them, Where is your trust? Being afraid, they marveled, saying to one another, Who then is this, that he commands even winds and water, and they obey him?","tags":["trust","wind","water"]},
-    {"verse":26,"restored":"They sailed down to the region of the Gerasenes, which is opposite Galilee.","tags":["gerasenes","galilee"]},
-    {"verse":27,"restored":"When he came out onto the land, a man from the city met him who had unclean spirits; for a long time he had worn no garment and did not remain in a house but among tombs.","tags":["unclean-spirits","tombs"]},
-    {"verse":28,"restored":"Seeing Jesus, he cried out, fell before him, and said with a great voice, What to me and to you, Jesus, Son of the Most High Divine? I beg you, do not torment me.","tags":["son-most-high","recognition"]},
-    {"verse":29,"restored":"For Jesus had commanded the unclean spirit to come out from the man. Many times it had seized him; he had been guarded, bound with chains and shackles, yet breaking the bonds, he was driven by the troubling force into deserted places.","tags":["release","chains","deserted-places"]},
-    {"verse":30,"restored":"Jesus asked him, What is your name? He said, Legion, because many unclean spirits had entered him.","tags":["legion","name"]},
-    {"verse":31,"restored":"They pleaded with him that he would not command them to go away into the abyss.","tags":["pleading","abyss"]},
-    {"verse":32,"restored":"A considerable herd of pigs was feeding there on the mountain; they pleaded that he would permit them to enter those. He permitted them.","tags":["pigs","mountain"]},
-    {"verse":33,"restored":"The unclean spirits came out from the man and entered the pigs, and the herd rushed down the steep bank into the lake and was drowned.","tags":["release","pigs","lake"]},
-    {"verse":34,"restored":"Those feeding them, seeing what had happened, fled and reported it in the city and in the fields.","tags":["report","city"]},
-    {"verse":35,"restored":"They went out to see what had happened and came to Jesus; they found the man from whom the unclean spirits had gone out, clothed and sound-minded, sitting at Jesus' feet, and they were afraid.","tags":["restoration","clothed","sound-minded"]},
-    {"verse":36,"restored":"Those who had seen reported to them how the one troubled by unclean spirits was saved/healed.","tags":["report","sozo"]},
-    {"verse":37,"restored":"All the multitude of the surrounding Gerasene region asked him to depart from them, because they were held by great fear. Entering the boat, he returned.","tags":["fear","departure"]},
-    {"verse":38,"restored":"The man from whom the spirits had gone out begged to be with him, but Jesus sent him away, saying,","tags":["following","sending"]},
-    {"verse":39,"restored":"Return to your house and describe how much the Divine has done for you. He went away, proclaiming through the whole city how much Jesus had done for him.","tags":["witness","house","proclamation"]},
-    {"verse":40,"restored":"When Jesus returned, the crowd welcomed him, for they were all waiting for him.","tags":["return","crowd"]},
-    {"verse":41,"restored":"Look, a man named Jairus came, and he was a ruler of the synagogue. Falling at Jesus' feet, he pleaded with him to come to his house,","tags":["jairus","synagogue","feet"]},
-    {"verse":42,"restored":"because he had an only daughter, about twelve years old, and she was dying. As he went, the crowds were pressing around him.","tags":["daughter","twelve","crowd"]},
-    {"verse":43,"restored":"A woman with a flow of blood for twelve years, who had spent all her living on physicians and was not able to be healed by anyone,","tags":["woman","blood","twelve"]},
-    {"verse":44,"restored":"came behind and touched the fringe of his garment; immediately the flow of her blood stopped.","tags":["touch","fringe","immediately"]},
-    {"verse":45,"restored":"Jesus said, Who touched me? When all denied it, Peter said, Master, the crowds surround you and press in.","tags":["touch","peter"]},
-    {"verse":46,"restored":"But Jesus said, Someone touched me, for I knew power had gone out from me.","tags":["power","touch"]},
-    {"verse":47,"restored":"The woman, seeing that she was not hidden, came trembling; falling before him, she declared before all the people why she had touched him and how she was immediately healed.","tags":["woman","truth","healing"]},
-    {"verse":48,"restored":"He said to her, Daughter, your trust has saved/healed you; go into peace.","tags":["daughter","trust","sozo","peace"]},
-    {"verse":49,"restored":"While he was still speaking, someone comes from the synagogue ruler's house, saying, Your daughter has died; trouble the teacher no more.","tags":["daughter","death"]},
-    {"verse":50,"restored":"Jesus, hearing, answered him, Do not fear; only trust, and she will be saved/healed.","tags":["fear-not","trust","sozo"]},
-    {"verse":51,"restored":"Coming to the house, he did not allow anyone to enter with him except Peter, John, James, and the child's father and mother.","tags":["house","peter","john","james"]},
-    {"verse":52,"restored":"All were weeping and mourning for her. He said, Do not weep, for she has not died but sleeps.","tags":["weeping","sleep"]},
-    {"verse":53,"restored":"They laughed at him, knowing that she had died.","tags":["laughter","death"]},
-    {"verse":54,"restored":"Taking her by the hand, he called out, Child, rise.","tags":["hand","rise"]},
-    {"verse":55,"restored":"Her spirit returned, and she rose immediately. He ordered that something be given her to eat.","tags":["spirit","immediately","food"]},
-    {"verse":56,"restored":"Her parents were astonished, but he instructed them to tell no one what had happened.","tags":["parents","astonishment","silence"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for women supporters, sower, lamp, family redefinition, storm calming, Gerasene release, Jairus, hemorrhaging woman, and daughter's raising."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Soon afterward he traveled through cities and villages, proclaiming and announcing the good news of the reign of the Divine; the twelve were with him,",
+      "tags": [
+        "proclamation",
+        "kingdom",
+        "twelve",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass afterward, that he went throughout every city and village, preaching and shewing the glad tidings of the kingdom of God: and the twelve were with him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "and certain women who had been healed from harmful spirits and weaknesses: Mary called Magdalene, from whom seven unclean spirits had gone out,",
+      "tags": [
+        "women",
+        "mary-magdalene",
+        "healing",
+        "women-gender",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And certain women, which had been healed of evil spirits and infirmities, Mary called Magdalene, out of whom went seven devils,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Joanna wife of Chuza, Herod's steward, Susanna, and many others, who were serving them from their resources.",
+      "tags": [
+        "joanna",
+        "susanna",
+        "women",
+        "resources",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joanna the wife of Chuza Herod’s steward, and Susanna, and many others, which ministered unto him of their substance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "When a great crowd was gathering and people from city after city came to him, he spoke through a parable.",
+      "tags": [
+        "crowd",
+        "parable"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when much people were gathered together, and were come to him out of every city, he spake by a parable:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The sower went out to sow his seed. As he sowed, some fell beside the way and was trampled, and the birds of heaven devoured it.",
+      "tags": [
+        "sower",
+        "seed",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "A sower went out to sow his seed: and as he sowed, some fell by the way side; and it was trodden down, and the fowls of the air devoured it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Other seed fell on rock, and growing up it withered because it had no moisture.",
+      "tags": [
+        "rock",
+        "seed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some fell upon a rock; and as soon as it was sprung up, it withered away, because it lacked moisture."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Other seed fell in the middle of thorns, and the thorns grew with it and choked it.",
+      "tags": [
+        "thorns",
+        "seed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some fell among thorns; and the thorns sprang up with it, and choked it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Other seed fell into beautiful/good earth, and growing, it made fruit a hundredfold. Saying these things, he called out, Whoever has ears to hear, let that one hear.",
+      "tags": [
+        "good-soil",
+        "fruit",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And other fell on good ground, and sprang up, and bare fruit an hundredfold. And when he had said these things, he cried, He that hath ears to hear, let him hear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "His disciples questioned him about what this parable might be.",
+      "tags": [
+        "disciples",
+        "parable",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his disciples asked him, saying, What might this parable be?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He said, To you it has been given to know the mysteries of the reign of the Divine, but to the rest in parables, so that seeing they may not see, and hearing they may not understand.",
+      "tags": [
+        "mysteries",
+        "kingdom",
+        "seeing",
+        "hearing",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Unto you it is given to know the mysteries of the kingdom of God: but to others in parables; that seeing they might not see, and hearing they might not understand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "This is the parable: the seed is the word of the Divine.",
+      "tags": [
+        "seed",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the parable is this: The seed is the word of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Those beside the way are the ones who hear; then the adversarial one comes and takes away the word from their heart, so that they may not trust and be saved/healed.",
+      "tags": [
+        "heart",
+        "trust",
+        "sozo",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Those by the way side are they that hear; then cometh the devil, and taketh away the word out of their hearts, lest they should believe and be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Those on the rock are the ones who, when they hear, receive the word with joy; these have no root, who trust for a season and in time of testing fall away.",
+      "tags": [
+        "root",
+        "joy",
+        "testing",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They on the rock are they, which, when they hear, receive the word with joy; and these have no root, which for a while believe, and in time of temptation fall away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "What fell into thorns, these are the ones who hear, and as they go are choked by worries, wealth, and pleasures of life, and do not bring fruit to completion.",
+      "tags": [
+        "thorns",
+        "wealth",
+        "fruit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And that which fell among thorns are they, which, when they have heard, go forth, and are choked with cares and riches and pleasures of this life, and bring no fruit to perfection."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "What fell in beautiful/good earth, these are the ones who, hearing the word in a beautiful/good and noble heart, hold it fast and bear fruit in endurance.",
+      "tags": [
+        "good-soil",
+        "heart",
+        "endurance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But that on the good ground are they, which in an honest and good heart, having heard the word, keep it, and bring forth fruit with patience."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "No one lighting a lamp covers it with a vessel or puts it under a bed, but places it on a lampstand, so those entering may see the light.",
+      "tags": [
+        "lamp",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No man, when he hath lighted a candle, covereth it with a vessel, or putteth it under a bed; but setteth it on a candlestick, that they which enter in may see the light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For nothing hidden will not become visible, nor secret that will not be known and come into the open.",
+      "tags": [
+        "hidden",
+        "revealed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For nothing is secret, that shall not be made manifest; neither any thing hid, that shall not be known and come abroad."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Therefore watch how you hear; for whoever has, more will be given, and whoever does not have, even what one thinks one has will be taken away.",
+      "tags": [
+        "hearing",
+        "measure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed therefore how ye hear: for whosoever hath, to him shall be given; and whosoever hath not, from him shall be taken even that which he seemeth to have."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "His mother and brothers came to him and were not able to meet him because of the crowd.",
+      "tags": [
+        "mother",
+        "brothers",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came to him his mother and his brethren, and could not come at him for the press."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "It was reported to him, Your mother and your brothers are standing outside wanting to see you.",
+      "tags": [
+        "family"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was told him by certain which said, Thy mother and thy brethren stand without, desiring to see thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He answered them, My mother and my brothers are those who hear the word of the Divine and do it.",
+      "tags": [
+        "family",
+        "hearing",
+        "doing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered and said unto them, My mother and my brethren are these which hear the word of God, and do it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "One day he entered a boat with his disciples and said to them, Let us cross over to the other side of the lake. They set sail.",
+      "tags": [
+        "boat",
+        "crossing",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "As they sailed, he fell asleep. A windstorm came down on the lake, and they were filling with water and were in danger.",
+      "tags": [
+        "storm",
+        "sleep",
+        "danger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "They came and woke him, saying, Master, Master, we are perishing. He woke and rebuked the wind and the surge of water; they ceased, and there was calm.",
+      "tags": [
+        "rebuke",
+        "calm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He said to them, Where is your trust? Being afraid, they marveled, saying to one another, Who then is this, that he commands even winds and water, and they obey him?",
+      "tags": [
+        "trust",
+        "wind",
+        "water"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "They sailed down to the region of the Gerasenes, which is opposite Galilee.",
+      "tags": [
+        "gerasenes",
+        "galilee"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they arrived at the country of the Gadarenes, which is over against Galilee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "When he came out onto the land, a man from the city met him who had unclean spirits; for a long time he had worn no garment and did not remain in a house but among tombs.",
+      "tags": [
+        "unclean-spirits",
+        "tombs"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he went forth to land, there met him out of the city a certain man, which had devils long time, and ware no clothes, neither abode in any house, but in the tombs."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Seeing Jesus, he cried out, fell before him, and said with a great voice, What to me and to you, Jesus, Son of the Most High Divine? I beg you, do not torment me.",
+      "tags": [
+        "son-most-high",
+        "recognition",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When he saw Jesus, he cried out, and fell down before him, and with a loud voice said, What have I to do with thee, Jesus, thou Son of God most high? I beseech thee, torment me not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "For Jesus had commanded the unclean spirit to come out from the man. Many times it had seized him; he had been guarded, bound with chains and shackles, yet breaking the bonds, he was driven by the troubling force into deserted places.",
+      "tags": [
+        "release",
+        "chains",
+        "deserted-places",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(For he had commanded the unclean spirit to come out of the man. For oftentimes it had caught him: and he was kept bound with chains and in fetters; and he brake the bands, and was driven of the devil into the wilderness.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Jesus asked him, What is your name? He said, Legion, because many unclean spirits had entered him.",
+      "tags": [
+        "legion",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus asked him, saying, What is thy name? And he said, Legion: because many devils were entered into him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "They pleaded with him that he would not command them to go away into the abyss.",
+      "tags": [
+        "pleading",
+        "abyss"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they besought him that he would not command them to go out into the deep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "A considerable herd of pigs was feeding there on the mountain; they pleaded that he would permit them to enter those. He permitted them.",
+      "tags": [
+        "pigs",
+        "mountain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was there an herd of many swine feeding on the mountain: and they besought him that he would suffer them to enter into them. And he suffered them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "The unclean spirits came out from the man and entered the pigs, and the herd rushed down the steep bank into the lake and was drowned.",
+      "tags": [
+        "release",
+        "pigs",
+        "lake"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went the devils out of the man, and entered into the swine: and the herd ran violently down a steep place into the lake, and were choked."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Those feeding them, seeing what had happened, fled and reported it in the city and in the fields.",
+      "tags": [
+        "report",
+        "city"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When they that fed them saw what was done, they fled, and went and told it in the city and in the country."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "They went out to see what had happened and came to Jesus; they found the man from whom the unclean spirits had gone out, clothed and sound-minded, sitting at Jesus' feet, and they were afraid.",
+      "tags": [
+        "restoration",
+        "clothed",
+        "sound-minded"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they went out to see what was done; and came to Jesus, and found the man, out of whom the devils were departed, sitting at the feet of Jesus, clothed, and in his right mind: and they were afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Those who had seen reported to them how the one troubled by unclean spirits was saved/healed.",
+      "tags": [
+        "report",
+        "sozo",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They also which saw it told them by what means he that was possessed of the devils was healed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "All the multitude of the surrounding Gerasene region asked him to depart from them, because they were held by great fear. Entering the boat, he returned.",
+      "tags": [
+        "fear",
+        "departure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the whole multitude of the country of the Gadarenes round about besought him to depart from them; for they were taken with great fear: and he went up into the ship, and returned back again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "The man from whom the spirits had gone out begged to be with him, but Jesus sent him away, saying,",
+      "tags": [
+        "following",
+        "sending"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the man out of whom the devils were departed besought him that he might be with him: but Jesus sent him away, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "Return to your house and describe how much the Divine has done for you. He went away, proclaiming through the whole city how much Jesus had done for him.",
+      "tags": [
+        "witness",
+        "house",
+        "proclamation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Return to thine own house, and shew how great things God hath done unto thee. And he went his way, and published throughout the whole city how great things Jesus had done unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "When Jesus returned, the crowd welcomed him, for they were all waiting for him.",
+      "tags": [
+        "return",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, when Jesus was returned, the people gladly received him: for they were all waiting for him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Look, a man named Jairus came, and he was a ruler of the synagogue. Falling at Jesus' feet, he pleaded with him to come to his house,",
+      "tags": [
+        "jairus",
+        "synagogue",
+        "feet",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, there came a man named Jairus, and he was a ruler of the synagogue: and he fell down at Jesus’ feet, and besought him that he would come into his house:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "because he had an only daughter, about twelve years old, and she was dying. As he went, the crowds were pressing around him.",
+      "tags": [
+        "daughter",
+        "twelve",
+        "crowd",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he had one only daughter, about twelve years of age, and she lay a dying. But as he went the people thronged him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 43,
+      "restored": "A woman with a flow of blood for twelve years, who had spent all her living on physicians and was not able to be healed by anyone,",
+      "tags": [
+        "woman",
+        "blood",
+        "twelve",
+        "women-gender",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 44,
+      "restored": "came behind and touched the fringe of his garment; immediately the flow of her blood stopped.",
+      "tags": [
+        "touch",
+        "fringe",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Came behind him, and touched the border of his garment: and immediately her issue of blood stanched."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Jesus said, Who touched me? When all denied it, Peter said, Master, the crowds surround you and press in.",
+      "tags": [
+        "touch",
+        "peter"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "But Jesus said, Someone touched me, for I knew power had gone out from me.",
+      "tags": [
+        "power",
+        "touch"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "The woman, seeing that she was not hidden, came trembling; falling before him, she declared before all the people why she had touched him and how she was immediately healed.",
+      "tags": [
+        "woman",
+        "truth",
+        "healing",
+        "women-gender",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 48,
+      "restored": "He said to her, Daughter, your trust has saved/healed you; go into peace.",
+      "tags": [
+        "daughter",
+        "trust",
+        "sozo",
+        "peace",
+        "women-gender",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 49,
+      "restored": "While he was still speaking, someone comes from the synagogue ruler's house, saying, Your daughter has died; trouble the teacher no more.",
+      "tags": [
+        "daughter",
+        "death",
+        "religious-authority",
+        "sacred-space",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "While he yet spake, there cometh one from the ruler of the synagogue’s house, saying to him, Thy daughter is dead; trouble not the Master."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 50,
+      "restored": "Jesus, hearing, answered him, Do not fear; only trust, and she will be saved/healed.",
+      "tags": [
+        "fear-not",
+        "trust",
+        "sozo",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Jesus heard it, he answered him, saying, Fear not: believe only, and she shall be made whole."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "Coming to the house, he did not allow anyone to enter with him except Peter, John, James, and the child's father and mother.",
+      "tags": [
+        "house",
+        "peter",
+        "john",
+        "james",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came into the house, he suffered no man to go in, save Peter, and James, and John, and the father and the mother of the maiden."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "All were weeping and mourning for her. He said, Do not weep, for she has not died but sleeps.",
+      "tags": [
+        "weeping",
+        "sleep"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all wept, and bewailed her: but he said, Weep not; she is not dead, but sleepeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 53,
+      "restored": "They laughed at him, knowing that she had died.",
+      "tags": [
+        "laughter",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they laughed him to scorn, knowing that she was dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "Taking her by the hand, he called out, Child, rise.",
+      "tags": [
+        "hand",
+        "rise",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put them all out, and took her by the hand, and called, saying, Maid, arise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 55,
+      "restored": "Her spirit returned, and she rose immediately. He ordered that something be given her to eat.",
+      "tags": [
+        "spirit",
+        "immediately",
+        "food"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And her spirit came again, and she arose straightway: and he commanded to give her meat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 56,
+      "restored": "Her parents were astonished, but he instructed them to tell no one what had happened.",
+      "tags": [
+        "parents",
+        "astonishment",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And her parents were astonished: but he charged them that they should tell no man what was done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-56",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-56",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

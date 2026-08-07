@@ -1,36 +1,551 @@
 {
-  "book":"Job","book_id":"job","chapter":6,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's reply to Eliphaz: weight of grief, arrows of Shaddai, request for death, failed friendship as dry wadis, demand to teach, and insistence that anguish does not equal falsehood."},
-  "verses":[
-    {"verse":1,"restored":"Job answered and said:","tags":["job","reply"]},
-    {"verse":2,"restored":"If only my vexation were weighed, and my calamity lifted together on scales!","tags":["grief","weight"]},
-    {"verse":3,"restored":"For now it would be heavier than the sand of the seas; therefore my words have been rash.","tags":["grief","speech"]},
-    {"verse":4,"restored":"For the arrows of Shaddai are in me; my spirit drinks their poison. The terrors of the Divine are arrayed against me.","tags":["shaddai","arrows","terror"]},
-    {"verse":5,"restored":"Does the wild donkey bray over grass, or the ox low over its fodder?","tags":["protest","animals"]},
-    {"verse":6,"restored":"Can tasteless food be eaten without salt, or is there taste in the slime of purslane?","tags":["taste","bitterness"]},
-    {"verse":7,"restored":"My soul refuses to touch them; they are like loathsome food to me.","tags":["soul","revulsion"]},
-    {"verse":8,"restored":"If only my request would come, and the Divine would grant my hope:","tags":["request","hope"]},
-    {"verse":9,"restored":"that the Divine would be willing to crush me, loosen his hand, and cut me off.","tags":["death-wish","anguish"]},
-    {"verse":10,"restored":"Then it would still be my comfort; I would exult in pain that does not spare, for I have not denied the words of the Holy One.","tags":["comfort","holy-one","words"]},
-    {"verse":11,"restored":"What is my strength, that I should wait? What is my end, that I should prolong my life?","tags":["strength","waiting"]},
-    {"verse":12,"restored":"Is my strength the strength of stones, or is my flesh bronze?","tags":["body","frailty"]},
-    {"verse":13,"restored":"Is there any help in me, when sound wisdom has been driven from me?","tags":["help","wisdom"]},
-    {"verse":14,"restored":"To one who is fainting, covenant-kindness is owed by his friend, even if he forsakes the fear of Shaddai.","tags":["friendship","chesed","shaddai"]},
-    {"verse":15,"restored":"My brothers have betrayed like a wadi, like channels of wadis that pass away,","tags":["friends","wadi","betrayal"]},
-    {"verse":16,"restored":"dark from ice, where snow hides itself;","tags":["wadi","snow"]},
-    {"verse":17,"restored":"when they thaw, they vanish; when heat comes, they disappear from their place.","tags":["wadi","disappointment"]},
-    {"verse":18,"restored":"The paths of their way turn aside; they go up into emptiness and perish.","tags":["path","emptiness"]},
-    {"verse":19,"restored":"The caravans of Tema looked; the travelers of Sheba hoped for them.","tags":["tema","sheba","hope"]},
-    {"verse":20,"restored":"They were ashamed because they had trusted; they came there and were humiliated.","tags":["trust","shame"]},
-    {"verse":21,"restored":"For now you have become nothing; you see terror and are afraid.","tags":["friends","terror"]},
-    {"verse":22,"restored":"Did I say, Give to me, or from your wealth offer a bribe for me?","tags":["wealth","demand"]},
-    {"verse":23,"restored":"Or, Deliver me from the hand of an adversary, or ransom me from the hand of ruthless ones?","tags":["deliverance","ransom"]},
-    {"verse":24,"restored":"Teach me, and I myself will be silent; make me understand how I have strayed.","tags":["teach","correction"]},
-    {"verse":25,"restored":"How forceful are upright words! But what does your arguing prove?","tags":["words","argument"]},
-    {"verse":26,"restored":"Do you intend to reprove words, when the speeches of one in despair are wind?","tags":["despair","wind","speech"]},
-    {"verse":27,"restored":"You would even cast lots over the orphan and bargain over your friend.","tags":["friendship","orphan"]},
-    {"verse":28,"restored":"Now please turn toward me; surely I will not lie to your face.","tags":["truth","face"]},
-    {"verse":29,"restored":"Turn now; let there be no injustice. Turn again; my righteousness is still in it.","tags":["justice","righteousness"]},
-    {"verse":30,"restored":"Is there injustice on my tongue? Can my palate not discern calamities?","tags":["tongue","discernment"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's reply to Eliphaz: weight of grief, arrows of Shaddai, request for death, failed friendship as dry wadis, demand to teach, and insistence that anguish does not equal falsehood."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Job answered and said:",
+      "tags": [
+        "job",
+        "reply"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Job answered and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "If only my vexation were weighed, and my calamity lifted together on scales!",
+      "tags": [
+        "grief",
+        "weight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For now it would be heavier than the sand of the seas; therefore my words have been rash.",
+      "tags": [
+        "grief",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For the arrows of Shaddai are in me; my spirit drinks their poison. The terrors of the Divine are arrayed against me.",
+      "tags": [
+        "shaddai",
+        "arrows",
+        "terror",
+        "spirit",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        },
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Does the wild donkey bray over grass, or the ox low over its fodder?",
+      "tags": [
+        "protest",
+        "animals"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Can tasteless food be eaten without salt, or is there taste in the slime of purslane?",
+      "tags": [
+        "taste",
+        "bitterness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "My soul refuses to touch them; they are like loathsome food to me.",
+      "tags": [
+        "soul",
+        "revulsion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The things that my soul refused to touch are as my sorrowful meat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "If only my request would come, and the Divine would grant my hope:",
+      "tags": [
+        "request",
+        "hope"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Oh that I might have my request; and that God would grant me the thing that I long for!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "that the Divine would be willing to crush me, loosen his hand, and cut me off.",
+      "tags": [
+        "death-wish",
+        "anguish"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Then it would still be my comfort; I would exult in pain that does not spare, for I have not denied the words of the Holy One.",
+      "tags": [
+        "comfort",
+        "holy-one",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "What is my strength, that I should wait? What is my end, that I should prolong my life?",
+      "tags": [
+        "strength",
+        "waiting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Is my strength the strength of stones, or is my flesh bronze?",
+      "tags": [
+        "body",
+        "frailty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is my strength the strength of stones? or is my flesh of brass?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Is there any help in me, when sound wisdom has been driven from me?",
+      "tags": [
+        "help",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is not my help in me? and is wisdom driven quite from me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "To one who is fainting, covenant-kindness is owed by his friend, even if he forsakes the fear of Shaddai.",
+      "tags": [
+        "friendship",
+        "chesed",
+        "shaddai",
+        "covenant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "My brothers have betrayed like a wadi, like channels of wadis that pass away,",
+      "tags": [
+        "friends",
+        "wadi",
+        "betrayal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "dark from ice, where snow hides itself;",
+      "tags": [
+        "wadi",
+        "snow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which are blackish by reason of the ice, and wherein the snow is hid:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "when they thaw, they vanish; when heat comes, they disappear from their place.",
+      "tags": [
+        "wadi",
+        "disappointment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The paths of their way turn aside; they go up into emptiness and perish.",
+      "tags": [
+        "path",
+        "emptiness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The paths of their way are turned aside; they go to nothing, and perish."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The caravans of Tema looked; the travelers of Sheba hoped for them.",
+      "tags": [
+        "tema",
+        "sheba",
+        "hope"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The troops of Tema looked, the companies of Sheba waited for them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "They were ashamed because they had trusted; they came there and were humiliated.",
+      "tags": [
+        "trust",
+        "shame"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They were confounded because they had hoped; they came thither, and were ashamed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For now you have become nothing; you see terror and are afraid.",
+      "tags": [
+        "friends",
+        "terror"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For now ye are nothing; ye see my casting down, and are afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Did I say, Give to me, or from your wealth offer a bribe for me?",
+      "tags": [
+        "wealth",
+        "demand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Did I say, Bring unto me? or, Give a reward for me of your substance?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Or, Deliver me from the hand of an adversary, or ransom me from the hand of ruthless ones?",
+      "tags": [
+        "deliverance",
+        "ransom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Teach me, and I myself will be silent; make me understand how I have strayed.",
+      "tags": [
+        "teach",
+        "correction"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "How forceful are upright words! But what does your arguing prove?",
+      "tags": [
+        "words",
+        "argument"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How forcible are right words! but what doth your arguing reprove?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Do you intend to reprove words, when the speeches of one in despair are wind?",
+      "tags": [
+        "despair",
+        "wind",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "You would even cast lots over the orphan and bargain over your friend.",
+      "tags": [
+        "friendship",
+        "orphan"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, ye overwhelm the fatherless, and ye dig a pit for your friend."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Now please turn toward me; surely I will not lie to your face.",
+      "tags": [
+        "truth",
+        "face"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore be content, look upon me; for it is evident unto you if I lie."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Turn now; let there be no injustice. Turn again; my righteousness is still in it.",
+      "tags": [
+        "justice",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Return, I pray you, let it not be iniquity; yea, return again, my righteousness is in it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Is there injustice on my tongue? Can my palate not discern calamities?",
+      "tags": [
+        "tongue",
+        "discernment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is there iniquity in my tongue? cannot my taste discern perverse things?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-30",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

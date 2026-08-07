@@ -1,44 +1,703 @@
 {
-  "book":"Matthew",
-  "book_id":"matthew",
-  "chapter":14,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Herod's fear, John the Baptist's death, Jesus' withdrawal, compassion, feeding five thousand, twelve baskets, walking on sea, Peter on waters, little trust, worship/prostration, and Gennesaret healings."},
-  "verses":[
-    {"verse":1,"restored":"At that time Herod the tetrarch heard the report about Jesus.","tags":["herod","report"]},
-    {"verse":2,"restored":"He said to his servants, This is John the Baptist; he has been raised from the dead, and because of this the powers are at work in him.","tags":["john","resurrection","powers"]},
-    {"verse":3,"restored":"For Herod had seized John, bound him, and put him in prison because of Herodias, the wife of his brother Philip.","tags":["john","prison","herodias"]},
-    {"verse":4,"restored":"For John had been saying to him, It is not lawful for you to have her.","tags":["john","law","rebuke"]},
-    {"verse":5,"restored":"Though he wanted to kill him, he feared the crowd, because they held him as a prophet.","tags":["fear","prophet","crowd"]},
-    {"verse":6,"restored":"When Herod's birthday came, the daughter of Herodias danced in the midst and pleased Herod.","tags":["herod","dance"]},
-    {"verse":7,"restored":"Because of this, with an oath, he promised to give her whatever she might ask.","tags":["oath","promise"]},
-    {"verse":8,"restored":"Prompted by her mother, she said, Give me here on a platter the head of John the Baptist.","tags":["john","violence","herodias"]},
-    {"verse":9,"restored":"The king was grieved, but because of the oaths and those reclining with him, he commanded it to be given.","tags":["oath","grief","king"]},
-    {"verse":10,"restored":"He sent and had John beheaded in the prison.","tags":["john","death","prison"]},
-    {"verse":11,"restored":"His head was brought on a platter and given to the girl, and she brought it to her mother.","tags":["john","herodias"]},
-    {"verse":12,"restored":"His disciples came, took the body, and buried him; then they went and reported to Jesus.","tags":["disciples","burial","report"]},
-    {"verse":13,"restored":"When Jesus heard, he withdrew from there in a boat to a deserted place by himself. The crowds heard and followed him on foot from the cities.","tags":["withdrawal","deserted-place","crowds"]},
-    {"verse":14,"restored":"Coming out, he saw a great crowd and was moved with compassion over them, and he healed their sick.","tags":["compassion","healing","crowd"]},
-    {"verse":15,"restored":"When evening came, the disciples came to him, saying, This place is deserted and the hour has passed; release the crowds so they may go into the villages and buy food for themselves.","tags":["evening","food","disciples"]},
-    {"verse":16,"restored":"But Jesus said to them, They have no need to go away; you give them something to eat.","tags":["feeding","disciples"]},
-    {"verse":17,"restored":"They said to him, We have nothing here except five loaves and two fish.","tags":["loaves","fish"]},
-    {"verse":18,"restored":"He said, Bring them here to me.","tags":["offering","food"]},
-    {"verse":19,"restored":"Commanding the crowds to recline on the grass, he took the five loaves and two fish, looked up to heaven, blessed, broke the loaves, and gave them to the disciples, and the disciples to the crowds.","tags":["blessing","breaking","feeding"]},
-    {"verse":20,"restored":"They all ate and were filled, and they took up what remained of the broken pieces, twelve baskets full.","tags":["fullness","twelve","baskets"]},
-    {"verse":21,"restored":"Those eating were about five thousand men, besides women and children.","tags":["feeding","crowd"]},
-    {"verse":22,"restored":"Immediately he compelled the disciples to enter the boat and go before him to the other side, while he released the crowds.","tags":["boat","disciples","release"]},
-    {"verse":23,"restored":"After releasing the crowds, he went up into the mountain by himself to pray. When evening came, he was there alone.","tags":["prayer","mountain","alone"]},
-    {"verse":24,"restored":"The boat was already many stadia from the land, being tormented by waves, for the wind was against them.","tags":["boat","waves","wind"]},
-    {"verse":25,"restored":"In the fourth watch of the night, he came toward them, walking on the sea.","tags":["sea","night","walking"]},
-    {"verse":26,"restored":"When the disciples saw him walking on the sea, they were troubled, saying, It is a ghost/appearance, and they cried out from fear.","tags":["fear","sea","appearance"]},
-    {"verse":27,"restored":"Immediately Jesus spoke to them, saying, Take courage; I am. Do not fear.","terms":[{"display":"I am","source":"ego eimi","language":"Greek","glossary_id":"ego-eimi"}],"tags":["courage","i-am","fear-not"]},
-    {"verse":28,"restored":"Peter answered him, Lord, if it is you, command me to come to you on the waters.","tags":["peter","waters"]},
-    {"verse":29,"restored":"He said, Come. Peter got down from the boat and walked on the waters and came toward Jesus.","tags":["peter","walking","waters"]},
-    {"verse":30,"restored":"But seeing the strong wind, he was afraid; beginning to sink, he cried out, Lord, save me.","tags":["fear","wind","save"]},
-    {"verse":31,"restored":"Immediately Jesus stretched out his hand, took hold of him, and said to him, One of little trust, why did you doubt/divide?","terms":[{"display":"little trust","source":"oligopiste","language":"Greek","glossary_id":"oligopistos"},{"display":"doubt/divide","source":"edistasas","language":"Greek","glossary_id":"distazo"}],"tags":["trust","doubt","hand"]},
-    {"verse":32,"restored":"When they got into the boat, the wind ceased.","tags":["boat","wind","calm"]},
-    {"verse":33,"restored":"Those in the boat bowed/prostrated before him, saying, Truly you are Son of the Divine.","tags":["worship","son-divine"]},
-    {"verse":34,"restored":"Crossing over, they came to land at Gennesaret.","tags":["gennesaret","crossing"]},
-    {"verse":35,"restored":"When the men of that place recognized him, they sent into all that surrounding region and brought to him all who were sick.","tags":["recognition","healing"]},
-    {"verse":36,"restored":"They pleaded with him that they might only touch the fringe of his garment; and as many as touched were thoroughly saved/healed.","terms":[{"display":"saved/healed","source":"diesothesan","language":"Greek","glossary_id":"sozo"}],"tags":["touch","fringe","healing"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 14,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Herod's fear, John the Baptist's death, Jesus' withdrawal, compassion, feeding five thousand, twelve baskets, walking on sea, Peter on waters, little trust, worship/prostration, and Gennesaret healings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At that time Herod the tetrarch heard the report about Jesus.",
+      "tags": [
+        "herod",
+        "report"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "At that time Herod the tetrarch heard of the fame of Jesus,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He said to his servants, This is John the Baptist; he has been raised from the dead, and because of this the powers are at work in him.",
+      "tags": [
+        "john",
+        "resurrection",
+        "powers",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto his servants, This is John the Baptist; he is risen from the dead; and therefore mighty works do shew forth themselves in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "For Herod had seized John, bound him, and put him in prison because of Herodias, the wife of his brother Philip.",
+      "tags": [
+        "john",
+        "prison",
+        "herodias",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For Herod had laid hold on John, and bound him, and put him in prison for Herodias’ sake, his brother Philip’s wife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For John had been saying to him, It is not lawful for you to have her.",
+      "tags": [
+        "john",
+        "law",
+        "rebuke"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For John said unto him, It is not lawful for thee to have her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Though he wanted to kill him, he feared the crowd, because they held him as a prophet.",
+      "tags": [
+        "fear",
+        "prophet",
+        "crowd",
+        "war-violence",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he would have put him to death, he feared the multitude, because they counted him as a prophet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "When Herod's birthday came, the daughter of Herodias danced in the midst and pleased Herod.",
+      "tags": [
+        "herod",
+        "dance",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Herod’s birthday was kept, the daughter of Herodias danced before them, and pleased Herod."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Because of this, with an oath, he promised to give her whatever she might ask.",
+      "tags": [
+        "oath",
+        "promise"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereupon he promised with an oath to give her whatsoever she would ask."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Prompted by her mother, she said, Give me here on a platter the head of John the Baptist.",
+      "tags": [
+        "john",
+        "violence",
+        "herodias"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she, being before instructed of her mother, said, Give me here John Baptist’s head in a charger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The king was grieved, but because of the oaths and those reclining with him, he commanded it to be given.",
+      "tags": [
+        "oath",
+        "grief",
+        "king",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king was sorry: nevertheless for the oath’s sake, and them which sat with him at meat, he commanded it to be given her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "He sent and had John beheaded in the prison.",
+      "tags": [
+        "john",
+        "death",
+        "prison",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sent, and beheaded John in the prison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "His head was brought on a platter and given to the girl, and she brought it to her mother.",
+      "tags": [
+        "john",
+        "herodias"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his head was brought in a charger, and given to the damsel: and she brought it to her mother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "His disciples came, took the body, and buried him; then they went and reported to Jesus.",
+      "tags": [
+        "disciples",
+        "burial",
+        "report",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his disciples came, and took up the body, and buried it, and went and told Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "When Jesus heard, he withdrew from there in a boat to a deserted place by himself. The crowds heard and followed him on foot from the cities.",
+      "tags": [
+        "withdrawal",
+        "deserted-place",
+        "crowds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Coming out, he saw a great crowd and was moved with compassion over them, and he healed their sick.",
+      "tags": [
+        "compassion",
+        "healing",
+        "crowd",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "When evening came, the disciples came to him, saying, This place is deserted and the hour has passed; release the crowds so they may go into the villages and buy food for themselves.",
+      "tags": [
+        "evening",
+        "food",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But Jesus said to them, They have no need to go away; you give them something to eat.",
+      "tags": [
+        "feeding",
+        "disciples"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus said unto them, They need not depart; give ye them to eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "They said to him, We have nothing here except five loaves and two fish.",
+      "tags": [
+        "loaves",
+        "fish"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they say unto him, We have here but five loaves, and two fishes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He said, Bring them here to me.",
+      "tags": [
+        "offering",
+        "food"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He said, Bring them hither to me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Commanding the crowds to recline on the grass, he took the five loaves and two fish, looked up to heaven, blessed, broke the loaves, and gave them to the disciples, and the disciples to the crowds.",
+      "tags": [
+        "blessing",
+        "breaking",
+        "feeding",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "They all ate and were filled, and they took up what remained of the broken pieces, twelve baskets full.",
+      "tags": [
+        "fullness",
+        "twelve",
+        "baskets"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Those eating were about five thousand men, besides women and children.",
+      "tags": [
+        "feeding",
+        "crowd",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that had eaten were about five thousand men, beside women and children."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Immediately he compelled the disciples to enter the boat and go before him to the other side, while he released the crowds.",
+      "tags": [
+        "boat",
+        "disciples",
+        "release",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "After releasing the crowds, he went up into the mountain by himself to pray. When evening came, he was there alone.",
+      "tags": [
+        "prayer",
+        "mountain",
+        "alone"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "The boat was already many stadia from the land, being tormented by waves, for the wind was against them.",
+      "tags": [
+        "boat",
+        "waves",
+        "wind"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "In the fourth watch of the night, he came toward them, walking on the sea.",
+      "tags": [
+        "sea",
+        "night",
+        "walking"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the fourth watch of the night Jesus went unto them, walking on the sea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "When the disciples saw him walking on the sea, they were troubled, saying, It is a ghost/appearance, and they cried out from fear.",
+      "tags": [
+        "fear",
+        "sea",
+        "appearance",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Immediately Jesus spoke to them, saying, Take courage; I am. Do not fear.",
+      "terms": [
+        {
+          "display": "I am",
+          "source": "ego eimi",
+          "language": "Greek",
+          "glossary_id": "ego-eimi"
+        }
+      ],
+      "tags": [
+        "courage",
+        "i-am",
+        "fear-not"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Peter answered him, Lord, if it is you, command me to come to you on the waters.",
+      "tags": [
+        "peter",
+        "waters"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "He said, Come. Peter got down from the boat and walked on the waters and came toward Jesus.",
+      "tags": [
+        "peter",
+        "walking",
+        "waters"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "But seeing the strong wind, he was afraid; beginning to sink, he cried out, Lord, save me.",
+      "tags": [
+        "fear",
+        "wind",
+        "save"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Immediately Jesus stretched out his hand, took hold of him, and said to him, One of little trust, why did you doubt/divide?",
+      "terms": [
+        {
+          "display": "little trust",
+          "source": "oligopiste",
+          "language": "Greek",
+          "glossary_id": "oligopistos"
+        },
+        {
+          "display": "doubt/divide",
+          "source": "edistasas",
+          "language": "Greek",
+          "glossary_id": "distazo"
+        }
+      ],
+      "tags": [
+        "trust",
+        "doubt",
+        "hand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "When they got into the boat, the wind ceased.",
+      "tags": [
+        "boat",
+        "wind",
+        "calm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were come into the ship, the wind ceased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Those in the boat bowed/prostrated before him, saying, Truly you are Son of the Divine.",
+      "tags": [
+        "worship",
+        "son-divine",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Crossing over, they came to land at Gennesaret.",
+      "tags": [
+        "gennesaret",
+        "crossing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were gone over, they came into the land of Gennesaret."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "When the men of that place recognized him, they sent into all that surrounding region and brought to him all who were sick.",
+      "tags": [
+        "recognition",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "They pleaded with him that they might only touch the fringe of his garment; and as many as touched were thoroughly saved/healed.",
+      "terms": [
+        {
+          "display": "saved/healed",
+          "source": "diesothesan",
+          "language": "Greek",
+          "glossary_id": "sozo"
+        }
+      ],
+      "tags": [
+        "touch",
+        "fringe",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-36",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-36",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

@@ -1,36 +1,533 @@
 {
-  "book":"Job","book_id":"job","chapter":39,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as continuation of the whirlwind response: wild goats, deer, wild donkey, wild ox, ostrich, horse, hawk, and eagle. Emphasis on untamed creaturely wisdom and divine care beyond human control."},
-  "verses":[
-    {"verse":1,"restored":"Do you know the time when the wild goats of the rock give birth? Do you watch the labor of the deer?","tags":["wild-goats","deer","birth"]},
-    {"verse":2,"restored":"Can you number the months they fulfill, and do you know the time they give birth?","tags":["birth","time"]},
-    {"verse":3,"restored":"They bow down, bring forth their young, and send out their labor pains.","tags":["birth","wild"]},
-    {"verse":4,"restored":"Their young become strong; they grow up in the open; they go out and do not return to them.","tags":["young","wild"]},
-    {"verse":5,"restored":"Who sent out the wild donkey free, and who loosed the bonds of the swift donkey,","tags":["wild-donkey","freedom"]},
-    {"verse":6,"restored":"to whom I gave the desert as his house and the salt land as his dwelling?","tags":["desert","dwelling"]},
-    {"verse":7,"restored":"He laughs at the noise of the city; he does not hear the shouts of the driver.","tags":["city","freedom"]},
-    {"verse":8,"restored":"He searches the mountains as his pasture and seeks after every green thing.","tags":["mountains","pasture"]},
-    {"verse":9,"restored":"Will the wild ox be willing to serve you? Will he spend the night at your manger?","tags":["wild-ox","service"]},
-    {"verse":10,"restored":"Can you bind the wild ox in the furrow with ropes, or will he harrow the valleys after you?","tags":["wild-ox","field"]},
-    {"verse":11,"restored":"Will you trust him because his strength is great, or leave your labor to him?","tags":["strength","trust"]},
-    {"verse":12,"restored":"Will you trust him to return your seed and gather it to your threshing floor?","tags":["seed","harvest"]},
-    {"verse":13,"restored":"The wings of the ostrich beat joyfully, but are they the pinions and feathers of covenant-kindness?","tags":["ostrich","wings"]},
-    {"verse":14,"restored":"For she leaves her eggs on the earth and warms them in the dust,","tags":["eggs","dust"]},
-    {"verse":15,"restored":"and forgets that a foot may crush them, or a wild animal trample them.","tags":["eggs","wild"]},
-    {"verse":16,"restored":"She treats her young harshly, as though they were not hers; her labor is in vain, without fear,","tags":["ostrich","young"]},
-    {"verse":17,"restored":"because the Divine made her forget wisdom and did not share understanding with her.","tags":["wisdom","understanding"]},
-    {"verse":18,"restored":"When she lifts herself on high, she laughs at horse and rider.","tags":["ostrich","horse"]},
-    {"verse":19,"restored":"Do you give the horse strength? Do you clothe his neck with a mane?","tags":["horse","strength"]},
-    {"verse":20,"restored":"Do you make him leap like the locust? His majestic snorting is terror.","tags":["horse","terror"]},
-    {"verse":21,"restored":"He paws in the valley and rejoices in strength; he goes out to meet weapons.","tags":["horse","battle"]},
-    {"verse":22,"restored":"He laughs at fear and is not dismayed; he does not turn back from the sword.","tags":["fear","sword"]},
-    {"verse":23,"restored":"Upon him the quiver rattles, the flashing spear and javelin.","tags":["weapons","battle"]},
-    {"verse":24,"restored":"With trembling and rage he swallows the ground; he does not stand still when the horn sounds.","tags":["horse","ground"]},
-    {"verse":25,"restored":"At the horn he says, Aha! From afar he smells the battle, the thunder of commanders and the shouting.","tags":["battle","horn"]},
-    {"verse":26,"restored":"Is it by your understanding that the hawk soars and spreads its wings toward the south?","tags":["hawk","understanding"]},
-    {"verse":27,"restored":"Is it at your mouth that the eagle mounts up and makes its nest on high?","tags":["eagle","nest"]},
-    {"verse":28,"restored":"On the rock he dwells and lodges, on the tooth of the rock and the stronghold.","tags":["eagle","rock"]},
-    {"verse":29,"restored":"From there he searches for food; his eyes see it from far away.","tags":["eagle","sight"]},
-    {"verse":30,"restored":"His young ones lap up blood, and where the slain are, there he is.","tags":["eagle","wild-order"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 39,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as continuation of the whirlwind response: wild goats, deer, wild donkey, wild ox, ostrich, horse, hawk, and eagle. Emphasis on untamed creaturely wisdom and divine care beyond human control."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Do you know the time when the wild goats of the rock give birth? Do you watch the labor of the deer?",
+      "tags": [
+        "wild-goats",
+        "deer",
+        "birth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Can you number the months they fulfill, and do you know the time they give birth?",
+      "tags": [
+        "birth",
+        "time"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They bow down, bring forth their young, and send out their labor pains.",
+      "tags": [
+        "birth",
+        "wild"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They bow themselves, they bring forth their young ones, they cast out their sorrows."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Their young become strong; they grow up in the open; they go out and do not return to them.",
+      "tags": [
+        "young",
+        "wild"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Who sent out the wild donkey free, and who loosed the bonds of the swift donkey,",
+      "tags": [
+        "wild-donkey",
+        "freedom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "to whom I gave the desert as his house and the salt land as his dwelling?",
+      "tags": [
+        "desert",
+        "dwelling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose house I have made the wilderness, and the barren land his dwellings."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He laughs at the noise of the city; he does not hear the shouts of the driver.",
+      "tags": [
+        "city",
+        "freedom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He scorneth the multitude of the city, neither regardeth he the crying of the driver."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He searches the mountains as his pasture and seeks after every green thing.",
+      "tags": [
+        "mountains",
+        "pasture"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The range of the mountains is his pasture, and he searcheth after every green thing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Will the wild ox be willing to serve you? Will he spend the night at your manger?",
+      "tags": [
+        "wild-ox",
+        "service"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Will the unicorn be willing to serve thee, or abide by thy crib?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Can you bind the wild ox in the furrow with ropes, or will he harrow the valleys after you?",
+      "tags": [
+        "wild-ox",
+        "field"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Will you trust him because his strength is great, or leave your labor to him?",
+      "tags": [
+        "strength",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Will you trust him to return your seed and gather it to your threshing floor?",
+      "tags": [
+        "seed",
+        "harvest"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The wings of the ostrich beat joyfully, but are they the pinions and feathers of covenant-kindness?",
+      "tags": [
+        "ostrich",
+        "wings",
+        "covenant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For she leaves her eggs on the earth and warms them in the dust,",
+      "tags": [
+        "eggs",
+        "dust",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which leaveth her eggs in the earth, and warmeth them in dust,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "and forgets that a foot may crush them, or a wild animal trample them.",
+      "tags": [
+        "eggs",
+        "wild"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And forgetteth that the foot may crush them, or that the wild beast may break them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "She treats her young harshly, as though they were not hers; her labor is in vain, without fear,",
+      "tags": [
+        "ostrich",
+        "young"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "because the Divine made her forget wisdom and did not share understanding with her.",
+      "tags": [
+        "wisdom",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "When she lifts herself on high, she laughs at horse and rider.",
+      "tags": [
+        "ostrich",
+        "horse"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What time she lifteth up herself on high, she scorneth the horse and his rider."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Do you give the horse strength? Do you clothe his neck with a mane?",
+      "tags": [
+        "horse",
+        "strength"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hast thou given the horse strength? hast thou clothed his neck with thunder?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Do you make him leap like the locust? His majestic snorting is terror.",
+      "tags": [
+        "horse",
+        "terror"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He paws in the valley and rejoices in strength; he goes out to meet weapons.",
+      "tags": [
+        "horse",
+        "battle"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "He laughs at fear and is not dismayed; he does not turn back from the sword.",
+      "tags": [
+        "fear",
+        "sword",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He mocketh at fear, and is not affrighted; neither turneth he back from the sword."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Upon him the quiver rattles, the flashing spear and javelin.",
+      "tags": [
+        "weapons",
+        "battle"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The quiver rattleth against him, the glittering spear and the shield."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "With trembling and rage he swallows the ground; he does not stand still when the horn sounds.",
+      "tags": [
+        "horse",
+        "ground"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "At the horn he says, Aha! From afar he smells the battle, the thunder of commanders and the shouting.",
+      "tags": [
+        "battle",
+        "horn",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Is it by your understanding that the hawk soars and spreads its wings toward the south?",
+      "tags": [
+        "hawk",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Is it at your mouth that the eagle mounts up and makes its nest on high?",
+      "tags": [
+        "eagle",
+        "nest"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth the eagle mount up at thy command, and make her nest on high?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "On the rock he dwells and lodges, on the tooth of the rock and the stronghold.",
+      "tags": [
+        "eagle",
+        "rock"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "From there he searches for food; his eyes see it from far away.",
+      "tags": [
+        "eagle",
+        "sight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "From thence she seeketh the prey, and her eyes behold afar off."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "His young ones lap up blood, and where the slain are, there he is.",
+      "tags": [
+        "eagle",
+        "wild-order",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Her young ones also suck up blood: and where the slain are, there is she."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-30",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

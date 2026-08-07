@@ -1,33 +1,601 @@
 {
-  "book":"Matthew",
-  "book_id":"matthew",
-  "chapter":1,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for genealogy structure, genesis/birth language, David/Abraham framing, named women, deportation structure, Joseph/Mary betrothal, pneuma hagion, angelic naming, Jesus/Yeshua salvation wordplay, Emmanuel citation, and Joseph's obedience."},
-  "verses":[
-    {"verse":1,"restored":"A book of the genesis of Jesus Messiah, son of David, son of Abraham.","terms":[{"display":"genesis","source":"biblos geneseos","language":"Greek","glossary_id":"genesis-greek"},{"display":"Messiah","source":"Christos","language":"Greek","glossary_id":"christos"}],"tags":["genealogy","messiah","david","abraham"]},
-    {"verse":2,"restored":"Abraham fathered Isaac, Isaac fathered Jacob, and Jacob fathered Judah and his brothers.","tags":["genealogy","abraham","jacob","judah"]},
-    {"verse":3,"restored":"Judah fathered Perez and Zerah by Tamar; Perez fathered Hezron, and Hezron fathered Ram.","tags":["genealogy","tamar","judah"]},
-    {"verse":4,"restored":"Ram fathered Amminadab, Amminadab fathered Nahshon, and Nahshon fathered Salmon.","tags":["genealogy"]},
-    {"verse":5,"restored":"Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, and Obed fathered Jesse.","tags":["genealogy","rahab","ruth"]},
-    {"verse":6,"restored":"Jesse fathered David the king. David fathered Solomon by the wife of Uriah.","tags":["genealogy","david","bathsheba","uriah"]},
-    {"verse":7,"restored":"Solomon fathered Rehoboam, Rehoboam fathered Abijah, and Abijah fathered Asaph/Asa.","tags":["genealogy","kings"]},
-    {"verse":8,"restored":"Asaph/Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, and Joram fathered Uzziah.","tags":["genealogy","kings"]},
-    {"verse":9,"restored":"Uzziah fathered Jotham, Jotham fathered Ahaz, and Ahaz fathered Hezekiah.","tags":["genealogy","kings"]},
-    {"verse":10,"restored":"Hezekiah fathered Manasseh, Manasseh fathered Amos/Amon, and Amos/Amon fathered Josiah.","tags":["genealogy","kings"]},
-    {"verse":11,"restored":"Josiah fathered Jeconiah and his brothers at the time of the deportation to Babylon.","tags":["genealogy","babylon","exile"]},
-    {"verse":12,"restored":"After the deportation to Babylon, Jeconiah fathered Shealtiel, and Shealtiel fathered Zerubbabel.","tags":["genealogy","exile","return"]},
-    {"verse":13,"restored":"Zerubbabel fathered Abiud, Abiud fathered Eliakim, and Eliakim fathered Azor.","tags":["genealogy"]},
-    {"verse":14,"restored":"Azor fathered Zadok, Zadok fathered Achim, and Achim fathered Eliud.","tags":["genealogy"]},
-    {"verse":15,"restored":"Eliud fathered Eleazar, Eleazar fathered Matthan, and Matthan fathered Jacob.","tags":["genealogy"]},
-    {"verse":16,"restored":"Jacob fathered Joseph, the husband of Mary, from whom Jesus was born, the one called Messiah.","terms":[{"display":"from whom","source":"ex hes","language":"Greek","glossary_id":"relative-feminine"}],"tags":["mary","joseph","jesus","messiah"]},
-    {"verse":17,"restored":"So all the generations from Abraham to David were fourteen generations, from David to the deportation to Babylon fourteen generations, and from the deportation to Babylon to the Messiah fourteen generations.","tags":["genealogy","fourteen","david","babylon"]},
-    {"verse":18,"restored":"The genesis/birth of Jesus Messiah was this way: his mother Mary had been betrothed to Joseph, but before they came together she was found to be carrying in the womb from holy Spirit.","terms":[{"display":"holy Spirit","source":"pneumatos hagiou","language":"Greek","glossary_id":"pneuma-hagion"}],"tags":["birth","mary","spirit"]},
-    {"verse":19,"restored":"Joseph her husband, being just and not wanting to expose her publicly, intended to release her quietly.","terms":[{"display":"just","source":"dikaios","language":"Greek","glossary_id":"dikaios"},{"display":"release","source":"apolysai","language":"Greek","glossary_id":"apoluo"}],"tags":["joseph","justice","mercy"]},
-    {"verse":20,"restored":"As he considered these things, look, a messenger of the Lord appeared to him in a dream, saying, Joseph son of David, do not fear to take Mary your wife, for what has been generated in her is from holy Spirit.","terms":[{"display":"messenger","source":"angelos","language":"Greek","glossary_id":"angelos"}],"tags":["dream","joseph","spirit"]},
-    {"verse":21,"restored":"She will bear a son, and you shall call his name Jesus/Yeshua, for he will save his people from their sins.","terms":[{"display":"Jesus/Yeshua","source":"Iesous","language":"Greek","glossary_id":"iesous-yeshua"},{"display":"save","source":"sosei","language":"Greek","glossary_id":"sozo"},{"display":"sins","source":"hamartiai","language":"Greek","glossary_id":"hamartia"}],"tags":["name","salvation","sins"]},
-    {"verse":22,"restored":"All this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying:","tags":["fulfillment","prophet"]},
-    {"verse":23,"restored":"Look, the virgin/young woman will carry in the womb and will bear a son, and they will call his name Emmanuel, which is translated, God with us.","terms":[{"display":"virgin/young woman","source":"parthenos; citing Isaiah tradition","language":"Greek","glossary_id":"parthenos"},{"display":"Emmanuel","source":"Emmanouel","language":"Greek","glossary_id":"emmanuel"}],"tags":["isaiah","emmanuel","god-with-us"]},
-    {"verse":24,"restored":"Joseph rose from sleep and did as the messenger of the Lord commanded him; he took his wife.","tags":["joseph","obedience"]},
-    {"verse":25,"restored":"But he did not know her until she had borne a son, and he called his name Jesus/Yeshua.","tags":["joseph","mary","jesus","name"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for genealogy structure, genesis/birth language, David/Abraham framing, named women, deportation structure, Joseph/Mary betrothal, pneuma hagion, angelic naming, Jesus/Yeshua salvation wordplay, Emmanuel citation, and Joseph's obedience."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "A book of the genesis of Jesus Messiah, son of David, son of Abraham.",
+      "terms": [
+        {
+          "display": "genesis",
+          "source": "biblos geneseos",
+          "language": "Greek",
+          "glossary_id": "genesis-greek"
+        },
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos"
+        }
+      ],
+      "tags": [
+        "genealogy",
+        "messiah",
+        "david",
+        "abraham",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The book of the generation of Jesus Christ, the son of David, the son of Abraham."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Abraham fathered Isaac, Isaac fathered Jacob, and Jacob fathered Judah and his brothers.",
+      "tags": [
+        "genealogy",
+        "abraham",
+        "jacob",
+        "judah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Abraham begat Isaac; and Isaac begat Jacob; and Jacob begat Judas and his brethren;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Judah fathered Perez and Zerah by Tamar; Perez fathered Hezron, and Hezron fathered Ram.",
+      "tags": [
+        "genealogy",
+        "tamar",
+        "judah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judas begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Ram fathered Amminadab, Amminadab fathered Nahshon, and Nahshon fathered Salmon.",
+      "tags": [
+        "genealogy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Salmon fathered Boaz by Rahab, Boaz fathered Obed by Ruth, and Obed fathered Jesse.",
+      "tags": [
+        "genealogy",
+        "rahab",
+        "ruth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Salmon begat Booz of Rachab; and Booz begat Obed of Ruth; and Obed begat Jesse;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Jesse fathered David the king. David fathered Solomon by the wife of Uriah.",
+      "tags": [
+        "genealogy",
+        "david",
+        "bathsheba",
+        "uriah",
+        "kingship-power",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesse begat David the king; and David the king begat Solomon of her that had been the wife of Urias;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Solomon fathered Rehoboam, Rehoboam fathered Abijah, and Abijah fathered Asaph/Asa.",
+      "tags": [
+        "genealogy",
+        "kings"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Asaph/Asa fathered Jehoshaphat, Jehoshaphat fathered Joram, and Joram fathered Uzziah.",
+      "tags": [
+        "genealogy",
+        "kings"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Uzziah fathered Jotham, Jotham fathered Ahaz, and Ahaz fathered Hezekiah.",
+      "tags": [
+        "genealogy",
+        "kings"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ozias begat Joatham; and Joatham begat Achaz; and Achaz begat Ezekias;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Hezekiah fathered Manasseh, Manasseh fathered Amos/Amon, and Amos/Amon fathered Josiah.",
+      "tags": [
+        "genealogy",
+        "kings"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ezekias begat Manasses; and Manasses begat Amon; and Amon begat Josias;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Josiah fathered Jeconiah and his brothers at the time of the deportation to Babylon.",
+      "tags": [
+        "genealogy",
+        "babylon",
+        "exile"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Josias begat Jechonias and his brethren, about the time they were carried away to Babylon:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "After the deportation to Babylon, Jeconiah fathered Shealtiel, and Shealtiel fathered Zerubbabel.",
+      "tags": [
+        "genealogy",
+        "exile",
+        "return"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Zerubbabel fathered Abiud, Abiud fathered Eliakim, and Eliakim fathered Azor.",
+      "tags": [
+        "genealogy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zorobabel begat Abiud; and Abiud begat Eliakim; and Eliakim begat Azor;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Azor fathered Zadok, Zadok fathered Achim, and Achim fathered Eliud.",
+      "tags": [
+        "genealogy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Azor begat Sadoc; and Sadoc begat Achim; and Achim begat Eliud;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Eliud fathered Eleazar, Eleazar fathered Matthan, and Matthan fathered Jacob.",
+      "tags": [
+        "genealogy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Eliud begat Eleazar; and Eleazar begat Matthan; and Matthan begat Jacob;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Jacob fathered Joseph, the husband of Mary, from whom Jesus was born, the one called Messiah.",
+      "terms": [
+        {
+          "display": "from whom",
+          "source": "ex hes",
+          "language": "Greek",
+          "glossary_id": "relative-feminine"
+        },
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "mary",
+        "joseph",
+        "jesus",
+        "messiah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jacob begat Joseph the husband of Mary, of whom was born Jesus, who is called Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "So all the generations from Abraham to David were fourteen generations, from David to the deportation to Babylon fourteen generations, and from the deportation to Babylon to the Messiah fourteen generations.",
+      "tags": [
+        "genealogy",
+        "fourteen",
+        "david",
+        "babylon"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So all the generations from Abraham to David are fourteen generations; and from David until the carrying away into Babylon are fourteen generations; and from the carrying away into Babylon unto Christ are fourteen generations."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The genesis/birth of Jesus Messiah was this way: his mother Mary had been betrothed to Joseph, but before they came together she was found to be carrying in the womb from holy Spirit.",
+      "terms": [
+        {
+          "display": "holy Spirit",
+          "source": "pneumatos hagiou",
+          "language": "Greek",
+          "glossary_id": "pneuma-hagion"
+        },
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "birth",
+        "mary",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the birth of Jesus Christ was on this wise: When as his mother Mary was espoused to Joseph, before they came together, she was found with child of the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Joseph her husband, being just and not wanting to expose her publicly, intended to release her quietly.",
+      "terms": [
+        {
+          "display": "just",
+          "source": "dikaios",
+          "language": "Greek",
+          "glossary_id": "dikaios"
+        },
+        {
+          "display": "release",
+          "source": "apolysai",
+          "language": "Greek",
+          "glossary_id": "apoluo"
+        }
+      ],
+      "tags": [
+        "joseph",
+        "justice",
+        "mercy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Joseph her husband, being a just man, and not willing to make her a publick example, was minded to put her away privily."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "As he considered these things, look, a messenger of the Lord appeared to him in a dream, saying, Joseph son of David, do not fear to take Mary your wife, for what has been generated in her is from holy Spirit.",
+      "terms": [
+        {
+          "display": "messenger",
+          "source": "angelos",
+          "language": "Greek",
+          "glossary_id": "angelos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "dream",
+        "joseph",
+        "spirit",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But while he thought on these things, behold, the angel of the LORD appeared unto him in a dream, saying, Joseph, thou son of David, fear not to take unto thee Mary thy wife: for that which is conceived in her is of the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "She will bear a son, and you shall call his name Jesus/Yeshua, for he will save his people from their sins.",
+      "terms": [
+        {
+          "display": "Jesus/Yeshua",
+          "source": "Iesous",
+          "language": "Greek",
+          "glossary_id": "iesous-yeshua"
+        },
+        {
+          "display": "save",
+          "source": "sosei",
+          "language": "Greek",
+          "glossary_id": "sozo"
+        },
+        {
+          "display": "sins",
+          "source": "hamartiai",
+          "language": "Greek",
+          "glossary_id": "hamartia"
+        }
+      ],
+      "tags": [
+        "name",
+        "salvation",
+        "sins",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she shall bring forth a son, and thou shalt call his name JESUS: for he shall save his people from their sins."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "All this happened so that what was spoken by the Lord through the prophet might be fulfilled, saying:",
+      "tags": [
+        "fulfillment",
+        "prophet",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Look, the virgin/young woman will carry in the womb and will bear a son, and they will call his name Emmanuel, which is translated, God with us.",
+      "terms": [
+        {
+          "display": "virgin/young woman",
+          "source": "parthenos; citing Isaiah tradition",
+          "language": "Greek",
+          "glossary_id": "parthenos"
+        },
+        {
+          "display": "Emmanuel",
+          "source": "Emmanouel",
+          "language": "Greek",
+          "glossary_id": "emmanuel"
+        }
+      ],
+      "tags": [
+        "isaiah",
+        "emmanuel",
+        "god-with-us",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, a virgin shall be with child, and shall bring forth a son, and they shall call his name Emmanuel, which being interpreted is, God with us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Joseph rose from sleep and did as the messenger of the Lord commanded him; he took his wife.",
+      "tags": [
+        "joseph",
+        "obedience",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Joseph being raised from sleep did as the angel of the Lord had bidden him, and took unto him his wife:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "But he did not know her until she had borne a son, and he called his name Jesus/Yeshua.",
+      "tags": [
+        "joseph",
+        "mary",
+        "jesus",
+        "name",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And knew her not till she had brought forth her firstborn son: and he called his name JESUS."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-25",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

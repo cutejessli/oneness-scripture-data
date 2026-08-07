@@ -1,34 +1,555 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":16,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for sign demand, yeast of Pharisees/Sadducees, Peter confession, rock/keys/binding-loosing, first passion prediction, Satan/adversary rebuke, cross-following, psyche life/soul, Son of Humanity coming."},
-  "verses":[
-    {"verse":1,"restored":"Pharisees and Sadducees came, testing him, and asked him to show them a sign from heaven.","tags":["testing","sign","heaven"]},
-    {"verse":2,"restored":"He answered them, When evening comes you say, Fair weather, for the sky is red.","tags":["sign","sky"]},
-    {"verse":3,"restored":"And in the morning, Storm today, for the sky is red and gloomy. You know how to discern the face of the sky, but not the signs of the times.","tags":["discernment","times"]},
-    {"verse":4,"restored":"A harmful and adulterous generation seeks a sign, and no sign will be given except the sign of Jonah. Leaving them, he went away.","tags":["jonah","sign","generation"]},
-    {"verse":5,"restored":"The disciples came to the other side and had forgotten to take bread.","tags":["disciples","bread"]},
-    {"verse":6,"restored":"Jesus said to them, Watch and beware of the leaven of the Pharisees and Sadducees.","tags":["leaven","pharisees","sadducees"]},
-    {"verse":7,"restored":"They reasoned among themselves, saying, It is because we took no bread.","tags":["misunderstanding","bread"]},
-    {"verse":8,"restored":"Knowing this, Jesus said, Ones of little trust, why do you reason among yourselves that you have no bread?","tags":["little-trust","bread"]},
-    {"verse":9,"restored":"Do you not yet understand or remember the five loaves for the five thousand, and how many baskets you took up?","tags":["loaves","memory"]},
-    {"verse":10,"restored":"Nor the seven loaves for the four thousand, and how many baskets you took up?","tags":["loaves","memory"]},
-    {"verse":11,"restored":"How do you not understand that I did not speak to you about bread, but to beware of the leaven of the Pharisees and Sadducees?","tags":["leaven","understanding"]},
-    {"verse":12,"restored":"Then they understood that he did not say to beware of bread-leaven, but of the teaching of the Pharisees and Sadducees.","tags":["teaching","leaven"]},
-    {"verse":13,"restored":"Coming into the region of Caesarea Philippi, Jesus asked his disciples, Who do people say the Son of Humanity is?","tags":["caesarea-philippi","son-of-humanity"]},
-    {"verse":14,"restored":"They said, Some say John the Baptist, others Elijah, others Jeremiah or one of the prophets.","tags":["prophets","identity"]},
-    {"verse":15,"restored":"He said to them, But you, who do you say I am?","tags":["identity","disciples"]},
-    {"verse":16,"restored":"Simon Peter answered, You are the Messiah, the Son of the living Divine.","tags":["peter","messiah","son-divine"]},
-    {"verse":17,"restored":"Jesus answered him, Blessed/flourishing are you, Simon Bar-Jonah, because flesh and blood did not reveal this to you, but my Father in the heavens.","tags":["revelation","father","blessed"]},
-    {"verse":18,"restored":"And I also say to you that you are Peter/Rock, and on this rock I will build my assembly, and the gates of Hades will not overpower it.","terms":[{"display":"assembly","source":"ekklesia","language":"Greek","glossary_id":"ekklesia"}],"tags":["peter","rock","hades","assembly"]},
-    {"verse":19,"restored":"I will give you the keys of the reign of the heavens; whatever you bind on earth will have been bound in the heavens, and whatever you loose on earth will have been loosed in the heavens.","tags":["keys","binding-loosing","heaven-earth"]},
-    {"verse":20,"restored":"Then he ordered the disciples to tell no one that he was the Messiah.","tags":["messiah","silence"]},
-    {"verse":21,"restored":"From then Jesus began to show his disciples that he must go to Jerusalem, suffer many things from elders, chief priests, and scribes, be killed, and on the third day be raised.","tags":["jerusalem","suffering","third-day"]},
-    {"verse":22,"restored":"Peter took him aside and began to rebuke him, saying, Mercy to you, Lord; this shall never happen to you.","tags":["peter","rebuke"]},
-    {"verse":23,"restored":"But turning, he said to Peter, Go behind me, adversary; you are a stumbling-block to me, because you are not thinking the things of the Divine, but the things of humans.","terms":[{"display":"adversary","source":"Satana","language":"Greek","glossary_id":"satanas"}],"tags":["adversary","stumbling","human-thinking"]},
-    {"verse":24,"restored":"Then Jesus said to his disciples, If anyone wants to come after me, let that one deny self, take up the cross, and follow me.","tags":["cross","following","self"]},
-    {"verse":25,"restored":"For whoever wants to save his life/soul will lose it, but whoever loses his life/soul because of me will find it.","terms":[{"display":"life/soul","source":"psyche","language":"Greek","glossary_id":"psyche"}],"tags":["psyche","life","discipleship"]},
-    {"verse":26,"restored":"For what will a person be profited if gaining the whole world but forfeiting his life/soul? Or what will a person give in exchange for his life/soul?","tags":["world","psyche","exchange"]},
-    {"verse":27,"restored":"For the Son of Humanity is about to come in the glory of his Father with his messengers, and then he will give back to each according to practice.","tags":["son-of-humanity","glory","practice"]},
-    {"verse":28,"restored":"Amen, I say to you: there are some standing here who will certainly not taste death until they see the Son of Humanity coming in his reign.","tags":["son-of-humanity","kingdom","coming"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 16,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for sign demand, yeast of Pharisees/Sadducees, Peter confession, rock/keys/binding-loosing, first passion prediction, Satan/adversary rebuke, cross-following, psyche life/soul, Son of Humanity coming."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Pharisees and Sadducees came, testing him, and asked him to show them a sign from heaven.",
+      "tags": [
+        "testing",
+        "sign",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He answered them, When evening comes you say, Fair weather, for the sky is red.",
+      "tags": [
+        "sign",
+        "sky"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered and said unto them, When it is evening, ye say, It will be fair weather: for the sky is red."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And in the morning, Storm today, for the sky is red and gloomy. You know how to discern the face of the sky, but not the signs of the times.",
+      "tags": [
+        "discernment",
+        "times"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the morning, It will be foul weather to day: for the sky is red and lowring. O ye hypocrites, ye can discern the face of the sky; but can ye not discern the signs of the times?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "A harmful and adulterous generation seeks a sign, and no sign will be given except the sign of Jonah. Leaving them, he went away.",
+      "tags": [
+        "jonah",
+        "sign",
+        "generation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "A wicked and adulterous generation seeketh after a sign; and there shall no sign be given unto it, but the sign of the prophet Jonas. And he left them, and departed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The disciples came to the other side and had forgotten to take bread.",
+      "tags": [
+        "disciples",
+        "bread",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when his disciples were come to the other side, they had forgotten to take bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Jesus said to them, Watch and beware of the leaven of the Pharisees and Sadducees.",
+      "tags": [
+        "leaven",
+        "pharisees",
+        "sadducees"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus said unto them, Take heed and beware of the leaven of the Pharisees and of the Sadducees."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They reasoned among themselves, saying, It is because we took no bread.",
+      "tags": [
+        "misunderstanding",
+        "bread",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they reasoned among themselves, saying, It is because we have taken no bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Knowing this, Jesus said, Ones of little trust, why do you reason among yourselves that you have no bread?",
+      "tags": [
+        "little-trust",
+        "bread",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which when Jesus perceived, he said unto them, O ye of little faith, why reason ye among yourselves, because ye have brought no bread?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Do you not yet understand or remember the five loaves for the five thousand, and how many baskets you took up?",
+      "tags": [
+        "loaves",
+        "memory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye not yet understand, neither remember the five loaves of the five thousand, and how many baskets ye took up?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Nor the seven loaves for the four thousand, and how many baskets you took up?",
+      "tags": [
+        "loaves",
+        "memory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither the seven loaves of the four thousand, and how many baskets ye took up?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "How do you not understand that I did not speak to you about bread, but to beware of the leaven of the Pharisees and Sadducees?",
+      "tags": [
+        "leaven",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How is it that ye do not understand that I spake it not to you concerning bread, that ye should beware of the leaven of the Pharisees and of the Sadducees?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Then they understood that he did not say to beware of bread-leaven, but of the teaching of the Pharisees and Sadducees.",
+      "tags": [
+        "teaching",
+        "leaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Coming into the region of Caesarea Philippi, Jesus asked his disciples, Who do people say the Son of Humanity is?",
+      "tags": [
+        "caesarea-philippi",
+        "son-of-humanity",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying, Whom do men say that I the Son of man am?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "They said, Some say John the Baptist, others Elijah, others Jeremiah or one of the prophets.",
+      "tags": [
+        "prophets",
+        "identity",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremias, or one of the prophets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He said to them, But you, who do you say I am?",
+      "tags": [
+        "identity",
+        "disciples"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith unto them, But whom say ye that I am?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Simon Peter answered, You are the Messiah, the Son of the living Divine.",
+      "tags": [
+        "peter",
+        "messiah",
+        "son-divine",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Simon Peter answered and said, Thou art the Christ, the Son of the living God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Jesus answered him, Blessed/flourishing are you, Simon Bar-Jonah, because flesh and blood did not reveal this to you, but my Father in the heavens.",
+      "tags": [
+        "revelation",
+        "father",
+        "blessed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answered and said unto him, Blessed art thou, Simon Barjona: for flesh and blood hath not revealed it unto thee, but my Father which is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And I also say to you that you are Peter/Rock, and on this rock I will build my assembly, and the gates of Hades will not overpower it.",
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia"
+        }
+      ],
+      "tags": [
+        "peter",
+        "rock",
+        "hades",
+        "assembly"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I say also unto thee, That thou art Peter, and upon this rock I will build my church; and the gates of hell shall not prevail against it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "I will give you the keys of the reign of the heavens; whatever you bind on earth will have been bound in the heavens, and whatever you loose on earth will have been loosed in the heavens.",
+      "tags": [
+        "keys",
+        "binding-loosing",
+        "heaven-earth",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will give unto thee the keys of the kingdom of heaven: and whatsoever thou shalt bind on earth shall be bound in heaven: and whatsoever thou shalt loose on earth shall be loosed in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Then he ordered the disciples to tell no one that he was the Messiah.",
+      "tags": [
+        "messiah",
+        "silence",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then charged he his disciples that they should tell no man that he was Jesus the Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "From then Jesus began to show his disciples that he must go to Jerusalem, suffer many things from elders, chief priests, and scribes, be killed, and on the third day be raised.",
+      "tags": [
+        "jerusalem",
+        "suffering",
+        "third-day",
+        "war-violence",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "From that time forth began Jesus to shew unto his disciples, how that he must go unto Jerusalem, and suffer many things of the elders and chief priests and scribes, and be killed, and be raised again the third day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Peter took him aside and began to rebuke him, saying, Mercy to you, Lord; this shall never happen to you.",
+      "tags": [
+        "peter",
+        "rebuke"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Peter took him, and began to rebuke him, saying, Be it far from thee, Lord: this shall not be unto thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "But turning, he said to Peter, Go behind me, adversary; you are a stumbling-block to me, because you are not thinking the things of the Divine, but the things of humans.",
+      "terms": [
+        {
+          "display": "adversary",
+          "source": "Satana",
+          "language": "Greek",
+          "glossary_id": "satanas"
+        }
+      ],
+      "tags": [
+        "adversary",
+        "stumbling",
+        "human-thinking"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he turned, and said unto Peter, Get thee behind me, Satan: thou art an offence unto me: for thou savourest not the things that be of God, but those that be of men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Then Jesus said to his disciples, If anyone wants to come after me, let that one deny self, take up the cross, and follow me.",
+      "tags": [
+        "cross",
+        "following",
+        "self",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Jesus unto his disciples, If any man will come after me, let him deny himself, and take up his cross, and follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For whoever wants to save his life/soul will lose it, but whoever loses his life/soul because of me will find it.",
+      "terms": [
+        {
+          "display": "life/soul",
+          "source": "psyche",
+          "language": "Greek",
+          "glossary_id": "psyche"
+        }
+      ],
+      "tags": [
+        "psyche",
+        "life",
+        "discipleship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever will save his life shall lose it: and whosoever will lose his life for my sake shall find it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For what will a person be profited if gaining the whole world but forfeiting his life/soul? Or what will a person give in exchange for his life/soul?",
+      "tags": [
+        "world",
+        "psyche",
+        "exchange",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For what is a man profited, if he shall gain the whole world, and lose his own soul? or what shall a man give in exchange for his soul?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "For the Son of Humanity is about to come in the glory of his Father with his messengers, and then he will give back to each according to practice.",
+      "tags": [
+        "son-of-humanity",
+        "glory",
+        "practice",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Son of man shall come in the glory of his Father with his angels; and then he shall reward every man according to his works."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Amen, I say to you: there are some standing here who will certainly not taste death until they see the Son of Humanity coming in his reign.",
+      "tags": [
+        "son-of-humanity",
+        "kingdom",
+        "coming",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, There be some standing here, which shall not taste of death, till they see the Son of man coming in his kingdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-28",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-28",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

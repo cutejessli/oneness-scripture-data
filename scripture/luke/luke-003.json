@@ -1,46 +1,736 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":3,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for imperial dating, John wilderness ministry, Isaiah citation, fruits of turning, ethical instruction, Messiah expectation, baptism of Jesus, voice, and genealogy."},
-  "verses":[
-    {"verse":1,"restored":"In the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate governing Judea, Herod being tetrarch of Galilee, his brother Philip tetrarch of Iturea and Trachonitis, and Lysanias tetrarch of Abilene,","tags":["imperial-time","tiberius","pilate","herod"]},
-    {"verse":2,"restored":"during the high priesthood of Annas and Caiaphas, the word of the Divine came upon John son of Zechariah in the wilderness.","tags":["john","word","wilderness"]},
-    {"verse":3,"restored":"He went into all the region around the Jordan, proclaiming a baptism of turning/realignment for release of sins/misalignments.","terms":[{"display":"turning/realignment","source":"metanoias","language":"Greek","glossary_id":"metanoia"},{"display":"release","source":"aphesin","language":"Greek","glossary_id":"aphiemi"}],"tags":["john","baptism","release"]},
-    {"verse":4,"restored":"As it has been written in the scroll of the words of Isaiah the prophet: A voice of one crying in the wilderness, Prepare the way of the Lord; make his paths straight.","tags":["isaiah","wilderness","way"]},
-    {"verse":5,"restored":"Every ravine will be filled, every mountain and hill will be made low, the crooked will become straight, and the rough ways smooth.","tags":["reversal","way"]},
-    {"verse":6,"restored":"All flesh will see the salvation of the Divine.","terms":[{"display":"salvation","source":"soterion","language":"Greek","glossary_id":"soteria"}],"tags":["salvation","all-flesh"]},
-    {"verse":7,"restored":"He said to the crowds coming out to be baptized by him, Offspring of vipers, who warned you to flee from the coming wrath?","tags":["crowds","warning"]},
-    {"verse":8,"restored":"Therefore make fruits worthy of turning/realignment, and do not begin to say among yourselves, We have Abraham as father; for I say to you that the Divine is able from these stones to raise children to Abraham.","tags":["fruit","abraham","stones"]},
-    {"verse":9,"restored":"Even now the axe is laid to the root of the trees; every tree not making beautiful/good fruit is cut down and thrown into fire.","tags":["fruit","root","warning"]},
-    {"verse":10,"restored":"The crowds asked him, What then shall we do?","tags":["crowds","ethics"]},
-    {"verse":11,"restored":"He answered them, The one having two tunics must share with the one having none, and the one having food must do likewise.","tags":["sharing","food","justice"]},
-    {"verse":12,"restored":"Tax collectors also came to be baptized and said to him, Teacher, what shall we do?","tags":["tax-collectors","ethics"]},
-    {"verse":13,"restored":"He said to them, Collect nothing more than what has been appointed to you.","tags":["taxes","justice"]},
-    {"verse":14,"restored":"Soldiers also asked him, And we, what shall we do? He said to them, Extort from no one, accuse no one falsely, and be content with your wages.","tags":["soldiers","justice","contentment"]},
-    {"verse":15,"restored":"As the people were waiting expectantly and all were reasoning in their hearts about John, whether he might be the Messiah,","tags":["expectation","messiah","heart"]},
-    {"verse":16,"restored":"John answered all, saying, I baptize you with water, but one stronger than I is coming; I am not worthy to loosen the strap of his sandals. He will baptize you in holy Spirit and fire.","tags":["water","spirit","fire"]},
-    {"verse":17,"restored":"His winnowing fork is in his hand to clear his threshing floor, to gather the wheat into his storehouse, but the chaff he will burn with unquenchable fire.","tags":["wheat","chaff","fire"]},
-    {"verse":18,"restored":"So with many other exhortations he announced good news to the people.","tags":["good-news","exhortation"]},
-    {"verse":19,"restored":"But Herod the tetrarch, being rebuked by him concerning Herodias, his brother's wife, and concerning all the harmful things Herod had done,","tags":["herod","rebuke"]},
-    {"verse":20,"restored":"added this also to them all: he shut John in prison.","tags":["john","prison"]},
-    {"verse":21,"restored":"Now when all the people were baptized, and Jesus also had been baptized and was praying, heaven was opened,","tags":["jesus","baptism","prayer","heaven"]},
-    {"verse":22,"restored":"and the holy Spirit descended upon him in bodily form like a dove, and a voice came from heaven: You are my beloved Son; in you I delight.","tags":["spirit","dove","beloved-son"]},
-    {"verse":23,"restored":"Jesus himself was about thirty years old when he began, being, as was supposed, son of Joseph, son of Heli,","tags":["genealogy","joseph"]},
-    {"verse":24,"restored":"son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,","tags":["genealogy"]},
-    {"verse":25,"restored":"son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,","tags":["genealogy"]},
-    {"verse":26,"restored":"son of Maath, son of Mattathias, son of Semein, son of Josech, son of Joda,","tags":["genealogy"]},
-    {"verse":27,"restored":"son of Joanan, son of Rhesa, son of Zerubbabel, son of Shealtiel, son of Neri,","tags":["genealogy"]},
-    {"verse":28,"restored":"son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,","tags":["genealogy"]},
-    {"verse":29,"restored":"son of Joshua, son of Eliezer, son of Jorim, son of Matthat, son of Levi,","tags":["genealogy"]},
-    {"verse":30,"restored":"son of Simeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim,","tags":["genealogy"]},
-    {"verse":31,"restored":"son of Melea, son of Menna, son of Mattatha, son of Nathan, son of David,","tags":["genealogy","david"]},
-    {"verse":32,"restored":"son of Jesse, son of Obed, son of Boaz, son of Sala, son of Nahshon,","tags":["genealogy"]},
-    {"verse":33,"restored":"son of Amminadab, son of Admin, son of Arni, son of Hezron, son of Perez, son of Judah,","tags":["genealogy"]},
-    {"verse":34,"restored":"son of Jacob, son of Isaac, son of Abraham, son of Terah, son of Nahor,","tags":["genealogy","abraham"]},
-    {"verse":35,"restored":"son of Serug, son of Reu, son of Peleg, son of Eber, son of Shelah,","tags":["genealogy"]},
-    {"verse":36,"restored":"son of Cainan, son of Arphaxad, son of Shem, son of Noah, son of Lamech,","tags":["genealogy","noah"]},
-    {"verse":37,"restored":"son of Methuselah, son of Enoch, son of Jared, son of Mahalaleel, son of Cainan,","tags":["genealogy"]},
-    {"verse":38,"restored":"son of Enosh, son of Seth, son of Adam, son of the Divine.","tags":["genealogy","adam","divine"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for imperial dating, John wilderness ministry, Isaiah citation, fruits of turning, ethical instruction, Messiah expectation, baptism of Jesus, voice, and genealogy."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In the fifteenth year of the rule of Tiberius Caesar, Pontius Pilate governing Judea, Herod being tetrarch of Galilee, his brother Philip tetrarch of Iturea and Trachonitis, and Lysanias tetrarch of Abilene,",
+      "tags": [
+        "imperial-time",
+        "tiberius",
+        "pilate",
+        "herod"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the fifteenth year of the reign of Tiberius Caesar, Pontius Pilate being governor of Judaea, and Herod being tetrarch of Galilee, and his brother Philip tetrarch of Ituraea and of the region of Trachonitis, and Lysanias the tetrarch of Abilene,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "during the high priesthood of Annas and Caiaphas, the word of the Divine came upon John son of Zechariah in the wilderness.",
+      "tags": [
+        "john",
+        "word",
+        "wilderness",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Annas and Caiaphas being the high priests, the word of God came unto John the son of Zacharias in the wilderness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He went into all the region around the Jordan, proclaiming a baptism of turning/realignment for release of sins/misalignments.",
+      "terms": [
+        {
+          "display": "turning/realignment",
+          "source": "metanoias",
+          "language": "Greek",
+          "glossary_id": "metanoia"
+        },
+        {
+          "display": "release",
+          "source": "aphesin",
+          "language": "Greek",
+          "glossary_id": "aphiemi"
+        }
+      ],
+      "tags": [
+        "john",
+        "baptism",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came into all the country about Jordan, preaching the baptism of repentance for the remission of sins;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "As it has been written in the scroll of the words of Isaiah the prophet: A voice of one crying in the wilderness, Prepare the way of the Lord; make his paths straight.",
+      "tags": [
+        "isaiah",
+        "wilderness",
+        "way",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As it is written in the book of the words of Esaias the prophet, saying, The voice of one crying in the wilderness, Prepare ye the way of the Lord, make his paths straight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Every ravine will be filled, every mountain and hill will be made low, the crooked will become straight, and the rough ways smooth.",
+      "tags": [
+        "reversal",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Every valley shall be filled, and every mountain and hill shall be brought low; and the crooked shall be made straight, and the rough ways shall be made smooth;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "All flesh will see the salvation of the Divine.",
+      "terms": [
+        {
+          "display": "salvation",
+          "source": "soterion",
+          "language": "Greek",
+          "glossary_id": "soteria"
+        }
+      ],
+      "tags": [
+        "salvation",
+        "all-flesh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all flesh shall see the salvation of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He said to the crowds coming out to be baptized by him, Offspring of vipers, who warned you to flee from the coming wrath?",
+      "tags": [
+        "crowds",
+        "warning",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said he to the multitude that came forth to be baptized of him, O generation of vipers, who hath warned you to flee from the wrath to come?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore make fruits worthy of turning/realignment, and do not begin to say among yourselves, We have Abraham as father; for I say to you that the Divine is able from these stones to raise children to Abraham.",
+      "tags": [
+        "fruit",
+        "abraham",
+        "stones",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Even now the axe is laid to the root of the trees; every tree not making beautiful/good fruit is cut down and thrown into fire.",
+      "tags": [
+        "fruit",
+        "root",
+        "warning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And now also the axe is laid unto the root of the trees: every tree therefore which bringeth not forth good fruit is hewn down, and cast into the fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The crowds asked him, What then shall we do?",
+      "tags": [
+        "crowds",
+        "ethics"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people asked him, saying, What shall we do then?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He answered them, The one having two tunics must share with the one having none, and the one having food must do likewise.",
+      "tags": [
+        "sharing",
+        "food",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answereth and saith unto them, He that hath two coats, let him impart to him that hath none; and he that hath meat, let him do likewise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Tax collectors also came to be baptized and said to him, Teacher, what shall we do?",
+      "tags": [
+        "tax-collectors",
+        "ethics",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came also publicans to be baptized, and said unto him, Master, what shall we do?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "He said to them, Collect nothing more than what has been appointed to you.",
+      "tags": [
+        "taxes",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Exact no more than that which is appointed you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Soldiers also asked him, And we, what shall we do? He said to them, Extort from no one, accuse no one falsely, and be content with your wages.",
+      "tags": [
+        "soldiers",
+        "justice",
+        "contentment",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "As the people were waiting expectantly and all were reasoning in their hearts about John, whether he might be the Messiah,",
+      "tags": [
+        "expectation",
+        "messiah",
+        "heart",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "John answered all, saying, I baptize you with water, but one stronger than I is coming; I am not worthy to loosen the strap of his sandals. He will baptize you in holy Spirit and fire.",
+      "tags": [
+        "water",
+        "spirit",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "John answered, saying unto them all, I indeed baptize you with water; but one mightier than I cometh, the latchet of whose shoes I am not worthy to unloose: he shall baptize you with the Holy Ghost and with fire:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "His winnowing fork is in his hand to clear his threshing floor, to gather the wheat into his storehouse, but the chaff he will burn with unquenchable fire.",
+      "tags": [
+        "wheat",
+        "chaff",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose fan is in his hand, and he will throughly purge his floor, and will gather the wheat into his garner; but the chaff he will burn with fire unquenchable."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "So with many other exhortations he announced good news to the people.",
+      "tags": [
+        "good-news",
+        "exhortation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And many other things in his exhortation preached he unto the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But Herod the tetrarch, being rebuked by him concerning Herodias, his brother's wife, and concerning all the harmful things Herod had done,",
+      "tags": [
+        "herod",
+        "rebuke",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Herod the tetrarch, being reproved by him for Herodias his brother Philip’s wife, and for all the evils which Herod had done,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "added this also to them all: he shut John in prison.",
+      "tags": [
+        "john",
+        "prison",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Added yet this above all, that he shut up John in prison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Now when all the people were baptized, and Jesus also had been baptized and was praying, heaven was opened,",
+      "tags": [
+        "jesus",
+        "baptism",
+        "prayer",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "and the holy Spirit descended upon him in bodily form like a dove, and a voice came from heaven: You are my beloved Son; in you I delight.",
+      "tags": [
+        "spirit",
+        "dove",
+        "beloved-son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Holy Ghost descended in a bodily shape like a dove upon him, and a voice came from heaven, which said, Thou art my beloved Son; in thee I am well pleased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Jesus himself was about thirty years old when he began, being, as was supposed, son of Joseph, son of Heli,",
+      "tags": [
+        "genealogy",
+        "joseph",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus himself began to be about thirty years of age, being (as was supposed) the son of Joseph, which was the son of Heli,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "son of Matthat, son of Levi, son of Melchi, son of Jannai, son of Joseph,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Matthat, which was the son of Levi, which was the son of Melchi, which was the son of Janna, which was the son of Joseph,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "son of Mattathias, son of Amos, son of Nahum, son of Esli, son of Naggai,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Mattathias, which was the son of Amos, which was the son of Naum, which was the son of Esli, which was the son of Nagge,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "son of Maath, son of Mattathias, son of Semein, son of Josech, son of Joda,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Maath, which was the son of Mattathias, which was the son of Semei, which was the son of Joseph, which was the son of Juda,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "son of Joanan, son of Rhesa, son of Zerubbabel, son of Shealtiel, son of Neri,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Joanna, which was the son of Rhesa, which was the son of Zorobabel, which was the son of Salathiel, which was the son of Neri,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "son of Melchi, son of Addi, son of Cosam, son of Elmadam, son of Er,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Melchi, which was the son of Addi, which was the son of Cosam, which was the son of Elmodam, which was the son of Er,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "son of Joshua, son of Eliezer, son of Jorim, son of Matthat, son of Levi,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Jose, which was the son of Eliezer, which was the son of Jorim, which was the son of Matthat, which was the son of Levi,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "son of Simeon, son of Judah, son of Joseph, son of Jonam, son of Eliakim,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Simeon, which was the son of Juda, which was the son of Joseph, which was the son of Jonan, which was the son of Eliakim,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "son of Melea, son of Menna, son of Mattatha, son of Nathan, son of David,",
+      "tags": [
+        "genealogy",
+        "david",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Melea, which was the son of Menan, which was the son of Mattatha, which was the son of Nathan, which was the son of David,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "son of Jesse, son of Obed, son of Boaz, son of Sala, son of Nahshon,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Jesse, which was the son of Obed, which was the son of Booz, which was the son of Salmon, which was the son of Naasson,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "son of Amminadab, son of Admin, son of Arni, son of Hezron, son of Perez, son of Judah,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Aminadab, which was the son of Aram, which was the son of Esrom, which was the son of Phares, which was the son of Juda,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "son of Jacob, son of Isaac, son of Abraham, son of Terah, son of Nahor,",
+      "tags": [
+        "genealogy",
+        "abraham",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Jacob, which was the son of Isaac, which was the son of Abraham, which was the son of Thara, which was the son of Nachor,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "son of Serug, son of Reu, son of Peleg, son of Eber, son of Shelah,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Saruch, which was the son of Ragau, which was the son of Phalec, which was the son of Heber, which was the son of Sala,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "son of Cainan, son of Arphaxad, son of Shem, son of Noah, son of Lamech,",
+      "tags": [
+        "genealogy",
+        "noah",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Cainan, which was the son of Arphaxad, which was the son of Sem, which was the son of Noe, which was the son of Lamech,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "son of Methuselah, son of Enoch, son of Jared, son of Mahalaleel, son of Cainan,",
+      "tags": [
+        "genealogy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Mathusala, which was the son of Enoch, which was the son of Jared, which was the son of Maleleel, which was the son of Cainan,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "son of Enosh, son of Seth, son of Adam, son of the Divine.",
+      "tags": [
+        "genealogy",
+        "adam",
+        "divine",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was the son of Enos, which was the son of Seth, which was the son of Adam, which was the son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-38",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-38",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

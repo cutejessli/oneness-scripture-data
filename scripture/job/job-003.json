@@ -1,32 +1,691 @@
 {
-  "book":"Job","book_id":"job","chapter":3,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Reviewed as Job's opening lament: curse of birth-day, night of conception, Leviathan imagery, death/rest language, and anguished why-questions. Poetic lines are compact but verse-complete."},
-  "verses":[
-    {"verse":1,"restored":"After this, Job opened his mouth and cursed his day.","terms":[{"display":"cursed","source":"qalal","language":"Hebrew","glossary_id":"qalal"},{"display":"his day","source":"yomo","language":"Hebrew","glossary_id":"day"}],"tags":["job","lament","curse"]},
-    {"verse":2,"restored":"Job answered and said:","terms":[{"display":"answered","source":"anah","language":"Hebrew","glossary_id":"anah-answer"}],"tags":["speech"]},
-    {"verse":3,"restored":"Let the day perish on which I was born, and the night that said, A male has been conceived.","terms":[{"display":"perish","source":"avad","language":"Hebrew","glossary_id":"avad-perish"},{"display":"conceived","source":"harah","language":"Hebrew","glossary_id":"harah"}],"tags":["birth","lament"]},
-    {"verse":4,"restored":"Let that day be darkness. Let the Divine above not seek it, and let no light shine upon it.","terms":[{"display":"darkness","source":"choshekh","language":"Hebrew","glossary_id":"choshekh"},{"display":"seek","source":"darash","language":"Hebrew","glossary_id":"darash"}],"tags":["darkness","uncreation"]},
-    {"verse":5,"restored":"Let darkness and deep shadow reclaim it. Let a cloud dwell upon it. Let the blackness of day terrify it.","terms":[{"display":"deep shadow","source":"tsalmavet","language":"Hebrew","glossary_id":"tsalmavet"}],"tags":["darkness","shadow"]},
-    {"verse":6,"restored":"That night, let thick darkness take it. Let it not rejoice among the days of the year; let it not come into the number of months.","terms":[{"display":"thick darkness","source":"ophel","language":"Hebrew","glossary_id":"ophel"}],"tags":["night","lament"]},
-    {"verse":7,"restored":"Look, let that night be barren; let no joyful cry enter it.","terms":[{"display":"barren","source":"galmud","language":"Hebrew","glossary_id":"galmud"}],"tags":["barrenness","night"]},
-    {"verse":8,"restored":"Let those who curse the day curse it, those ready to rouse Leviathan.","terms":[{"display":"Leviathan","source":"livyatan","language":"Hebrew","glossary_id":"leviathan"}],"tags":["leviathan","curse"]},
-    {"verse":9,"restored":"Let the stars of its dawn be dark. Let it wait for light and have none, and let it not see the eyelids of morning.","terms":[{"display":"eyelids of morning","source":"afapei shachar","language":"Hebrew","glossary_id":"eyelids-morning"}],"tags":["dawn","darkness"]},
-    {"verse":10,"restored":"Because it did not shut the doors of my mother’s womb, nor hide trouble from my eyes.","terms":[{"display":"womb","source":"beten","language":"Hebrew","glossary_id":"womb"},{"display":"trouble","source":"amal","language":"Hebrew","glossary_id":"amal"}],"tags":["womb","trouble"]},
-    {"verse":11,"restored":"Why did I not die from the womb, come out from the belly and expire?","terms":[{"display":"why","source":"lammah","language":"Hebrew","glossary_id":"lammah"}],"tags":["why","death"]},
-    {"verse":12,"restored":"Why did knees receive me, and why breasts, that I should nurse?","terms":[{"display":"breasts","source":"shadayim","language":"Hebrew","glossary_id":"breasts"}],"tags":["birth","nursing"]},
-    {"verse":13,"restored":"For now I would have lain down and been quiet; I would have slept; then I would be at rest,","terms":[{"display":"rest","source":"nuach","language":"Hebrew","glossary_id":"nuach"}],"tags":["rest","death"]},
-    {"verse":14,"restored":"with kings and counselors of the earth, who built ruins for themselves,","terms":[{"display":"ruins","source":"choravot","language":"Hebrew","glossary_id":"ruins"}],"tags":["death","kings"]},
-    {"verse":15,"restored":"or with princes who had gold, who filled their houses with silver.","terms":[{"display":"gold","source":"zahav","language":"Hebrew","glossary_id":"zahav"}],"tags":["wealth","death"]},
-    {"verse":16,"restored":"Or why was I not like a hidden miscarriage, like infants who never saw light?","terms":[{"display":"miscarriage","source":"nefel","language":"Hebrew","glossary_id":"nefel"}],"tags":["birth","light"]},
-    {"verse":17,"restored":"There the wicked cease from agitation, and there the weary of strength rest.","terms":[{"display":"wicked","source":"reshaim","language":"Hebrew","glossary_id":"reshaim"},{"display":"weary","source":"yegiei koach","language":"Hebrew","glossary_id":"weary-strength"}],"tags":["death","rest"]},
-    {"verse":18,"restored":"Captives are at ease together; they do not hear the voice of the taskmaster.","terms":[{"display":"taskmaster","source":"noges","language":"Hebrew","glossary_id":"taskmaster"}],"tags":["captives","rest"]},
-    {"verse":19,"restored":"Small and great are there, and the servant is free from his master.","terms":[{"display":"free","source":"chofshi","language":"Hebrew","glossary_id":"chofshi"}],"tags":["freedom","death"]},
-    {"verse":20,"restored":"Why does he give light to the troubled, and life to the bitter of soul,","terms":[{"display":"bitter of soul","source":"marei nafesh","language":"Hebrew","glossary_id":"bitter-soul"}],"tags":["why","suffering"]},
-    {"verse":21,"restored":"who wait for death, but it is not there, and dig for it more than hidden treasures,","terms":[{"display":"hidden treasures","source":"matmonim","language":"Hebrew","glossary_id":"hidden-treasures"}],"tags":["death","waiting"]},
-    {"verse":22,"restored":"who rejoice greatly and are glad when they find the grave?","terms":[{"display":"grave","source":"qever","language":"Hebrew","glossary_id":"grave"}],"tags":["grave","anguish"]},
-    {"verse":23,"restored":"Why give light to a man whose way is hidden, whom the Divine has hedged in?","terms":[{"display":"way hidden","source":"darko nistarah","language":"Hebrew","glossary_id":"hidden-way"},{"display":"hedged in","source":"sakh","language":"Hebrew","glossary_id":"hedge"}],"tags":["hidden-way","hedge"]},
-    {"verse":24,"restored":"For my sighing comes before my bread, and my groanings pour out like waters.","terms":[{"display":"sighing","source":"anchah","language":"Hebrew","glossary_id":"sighing"},{"display":"groanings","source":"shaagot","language":"Hebrew","glossary_id":"groanings"}],"tags":["grief","bread"]},
-    {"verse":25,"restored":"For the dread I dreaded has come upon me, and what I feared has arrived at me.","terms":[{"display":"dread","source":"pachad","language":"Hebrew","glossary_id":"pachad"}],"tags":["fear","dread"]},
-    {"verse":26,"restored":"I was not at ease, I was not quiet, I did not rest, and turmoil came.","terms":[{"display":"turmoil","source":"rogez","language":"Hebrew","glossary_id":"rogez"}],"tags":["turmoil","lament"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Reviewed as Job's opening lament: curse of birth-day, night of conception, Leviathan imagery, death/rest language, and anguished why-questions. Poetic lines are compact but verse-complete."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After this, Job opened his mouth and cursed his day.",
+      "terms": [
+        {
+          "display": "cursed",
+          "source": "qalal",
+          "language": "Hebrew",
+          "glossary_id": "qalal"
+        },
+        {
+          "display": "his day",
+          "source": "yomo",
+          "language": "Hebrew",
+          "glossary_id": "day"
+        }
+      ],
+      "tags": [
+        "job",
+        "lament",
+        "curse"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After this opened Job his mouth, and cursed his day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Job answered and said:",
+      "terms": [
+        {
+          "display": "answered",
+          "source": "anah",
+          "language": "Hebrew",
+          "glossary_id": "anah-answer"
+        }
+      ],
+      "tags": [
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Job spake, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Let the day perish on which I was born, and the night that said, A male has been conceived.",
+      "terms": [
+        {
+          "display": "perish",
+          "source": "avad",
+          "language": "Hebrew",
+          "glossary_id": "avad-perish"
+        },
+        {
+          "display": "conceived",
+          "source": "harah",
+          "language": "Hebrew",
+          "glossary_id": "harah"
+        }
+      ],
+      "tags": [
+        "birth",
+        "lament"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the day perish wherein I was born, and the night in which it was said, There is a man child conceived."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Let that day be darkness. Let the Divine above not seek it, and let no light shine upon it.",
+      "terms": [
+        {
+          "display": "darkness",
+          "source": "choshekh",
+          "language": "Hebrew",
+          "glossary_id": "choshekh"
+        },
+        {
+          "display": "seek",
+          "source": "darash",
+          "language": "Hebrew",
+          "glossary_id": "darash"
+        },
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "tags": [
+        "darkness",
+        "uncreation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let that day be darkness; let not God regard it from above, neither let the light shine upon it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let darkness and deep shadow reclaim it. Let a cloud dwell upon it. Let the blackness of day terrify it.",
+      "terms": [
+        {
+          "display": "deep shadow",
+          "source": "tsalmavet",
+          "language": "Hebrew",
+          "glossary_id": "tsalmavet"
+        }
+      ],
+      "tags": [
+        "darkness",
+        "shadow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let darkness and the shadow of death stain it; let a cloud dwell upon it; let the blackness of the day terrify it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "That night, let thick darkness take it. Let it not rejoice among the days of the year; let it not come into the number of months.",
+      "terms": [
+        {
+          "display": "thick darkness",
+          "source": "ophel",
+          "language": "Hebrew",
+          "glossary_id": "ophel"
+        }
+      ],
+      "tags": [
+        "night",
+        "lament"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As for that night, let darkness seize upon it; let it not be joined unto the days of the year, let it not come into the number of the months."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Look, let that night be barren; let no joyful cry enter it.",
+      "terms": [
+        {
+          "display": "barren",
+          "source": "galmud",
+          "language": "Hebrew",
+          "glossary_id": "galmud"
+        }
+      ],
+      "tags": [
+        "barrenness",
+        "night"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo, let that night be solitary, let no joyful voice come therein."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Let those who curse the day curse it, those ready to rouse Leviathan.",
+      "terms": [
+        {
+          "display": "Leviathan",
+          "source": "livyatan",
+          "language": "Hebrew",
+          "glossary_id": "leviathan"
+        }
+      ],
+      "tags": [
+        "leviathan",
+        "curse"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let them curse it that curse the day, who are ready to raise up their mourning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Let the stars of its dawn be dark. Let it wait for light and have none, and let it not see the eyelids of morning.",
+      "terms": [
+        {
+          "display": "eyelids of morning",
+          "source": "afapei shachar",
+          "language": "Hebrew",
+          "glossary_id": "eyelids-morning"
+        }
+      ],
+      "tags": [
+        "dawn",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the stars of the twilight thereof be dark; let it look for light, but have none; neither let it see the dawning of the day:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Because it did not shut the doors of my mother’s womb, nor hide trouble from my eyes.",
+      "terms": [
+        {
+          "display": "womb",
+          "source": "beten",
+          "language": "Hebrew",
+          "glossary_id": "womb"
+        },
+        {
+          "display": "trouble",
+          "source": "amal",
+          "language": "Hebrew",
+          "glossary_id": "amal"
+        }
+      ],
+      "tags": [
+        "womb",
+        "trouble"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because it shut not up the doors of my mother’s womb, nor hid sorrow from mine eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Why did I not die from the womb, come out from the belly and expire?",
+      "terms": [
+        {
+          "display": "why",
+          "source": "lammah",
+          "language": "Hebrew",
+          "glossary_id": "lammah"
+        }
+      ],
+      "tags": [
+        "why",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Why died I not from the womb? why did I not give up the ghost when I came out of the belly?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Why did knees receive me, and why breasts, that I should nurse?",
+      "terms": [
+        {
+          "display": "breasts",
+          "source": "shadayim",
+          "language": "Hebrew",
+          "glossary_id": "breasts"
+        }
+      ],
+      "tags": [
+        "birth",
+        "nursing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Why did the knees prevent me? or why the breasts that I should suck?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "For now I would have lain down and been quiet; I would have slept; then I would be at rest,",
+      "terms": [
+        {
+          "display": "rest",
+          "source": "nuach",
+          "language": "Hebrew",
+          "glossary_id": "nuach"
+        }
+      ],
+      "tags": [
+        "rest",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For now should I have lain still and been quiet, I should have slept: then had I been at rest,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "with kings and counselors of the earth, who built ruins for themselves,",
+      "terms": [
+        {
+          "display": "ruins",
+          "source": "choravot",
+          "language": "Hebrew",
+          "glossary_id": "ruins"
+        }
+      ],
+      "tags": [
+        "death",
+        "kings",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "With kings and counsellors of the earth, which built desolate places for themselves;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "or with princes who had gold, who filled their houses with silver.",
+      "terms": [
+        {
+          "display": "gold",
+          "source": "zahav",
+          "language": "Hebrew",
+          "glossary_id": "zahav"
+        }
+      ],
+      "tags": [
+        "wealth",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or with princes that had gold, who filled their houses with silver:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Or why was I not like a hidden miscarriage, like infants who never saw light?",
+      "terms": [
+        {
+          "display": "miscarriage",
+          "source": "nefel",
+          "language": "Hebrew",
+          "glossary_id": "nefel"
+        }
+      ],
+      "tags": [
+        "birth",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or as an hidden untimely birth I had not been; as infants which never saw light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "There the wicked cease from agitation, and there the weary of strength rest.",
+      "terms": [
+        {
+          "display": "wicked",
+          "source": "reshaim",
+          "language": "Hebrew",
+          "glossary_id": "reshaim"
+        },
+        {
+          "display": "weary",
+          "source": "yegiei koach",
+          "language": "Hebrew",
+          "glossary_id": "weary-strength"
+        }
+      ],
+      "tags": [
+        "death",
+        "rest"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There the wicked cease from troubling; and there the weary be at rest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Captives are at ease together; they do not hear the voice of the taskmaster.",
+      "terms": [
+        {
+          "display": "taskmaster",
+          "source": "noges",
+          "language": "Hebrew",
+          "glossary_id": "taskmaster"
+        }
+      ],
+      "tags": [
+        "captives",
+        "rest"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There the prisoners rest together; they hear not the voice of the oppressor."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Small and great are there, and the servant is free from his master.",
+      "terms": [
+        {
+          "display": "free",
+          "source": "chofshi",
+          "language": "Hebrew",
+          "glossary_id": "chofshi"
+        }
+      ],
+      "tags": [
+        "freedom",
+        "death",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The small and great are there; and the servant is free from his master."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Why does he give light to the troubled, and life to the bitter of soul,",
+      "terms": [
+        {
+          "display": "bitter of soul",
+          "source": "marei nafesh",
+          "language": "Hebrew",
+          "glossary_id": "bitter-soul"
+        }
+      ],
+      "tags": [
+        "why",
+        "suffering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore is light given to him that is in misery, and life unto the bitter in soul;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "who wait for death, but it is not there, and dig for it more than hidden treasures,",
+      "terms": [
+        {
+          "display": "hidden treasures",
+          "source": "matmonim",
+          "language": "Hebrew",
+          "glossary_id": "hidden-treasures"
+        }
+      ],
+      "tags": [
+        "death",
+        "waiting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which long for death, but it cometh not; and dig for it more than for hid treasures;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "who rejoice greatly and are glad when they find the grave?",
+      "terms": [
+        {
+          "display": "grave",
+          "source": "qever",
+          "language": "Hebrew",
+          "glossary_id": "grave"
+        }
+      ],
+      "tags": [
+        "grave",
+        "anguish"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which rejoice exceedingly, and are glad, when they can find the grave?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Why give light to a man whose way is hidden, whom the Divine has hedged in?",
+      "terms": [
+        {
+          "display": "way hidden",
+          "source": "darko nistarah",
+          "language": "Hebrew",
+          "glossary_id": "hidden-way"
+        },
+        {
+          "display": "hedged in",
+          "source": "sakh",
+          "language": "Hebrew",
+          "glossary_id": "hedge"
+        },
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "tags": [
+        "hidden-way",
+        "hedge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Why is light given to a man whose way is hid, and whom God hath hedged in?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For my sighing comes before my bread, and my groanings pour out like waters.",
+      "terms": [
+        {
+          "display": "sighing",
+          "source": "anchah",
+          "language": "Hebrew",
+          "glossary_id": "sighing"
+        },
+        {
+          "display": "groanings",
+          "source": "shaagot",
+          "language": "Hebrew",
+          "glossary_id": "groanings"
+        }
+      ],
+      "tags": [
+        "grief",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For my sighing cometh before I eat, and my roarings are poured out like the waters."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For the dread I dreaded has come upon me, and what I feared has arrived at me.",
+      "terms": [
+        {
+          "display": "dread",
+          "source": "pachad",
+          "language": "Hebrew",
+          "glossary_id": "pachad"
+        }
+      ],
+      "tags": [
+        "fear",
+        "dread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the thing which I greatly feared is come upon me, and that which I was afraid of is come unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "I was not at ease, I was not quiet, I did not rest, and turmoil came.",
+      "terms": [
+        {
+          "display": "turmoil",
+          "source": "rogez",
+          "language": "Hebrew",
+          "glossary_id": "rogez"
+        }
+      ],
+      "tags": [
+        "turmoil",
+        "lament"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I was not in safety, neither had I rest, neither was I quiet; yet trouble came."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "present-all-verses",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-26",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

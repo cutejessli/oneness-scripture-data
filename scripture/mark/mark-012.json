@@ -1,52 +1,835 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":12,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for vineyard tenants, cornerstone, Caesar/image, resurrection dispute, greatest command, David/Lord question, scribes warning, and widow offering."},
-  "verses":[
-    {"verse":1,"restored":"He began to speak to them in parables: A person planted a vineyard, put a fence around it, dug a winepress, built a tower, leased it to farmers, and went away.","tags":["parable","vineyard","tenants"]},
-    {"verse":2,"restored":"At the season he sent a servant to the farmers so that he might receive from the farmers some of the fruit of the vineyard.","tags":["servant","fruit"]},
-    {"verse":3,"restored":"They took him, beat him, and sent him away empty.","tags":["servant","rejection"]},
-    {"verse":4,"restored":"Again he sent to them another servant; that one they struck on the head and dishonored.","tags":["servant","dishonor"]},
-    {"verse":5,"restored":"He sent another, and that one they killed; and many others, some they beat and some they killed.","tags":["servants","violence"]},
-    {"verse":6,"restored":"He still had one, a beloved son. Last he sent him to them, saying, They will respect my son.","tags":["beloved-son","vineyard"]},
-    {"verse":7,"restored":"But those farmers said to themselves, This is the heir. Come, let us kill him, and the inheritance will be ours.","tags":["heir","inheritance"]},
-    {"verse":8,"restored":"Taking him, they killed him and threw him outside the vineyard.","tags":["son","outside"]},
-    {"verse":9,"restored":"What will the lord of the vineyard do? He will come and destroy the farmers and give the vineyard to others.","tags":["judgment","vineyard"]},
-    {"verse":10,"restored":"Have you not read this Scripture: The stone the builders rejected, this became the head of the corner;","tags":["scripture","cornerstone"]},
-    {"verse":11,"restored":"from the Lord this came to be, and it is marvelous in our eyes?","tags":["lord","marvel"]},
-    {"verse":12,"restored":"They were seeking to seize him, yet feared the crowd, for they knew he spoke the parable against them. Leaving him, they went away.","tags":["crowd","parable","fear"]},
-    {"verse":13,"restored":"They send to him some of the Pharisees and Herodians, so that they might catch him in word.","tags":["pharisees","herodians","trap"]},
-    {"verse":14,"restored":"Coming, they said to him, Teacher, we know you are true and do not care about anyone's status, for you do not look at people's face, but teach the way of the Divine in truth. Is it lawful to give tribute to Caesar, or not? Should we give, or should we not give?","tags":["caesar","tribute","testing"]},
-    {"verse":15,"restored":"Knowing their hypocrisy, he said to them, Why do you test me? Bring me a denarius so I may see it.","tags":["hypocrisy","denarius"]},
-    {"verse":16,"restored":"They brought one. He said to them, Whose image and inscription is this? They said to him, Caesar's.","tags":["image","inscription","caesar"]},
-    {"verse":17,"restored":"Jesus said to them, Give back the things of Caesar to Caesar, and the things of the Divine to the Divine. And they marveled at him.","tags":["caesar","divine","image"]},
-    {"verse":18,"restored":"Sadducees came to him, those saying there is no resurrection, and they questioned him, saying,","tags":["sadducees","resurrection"]},
-    {"verse":19,"restored":"Teacher, Moses wrote for us that if someone's brother dies and leaves a wife but no child, his brother should take the wife and raise up seed for his brother.","tags":["moses","levirate"]},
-    {"verse":20,"restored":"There were seven brothers. The first took a wife, and dying, left no seed.","tags":["seven-brothers"]},
-    {"verse":21,"restored":"The second took her and died, leaving no seed; and the third likewise.","tags":["seven"]},
-    {"verse":22,"restored":"The seven left no seed. Last of all, the woman also died.","tags":["woman","seven"]},
-    {"verse":23,"restored":"In the resurrection, when they rise, of which of them will she be wife? For the seven had her as wife.","tags":["resurrection","question"]},
-    {"verse":24,"restored":"Jesus said to them, Is this not why you wander: because you know neither the Scriptures nor the power of the Divine?","tags":["scriptures","power"]},
-    {"verse":25,"restored":"For when they rise from the dead, they neither marry nor are given in marriage, but are like messengers in the heavens.","tags":["resurrection","messengers"]},
-    {"verse":26,"restored":"Concerning the dead, that they are raised, have you not read in the book of Moses, in the bush passage, how the Divine spoke to him, saying, I am the Divine of Abraham, the Divine of Isaac, and the Divine of Jacob?","tags":["moses","bush","abraham","isaac","jacob"]},
-    {"verse":27,"restored":"He is not Divine of dead ones, but of living ones. You wander greatly.","tags":["living","resurrection"]},
-    {"verse":28,"restored":"One of the scribes came, hearing them disputing, and seeing that he answered them beautifully, asked him, Which command is first of all?","tags":["scribe","command"]},
-    {"verse":29,"restored":"Jesus answered, First is: Hear, Israel, the Lord our God, the Lord is one.","tags":["shema","israel","one"]},
-    {"verse":30,"restored":"You shall love the Lord your God from all your heart, from all your soul/life, from all your mind, and from all your strength.","tags":["love","heart","psyche","mind","strength"]},
-    {"verse":31,"restored":"Second is this: You shall love your neighbor as yourself. No other command is greater than these.","tags":["neighbor-love","command"]},
-    {"verse":32,"restored":"The scribe said to him, Beautifully said, Teacher; according to truth you said that he is one, and there is no other besides him.","tags":["scribe","truth","one"]},
-    {"verse":33,"restored":"And to love him from the whole heart, whole understanding, and whole strength, and to love the neighbor as oneself, is more than all whole burnt offerings and sacrifices.","tags":["love","sacrifice"]},
-    {"verse":34,"restored":"Jesus, seeing that he answered thoughtfully, said to him, You are not far from the reign of the Divine. And no one dared to question him anymore.","tags":["kingdom","wisdom"]},
-    {"verse":35,"restored":"Answering as he taught in the temple, Jesus said, How do the scribes say that the Messiah is son of David?","tags":["messiah","david","temple"]},
-    {"verse":36,"restored":"David himself said in the holy Spirit: The Lord said to my Lord, Sit at my right hand until I put your enemies under your feet.","tags":["david","spirit","psalm"]},
-    {"verse":37,"restored":"David himself calls him Lord; so how is he his son? The great crowd heard him gladly.","tags":["david","lord","crowd"]},
-    {"verse":38,"restored":"In his teaching he said, Beware of the scribes, who desire to walk around in long robes, greetings in the marketplaces,","tags":["scribes","warning","status"]},
-    {"verse":39,"restored":"first seats in the synagogues and first places at feasts,","tags":["status","synagogues"]},
-    {"verse":40,"restored":"who devour widows' houses and for appearance make long prayers. These will receive greater judgment.","tags":["widows","prayer","judgment"]},
-    {"verse":41,"restored":"Sitting opposite the treasury, he watched how the crowd cast copper into the treasury. Many rich people cast in much.","tags":["treasury","wealth"]},
-    {"verse":42,"restored":"One poor widow came and cast in two small coins, which are a quadrans.","tags":["widow","poverty","coins"]},
-    {"verse":43,"restored":"Calling his disciples, he said to them, Amen, I say to you: this poor widow cast in more than all those casting into the treasury.","tags":["widow","disciples"]},
-    {"verse":44,"restored":"For all cast in out of their abundance; but she, out of her lack, cast in all she had, her whole life/living.","terms":[{"display":"life/living","source":"bios","language":"Greek","glossary_id":"bios"}],"tags":["widow","life","giving"]}
-  ]
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for vineyard tenants, cornerstone, Caesar/image, resurrection dispute, greatest command, David/Lord question, scribes warning, and widow offering."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "He began to speak to them in parables: A person planted a vineyard, put a fence around it, dug a winepress, built a tower, leased it to farmers, and went away.",
+      "tags": [
+        "parable",
+        "vineyard",
+        "tenants",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he began to speak unto them by parables. A certain man planted a vineyard, and set an hedge about it, and digged a place for the winefat, and built a tower, and let it out to husbandmen, and went into a far country."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "At the season he sent a servant to the farmers so that he might receive from the farmers some of the fruit of the vineyard.",
+      "tags": [
+        "servant",
+        "fruit",
+        "labor-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And at the season he sent to the husbandmen a servant, that he might receive from the husbandmen of the fruit of the vineyard."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "They took him, beat him, and sent him away empty.",
+      "tags": [
+        "servant",
+        "rejection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they caught him, and beat him, and sent him away empty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Again he sent to them another servant; that one they struck on the head and dishonored.",
+      "tags": [
+        "servant",
+        "dishonor",
+        "war-violence",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And again he sent unto them another servant; and at him they cast stones, and wounded him in the head, and sent him away shamefully handled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "He sent another, and that one they killed; and many others, some they beat and some they killed.",
+      "tags": [
+        "servants",
+        "violence",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And again he sent another; and him they killed, and many others; beating some, and killing some."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He still had one, a beloved son. Last he sent him to them, saying, They will respect my son.",
+      "tags": [
+        "beloved-son",
+        "vineyard",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Having yet therefore one son, his wellbeloved, he sent him also last unto them, saying, They will reverence my son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But those farmers said to themselves, This is the heir. Come, let us kill him, and the inheritance will be ours.",
+      "tags": [
+        "heir",
+        "inheritance",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But those husbandmen said among themselves, This is the heir; come, let us kill him, and the inheritance shall be our’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Taking him, they killed him and threw him outside the vineyard.",
+      "tags": [
+        "son",
+        "outside",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took him, and killed him, and cast him out of the vineyard."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "What will the lord of the vineyard do? He will come and destroy the farmers and give the vineyard to others.",
+      "tags": [
+        "judgment",
+        "vineyard"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What shall therefore the lord of the vineyard do? he will come and destroy the husbandmen, and will give the vineyard unto others."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Have you not read this Scripture: The stone the builders rejected, this became the head of the corner;",
+      "tags": [
+        "scripture",
+        "cornerstone"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And have ye not read this scripture; The stone which the builders rejected is become the head of the corner:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "from the Lord this came to be, and it is marvelous in our eyes?",
+      "tags": [
+        "lord",
+        "marvel"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This was the Lord’s doing, and it is marvellous in our eyes?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They were seeking to seize him, yet feared the crowd, for they knew he spoke the parable against them. Leaving him, they went away.",
+      "tags": [
+        "crowd",
+        "parable",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they sought to lay hold on him, but feared the people: for they knew that he had spoken the parable against them: and they left him, and went their way."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They send to him some of the Pharisees and Herodians, so that they might catch him in word.",
+      "tags": [
+        "pharisees",
+        "herodians",
+        "trap"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they send unto him certain of the Pharisees and of the Herodians, to catch him in his words."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Coming, they said to him, Teacher, we know you are true and do not care about anyone's status, for you do not look at people's face, but teach the way of the Divine in truth. Is it lawful to give tribute to Caesar, or not? Should we give, or should we not give?",
+      "tags": [
+        "caesar",
+        "tribute",
+        "testing",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were come, they say unto him, Master, we know that thou art true, and carest for no man: for thou regardest not the person of men, but teachest the way of God in truth: Is it lawful to give tribute to Caesar, or not?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Knowing their hypocrisy, he said to them, Why do you test me? Bring me a denarius so I may see it.",
+      "tags": [
+        "hypocrisy",
+        "denarius"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall we give, or shall we not give? But he, knowing their hypocrisy, said unto them, Why tempt ye me? bring me a penny, that I may see it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "They brought one. He said to them, Whose image and inscription is this? They said to him, Caesar's.",
+      "tags": [
+        "image",
+        "inscription",
+        "caesar"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought it. And he saith unto them, Whose is this image and superscription? And they said unto him, Caesar’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Jesus said to them, Give back the things of Caesar to Caesar, and the things of the Divine to the Divine. And they marveled at him.",
+      "tags": [
+        "caesar",
+        "divine",
+        "image"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto them, Render to Caesar the things that are Caesar’s, and to God the things that are God’s. And they marvelled at him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Sadducees came to him, those saying there is no resurrection, and they questioned him, saying,",
+      "tags": [
+        "sadducees",
+        "resurrection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then come unto him the Sadducees, which say there is no resurrection; and they asked him, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Teacher, Moses wrote for us that if someone's brother dies and leaves a wife but no child, his brother should take the wife and raise up seed for his brother.",
+      "tags": [
+        "moses",
+        "levirate",
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Master, Moses wrote unto us, If a man’s brother die, and leave his wife behind him, and leave no children, that his brother should take his wife, and raise up seed unto his brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "There were seven brothers. The first took a wife, and dying, left no seed.",
+      "tags": [
+        "seven-brothers",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now there were seven brethren: and the first took a wife, and dying left no seed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "The second took her and died, leaving no seed; and the third likewise.",
+      "tags": [
+        "seven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the second took her, and died, neither left he any seed: and the third likewise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The seven left no seed. Last of all, the woman also died.",
+      "tags": [
+        "woman",
+        "seven",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the seven had her, and left no seed: last of all the woman died also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "In the resurrection, when they rise, of which of them will she be wife? For the seven had her as wife.",
+      "tags": [
+        "resurrection",
+        "question",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In the resurrection therefore, when they shall rise, whose wife shall she be of them? for the seven had her to wife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Jesus said to them, Is this not why you wander: because you know neither the Scriptures nor the power of the Divine?",
+      "tags": [
+        "scriptures",
+        "power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto them, Do ye not therefore err, because ye know not the scriptures, neither the power of God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For when they rise from the dead, they neither marry nor are given in marriage, but are like messengers in the heavens.",
+      "tags": [
+        "resurrection",
+        "messengers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For when they shall rise from the dead, they neither marry, nor are given in marriage; but are as the angels which are in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Concerning the dead, that they are raised, have you not read in the book of Moses, in the bush passage, how the Divine spoke to him, saying, I am the Divine of Abraham, the Divine of Isaac, and the Divine of Jacob?",
+      "tags": [
+        "moses",
+        "bush",
+        "abraham",
+        "isaac",
+        "jacob"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as touching the dead, that they rise: have ye not read in the book of Moses, how in the bush God spake unto him, saying, I am the God of Abraham, and the God of Isaac, and the God of Jacob?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "He is not Divine of dead ones, but of living ones. You wander greatly.",
+      "tags": [
+        "living",
+        "resurrection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He is not the God of the dead, but the God of the living: ye therefore do greatly err."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "One of the scribes came, hearing them disputing, and seeing that he answered them beautifully, asked him, Which command is first of all?",
+      "tags": [
+        "scribe",
+        "command"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of the scribes came, and having heard them reasoning together, and perceiving that he had answered them well, asked him, Which is the first commandment of all?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Jesus answered, First is: Hear, Israel, the Lord our God, the Lord is one.",
+      "tags": [
+        "shema",
+        "israel",
+        "one"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answered him, The first of all the commandments is, Hear, O Israel; The Lord our God is one Lord:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "You shall love the Lord your God from all your heart, from all your soul/life, from all your mind, and from all your strength.",
+      "tags": [
+        "love",
+        "heart",
+        "psyche",
+        "mind",
+        "strength"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy mind, and with all thy strength: this is the first commandment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Second is this: You shall love your neighbor as yourself. No other command is greater than these.",
+      "tags": [
+        "neighbor-love",
+        "command"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the second is like, namely this, Thou shalt love thy neighbour as thyself. There is none other commandment greater than these."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "The scribe said to him, Beautifully said, Teacher; according to truth you said that he is one, and there is no other besides him.",
+      "tags": [
+        "scribe",
+        "truth",
+        "one",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the scribe said unto him, Well, Master, thou hast said the truth: for there is one God; and there is none other but he:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "And to love him from the whole heart, whole understanding, and whole strength, and to love the neighbor as oneself, is more than all whole burnt offerings and sacrifices.",
+      "tags": [
+        "love",
+        "sacrifice",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And to love him with all the heart, and with all the understanding, and with all the soul, and with all the strength, and to love his neighbour as himself, is more than all whole burnt offerings and sacrifices."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Jesus, seeing that he answered thoughtfully, said to him, You are not far from the reign of the Divine. And no one dared to question him anymore.",
+      "tags": [
+        "kingdom",
+        "wisdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Jesus saw that he answered discreetly, he said unto him, Thou art not far from the kingdom of God. And no man after that durst ask him any question."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Answering as he taught in the temple, Jesus said, How do the scribes say that the Messiah is son of David?",
+      "tags": [
+        "messiah",
+        "david",
+        "temple",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answered and said, while he taught in the temple, How say the scribes that Christ is the son of David?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "David himself said in the holy Spirit: The Lord said to my Lord, Sit at my right hand until I put your enemies under your feet.",
+      "tags": [
+        "david",
+        "spirit",
+        "psalm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For David himself said by the Holy Ghost, The LORD said to my Lord, Sit thou on my right hand, till I make thine enemies thy footstool."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "David himself calls him Lord; so how is he his son? The great crowd heard him gladly.",
+      "tags": [
+        "david",
+        "lord",
+        "crowd",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "David therefore himself calleth him Lord; and whence is he then his son? And the common people heard him gladly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "In his teaching he said, Beware of the scribes, who desire to walk around in long robes, greetings in the marketplaces,",
+      "tags": [
+        "scribes",
+        "warning",
+        "status"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them in his doctrine, Beware of the scribes, which love to go in long clothing, and love salutations in the marketplaces,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "first seats in the synagogues and first places at feasts,",
+      "tags": [
+        "status",
+        "synagogues",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief seats in the synagogues, and the uppermost rooms at feasts:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "who devour widows' houses and for appearance make long prayers. These will receive greater judgment.",
+      "tags": [
+        "widows",
+        "prayer",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which devour widows’ houses, and for a pretence make long prayers: these shall receive greater damnation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Sitting opposite the treasury, he watched how the crowd cast copper into the treasury. Many rich people cast in much.",
+      "tags": [
+        "treasury",
+        "wealth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus sat over against the treasury, and beheld how the people cast money into the treasury: and many that were rich cast in much."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "One poor widow came and cast in two small coins, which are a quadrans.",
+      "tags": [
+        "widow",
+        "poverty",
+        "coins",
+        "women-gender",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came a certain poor widow, and she threw in two mites, which make a farthing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 43,
+      "restored": "Calling his disciples, he said to them, Amen, I say to you: this poor widow cast in more than all those casting into the treasury.",
+      "tags": [
+        "widow",
+        "disciples",
+        "religious-authority",
+        "women-gender",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he called unto him his disciples, and saith unto them, Verily I say unto you, That this poor widow hath cast more in, than all they which have cast into the treasury:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 44,
+      "restored": "For all cast in out of their abundance; but she, out of her lack, cast in all she had, her whole life/living.",
+      "terms": [
+        {
+          "display": "life/living",
+          "source": "bios",
+          "language": "Greek",
+          "glossary_id": "bios"
+        }
+      ],
+      "tags": [
+        "widow",
+        "life",
+        "giving"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For all they did cast in of their abundance; but she of her want did cast in all that she had, even all her living."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-44",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-14-of-44",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

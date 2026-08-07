@@ -1,40 +1,576 @@
 {
-  "book":"Luke",
-  "book_id":"luke",
-  "chapter":15,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for lost sheep, lost coin, and lost sons/father parable with table fellowship frame and joy over turning/realignment."},
-  "verses":[
-    {"verse":1,"restored":"All the tax collectors and sinners/misaligned ones were drawing near to hear him.","tags":["tax-collectors","sinners","hearing"]},
-    {"verse":2,"restored":"The Pharisees and scribes were grumbling, saying, This one receives sinners/misaligned ones and eats with them.","tags":["pharisees","table","grumbling"]},
-    {"verse":3,"restored":"He spoke this parable to them, saying,","tags":["parable"]},
-    {"verse":4,"restored":"What person among you, having a hundred sheep and losing one of them, does not leave the ninety-nine in the wilderness and go after the lost one until he finds it?","tags":["lost-sheep","seeking"]},
-    {"verse":5,"restored":"Finding it, he lays it on his shoulders, rejoicing.","tags":["joy","shoulders"]},
-    {"verse":6,"restored":"Coming into the house, he calls together friends and neighbors, saying to them, Rejoice with me, because I found my sheep that was lost.","tags":["house","joy","found"]},
-    {"verse":7,"restored":"I say to you: likewise there will be joy in heaven over one sinner/misaligned one turning/realigning, more than over ninety-nine righteous ones who have no need of turning/realignment.","tags":["joy","heaven","metanoia"]},
-    {"verse":8,"restored":"Or what woman having ten drachmas, if she loses one drachma, does not light a lamp, sweep the house, and seek carefully until she finds it?","tags":["lost-coin","woman","seeking"]},
-    {"verse":9,"restored":"Finding it, she calls together friends and neighbors, saying, Rejoice with me, because I found the drachma that I lost.","tags":["joy","found"]},
-    {"verse":10,"restored":"Likewise, I say to you, there is joy before the messengers of the Divine over one sinner/misaligned one turning/realigning.","tags":["joy","metanoia"]},
-    {"verse":11,"restored":"He said, A certain person had two sons.","tags":["parable","sons"]},
-    {"verse":12,"restored":"The younger of them said to the father, Father, give me the share of the property falling to me. He divided the living between them.","tags":["younger-son","inheritance","father"]},
-    {"verse":13,"restored":"Not many days later, gathering everything, the younger son traveled to a far country, and there scattered his property, living wastefully.","tags":["far-country","waste"]},
-    {"verse":14,"restored":"When he had spent everything, a severe famine came through that country, and he began to be in need.","tags":["famine","need"]},
-    {"verse":15,"restored":"He went and joined himself to one of the citizens of that country, who sent him into his fields to feed pigs.","tags":["pigs","far-country"]},
-    {"verse":16,"restored":"He longed to be filled from the pods that the pigs were eating, and no one was giving anything to him.","tags":["hunger","pigs"]},
-    {"verse":17,"restored":"Coming to himself, he said, How many hired workers of my father have abundance of bread, but I perish here with hunger.","tags":["return","hunger","bread"]},
-    {"verse":18,"restored":"Rising, I will go to my father and say to him, Father, I sinned/misaligned against heaven and before you.","tags":["father","return"]},
-    {"verse":19,"restored":"I am no longer worthy to be called your son; make me as one of your hired workers.","tags":["worthiness","son"]},
-    {"verse":20,"restored":"Rising, he came to his father. While he was still far away, his father saw him and was moved with compassion; running, he fell on his neck and kissed him fervently.","tags":["father","compassion","return"]},
-    {"verse":21,"restored":"The son said to him, Father, I sinned/misaligned against heaven and before you; I am no longer worthy to be called your son.","tags":["confession","son"]},
-    {"verse":22,"restored":"But the father said to his servants, Quickly bring out the first robe and clothe him; give a ring to his hand and sandals to his feet.","tags":["robe","ring","restoration"]},
-    {"verse":23,"restored":"Bring the fattened calf, slaughter it, and let us eat and rejoice.","tags":["feast","joy"]},
-    {"verse":24,"restored":"Because this son of mine was dead and came to life again; he was lost and was found. And they began to rejoice.","tags":["dead-alive","lost-found","joy"]},
-    {"verse":25,"restored":"Now his older son was in the field. As he came and drew near to the house, he heard music and dancing.","tags":["older-son","field","feast"]},
-    {"verse":26,"restored":"Calling one of the servants, he asked what these things might be.","tags":["older-son","question"]},
-    {"verse":27,"restored":"He said to him, Your brother has come, and your father slaughtered the fattened calf because he received him back healthy.","tags":["brother","father","return"]},
-    {"verse":28,"restored":"He became angry and was not willing to enter. His father came out and pleaded with him.","tags":["anger","father","pleading"]},
-    {"verse":29,"restored":"He answered his father, Look, so many years I serve you, and I never transgressed your command, yet you never gave me a young goat so I might rejoice with my friends.","tags":["older-son","resentment"]},
-    {"verse":30,"restored":"But when this son of yours came, the one devouring your living with prostitutes, you slaughtered the fattened calf for him.","tags":["resentment","accusation"]},
-    {"verse":31,"restored":"He said to him, Child, you are always with me, and all that is mine is yours.","tags":["father","child"]},
-    {"verse":32,"restored":"But it was necessary to rejoice and be glad, because this brother of yours was dead and came to life; he was lost and was found.","tags":["brother","joy","lost-found"]}
-  ]
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for lost sheep, lost coin, and lost sons/father parable with table fellowship frame and joy over turning/realignment."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "All the tax collectors and sinners/misaligned ones were drawing near to hear him.",
+      "tags": [
+        "tax-collectors",
+        "sinners",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then drew near unto him all the publicans and sinners for to hear him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "The Pharisees and scribes were grumbling, saying, This one receives sinners/misaligned ones and eats with them.",
+      "tags": [
+        "pharisees",
+        "table",
+        "grumbling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He spoke this parable to them, saying,",
+      "tags": [
+        "parable"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake this parable unto them, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "What person among you, having a hundred sheep and losing one of them, does not leave the ninety-nine in the wilderness and go after the lost one until he finds it?",
+      "tags": [
+        "lost-sheep",
+        "seeking",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What man of you, having an hundred sheep, if he lose one of them, doth not leave the ninety and nine in the wilderness, and go after that which is lost, until he find it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Finding it, he lays it on his shoulders, rejoicing.",
+      "tags": [
+        "joy",
+        "shoulders"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he hath found it, he layeth it on his shoulders, rejoicing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Coming into the house, he calls together friends and neighbors, saying to them, Rejoice with me, because I found my sheep that was lost.",
+      "tags": [
+        "house",
+        "joy",
+        "found"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he cometh home, he calleth together his friends and neighbours, saying unto them, Rejoice with me; for I have found my sheep which was lost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I say to you: likewise there will be joy in heaven over one sinner/misaligned one turning/realigning, more than over ninety-nine righteous ones who have no need of turning/realignment.",
+      "tags": [
+        "joy",
+        "heaven",
+        "metanoia"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I say unto you, that likewise joy shall be in heaven over one sinner that repenteth, more than over ninety and nine just persons, which need no repentance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Or what woman having ten drachmas, if she loses one drachma, does not light a lamp, sweep the house, and seek carefully until she finds it?",
+      "tags": [
+        "lost-coin",
+        "woman",
+        "seeking",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Either what woman having ten pieces of silver, if she lose one piece, doth not light a candle, and sweep the house, and seek diligently till she find it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Finding it, she calls together friends and neighbors, saying, Rejoice with me, because I found the drachma that I lost.",
+      "tags": [
+        "joy",
+        "found"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when she hath found it, she calleth her friends and her neighbours together, saying, Rejoice with me; for I have found the piece which I had lost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Likewise, I say to you, there is joy before the messengers of the Divine over one sinner/misaligned one turning/realigning.",
+      "tags": [
+        "joy",
+        "metanoia"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise, I say unto you, there is joy in the presence of the angels of God over one sinner that repenteth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He said, A certain person had two sons.",
+      "tags": [
+        "parable",
+        "sons",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, A certain man had two sons:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The younger of them said to the father, Father, give me the share of the property falling to me. He divided the living between them.",
+      "tags": [
+        "younger-son",
+        "inheritance",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the younger of them said to his father, Father, give me the portion of goods that falleth to me. And he divided unto them his living."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Not many days later, gathering everything, the younger son traveled to a far country, and there scattered his property, living wastefully.",
+      "tags": [
+        "far-country",
+        "waste",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And not many days after the younger son gathered all together, and took his journey into a far country, and there wasted his substance with riotous living."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When he had spent everything, a severe famine came through that country, and he began to be in need.",
+      "tags": [
+        "famine",
+        "need"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had spent all, there arose a mighty famine in that land; and he began to be in want."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He went and joined himself to one of the citizens of that country, who sent him into his fields to feed pigs.",
+      "tags": [
+        "pigs",
+        "far-country"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went and joined himself to a citizen of that country; and he sent him into his fields to feed swine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He longed to be filled from the pods that the pigs were eating, and no one was giving anything to him.",
+      "tags": [
+        "hunger",
+        "pigs"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he would fain have filled his belly with the husks that the swine did eat: and no man gave unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Coming to himself, he said, How many hired workers of my father have abundance of bread, but I perish here with hunger.",
+      "tags": [
+        "return",
+        "hunger",
+        "bread",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came to himself, he said, How many hired servants of my father’s have bread enough and to spare, and I perish with hunger!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Rising, I will go to my father and say to him, Father, I sinned/misaligned against heaven and before you.",
+      "tags": [
+        "father",
+        "return"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I will arise and go to my father, and will say unto him, Father, I have sinned against heaven, and before thee,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "I am no longer worthy to be called your son; make me as one of your hired workers.",
+      "tags": [
+        "worthiness",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And am no more worthy to be called thy son: make me as one of thy hired servants."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Rising, he came to his father. While he was still far away, his father saw him and was moved with compassion; running, he fell on his neck and kissed him fervently.",
+      "tags": [
+        "father",
+        "compassion",
+        "return"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he arose, and came to his father. But when he was yet a great way off, his father saw him, and had compassion, and ran, and fell on his neck, and kissed him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The son said to him, Father, I sinned/misaligned against heaven and before you; I am no longer worthy to be called your son.",
+      "tags": [
+        "confession",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the son said unto him, Father, I have sinned against heaven, and in thy sight, and am no more worthy to be called thy son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But the father said to his servants, Quickly bring out the first robe and clothe him; give a ring to his hand and sandals to his feet.",
+      "tags": [
+        "robe",
+        "ring",
+        "restoration",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the father said to his servants, Bring forth the best robe, and put it on him; and put a ring on his hand, and shoes on his feet:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Bring the fattened calf, slaughter it, and let us eat and rejoice.",
+      "tags": [
+        "feast",
+        "joy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And bring hither the fatted calf, and kill it; and let us eat, and be merry:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Because this son of mine was dead and came to life again; he was lost and was found. And they began to rejoice.",
+      "tags": [
+        "dead-alive",
+        "lost-found",
+        "joy",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For this my son was dead, and is alive again; he was lost, and is found. And they began to be merry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Now his older son was in the field. As he came and drew near to the house, he heard music and dancing.",
+      "tags": [
+        "older-son",
+        "field",
+        "feast",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now his elder son was in the field: and as he came and drew nigh to the house, he heard musick and dancing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Calling one of the servants, he asked what these things might be.",
+      "tags": [
+        "older-son",
+        "question",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he called one of the servants, and asked what these things meant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "He said to him, Your brother has come, and your father slaughtered the fattened calf because he received him back healthy.",
+      "tags": [
+        "brother",
+        "father",
+        "return",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Thy brother is come; and thy father hath killed the fatted calf, because he hath received him safe and sound."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "He became angry and was not willing to enter. His father came out and pleaded with him.",
+      "tags": [
+        "anger",
+        "father",
+        "pleading"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he was angry, and would not go in: therefore came his father out, and intreated him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "He answered his father, Look, so many years I serve you, and I never transgressed your command, yet you never gave me a young goat so I might rejoice with my friends.",
+      "tags": [
+        "older-son",
+        "resentment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answering said to his father, Lo, these many years do I serve thee, neither transgressed I at any time thy commandment: and yet thou never gavest me a kid, that I might make merry with my friends:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "But when this son of yours came, the one devouring your living with prostitutes, you slaughtered the fattened calf for him.",
+      "tags": [
+        "resentment",
+        "accusation",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But as soon as this thy son was come, which hath devoured thy living with harlots, thou hast killed for him the fatted calf."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "He said to him, Child, you are always with me, and all that is mine is yours.",
+      "tags": [
+        "father",
+        "child",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Son, thou art ever with me, and all that I have is thine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "But it was necessary to rejoice and be glad, because this brother of yours was dead and came to life; he was lost and was found.",
+      "tags": [
+        "brother",
+        "joy",
+        "lost-found"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It was meet that we should make merry, and be glad: for this thy brother was dead, and is alive again; and was lost, and is found."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

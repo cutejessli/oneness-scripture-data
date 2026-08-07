@@ -1,45 +1,740 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":23,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for critique of scribes/Pharisees, seat of Moses, status titles, servant greatness, seven woes, justice/mercy/trust, inner/outer purity, prophets' blood, and Jerusalem lament."},
-  "verses":[
-    {"verse":1,"restored":"Then Jesus spoke to the crowds and to his disciples,","tags":["crowds","disciples"]},
-    {"verse":2,"restored":"saying, The scribes and the Pharisees sit on Moses' seat.","tags":["scribes","pharisees","moses"]},
-    {"verse":3,"restored":"Therefore whatever they tell you, do and keep; but do not do according to their works, for they say and do not do.","tags":["teaching","doing"]},
-    {"verse":4,"restored":"They bind heavy burdens and lay them on people's shoulders, but they themselves are unwilling to move them with their finger.","tags":["burdens","hypocrisy"]},
-    {"verse":5,"restored":"All their works they do to be seen by people; they broaden their phylacteries and lengthen their fringes.","tags":["visibility","status"]},
-    {"verse":6,"restored":"They love the first place at feasts and the first seats in the synagogues,","tags":["honor","synagogue"]},
-    {"verse":7,"restored":"and greetings in the marketplaces and to be called Rabbi by people.","tags":["rabbi","status"]},
-    {"verse":8,"restored":"But you shall not be called Rabbi, for one is your Teacher, and you are all brothers and sisters.","tags":["teacher","siblings"]},
-    {"verse":9,"restored":"Call no one your father on earth, for one is your Father, the heavenly one.","tags":["father","heaven"]},
-    {"verse":10,"restored":"Nor be called leaders, because your Leader is one, the Messiah.","tags":["messiah","leader"]},
-    {"verse":11,"restored":"The greatest among you shall be your servant.","tags":["greatness","servant"]},
-    {"verse":12,"restored":"Whoever exalts self will be humbled, and whoever humbles self will be exalted.","tags":["humility","reversal"]},
-    {"verse":13,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you shut the reign of the heavens before people; for you do not enter, nor do you allow those entering to enter.","tags":["woe","hypocrisy","kingdom"]},
-    {"verse":14,"restored":"[Some later manuscripts add a woe concerning devouring widows' houses and long prayers.]","tags":["textual-variant","widows"]},
-    {"verse":15,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you cross sea and dry land to make one convert, and when he becomes one, you make him a son of Gehenna twice as much as yourselves.","tags":["woe","gehenna","convert"]},
-    {"verse":16,"restored":"Woe to you, blind guides, who say, Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple is bound.","tags":["blind-guides","temple","oaths"]},
-    {"verse":17,"restored":"Fools and blind ones, which is greater: the gold, or the temple that makes the gold holy?","tags":["temple","holy"]},
-    {"verse":18,"restored":"And, Whoever swears by the altar, it is nothing; but whoever swears by the gift on it is bound.","tags":["altar","oaths"]},
-    {"verse":19,"restored":"Blind ones, which is greater: the gift, or the altar that makes the gift holy?","tags":["altar","holy"]},
-    {"verse":20,"restored":"Therefore the one swearing by the altar swears by it and by all things on it.","tags":["altar","oaths"]},
-    {"verse":21,"restored":"The one swearing by the temple swears by it and by the One dwelling in it.","tags":["temple","dwelling"]},
-    {"verse":22,"restored":"The one swearing by heaven swears by the throne of the Divine and by the One sitting on it.","tags":["heaven","throne"]},
-    {"verse":23,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you tithe mint, dill, and cumin, but have left the weightier things of the Law: justice, mercy, and trust. These it was necessary to do, without leaving the others.","tags":["woe","justice","mercy","trust"]},
-    {"verse":24,"restored":"Blind guides, straining out the gnat but swallowing the camel.","tags":["blind-guides","camel"]},
-    {"verse":25,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you cleanse the outside of cup and dish, but inside they are full of greed and self-indulgence.","tags":["woe","inside-outside"]},
-    {"verse":26,"restored":"Blind Pharisee, first cleanse the inside of the cup, so that the outside also may become clean.","tags":["cleansing","inside"]},
-    {"verse":27,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you are like whitewashed tombs, which outwardly appear beautiful, but inside are full of dead bones and all uncleanness.","tags":["woe","tombs","inside-outside"]},
-    {"verse":28,"restored":"So you also outwardly appear righteous to people, but inside you are full of hypocrisy and lawlessness.","tags":["hypocrisy","lawlessness"]},
-    {"verse":29,"restored":"Woe to you, scribes and Pharisees, hypocrites, because you build the tombs of the prophets and adorn the monuments of the righteous,","tags":["woe","prophets"]},
-    {"verse":30,"restored":"and say, If we had lived in the days of our fathers, we would not have shared with them in the blood of the prophets.","tags":["prophets","blood"]},
-    {"verse":31,"restored":"Thus you witness against yourselves that you are sons of those who murdered the prophets.","tags":["witness","prophets"]},
-    {"verse":32,"restored":"And you, fill up the measure of your fathers.","tags":["measure"]},
-    {"verse":33,"restored":"Serpents, offspring of vipers, how will you escape the judgment of Gehenna?","tags":["vipers","gehenna","judgment"]},
-    {"verse":34,"restored":"Because of this, look, I send to you prophets, wise ones, and scribes; some of them you will kill and crucify, and some you will flog in your synagogues and pursue from city to city,","tags":["prophets","persecution"]},
-    {"verse":35,"restored":"so that upon you may come all righteous blood poured out on the earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you killed between the sanctuary and the altar.","tags":["abel","zechariah","blood"]},
-    {"verse":36,"restored":"Amen, I say to you: all these things will come upon this generation.","tags":["generation","judgment"]},
-    {"verse":37,"restored":"Jerusalem, Jerusalem, killing the prophets and stoning those sent to her, how often I wished to gather your children as a hen gathers her chicks under the wings, and you were not willing.","tags":["jerusalem","gathering","wings"]},
-    {"verse":38,"restored":"Look, your house is left to you desolate.","tags":["house","desolation"]},
-    {"verse":39,"restored":"For I say to you: you will certainly not see me from now until you say, Blessed is the one coming in the name of the Lord.","tags":["blessed","coming"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 23,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for critique of scribes/Pharisees, seat of Moses, status titles, servant greatness, seven woes, justice/mercy/trust, inner/outer purity, prophets' blood, and Jerusalem lament."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then Jesus spoke to the crowds and to his disciples,",
+      "tags": [
+        "crowds",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then spake Jesus to the multitude, and to his disciples,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "saying, The scribes and the Pharisees sit on Moses' seat.",
+      "tags": [
+        "scribes",
+        "pharisees",
+        "moses"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, The scribes and the Pharisees sit in Moses’ seat:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Therefore whatever they tell you, do and keep; but do not do according to their works, for they say and do not do.",
+      "tags": [
+        "teaching",
+        "doing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "All therefore whatsoever they bid you observe, that observe and do; but do not ye after their works: for they say, and do not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "They bind heavy burdens and lay them on people's shoulders, but they themselves are unwilling to move them with their finger.",
+      "tags": [
+        "burdens",
+        "hypocrisy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For they bind heavy burdens and grievous to be borne, and lay them on men’s shoulders; but they themselves will not move them with one of their fingers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "All their works they do to be seen by people; they broaden their phylacteries and lengthen their fringes.",
+      "tags": [
+        "visibility",
+        "status"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But all their works they do for to be seen of men: they make broad their phylacteries, and enlarge the borders of their garments,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "They love the first place at feasts and the first seats in the synagogues,",
+      "tags": [
+        "honor",
+        "synagogue",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And love the uppermost rooms at feasts, and the chief seats in the synagogues,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and greetings in the marketplaces and to be called Rabbi by people.",
+      "tags": [
+        "rabbi",
+        "status",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And greetings in the markets, and to be called of men, Rabbi, Rabbi."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "But you shall not be called Rabbi, for one is your Teacher, and you are all brothers and sisters.",
+      "tags": [
+        "teacher",
+        "siblings",
+        "religious-authority",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But be not ye called Rabbi: for one is your Master, even Christ; and all ye are brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Call no one your father on earth, for one is your Father, the heavenly one.",
+      "tags": [
+        "father",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And call no man your father upon the earth: for one is your Father, which is in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Nor be called leaders, because your Leader is one, the Messiah.",
+      "tags": [
+        "messiah",
+        "leader"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither be ye called masters: for one is your Master, even Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "The greatest among you shall be your servant.",
+      "tags": [
+        "greatness",
+        "servant",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that is greatest among you shall be your servant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Whoever exalts self will be humbled, and whoever humbles self will be exalted.",
+      "tags": [
+        "humility",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever shall exalt himself shall be abased; and he that shall humble himself shall be exalted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you shut the reign of the heavens before people; for you do not enter, nor do you allow those entering to enter.",
+      "tags": [
+        "woe",
+        "hypocrisy",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But woe unto you, scribes and Pharisees, hypocrites! for ye shut up the kingdom of heaven against men: for ye neither go in yourselves, neither suffer ye them that are entering to go in."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "[Some later manuscripts add a woe concerning devouring widows' houses and long prayers.]",
+      "tags": [
+        "textual-variant",
+        "widows"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye devour widows’ houses, and for a pretence make long prayer: therefore ye shall receive the greater damnation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you cross sea and dry land to make one convert, and when he becomes one, you make him a son of Gehenna twice as much as yourselves.",
+      "tags": [
+        "woe",
+        "gehenna",
+        "convert",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye compass sea and land to make one proselyte, and when he is made, ye make him twofold more the child of hell than yourselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Woe to you, blind guides, who say, Whoever swears by the temple, it is nothing; but whoever swears by the gold of the temple is bound.",
+      "tags": [
+        "blind-guides",
+        "temple",
+        "oaths",
+        "sacred-space",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, ye blind guides, which say, Whosoever shall swear by the temple, it is nothing; but whosoever shall swear by the gold of the temple, he is a debtor!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Fools and blind ones, which is greater: the gold, or the temple that makes the gold holy?",
+      "tags": [
+        "temple",
+        "holy",
+        "sacred-space",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye fools and blind: for whether is greater, the gold, or the temple that sanctifieth the gold?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "And, Whoever swears by the altar, it is nothing; but whoever swears by the gift on it is bound.",
+      "tags": [
+        "altar",
+        "oaths",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, Whosoever shall swear by the altar, it is nothing; but whosoever sweareth by the gift that is upon it, he is guilty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Blind ones, which is greater: the gift, or the altar that makes the gift holy?",
+      "tags": [
+        "altar",
+        "holy",
+        "sacrifice-worship",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Therefore the one swearing by the altar swears by it and by all things on it.",
+      "tags": [
+        "altar",
+        "oaths",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whoso therefore shall swear by the altar, sweareth by it, and by all things thereon."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The one swearing by the temple swears by it and by the One dwelling in it.",
+      "tags": [
+        "temple",
+        "dwelling",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whoso shall swear by the temple, sweareth by it, and by him that dwelleth therein."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The one swearing by heaven swears by the throne of the Divine and by the One sitting on it.",
+      "tags": [
+        "heaven",
+        "throne",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that shall swear by heaven, sweareth by the throne of God, and by him that sitteth thereon."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you tithe mint, dill, and cumin, but have left the weightier things of the Law: justice, mercy, and trust. These it was necessary to do, without leaving the others.",
+      "tags": [
+        "woe",
+        "justice",
+        "mercy",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye pay tithe of mint and anise and cummin, and have omitted the weightier matters of the law, judgment, mercy, and faith: these ought ye to have done, and not to leave the other undone."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Blind guides, straining out the gnat but swallowing the camel.",
+      "tags": [
+        "blind-guides",
+        "camel",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye blind guides, which strain at a gnat, and swallow a camel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you cleanse the outside of cup and dish, but inside they are full of greed and self-indulgence.",
+      "tags": [
+        "woe",
+        "inside-outside"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye make clean the outside of the cup and of the platter, but within they are full of extortion and excess."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Blind Pharisee, first cleanse the inside of the cup, so that the outside also may become clean.",
+      "tags": [
+        "cleansing",
+        "inside",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou blind Pharisee, cleanse first that which is within the cup and platter, that the outside of them may be clean also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you are like whitewashed tombs, which outwardly appear beautiful, but inside are full of dead bones and all uncleanness.",
+      "tags": [
+        "woe",
+        "tombs",
+        "inside-outside"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! for ye are like unto whited sepulchres, which indeed appear beautiful outward, but are within full of dead men’s bones, and of all uncleanness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "So you also outwardly appear righteous to people, but inside you are full of hypocrisy and lawlessness.",
+      "tags": [
+        "hypocrisy",
+        "lawlessness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so ye also outwardly appear righteous unto men, but within ye are full of hypocrisy and iniquity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Woe to you, scribes and Pharisees, hypocrites, because you build the tombs of the prophets and adorn the monuments of the righteous,",
+      "tags": [
+        "woe",
+        "prophets",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe unto you, scribes and Pharisees, hypocrites! because ye build the tombs of the prophets, and garnish the sepulchres of the righteous,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "and say, If we had lived in the days of our fathers, we would not have shared with them in the blood of the prophets.",
+      "tags": [
+        "prophets",
+        "blood",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And say, If we had been in the days of our fathers, we would not have been partakers with them in the blood of the prophets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "Thus you witness against yourselves that you are sons of those who murdered the prophets.",
+      "tags": [
+        "witness",
+        "prophets",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore ye be witnesses unto yourselves, that ye are the children of them which killed the prophets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "And you, fill up the measure of your fathers.",
+      "tags": [
+        "measure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Fill ye up then the measure of your fathers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Serpents, offspring of vipers, how will you escape the judgment of Gehenna?",
+      "tags": [
+        "vipers",
+        "gehenna",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye serpents, ye generation of vipers, how can ye escape the damnation of hell?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Because of this, look, I send to you prophets, wise ones, and scribes; some of them you will kill and crucify, and some you will flog in your synagogues and pursue from city to city,",
+      "tags": [
+        "prophets",
+        "persecution",
+        "war-violence",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, behold, I send unto you prophets, and wise men, and scribes: and some of them ye shall kill and crucify; and some of them shall ye scourge in your synagogues, and persecute them from city to city:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "so that upon you may come all righteous blood poured out on the earth, from the blood of righteous Abel to the blood of Zechariah son of Barachiah, whom you killed between the sanctuary and the altar.",
+      "tags": [
+        "abel",
+        "zechariah",
+        "blood",
+        "war-violence",
+        "sacred-space",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That upon you may come all the righteous blood shed upon the earth, from the blood of righteous Abel unto the blood of Zacharias son of Barachias, whom ye slew between the temple and the altar."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "Amen, I say to you: all these things will come upon this generation.",
+      "tags": [
+        "generation",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, All these things shall come upon this generation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Jerusalem, Jerusalem, killing the prophets and stoning those sent to her, how often I wished to gather your children as a hen gathers her chicks under the wings, and you were not willing.",
+      "tags": [
+        "jerusalem",
+        "gathering",
+        "wings",
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "O Jerusalem, Jerusalem, thou that killest the prophets, and stonest them which are sent unto thee, how often would I have gathered thy children together, even as a hen gathereth her chickens under her wings, and ye would not!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 38,
+      "restored": "Look, your house is left to you desolate.",
+      "tags": [
+        "house",
+        "desolation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, your house is left unto you desolate."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "For I say to you: you will certainly not see me from now until you say, Blessed is the one coming in the name of the Lord.",
+      "tags": [
+        "blessed",
+        "coming"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I say unto you, Ye shall not see me henceforth, till ye shall say, Blessed is he that cometh in the name of the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-39",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-16-of-39",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

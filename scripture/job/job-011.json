@@ -1,26 +1,397 @@
 {
-  "book":"Job","book_id":"job","chapter":11,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Zophar's first speech: accusation of many words, claim that Job receives less than guilt deserves, unreachable divine wisdom, call to repent, and restoration promise. Marked as Zophar's speech, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"Zophar the Naamathite answered and said:","tags":["zophar","speech"]},
-    {"verse":2,"restored":"Should a multitude of words go unanswered, and should a man of lips be justified?","tags":["words","rebuke"]},
-    {"verse":3,"restored":"Should your empty talk make people silent, and when you mock, shall no one shame you?","tags":["mockery","shame"]},
-    {"verse":4,"restored":"For you say, My teaching is pure, and I am clean in your eyes.","tags":["purity","claim"]},
-    {"verse":5,"restored":"But if only the Divine would speak and open his lips with you,","tags":["divine-speech"]},
-    {"verse":6,"restored":"and tell you secrets of wisdom, for sound wisdom is double-sided. Know then that the Divine lets some of your guilt be forgotten for you.","tags":["wisdom","guilt","zophar-theology"]},
-    {"verse":7,"restored":"Can you find out the deep things of the Divine? Can you find out the limit of Shaddai?","tags":["shaddai","mystery"]},
-    {"verse":8,"restored":"It is higher than heavens; what can you do? Deeper than Sheol; what can you know?","tags":["heavens","sheol","knowledge"]},
-    {"verse":9,"restored":"Its measure is longer than the earth and broader than the sea.","tags":["earth","sea","measure"]},
-    {"verse":10,"restored":"If he passes through, imprisons, and calls an assembly, who can turn him back?","tags":["power","assembly"]},
-    {"verse":11,"restored":"For he knows worthless people; he sees harm, and will he not consider it?","tags":["harm","divine-seeing"]},
-    {"verse":12,"restored":"An empty-headed person may get heart, when a wild donkey's colt is born human.","tags":["foolishness","heart"]},
-    {"verse":13,"restored":"If you prepare your heart and stretch out your hands toward him,","tags":["heart","prayer"]},
-    {"verse":14,"restored":"if harm is in your hand, put it far away, and do not let injustice dwell in your tents,","tags":["harm","injustice","repentance"]},
-    {"verse":15,"restored":"then you will lift your face without blemish; you will be firm and not fear.","tags":["face","fearlessness"]},
-    {"verse":16,"restored":"For you will forget trouble; like waters that have passed by, you will remember it.","tags":["forgetting","trouble"]},
-    {"verse":17,"restored":"Your life will rise brighter than noon; darkness will become like morning.","tags":["light","darkness"]},
-    {"verse":18,"restored":"You will be secure because there is hope; you will look around and lie down in safety.","tags":["hope","safety"]},
-    {"verse":19,"restored":"You will lie down, and none will make you tremble; many will seek your favor.","tags":["rest","favor"]},
-    {"verse":20,"restored":"But the eyes of the wicked will fail; escape will perish from them, and their hope will be the breathing out of life.","tags":["wicked","hope","death"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Zophar's first speech: accusation of many words, claim that Job receives less than guilt deserves, unreachable divine wisdom, call to repent, and restoration promise. Marked as Zophar's speech, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Zophar the Naamathite answered and said:",
+      "tags": [
+        "zophar",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Zophar the Naamathite, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Should a multitude of words go unanswered, and should a man of lips be justified?",
+      "tags": [
+        "words",
+        "rebuke"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Should not the multitude of words be answered? and should a man full of talk be justified?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Should your empty talk make people silent, and when you mock, shall no one shame you?",
+      "tags": [
+        "mockery",
+        "shame"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Should thy lies make men hold their peace? and when thou mockest, shall no man make thee ashamed?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For you say, My teaching is pure, and I am clean in your eyes.",
+      "tags": [
+        "purity",
+        "claim"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou hast said, My doctrine is pure, and I am clean in thine eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But if only the Divine would speak and open his lips with you,",
+      "tags": [
+        "divine-speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But oh that God would speak, and open his lips against thee;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "and tell you secrets of wisdom, for sound wisdom is double-sided. Know then that the Divine lets some of your guilt be forgotten for you.",
+      "tags": [
+        "wisdom",
+        "guilt",
+        "zophar-theology"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And that he would shew thee the secrets of wisdom, that they are double to that which is! Know therefore that God exacteth of thee less than thine iniquity deserveth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Can you find out the deep things of the Divine? Can you find out the limit of Shaddai?",
+      "tags": [
+        "shaddai",
+        "mystery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Canst thou by searching find out God? canst thou find out the Almighty unto perfection?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "It is higher than heavens; what can you do? Deeper than Sheol; what can you know?",
+      "tags": [
+        "heavens",
+        "sheol",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is as high as heaven; what canst thou do? deeper than hell; what canst thou know?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Its measure is longer than the earth and broader than the sea.",
+      "tags": [
+        "earth",
+        "sea",
+        "measure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The measure thereof is longer than the earth, and broader than the sea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "If he passes through, imprisons, and calls an assembly, who can turn him back?",
+      "tags": [
+        "power",
+        "assembly",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If he cut off, and shut up, or gather together, then who can hinder him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For he knows worthless people; he sees harm, and will he not consider it?",
+      "tags": [
+        "harm",
+        "divine-seeing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he knoweth vain men: he seeth wickedness also; will he not then consider it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "An empty-headed person may get heart, when a wild donkey's colt is born human.",
+      "tags": [
+        "foolishness",
+        "heart",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For vain man would be wise, though man be born like a wild ass’s colt."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "If you prepare your heart and stretch out your hands toward him,",
+      "tags": [
+        "heart",
+        "prayer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If thou prepare thine heart, and stretch out thine hands toward him;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "if harm is in your hand, put it far away, and do not let injustice dwell in your tents,",
+      "tags": [
+        "harm",
+        "injustice",
+        "repentance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If iniquity be in thine hand, put it far away, and let not wickedness dwell in thy tabernacles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "then you will lift your face without blemish; you will be firm and not fear.",
+      "tags": [
+        "face",
+        "fearlessness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For then shalt thou lift up thy face without spot; yea, thou shalt be stedfast, and shalt not fear:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For you will forget trouble; like waters that have passed by, you will remember it.",
+      "tags": [
+        "forgetting",
+        "trouble"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because thou shalt forget thy misery, and remember it as waters that pass away:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Your life will rise brighter than noon; darkness will become like morning.",
+      "tags": [
+        "light",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And thine age shall be clearer than the noonday: thou shalt shine forth, thou shalt be as the morning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "You will be secure because there is hope; you will look around and lie down in safety.",
+      "tags": [
+        "hope",
+        "safety"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt be secure, because there is hope; yea, thou shalt dig about thee, and thou shalt take thy rest in safety."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "You will lie down, and none will make you tremble; many will seek your favor.",
+      "tags": [
+        "rest",
+        "favor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But the eyes of the wicked will fail; escape will perish from them, and their hope will be the breathing out of life.",
+      "tags": [
+        "wicked",
+        "hope",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-20",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

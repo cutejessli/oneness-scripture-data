@@ -1,26 +1,405 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":28,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for resurrection morning, Mary witnesses, angel/messenger, earthquake, empty tomb, Jesus' greeting, guard report/bribe, Galilee meeting, authority, discipling nations, baptismal formula, teaching/keeping, and presence to completion of age."},
-  "verses":[
-    {"verse":1,"restored":"After the Sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary came to see the tomb.","tags":["resurrection","mary-magdalene","tomb"]},
-    {"verse":2,"restored":"And look, there was a great earthquake, for a messenger of the Lord descended from heaven, came, rolled away the stone, and sat upon it.","tags":["earthquake","messenger","stone"]},
-    {"verse":3,"restored":"His appearance was like lightning, and his clothing white as snow.","tags":["lightning","snow","messenger"]},
-    {"verse":4,"restored":"From fear of him the guards trembled and became like dead ones.","tags":["guards","fear"]},
-    {"verse":5,"restored":"The messenger answered the women, Do not fear, for I know that you seek Jesus, the crucified one.","tags":["women","fear-not","crucified"]},
-    {"verse":6,"restored":"He is not here, for he was raised, as he said. Come, see the place where he lay.","tags":["raised","empty-tomb"]},
-    {"verse":7,"restored":"Go quickly and tell his disciples that he was raised from the dead; and look, he goes before you to Galilee. There you will see him. Look, I have told you.","tags":["disciples","galilee","witness"]},
-    {"verse":8,"restored":"Departing quickly from the tomb with fear and great joy, they ran to report to his disciples.","tags":["fear","joy","witness"]},
-    {"verse":9,"restored":"And look, Jesus met them, saying, Rejoice. They came, took hold of his feet, and bowed/prostrated before him.","tags":["jesus","worship","feet"]},
-    {"verse":10,"restored":"Then Jesus said to them, Do not fear. Go report to my brothers and sisters that they should go away to Galilee, and there they will see me.","tags":["fear-not","galilee","siblings"]},
-    {"verse":11,"restored":"While they were going, look, some of the guard went into the city and reported to the chief priests all that had happened.","tags":["guards","chief-priests"]},
-    {"verse":12,"restored":"After gathering with the elders and taking counsel, they gave sufficient silver to the soldiers,","tags":["elders","silver","soldiers"]},
-    {"verse":13,"restored":"saying, Say that his disciples came by night and stole him while we slept.","tags":["false-report","disciples"]},
-    {"verse":14,"restored":"If this is heard by the governor, we will persuade him and keep you free from trouble.","tags":["governor","cover"]},
-    {"verse":15,"restored":"They took the silver and did as they were taught. This word was spread among Judeans until this day.","tags":["silver","report"]},
-    {"verse":16,"restored":"The eleven disciples went to Galilee, to the mountain where Jesus had appointed them.","tags":["eleven","galilee","mountain"]},
-    {"verse":17,"restored":"When they saw him, they bowed/prostrated, but some doubted/divided.","terms":[{"display":"doubted/divided","source":"edistasan","language":"Greek","glossary_id":"distazo"}],"tags":["worship","doubt"]},
-    {"verse":18,"restored":"Jesus came near and spoke to them, saying, All authority in heaven and on earth has been given to me.","tags":["authority","heaven-earth"]},
-    {"verse":19,"restored":"Therefore go, disciple all the nations, baptizing them into the name of the Father and of the Son and of the holy Spirit,","tags":["commission","nations","baptism"]},
-    {"verse":20,"restored":"teaching them to keep all that I commanded you. And look, I am with you all the days until the completion of the age.","terms":[{"display":"completion of the age","source":"synteleia tou aionos","language":"Greek","glossary_id":"synteleia-aion"}],"tags":["teaching","presence","age"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 28,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for resurrection morning, Mary witnesses, angel/messenger, earthquake, empty tomb, Jesus' greeting, guard report/bribe, Galilee meeting, authority, discipling nations, baptismal formula, teaching/keeping, and presence to completion of age."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After the Sabbath, as the first day of the week was dawning, Mary Magdalene and the other Mary came to see the tomb.",
+      "tags": [
+        "resurrection",
+        "mary-magdalene",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In the end of the sabbath, as it began to dawn toward the first day of the week, came Mary Magdalene and the other Mary to see the sepulchre."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And look, there was a great earthquake, for a messenger of the Lord descended from heaven, came, rolled away the stone, and sat upon it.",
+      "tags": [
+        "earthquake",
+        "messenger",
+        "stone"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, there was a great earthquake: for the angel of the Lord descended from heaven, and came and rolled back the stone from the door, and sat upon it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "His appearance was like lightning, and his clothing white as snow.",
+      "tags": [
+        "lightning",
+        "snow",
+        "messenger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His countenance was like lightning, and his raiment white as snow:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "From fear of him the guards trembled and became like dead ones.",
+      "tags": [
+        "guards",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And for fear of him the keepers did shake, and became as dead men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The messenger answered the women, Do not fear, for I know that you seek Jesus, the crucified one.",
+      "tags": [
+        "women",
+        "fear-not",
+        "crucified",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel answered and said unto the women, Fear not ye: for I know that ye seek Jesus, which was crucified."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He is not here, for he was raised, as he said. Come, see the place where he lay.",
+      "tags": [
+        "raised",
+        "empty-tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He is not here: for he is risen, as he said. Come, see the place where the Lord lay."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Go quickly and tell his disciples that he was raised from the dead; and look, he goes before you to Galilee. There you will see him. Look, I have told you.",
+      "tags": [
+        "disciples",
+        "galilee",
+        "witness",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And go quickly, and tell his disciples that he is risen from the dead; and, behold, he goeth before you into Galilee; there shall ye see him: lo, I have told you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Departing quickly from the tomb with fear and great joy, they ran to report to his disciples.",
+      "tags": [
+        "fear",
+        "joy",
+        "witness",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "And look, Jesus met them, saying, Rejoice. They came, took hold of his feet, and bowed/prostrated before him.",
+      "tags": [
+        "jesus",
+        "worship",
+        "feet"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Then Jesus said to them, Do not fear. Go report to my brothers and sisters that they should go away to Galilee, and there they will see me.",
+      "tags": [
+        "fear-not",
+        "galilee",
+        "siblings",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Jesus unto them, Be not afraid: go tell my brethren that they go into Galilee, and there shall they see me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "While they were going, look, some of the guard went into the city and reported to the chief priests all that had happened.",
+      "tags": [
+        "guards",
+        "chief-priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when they were going, behold, some of the watch came into the city, and shewed unto the chief priests all the things that were done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "After gathering with the elders and taking counsel, they gave sufficient silver to the soldiers,",
+      "tags": [
+        "elders",
+        "silver",
+        "soldiers",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were assembled with the elders, and had taken counsel, they gave large money unto the soldiers,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "saying, Say that his disciples came by night and stole him while we slept.",
+      "tags": [
+        "false-report",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Say ye, His disciples came by night, and stole him away while we slept."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "If this is heard by the governor, we will persuade him and keep you free from trouble.",
+      "tags": [
+        "governor",
+        "cover"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if this come to the governor’s ears, we will persuade him, and secure you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They took the silver and did as they were taught. This word was spread among Judeans until this day.",
+      "tags": [
+        "silver",
+        "report"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So they took the money, and did as they were taught: and this saying is commonly reported among the Jews until this day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "The eleven disciples went to Galilee, to the mountain where Jesus had appointed them.",
+      "tags": [
+        "eleven",
+        "galilee",
+        "mountain",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the eleven disciples went away into Galilee, into a mountain where Jesus had appointed them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "When they saw him, they bowed/prostrated, but some doubted/divided.",
+      "terms": [
+        {
+          "display": "doubted/divided",
+          "source": "edistasan",
+          "language": "Greek",
+          "glossary_id": "distazo"
+        }
+      ],
+      "tags": [
+        "worship",
+        "doubt"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they saw him, they worshipped him: but some doubted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Jesus came near and spoke to them, saying, All authority in heaven and on earth has been given to me.",
+      "tags": [
+        "authority",
+        "heaven-earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus came and spake unto them, saying, All power is given unto me in heaven and in earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Therefore go, disciple all the nations, baptizing them into the name of the Father and of the Son and of the holy Spirit,",
+      "tags": [
+        "commission",
+        "nations",
+        "baptism",
+        "religious-authority",
+        "spirit",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Go ye therefore, and teach all nations, baptizing them in the name of the Father, and of the Son, and of the Holy Ghost:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "teaching them to keep all that I commanded you. And look, I am with you all the days until the completion of the age.",
+      "terms": [
+        {
+          "display": "completion of the age",
+          "source": "synteleia tou aionos",
+          "language": "Greek",
+          "glossary_id": "synteleia-aion"
+        }
+      ],
+      "tags": [
+        "teaching",
+        "presence",
+        "age"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Teaching them to observe all things whatsoever I have commanded you: and, lo, I am with you alway, even unto the end of the world. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-20",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

@@ -1,30 +1,487 @@
 {
-  "book":"Job","book_id":"job","chapter":37,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Elihu's final storm speech: trembling heart, thunder/voice, snow/rain, sealed human hand, animals, cloud balance, heat/wind, human inability to arrange speech, and awe before Shaddai. Serves as transition into the whirlwind."},
-  "verses":[
-    {"verse":1,"restored":"At this also my heart trembles and leaps from its place.","tags":["heart","trembling","storm"]},
-    {"verse":2,"restored":"Listen, listen to the roar of his voice and the rumbling that goes out from his mouth.","tags":["voice","thunder"]},
-    {"verse":3,"restored":"Under all the heavens he lets it loose, and his lightning to the corners of the earth.","tags":["heavens","lightning","earth"]},
-    {"verse":4,"restored":"After it a voice roars; he thunders with his majestic voice, and he does not hold them back when his voice is heard.","tags":["thunder","voice","majesty"]},
-    {"verse":5,"restored":"The Divine thunders with his voice wondrously, doing great things that we do not know.","tags":["wonder","unknown"]},
-    {"verse":6,"restored":"For to the snow he says, Fall on the earth, and to the shower of rain and the heavy shower of his strength.","tags":["snow","rain","earth"]},
-    {"verse":7,"restored":"He seals the hand of every human, so that all people may know his work.","tags":["hand","human","work"]},
-    {"verse":8,"restored":"The beast goes into its lair and remains in its dens.","tags":["animals","dens"]},
-    {"verse":9,"restored":"From the chamber comes the storm, and cold from the scattering winds.","tags":["storm","cold","wind"]},
-    {"verse":10,"restored":"By the breath of the Divine ice is given, and the breadth of waters is constrained.","tags":["breath","ice","waters"]},
-    {"verse":11,"restored":"Indeed, he loads the thick cloud with moisture; he scatters the cloud of his lightning.","tags":["cloud","lightning"]},
-    {"verse":12,"restored":"It turns around by his guidance, to do all that he commands upon the face of the inhabited earth.","tags":["guidance","command","earth"]},
-    {"verse":13,"restored":"Whether for rod, or for his land, or for covenant-kindness, he causes it to happen.","tags":["rod","land","chesed"]},
-    {"verse":14,"restored":"Give ear to this, Job; stand still and consider the wonders of the Divine.","tags":["job","stand-still","wonders"]},
-    {"verse":15,"restored":"Do you know how the Divine lays command upon them and makes the light of his cloud shine?","tags":["knowledge","cloud","light"]},
-    {"verse":16,"restored":"Do you know the balancings of the clouds, the wonders of one complete in knowledge?","tags":["clouds","knowledge","wonder"]},
-    {"verse":17,"restored":"You whose garments are hot when the earth is still because of the south wind,","tags":["heat","south-wind"]},
-    {"verse":18,"restored":"can you, with him, spread out the skies, strong as a cast metal mirror?","tags":["skies","creation"]},
-    {"verse":19,"restored":"Make known to us what we should say to him; we cannot arrange words because of darkness.","tags":["speech","darkness"]},
-    {"verse":20,"restored":"Should it be told him that I would speak? If a man said so, surely he would be swallowed up.","tags":["speech","awe"]},
-    {"verse":21,"restored":"Now people do not see the light, bright as it is in the skies, when wind passes and clears them.","tags":["light","wind","sky"]},
-    {"verse":22,"restored":"From the north comes gold-like brightness; around the Divine is fearsome majesty.","tags":["north","brightness","majesty"]},
-    {"verse":23,"restored":"Shaddai, we cannot find him out; he is great in power and justice, and abundant in righteousness; he does not oppress.","tags":["shaddai","justice","righteousness"]},
-    {"verse":24,"restored":"Therefore people fear him; he does not regard any who are wise in heart.","tags":["fear","wise-heart"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 37,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Elihu's final storm speech: trembling heart, thunder/voice, snow/rain, sealed human hand, animals, cloud balance, heat/wind, human inability to arrange speech, and awe before Shaddai. Serves as transition into the whirlwind."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At this also my heart trembles and leaps from its place.",
+      "tags": [
+        "heart",
+        "trembling",
+        "storm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "At this also my heart trembleth, and is moved out of his place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Listen, listen to the roar of his voice and the rumbling that goes out from his mouth.",
+      "tags": [
+        "voice",
+        "thunder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear attentively the noise of his voice, and the sound that goeth out of his mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Under all the heavens he lets it loose, and his lightning to the corners of the earth.",
+      "tags": [
+        "heavens",
+        "lightning",
+        "earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He directeth it under the whole heaven, and his lightning unto the ends of the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "After it a voice roars; he thunders with his majestic voice, and he does not hold them back when his voice is heard.",
+      "tags": [
+        "thunder",
+        "voice",
+        "majesty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After it a voice roareth: he thundereth with the voice of his excellency; and he will not stay them when his voice is heard."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The Divine thunders with his voice wondrously, doing great things that we do not know.",
+      "tags": [
+        "wonder",
+        "unknown"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "God thundereth marvellously with his voice; great things doeth he, which we cannot comprehend."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "For to the snow he says, Fall on the earth, and to the shower of rain and the heavy shower of his strength.",
+      "tags": [
+        "snow",
+        "rain",
+        "earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he saith to the snow, Be thou on the earth; likewise to the small rain, and to the great rain of his strength."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He seals the hand of every human, so that all people may know his work.",
+      "tags": [
+        "hand",
+        "human",
+        "work"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He sealeth up the hand of every man; that all men may know his work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The beast goes into its lair and remains in its dens.",
+      "tags": [
+        "animals",
+        "dens"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the beasts go into dens, and remain in their places."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "From the chamber comes the storm, and cold from the scattering winds.",
+      "tags": [
+        "storm",
+        "cold",
+        "wind"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Out of the south cometh the whirlwind: and cold out of the north."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "By the breath of the Divine ice is given, and the breadth of waters is constrained.",
+      "tags": [
+        "breath",
+        "ice",
+        "waters"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "By the breath of God frost is given: and the breadth of the waters is straitened."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Indeed, he loads the thick cloud with moisture; he scatters the cloud of his lightning.",
+      "tags": [
+        "cloud",
+        "lightning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Also by watering he wearieth the thick cloud: he scattereth his bright cloud:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "It turns around by his guidance, to do all that he commands upon the face of the inhabited earth.",
+      "tags": [
+        "guidance",
+        "command",
+        "earth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Whether for rod, or for his land, or for covenant-kindness, he causes it to happen.",
+      "tags": [
+        "rod",
+        "land",
+        "chesed",
+        "covenant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He causeth it to come, whether for correction, or for his land, or for mercy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Give ear to this, Job; stand still and consider the wonders of the Divine.",
+      "tags": [
+        "job",
+        "stand-still",
+        "wonders"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hearken unto this, O Job: stand still, and consider the wondrous works of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Do you know how the Divine lays command upon them and makes the light of his cloud shine?",
+      "tags": [
+        "knowledge",
+        "cloud",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Dost thou know when God disposed them, and caused the light of his cloud to shine?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Do you know the balancings of the clouds, the wonders of one complete in knowledge?",
+      "tags": [
+        "clouds",
+        "knowledge",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Dost thou know the balancings of the clouds, the wondrous works of him which is perfect in knowledge?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You whose garments are hot when the earth is still because of the south wind,",
+      "tags": [
+        "heat",
+        "south-wind"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How thy garments are warm, when he quieteth the earth by the south wind?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "can you, with him, spread out the skies, strong as a cast metal mirror?",
+      "tags": [
+        "skies",
+        "creation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hast thou with him spread out the sky, which is strong, and as a molten looking glass?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Make known to us what we should say to him; we cannot arrange words because of darkness.",
+      "tags": [
+        "speech",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Teach us what we shall say unto him; for we cannot order our speech by reason of darkness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Should it be told him that I would speak? If a man said so, surely he would be swallowed up.",
+      "tags": [
+        "speech",
+        "awe"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall it be told him that I speak? if a man speak, surely he shall be swallowed up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Now people do not see the light, bright as it is in the skies, when wind passes and clears them.",
+      "tags": [
+        "light",
+        "wind",
+        "sky"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And now men see not the bright light which is in the clouds: but the wind passeth, and cleanseth them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "From the north comes gold-like brightness; around the Divine is fearsome majesty.",
+      "tags": [
+        "north",
+        "brightness",
+        "majesty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Fair weather cometh out of the north: with God is terrible majesty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Shaddai, we cannot find him out; he is great in power and justice, and abundant in righteousness; he does not oppress.",
+      "tags": [
+        "shaddai",
+        "justice",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Touching the Almighty, we cannot find him out: he is excellent in power, and in judgment, and in plenty of justice: he will not afflict."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Therefore people fear him; he does not regard any who are wise in heart.",
+      "tags": [
+        "fear",
+        "wise-heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Men do therefore fear him: he respecteth not any that are wise of heart."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-24",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

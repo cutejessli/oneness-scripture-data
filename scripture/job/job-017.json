@@ -1,22 +1,321 @@
 {
-  "book":"Job","book_id":"job","chapter":17,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as continuation of Job's reply: spirit broken, burial imagery, request for pledge/guarantor, friends' blocked heart, righteous endurance, and hope descending to Sheol. Sensitive decay imagery is restrained while preserving the lament."},
-  "verses":[
-    {"verse":1,"restored":"My spirit is broken; my days are extinguished; the burial place is before me.","tags":["spirit","burial","mortality"]},
-    {"verse":2,"restored":"Surely mockers are with me, and my eye dwells on their provocation.","tags":["mockers","provocation"]},
-    {"verse":3,"restored":"Please set a pledge for me with yourself; who else will strike hands with me?","tags":["pledge","guarantor","legal"]},
-    {"verse":4,"restored":"For you have hidden their heart from understanding; therefore you will not exalt them.","tags":["heart","understanding"]},
-    {"verse":5,"restored":"One who denounces friends for a share, even the eyes of his children will fail.","tags":["friends","children"]},
-    {"verse":6,"restored":"He has made me a proverb of peoples, and I have become one before whom they spit.","tags":["proverb","shame"]},
-    {"verse":7,"restored":"My eye has grown dim from grief, and all my limbs are like a shadow.","tags":["grief","shadow"]},
-    {"verse":8,"restored":"The upright are appalled at this, and the innocent stirs himself against the godless.","tags":["upright","innocent"]},
-    {"verse":9,"restored":"Yet the righteous holds to his way, and the one clean of hands grows stronger and stronger.","tags":["righteous","clean-hands","endurance"]},
-    {"verse":10,"restored":"But all of you, return and come now; I will not find a wise one among you.","tags":["friends","wisdom"]},
-    {"verse":11,"restored":"My days have passed; my plans are broken off, the possessions of my heart.","tags":["days","plans","heart"]},
-    {"verse":12,"restored":"They make night into day; light is near, they say, in the face of darkness.","tags":["night","light","darkness"]},
-    {"verse":13,"restored":"If I hope for Sheol as my house, if I spread my bed in darkness,","tags":["sheol","house","darkness"]},
-    {"verse":14,"restored":"if I call the pit my father, and the hidden life of the grave my mother and my sister,","tags":["pit","grave","kinship"]},
-    {"verse":15,"restored":"where then is my hope? My hope, who can see it?","tags":["hope","question"]},
-    {"verse":16,"restored":"Will it go down to the bars of Sheol? Shall we descend together into the dust?","tags":["sheol","dust","hope"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 17,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as continuation of Job's reply: spirit broken, burial imagery, request for pledge/guarantor, friends' blocked heart, righteous endurance, and hope descending to Sheol. Sensitive decay imagery is restrained while preserving the lament."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "My spirit is broken; my days are extinguished; the burial place is before me.",
+      "tags": [
+        "spirit",
+        "burial",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My breath is corrupt, my days are extinct, the graves are ready for me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Surely mockers are with me, and my eye dwells on their provocation.",
+      "tags": [
+        "mockers",
+        "provocation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Are there not mockers with me? and doth not mine eye continue in their provocation?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Please set a pledge for me with yourself; who else will strike hands with me?",
+      "tags": [
+        "pledge",
+        "guarantor",
+        "legal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lay down now, put me in a surety with thee; who is he that will strike hands with me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For you have hidden their heart from understanding; therefore you will not exalt them.",
+      "tags": [
+        "heart",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou hast hid their heart from understanding: therefore shalt thou not exalt them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "One who denounces friends for a share, even the eyes of his children will fail.",
+      "tags": [
+        "friends",
+        "children",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that speaketh flattery to his friends, even the eyes of his children shall fail."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He has made me a proverb of peoples, and I have become one before whom they spit.",
+      "tags": [
+        "proverb",
+        "shame"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath made me also a byword of the people; and aforetime I was as a tabret."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "My eye has grown dim from grief, and all my limbs are like a shadow.",
+      "tags": [
+        "grief",
+        "shadow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Mine eye also is dim by reason of sorrow, and all my members are as a shadow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The upright are appalled at this, and the innocent stirs himself against the godless.",
+      "tags": [
+        "upright",
+        "innocent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Upright men shall be astonied at this, and the innocent shall stir up himself against the hypocrite."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Yet the righteous holds to his way, and the one clean of hands grows stronger and stronger.",
+      "tags": [
+        "righteous",
+        "clean-hands",
+        "endurance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "But all of you, return and come now; I will not find a wise one among you.",
+      "tags": [
+        "friends",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But as for you all, do ye return, and come now: for I cannot find one wise man among you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "My days have passed; my plans are broken off, the possessions of my heart.",
+      "tags": [
+        "days",
+        "plans",
+        "heart"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "My days are past, my purposes are broken off, even the thoughts of my heart."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They make night into day; light is near, they say, in the face of darkness.",
+      "tags": [
+        "night",
+        "light",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They change the night into day: the light is short because of darkness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "If I hope for Sheol as my house, if I spread my bed in darkness,",
+      "tags": [
+        "sheol",
+        "house",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If I wait, the grave is mine house: I have made my bed in the darkness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "if I call the pit my father, and the hidden life of the grave my mother and my sister,",
+      "tags": [
+        "pit",
+        "grave",
+        "kinship",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I have said to corruption, Thou art my father: to the worm, Thou art my mother, and my sister."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "where then is my hope? My hope, who can see it?",
+      "tags": [
+        "hope",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And where is now my hope? as for my hope, who shall see it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Will it go down to the bars of Sheol? Shall we descend together into the dust?",
+      "tags": [
+        "sheol",
+        "dust",
+        "hope"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall go down to the bars of the pit, when our rest together is in the dust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-16",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

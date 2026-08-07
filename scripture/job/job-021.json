@@ -1,40 +1,623 @@
 {
-  "book":"Job","book_id":"job","chapter":21,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's answer to Zophar: demand for listening, wicked prosperity, peaceful death, rejection of simplistic retribution, and challenge to the friends' empty comfort."},
-  "verses":[
-    {"verse":1,"restored":"Job answered and said:","tags":["job","reply"]},
-    {"verse":2,"restored":"Listen carefully to my word, and let this be your comfort.","tags":["listen","comfort"]},
-    {"verse":3,"restored":"Bear with me, and I myself will speak; after I have spoken, you may mock.","tags":["speech","mockery"]},
-    {"verse":4,"restored":"As for me, is my complaint to a human? And why should my spirit not be impatient?","tags":["complaint","spirit"]},
-    {"verse":5,"restored":"Turn to me and be appalled, and put a hand over your mouth.","tags":["silence","mouth"]},
-    {"verse":6,"restored":"When I remember, I am terrified, and trembling seizes my flesh.","tags":["terror","flesh"]},
-    {"verse":7,"restored":"Why do the wicked live, grow old, and even become mighty in power?","tags":["wicked-prosperity","power"]},
-    {"verse":8,"restored":"Their seed is established before them with them, and their offspring before their eyes.","tags":["offspring","prosperity"]},
-    {"verse":9,"restored":"Their houses are peace, without dread, and the rod of the Divine is not upon them.","tags":["peace","houses"]},
-    {"verse":10,"restored":"Their bull breeds and does not fail; their cow calves and does not miscarry.","tags":["livestock","fertility"]},
-    {"verse":11,"restored":"They send out their little ones like a flock, and their children dance.","tags":["children","dance"]},
-    {"verse":12,"restored":"They lift up tambourine and lyre and rejoice to the sound of the pipe.","tags":["music","joy"]},
-    {"verse":13,"restored":"They spend their days in good, and in a moment they go down to Sheol.","tags":["good","sheol"]},
-    {"verse":14,"restored":"Yet they say to the Divine, Depart from us; we do not desire knowledge of your ways.","tags":["rejection","ways"]},
-    {"verse":15,"restored":"What is Shaddai, that we should serve him? What profit do we have if we plead with him?","tags":["shaddai","service","profit"]},
-    {"verse":16,"restored":"Look, their good is not in their hand. The counsel of the wicked is far from me.","tags":["counsel","wicked"]},
-    {"verse":17,"restored":"How often is the lamp of the wicked put out? Does their calamity come upon them? Does he apportion pains in his anger?","tags":["wicked","lamp","question"]},
-    {"verse":18,"restored":"Are they like straw before the wind, and like chaff that the storm steals away?","tags":["straw","wind","storm"]},
-    {"verse":19,"restored":"You say, The Divine stores up his harm for his children. Let him repay the person himself, so that he may know it.","tags":["children","repayment"]},
-    {"verse":20,"restored":"Let his own eyes see his ruin, and let him drink from the wrath of Shaddai.","tags":["eyes","wrath","shaddai"]},
-    {"verse":21,"restored":"For what is his delight in his house after him, when the number of his months is cut off?","tags":["house","mortality"]},
-    {"verse":22,"restored":"Will anyone teach knowledge to the Divine, since he judges those on high?","tags":["knowledge","judgment"]},
-    {"verse":23,"restored":"One dies in his full strength, wholly at ease and secure,","tags":["death","ease"]},
-    {"verse":24,"restored":"his pails full of milk, and the marrow of his bones moist.","tags":["abundance","body"]},
-    {"verse":25,"restored":"Another dies with bitter soul, never having eaten good.","tags":["bitter-soul","death"]},
-    {"verse":26,"restored":"Together they lie down in the dust, and worms cover them.","tags":["dust","mortality"]},
-    {"verse":27,"restored":"Look, I know your thoughts and the schemes by which you would wrong me.","tags":["friends","schemes"]},
-    {"verse":28,"restored":"For you say, Where is the house of the noble one? Where is the tent, the dwelling of the wicked?","tags":["house","wicked"]},
-    {"verse":29,"restored":"Have you not asked those who travel the roads, and do you not recognize their signs?","tags":["travelers","signs"]},
-    {"verse":30,"restored":"That the evil person is spared in the day of calamity; they are led away in the day of wrath.","tags":["evil","calamity"]},
-    {"verse":31,"restored":"Who declares his way to his face? And who repays him for what he has done?","tags":["face","repayment"]},
-    {"verse":32,"restored":"He is carried to the burial place, and watch is kept over his tomb.","tags":["burial","tomb"]},
-    {"verse":33,"restored":"The clods of the valley are sweet to him; all humanity follows after him, and those before him are without number.","tags":["burial","humanity"]},
-    {"verse":34,"restored":"So how will you comfort me with emptiness? Nothing is left of your answers but betrayal.","tags":["comfort","emptiness","betrayal"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 21,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's answer to Zophar: demand for listening, wicked prosperity, peaceful death, rejection of simplistic retribution, and challenge to the friends' empty comfort."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Job answered and said:",
+      "tags": [
+        "job",
+        "reply"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Job answered and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Listen carefully to my word, and let this be your comfort.",
+      "tags": [
+        "listen",
+        "comfort"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear diligently my speech, and let this be your consolations."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Bear with me, and I myself will speak; after I have spoken, you may mock.",
+      "tags": [
+        "speech",
+        "mockery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Suffer me that I may speak; and after that I have spoken, mock on."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "As for me, is my complaint to a human? And why should my spirit not be impatient?",
+      "tags": [
+        "complaint",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Turn to me and be appalled, and put a hand over your mouth.",
+      "tags": [
+        "silence",
+        "mouth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Mark me, and be astonished, and lay your hand upon your mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "When I remember, I am terrified, and trembling seizes my flesh.",
+      "tags": [
+        "terror",
+        "flesh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Why do the wicked live, grow old, and even become mighty in power?",
+      "tags": [
+        "wicked-prosperity",
+        "power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore do the wicked live, become old, yea, are mighty in power?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Their seed is established before them with them, and their offspring before their eyes.",
+      "tags": [
+        "offspring",
+        "prosperity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Their seed is established in their sight with them, and their offspring before their eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Their houses are peace, without dread, and the rod of the Divine is not upon them.",
+      "tags": [
+        "peace",
+        "houses"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Their houses are safe from fear, neither is the rod of God upon them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Their bull breeds and does not fail; their cow calves and does not miscarry.",
+      "tags": [
+        "livestock",
+        "fertility"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "They send out their little ones like a flock, and their children dance.",
+      "tags": [
+        "children",
+        "dance",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They send forth their little ones like a flock, and their children dance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They lift up tambourine and lyre and rejoice to the sound of the pipe.",
+      "tags": [
+        "music",
+        "joy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They take the timbrel and harp, and rejoice at the sound of the organ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They spend their days in good, and in a moment they go down to Sheol.",
+      "tags": [
+        "good",
+        "sheol"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They spend their days in wealth, and in a moment go down to the grave."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Yet they say to the Divine, Depart from us; we do not desire knowledge of your ways.",
+      "tags": [
+        "rejection",
+        "ways"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "What is Shaddai, that we should serve him? What profit do we have if we plead with him?",
+      "tags": [
+        "shaddai",
+        "service",
+        "profit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What is the Almighty, that we should serve him? and what profit should we have, if we pray unto him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Look, their good is not in their hand. The counsel of the wicked is far from me.",
+      "tags": [
+        "counsel",
+        "wicked"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo, their good is not in their hand: the counsel of the wicked is far from me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "How often is the lamp of the wicked put out? Does their calamity come upon them? Does he apportion pains in his anger?",
+      "tags": [
+        "wicked",
+        "lamp",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Are they like straw before the wind, and like chaff that the storm steals away?",
+      "tags": [
+        "straw",
+        "wind",
+        "storm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They are as stubble before the wind, and as chaff that the storm carrieth away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "You say, The Divine stores up his harm for his children. Let him repay the person himself, so that he may know it.",
+      "tags": [
+        "children",
+        "repayment",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "God layeth up his iniquity for his children: he rewardeth him, and he shall know it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Let his own eyes see his ruin, and let him drink from the wrath of Shaddai.",
+      "tags": [
+        "eyes",
+        "wrath",
+        "shaddai"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For what is his delight in his house after him, when the number of his months is cut off?",
+      "tags": [
+        "house",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Will anyone teach knowledge to the Divine, since he judges those on high?",
+      "tags": [
+        "knowledge",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall any teach God knowledge? seeing he judgeth those that are high."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "One dies in his full strength, wholly at ease and secure,",
+      "tags": [
+        "death",
+        "ease"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "One dieth in his full strength, being wholly at ease and quiet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "his pails full of milk, and the marrow of his bones moist.",
+      "tags": [
+        "abundance",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His breasts are full of milk, and his bones are moistened with marrow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Another dies with bitter soul, never having eaten good.",
+      "tags": [
+        "bitter-soul",
+        "death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And another dieth in the bitterness of his soul, and never eateth with pleasure."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Together they lie down in the dust, and worms cover them.",
+      "tags": [
+        "dust",
+        "mortality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall lie down alike in the dust, and the worms shall cover them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Look, I know your thoughts and the schemes by which you would wrong me.",
+      "tags": [
+        "friends",
+        "schemes"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "For you say, Where is the house of the noble one? Where is the tent, the dwelling of the wicked?",
+      "tags": [
+        "house",
+        "wicked"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Have you not asked those who travel the roads, and do you not recognize their signs?",
+      "tags": [
+        "travelers",
+        "signs"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Have ye not asked them that go by the way? and do ye not know their tokens,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "That the evil person is spared in the day of calamity; they are led away in the day of wrath.",
+      "tags": [
+        "evil",
+        "calamity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Who declares his way to his face? And who repays him for what he has done?",
+      "tags": [
+        "face",
+        "repayment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall declare his way to his face? and who shall repay him what he hath done?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "He is carried to the burial place, and watch is kept over his tomb.",
+      "tags": [
+        "burial",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet shall he be brought to the grave, and shall remain in the tomb."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "The clods of the valley are sweet to him; all humanity follows after him, and those before him are without number.",
+      "tags": [
+        "burial",
+        "humanity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The clods of the valley shall be sweet unto him, and every man shall draw after him, as there are innumerable before him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "So how will you comfort me with emptiness? Nothing is left of your answers but betrayal.",
+      "tags": [
+        "comfort",
+        "emptiness",
+        "betrayal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How then comfort ye me in vain, seeing in your answers there remaineth falsehood?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-34",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

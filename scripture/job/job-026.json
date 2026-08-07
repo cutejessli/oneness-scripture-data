@@ -1,20 +1,261 @@
 {
-  "book":"Job","book_id":"job","chapter":26,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's reply to Bildad: sarcastic critique of unhelpful counsel, cosmic sovereignty, Sheol/Abaddon exposure, earth suspended over nothing, sea/dragon imagery, and whisper of divine power."},
-  "verses":[
-    {"verse":1,"restored":"Job answered and said:","tags":["job","reply"]},
-    {"verse":2,"restored":"How you have helped one without power! How you have saved an arm without strength!","tags":["sarcasm","help"]},
-    {"verse":3,"restored":"How you have counseled one without wisdom and made sound wisdom known in abundance!","tags":["sarcasm","wisdom"]},
-    {"verse":4,"restored":"With whose help have you uttered words, and whose breath has gone out from you?","tags":["words","breath"]},
-    {"verse":5,"restored":"The shades tremble beneath the waters and their inhabitants.","tags":["shades","waters"]},
-    {"verse":6,"restored":"Sheol is naked before him, and Abaddon has no covering.","tags":["sheol","abaddon","uncovered"]},
-    {"verse":7,"restored":"He stretches north over emptiness and hangs the earth over nothing.","tags":["earth","nothing"]},
-    {"verse":8,"restored":"He binds waters in his clouds, and the cloud is not torn beneath them.","tags":["clouds","waters"]},
-    {"verse":9,"restored":"He covers the face of the full moon, spreading his cloud over it.","tags":["moon","cloud"]},
-    {"verse":10,"restored":"He has inscribed a circle on the face of the waters, at the boundary between light and darkness.","tags":["waters","light","darkness"]},
-    {"verse":11,"restored":"The pillars of heaven tremble and are astonished at his rebuke.","tags":["heaven","pillars","rebuke"]},
-    {"verse":12,"restored":"By his power he stilled the sea; by his understanding he shattered Rahab.","tags":["sea","rahab","power"]},
-    {"verse":13,"restored":"By his breath the heavens became fair; his hand pierced the fleeing serpent.","tags":["breath","serpent","heavens"]},
-    {"verse":14,"restored":"Look, these are the edges of his ways, and how small a whisper we hear of him! But the thunder of his power, who can understand?","tags":["whisper","thunder","mystery"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 26,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's reply to Bildad: sarcastic critique of unhelpful counsel, cosmic sovereignty, Sheol/Abaddon exposure, earth suspended over nothing, sea/dragon imagery, and whisper of divine power."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Job answered and said:",
+      "tags": [
+        "job",
+        "reply"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Job answered and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "How you have helped one without power! How you have saved an arm without strength!",
+      "tags": [
+        "sarcasm",
+        "help"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How hast thou helped him that is without power? how savest thou the arm that hath no strength?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "How you have counseled one without wisdom and made sound wisdom known in abundance!",
+      "tags": [
+        "sarcasm",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How hast thou counselled him that hath no wisdom? and how hast thou plentifully declared the thing as it is?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "With whose help have you uttered words, and whose breath has gone out from you?",
+      "tags": [
+        "words",
+        "breath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "To whom hast thou uttered words? and whose spirit came from thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The shades tremble beneath the waters and their inhabitants.",
+      "tags": [
+        "shades",
+        "waters"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Dead things are formed from under the waters, and the inhabitants thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Sheol is naked before him, and Abaddon has no covering.",
+      "tags": [
+        "sheol",
+        "abaddon",
+        "uncovered"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hell is naked before him, and destruction hath no covering."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He stretches north over emptiness and hangs the earth over nothing.",
+      "tags": [
+        "earth",
+        "nothing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He stretcheth out the north over the empty place, and hangeth the earth upon nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He binds waters in his clouds, and the cloud is not torn beneath them.",
+      "tags": [
+        "clouds",
+        "waters"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He bindeth up the waters in his thick clouds; and the cloud is not rent under them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He covers the face of the full moon, spreading his cloud over it.",
+      "tags": [
+        "moon",
+        "cloud"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He holdeth back the face of his throne, and spreadeth his cloud upon it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He has inscribed a circle on the face of the waters, at the boundary between light and darkness.",
+      "tags": [
+        "waters",
+        "light",
+        "darkness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath compassed the waters with bounds, until the day and night come to an end."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The pillars of heaven tremble and are astonished at his rebuke.",
+      "tags": [
+        "heaven",
+        "pillars",
+        "rebuke"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The pillars of heaven tremble and are astonished at his reproof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "By his power he stilled the sea; by his understanding he shattered Rahab.",
+      "tags": [
+        "sea",
+        "rahab",
+        "power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He divideth the sea with his power, and by his understanding he smiteth through the proud."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "By his breath the heavens became fair; his hand pierced the fleeing serpent.",
+      "tags": [
+        "breath",
+        "serpent",
+        "heavens"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "By his spirit he hath garnished the heavens; his hand hath formed the crooked serpent."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Look, these are the edges of his ways, and how small a whisper we hear of him! But the thunder of his power, who can understand?",
+      "tags": [
+        "whisper",
+        "thunder",
+        "mystery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo, these are parts of his ways: but how little a portion is heard of him? but the thunder of his power who can understand?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

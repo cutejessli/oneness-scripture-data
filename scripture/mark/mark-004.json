@@ -1,49 +1,765 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":4,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for sea teaching, sower, mystery of the reign, Isaiah hearing/seeing, soils, lamp, measure, seed growing secretly, mustard seed, parables, and storm calming."},
-  "verses":[
-    {"verse":1,"restored":"Again he began to teach beside the sea. A very great crowd gathered to him, so that he entered a boat and sat in the sea, and the whole crowd was beside the sea on the land.","tags":["sea","teaching","boat","crowd"]},
-    {"verse":2,"restored":"He taught them many things in parables, and in his teaching he said to them:","terms":[{"display":"parables","source":"parabolais","language":"Greek","glossary_id":"parabole"}],"tags":["parables","teaching"]},
-    {"verse":3,"restored":"Listen. Look, the sower went out to sow.","tags":["listen","sower","seed"]},
-    {"verse":4,"restored":"As he sowed, some fell beside the way, and the birds came and devoured it.","tags":["seed","path","birds"]},
-    {"verse":5,"restored":"Other seed fell on rocky ground where it did not have much soil, and immediately it sprang up because it had no depth of soil.","tags":["seed","rocky-ground","immediately"]},
-    {"verse":6,"restored":"When the sun rose, it was scorched; and because it had no root, it withered.","tags":["sun","root","withered"]},
-    {"verse":7,"restored":"Other seed fell among thorns, and the thorns came up and choked it, and it gave no fruit.","tags":["thorns","fruitless"]},
-    {"verse":8,"restored":"Other seed fell into beautiful/good soil and gave fruit, coming up and increasing; it bore thirty, sixty, and a hundredfold.","tags":["good-soil","fruit","increase"]},
-    {"verse":9,"restored":"He said, Whoever has ears to hear, let that one hear.","tags":["hearing"]},
-    {"verse":10,"restored":"When he was alone, those around him with the twelve asked him about the parables.","tags":["twelve","parables","private"]},
-    {"verse":11,"restored":"He said to them, To you has been given the mystery of the reign of the Divine, but to those outside everything comes in parables,","terms":[{"display":"mystery","source":"mysterion","language":"Greek","glossary_id":"mysterion"},{"display":"reign of the Divine","source":"basileias tou theou","language":"Greek","glossary_id":"basileia-theou"}],"tags":["mystery","kingdom","inside-outside"]},
-    {"verse":12,"restored":"so that seeing they may see and not perceive, and hearing they may hear and not understand, lest they turn back and be released.","terms":[{"display":"released","source":"aphethe","language":"Greek","glossary_id":"aphiemi"}],"tags":["seeing","hearing","turning","release"]},
-    {"verse":13,"restored":"He said to them, Do you not know this parable? Then how will you know all the parables?","tags":["parable","understanding"]},
-    {"verse":14,"restored":"The sower sows the word.","tags":["sower","word"]},
-    {"verse":15,"restored":"These are the ones beside the way where the word is sown: when they hear, immediately the adversary comes and takes away the word sown in them.","tags":["path","word","adversary","immediately"]},
-    {"verse":16,"restored":"Likewise, these are the ones sown on rocky ground: when they hear the word, immediately they receive it with joy,","tags":["rocky-ground","joy","word"]},
-    {"verse":17,"restored":"but they have no root in themselves and are temporary. Then when pressure or persecution comes because of the word, immediately they stumble.","tags":["root","pressure","persecution","stumbling"]},
-    {"verse":18,"restored":"Others are the ones sown among thorns: these are those hearing the word,","tags":["thorns","word"]},
-    {"verse":19,"restored":"but the worries of the age, the deceit of wealth, and desires for other things enter in and choke the word, and it becomes fruitless.","terms":[{"display":"age","source":"aionos","language":"Greek","glossary_id":"aion"}],"tags":["age","wealth","desire","fruitless"]},
-    {"verse":20,"restored":"Those sown on beautiful/good soil are the ones who hear the word, receive it, and bear fruit: thirty, sixty, and a hundredfold.","tags":["good-soil","word","fruit"]},
-    {"verse":21,"restored":"He said to them, Does the lamp come so that it may be placed under a basket or under a bed? Is it not to be placed on the lampstand?","tags":["lamp","light"]},
-    {"verse":22,"restored":"For nothing is hidden except to be made visible, nor has anything become concealed except to come into the open.","tags":["hidden","revealed"]},
-    {"verse":23,"restored":"If anyone has ears to hear, let that one hear.","tags":["hearing"]},
-    {"verse":24,"restored":"He said to them, Pay attention to what you hear. With the measure you measure, it will be measured to you, and more will be added to you.","tags":["measure","hearing"]},
-    {"verse":25,"restored":"For whoever has, more will be given; and whoever does not have, even what he has will be taken from him.","tags":["receiving","abundance"]},
-    {"verse":26,"restored":"He said, The reign of the Divine is like this: a person casts seed on the ground,","tags":["kingdom","seed","ground"]},
-    {"verse":27,"restored":"and sleeps and rises night and day, and the seed sprouts and lengthens; how, he does not know.","tags":["seed","growth","mystery"]},
-    {"verse":28,"restored":"The earth bears fruit by itself: first blade, then head, then full grain in the head.","tags":["earth","fruit","grain"]},
-    {"verse":29,"restored":"When the fruit is ready, immediately he sends the sickle, because the harvest has come.","tags":["harvest","sickle","immediately"]},
-    {"verse":30,"restored":"He said, How shall we compare the reign of the Divine, or in what parable shall we set it?","tags":["kingdom","parable"]},
-    {"verse":31,"restored":"It is like a mustard seed, which, when sown on the ground, is smaller than all the seeds on the earth.","tags":["mustard-seed","smallness"]},
-    {"verse":32,"restored":"Yet when it is sown, it grows up and becomes greater than all the garden plants and makes great branches, so that the birds of the heavens can nest under its shade.","tags":["growth","birds","shade"]},
-    {"verse":33,"restored":"With many such parables he spoke the word to them, as they were able to hear.","tags":["parables","hearing"]},
-    {"verse":34,"restored":"He did not speak to them without a parable, but privately to his own disciples he explained all things.","tags":["parables","disciples","explanation"]},
-    {"verse":35,"restored":"On that day, when evening came, he said to them, Let us pass over to the other side.","tags":["evening","crossing"]},
-    {"verse":36,"restored":"Leaving the crowd, they took him along as he was in the boat, and other boats were with him.","tags":["boat","crowd"]},
-    {"verse":37,"restored":"A great windstorm arose, and the waves were throwing themselves into the boat, so that the boat was already filling.","tags":["storm","waves","boat"]},
-    {"verse":38,"restored":"He was in the stern, sleeping on the cushion. They woke him and said to him, Teacher, does it not matter to you that we are perishing?","tags":["sleep","fear","teacher"]},
-    {"verse":39,"restored":"He woke, rebuked the wind, and said to the sea, Be silent; be still. The wind ceased, and there was a great calm.","tags":["rebuke","sea","calm"]},
-    {"verse":40,"restored":"He said to them, Why are you fearful? Do you not yet have trust?","terms":[{"display":"trust","source":"pistin","language":"Greek","glossary_id":"pistis"}],"tags":["fear","trust"]},
-    {"verse":41,"restored":"They feared a great fear and said to one another, Who then is this, that even the wind and the sea obey him?","tags":["awe","wind","sea","authority"]}
-  ]
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for sea teaching, sower, mystery of the reign, Isaiah hearing/seeing, soils, lamp, measure, seed growing secretly, mustard seed, parables, and storm calming."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Again he began to teach beside the sea. A very great crowd gathered to him, so that he entered a boat and sat in the sea, and the whole crowd was beside the sea on the land.",
+      "tags": [
+        "sea",
+        "teaching",
+        "boat",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He taught them many things in parables, and in his teaching he said to them:",
+      "terms": [
+        {
+          "display": "parables",
+          "source": "parabolais",
+          "language": "Greek",
+          "glossary_id": "parabole"
+        }
+      ],
+      "tags": [
+        "parables",
+        "teaching"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he taught them many things by parables, and said unto them in his doctrine,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Listen. Look, the sower went out to sow.",
+      "tags": [
+        "listen",
+        "sower",
+        "seed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hearken; Behold, there went out a sower to sow:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "As he sowed, some fell beside the way, and the birds came and devoured it.",
+      "tags": [
+        "seed",
+        "path",
+        "birds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as he sowed, some fell by the way side, and the fowls of the air came and devoured it up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Other seed fell on rocky ground where it did not have much soil, and immediately it sprang up because it had no depth of soil.",
+      "tags": [
+        "seed",
+        "rocky-ground",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some fell on stony ground, where it had not much earth; and immediately it sprang up, because it had no depth of earth:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "When the sun rose, it was scorched; and because it had no root, it withered.",
+      "tags": [
+        "sun",
+        "root",
+        "withered"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the sun was up, it was scorched; and because it had no root, it withered away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Other seed fell among thorns, and the thorns came up and choked it, and it gave no fruit.",
+      "tags": [
+        "thorns",
+        "fruitless"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some fell among thorns, and the thorns grew up, and choked it, and it yielded no fruit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Other seed fell into beautiful/good soil and gave fruit, coming up and increasing; it bore thirty, sixty, and a hundredfold.",
+      "tags": [
+        "good-soil",
+        "fruit",
+        "increase"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And other fell on good ground, and did yield fruit that sprang up and increased; and brought forth, some thirty, and some sixty, and some an hundred."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He said, Whoever has ears to hear, let that one hear.",
+      "tags": [
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, He that hath ears to hear, let him hear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When he was alone, those around him with the twelve asked him about the parables.",
+      "tags": [
+        "twelve",
+        "parables",
+        "private"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was alone, they that were about him with the twelve asked of him the parable."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He said to them, To you has been given the mystery of the reign of the Divine, but to those outside everything comes in parables,",
+      "terms": [
+        {
+          "display": "mystery",
+          "source": "mysterion",
+          "language": "Greek",
+          "glossary_id": "mysterion"
+        },
+        {
+          "display": "reign of the Divine",
+          "source": "basileias tou theou",
+          "language": "Greek",
+          "glossary_id": "basileia-theou"
+        }
+      ],
+      "tags": [
+        "mystery",
+        "kingdom",
+        "inside-outside",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Unto you it is given to know the mystery of the kingdom of God: but unto them that are without, all these things are done in parables:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "so that seeing they may see and not perceive, and hearing they may hear and not understand, lest they turn back and be released.",
+      "terms": [
+        {
+          "display": "released",
+          "source": "aphethe",
+          "language": "Greek",
+          "glossary_id": "aphiemi"
+        }
+      ],
+      "tags": [
+        "seeing",
+        "hearing",
+        "turning",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That seeing they may see, and not perceive; and hearing they may hear, and not understand; lest at any time they should be converted, and their sins should be forgiven them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He said to them, Do you not know this parable? Then how will you know all the parables?",
+      "tags": [
+        "parable",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Know ye not this parable? and how then will ye know all parables?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The sower sows the word.",
+      "tags": [
+        "sower",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The sower soweth the word."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "These are the ones beside the way where the word is sown: when they hear, immediately the adversary comes and takes away the word sown in them.",
+      "tags": [
+        "path",
+        "word",
+        "adversary",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are they by the way side, where the word is sown; but when they have heard, Satan cometh immediately, and taketh away the word that was sown in their hearts."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Likewise, these are the ones sown on rocky ground: when they hear the word, immediately they receive it with joy,",
+      "tags": [
+        "rocky-ground",
+        "joy",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are they likewise which are sown on stony ground; who, when they have heard the word, immediately receive it with gladness;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "but they have no root in themselves and are temporary. Then when pressure or persecution comes because of the word, immediately they stumble.",
+      "tags": [
+        "root",
+        "pressure",
+        "persecution",
+        "stumbling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And have no root in themselves, and so endure but for a time: afterward, when affliction or persecution ariseth for the word’s sake, immediately they are offended."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Others are the ones sown among thorns: these are those hearing the word,",
+      "tags": [
+        "thorns",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are they which are sown among thorns; such as hear the word,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "but the worries of the age, the deceit of wealth, and desires for other things enter in and choke the word, and it becomes fruitless.",
+      "terms": [
+        {
+          "display": "age",
+          "source": "aionos",
+          "language": "Greek",
+          "glossary_id": "aion"
+        }
+      ],
+      "tags": [
+        "age",
+        "wealth",
+        "desire",
+        "fruitless"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the cares of this world, and the deceitfulness of riches, and the lusts of other things entering in, choke the word, and it becometh unfruitful."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Those sown on beautiful/good soil are the ones who hear the word, receive it, and bear fruit: thirty, sixty, and a hundredfold.",
+      "tags": [
+        "good-soil",
+        "word",
+        "fruit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are they which are sown on good ground; such as hear the word, and receive it, and bring forth fruit, some thirtyfold, some sixty, and some an hundred."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He said to them, Does the lamp come so that it may be placed under a basket or under a bed? Is it not to be placed on the lampstand?",
+      "tags": [
+        "lamp",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Is a candle brought to be put under a bushel, or under a bed? and not to be set on a candlestick?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For nothing is hidden except to be made visible, nor has anything become concealed except to come into the open.",
+      "tags": [
+        "hidden",
+        "revealed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For there is nothing hid, which shall not be manifested; neither was any thing kept secret, but that it should come abroad."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "If anyone has ears to hear, let that one hear.",
+      "tags": [
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man have ears to hear, let him hear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He said to them, Pay attention to what you hear. With the measure you measure, it will be measured to you, and more will be added to you.",
+      "tags": [
+        "measure",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Take heed what ye hear: with what measure ye mete, it shall be measured to you: and unto you that hear shall more be given."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For whoever has, more will be given; and whoever does not have, even what he has will be taken from him.",
+      "tags": [
+        "receiving",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that hath, to him shall be given: and he that hath not, from him shall be taken even that which he hath."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "He said, The reign of the Divine is like this: a person casts seed on the ground,",
+      "tags": [
+        "kingdom",
+        "seed",
+        "ground",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, So is the kingdom of God, as if a man should cast seed into the ground;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "and sleeps and rises night and day, and the seed sprouts and lengthens; how, he does not know.",
+      "tags": [
+        "seed",
+        "growth",
+        "mystery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And should sleep, and rise night and day, and the seed should spring and grow up, he knoweth not how."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The earth bears fruit by itself: first blade, then head, then full grain in the head.",
+      "tags": [
+        "earth",
+        "fruit",
+        "grain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the earth bringeth forth fruit of herself; first the blade, then the ear, after that the full corn in the ear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "When the fruit is ready, immediately he sends the sickle, because the harvest has come.",
+      "tags": [
+        "harvest",
+        "sickle",
+        "immediately",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the fruit is brought forth, immediately he putteth in the sickle, because the harvest is come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "He said, How shall we compare the reign of the Divine, or in what parable shall we set it?",
+      "tags": [
+        "kingdom",
+        "parable",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Whereunto shall we liken the kingdom of God? or with what comparison shall we compare it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "It is like a mustard seed, which, when sown on the ground, is smaller than all the seeds on the earth.",
+      "tags": [
+        "mustard-seed",
+        "smallness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is like a grain of mustard seed, which, when it is sown in the earth, is less than all the seeds that be in the earth:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Yet when it is sown, it grows up and becomes greater than all the garden plants and makes great branches, so that the birds of the heavens can nest under its shade.",
+      "tags": [
+        "growth",
+        "birds",
+        "shade"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when it is sown, it groweth up, and becometh greater than all herbs, and shooteth out great branches; so that the fowls of the air may lodge under the shadow of it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "With many such parables he spoke the word to them, as they were able to hear.",
+      "tags": [
+        "parables",
+        "hearing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And with many such parables spake he the word unto them, as they were able to hear it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "He did not speak to them without a parable, but privately to his own disciples he explained all things.",
+      "tags": [
+        "parables",
+        "disciples",
+        "explanation",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But without a parable spake he not unto them: and when they were alone, he expounded all things to his disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "On that day, when evening came, he said to them, Let us pass over to the other side.",
+      "tags": [
+        "evening",
+        "crossing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the same day, when the even was come, he saith unto them, Let us pass over unto the other side."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Leaving the crowd, they took him along as he was in the boat, and other boats were with him.",
+      "tags": [
+        "boat",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "A great windstorm arose, and the waves were throwing themselves into the boat, so that the boat was already filling.",
+      "tags": [
+        "storm",
+        "waves",
+        "boat"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there arose a great storm of wind, and the waves beat into the ship, so that it was now full."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "He was in the stern, sleeping on the cushion. They woke him and said to him, Teacher, does it not matter to you that we are perishing?",
+      "tags": [
+        "sleep",
+        "fear",
+        "teacher",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "He woke, rebuked the wind, and said to the sea, Be silent; be still. The wind ceased, and there was a great calm.",
+      "tags": [
+        "rebuke",
+        "sea",
+        "calm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he arose, and rebuked the wind, and said unto the sea, Peace, be still. And the wind ceased, and there was a great calm."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "He said to them, Why are you fearful? Do you not yet have trust?",
+      "terms": [
+        {
+          "display": "trust",
+          "source": "pistin",
+          "language": "Greek",
+          "glossary_id": "pistis"
+        }
+      ],
+      "tags": [
+        "fear",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Why are ye so fearful? how is it that ye have no faith?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "They feared a great fear and said to one another, Who then is this, that even the wind and the sea obey him?",
+      "tags": [
+        "awe",
+        "wind",
+        "sea",
+        "authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-41",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-41",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

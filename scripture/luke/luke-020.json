@@ -1,1 +1,855 @@
-{"book":"Luke","book_id":"luke","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for authority dispute, vineyard tenants, cornerstone, Caesar/image, resurrection dispute, David/Lord question, and warning against scribes."},"verses":[{"verse":1,"restored":"It happened on one of the days, as he was teaching the people in the temple and announcing good news, the chief priests and scribes with the elders stood near.","tags":["temple","teaching","good-news"]},{"verse":2,"restored":"They spoke, saying to him, Tell us by what authority you do these things, or who is the one who gave you this authority?","tags":["authority","question"]},{"verse":3,"restored":"Answering, he said to them, I also will ask you a word; tell me:","tags":["question"]},{"verse":4,"restored":"The baptism of John, was it from heaven or from humans?","tags":["john","baptism","heaven"]},{"verse":5,"restored":"They reasoned together, saying, If we say, From heaven, he will say, Why did you not trust him?","tags":["reasoning","trust"]},{"verse":6,"restored":"But if we say, From humans, all the people will stone us, for they are persuaded John was a prophet.","tags":["people","prophet"]},{"verse":7,"restored":"They answered that they did not know from where.","tags":["answer"]},{"verse":8,"restored":"Jesus said to them, Neither do I tell you by what authority I do these things.","tags":["authority"]},{"verse":9,"restored":"He began to speak this parable to the people: A person planted a vineyard, leased it to farmers, and went away for considerable times.","tags":["parable","vineyard"]},{"verse":10,"restored":"At the season he sent a servant to the farmers, so that they would give him some of the fruit of the vineyard. But the farmers beat him and sent him away empty.","tags":["servant","fruit"]},{"verse":11,"restored":"He sent another servant; but they also beat and dishonored that one and sent him away empty.","tags":["servant","dishonor"]},{"verse":12,"restored":"He sent a third; but they also wounded this one and threw him out.","tags":["servant","rejection"]},{"verse":13,"restored":"The lord of the vineyard said, What shall I do? I will send my beloved son; perhaps they will respect this one.","tags":["beloved-son","vineyard"]},{"verse":14,"restored":"Seeing him, the farmers reasoned with one another, saying, This is the heir; let us kill him, so that the inheritance may become ours.","tags":["heir","inheritance"]},{"verse":15,"restored":"Throwing him outside the vineyard, they killed him. What then will the lord of the vineyard do to them?","tags":["outside","vineyard"]},{"verse":16,"restored":"He will come and destroy these farmers and give the vineyard to others. Hearing this, they said, May it not happen.","tags":["judgment","vineyard"]},{"verse":17,"restored":"But looking at them, he said, What then is this that has been written: The stone the builders rejected, this became the head of the corner?","tags":["cornerstone","scripture"]},{"verse":18,"restored":"Everyone falling on that stone will be broken; but on whomever it falls, it will crush that one.","tags":["stone","warning"]},{"verse":19,"restored":"The scribes and chief priests sought to lay hands on him in that hour, yet they feared the people, for they knew he spoke this parable against them.","tags":["scribes","chief-priests","fear"]},{"verse":20,"restored":"Watching carefully, they sent spies pretending themselves to be righteous, so that they might catch him in word, to hand him over to the rule and authority of the governor.","tags":["spies","trap","governor"]},{"verse":21,"restored":"They questioned him, saying, Teacher, we know that you speak and teach rightly and do not receive face, but teach the way of the Divine in truth.","tags":["teacher","flattery","truth"]},{"verse":22,"restored":"Is it lawful for us to give tribute to Caesar, or not?","tags":["caesar","tribute"]},{"verse":23,"restored":"Perceiving their craftiness, he said to them,","tags":["craftiness"]},{"verse":24,"restored":"Show me a denarius. Whose image and inscription does it have? They said, Caesar's.","tags":["denarius","image","caesar"]},{"verse":25,"restored":"He said to them, Then give back the things of Caesar to Caesar, and the things of the Divine to the Divine.","tags":["caesar","divine","image"]},{"verse":26,"restored":"They were not able to catch the word before the people; marveling at his answer, they were silent.","tags":["silence","wonder"]},{"verse":27,"restored":"Some Sadducees, those denying there is a resurrection, came and questioned him,","tags":["sadducees","resurrection"]},{"verse":28,"restored":"saying, Teacher, Moses wrote for us: If someone's brother dies having a wife, and he is childless, his brother should take the wife and raise up seed for his brother.","tags":["moses","levirate"]},{"verse":29,"restored":"There were seven brothers. The first, taking a wife, died childless.","tags":["seven-brothers"]},{"verse":30,"restored":"The second","tags":["seven-brothers"]},{"verse":31,"restored":"and the third took her; likewise also the seven left no children and died.","tags":["seven-brothers"]},{"verse":32,"restored":"Last, the woman also died.","tags":["woman"]},{"verse":33,"restored":"Therefore, in the resurrection, of which of them does she become wife? For the seven had her as wife.","tags":["resurrection","question"]},{"verse":34,"restored":"Jesus said to them, The sons of this age marry and are given in marriage.","tags":["age","marriage"]},{"verse":35,"restored":"But those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage.","tags":["age","resurrection"]},{"verse":36,"restored":"For neither are they able to die anymore, for they are equal to messengers and are sons of the Divine, being sons of resurrection.","tags":["messengers","resurrection","sons-divine"]},{"verse":37,"restored":"That the dead are raised, even Moses showed at the bush, when he calls the Lord the Divine of Abraham, Divine of Isaac, and Divine of Jacob.","tags":["moses","bush","abraham"]},{"verse":38,"restored":"He is not Divine of dead ones but of living ones, for all live to him.","tags":["living","divine"]},{"verse":39,"restored":"Some of the scribes answered, Teacher, you spoke beautifully/well.","tags":["scribes","teacher"]},{"verse":40,"restored":"For they no longer dared to question him anything.","tags":["question"]},{"verse":41,"restored":"He said to them, How do they say the Messiah is David's son?","tags":["messiah","david"]},{"verse":42,"restored":"For David himself says in the scroll of Psalms: The Lord said to my Lord, Sit at my right hand,","tags":["david","psalm"]},{"verse":43,"restored":"until I make your enemies a footstool for your feet.","tags":["enemies","footstool"]},{"verse":44,"restored":"David therefore calls him Lord; so how is he his son?","tags":["david","lord"]},{"verse":45,"restored":"While all the people were hearing, he said to the disciples,","tags":["people","disciples"]},{"verse":46,"restored":"Watch yourselves from the scribes who desire to walk around in long robes, love greetings in the marketplaces, first seats in the synagogues, and first places at dinners,","tags":["scribes","status","warning"]},{"verse":47,"restored":"who devour widows' houses and for appearance make long prayers. These will receive greater judgment.","tags":["widows","prayer","judgment"]}]}
+{
+  "book": "Luke",
+  "book_id": "luke",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for authority dispute, vineyard tenants, cornerstone, Caesar/image, resurrection dispute, David/Lord question, and warning against scribes."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "It happened on one of the days, as he was teaching the people in the temple and announcing good news, the chief priests and scribes with the elders stood near.",
+      "tags": [
+        "temple",
+        "teaching",
+        "good-news",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that on one of those days, as he taught the people in the temple, and preached the gospel, the chief priests and the scribes came upon him with the elders,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "They spoke, saying to him, Tell us by what authority you do these things, or who is the one who gave you this authority?",
+      "tags": [
+        "authority",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And spake unto him, saying, Tell us, by what authority doest thou these things? or who is he that gave thee this authority?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Answering, he said to them, I also will ask you a word; tell me:",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered and said unto them, I will also ask you one thing; and answer me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The baptism of John, was it from heaven or from humans?",
+      "tags": [
+        "john",
+        "baptism",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The baptism of John, was it from heaven, or of men?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They reasoned together, saying, If we say, From heaven, he will say, Why did you not trust him?",
+      "tags": [
+        "reasoning",
+        "trust",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they reasoned with themselves, saying, If we shall say, From heaven; he will say, Why then believed ye him not?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But if we say, From humans, all the people will stone us, for they are persuaded John was a prophet.",
+      "tags": [
+        "people",
+        "prophet",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But and if we say, Of men; all the people will stone us: for they be persuaded that John was a prophet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "They answered that they did not know from where.",
+      "tags": [
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they answered, that they could not tell whence it was."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Jesus said to them, Neither do I tell you by what authority I do these things.",
+      "tags": [
+        "authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto them, Neither tell I you by what authority I do these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He began to speak this parable to the people: A person planted a vineyard, leased it to farmers, and went away for considerable times.",
+      "tags": [
+        "parable",
+        "vineyard",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then began he to speak to the people this parable; A certain man planted a vineyard, and let it forth to husbandmen, and went into a far country for a long time."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "At the season he sent a servant to the farmers, so that they would give him some of the fruit of the vineyard. But the farmers beat him and sent him away empty.",
+      "tags": [
+        "servant",
+        "fruit",
+        "labor-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And at the season he sent a servant to the husbandmen, that they should give him of the fruit of the vineyard: but the husbandmen beat him, and sent him away empty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "He sent another servant; but they also beat and dishonored that one and sent him away empty.",
+      "tags": [
+        "servant",
+        "dishonor",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And again he sent another servant: and they beat him also, and entreated him shamefully, and sent him away empty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "He sent a third; but they also wounded this one and threw him out.",
+      "tags": [
+        "servant",
+        "rejection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And again he sent a third: and they wounded him also, and cast him out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The lord of the vineyard said, What shall I do? I will send my beloved son; perhaps they will respect this one.",
+      "tags": [
+        "beloved-son",
+        "vineyard",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said the lord of the vineyard, What shall I do? I will send my beloved son: it may be they will reverence him when they see him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Seeing him, the farmers reasoned with one another, saying, This is the heir; let us kill him, so that the inheritance may become ours.",
+      "tags": [
+        "heir",
+        "inheritance",
+        "war-violence",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the husbandmen saw him, they reasoned among themselves, saying, This is the heir: come, let us kill him, that the inheritance may be ours."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Throwing him outside the vineyard, they killed him. What then will the lord of the vineyard do to them?",
+      "tags": [
+        "outside",
+        "vineyard",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So they cast him out of the vineyard, and killed him. What therefore shall the lord of the vineyard do unto them?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "He will come and destroy these farmers and give the vineyard to others. Hearing this, they said, May it not happen.",
+      "tags": [
+        "judgment",
+        "vineyard"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall come and destroy these husbandmen, and shall give the vineyard to others. And when they heard it, they said, God forbid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But looking at them, he said, What then is this that has been written: The stone the builders rejected, this became the head of the corner?",
+      "tags": [
+        "cornerstone",
+        "scripture"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he beheld them, and said, What is this then that is written, The stone which the builders rejected, the same is become the head of the corner?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Everyone falling on that stone will be broken; but on whomever it falls, it will crush that one.",
+      "tags": [
+        "stone",
+        "warning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever shall fall upon that stone shall be broken; but on whomsoever it shall fall, it will grind him to powder."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The scribes and chief priests sought to lay hands on him in that hour, yet they feared the people, for they knew he spoke this parable against them.",
+      "tags": [
+        "scribes",
+        "chief-priests",
+        "fear",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief priests and the scribes the same hour sought to lay hands on him; and they feared the people: for they perceived that he had spoken this parable against them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Watching carefully, they sent spies pretending themselves to be righteous, so that they might catch him in word, to hand him over to the rule and authority of the governor.",
+      "tags": [
+        "spies",
+        "trap",
+        "governor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they watched him, and sent forth spies, which should feign themselves just men, that they might take hold of his words, that so they might deliver him unto the power and authority of the governor."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They questioned him, saying, Teacher, we know that you speak and teach rightly and do not receive face, but teach the way of the Divine in truth.",
+      "tags": [
+        "teacher",
+        "flattery",
+        "truth",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they asked him, saying, Master, we know that thou sayest and teachest rightly, neither acceptest thou the person of any, but teachest the way of God truly:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Is it lawful for us to give tribute to Caesar, or not?",
+      "tags": [
+        "caesar",
+        "tribute"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is it lawful for us to give tribute unto Caesar, or no?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Perceiving their craftiness, he said to them,",
+      "tags": [
+        "craftiness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he perceived their craftiness, and said unto them, Why tempt ye me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Show me a denarius. Whose image and inscription does it have? They said, Caesar's.",
+      "tags": [
+        "denarius",
+        "image",
+        "caesar"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shew me a penny. Whose image and superscription hath it? They answered and said, Caesar’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He said to them, Then give back the things of Caesar to Caesar, and the things of the Divine to the Divine.",
+      "tags": [
+        "caesar",
+        "divine",
+        "image"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Render therefore unto Caesar the things which be Caesar’s, and unto God the things which be God’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "They were not able to catch the word before the people; marveling at his answer, they were silent.",
+      "tags": [
+        "silence",
+        "wonder"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they could not take hold of his words before the people: and they marvelled at his answer, and held their peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Some Sadducees, those denying there is a resurrection, came and questioned him,",
+      "tags": [
+        "sadducees",
+        "resurrection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came to him certain of the Sadducees, which deny that there is any resurrection; and they asked him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "saying, Teacher, Moses wrote for us: If someone's brother dies having a wife, and he is childless, his brother should take the wife and raise up seed for his brother.",
+      "tags": [
+        "moses",
+        "levirate",
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Master, Moses wrote unto us, If any man’s brother die, having a wife, and he die without children, that his brother should take his wife, and raise up seed unto his brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "There were seven brothers. The first, taking a wife, died childless.",
+      "tags": [
+        "seven-brothers",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There were therefore seven brethren: and the first took a wife, and died without children."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "The second",
+      "tags": [
+        "seven-brothers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the second took her to wife, and he died childless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "and the third took her; likewise also the seven left no children and died.",
+      "tags": [
+        "seven-brothers",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the third took her; and in like manner the seven also: and they left no children, and died."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Last, the woman also died.",
+      "tags": [
+        "woman",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Last of all the woman died also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Therefore, in the resurrection, of which of them does she become wife? For the seven had her as wife.",
+      "tags": [
+        "resurrection",
+        "question",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore in the resurrection whose wife of them is she? for seven had her to wife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "Jesus said to them, The sons of this age marry and are given in marriage.",
+      "tags": [
+        "age",
+        "marriage",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus answering said unto them, The children of this world marry, and are given in marriage:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "But those considered worthy to attain that age and the resurrection from the dead neither marry nor are given in marriage.",
+      "tags": [
+        "age",
+        "resurrection"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But they which shall be accounted worthy to obtain that world, and the resurrection from the dead, neither marry, nor are given in marriage:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "For neither are they able to die anymore, for they are equal to messengers and are sons of the Divine, being sons of resurrection.",
+      "tags": [
+        "messengers",
+        "resurrection",
+        "sons-divine",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither can they die any more: for they are equal unto the angels; and are the children of God, being the children of the resurrection."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "That the dead are raised, even Moses showed at the bush, when he calls the Lord the Divine of Abraham, Divine of Isaac, and Divine of Jacob.",
+      "tags": [
+        "moses",
+        "bush",
+        "abraham"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now that the dead are raised, even Moses shewed at the bush, when he calleth the Lord the God of Abraham, and the God of Isaac, and the God of Jacob."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "He is not Divine of dead ones but of living ones, for all live to him.",
+      "tags": [
+        "living",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he is not a God of the dead, but of the living: for all live unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "Some of the scribes answered, Teacher, you spoke beautifully/well.",
+      "tags": [
+        "scribes",
+        "teacher",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then certain of the scribes answering said, Master, thou hast well said."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "For they no longer dared to question him anything.",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after that they durst not ask him any question at all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "He said to them, How do they say the Messiah is David's son?",
+      "tags": [
+        "messiah",
+        "david",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, How say they that Christ is David’s son?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 42,
+      "restored": "For David himself says in the scroll of Psalms: The Lord said to my Lord, Sit at my right hand,",
+      "tags": [
+        "david",
+        "psalm"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And David himself saith in the book of Psalms, The LORD said unto my Lord, Sit thou on my right hand,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "until I make your enemies a footstool for your feet.",
+      "tags": [
+        "enemies",
+        "footstool"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Till I make thine enemies thy footstool."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "David therefore calls him Lord; so how is he his son?",
+      "tags": [
+        "david",
+        "lord",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "David therefore calleth him Lord, how is he then his son?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "While all the people were hearing, he said to the disciples,",
+      "tags": [
+        "people",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then in the audience of all the people he said unto his disciples,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "Watch yourselves from the scribes who desire to walk around in long robes, love greetings in the marketplaces, first seats in the synagogues, and first places at dinners,",
+      "tags": [
+        "scribes",
+        "status",
+        "warning",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Beware of the scribes, which desire to walk in long robes, and love greetings in the markets, and the highest seats in the synagogues, and the chief rooms at feasts;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "who devour widows' houses and for appearance make long prayers. These will receive greater judgment.",
+      "tags": [
+        "widows",
+        "prayer",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Which devour widows’ houses, and for a shew make long prayers: the same shall receive greater damnation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-47",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-47",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
+}

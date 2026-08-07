@@ -1,28 +1,424 @@
 {
-  "book":"Job","book_id":"job","chapter":32,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Elihu's entrance: friends stop answering, Elihu's anger at Job and the friends, youth/age wisdom tension, spirit/breath as source of understanding, and his compulsion to speak. Marked as Elihu's speech frame, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"These three men stopped answering Job, because he was righteous in his own eyes.","tags":["friends","job","righteousness"]},
-    {"verse":2,"restored":"Then the anger of Elihu son of Barachel the Buzite, from the clan of Ram, burned. Against Job his anger burned because he justified himself rather than the Divine.","tags":["elihu","anger","job"]},
-    {"verse":3,"restored":"Against his three friends his anger also burned, because they had found no answer and yet had declared Job guilty.","tags":["friends","guilt","answer"]},
-    {"verse":4,"restored":"Elihu had waited to speak to Job because they were older than he.","tags":["elihu","age","waiting"]},
-    {"verse":5,"restored":"When Elihu saw that there was no answer in the mouth of the three men, his anger burned.","tags":["answer","anger"]},
-    {"verse":6,"restored":"Elihu son of Barachel the Buzite answered and said: I am young in days, and you are aged; therefore I held back and feared to declare my knowledge to you.","tags":["youth","elders","knowledge"]},
-    {"verse":7,"restored":"I said, Days should speak, and many years should make wisdom known.","tags":["age","wisdom"]},
-    {"verse":8,"restored":"But truly it is a spirit in a mortal, the breath of Shaddai, that gives them understanding.","tags":["spirit","breath","shaddai","understanding"]},
-    {"verse":9,"restored":"It is not the great who are wise, nor do the aged understand justice.","tags":["wisdom","justice"]},
-    {"verse":10,"restored":"Therefore I say, Listen to me; I too will declare my knowledge.","tags":["listen","knowledge"]},
-    {"verse":11,"restored":"Look, I waited for your words; I listened for your understandings while you searched out speeches.","tags":["listening","speech"]},
-    {"verse":12,"restored":"I gave attention to you, and look, none of you refuted Job or answered his words.","tags":["job","answer"]},
-    {"verse":13,"restored":"Do not say, We have found wisdom; the Divine will defeat him, not a man.","tags":["wisdom","divine"]},
-    {"verse":14,"restored":"He has not arranged words against me, and with your sayings I will not answer him.","tags":["speech","answer"]},
-    {"verse":15,"restored":"They are dismayed; they answer no more; words have departed from them.","tags":["silence","words"]},
-    {"verse":16,"restored":"Shall I wait because they do not speak, because they stand still and answer no more?","tags":["waiting","silence"]},
-    {"verse":17,"restored":"I too will answer my share; I too will declare my knowledge.","tags":["elihu","knowledge"]},
-    {"verse":18,"restored":"For I am full of words; the spirit within me presses me.","tags":["spirit","words"]},
-    {"verse":19,"restored":"Look, my belly is like wine not opened, like new wineskins ready to burst.","tags":["wine","pressure"]},
-    {"verse":20,"restored":"I will speak, that there may be relief for me; I will open my lips and answer.","tags":["speech","relief"]},
-    {"verse":21,"restored":"Please let me not show partiality to anyone, nor flatter any human.","tags":["partiality","flattery"]},
-    {"verse":22,"restored":"For I do not know how to flatter; soon my Maker would take me away.","tags":["maker","speech"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 32,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Elihu's entrance: friends stop answering, Elihu's anger at Job and the friends, youth/age wisdom tension, spirit/breath as source of understanding, and his compulsion to speak. Marked as Elihu's speech frame, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "These three men stopped answering Job, because he was righteous in his own eyes.",
+      "tags": [
+        "friends",
+        "job",
+        "righteousness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So these three men ceased to answer Job, because he was righteous in his own eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Then the anger of Elihu son of Barachel the Buzite, from the clan of Ram, burned. Against Job his anger burned because he justified himself rather than the Divine.",
+      "tags": [
+        "elihu",
+        "anger",
+        "job",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Against his three friends his anger also burned, because they had found no answer and yet had declared Job guilty.",
+      "tags": [
+        "friends",
+        "guilt",
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Elihu had waited to speak to Job because they were older than he.",
+      "tags": [
+        "elihu",
+        "age",
+        "waiting"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Elihu had waited till Job had spoken, because they were elder than he."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "When Elihu saw that there was no answer in the mouth of the three men, his anger burned.",
+      "tags": [
+        "answer",
+        "anger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Elihu saw that there was no answer in the mouth of these three men, then his wrath was kindled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Elihu son of Barachel the Buzite answered and said: I am young in days, and you are aged; therefore I held back and feared to declare my knowledge to you.",
+      "tags": [
+        "youth",
+        "elders",
+        "knowledge",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elihu the son of Barachel the Buzite answered and said, I am young, and ye are very old; wherefore I was afraid, and durst not shew you mine opinion."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I said, Days should speak, and many years should make wisdom known.",
+      "tags": [
+        "age",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I said, Days should speak, and multitude of years should teach wisdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But truly it is a spirit in a mortal, the breath of Shaddai, that gives them understanding.",
+      "tags": [
+        "spirit",
+        "breath",
+        "shaddai",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But there is a spirit in man: and the inspiration of the Almighty giveth them understanding."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "It is not the great who are wise, nor do the aged understand justice.",
+      "tags": [
+        "wisdom",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Great men are not always wise: neither do the aged understand judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Therefore I say, Listen to me; I too will declare my knowledge.",
+      "tags": [
+        "listen",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore I said, Hearken to me; I also will shew mine opinion."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Look, I waited for your words; I listened for your understandings while you searched out speeches.",
+      "tags": [
+        "listening",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I waited for your words; I gave ear to your reasons, whilst ye searched out what to say."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I gave attention to you, and look, none of you refuted Job or answered his words.",
+      "tags": [
+        "job",
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Do not say, We have found wisdom; the Divine will defeat him, not a man.",
+      "tags": [
+        "wisdom",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lest ye should say, We have found out wisdom: God thrusteth him down, not man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He has not arranged words against me, and with your sayings I will not answer him.",
+      "tags": [
+        "speech",
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now he hath not directed his words against me: neither will I answer him with your speeches."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They are dismayed; they answer no more; words have departed from them.",
+      "tags": [
+        "silence",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They were amazed, they answered no more: they left off speaking."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Shall I wait because they do not speak, because they stand still and answer no more?",
+      "tags": [
+        "waiting",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When I had waited, (for they spake not, but stood still, and answered no more;)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "I too will answer my share; I too will declare my knowledge.",
+      "tags": [
+        "elihu",
+        "knowledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I said, I will answer also my part, I also will shew mine opinion."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For I am full of words; the spirit within me presses me.",
+      "tags": [
+        "spirit",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I am full of matter, the spirit within me constraineth me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Look, my belly is like wine not opened, like new wineskins ready to burst.",
+      "tags": [
+        "wine",
+        "pressure"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, my belly is as wine which hath no vent; it is ready to burst like new bottles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "I will speak, that there may be relief for me; I will open my lips and answer.",
+      "tags": [
+        "speech",
+        "relief"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I will speak, that I may be refreshed: I will open my lips and answer."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Please let me not show partiality to anyone, nor flatter any human.",
+      "tags": [
+        "partiality",
+        "flattery"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Let me not, I pray you, accept any man’s person, neither let me give flattering titles unto man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For I do not know how to flatter; soon my Maker would take me away.",
+      "tags": [
+        "maker",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I know not to give flattering titles; in so doing my maker would soon take me away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-22",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

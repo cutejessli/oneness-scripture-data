@@ -1,58 +1,919 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":9,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for transfiguration, Elijah/John pattern, difficult healing, trust/untrust, prayer variant, second passion prediction, child/greatness, outsider exorcist, little ones, Gehenna, salt/fire sayings."},
-  "verses":[
-    {"verse":1,"restored":"He said to them, Amen, I say to you: there are some standing here who will certainly not taste death until they see the reign of the Divine having come in power.","tags":["kingdom","power"]},
-    {"verse":2,"restored":"After six days Jesus takes Peter, James, and John and brings them up into a high mountain by themselves. He was transfigured before them.","terms":[{"display":"transfigured","source":"metemorphothe","language":"Greek","glossary_id":"metamorphoo"}],"tags":["transfiguration","mountain"]},
-    {"verse":3,"restored":"His garments became radiant, very white, such as no fuller on earth is able to whiten.","tags":["radiance","garments"]},
-    {"verse":4,"restored":"Elijah appeared to them with Moses, and they were speaking with Jesus.","tags":["elijah","moses"]},
-    {"verse":5,"restored":"Peter answered Jesus, Rabbi, it is beautiful/good for us to be here; let us make three tents, one for you, one for Moses, and one for Elijah.","tags":["peter","tents"]},
-    {"verse":6,"restored":"For he did not know what to answer, because they were greatly afraid.","tags":["fear"]},
-    {"verse":7,"restored":"A cloud came, overshadowing them, and a voice came from the cloud: This is my beloved Son; listen to him.","tags":["cloud","voice","beloved-son"]},
-    {"verse":8,"restored":"Suddenly, looking around, they no longer saw anyone with them except Jesus alone.","tags":["jesus","alone"]},
-    {"verse":9,"restored":"As they came down from the mountain, he ordered them to tell no one what they had seen until the Son of Humanity should rise from the dead.","tags":["son-of-humanity","raised","silence"]},
-    {"verse":10,"restored":"They held the word, discussing among themselves what rising from the dead meant.","tags":["resurrection","discussion"]},
-    {"verse":11,"restored":"They questioned him, saying, Why do the scribes say Elijah must come first?","tags":["elijah","scribes"]},
-    {"verse":12,"restored":"He said to them, Elijah indeed comes first and restores all things. Yet how has it been written of the Son of Humanity that he should suffer many things and be treated as nothing?","tags":["elijah","restoration","suffering"]},
-    {"verse":13,"restored":"But I say to you that Elijah has come, and they did to him whatever they wished, as it has been written about him.","tags":["elijah","john-pattern"]},
-    {"verse":14,"restored":"Coming to the disciples, they saw a great crowd around them and scribes arguing with them.","tags":["disciples","scribes","crowd"]},
-    {"verse":15,"restored":"Immediately, seeing him, the whole crowd was greatly amazed and ran to greet him.","tags":["immediately","crowd"]},
-    {"verse":16,"restored":"He asked them, What are you arguing about with them?","tags":["question"]},
-    {"verse":17,"restored":"One from the crowd answered, Teacher, I brought my son to you, having a spirit that makes him unable to speak.","tags":["son","spirit","speech"]},
-    {"verse":18,"restored":"Wherever it seizes him, it throws him down; he foams, grinds his teeth, and becomes rigid. I told your disciples to cast it out, and they were not strong enough.","tags":["affliction","disciples"]},
-    {"verse":19,"restored":"He answered them, O untrusting generation, how long shall I be with you? How long shall I bear with you? Bring him to me.","tags":["generation","trust"]},
-    {"verse":20,"restored":"They brought him to him. Seeing Jesus, the spirit immediately convulsed him, and falling on the ground he rolled about, foaming.","tags":["spirit","immediately"]},
-    {"verse":21,"restored":"Jesus asked his father, How long has this been happening to him? He said, From childhood.","tags":["father","childhood"]},
-    {"verse":22,"restored":"Often it has thrown him into fire and into waters to destroy him; but if you are able, have compassion on us and help us.","tags":["compassion","help"]},
-    {"verse":23,"restored":"Jesus said to him, If you are able? All things are possible for the one trusting.","tags":["trust","possible"]},
-    {"verse":24,"restored":"Immediately the child's father cried out, I trust; help my untrust.","tags":["trust","untrust"]},
-    {"verse":25,"restored":"Jesus, seeing that a crowd was running together, rebuked the unclean spirit, saying to it, Speechless and deaf spirit, I command you, come out from him and enter him no more.","tags":["rebuke","release","speech","hearing"]},
-    {"verse":26,"restored":"After crying out and convulsing him greatly, it came out. He became like a dead one, so that many said, He has died.","tags":["release","deathlike"]},
-    {"verse":27,"restored":"But Jesus took him by the hand and raised him, and he rose.","tags":["hand","raising"]},
-    {"verse":28,"restored":"When he entered the house, his disciples asked him privately, Why were we not able to cast it out?","tags":["house","disciples"]},
-    {"verse":29,"restored":"He said to them, This kind is able to come out by nothing except prayer. [Some manuscripts add: and fasting.]","tags":["prayer","textual-variant"]},
-    {"verse":30,"restored":"Going out from there, they passed through Galilee, and he did not want anyone to know.","tags":["galilee","hidden"]},
-    {"verse":31,"restored":"For he was teaching his disciples and saying to them, The Son of Humanity is being handed over into human hands; they will kill him, and when killed, after three days he will rise.","tags":["son-of-humanity","handed-over","three-days"]},
-    {"verse":32,"restored":"But they did not understand the word and were afraid to ask him.","tags":["misunderstanding","fear"]},
-    {"verse":33,"restored":"They came to Capernaum. In the house he asked them, What were you discussing on the way?","tags":["capernaum","house","way"]},
-    {"verse":34,"restored":"But they were silent, for on the way they had argued with one another about who was greatest.","tags":["greatness","silence"]},
-    {"verse":35,"restored":"Sitting down, he called the twelve and said to them, If anyone wants to be first, that one shall be last of all and servant of all.","tags":["first-last","servant"]},
-    {"verse":36,"restored":"Taking a child, he stood the child in their midst, and taking the child in his arms, he said to them,","tags":["child","arms"]},
-    {"verse":37,"restored":"Whoever receives one of such children in my name receives me; and whoever receives me receives not me but the One who sent me.","tags":["receiving","child","sending"]},
-    {"verse":38,"restored":"John said to him, Teacher, we saw someone casting out unclean spirits in your name, and we tried to stop him because he was not following us.","tags":["john","name","outsider"]},
-    {"verse":39,"restored":"But Jesus said, Do not stop him, for no one who does a power in my name will soon be able to speak harmfully of me.","tags":["name","power"]},
-    {"verse":40,"restored":"For whoever is not against us is for us.","tags":["for-us"]},
-    {"verse":41,"restored":"Whoever gives you a cup of water in name because you are Messiah's, amen, I say to you, will certainly not lose the reward.","tags":["water","reward"]},
-    {"verse":42,"restored":"Whoever causes one of these little ones trusting in me to stumble, it is better for that one if a large millstone is placed around the neck and that one is thrown into the sea.","tags":["little-ones","stumbling","warning"]},
-    {"verse":43,"restored":"If your hand causes you to stumble, cut it off; it is better to enter life maimed than with two hands to go into Gehenna, into the unquenchable fire.","tags":["gehenna","hand","life"]},
-    {"verse":44,"restored":"[Some later manuscripts add: where their worm does not die and the fire is not quenched.]","tags":["textual-variant","gehenna"]},
-    {"verse":45,"restored":"If your foot causes you to stumble, cut it off; it is better to enter life lame than with two feet to be thrown into Gehenna.","tags":["gehenna","foot","life"]},
-    {"verse":46,"restored":"[Some later manuscripts add: where their worm does not die and the fire is not quenched.]","tags":["textual-variant","gehenna"]},
-    {"verse":47,"restored":"If your eye causes you to stumble, throw it out; it is better to enter the reign of the Divine with one eye than with two eyes to be thrown into Gehenna,","tags":["gehenna","eye","kingdom"]},
-    {"verse":48,"restored":"where their worm does not die and the fire is not quenched.","tags":["gehenna","isaiah"]},
-    {"verse":49,"restored":"For everyone will be salted with fire.","tags":["salt","fire"]},
-    {"verse":50,"restored":"Salt is beautiful/good; but if salt becomes unsalty, with what will you season it? Have salt in yourselves, and be at peace with one another.","tags":["salt","peace"]}
-  ]
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for transfiguration, Elijah/John pattern, difficult healing, trust/untrust, prayer variant, second passion prediction, child/greatness, outsider exorcist, little ones, Gehenna, salt/fire sayings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "He said to them, Amen, I say to you: there are some standing here who will certainly not taste death until they see the reign of the Divine having come in power.",
+      "tags": [
+        "kingdom",
+        "power",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Verily I say unto you, That there be some of them that stand here, which shall not taste of death, till they have seen the kingdom of God come with power."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "After six days Jesus takes Peter, James, and John and brings them up into a high mountain by themselves. He was transfigured before them.",
+      "terms": [
+        {
+          "display": "transfigured",
+          "source": "metemorphothe",
+          "language": "Greek",
+          "glossary_id": "metamorphoo"
+        }
+      ],
+      "tags": [
+        "transfiguration",
+        "mountain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after six days Jesus taketh with him Peter, and James, and John, and leadeth them up into an high mountain apart by themselves: and he was transfigured before them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "His garments became radiant, very white, such as no fuller on earth is able to whiten.",
+      "tags": [
+        "radiance",
+        "garments"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his raiment became shining, exceeding white as snow; so as no fuller on earth can white them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Elijah appeared to them with Moses, and they were speaking with Jesus.",
+      "tags": [
+        "elijah",
+        "moses"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there appeared unto them Elias with Moses: and they were talking with Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Peter answered Jesus, Rabbi, it is beautiful/good for us to be here; let us make three tents, one for you, one for Moses, and one for Elijah.",
+      "tags": [
+        "peter",
+        "tents",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Peter answered and said to Jesus, Master, it is good for us to be here: and let us make three tabernacles; one for thee, and one for Moses, and one for Elias."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "For he did not know what to answer, because they were greatly afraid.",
+      "tags": [
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he wist not what to say; for they were sore afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "A cloud came, overshadowing them, and a voice came from the cloud: This is my beloved Son; listen to him.",
+      "tags": [
+        "cloud",
+        "voice",
+        "beloved-son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was a cloud that overshadowed them: and a voice came out of the cloud, saying, This is my beloved Son: hear him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Suddenly, looking around, they no longer saw anyone with them except Jesus alone.",
+      "tags": [
+        "jesus",
+        "alone"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And suddenly, when they had looked round about, they saw no man any more, save Jesus only with themselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "As they came down from the mountain, he ordered them to tell no one what they had seen until the Son of Humanity should rise from the dead.",
+      "tags": [
+        "son-of-humanity",
+        "raised",
+        "silence",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they came down from the mountain, he charged them that they should tell no man what things they had seen, till the Son of man were risen from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They held the word, discussing among themselves what rising from the dead meant.",
+      "tags": [
+        "resurrection",
+        "discussion"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they kept that saying with themselves, questioning one with another what the rising from the dead should mean."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "They questioned him, saying, Why do the scribes say Elijah must come first?",
+      "tags": [
+        "elijah",
+        "scribes"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they asked him, saying, Why say the scribes that Elias must first come?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "He said to them, Elijah indeed comes first and restores all things. Yet how has it been written of the Son of Humanity that he should suffer many things and be treated as nothing?",
+      "tags": [
+        "elijah",
+        "restoration",
+        "suffering",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered and told them, Elias verily cometh first, and restoreth all things; and how it is written of the Son of man, that he must suffer many things, and be set at nought."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But I say to you that Elijah has come, and they did to him whatever they wished, as it has been written about him.",
+      "tags": [
+        "elijah",
+        "john-pattern"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I say unto you, That Elias is indeed come, and they have done unto him whatsoever they listed, as it is written of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Coming to the disciples, they saw a great crowd around them and scribes arguing with them.",
+      "tags": [
+        "disciples",
+        "scribes",
+        "crowd",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Immediately, seeing him, the whole crowd was greatly amazed and ran to greet him.",
+      "tags": [
+        "immediately",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He asked them, What are you arguing about with them?",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he asked the scribes, What question ye with them?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "One from the crowd answered, Teacher, I brought my son to you, having a spirit that makes him unable to speak.",
+      "tags": [
+        "son",
+        "spirit",
+        "speech",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Wherever it seizes him, it throws him down; he foams, grinds his teeth, and becomes rigid. I told your disciples to cast it out, and they were not strong enough.",
+      "tags": [
+        "affliction",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "He answered them, O untrusting generation, how long shall I be with you? How long shall I bear with you? Bring him to me.",
+      "tags": [
+        "generation",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "They brought him to him. Seeing Jesus, the spirit immediately convulsed him, and falling on the ground he rolled about, foaming.",
+      "tags": [
+        "spirit",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Jesus asked his father, How long has this been happening to him? He said, From childhood.",
+      "tags": [
+        "father",
+        "childhood",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he asked his father, How long is it ago since this came unto him? And he said, Of a child."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Often it has thrown him into fire and into waters to destroy him; but if you are able, have compassion on us and help us.",
+      "tags": [
+        "compassion",
+        "help"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Jesus said to him, If you are able? All things are possible for the one trusting.",
+      "tags": [
+        "trust",
+        "possible"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Immediately the child's father cried out, I trust; help my untrust.",
+      "tags": [
+        "trust",
+        "untrust",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Jesus, seeing that a crowd was running together, rebuked the unclean spirit, saying to it, Speechless and deaf spirit, I command you, come out from him and enter him no more.",
+      "tags": [
+        "rebuke",
+        "release",
+        "speech",
+        "hearing",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "After crying out and convulsing him greatly, it came out. He became like a dead one, so that many said, He has died.",
+      "tags": [
+        "release",
+        "deathlike"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "But Jesus took him by the hand and raised him, and he rose.",
+      "tags": [
+        "hand",
+        "raising"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus took him by the hand, and lifted him up; and he arose."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "When he entered the house, his disciples asked him privately, Why were we not able to cast it out?",
+      "tags": [
+        "house",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was come into the house, his disciples asked him privately, Why could not we cast him out?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "He said to them, This kind is able to come out by nothing except prayer. [Some manuscripts add: and fasting.]",
+      "tags": [
+        "prayer",
+        "textual-variant"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, This kind can come forth by nothing, but by prayer and fasting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Going out from there, they passed through Galilee, and he did not want anyone to know.",
+      "tags": [
+        "galilee",
+        "hidden"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they departed thence, and passed through Galilee; and he would not that any man should know it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "For he was teaching his disciples and saying to them, The Son of Humanity is being handed over into human hands; they will kill him, and when killed, after three days he will rise.",
+      "tags": [
+        "son-of-humanity",
+        "handed-over",
+        "three-days",
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he taught his disciples, and said unto them, The Son of man is delivered into the hands of men, and they shall kill him; and after that he is killed, he shall rise the third day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "But they did not understand the word and were afraid to ask him.",
+      "tags": [
+        "misunderstanding",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But they understood not that saying, and were afraid to ask him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "They came to Capernaum. In the house he asked them, What were you discussing on the way?",
+      "tags": [
+        "capernaum",
+        "house",
+        "way"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came to Capernaum: and being in the house he asked them, What was it that ye disputed among yourselves by the way?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "But they were silent, for on the way they had argued with one another about who was greatest.",
+      "tags": [
+        "greatness",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But they held their peace: for by the way they had disputed among themselves, who should be the greatest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Sitting down, he called the twelve and said to them, If anyone wants to be first, that one shall be last of all and servant of all.",
+      "tags": [
+        "first-last",
+        "servant",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sat down, and called the twelve, and saith unto them, If any man desire to be first, the same shall be last of all, and servant of all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "Taking a child, he stood the child in their midst, and taking the child in his arms, he said to them,",
+      "tags": [
+        "child",
+        "arms",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took a child, and set him in the midst of them: and when he had taken him in his arms, he said unto them,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Whoever receives one of such children in my name receives me; and whoever receives me receives not me but the One who sent me.",
+      "tags": [
+        "receiving",
+        "child",
+        "sending",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever shall receive one of such children in my name, receiveth me: and whosoever shall receive me, receiveth not me, but him that sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "John said to him, Teacher, we saw someone casting out unclean spirits in your name, and we tried to stop him because he was not following us.",
+      "tags": [
+        "john",
+        "name",
+        "outsider",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And John answered him, saying, Master, we saw one casting out devils in thy name, and he followeth not us: and we forbad him, because he followeth not us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "But Jesus said, Do not stop him, for no one who does a power in my name will soon be able to speak harmfully of me.",
+      "tags": [
+        "name",
+        "power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus said, Forbid him not: for there is no man which shall do a miracle in my name, that can lightly speak evil of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "For whoever is not against us is for us.",
+      "tags": [
+        "for-us"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that is not against us is on our part."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Whoever gives you a cup of water in name because you are Messiah's, amen, I say to you, will certainly not lose the reward.",
+      "tags": [
+        "water",
+        "reward"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever shall give you a cup of water to drink in my name, because ye belong to Christ, verily I say unto you, he shall not lose his reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 42,
+      "restored": "Whoever causes one of these little ones trusting in me to stumble, it is better for that one if a large millstone is placed around the neck and that one is thrown into the sea.",
+      "tags": [
+        "little-ones",
+        "stumbling",
+        "warning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever shall offend one of these little ones that believe in me, it is better for him that a millstone were hanged about his neck, and he were cast into the sea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "If your hand causes you to stumble, cut it off; it is better to enter life maimed than with two hands to go into Gehenna, into the unquenchable fire.",
+      "tags": [
+        "gehenna",
+        "hand",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy hand offend thee, cut it off: it is better for thee to enter into life maimed, than having two hands to go into hell, into the fire that never shall be quenched:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "[Some later manuscripts add: where their worm does not die and the fire is not quenched.]",
+      "tags": [
+        "textual-variant",
+        "gehenna"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Where their worm dieth not, and the fire is not quenched."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "If your foot causes you to stumble, cut it off; it is better to enter life lame than with two feet to be thrown into Gehenna.",
+      "tags": [
+        "gehenna",
+        "foot",
+        "life",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy foot offend thee, cut it off: it is better for thee to enter halt into life, than having two feet to be cast into hell, into the fire that never shall be quenched:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 46,
+      "restored": "[Some later manuscripts add: where their worm does not die and the fire is not quenched.]",
+      "tags": [
+        "textual-variant",
+        "gehenna"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Where their worm dieth not, and the fire is not quenched."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "If your eye causes you to stumble, throw it out; it is better to enter the reign of the Divine with one eye than with two eyes to be thrown into Gehenna,",
+      "tags": [
+        "gehenna",
+        "eye",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thine eye offend thee, pluck it out: it is better for thee to enter into the kingdom of God with one eye, than having two eyes to be cast into hell fire:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "where their worm does not die and the fire is not quenched.",
+      "tags": [
+        "gehenna",
+        "isaiah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Where their worm dieth not, and the fire is not quenched."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "For everyone will be salted with fire.",
+      "tags": [
+        "salt",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For every one shall be salted with fire, and every sacrifice shall be salted with salt."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "Salt is beautiful/good; but if salt becomes unsalty, with what will you season it? Have salt in yourselves, and be at peace with one another.",
+      "tags": [
+        "salt",
+        "peace",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Salt is good: but if the salt have lost his saltness, wherewith will ye season it? Have salt in yourselves, and have peace one with another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-50",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-50",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

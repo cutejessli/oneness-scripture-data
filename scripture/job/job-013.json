@@ -1,34 +1,515 @@
 {
-  "book":"Job","book_id":"job","chapter":13,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Job's demand to argue his case before God, rebuke of friends as whitewashers/false healers, legal-risk language, and plea for God to remove terror and disclose charges."},
-  "verses":[
-    {"verse":1,"restored":"Look, my eye has seen all this; my ear has heard and understood it.","tags":["seeing","hearing","understanding"]},
-    {"verse":2,"restored":"What you know, I also know; I do not fall below you.","tags":["wisdom","friends"]},
-    {"verse":3,"restored":"But I would speak to Shaddai, and I desire to argue with the Divine.","tags":["shaddai","legal","argument"]},
-    {"verse":4,"restored":"But you are smearers of falsehood; all of you are worthless healers.","tags":["falsehood","healers","friends"]},
-    {"verse":5,"restored":"If only you would be completely silent; that would become your wisdom.","tags":["silence","wisdom"]},
-    {"verse":6,"restored":"Please hear my argument, and listen to the pleadings of my lips.","tags":["argument","pleading"]},
-    {"verse":7,"restored":"Will you speak injustice for the Divine, and speak deceit for him?","tags":["injustice","deceit","theology"]},
-    {"verse":8,"restored":"Will you lift his face? Will you contend for the Divine?","tags":["partiality","legal"]},
-    {"verse":9,"restored":"Will it be good when he searches you out? Or can you deceive him as one deceives a mortal?","tags":["search","deception"]},
-    {"verse":10,"restored":"He will surely rebuke you if in secret you lift faces.","tags":["rebuke","partiality"]},
-    {"verse":11,"restored":"Will not his majesty terrify you, and his dread fall upon you?","tags":["terror","majesty"]},
-    {"verse":12,"restored":"Your memorable sayings are proverbs of ash; your defenses are defenses of clay.","tags":["ash","clay","friends"]},
-    {"verse":13,"restored":"Be silent from me, and I myself will speak; let whatever may pass over me pass.","tags":["speech","risk"]},
-    {"verse":14,"restored":"Why should I take my flesh in my teeth and put my life in my palm?","tags":["life","risk"]},
-    {"verse":15,"restored":"Though he slay me, I will wait/hope for him; yet I will argue my ways to his face.","tags":["hope","argument","face"]},
-    {"verse":16,"restored":"This also will be my salvation, for a godless person cannot come before him.","tags":["salvation","integrity"]},
-    {"verse":17,"restored":"Hear carefully my word, and let my declaration be in your ears.","tags":["hearing","speech"]},
-    {"verse":18,"restored":"Look now, I have arranged my case; I know that I myself am right.","tags":["case","justice"]},
-    {"verse":19,"restored":"Who is he who will contend with me? For then I would be silent and expire.","tags":["legal","silence"]},
-    {"verse":20,"restored":"Only two things do not do to me; then I will not hide myself from your face:","tags":["face","plea"]},
-    {"verse":21,"restored":"Remove your hand far from me, and let your terror not frighten me.","tags":["hand","terror"]},
-    {"verse":22,"restored":"Then call, and I will answer; or let me speak, and you reply to me.","tags":["dialogue","answer"]},
-    {"verse":23,"restored":"How many are my iniquities and sins? Make me know my transgression and my sin.","tags":["sin","transgression","charges"]},
-    {"verse":24,"restored":"Why do you hide your face and count me as your enemy?","tags":["hidden-face","enemy"]},
-    {"verse":25,"restored":"Will you terrify a driven leaf and pursue dry stubble?","tags":["leaf","stubble","frailty"]},
-    {"verse":26,"restored":"For you write bitter things against me and make me inherit the iniquities of my youth.","tags":["bitterness","youth"]},
-    {"verse":27,"restored":"You put my feet in the stocks, watch all my paths, and trace the soles of my feet.","tags":["watching","paths","feet"]},
-    {"verse":28,"restored":"And he wears away like rot, like a garment eaten by moths.","tags":["decay","garment","moth"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Job's demand to argue his case before God, rebuke of friends as whitewashers/false healers, legal-risk language, and plea for God to remove terror and disclose charges."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Look, my eye has seen all this; my ear has heard and understood it.",
+      "tags": [
+        "seeing",
+        "hearing",
+        "understanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo, mine eye hath seen all this, mine ear hath heard and understood it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "What you know, I also know; I do not fall below you.",
+      "tags": [
+        "wisdom",
+        "friends"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What ye know, the same do I know also: I am not inferior unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But I would speak to Shaddai, and I desire to argue with the Divine.",
+      "tags": [
+        "shaddai",
+        "legal",
+        "argument"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely I would speak to the Almighty, and I desire to reason with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But you are smearers of falsehood; all of you are worthless healers.",
+      "tags": [
+        "falsehood",
+        "healers",
+        "friends",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye are forgers of lies, ye are all physicians of no value."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "If only you would be completely silent; that would become your wisdom.",
+      "tags": [
+        "silence",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "O that ye would altogether hold your peace! and it should be your wisdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Please hear my argument, and listen to the pleadings of my lips.",
+      "tags": [
+        "argument",
+        "pleading"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear now my reasoning, and hearken to the pleadings of my lips."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Will you speak injustice for the Divine, and speak deceit for him?",
+      "tags": [
+        "injustice",
+        "deceit",
+        "theology"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Will ye speak wickedly for God? and talk deceitfully for him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Will you lift his face? Will you contend for the Divine?",
+      "tags": [
+        "partiality",
+        "legal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Will ye accept his person? will ye contend for God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Will it be good when he searches you out? Or can you deceive him as one deceives a mortal?",
+      "tags": [
+        "search",
+        "deception"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is it good that he should search you out? or as one man mocketh another, do ye so mock him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He will surely rebuke you if in secret you lift faces.",
+      "tags": [
+        "rebuke",
+        "partiality"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He will surely reprove you, if ye do secretly accept persons."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Will not his majesty terrify you, and his dread fall upon you?",
+      "tags": [
+        "terror",
+        "majesty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Shall not his excellency make you afraid? and his dread fall upon you?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Your memorable sayings are proverbs of ash; your defenses are defenses of clay.",
+      "tags": [
+        "ash",
+        "clay",
+        "friends"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Your remembrances are like unto ashes, your bodies to bodies of clay."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Be silent from me, and I myself will speak; let whatever may pass over me pass.",
+      "tags": [
+        "speech",
+        "risk"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hold your peace, let me alone, that I may speak, and let come on me what will."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Why should I take my flesh in my teeth and put my life in my palm?",
+      "tags": [
+        "life",
+        "risk"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore do I take my flesh in my teeth, and put my life in mine hand?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Though he slay me, I will wait/hope for him; yet I will argue my ways to his face.",
+      "tags": [
+        "hope",
+        "argument",
+        "face"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Though he slay me, yet will I trust in him: but I will maintain mine own ways before him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "This also will be my salvation, for a godless person cannot come before him.",
+      "tags": [
+        "salvation",
+        "integrity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He also shall be my salvation: for an hypocrite shall not come before him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Hear carefully my word, and let my declaration be in your ears.",
+      "tags": [
+        "hearing",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear diligently my speech, and my declaration with your ears."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Look now, I have arranged my case; I know that I myself am right.",
+      "tags": [
+        "case",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold now, I have ordered my cause; I know that I shall be justified."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Who is he who will contend with me? For then I would be silent and expire.",
+      "tags": [
+        "legal",
+        "silence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is he that will plead with me? for now, if I hold my tongue, I shall give up the ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Only two things do not do to me; then I will not hide myself from your face:",
+      "tags": [
+        "face",
+        "plea"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Only do not two things unto me: then will I not hide myself from thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Remove your hand far from me, and let your terror not frighten me.",
+      "tags": [
+        "hand",
+        "terror"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Withdraw thine hand far from me: and let not thy dread make me afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Then call, and I will answer; or let me speak, and you reply to me.",
+      "tags": [
+        "dialogue",
+        "answer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then call thou, and I will answer: or let me speak, and answer thou me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "How many are my iniquities and sins? Make me know my transgression and my sin.",
+      "tags": [
+        "sin",
+        "transgression",
+        "charges"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How many are mine iniquities and sins? make me to know my transgression and my sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Why do you hide your face and count me as your enemy?",
+      "tags": [
+        "hidden-face",
+        "enemy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore hidest thou thy face, and holdest me for thine enemy?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Will you terrify a driven leaf and pursue dry stubble?",
+      "tags": [
+        "leaf",
+        "stubble",
+        "frailty"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wilt thou break a leaf driven to and fro? and wilt thou pursue the dry stubble?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For you write bitter things against me and make me inherit the iniquities of my youth.",
+      "tags": [
+        "bitterness",
+        "youth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou writest bitter things against me, and makest me to possess the iniquities of my youth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "You put my feet in the stocks, watch all my paths, and trace the soles of my feet.",
+      "tags": [
+        "watching",
+        "paths",
+        "feet"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou puttest my feet also in the stocks, and lookest narrowly unto all my paths; thou settest a print upon the heels of my feet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "And he wears away like rot, like a garment eaten by moths.",
+      "tags": [
+        "decay",
+        "garment",
+        "moth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he, as a rotten thing, consumeth, as a garment that is moth eaten."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-28",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

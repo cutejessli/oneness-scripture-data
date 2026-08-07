@@ -1,43 +1,695 @@
 {
-  "book":"Mark",
-  "book_id":"mark",
-  "chapter":3,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Sabbath healing, hardness of heart, Pharisees/Herodians plot, crowds, appointment of the Twelve, Beelzebul controversy, binding the strong one, Spirit warning, and family redefinition around doing the Divine will."},
-  "verses":[
-    {"verse":1,"restored":"He entered again into the synagogue, and a man with a withered hand was there.","tags":["synagogue","sabbath","withered-hand"]},
-    {"verse":2,"restored":"They were watching him closely, whether he would heal him on the Sabbath, so that they might accuse him.","tags":["sabbath","healing","accusation"]},
-    {"verse":3,"restored":"He said to the man with the withered hand, Rise into the middle.","tags":["healing","middle"]},
-    {"verse":4,"restored":"He said to them, Is it lawful on the Sabbath to do good or to do harm, to save life/soul or to kill? But they were silent.","terms":[{"display":"life/soul","source":"psyche","language":"Greek","glossary_id":"psyche"}],"tags":["sabbath","good","harm","silence"]},
-    {"verse":5,"restored":"Looking around at them with anger, grieved at the hardness of their heart, he said to the man, Stretch out your hand. He stretched it out, and his hand was restored.","tags":["anger","grief","hard-heart","restoration"]},
-    {"verse":6,"restored":"The Pharisees went out and immediately took counsel with the Herodians against him, how they might destroy him.","tags":["pharisees","herodians","plot","immediately"]},
-    {"verse":7,"restored":"Jesus withdrew with his disciples to the sea, and a great multitude from Galilee followed, and from Judea,","tags":["sea","crowds","galilee","judea"]},
-    {"verse":8,"restored":"from Jerusalem, Idumea, beyond the Jordan, and around Tyre and Sidon, a great multitude, hearing all he was doing, came to him.","tags":["jerusalem","idumea","jordan","tyre","sidon","crowds"]},
-    {"verse":9,"restored":"He told his disciples that a little boat should be ready for him because of the crowd, so they would not crush him.","tags":["boat","crowd","disciples"]},
-    {"verse":10,"restored":"For he healed many, so that all who had afflictions pressed upon him to touch him.","tags":["healing","touch","affliction"]},
-    {"verse":11,"restored":"Whenever the unclean spirits saw him, they fell before him and cried out, saying, You are the Son of the Divine.","tags":["unclean-spirits","son-divine","recognition"]},
-    {"verse":12,"restored":"He strictly warned them many times that they should not make him known.","tags":["warning","silence"]},
-    {"verse":13,"restored":"He went up into the mountain and called those whom he wanted, and they came to him.","tags":["mountain","call"]},
-    {"verse":14,"restored":"He appointed twelve, whom he also named apostles/sent ones, so that they might be with him and so that he might send them to proclaim,","terms":[{"display":"apostles/sent ones","source":"apostolous","language":"Greek","glossary_id":"apostolos"}],"tags":["twelve","apostles","sending","proclamation"]},
-    {"verse":15,"restored":"and to have authority to cast out unclean spirits.","tags":["authority","unclean-spirits"]},
-    {"verse":16,"restored":"He appointed the twelve: Simon, to whom he gave the name Peter;","tags":["twelve","simon","peter"]},
-    {"verse":17,"restored":"James son of Zebedee and John the brother of James, to whom he gave the name Boanerges, that is, Sons of Thunder;","tags":["james","john","boanerges","thunder"]},
-    {"verse":18,"restored":"Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Cananaean/Zealot,","tags":["twelve"]},
-    {"verse":19,"restored":"and Judas Iscariot, who also handed him over. Then he came into a house.","tags":["judas","handed-over","house"]},
-    {"verse":20,"restored":"The crowd gathered again, so that they were not even able to eat bread.","tags":["crowd","bread"]},
-    {"verse":21,"restored":"When those near him heard, they went out to seize him, for they were saying, He is beside himself.","tags":["family","misunderstanding"]},
-    {"verse":22,"restored":"The scribes who came down from Jerusalem were saying, He has Beelzebul, and, By the ruler of the unclean spirits he casts out the spirits.","tags":["scribes","jerusalem","beelzebul","controversy"]},
-    {"verse":23,"restored":"Calling them to him, he spoke to them in parables: How can Satan/adversary cast out Satan/adversary?","terms":[{"display":"Satan/adversary","source":"Satanas","language":"Greek","glossary_id":"satanas"}],"tags":["parable","adversary","division"]},
-    {"verse":24,"restored":"If a reign is divided against itself, that reign is not able to stand.","tags":["kingdom","division"]},
-    {"verse":25,"restored":"If a house is divided against itself, that house will not be able to stand.","tags":["house","division"]},
-    {"verse":26,"restored":"If the adversary has risen against himself and is divided, he is not able to stand but has an end.","tags":["adversary","division"]},
-    {"verse":27,"restored":"But no one is able to enter the strong one's house and plunder his goods unless first he binds the strong one; then he will plunder his house.","tags":["strong-one","binding","house"]},
-    {"verse":28,"restored":"Amen, I say to you: all things will be released for the children of humanity, the sins/misalignments and whatever blasphemies they speak.","terms":[{"display":"released","source":"aphethesetai","language":"Greek","glossary_id":"aphiemi"}],"tags":["release","sins","humanity"]},
-    {"verse":29,"restored":"But whoever blasphemes against the holy Spirit does not have release into the age, but is held by age-long sin/misalignment.","terms":[{"display":"age","source":"aiona","language":"Greek","glossary_id":"aion"}],"tags":["holy-spirit","blasphemy","age"]},
-    {"verse":30,"restored":"because they were saying, He has an unclean spirit.","tags":["unclean-spirit","mislabeling"]},
-    {"verse":31,"restored":"His mother and his brothers came, and standing outside they sent to him, calling him.","tags":["mother","brothers","family"]},
-    {"verse":32,"restored":"A crowd was sitting around him, and they said to him, Look, your mother and your brothers and sisters are outside seeking you.","tags":["family","crowd"]},
-    {"verse":33,"restored":"He answered them, Who are my mother and my brothers?","tags":["family","question"]},
-    {"verse":34,"restored":"Looking around at those sitting in a circle around him, he said, Look, my mother and my brothers.","tags":["circle","disciples","family"]},
-    {"verse":35,"restored":"Whoever does the will of the Divine, this one is my brother and sister and mother.","tags":["will","divine","family"]}
-  ]
+  "book": "Mark",
+  "book_id": "mark",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Sabbath healing, hardness of heart, Pharisees/Herodians plot, crowds, appointment of the Twelve, Beelzebul controversy, binding the strong one, Spirit warning, and family redefinition around doing the Divine will."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "He entered again into the synagogue, and a man with a withered hand was there.",
+      "tags": [
+        "synagogue",
+        "sabbath",
+        "withered-hand",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he entered again into the synagogue; and there was a man there which had a withered hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "They were watching him closely, whether he would heal him on the Sabbath, so that they might accuse him.",
+      "tags": [
+        "sabbath",
+        "healing",
+        "accusation",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they watched him, whether he would heal him on the sabbath day; that they might accuse him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He said to the man with the withered hand, Rise into the middle.",
+      "tags": [
+        "healing",
+        "middle"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he saith unto the man which had the withered hand, Stand forth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He said to them, Is it lawful on the Sabbath to do good or to do harm, to save life/soul or to kill? But they were silent.",
+      "terms": [
+        {
+          "display": "life/soul",
+          "source": "psyche",
+          "language": "Greek",
+          "glossary_id": "psyche"
+        }
+      ],
+      "tags": [
+        "sabbath",
+        "good",
+        "harm",
+        "silence",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he saith unto them, Is it lawful to do good on the sabbath days, or to do evil? to save life, or to kill? But they held their peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Looking around at them with anger, grieved at the hardness of their heart, he said to the man, Stretch out your hand. He stretched it out, and his hand was restored.",
+      "tags": [
+        "anger",
+        "grief",
+        "hard-heart",
+        "restoration"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had looked round about on them with anger, being grieved for the hardness of their hearts, he saith unto the man, Stretch forth thine hand. And he stretched it out: and his hand was restored whole as the other."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "The Pharisees went out and immediately took counsel with the Herodians against him, how they might destroy him.",
+      "tags": [
+        "pharisees",
+        "herodians",
+        "plot",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Pharisees went forth, and straightway took counsel with the Herodians against him, how they might destroy him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Jesus withdrew with his disciples to the sea, and a great multitude from Galilee followed, and from Judea,",
+      "tags": [
+        "sea",
+        "crowds",
+        "galilee",
+        "judea",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus withdrew himself with his disciples to the sea: and a great multitude from Galilee followed him, and from Judaea,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "from Jerusalem, Idumea, beyond the Jordan, and around Tyre and Sidon, a great multitude, hearing all he was doing, came to him.",
+      "tags": [
+        "jerusalem",
+        "idumea",
+        "jordan",
+        "tyre",
+        "sidon",
+        "crowds"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And from Jerusalem, and from Idumaea, and from beyond Jordan; and they about Tyre and Sidon, a great multitude, when they had heard what great things he did, came unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He told his disciples that a little boat should be ready for him because of the crowd, so they would not crush him.",
+      "tags": [
+        "boat",
+        "crowd",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake to his disciples, that a small ship should wait on him because of the multitude, lest they should throng him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For he healed many, so that all who had afflictions pressed upon him to touch him.",
+      "tags": [
+        "healing",
+        "touch",
+        "affliction",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For he had healed many; insomuch that they pressed upon him for to touch him, as many as had plagues."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Whenever the unclean spirits saw him, they fell before him and cried out, saying, You are the Son of the Divine.",
+      "tags": [
+        "unclean-spirits",
+        "son-divine",
+        "recognition",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And unclean spirits, when they saw him, fell down before him, and cried, saying, Thou art the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "He strictly warned them many times that they should not make him known.",
+      "tags": [
+        "warning",
+        "silence",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he straitly charged them that they should not make him known."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "He went up into the mountain and called those whom he wanted, and they came to him.",
+      "tags": [
+        "mountain",
+        "call"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he goeth up into a mountain, and calleth unto him whom he would: and they came unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He appointed twelve, whom he also named apostles/sent ones, so that they might be with him and so that he might send them to proclaim,",
+      "terms": [
+        {
+          "display": "apostles/sent ones",
+          "source": "apostolous",
+          "language": "Greek",
+          "glossary_id": "apostolos"
+        }
+      ],
+      "tags": [
+        "twelve",
+        "apostles",
+        "sending",
+        "proclamation",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he ordained twelve, that they should be with him, and that he might send them forth to preach,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "and to have authority to cast out unclean spirits.",
+      "tags": [
+        "authority",
+        "unclean-spirits"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And to have power to heal sicknesses, and to cast out devils:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He appointed the twelve: Simon, to whom he gave the name Peter;",
+      "tags": [
+        "twelve",
+        "simon",
+        "peter"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Simon he surnamed Peter;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "James son of Zebedee and John the brother of James, to whom he gave the name Boanerges, that is, Sons of Thunder;",
+      "tags": [
+        "james",
+        "john",
+        "boanerges",
+        "thunder",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And James the son of Zebedee, and John the brother of James; and he surnamed them Boanerges, which is, The sons of thunder:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Andrew, Philip, Bartholomew, Matthew, Thomas, James son of Alphaeus, Thaddaeus, Simon the Cananaean/Zealot,",
+      "tags": [
+        "twelve",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Canaanite,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "and Judas Iscariot, who also handed him over. Then he came into a house.",
+      "tags": [
+        "judas",
+        "handed-over",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judas Iscariot, which also betrayed him: and they went into an house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The crowd gathered again, so that they were not even able to eat bread.",
+      "tags": [
+        "crowd",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the multitude cometh together again, so that they could not so much as eat bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "When those near him heard, they went out to seize him, for they were saying, He is beside himself.",
+      "tags": [
+        "family",
+        "misunderstanding"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when his friends heard of it, they went out to lay hold on him: for they said, He is beside himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The scribes who came down from Jerusalem were saying, He has Beelzebul, and, By the ruler of the unclean spirits he casts out the spirits.",
+      "tags": [
+        "scribes",
+        "jerusalem",
+        "beelzebul",
+        "controversy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the scribes which came down from Jerusalem said, He hath Beelzebub, and by the prince of the devils casteth he out devils."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Calling them to him, he spoke to them in parables: How can Satan/adversary cast out Satan/adversary?",
+      "terms": [
+        {
+          "display": "Satan/adversary",
+          "source": "Satanas",
+          "language": "Greek",
+          "glossary_id": "satanas"
+        }
+      ],
+      "tags": [
+        "parable",
+        "adversary",
+        "division"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he called them unto him, and said unto them in parables, How can Satan cast out Satan?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "If a reign is divided against itself, that reign is not able to stand.",
+      "tags": [
+        "kingdom",
+        "division",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if a kingdom be divided against itself, that kingdom cannot stand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "If a house is divided against itself, that house will not be able to stand.",
+      "tags": [
+        "house",
+        "division"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if a house be divided against itself, that house cannot stand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "If the adversary has risen against himself and is divided, he is not able to stand but has an end.",
+      "tags": [
+        "adversary",
+        "division"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if Satan rise up against himself, and be divided, he cannot stand, but hath an end."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "But no one is able to enter the strong one's house and plunder his goods unless first he binds the strong one; then he will plunder his house.",
+      "tags": [
+        "strong-one",
+        "binding",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No man can enter into a strong man’s house, and spoil his goods, except he will first bind the strong man; and then he will spoil his house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Amen, I say to you: all things will be released for the children of humanity, the sins/misalignments and whatever blasphemies they speak.",
+      "terms": [
+        {
+          "display": "released",
+          "source": "aphethesetai",
+          "language": "Greek",
+          "glossary_id": "aphiemi"
+        }
+      ],
+      "tags": [
+        "release",
+        "sins",
+        "humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily I say unto you, All sins shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "But whoever blasphemes against the holy Spirit does not have release into the age, but is held by age-long sin/misalignment.",
+      "terms": [
+        {
+          "display": "age",
+          "source": "aiona",
+          "language": "Greek",
+          "glossary_id": "aion"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "holy-spirit",
+        "blasphemy",
+        "age",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that shall blaspheme against the Holy Ghost hath never forgiveness, but is in danger of eternal damnation:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "because they were saying, He has an unclean spirit.",
+      "tags": [
+        "unclean-spirit",
+        "mislabeling",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Because they said, He hath an unclean spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "His mother and his brothers came, and standing outside they sent to him, calling him.",
+      "tags": [
+        "mother",
+        "brothers",
+        "family"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There came then his brethren and his mother, and, standing without, sent unto him, calling him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "A crowd was sitting around him, and they said to him, Look, your mother and your brothers and sisters are outside seeking you.",
+      "tags": [
+        "family",
+        "crowd",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the multitude sat about him, and they said unto him, Behold, thy mother and thy brethren without seek for thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "He answered them, Who are my mother and my brothers?",
+      "tags": [
+        "family",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered them, saying, Who is my mother, or my brethren?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Looking around at those sitting in a circle around him, he said, Look, my mother and my brothers.",
+      "tags": [
+        "circle",
+        "disciples",
+        "family"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he looked round about on them which sat about him, and said, Behold my mother and my brethren!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Whoever does the will of the Divine, this one is my brother and sister and mother.",
+      "tags": [
+        "will",
+        "divine",
+        "family",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever shall do the will of God, the same is my brother, and my sister, and mother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-35",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-35",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

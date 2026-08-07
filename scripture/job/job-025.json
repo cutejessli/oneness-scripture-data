@@ -1,12 +1,142 @@
 {
-  "book":"Job","book_id":"job","chapter":25,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Compact complete draft reviewed as Bildad's final brief speech: divine dominion/dread, heavenly order, human inability to be righteous/pure, and worm/maggot imagery. Marked as Bildad's speech, not final theology."},
-  "verses":[
-    {"verse":1,"restored":"Bildad the Shuhite answered and said:","tags":["bildad","speech"]},
-    {"verse":2,"restored":"Dominion and dread are with him; he makes peace in his heights.","tags":["dominion","dread","peace"]},
-    {"verse":3,"restored":"Is there any number to his troops? Upon whom does his light not rise?","tags":["troops","light"]},
-    {"verse":4,"restored":"How then can a mortal be righteous with the Divine, or one born of woman be clean?","tags":["righteousness","clean","human"]},
-    {"verse":5,"restored":"Look, even the moon is not bright, and the stars are not clean in his eyes;","tags":["moon","stars","clean"]},
-    {"verse":6,"restored":"how much less a mortal, a worm; and a human, a small creature of the dust.","tags":["mortal","dust","humility"]}
-  ]
+  "book": "Job",
+  "book_id": "job",
+  "chapter": 25,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Compact complete draft reviewed as Bildad's final brief speech: divine dominion/dread, heavenly order, human inability to be righteous/pure, and worm/maggot imagery. Marked as Bildad's speech, not final theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Bildad the Shuhite answered and said:",
+      "tags": [
+        "bildad",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Bildad the Shuhite, and said,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Dominion and dread are with him; he makes peace in his heights.",
+      "tags": [
+        "dominion",
+        "dread",
+        "peace"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Dominion and fear are with him, he maketh peace in his high places."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Is there any number to his troops? Upon whom does his light not rise?",
+      "tags": [
+        "troops",
+        "light"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Is there any number of his armies? and upon whom doth not his light arise?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "How then can a mortal be righteous with the Divine, or one born of woman be clean?",
+      "tags": [
+        "righteousness",
+        "clean",
+        "human",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How then can man be justified with God? or how can he be clean that is born of a woman?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Look, even the moon is not bright, and the stars are not clean in his eyes;",
+      "tags": [
+        "moon",
+        "stars",
+        "clean"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "how much less a mortal, a worm; and a human, a small creature of the dust.",
+      "tags": [
+        "mortal",
+        "dust",
+        "humility"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How much less man, that is a worm? and the son of man, which is a worm?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-6",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-6",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

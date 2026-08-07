@@ -1,36 +1,570 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":19,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for divorce debate, creation citation, hardness of heart, eunuchs, children, rich young man, treasure, camel/needle image, and renewal/palingenesia promise."},
-  "verses":[
-    {"verse":1,"restored":"When Jesus finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan.","tags":["judea","jordan"]},
-    {"verse":2,"restored":"Great crowds followed him, and he healed them there.","tags":["crowds","healing"]},
-    {"verse":3,"restored":"Pharisees came to him, testing him and saying, Is it lawful for a man to release his wife for any cause?","tags":["pharisees","testing","divorce"]},
-    {"verse":4,"restored":"He answered, Have you not read that the One who created from the beginning made them male and female,","tags":["creation","male-female"]},
-    {"verse":5,"restored":"and said, Because of this a man will leave father and mother and be joined to his wife, and the two will become one flesh?","tags":["one-flesh","marriage"]},
-    {"verse":6,"restored":"So they are no longer two but one flesh. Therefore what the Divine joined together, let a human not separate.","tags":["joining","one-flesh"]},
-    {"verse":7,"restored":"They said to him, Why then did Moses command to give a document of release and release her?","tags":["moses","release"]},
-    {"verse":8,"restored":"He said to them, Because of your hardness of heart Moses allowed you to release your wives; but from the beginning it has not been this way.","tags":["hard-heart","beginning"]},
-    {"verse":9,"restored":"I say to you that whoever releases his wife, except for sexual unfaithfulness, and marries another commits adultery.","tags":["divorce","adultery"]},
-    {"verse":10,"restored":"The disciples said to him, If such is the case of a man with his wife, it is not advantageous to marry.","tags":["disciples","marriage"]},
-    {"verse":11,"restored":"He said to them, Not everyone receives this word, but only those to whom it has been given.","tags":["receiving","word"]},
-    {"verse":12,"restored":"For there are eunuchs who were born that way from the womb, eunuchs made so by humans, and eunuchs who made themselves eunuchs because of the reign of the heavens. Let the one able to receive it receive it.","tags":["eunuchs","kingdom","receiving"]},
-    {"verse":13,"restored":"Then children were brought to him so that he might place hands on them and pray; but the disciples rebuked them.","tags":["children","hands","prayer"]},
-    {"verse":14,"restored":"Jesus said, Allow the children, and do not hinder them from coming to me, for of such is the reign of the heavens.","tags":["children","kingdom"]},
-    {"verse":15,"restored":"He placed his hands on them and departed from there.","tags":["hands","children"]},
-    {"verse":16,"restored":"And look, one came to him and said, Teacher, what good thing shall I do so that I may have age-long life?","terms":[{"display":"age-long life","source":"zoen aionion","language":"Greek","glossary_id":"zoe-aionios"}],"tags":["life","question"]},
-    {"verse":17,"restored":"He said to him, Why do you ask me about the good? One is good. But if you want to enter life, keep the commands.","tags":["good","commands","life"]},
-    {"verse":18,"restored":"He said to him, Which? Jesus said, You shall not murder; you shall not commit adultery; you shall not steal; you shall not bear false witness;","tags":["commands"]},
-    {"verse":19,"restored":"honor father and mother; and you shall love your neighbor as yourself.","tags":["love","neighbor"]},
-    {"verse":20,"restored":"The young man said to him, All these I have guarded. What do I still lack?","tags":["young-man","lack"]},
-    {"verse":21,"restored":"Jesus said to him, If you want to be complete/whole, go, sell your possessions and give to the poor, and you will have treasure in the heavens; then come, follow me.","tags":["complete","poor","treasure","following"]},
-    {"verse":22,"restored":"When the young man heard the word, he went away grieving, for he had many possessions.","tags":["wealth","grief"]},
-    {"verse":23,"restored":"Jesus said to his disciples, Amen, I say to you: a rich person will enter the reign of the heavens with difficulty.","tags":["wealth","kingdom"]},
-    {"verse":24,"restored":"Again I say to you: it is easier for a camel to pass through the eye of a needle than for a rich person to enter the reign of the Divine.","tags":["camel","needle","wealth"]},
-    {"verse":25,"restored":"When the disciples heard, they were greatly astonished, saying, Who then is able to be saved?","tags":["saved","disciples"]},
-    {"verse":26,"restored":"Looking at them, Jesus said, With humans this is impossible, but with the Divine all things are possible.","tags":["impossible","divine"]},
-    {"verse":27,"restored":"Then Peter answered, Look, we have left everything and followed you. What then will there be for us?","tags":["peter","following"]},
-    {"verse":28,"restored":"Jesus said to them, Amen, I say to you: in the renewal/regeneration, when the Son of Humanity sits on his throne of glory, you who followed me will also sit on twelve thrones, judging the twelve tribes of Israel.","terms":[{"display":"renewal/regeneration","source":"palingenesia","language":"Greek","glossary_id":"palingenesia"}],"tags":["renewal","son-of-humanity","israel"]},
-    {"verse":29,"restored":"Everyone who left houses, brothers, sisters, father, mother, children, or fields because of my name will receive many times more and inherit age-long life.","tags":["inheritance","age-long-life"]},
-    {"verse":30,"restored":"But many first will be last, and last first.","tags":["first-last","reversal"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 19,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for divorce debate, creation citation, hardness of heart, eunuchs, children, rich young man, treasure, camel/needle image, and renewal/palingenesia promise."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "When Jesus finished these words, he departed from Galilee and came into the borders of Judea beyond the Jordan.",
+      "tags": [
+        "judea",
+        "jordan"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that when Jesus had finished these sayings, he departed from Galilee, and came into the coasts of Judaea beyond Jordan;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Great crowds followed him, and he healed them there.",
+      "tags": [
+        "crowds",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And great multitudes followed him; and he healed them there."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Pharisees came to him, testing him and saying, Is it lawful for a man to release his wife for any cause?",
+      "tags": [
+        "pharisees",
+        "testing",
+        "divorce",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "He answered, Have you not read that the One who created from the beginning made them male and female,",
+      "tags": [
+        "creation",
+        "male-female"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered and said unto them, Have ye not read, that he which made them at the beginning made them male and female,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "and said, Because of this a man will leave father and mother and be joined to his wife, and the two will become one flesh?",
+      "tags": [
+        "one-flesh",
+        "marriage",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And said, For this cause shall a man leave father and mother, and shall cleave to his wife: and they twain shall be one flesh?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "So they are no longer two but one flesh. Therefore what the Divine joined together, let a human not separate.",
+      "tags": [
+        "joining",
+        "one-flesh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore they are no more twain, but one flesh. What therefore God hath joined together, let not man put asunder."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They said to him, Why then did Moses command to give a document of release and release her?",
+      "tags": [
+        "moses",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He said to them, Because of your hardness of heart Moses allowed you to release your wives; but from the beginning it has not been this way.",
+      "tags": [
+        "hard-heart",
+        "beginning",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith unto them, Moses because of the hardness of your hearts suffered you to put away your wives: but from the beginning it was not so."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "I say to you that whoever releases his wife, except for sexual unfaithfulness, and marries another commits adultery.",
+      "tags": [
+        "divorce",
+        "adultery",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And I say unto you, Whosoever shall put away his wife, except it be for fornication, and shall marry another, committeth adultery: and whoso marrieth her which is put away doth commit adultery."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "The disciples said to him, If such is the case of a man with his wife, it is not advantageous to marry.",
+      "tags": [
+        "disciples",
+        "marriage",
+        "religious-authority",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His disciples say unto him, If the case of the man be so with his wife, it is not good to marry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "He said to them, Not everyone receives this word, but only those to whom it has been given.",
+      "tags": [
+        "receiving",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he said unto them, All men cannot receive this saying, save they to whom it is given."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "For there are eunuchs who were born that way from the womb, eunuchs made so by humans, and eunuchs who made themselves eunuchs because of the reign of the heavens. Let the one able to receive it receive it.",
+      "tags": [
+        "eunuchs",
+        "kingdom",
+        "receiving",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For there are some eunuchs, which were so born from their mother’s womb: and there are some eunuchs, which were made eunuchs of men: and there be eunuchs, which have made themselves eunuchs for the kingdom of heaven’s sake. He that is able to receive it, let him receive it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Then children were brought to him so that he might place hands on them and pray; but the disciples rebuked them.",
+      "tags": [
+        "children",
+        "hands",
+        "prayer",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Jesus said, Allow the children, and do not hinder them from coming to me, for of such is the reign of the heavens.",
+      "tags": [
+        "children",
+        "kingdom",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus said, Suffer little children, and forbid them not, to come unto me: for of such is the kingdom of heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He placed his hands on them and departed from there.",
+      "tags": [
+        "hands",
+        "children"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he laid his hands on them, and departed thence."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And look, one came to him and said, Teacher, what good thing shall I do so that I may have age-long life?",
+      "terms": [
+        {
+          "display": "age-long life",
+          "source": "zoen aionion",
+          "language": "Greek",
+          "glossary_id": "zoe-aionios"
+        }
+      ],
+      "tags": [
+        "life",
+        "question",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, one came and said unto him, Good Master, what good thing shall I do, that I may have eternal life?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He said to him, Why do you ask me about the good? One is good. But if you want to enter life, keep the commands.",
+      "tags": [
+        "good",
+        "commands",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Why callest thou me good? there is none good but one, that is, God: but if thou wilt enter into life, keep the commandments."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He said to him, Which? Jesus said, You shall not murder; you shall not commit adultery; you shall not steal; you shall not bear false witness;",
+      "tags": [
+        "commands"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith unto him, Which? Jesus said, Thou shalt do no murder, Thou shalt not commit adultery, Thou shalt not steal, Thou shalt not bear false witness,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "honor father and mother; and you shall love your neighbor as yourself.",
+      "tags": [
+        "love",
+        "neighbor"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Honour thy father and thy mother: and, Thou shalt love thy neighbour as thyself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The young man said to him, All these I have guarded. What do I still lack?",
+      "tags": [
+        "young-man",
+        "lack"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The young man saith unto him, All these things have I kept from my youth up: what lack I yet?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Jesus said to him, If you want to be complete/whole, go, sell your possessions and give to the poor, and you will have treasure in the heavens; then come, follow me.",
+      "tags": [
+        "complete",
+        "poor",
+        "treasure",
+        "following",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "When the young man heard the word, he went away grieving, for he had many possessions.",
+      "tags": [
+        "wealth",
+        "grief"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the young man heard that saying, he went away sorrowful: for he had great possessions."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Jesus said to his disciples, Amen, I say to you: a rich person will enter the reign of the heavens with difficulty.",
+      "tags": [
+        "wealth",
+        "kingdom",
+        "kingship-power",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Jesus unto his disciples, Verily I say unto you, That a rich man shall hardly enter into the kingdom of heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Again I say to you: it is easier for a camel to pass through the eye of a needle than for a rich person to enter the reign of the Divine.",
+      "tags": [
+        "camel",
+        "needle",
+        "wealth",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And again I say unto you, It is easier for a camel to go through the eye of a needle, than for a rich man to enter into the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "When the disciples heard, they were greatly astonished, saying, Who then is able to be saved?",
+      "tags": [
+        "saved",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Looking at them, Jesus said, With humans this is impossible, but with the Divine all things are possible.",
+      "tags": [
+        "impossible",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus beheld them, and said unto them, With men this is impossible; but with God all things are possible."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Then Peter answered, Look, we have left everything and followed you. What then will there be for us?",
+      "tags": [
+        "peter",
+        "following"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Jesus said to them, Amen, I say to you: in the renewal/regeneration, when the Son of Humanity sits on his throne of glory, you who followed me will also sit on twelve thrones, judging the twelve tribes of Israel.",
+      "terms": [
+        {
+          "display": "renewal/regeneration",
+          "source": "palingenesia",
+          "language": "Greek",
+          "glossary_id": "palingenesia"
+        }
+      ],
+      "tags": [
+        "renewal",
+        "son-of-humanity",
+        "israel",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto them, Verily I say unto you, That ye which have followed me, in the regeneration when the Son of man shall sit in the throne of his glory, ye also shall sit upon twelve thrones, judging the twelve tribes of Israel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Everyone who left houses, brothers, sisters, father, mother, children, or fields because of my name will receive many times more and inherit age-long life.",
+      "tags": [
+        "inheritance",
+        "age-long-life",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And every one that hath forsaken houses, or brethren, or sisters, or father, or mother, or wife, or children, or lands, for my name’s sake, shall receive an hundredfold, and shall inherit everlasting life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "But many first will be last, and last first.",
+      "tags": [
+        "first-last",
+        "reversal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But many that are first shall be last; and the last shall be first."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-30",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }

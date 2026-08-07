@@ -1,56 +1,954 @@
 {
-  "book":"Matthew","book_id":"matthew","chapter":12,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Sabbath controversies, mercy not sacrifice, servant citation, spirit-language controversy, blasphemy warning, tree/fruit, sign of Jonah, return of unclean spirit, and redefinition of family around doing the Father's will."},
-  "verses":[
-    {"verse":1,"restored":"At that time Jesus went through the grainfields on the Sabbath; his disciples were hungry and began to pluck heads of grain and eat.","tags":["sabbath","grain","hunger"]},
-    {"verse":2,"restored":"The Pharisees saw and said to him, Look, your disciples are doing what is not lawful to do on the Sabbath.","tags":["pharisees","sabbath","law"]},
-    {"verse":3,"restored":"He said to them, Have you not read what David did when he was hungry, and those with him,","tags":["david","hunger"]},
-    {"verse":4,"restored":"how he entered the house of the Divine and ate the bread of the Presence, which was not lawful for him to eat, nor for those with him, but only for the priests?","tags":["bread","presence","priests"]},
-    {"verse":5,"restored":"Or have you not read in the Law that on the Sabbath the priests in the temple profane the Sabbath and are guiltless?","tags":["sabbath","temple","priests"]},
-    {"verse":6,"restored":"But I say to you: something greater than the temple is here.","tags":["temple","greater"]},
-    {"verse":7,"restored":"If you had known what this means, I desire mercy and not sacrifice, you would not have condemned the guiltless.","tags":["mercy","sacrifice","guiltless"]},
-    {"verse":8,"restored":"For the Son of Humanity is lord of the Sabbath.","tags":["son-of-humanity","sabbath"]},
-    {"verse":9,"restored":"Departing from there, he came into their synagogue.","tags":["synagogue"]},
-    {"verse":10,"restored":"And look, there was a man with a withered hand. They asked him, Is it lawful to heal on the Sabbath? so that they might accuse him.","tags":["sabbath","healing","accusation"]},
-    {"verse":11,"restored":"He said to them, What person among you who has one sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?","tags":["sheep","sabbath"]},
-    {"verse":12,"restored":"How much more valuable is a human than a sheep! Therefore it is lawful to do good on the Sabbath.","tags":["human-worth","sabbath","good"]},
-    {"verse":13,"restored":"Then he said to the man, Stretch out your hand. He stretched it out, and it was restored healthy like the other.","tags":["healing","restoration","hand"]},
-    {"verse":14,"restored":"But the Pharisees went out and took counsel against him, how they might destroy him.","tags":["pharisees","plot"]},
-    {"verse":15,"restored":"Jesus, knowing this, withdrew from there. Many followed him, and he healed them all,","tags":["withdrawal","healing"]},
-    {"verse":16,"restored":"and warned them that they should not make him known,","tags":["warning","hidden"]},
-    {"verse":17,"restored":"so that what was spoken through Isaiah the prophet might be fulfilled:","tags":["isaiah","fulfillment"]},
-    {"verse":18,"restored":"Look, my servant whom I chose, my beloved in whom my soul delights; I will put my Spirit upon him, and he will announce justice to the nations.","tags":["servant","spirit","justice","nations"]},
-    {"verse":19,"restored":"He will not quarrel or cry out, nor will anyone hear his voice in the streets.","tags":["servant","gentleness"]},
-    {"verse":20,"restored":"A bruised reed he will not break, and a smoldering wick he will not quench, until he brings justice to victory.","tags":["reed","wick","justice"]},
-    {"verse":21,"restored":"And in his name the nations will hope.","tags":["nations","hope"]},
-    {"verse":22,"restored":"Then they brought to him a person troubled by an unclean spirit, blind and mute; and he healed him, so that the mute person spoke and saw.","tags":["healing","spirit","sight","speech"]},
-    {"verse":23,"restored":"All the crowds were amazed and said, Can this be the Son of David?","tags":["crowds","son-of-david"]},
-    {"verse":24,"restored":"But the Pharisees heard and said, This one does not cast out unclean spirits except by Beelzebul, ruler of those spirits.","tags":["pharisees","controversy"]},
-    {"verse":25,"restored":"Knowing their thoughts, he said to them, Every reign divided against itself is laid waste, and every city or house divided against itself will not stand.","tags":["division","kingdom"]},
-    {"verse":26,"restored":"If Satan/adversary casts out Satan/adversary, he is divided against himself; how then will his reign stand?","tags":["adversary","division"]},
-    {"verse":27,"restored":"If I by Beelzebul cast out unclean spirits, by whom do your sons cast them out? Therefore they will be your judges.","tags":["judgment","spirits"]},
-    {"verse":28,"restored":"But if I by Spirit of the Divine cast out unclean spirits, then the reign of the Divine has come upon you.","tags":["spirit","kingdom","deliverance"]},
-    {"verse":29,"restored":"Or how can someone enter the house of the strong one and seize his goods unless he first binds the strong one? Then he will plunder his house.","tags":["strong-one","house"]},
-    {"verse":30,"restored":"The one not with me is against me, and the one not gathering with me scatters.","tags":["gathering","scattering"]},
-    {"verse":31,"restored":"Because of this I say to you: every sin/misalignment and blasphemy will be released for people, but blasphemy against the Spirit will not be released.","tags":["spirit","blasphemy","release"]},
-    {"verse":32,"restored":"Whoever speaks a word against the Son of Humanity, it will be released for him; but whoever speaks against the holy Spirit, it will not be released, neither in this age nor in the coming one.","terms":[{"display":"age","source":"aion","language":"Greek","glossary_id":"aion"}],"tags":["spirit","age","release"]},
-    {"verse":33,"restored":"Either make the tree good and its fruit good, or make the tree rotten and its fruit rotten; for from the fruit the tree is known.","tags":["tree","fruit"]},
-    {"verse":34,"restored":"Offspring of vipers, how can you speak good things while being harmful? For from the abundance of the heart the mouth speaks.","tags":["heart","speech","vipers"]},
-    {"verse":35,"restored":"The good person brings out good things from the good treasure, and the harmful person brings out harmful things from the harmful treasure.","tags":["treasure","heart"]},
-    {"verse":36,"restored":"I say to you that every idle word people speak, they will give an account for it in the day of judgment.","tags":["words","judgment"]},
-    {"verse":37,"restored":"For by your words you will be justified, and by your words you will be condemned.","tags":["words","justification"]},
-    {"verse":38,"restored":"Then some of the scribes and Pharisees answered him, Teacher, we want to see a sign from you.","tags":["sign","scribes","pharisees"]},
-    {"verse":39,"restored":"He answered them, A harmful and adulterous generation seeks a sign, and no sign will be given to it except the sign of Jonah the prophet.","tags":["jonah","sign","generation"]},
-    {"verse":40,"restored":"For just as Jonah was in the belly of the sea-creature three days and three nights, so the Son of Humanity will be in the heart of the earth three days and three nights.","tags":["jonah","son-of-humanity","three-days"]},
-    {"verse":41,"restored":"Men of Nineveh will rise in the judgment with this generation and condemn it, because they turned/realigned at the proclamation of Jonah; and look, something greater than Jonah is here.","tags":["nineveh","metanoia","jonah"]},
-    {"verse":42,"restored":"The queen of the South will rise in the judgment with this generation and condemn it, because she came from the ends of the earth to hear Solomon's wisdom; and look, something greater than Solomon is here.","tags":["queen-south","solomon","wisdom"]},
-    {"verse":43,"restored":"When an unclean spirit goes out from a person, it passes through waterless places seeking rest and does not find it.","tags":["spirit","rest"]},
-    {"verse":44,"restored":"Then it says, I will return to my house from which I came. Coming, it finds it empty, swept, and put in order.","tags":["house","return"]},
-    {"verse":45,"restored":"Then it goes and takes with itself seven other spirits more harmful than itself, and entering, they dwell there; and the last state of that person becomes worse than the first. So it will be also with this harmful generation.","tags":["spirit","generation","warning"]},
-    {"verse":46,"restored":"While he was still speaking to the crowds, look, his mother and brothers stood outside, seeking to speak to him.","tags":["family","mother","brothers"]},
-    {"verse":47,"restored":"Someone said to him, Look, your mother and your brothers are standing outside, seeking to speak to you.","tags":["family"]},
-    {"verse":48,"restored":"He answered the one speaking to him, Who is my mother, and who are my brothers?","tags":["family","question"]},
-    {"verse":49,"restored":"Stretching out his hand toward his disciples, he said, Look, my mother and my brothers.","tags":["disciples","family"]},
-    {"verse":50,"restored":"For whoever does the will of my Father in the heavens is my brother and sister and mother.","tags":["father","will","family"]}
-  ]
+  "book": "Matthew",
+  "book_id": "matthew",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Sabbath controversies, mercy not sacrifice, servant citation, spirit-language controversy, blasphemy warning, tree/fruit, sign of Jonah, return of unclean spirit, and redefinition of family around doing the Father's will."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At that time Jesus went through the grainfields on the Sabbath; his disciples were hungry and began to pluck heads of grain and eat.",
+      "tags": [
+        "sabbath",
+        "grain",
+        "hunger",
+        "religious-authority",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "The Pharisees saw and said to him, Look, your disciples are doing what is not lawful to do on the Sabbath.",
+      "tags": [
+        "pharisees",
+        "sabbath",
+        "law",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the Pharisees saw it, they said unto him, Behold, thy disciples do that which is not lawful to do upon the sabbath day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He said to them, Have you not read what David did when he was hungry, and those with him,",
+      "tags": [
+        "david",
+        "hunger",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he said unto them, Have ye not read what David did, when he was an hungred, and they that were with him;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "how he entered the house of the Divine and ate the bread of the Presence, which was not lawful for him to eat, nor for those with him, but only for the priests?",
+      "tags": [
+        "bread",
+        "presence",
+        "priests",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How he entered into the house of God, and did eat the shewbread, which was not lawful for him to eat, neither for them which were with him, but only for the priests?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Or have you not read in the Law that on the Sabbath the priests in the temple profane the Sabbath and are guiltless?",
+      "tags": [
+        "sabbath",
+        "temple",
+        "priests",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or have ye not read in the law, how that on the sabbath days the priests in the temple profane the sabbath, and are blameless?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But I say to you: something greater than the temple is here.",
+      "tags": [
+        "temple",
+        "greater",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I say unto you, That in this place is one greater than the temple."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If you had known what this means, I desire mercy and not sacrifice, you would not have condemned the guiltless.",
+      "tags": [
+        "mercy",
+        "sacrifice",
+        "guiltless",
+        "sacrifice-worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye had known what this meaneth, I will have mercy, and not sacrifice, ye would not have condemned the guiltless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "For the Son of Humanity is lord of the Sabbath.",
+      "tags": [
+        "son-of-humanity",
+        "sabbath",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Son of man is Lord even of the sabbath day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Departing from there, he came into their synagogue.",
+      "tags": [
+        "synagogue",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was departed thence, he went into their synagogue:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And look, there was a man with a withered hand. They asked him, Is it lawful to heal on the Sabbath? so that they might accuse him.",
+      "tags": [
+        "sabbath",
+        "healing",
+        "accusation",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He said to them, What person among you who has one sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out?",
+      "tags": [
+        "sheep",
+        "sabbath",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, What man shall there be among you, that shall have one sheep, and if it fall into a pit on the sabbath day, will he not lay hold on it, and lift it out?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "How much more valuable is a human than a sheep! Therefore it is lawful to do good on the Sabbath.",
+      "tags": [
+        "human-worth",
+        "sabbath",
+        "good"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How much then is a man better than a sheep? Wherefore it is lawful to do well on the sabbath days."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Then he said to the man, Stretch out your hand. He stretched it out, and it was restored healthy like the other.",
+      "tags": [
+        "healing",
+        "restoration",
+        "hand",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then saith he to the man, Stretch forth thine hand. And he stretched it forth; and it was restored whole, like as the other."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But the Pharisees went out and took counsel against him, how they might destroy him.",
+      "tags": [
+        "pharisees",
+        "plot"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the Pharisees went out, and held a council against him, how they might destroy him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Jesus, knowing this, withdrew from there. Many followed him, and he healed them all,",
+      "tags": [
+        "withdrawal",
+        "healing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Jesus knew it, he withdrew himself from thence: and great multitudes followed him, and he healed them all;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "and warned them that they should not make him known,",
+      "tags": [
+        "warning",
+        "hidden",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And charged them that they should not make him known:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "so that what was spoken through Isaiah the prophet might be fulfilled:",
+      "tags": [
+        "isaiah",
+        "fulfillment",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That it might be fulfilled which was spoken by Esaias the prophet, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Look, my servant whom I chose, my beloved in whom my soul delights; I will put my Spirit upon him, and he will announce justice to the nations.",
+      "tags": [
+        "servant",
+        "spirit",
+        "justice",
+        "nations",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold my servant, whom I have chosen; my beloved, in whom my soul is well pleased: I will put my spirit upon him, and he shall shew judgment to the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He will not quarrel or cry out, nor will anyone hear his voice in the streets.",
+      "tags": [
+        "servant",
+        "gentleness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall not strive, nor cry; neither shall any man hear his voice in the streets."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "A bruised reed he will not break, and a smoldering wick he will not quench, until he brings justice to victory.",
+      "tags": [
+        "reed",
+        "wick",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "A bruised reed shall he not break, and smoking flax shall he not quench, till he send forth judgment unto victory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And in his name the nations will hope.",
+      "tags": [
+        "nations",
+        "hope"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in his name shall the Gentiles trust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Then they brought to him a person troubled by an unclean spirit, blind and mute; and he healed him, so that the mute person spoke and saw.",
+      "tags": [
+        "healing",
+        "spirit",
+        "sight",
+        "speech",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "All the crowds were amazed and said, Can this be the Son of David?",
+      "tags": [
+        "crowds",
+        "son-of-david",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the people were amazed, and said, Is not this the son of David?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "But the Pharisees heard and said, This one does not cast out unclean spirits except by Beelzebul, ruler of those spirits.",
+      "tags": [
+        "pharisees",
+        "controversy"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the Pharisees heard it, they said, This fellow doth not cast out devils, but by Beelzebub the prince of the devils."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Knowing their thoughts, he said to them, Every reign divided against itself is laid waste, and every city or house divided against itself will not stand.",
+      "tags": [
+        "division",
+        "kingdom",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus knew their thoughts, and said unto them, Every kingdom divided against itself is brought to desolation; and every city or house divided against itself shall not stand:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "If Satan/adversary casts out Satan/adversary, he is divided against himself; how then will his reign stand?",
+      "tags": [
+        "adversary",
+        "division",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if Satan cast out Satan, he is divided against himself; how shall then his kingdom stand?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "If I by Beelzebul cast out unclean spirits, by whom do your sons cast them out? Therefore they will be your judges.",
+      "tags": [
+        "judgment",
+        "spirits",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And if I by Beelzebub cast out devils, by whom do your children cast them out? therefore they shall be your judges."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "But if I by Spirit of the Divine cast out unclean spirits, then the reign of the Divine has come upon you.",
+      "tags": [
+        "spirit",
+        "kingdom",
+        "deliverance",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if I cast out devils by the Spirit of God, then the kingdom of God is come unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Or how can someone enter the house of the strong one and seize his goods unless he first binds the strong one? Then he will plunder his house.",
+      "tags": [
+        "strong-one",
+        "house"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Or else how can one enter into a strong man’s house, and spoil his goods, except he first bind the strong man? and then he will spoil his house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "The one not with me is against me, and the one not gathering with me scatters.",
+      "tags": [
+        "gathering",
+        "scattering"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that is not with me is against me; and he that gathereth not with me scattereth abroad."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Because of this I say to you: every sin/misalignment and blasphemy will be released for people, but blasphemy against the Spirit will not be released.",
+      "tags": [
+        "spirit",
+        "blasphemy",
+        "release"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men: but the blasphemy against the Holy Ghost shall not be forgiven unto men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Whoever speaks a word against the Son of Humanity, it will be released for him; but whoever speaks against the holy Spirit, it will not be released, neither in this age nor in the coming one.",
+      "terms": [
+        {
+          "display": "age",
+          "source": "aion",
+          "language": "Greek",
+          "glossary_id": "aion"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "age",
+        "release",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever speaketh a word against the Son of man, it shall be forgiven him: but whosoever speaketh against the Holy Ghost, it shall not be forgiven him, neither in this world, neither in the world to come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Either make the tree good and its fruit good, or make the tree rotten and its fruit rotten; for from the fruit the tree is known.",
+      "tags": [
+        "tree",
+        "fruit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Either make the tree good, and his fruit good; or else make the tree corrupt, and his fruit corrupt: for the tree is known by his fruit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Offspring of vipers, how can you speak good things while being harmful? For from the abundance of the heart the mouth speaks.",
+      "tags": [
+        "heart",
+        "speech",
+        "vipers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "O generation of vipers, how can ye, being evil, speak good things? for out of the abundance of the heart the mouth speaketh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "The good person brings out good things from the good treasure, and the harmful person brings out harmful things from the harmful treasure.",
+      "tags": [
+        "treasure",
+        "heart",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "A good man out of the good treasure of the heart bringeth forth good things: and an evil man out of the evil treasure bringeth forth evil things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "I say to you that every idle word people speak, they will give an account for it in the day of judgment.",
+      "tags": [
+        "words",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I say unto you, That every idle word that men shall speak, they shall give account thereof in the day of judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "For by your words you will be justified, and by your words you will be condemned.",
+      "tags": [
+        "words",
+        "justification"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For by thy words thou shalt be justified, and by thy words thou shalt be condemned."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "Then some of the scribes and Pharisees answered him, Teacher, we want to see a sign from you.",
+      "tags": [
+        "sign",
+        "scribes",
+        "pharisees",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then certain of the scribes and of the Pharisees answered, saying, Master, we would see a sign from thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "He answered them, A harmful and adulterous generation seeks a sign, and no sign will be given to it except the sign of Jonah the prophet.",
+      "tags": [
+        "jonah",
+        "sign",
+        "generation",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he answered and said unto them, An evil and adulterous generation seeketh after a sign; and there shall no sign be given to it, but the sign of the prophet Jonas:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "For just as Jonah was in the belly of the sea-creature three days and three nights, so the Son of Humanity will be in the heart of the earth three days and three nights.",
+      "tags": [
+        "jonah",
+        "son-of-humanity",
+        "three-days",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as Jonas was three days and three nights in the whale’s belly; so shall the Son of man be three days and three nights in the heart of the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Men of Nineveh will rise in the judgment with this generation and condemn it, because they turned/realigned at the proclamation of Jonah; and look, something greater than Jonah is here.",
+      "tags": [
+        "nineveh",
+        "metanoia",
+        "jonah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The men of Nineveh shall rise in judgment with this generation, and shall condemn it: because they repented at the preaching of Jonas; and, behold, a greater than Jonas is here."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "The queen of the South will rise in the judgment with this generation and condemn it, because she came from the ends of the earth to hear Solomon's wisdom; and look, something greater than Solomon is here.",
+      "tags": [
+        "queen-south",
+        "solomon",
+        "wisdom"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The queen of the south shall rise up in the judgment with this generation, and shall condemn it: for she came from the uttermost parts of the earth to hear the wisdom of Solomon; and, behold, a greater than Solomon is here."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "When an unclean spirit goes out from a person, it passes through waterless places seeking rest and does not find it.",
+      "tags": [
+        "spirit",
+        "rest",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the unclean spirit is gone out of a man, he walketh through dry places, seeking rest, and findeth none."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "Then it says, I will return to my house from which I came. Coming, it finds it empty, swept, and put in order.",
+      "tags": [
+        "house",
+        "return"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he saith, I will return into my house from whence I came out; and when he is come, he findeth it empty, swept, and garnished."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Then it goes and takes with itself seven other spirits more harmful than itself, and entering, they dwell there; and the last state of that person becomes worse than the first. So it will be also with this harmful generation.",
+      "tags": [
+        "spirit",
+        "generation",
+        "warning",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then goeth he, and taketh with himself seven other spirits more wicked than himself, and they enter in and dwell there: and the last state of that man is worse than the first. Even so shall it be also unto this wicked generation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "While he was still speaking to the crowds, look, his mother and brothers stood outside, seeking to speak to him.",
+      "tags": [
+        "family",
+        "mother",
+        "brothers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "While he yet talked to the people, behold, his mother and his brethren stood without, desiring to speak with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "Someone said to him, Look, your mother and your brothers are standing outside, seeking to speak to you.",
+      "tags": [
+        "family"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then one said unto him, Behold, thy mother and thy brethren stand without, desiring to speak with thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "He answered the one speaking to him, Who is my mother, and who are my brothers?",
+      "tags": [
+        "family",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he answered and said unto him that told him, Who is my mother? and who are my brethren?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "Stretching out his hand toward his disciples, he said, Look, my mother and my brothers.",
+      "tags": [
+        "disciples",
+        "family",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he stretched forth his hand toward his disciples, and said, Behold my mother and my brethren!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "For whoever does the will of my Father in the heavens is my brother and sister and mother.",
+      "tags": [
+        "father",
+        "will",
+        "family",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-50",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-50",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 4
+  }
 }
