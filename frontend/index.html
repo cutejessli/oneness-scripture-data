@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#11100e" />
+  <title>Oneness Scripture</title>
+  <meta name="description" content="A living reader for the Oneness Scripture restored and mystical layers." />
+  <link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <aside class="sidebar" id="sidebar">
+      <div class="brand">
+        <button class="icon-button mobile-only" id="closeSidebar" aria-label="Close library">×</button>
+        <div class="brand-mark">O</div>
+        <div>
+          <h1>Oneness Scripture</h1>
+          <p>Living restored text</p>
+        </div>
+      </div>
+
+      <div class="library-stats" id="libraryStats" aria-live="polite">Loading library…</div>
+
+      <label class="search-wrap">
+        <span class="sr-only">Search books</span>
+        <input id="bookSearch" type="search" placeholder="Search books…" autocomplete="off" />
+      </label>
+
+      <nav id="bookLibrary" class="book-library" aria-label="Scripture books"></nav>
+
+      <div class="sidebar-footer">
+        <label class="toggle-row">
+          <input type="checkbox" id="showUpcoming" />
+          <span>Show upcoming books</span>
+        </label>
+        <p>Draft text remains subject to source/witness review.</p>
+      </div>
+    </aside>
+
+    <main class="reader">
+      <header class="reader-toolbar">
+        <button class="icon-button mobile-only" id="openSidebar" aria-label="Open library">☰</button>
+        <div class="chapter-title-wrap">
+          <div class="eyebrow" id="sectionLabel">Scripture reader</div>
+          <h2 id="chapterTitle">Choose a book</h2>
+        </div>
+        <div class="toolbar-actions">
+          <button class="ghost-button" id="themeToggle" aria-label="Toggle color theme">◐</button>
+        </div>
+      </header>
+
+      <section class="control-bar" id="controlBar" hidden>
+        <div class="chapter-nav">
+          <button class="ghost-button" id="prevChapter" aria-label="Previous chapter">←</button>
+          <label>
+            <span class="sr-only">Chapter</span>
+            <select id="chapterSelect"></select>
+          </label>
+          <button class="ghost-button" id="nextChapter" aria-label="Next chapter">→</button>
+        </div>
+        <div class="segmented" role="group" aria-label="Reading layer">
+          <button data-layer="restored" class="active">Restored</button>
+          <button data-layer="mystical">Mystical</button>
+          <button data-layer="both">Both</button>
+        </div>
+      </section>
+
+      <section class="welcome" id="welcome">
+        <div class="welcome-card">
+          <div class="eyebrow">The library is already alive</div>
+          <h2>Read what’s finished now. New chapters can appear as the data grows.</h2>
+          <p>The reader is connected directly to the scripture data repository. Restored/source-audited drafts and mystical companions remain separate, and the interface never merges one into the other.</p>
+          <button class="primary-button" id="startReading">Start reading</button>
+        </div>
+      </section>
+
+      <section class="chapter-view" id="chapterView" hidden>
+        <div class="status-strip" id="statusStrip"></div>
+        <article id="verseList" class="verse-list" aria-live="polite"></article>
+        <section id="notesPanel" class="notes-panel"></section>
+        <nav class="bottom-nav" aria-label="Chapter navigation">
+          <button class="ghost-button" id="prevChapterBottom">← Previous</button>
+          <button class="ghost-button" id="nextChapterBottom">Next →</button>
+        </nav>
+      </section>
+
+      <section class="error-card" id="errorCard" hidden>
+        <h2>Couldn’t load this chapter.</h2>
+        <p id="errorMessage"></p>
+        <button class="primary-button" id="retryButton">Try again</button>
+      </section>
+    </main>
+  </div>
+
+  <script type="module" src="./app.js"></script>
+</body>
+</html>
