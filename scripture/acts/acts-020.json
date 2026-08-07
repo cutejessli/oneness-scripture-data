@@ -1,1 +1,577 @@
-{"book":"Acts","book_id":"acts","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Macedonia/Greece, Eutychus, Troas bread-breaking, travel itinerary, Miletus farewell, serving with tears, Spirit-bound Jerusalem, guarding flock, no coveting, blessed to give."},"verses":[{"verse":1,"restored":"After the uproar ceased, Paul sent for the disciples, encouraged them, said farewell, and departed to go to Macedonia."},{"verse":2,"restored":"Passing through those regions and encouraging them with many words, he came to Greece."},{"verse":3,"restored":"After spending three months, when a plot was made against him by the Judeans as he was about to sail to Syria, he determined to return through Macedonia."},{"verse":4,"restored":"Sopater of Berea, son of Pyrrhus, accompanied him; also Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from Asia."},{"verse":5,"restored":"These went ahead and were waiting for us in Troas."},{"verse":6,"restored":"But we sailed away from Philippi after the days of Unleavened Bread, and in five days came to them at Troas, where we spent seven days."},{"verse":7,"restored":"On the first day of the week, when we were gathered to break bread, Paul was reasoning with them, intending to depart the next day; he extended the word until midnight."},{"verse":8,"restored":"There were many lamps in the upper room where we were gathered."},{"verse":9,"restored":"A certain young man named Eutychus, sitting at the window, being overcome by deep sleep as Paul reasoned at length, was carried down by sleep and fell from the third story, and was taken up dead."},{"verse":10,"restored":"Paul went down, fell upon him, and embracing him said, Do not be troubled, for his life/soul is in him."},{"verse":11,"restored":"Going up, breaking the bread and eating, he conversed for a long while until daybreak, and so departed."},{"verse":12,"restored":"They brought the child alive and were comforted not moderately."},{"verse":13,"restored":"We went ahead to the ship and sailed to Assos, intending there to take Paul aboard, for so he had arranged, intending himself to go by land."},{"verse":14,"restored":"When he met us at Assos, taking him aboard, we came to Mitylene."},{"verse":15,"restored":"Sailing from there, the next day we arrived opposite Chios; the next day we touched at Samos, and the day after we came to Miletus."},{"verse":16,"restored":"For Paul had decided to sail past Ephesus, so that he might not spend time in Asia; for he was hurrying, if it were possible for him, to be in Jerusalem for the day of Pentecost."},{"verse":17,"restored":"From Miletus he sent to Ephesus and called the elders of the assembly."},{"verse":18,"restored":"When they came to him, he said to them, You yourselves know from the first day I set foot in Asia how I was with you the whole time,"},{"verse":19,"restored":"serving the Lord with all humility and tears and trials that happened to me by the plots of the Judeans,"},{"verse":20,"restored":"how I held back nothing of what was profitable, not failing to announce to you and teach you publicly and house by house,"},{"verse":21,"restored":"testifying both to Judeans and Greeks of turning/realignment toward the Divine and trust toward our Lord Jesus."},{"verse":22,"restored":"And now, look, bound in the Spirit, I am going to Jerusalem, not knowing the things that will meet me there,"},{"verse":23,"restored":"except that the holy Spirit testifies to me city by city, saying that bonds and pressures await me."},{"verse":24,"restored":"But I make my life/soul of no account to myself as precious, if only I may complete my course and the service that I received from the Lord Jesus: to bear witness to the good news of the grace of the Divine."},{"verse":25,"restored":"And now, look, I know that all of you among whom I went about proclaiming the reign will see my face no more."},{"verse":26,"restored":"Therefore I testify to you in this day that I am clean from the blood of all,"},{"verse":27,"restored":"for I did not hold back from announcing to you the whole counsel of the Divine."},{"verse":28,"restored":"Pay attention to yourselves and to all the flock, in which the holy Spirit set you as overseers, to shepherd the assembly of the Divine, which he acquired through his own blood."},{"verse":29,"restored":"I know that after my departure, heavy wolves will enter among you, not sparing the flock."},{"verse":30,"restored":"And from among your own selves men will arise speaking twisted things, to draw away the disciples after them."},{"verse":31,"restored":"Therefore stay awake, remembering that for three years, night and day, I did not cease admonishing each one with tears."},{"verse":32,"restored":"And now I entrust you to the Divine and to the word of his grace, which is able to build and to give the inheritance among all those sanctified."},{"verse":33,"restored":"I coveted no one's silver or gold or clothing."},{"verse":34,"restored":"You yourselves know that these hands served my needs and those with me."},{"verse":35,"restored":"In all things I showed you that by laboring thus it is necessary to help the weak and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive."},{"verse":36,"restored":"Saying these things, he knelt down and prayed with them all."},{"verse":37,"restored":"There was considerable weeping by all, and falling upon Paul's neck, they were kissing him,"},{"verse":38,"restored":"especially grieving over the word he had spoken, that they were about to behold his face no more. They escorted him to the ship."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Macedonia/Greece, Eutychus, Troas bread-breaking, travel itinerary, Miletus farewell, serving with tears, Spirit-bound Jerusalem, guarding flock, no coveting, blessed to give."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After the uproar ceased, Paul sent for the disciples, encouraged them, said farewell, and departed to go to Macedonia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after the uproar was ceased, Paul called unto him the disciples, and embraced them, and departed for to go into Macedonia."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Passing through those regions and encouraging them with many words, he came to Greece.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had gone over those parts, and had given them much exhortation, he came into Greece,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "After spending three months, when a plot was made against him by the Judeans as he was about to sail to Syria, he determined to return through Macedonia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there abode three months. And when the Jews laid wait for him, as he was about to sail into Syria, he purposed to return through Macedonia."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Sopater of Berea, son of Pyrrhus, accompanied him; also Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from Asia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there accompanied him into Asia Sopater of Berea; and of the Thessalonians, Aristarchus and Secundus; and Gaius of Derbe, and Timotheus; and of Asia, Tychicus and Trophimus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "These went ahead and were waiting for us in Troas.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These going before tarried for us at Troas."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But we sailed away from Philippi after the days of Unleavened Bread, and in five days came to them at Troas, where we spent seven days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we sailed away from Philippi after the days of unleavened bread, and came unto them to Troas in five days; where we abode seven days."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "On the first day of the week, when we were gathered to break bread, Paul was reasoning with them, intending to depart the next day; he extended the word until midnight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And upon the first day of the week, when the disciples came together to break bread, Paul preached unto them, ready to depart on the morrow; and continued his speech until midnight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "There were many lamps in the upper room where we were gathered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there were many lights in the upper chamber, where they were gathered together."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "A certain young man named Eutychus, sitting at the window, being overcome by deep sleep as Paul reasoned at length, was carried down by sleep and fell from the third story, and was taken up dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there sat in a window a certain young man named Eutychus, being fallen into a deep sleep: and as Paul was long preaching, he sunk down with sleep, and fell down from the third loft, and was taken up dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Paul went down, fell upon him, and embracing him said, Do not be troubled, for his life/soul is in him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Going up, breaking the bread and eating, he conversed for a long while until daybreak, and so departed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When he therefore was come up again, and had broken bread, and eaten, and talked a long while, even till break of day, so he departed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They brought the child alive and were comforted not moderately.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought the young man alive, and were not a little comforted."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "We went ahead to the ship and sailed to Assos, intending there to take Paul aboard, for so he had arranged, intending himself to go by land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we went before to ship, and sailed unto Assos, there intending to take in Paul: for so had he appointed, minding himself to go afoot."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When he met us at Assos, taking him aboard, we came to Mitylene.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he met with us at Assos, we took him in, and came to Mitylene."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Sailing from there, the next day we arrived opposite Chios; the next day we touched at Samos, and the day after we came to Miletus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we sailed thence, and came the next day over against Chios; and the next day we arrived at Samos, and tarried at Trogyllium; and the next day we came to Miletus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For Paul had decided to sail past Ephesus, so that he might not spend time in Asia; for he was hurrying, if it were possible for him, to be in Jerusalem for the day of Pentecost.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Paul had determined to sail by Ephesus, because he would not spend the time in Asia: for he hasted, if it were possible for him, to be at Jerusalem the day of Pentecost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "From Miletus he sent to Ephesus and called the elders of the assembly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And from Miletus he sent to Ephesus, and called the elders of the church."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "When they came to him, he said to them, You yourselves know from the first day I set foot in Asia how I was with you the whole time,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were come to him, he said unto them, Ye know, from the first day that I came into Asia, after what manner I have been with you at all seasons,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "serving the Lord with all humility and tears and trials that happened to me by the plots of the Judeans,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Serving the LORD with all humility of mind, and with many tears, and temptations, which befell me by the lying in wait of the Jews:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "how I held back nothing of what was profitable, not failing to announce to you and teach you publicly and house by house,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And how I kept back nothing that was profitable unto you, but have shewed you, and have taught you publickly, and from house to house,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "testifying both to Judeans and Greeks of turning/realignment toward the Divine and trust toward our Lord Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Testifying both to the Jews, and also to the Greeks, repentance toward God, and faith toward our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And now, look, bound in the Spirit, I am going to Jerusalem, not knowing the things that will meet me there,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, behold, I go bound in the spirit unto Jerusalem, not knowing the things that shall befall me there:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "except that the holy Spirit testifies to me city by city, saying that bonds and pressures await me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Save that the Holy Ghost witnesseth in every city, saying that bonds and afflictions abide me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "But I make my life/soul of no account to myself as precious, if only I may complete my course and the service that I received from the Lord Jesus: to bear witness to the good news of the grace of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But none of these things move me, neither count I my life dear unto myself, so that I might finish my course with joy, and the ministry, which I have received of the Lord Jesus, to testify the gospel of the grace of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And now, look, I know that all of you among whom I went about proclaiming the reign will see my face no more.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, behold, I know that ye all, among whom I have gone preaching the kingdom of God, shall see my face no more."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Therefore I testify to you in this day that I am clean from the blood of all,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I take you to record this day, that I am pure from the blood of all men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "for I did not hold back from announcing to you the whole counsel of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I have not shunned to declare unto you all the counsel of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Pay attention to yourselves and to all the flock, in which the holy Spirit set you as overseers, to shepherd the assembly of the Divine, which he acquired through his own blood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed therefore unto yourselves, and to all the flock, over the which the Holy Ghost hath made you overseers, to feed the church of God, which he hath purchased with his own blood."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "I know that after my departure, heavy wolves will enter among you, not sparing the flock.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I know this, that after my departing shall grievous wolves enter in among you, not sparing the flock."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "And from among your own selves men will arise speaking twisted things, to draw away the disciples after them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also of your own selves shall men arise, speaking perverse things, to draw away disciples after them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Therefore stay awake, remembering that for three years, night and day, I did not cease admonishing each one with tears.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore watch, and remember, that by the space of three years I ceased not to warn every one night and day with tears."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "And now I entrust you to the Divine and to the word of his grace, which is able to build and to give the inheritance among all those sanctified.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, brethren, I commend you to God, and to the word of his grace, which is able to build you up, and to give you an inheritance among all them which are sanctified."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "I coveted no one's silver or gold or clothing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have coveted no man’s silver, or gold, or apparel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "You yourselves know that these hands served my needs and those with me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, ye yourselves know, that these hands have ministered unto my necessities, and to them that were with me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "In all things I showed you that by laboring thus it is necessary to help the weak and to remember the words of the Lord Jesus, that he himself said, It is more blessed to give than to receive.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have shewed you all things, how that so labouring ye ought to support the weak, and to remember the words of the Lord Jesus, how he said, It is more blessed to give than to receive."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Saying these things, he knelt down and prayed with them all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had thus spoken, he kneeled down, and prayed with them all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "There was considerable weeping by all, and falling upon Paul's neck, they were kissing him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they all wept sore, and fell on Paul’s neck, and kissed him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "especially grieving over the word he had spoken, that they were about to behold his face no more. They escorted him to the ship.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Sorrowing most of all for the words which he spake, that they should see his face no more. And they accompanied him unto the ship."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-38",
+    "tags": "partial-10-of-38",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

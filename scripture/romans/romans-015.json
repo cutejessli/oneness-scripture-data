@@ -1,1 +1,651 @@
-{"book":"Romans","book_id":"romans","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Greek Romans text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for strong bearing weak, Messiah serving circumcision, nations praise, Paul's mission, collection for Jerusalem, travel plans."},"verses":[{"verse":1,"restored":"We who are strong ought to bear the weaknesses of the not-strong and not please ourselves."},{"verse":2,"restored":"Let each of us please the neighbor into the good, toward building up."},{"verse":3,"restored":"For Messiah also did not please himself, but just as it is written: The insults of those insulting you fell upon me."},{"verse":4,"restored":"For whatever was written beforehand was written for our instruction, so that through endurance and through encouragement of the Scriptures we might have hope."},{"verse":5,"restored":"May the Divine of endurance and encouragement give you to think the same among one another according to Messiah Jesus,"},{"verse":6,"restored":"so that with one accord, with one mouth, you may glorify the Divine and Father of our Lord Jesus Messiah."},{"verse":7,"restored":"Therefore receive one another, just as Messiah also received you, into glory of the Divine."},{"verse":8,"restored":"For I say Messiah has become servant of circumcision on behalf of truth of the Divine, to confirm the promises of the fathers,"},{"verse":9,"restored":"and for the nations to glorify the Divine for mercy, just as it is written: Because of this I will confess you among nations and sing to your name."},{"verse":10,"restored":"And again he says: Rejoice, nations, with his people."},{"verse":11,"restored":"And again: Praise the Lord, all nations, and let all peoples praise him."},{"verse":12,"restored":"And again Isaiah says: There will be the root of Jesse, and the one rising to rule nations; upon him nations will hope."},{"verse":13,"restored":"May the Divine of hope fill you with all joy and peace in trusting, so that you may abound in hope in power of holy Spirit."},{"verse":14,"restored":"I myself am persuaded about you, my siblings, that you yourselves are full of goodness, filled with all knowledge, able also to admonish one another."},{"verse":15,"restored":"But I wrote to you more boldly in part, as reminding you, because of the grace given to me by the Divine,"},{"verse":16,"restored":"to be a public servant of Messiah Jesus to the nations, priestly-serving the good news of the Divine, so that the offering of the nations may become acceptable, sanctified in holy Spirit."},{"verse":17,"restored":"Therefore I have boasting in Messiah Jesus toward the Divine."},{"verse":18,"restored":"For I will not dare to speak of anything except what Messiah worked through me into obedience of nations, by word and work,"},{"verse":19,"restored":"in power of signs and wonders, in power of Spirit, so that from Jerusalem and in a circle as far as Illyricum I have fulfilled the good news of Messiah."},{"verse":20,"restored":"And thus being ambitious to announce good news not where Messiah was named, so that I might not build on another's foundation,"},{"verse":21,"restored":"but as it is written: Those to whom it was not announced concerning him will see, and those who have not heard will understand."},{"verse":22,"restored":"Because of this I was also hindered many times from coming to you."},{"verse":23,"restored":"But now, having no more place in these regions, and having had longing for many years to come to you,"},{"verse":24,"restored":"whenever I go to Spain, I hope while passing through to see you and by you to be sent forward there, if first I may be filled in part with your company."},{"verse":25,"restored":"But now I am going to Jerusalem, serving the holy ones."},{"verse":26,"restored":"For Macedonia and Achaia were pleased to make a sharing for the poor among the holy ones in Jerusalem."},{"verse":27,"restored":"For they were pleased, and they are debtors to them; for if the nations shared in their spiritual things, they ought also to serve them in fleshly/material things."},{"verse":28,"restored":"Therefore, completing this and sealing to them this fruit, I will depart by way of you to Spain."},{"verse":29,"restored":"I know that when I come to you, I will come in fullness of Messiah's blessing."},{"verse":30,"restored":"I urge you, siblings, through our Lord Jesus Messiah and through the love of the Spirit, to struggle together with me in prayers to the Divine on my behalf,"},{"verse":31,"restored":"so that I may be rescued from the disobedient in Judea, and that my service to Jerusalem may become acceptable to the holy ones,"},{"verse":32,"restored":"so that coming to you in joy through the will of the Divine, I may rest together with you."},{"verse":33,"restored":"May the Divine of peace be with all of you. Amen."}],"translation_notes":["Romans 15 continues the weak/strong conscience theme by calling the strong to bear the not-strong and to receive one another.","Paul's nations mission remains tethered to Jerusalem through material sharing for poor holy ones; this keeps the Jewish/nations relationship reciprocal, not replacement-based." ]}
+{
+  "book": "Romans",
+  "book_id": "romans",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Romans text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for strong bearing weak, Messiah serving circumcision, nations praise, Paul's mission, collection for Jerusalem, travel plans."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "We who are strong ought to bear the weaknesses of the not-strong and not please ourselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We then that are strong ought to bear the infirmities of the weak, and not to please ourselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Let each of us please the neighbor into the good, toward building up.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let every one of us please his neighbour for his good to edification."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For Messiah also did not please himself, but just as it is written: The insults of those insulting you fell upon me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For whatever was written beforehand was written for our instruction, so that through endurance and through encouragement of the Scriptures we might have hope.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For whatsoever things were written aforetime were written for our learning, that we through patience and comfort of the scriptures might have hope."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "May the Divine of endurance and encouragement give you to think the same among one another according to Messiah Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "so that with one accord, with one mouth, you may glorify the Divine and Father of our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye may with one mind and one mouth glorify God, even the Father of our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore receive one another, just as Messiah also received you, into glory of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore receive ye one another, as Christ also received us to the glory of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For I say Messiah has become servant of circumcision on behalf of truth of the Divine, to confirm the promises of the fathers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I say that Jesus Christ was a minister of the circumcision for the truth of God, to confirm the promises made unto the fathers:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "and for the nations to glorify the Divine for mercy, just as it is written: Because of this I will confess you among nations and sing to your name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that the Gentiles might glorify God for his mercy; as it is written, For this cause I will confess to thee among the Gentiles, and sing unto thy name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And again he says: Rejoice, nations, with his people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And again he saith, Rejoice, ye Gentiles, with his people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And again: Praise the Lord, all nations, and let all peoples praise him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And again, Praise the Lord, all ye Gentiles; and laud him, all ye people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And again Isaiah says: There will be the root of Jesse, and the one rising to rule nations; upon him nations will hope.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "May the Divine of hope fill you with all joy and peace in trusting, so that you may abound in hope in power of holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the God of hope fill you with all joy and peace in believing, that ye may abound in hope, through the power of the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "I myself am persuaded about you, my siblings, that you yourselves are full of goodness, filled with all knowledge, able also to admonish one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But I wrote to you more boldly in part, as reminding you, because of the grace given to me by the Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "to be a public servant of Messiah Jesus to the nations, priestly-serving the good news of the Divine, so that the offering of the nations may become acceptable, sanctified in holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I should be the minister of Jesus Christ to the Gentiles, ministering the gospel of God, that the offering up of the Gentiles might be acceptable, being sanctified by the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "labor-power",
+        "sacrifice-worship",
+        "spirit"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Therefore I have boasting in Messiah Jesus toward the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have therefore whereof I may glory through Jesus Christ in those things which pertain to God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "For I will not dare to speak of anything except what Messiah worked through me into obedience of nations, by word and work,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I will not dare to speak of any of those things which Christ hath not wrought by me, to make the Gentiles obedient, by word and deed,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "in power of signs and wonders, in power of Spirit, so that from Jerusalem and in a circle as far as Illyricum I have fulfilled the good news of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Through mighty signs and wonders, by the power of the Spirit of God; so that from Jerusalem, and round about unto Illyricum, I have fully preached the gospel of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "And thus being ambitious to announce good news not where Messiah was named, so that I might not build on another's foundation,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, so have I strived to preach the gospel, not where Christ was named, lest I should build upon another man’s foundation:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "but as it is written: Those to whom it was not announced concerning him will see, and those who have not heard will understand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Because of this I was also hindered many times from coming to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For which cause also I have been much hindered from coming to you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "But now, having no more place in these regions, and having had longing for many years to come to you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now having no more place in these parts, and having a great desire these many years to come unto you;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "whenever I go to Spain, I hope while passing through to see you and by you to be sent forward there, if first I may be filled in part with your company.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whensoever I take my journey into Spain, I will come to you: for I trust to see you in my journey, and to be brought on my way thitherward by you, if first I be somewhat filled with your company."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But now I am going to Jerusalem, serving the holy ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now I go unto Jerusalem to minister unto the saints."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For Macedonia and Achaia were pleased to make a sharing for the poor among the holy ones in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "poverty-economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "For they were pleased, and they are debtors to them; for if the nations shared in their spiritual things, they ought also to serve them in fleshly/material things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Therefore, completing this and sealing to them this fruit, I will depart by way of you to Spain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When therefore I have performed this, and have sealed to them this fruit, I will come by you into Spain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "I know that when I come to you, I will come in fullness of Messiah's blessing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I am sure that, when I come unto you, I shall come in the fulness of the blessing of the gospel of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "I urge you, siblings, through our Lord Jesus Messiah and through the love of the Spirit, to struggle together with me in prayers to the Divine on my behalf,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I beseech you, brethren, for the Lord Jesus Christ’s sake, and for the love of the Spirit, that ye strive together with me in your prayers to God for me;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "so that I may be rescued from the disobedient in Judea, and that my service to Jerusalem may become acceptable to the holy ones,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I may be delivered from them that do not believe in Judaea; and that my service which I have for Jerusalem may be accepted of the saints;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "so that coming to you in joy through the will of the Divine, I may rest together with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I may come unto you with joy by the will of God, and may with you be refreshed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "May the Divine of peace be with all of you. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the God of peace be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Romans 15 continues the weak/strong conscience theme by calling the strong to bear the not-strong and to receive one another.",
+    "Paul's nations mission remains tethered to Jerusalem through material sharing for poor holy ones; this keeps the Jewish/nations relationship reciprocal, not replacement-based."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-13-of-33",
+    "tags": "partial-6-of-33",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-33",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

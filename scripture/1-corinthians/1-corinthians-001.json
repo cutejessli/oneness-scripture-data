@@ -1,1 +1,607 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for opening, no lack in grace-gift, divisions, baptism/factions, cross as foolishness/power, wisdom overturned, boasting in Lord."},"verses":[{"verse":1,"restored":"Paul, called as apostle of Messiah Jesus through the will of the Divine, and Sosthenes the sibling,"},{"verse":2,"restored":"to the assembly of the Divine that is in Corinth, to those sanctified in Messiah Jesus, called holy ones, with all those in every place calling upon the name of our Lord Jesus Messiah, both theirs and ours:"},{"verse":3,"restored":"Grace to you and peace from Divine our Father and Lord Jesus Messiah."},{"verse":4,"restored":"I thank my Divine always concerning you for the grace of the Divine given to you in Messiah Jesus,"},{"verse":5,"restored":"because in everything you were enriched in him, in every word and all knowledge,"},{"verse":6,"restored":"just as the witness of Messiah was confirmed among you,"},{"verse":7,"restored":"so that you are not lacking in any grace-gift as you await the unveiling of our Lord Jesus Messiah,"},{"verse":8,"restored":"who will also confirm you until the end, blameless in the day of our Lord Jesus Messiah."},{"verse":9,"restored":"Trustworthy is the Divine, through whom you were called into fellowship/participation of his Son, Jesus Messiah our Lord."},{"verse":10,"restored":"I urge you, siblings, through the name of our Lord Jesus Messiah, that you all speak the same thing, and that there be no splits among you, but that you be restored together in the same mind and the same discernment."},{"verse":11,"restored":"For it was made clear to me concerning you, my siblings, by those of Chloe, that there are strifes among you."},{"verse":12,"restored":"I mean this: each of you says, I am of Paul; I of Apollos; I of Cephas; I of Messiah."},{"verse":13,"restored":"Has Messiah been divided? Was Paul crucified for you? Or were you baptized into the name of Paul?"},{"verse":14,"restored":"I thank the Divine that I baptized none of you except Crispus and Gaius,"},{"verse":15,"restored":"so that no one may say you were baptized into my name."},{"verse":16,"restored":"I also baptized the household of Stephanas; beyond that I do not know whether I baptized anyone else."},{"verse":17,"restored":"For Messiah did not send me to baptize, but to announce good news, not in wisdom of word, so that the cross of Messiah might not be emptied."},{"verse":18,"restored":"For the word of the cross is foolishness to those perishing, but to us being saved/healed it is power of the Divine."},{"verse":19,"restored":"For it is written: I will destroy the wisdom of the wise, and the understanding of the understanding ones I will set aside."},{"verse":20,"restored":"Where is the wise one? Where is the scribe? Where is the debater of this age? Did not the Divine make foolish the wisdom of the world?"},{"verse":21,"restored":"For since in the wisdom of the Divine the world through wisdom did not know the Divine, the Divine was pleased through the foolishness of proclamation to save/heal those trusting."},{"verse":22,"restored":"Since Judeans ask for signs and Greeks seek wisdom,"},{"verse":23,"restored":"but we proclaim Messiah crucified, to Judeans a stumbling block and to nations foolishness,"},{"verse":24,"restored":"but to those called, both Judeans and Greeks, Messiah power of the Divine and wisdom of the Divine."},{"verse":25,"restored":"Because the foolishness of the Divine is wiser than humans, and the weakness of the Divine is stronger than humans."},{"verse":26,"restored":"For see your calling, siblings: not many wise according to flesh, not many powerful, not many well-born."},{"verse":27,"restored":"But the foolish things of the world the Divine chose to shame the wise; and the weak things of the world the Divine chose to shame the strong."},{"verse":28,"restored":"The low-born things of the world and the despised the Divine chose, the things that are not, to make inactive the things that are,"},{"verse":29,"restored":"so that no flesh might boast before the Divine."},{"verse":30,"restored":"From him you are in Messiah Jesus, who became wisdom to us from the Divine, and righteousness/justice and sanctification and redemption/release,"},{"verse":31,"restored":"so that, just as it is written: Let the one boasting boast in the Lord."}],"translation_notes":["Schisma is rendered split/division to preserve body-fracture language.","The cross is framed as power and wisdom that overturn status competition, not as a slogan for anti-intellectualism."]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for opening, no lack in grace-gift, divisions, baptism/factions, cross as foolishness/power, wisdom overturned, boasting in Lord."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul, called as apostle of Messiah Jesus through the will of the Divine, and Sosthenes the sibling,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul, called to be an apostle of Jesus Christ through the will of God, and Sosthenes our brother,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "to the assembly of the Divine that is in Corinth, to those sanctified in Messiah Jesus, called holy ones, with all those in every place calling upon the name of our Lord Jesus Messiah, both theirs and ours:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Grace to you and peace from Divine our Father and Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "I thank my Divine always concerning you for the grace of the Divine given to you in Messiah Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "because in everything you were enriched in him, in every word and all knowledge,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That in every thing ye are enriched by him, in all utterance, and in all knowledge;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "just as the witness of Messiah was confirmed among you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even as the testimony of Christ was confirmed in you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "so that you are not lacking in any grace-gift as you await the unveiling of our Lord Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "who will also confirm you until the end, blameless in the day of our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall also confirm you unto the end, that ye may be blameless in the day of our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Trustworthy is the Divine, through whom you were called into fellowship/participation of his Son, Jesus Messiah our Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God is faithful, by whom ye were called unto the fellowship of his Son Jesus Christ our Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "I urge you, siblings, through the name of our Lord Jesus Messiah, that you all speak the same thing, and that there be no splits among you, but that you be restored together in the same mind and the same discernment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "For it was made clear to me concerning you, my siblings, by those of Chloe, that there are strifes among you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I mean this: each of you says, I am of Paul; I of Apollos; I of Cephas; I of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Has Messiah been divided? Was Paul crucified for you? Or were you baptized into the name of Paul?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "I thank the Divine that I baptized none of you except Crispus and Gaius,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I thank God that I baptized none of you, but Crispus and Gaius;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "so that no one may say you were baptized into my name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lest any should say that I had baptized in mine own name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "I also baptized the household of Stephanas; beyond that I do not know whether I baptized anyone else.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I baptized also the household of Stephanas: besides, I know not whether I baptized any other."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For Messiah did not send me to baptize, but to announce good news, not in wisdom of word, so that the cross of Messiah might not be emptied.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Christ sent me not to baptize, but to preach the gospel: not with wisdom of words, lest the cross of Christ should be made of none effect."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "For the word of the cross is foolishness to those perishing, but to us being saved/healed it is power of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For it is written: I will destroy the wisdom of the wise, and the understanding of the understanding ones I will set aside.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Where is the wise one? Where is the scribe? Where is the debater of this age? Did not the Divine make foolish the wisdom of the world?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Where is the wise? where is the scribe? where is the disputer of this world? hath not God made foolish the wisdom of this world?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For since in the wisdom of the Divine the world through wisdom did not know the Divine, the Divine was pleased through the foolishness of proclamation to save/heal those trusting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Since Judeans ask for signs and Greeks seek wisdom,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Jews require a sign, and the Greeks seek after wisdom:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "but we proclaim Messiah crucified, to Judeans a stumbling block and to nations foolishness,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we preach Christ crucified, unto the Jews a stumblingblock, and unto the Greeks foolishness;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "but to those called, both Judeans and Greeks, Messiah power of the Divine and wisdom of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But unto them which are called, both Jews and Greeks, Christ the power of God, and the wisdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Because the foolishness of the Divine is wiser than humans, and the weakness of the Divine is stronger than humans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because the foolishness of God is wiser than men; and the weakness of God is stronger than men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For see your calling, siblings: not many wise according to flesh, not many powerful, not many well-born.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "But the foolish things of the world the Divine chose to shame the wise; and the weak things of the world the Divine chose to shame the strong.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God hath chosen the foolish things of the world to confound the wise; and God hath chosen the weak things of the world to confound the things which are mighty;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The low-born things of the world and the despised the Divine chose, the things that are not, to make inactive the things that are,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And base things of the world, and things which are despised, hath God chosen, yea, and things which are not, to bring to nought things that are:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "so that no flesh might boast before the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That no flesh should glory in his presence."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "From him you are in Messiah Jesus, who became wisdom to us from the Divine, and righteousness/justice and sanctification and redemption/release,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "so that, just as it is written: Let the one boasting boast in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That, according as it is written, He that glorieth, let him glory in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Schisma is rendered split/division to preserve body-fracture language.",
+    "The cross is framed as power and wisdom that overturn status competition, not as a slogan for anti-intellectualism."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-15-of-31",
+    "tags": "partial-5-of-31",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-15-of-31",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

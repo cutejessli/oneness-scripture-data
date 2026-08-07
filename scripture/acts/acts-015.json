@@ -1,1 +1,648 @@
-{"book":"Acts","book_id":"acts","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Jerusalem council, circumcision dispute, Peter/James speeches, Spirit/grace, Gentile letter, Judas/Silas, Paul/Barnabas split."},"verses":[{"verse":1,"restored":"Certain ones coming down from Judea were teaching the siblings, Unless you are circumcised according to the custom of Moses, you are not able to be saved/healed."},{"verse":2,"restored":"After no small dissension and discussion happened between Paul and Barnabas and them, they appointed Paul and Barnabas and some others from them to go up to the apostles and elders in Jerusalem concerning this question."},{"verse":3,"restored":"Being sent on by the assembly, they were passing through Phoenicia and Samaria, describing the turning of the nations, and they were making great joy for all the siblings."},{"verse":4,"restored":"Arriving in Jerusalem, they were received by the assembly, apostles, and elders, and reported all that the Divine had done with them."},{"verse":5,"restored":"But some from the party of the Pharisees who had trusted rose, saying, It is necessary to circumcise them and command them to keep the Law of Moses."},{"verse":6,"restored":"The apostles and elders were gathered to see about this word."},{"verse":7,"restored":"After much discussion, Peter stood and said to them, Men, siblings, you know that from early days the Divine chose among you that through my mouth the nations should hear the word of the good news and trust."},{"verse":8,"restored":"The heart-knowing Divine bore witness to them, giving them the holy Spirit just as also to us,"},{"verse":9,"restored":"and made no distinction between us and them, cleansing their hearts by trust."},{"verse":10,"restored":"Now therefore why do you test the Divine by placing a yoke upon the neck of the disciples that neither our fathers nor we were strong enough to bear?"},{"verse":11,"restored":"But through the grace of the Lord Jesus we trust to be saved/healed in the same way as those also."},{"verse":12,"restored":"All the multitude became silent, and they were hearing Barnabas and Paul describe signs and wonders the Divine had done among the nations through them."},{"verse":13,"restored":"After they became silent, James answered, saying, Men, siblings, hear me."},{"verse":14,"restored":"Simeon described how the Divine first visited to take from the nations a people for his name."},{"verse":15,"restored":"With this the words of the prophets agree, just as it is written:"},{"verse":16,"restored":"After these things I will return and rebuild the fallen tent of David; its ruins I will rebuild, and I will restore it,"},{"verse":17,"restored":"so that the remnant of humans may seek the Lord, and all the nations upon whom my name has been called, says the Lord who does these things"},{"verse":18,"restored":"known from the age."},{"verse":19,"restored":"Therefore I judge not to trouble those from the nations who are turning to the Divine,"},{"verse":20,"restored":"but to write to them to abstain from pollutions of idols, sexual immorality, what is strangled, and blood."},{"verse":21,"restored":"For Moses from ancient generations has in every city those proclaiming him, being read in the synagogues every Sabbath."},{"verse":22,"restored":"Then it seemed good to the apostles and elders, with the whole assembly, to choose men from them and send them to Antioch with Paul and Barnabas: Judas called Barsabbas and Silas, leading men among the siblings,"},{"verse":23,"restored":"writing by their hand: The apostles and elders, siblings, to the siblings from the nations in Antioch, Syria, and Cilicia: greetings."},{"verse":24,"restored":"Since we heard that some from us troubled you with words, unsettling your souls/lives, to whom we gave no command,"},{"verse":25,"restored":"it seemed good to us, becoming of one accord, to choose men and send them to you with our beloved Barnabas and Paul,"},{"verse":26,"restored":"humans who have handed over their lives/souls for the name of our Lord Jesus Messiah."},{"verse":27,"restored":"We have therefore sent Judas and Silas, and they also by word will report the same things."},{"verse":28,"restored":"For it seemed good to the holy Spirit and to us to lay upon you no greater burden except these necessary things:"},{"verse":29,"restored":"to abstain from idol-offerings, blood, strangled things, and sexual immorality; keeping yourselves from these, you will do beautifully/well. Farewell."},{"verse":30,"restored":"So they, being released, went down to Antioch, and gathering the multitude, delivered the letter."},{"verse":31,"restored":"Reading it, they rejoiced over the encouragement."},{"verse":32,"restored":"Judas and Silas, also being prophets, encouraged and strengthened the siblings with many words."},{"verse":33,"restored":"After spending some time, they were released in peace from the siblings to those who had sent them."},{"verse":34,"restored":"[Some later manuscripts add that Silas decided to remain there.]"},{"verse":35,"restored":"Paul and Barnabas remained in Antioch, teaching and announcing the good news of the word of the Lord with many others also."},{"verse":36,"restored":"After some days Paul said to Barnabas, Let us return and visit the siblings in every city where we announced the word of the Lord, to see how they are."},{"verse":37,"restored":"Barnabas wanted to take along John called Mark."},{"verse":38,"restored":"But Paul considered it not fitting to take along this one who had withdrawn from them from Pamphylia and had not gone with them to the work."},{"verse":39,"restored":"A sharp disagreement happened, so that they separated from one another. Barnabas, taking Mark, sailed away to Cyprus."},{"verse":40,"restored":"But Paul, choosing Silas, went out, being handed over to the grace of the Lord by the siblings."},{"verse":41,"restored":"He was passing through Syria and Cilicia, strengthening the assemblies."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Jerusalem council, circumcision dispute, Peter/James speeches, Spirit/grace, Gentile letter, Judas/Silas, Paul/Barnabas split."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Certain ones coming down from Judea were teaching the siblings, Unless you are circumcised according to the custom of Moses, you are not able to be saved/healed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And certain men which came down from Judaea taught the brethren, and said, Except ye be circumcised after the manner of Moses, ye cannot be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "After no small dissension and discussion happened between Paul and Barnabas and them, they appointed Paul and Barnabas and some others from them to go up to the apostles and elders in Jerusalem concerning this question.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When therefore Paul and Barnabas had no small dissension and disputation with them, they determined that Paul and Barnabas, and certain other of them, should go up to Jerusalem unto the apostles and elders about this question."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Being sent on by the assembly, they were passing through Phoenicia and Samaria, describing the turning of the nations, and they were making great joy for all the siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And being brought on their way by the church, they passed through Phenice and Samaria, declaring the conversion of the Gentiles: and they caused great joy unto all the brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Arriving in Jerusalem, they were received by the assembly, apostles, and elders, and reported all that the Divine had done with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were come to Jerusalem, they were received of the church, and of the apostles and elders, and they declared all things that God had done with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "But some from the party of the Pharisees who had trusted rose, saying, It is necessary to circumcise them and command them to keep the Law of Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But there rose up certain of the sect of the Pharisees which believed, saying, That it was needful to circumcise them, and to command them to keep the law of Moses."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "The apostles and elders were gathered to see about this word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the apostles and elders came together for to consider of this matter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "After much discussion, Peter stood and said to them, Men, siblings, you know that from early days the Divine chose among you that through my mouth the nations should hear the word of the good news and trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when there had been much disputing, Peter rose up, and said unto them, Men and brethren, ye know how that a good while ago God made choice among us, that the Gentiles by my mouth should hear the word of the gospel, and believe."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The heart-knowing Divine bore witness to them, giving them the holy Spirit just as also to us,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "and made no distinction between us and them, cleansing their hearts by trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And put no difference between us and them, purifying their hearts by faith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Now therefore why do you test the Divine by placing a yoke upon the neck of the disciples that neither our fathers nor we were strong enough to bear?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore why tempt ye God, to put a yoke upon the neck of the disciples, which neither our fathers nor we were able to bear?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But through the grace of the Lord Jesus we trust to be saved/healed in the same way as those also.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we believe that through the grace of the LORD Jesus Christ we shall be saved, even as they."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "All the multitude became silent, and they were hearing Barnabas and Paul describe signs and wonders the Divine had done among the nations through them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all the multitude kept silence, and gave audience to Barnabas and Paul, declaring what miracles and wonders God had wrought among the Gentiles by them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "After they became silent, James answered, saying, Men, siblings, hear me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after they had held their peace, James answered, saying, Men and brethren, hearken unto me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Simeon described how the Divine first visited to take from the nations a people for his name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Simeon hath declared how God at the first did visit the Gentiles, to take out of them a people for his name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "With this the words of the prophets agree, just as it is written:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to this agree the words of the prophets; as it is written,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "After these things I will return and rebuild the fallen tent of David; its ruins I will rebuild, and I will restore it,",
+      "familiar": {
+        "source": "KJV",
+        "text": "After this I will return, and will build again the tabernacle of David, which is fallen down; and I will build again the ruins thereof, and I will set it up:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "so that the remnant of humans may seek the Lord, and all the nations upon whom my name has been called, says the Lord who does these things",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the residue of men might seek after the Lord, and all the Gentiles, upon whom my name is called, saith the Lord, who doeth all these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "known from the age.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Known unto God are all his works from the beginning of the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Therefore I judge not to trouble those from the nations who are turning to the Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore my sentence is, that we trouble not them, which from among the Gentiles are turned to God:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "but to write to them to abstain from pollutions of idols, sexual immorality, what is strangled, and blood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But that we write unto them, that they abstain from pollutions of idols, and from fornication, and from things strangled, and from blood."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For Moses from ancient generations has in every city those proclaiming him, being read in the synagogues every Sabbath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Moses of old time hath in every city them that preach him, being read in the synagogues every sabbath day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Then it seemed good to the apostles and elders, with the whole assembly, to choose men from them and send them to Antioch with Paul and Barnabas: Judas called Barsabbas and Silas, leading men among the siblings,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then pleased it the apostles and elders, with the whole church, to send chosen men of their own company to Antioch with Paul and Barnabas; namely, Judas surnamed Barsabas, and Silas, chief men among the brethren:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "writing by their hand: The apostles and elders, siblings, to the siblings from the nations in Antioch, Syria, and Cilicia: greetings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they wrote letters by them after this manner; The apostles and elders and brethren send greeting unto the brethren which are of the Gentiles in Antioch and Syria and Cilicia:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Since we heard that some from us troubled you with words, unsettling your souls/lives, to whom we gave no command,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch as we have heard, that certain which went out from us have troubled you with words, subverting your souls, saying, Ye must be circumcised, and keep the law: to whom we gave no such commandment:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "it seemed good to us, becoming of one accord, to choose men and send them to you with our beloved Barnabas and Paul,",
+      "familiar": {
+        "source": "KJV",
+        "text": "It seemed good unto us, being assembled with one accord, to send chosen men unto you with our beloved Barnabas and Paul,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "humans who have handed over their lives/souls for the name of our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Men that have hazarded their lives for the name of our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "We have therefore sent Judas and Silas, and they also by word will report the same things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We have sent therefore Judas and Silas, who shall also tell you the same things by mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "For it seemed good to the holy Spirit and to us to lay upon you no greater burden except these necessary things:",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "to abstain from idol-offerings, blood, strangled things, and sexual immorality; keeping yourselves from these, you will do beautifully/well. Farewell.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye abstain from meats offered to idols, and from blood, and from things strangled, and from fornication: from which if ye keep yourselves, ye shall do well. Fare ye well."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "So they, being released, went down to Antioch, and gathering the multitude, delivered the letter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So when they were dismissed, they came to Antioch: and when they had gathered the multitude together, they delivered the epistle:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Reading it, they rejoiced over the encouragement.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which when they had read, they rejoiced for the consolation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Judas and Silas, also being prophets, encouraged and strengthened the siblings with many words.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judas and Silas, being prophets also themselves, exhorted the brethren with many words, and confirmed them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "After spending some time, they were released in peace from the siblings to those who had sent them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after they had tarried there a space, they were let go in peace from the brethren unto the apostles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "[Some later manuscripts add that Silas decided to remain there.]",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding it pleased Silas to abide there still."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Paul and Barnabas remained in Antioch, teaching and announcing the good news of the word of the Lord with many others also.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul also and Barnabas continued in Antioch, teaching and preaching the word of the Lord, with many others also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "After some days Paul said to Barnabas, Let us return and visit the siblings in every city where we announced the word of the Lord, to see how they are.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And some days after Paul said unto Barnabas, Let us go again and visit our brethren in every city where we have preached the word of the LORD, and see how they do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Barnabas wanted to take along John called Mark.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Barnabas determined to take with them John, whose surname was Mark."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "But Paul considered it not fitting to take along this one who had withdrawn from them from Pamphylia and had not gone with them to the work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Paul thought not good to take him with them, who departed from them from Pamphylia, and went not with them to the work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "A sharp disagreement happened, so that they separated from one another. Barnabas, taking Mark, sailed away to Cyprus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the contention was so sharp between them, that they departed asunder one from the other: and so Barnabas took Mark, and sailed unto Cyprus;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "But Paul, choosing Silas, went out, being handed over to the grace of the Lord by the siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Paul chose Silas, and departed, being recommended by the brethren unto the grace of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "He was passing through Syria and Cilicia, strengthening the assemblies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went through Syria and Cilicia, confirming the churches."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-41",
+    "tags": "partial-14-of-41",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-41",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

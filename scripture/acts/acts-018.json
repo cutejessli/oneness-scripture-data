@@ -1,1 +1,449 @@
-{"book":"Acts","book_id":"acts","chapter":18,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Corinth, Priscilla/Aquila, tentmaking, synagogue opposition, Crispus, vision, Gallio, Cenchreae, Ephesus, Apollos instructed more accurately."},"verses":[{"verse":1,"restored":"After these things, departing from Athens, he came to Corinth."},{"verse":2,"restored":"He found a certain Judean named Aquila, Pontian by birth, recently come from Italy with Priscilla his wife, because Claudius had ordered all the Judeans to depart from Rome; he came to them."},{"verse":3,"restored":"Because he was of the same trade, he remained with them and worked; for by trade they were tentmakers."},{"verse":4,"restored":"He was reasoning in the synagogue every Sabbath and persuading Judeans and Greeks."},{"verse":5,"restored":"When Silas and Timothy came down from Macedonia, Paul was pressed by the word, testifying to the Judeans that Jesus is the Messiah."},{"verse":6,"restored":"When they opposed and blasphemed, he shook out his garments and said to them, Your blood be upon your head; I am clean. From now I will go to the nations."},{"verse":7,"restored":"Departing from there, he entered the house of a certain Titius Justus, a reverer of the Divine, whose house was adjoining the synagogue."},{"verse":8,"restored":"Crispus, the synagogue ruler, trusted the Lord with his whole house, and many of the Corinthians hearing were trusting and being baptized."},{"verse":9,"restored":"The Lord said to Paul through a vision in the night, Do not fear, but speak and do not be silent,"},{"verse":10,"restored":"because I am with you, and no one will lay a hand on you to harm you, because there is much people for me in this city."},{"verse":11,"restored":"He sat there a year and six months, teaching the word of the Divine among them."},{"verse":12,"restored":"But when Gallio was proconsul of Achaia, the Judeans rose with one accord against Paul and brought him to the judgment seat,"},{"verse":13,"restored":"saying, This one persuades humans to revere the Divine contrary to the Law."},{"verse":14,"restored":"As Paul was about to open his mouth, Gallio said to the Judeans, If indeed it were some wrongdoing or wicked crime, O Judeans, according to reason I would put up with you."},{"verse":15,"restored":"But if it is questions about a word and names and your own Law, see to it yourselves; I am not willing to be judge of these things."},{"verse":16,"restored":"He drove them from the judgment seat."},{"verse":17,"restored":"They all seized Sosthenes, the synagogue ruler, and beat him before the judgment seat, and none of these things mattered to Gallio."},{"verse":18,"restored":"Paul, remaining many days longer, said farewell to the siblings and sailed away to Syria, and with him Priscilla and Aquila. In Cenchreae he cut his hair, for he had a vow."},{"verse":19,"restored":"They came to Ephesus, and he left them there. He himself entered the synagogue and reasoned with the Judeans."},{"verse":20,"restored":"When they asked him to remain for a longer time, he did not consent,"},{"verse":21,"restored":"but saying farewell and saying, I will return to you again, the Divine willing, he set sail from Ephesus."},{"verse":22,"restored":"Coming down to Caesarea, going up and greeting the assembly, he went down to Antioch."},{"verse":23,"restored":"After spending some time, he departed, passing through the Galatian region and Phrygia in order, strengthening all the disciples."},{"verse":24,"restored":"A certain Judean named Apollos, Alexandrian by birth, an eloquent man, powerful in the Scriptures, came to Ephesus."},{"verse":25,"restored":"This one had been instructed in the Way of the Lord, and being fervent in spirit, he was speaking and teaching accurately the things concerning Jesus, knowing only the baptism of John."},{"verse":26,"restored":"He began to speak boldly in the synagogue. Hearing him, Priscilla and Aquila took him aside and explained to him the Way of the Divine more accurately."},{"verse":27,"restored":"When he wished to pass through to Achaia, the siblings encouraged him and wrote to the disciples to welcome him. Arriving, he greatly helped those who through grace had trusted,"},{"verse":28,"restored":"for he was powerfully refuting the Judeans publicly, showing through the Scriptures that Jesus is the Messiah."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 18,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Corinth, Priscilla/Aquila, tentmaking, synagogue opposition, Crispus, vision, Gallio, Cenchreae, Ephesus, Apollos instructed more accurately."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these things, departing from Athens, he came to Corinth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "After these things Paul departed from Athens, and came to Corinth;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He found a certain Judean named Aquila, Pontian by birth, recently come from Italy with Priscilla his wife, because Claudius had ordered all the Judeans to depart from Rome; he came to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Because he was of the same trade, he remained with them and worked; for by trade they were tentmakers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He was reasoning in the synagogue every Sabbath and persuading Judeans and Greeks.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he reasoned in the synagogue every sabbath, and persuaded the Jews and the Greeks."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "When Silas and Timothy came down from Macedonia, Paul was pressed by the word, testifying to the Judeans that Jesus is the Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Silas and Timotheus were come from Macedonia, Paul was pressed in the spirit, and testified to the Jews that Jesus was Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "When they opposed and blasphemed, he shook out his garments and said to them, Your blood be upon your head; I am clean. From now I will go to the nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Departing from there, he entered the house of a certain Titius Justus, a reverer of the Divine, whose house was adjoining the synagogue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he departed thence, and entered into a certain man’s house, named Justus, one that worshipped God, whose house joined hard to the synagogue."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Crispus, the synagogue ruler, trusted the Lord with his whole house, and many of the Corinthians hearing were trusting and being baptized.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The Lord said to Paul through a vision in the night, Do not fear, but speak and do not be silent,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then spake the Lord to Paul in the night by a vision, Be not afraid, but speak, and hold not thy peace:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "because I am with you, and no one will lay a hand on you to harm you, because there is much people for me in this city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I am with thee, and no man shall set on thee to hurt thee: for I have much people in this city."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He sat there a year and six months, teaching the word of the Divine among them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he continued there a year and six months, teaching the word of God among them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But when Gallio was proconsul of Achaia, the Judeans rose with one accord against Paul and brought him to the judgment seat,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "saying, This one persuades humans to revere the Divine contrary to the Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, This fellow persuadeth men to worship God contrary to the law."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "As Paul was about to open his mouth, Gallio said to the Judeans, If indeed it were some wrongdoing or wicked crime, O Judeans, according to reason I would put up with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Paul was now about to open his mouth, Gallio said unto the Jews, If it were a matter of wrong or wicked lewdness, O ye Jews, reason would that I should bear with you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But if it is questions about a word and names and your own Law, see to it yourselves; I am not willing to be judge of these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He drove them from the judgment seat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he drave them from the judgment seat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "They all seized Sosthenes, the synagogue ruler, and beat him before the judgment seat, and none of these things mattered to Gallio.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Paul, remaining many days longer, said farewell to the siblings and sailed away to Syria, and with him Priscilla and Aquila. In Cenchreae he cut his hair, for he had a vow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Paul after this tarried there yet a good while, and then took his leave of the brethren, and sailed thence into Syria, and with him Priscilla and Aquila; having shorn his head in Cenchrea: for he had a vow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "They came to Ephesus, and he left them there. He himself entered the synagogue and reasoned with the Judeans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came to Ephesus, and left them there: but he himself entered into the synagogue, and reasoned with the Jews."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "When they asked him to remain for a longer time, he did not consent,",
+      "familiar": {
+        "source": "KJV",
+        "text": "When they desired him to tarry longer time with them, he consented not;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "but saying farewell and saying, I will return to you again, the Divine willing, he set sail from Ephesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But bade them farewell, saying, I must by all means keep this feast that cometh in Jerusalem: but I will return again unto you, if God will. And he sailed from Ephesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Coming down to Caesarea, going up and greeting the assembly, he went down to Antioch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had landed at Caesarea, and gone up, and saluted the church, he went down to Antioch."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "After spending some time, he departed, passing through the Galatian region and Phrygia in order, strengthening all the disciples.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after he had spent some time there, he departed, and went over all the country of Galatia and Phrygia in order, strengthening all the disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "A certain Judean named Apollos, Alexandrian by birth, an eloquent man, powerful in the Scriptures, came to Ephesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And a certain Jew named Apollos, born at Alexandria, an eloquent man, and mighty in the scriptures, came to Ephesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "This one had been instructed in the Way of the Lord, and being fervent in spirit, he was speaking and teaching accurately the things concerning Jesus, knowing only the baptism of John.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This man was instructed in the way of the Lord; and being fervent in the spirit, he spake and taught diligently the things of the Lord, knowing only the baptism of John."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "He began to speak boldly in the synagogue. Hearing him, Priscilla and Aquila took him aside and explained to him the Way of the Divine more accurately.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "When he wished to pass through to Achaia, the siblings encouraged him and wrote to the disciples to welcome him. Arriving, he greatly helped those who through grace had trusted,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "for he was powerfully refuting the Judeans publicly, showing through the Scriptures that Jesus is the Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he mightily convinced the Jews, and that publickly, shewing by the scriptures that Jesus was Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-28",
+    "tags": "partial-11-of-28",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-28",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

@@ -1,1 +1,406 @@
-{"book":"Acts","book_id":"acts","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Herod persecution, James killed, Peter imprisoned and angel-released, prayer house of Mary, Rhoda, Herod's death, word growth."},"verses":[{"verse":1,"restored":"At that time Herod the king laid hands on some from the assembly to do harm."},{"verse":2,"restored":"He killed James the brother of John with a sword."},{"verse":3,"restored":"Seeing that it was pleasing to the Judeans, he proceeded to arrest Peter also. These were the days of Unleavened Bread."},{"verse":4,"restored":"Seizing him, he put him in prison, handing him over to four squads of four soldiers to guard him, intending after the Passover to bring him up to the people."},{"verse":5,"restored":"So Peter was being kept in the prison, but prayer was being made earnestly by the assembly to the Divine concerning him."},{"verse":6,"restored":"When Herod was about to bring him forward, that night Peter was sleeping between two soldiers, bound with two chains, and guards before the door were keeping the prison."},{"verse":7,"restored":"Look, a messenger of the Lord stood by, and light shone in the cell. Striking Peter's side, he awakened him, saying, Rise quickly. And the chains fell from his hands."},{"verse":8,"restored":"The messenger said to him, Belt yourself and tie on your sandals. He did so. And he says to him, Wrap your cloak around you and follow me."},{"verse":9,"restored":"Going out, he was following, and he did not know that what was happening through the messenger was real, but thought he was seeing a vision."},{"verse":10,"restored":"Passing the first guard and the second, they came to the iron gate leading into the city, which opened to them by itself. Going out, they went forward one street, and immediately the messenger departed from him."},{"verse":11,"restored":"Peter, coming to himself, said, Now I know truly that the Lord sent his messenger and rescued me from Herod's hand and all the expectation of the Judean people."},{"verse":12,"restored":"Knowing this, he came to the house of Mary, the mother of John called Mark, where many were gathered together and praying."},{"verse":13,"restored":"When he knocked at the door of the gate, a servant girl named Rhoda came to answer."},{"verse":14,"restored":"Recognizing Peter's voice, because of joy she did not open the gate, but running in, reported that Peter stood before the gate."},{"verse":15,"restored":"They said to her, You are mad. But she kept insisting it was so. They were saying, It is his messenger."},{"verse":16,"restored":"But Peter continued knocking. Opening, they saw him and were amazed."},{"verse":17,"restored":"Motioning to them with his hand to be silent, he described to them how the Lord brought him out of the prison. He said, Report these things to James and to the siblings. And going out, he went to another place."},{"verse":18,"restored":"When day came, there was no small disturbance among the soldiers over what had become of Peter."},{"verse":19,"restored":"Herod, searching for him and not finding him, examined the guards and commanded them to be led away. Going down from Judea to Caesarea, he stayed there."},{"verse":20,"restored":"He was angrily disposed toward the Tyrians and Sidonians. They came to him with one accord, and persuading Blastus, the one over the king's bedchamber, they were asking for peace, because their country was fed from the king's country."},{"verse":21,"restored":"On an appointed day Herod, putting on royal clothing and sitting on the judgment seat, was delivering a public address to them."},{"verse":22,"restored":"The people were crying out, A god's voice and not a human's."},{"verse":23,"restored":"Immediately a messenger of the Lord struck him because he did not give the glory to the Divine, and being eaten by worms, he breathed out."},{"verse":24,"restored":"But the word of the Divine grew and multiplied."},{"verse":25,"restored":"Barnabas and Saul returned from Jerusalem, having fulfilled the service, taking along John who was called Mark."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Herod persecution, James killed, Peter imprisoned and angel-released, prayer house of Mary, Rhoda, Herod's death, word growth."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At that time Herod the king laid hands on some from the assembly to do harm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now about that time Herod the king stretched forth his hands to vex certain of the church."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He killed James the brother of John with a sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he killed James the brother of John with the sword."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Seeing that it was pleasing to the Judeans, he proceeded to arrest Peter also. These were the days of Unleavened Bread.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And because he saw it pleased the Jews, he proceeded further to take Peter also. (Then were the days of unleavened bread.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Seizing him, he put him in prison, handing him over to four squads of four soldiers to guard him, intending after the Passover to bring him up to the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "So Peter was being kept in the prison, but prayer was being made earnestly by the assembly to the Divine concerning him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Peter therefore was kept in prison: but prayer was made without ceasing of the church unto God for him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "When Herod was about to bring him forward, that night Peter was sleeping between two soldiers, bound with two chains, and guards before the door were keeping the prison.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Herod would have brought him forth, the same night Peter was sleeping between two soldiers, bound with two chains: and the keepers before the door kept the prison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Look, a messenger of the Lord stood by, and light shone in the cell. Striking Peter's side, he awakened him, saying, Rise quickly. And the chains fell from his hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, the angel of the Lord came upon him, and a light shined in the prison: and he smote Peter on the side, and raised him up, saying, Arise up quickly. And his chains fell off from his hands."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The messenger said to him, Belt yourself and tie on your sandals. He did so. And he says to him, Wrap your cloak around you and follow me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel said unto him, Gird thyself, and bind on thy sandals. And so he did. And he saith unto him, Cast thy garment about thee, and follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Going out, he was following, and he did not know that what was happening through the messenger was real, but thought he was seeing a vision.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went out, and followed him; and wist not that it was true which was done by the angel; but thought he saw a vision."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Passing the first guard and the second, they came to the iron gate leading into the city, which opened to them by itself. Going out, they went forward one street, and immediately the messenger departed from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When they were past the first and the second ward, they came unto the iron gate that leadeth unto the city; which opened to them of his own accord: and they went out, and passed on through one street; and forthwith the angel departed from him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Peter, coming to himself, said, Now I know truly that the Lord sent his messenger and rescued me from Herod's hand and all the expectation of the Judean people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Peter was come to himself, he said, Now I know of a surety, that the LORD hath sent his angel, and hath delivered me out of the hand of Herod, and from all the expectation of the people of the Jews."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Knowing this, he came to the house of Mary, the mother of John called Mark, where many were gathered together and praying.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had considered the thing, he came to the house of Mary the mother of John, whose surname was Mark; where many were gathered together praying."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "When he knocked at the door of the gate, a servant girl named Rhoda came to answer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as Peter knocked at the door of the gate, a damsel came to hearken, named Rhoda."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Recognizing Peter's voice, because of joy she did not open the gate, but running in, reported that Peter stood before the gate.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when she knew Peter’s voice, she opened not the gate for gladness, but ran in, and told how Peter stood before the gate."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They said to her, You are mad. But she kept insisting it was so. They were saying, It is his messenger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto her, Thou art mad. But she constantly affirmed that it was even so. Then said they, It is his angel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But Peter continued knocking. Opening, they saw him and were amazed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Peter continued knocking: and when they had opened the door, and saw him, they were astonished."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Motioning to them with his hand to be silent, he described to them how the Lord brought him out of the prison. He said, Report these things to James and to the siblings. And going out, he went to another place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he, beckoning unto them with the hand to hold their peace, declared unto them how the Lord had brought him out of the prison. And he said, Go shew these things unto James, and to the brethren. And he departed, and went into another place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "When day came, there was no small disturbance among the soldiers over what had become of Peter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now as soon as it was day, there was no small stir among the soldiers, what was become of Peter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Herod, searching for him and not finding him, examined the guards and commanded them to be led away. Going down from Judea to Caesarea, he stayed there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Herod had sought for him, and found him not, he examined the keepers, and commanded that they should be put to death. And he went down from Judaea to Caesarea, and there abode."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "He was angrily disposed toward the Tyrians and Sidonians. They came to him with one accord, and persuading Blastus, the one over the king's bedchamber, they were asking for peace, because their country was fed from the king's country.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Herod was highly displeased with them of Tyre and Sidon: but they came with one accord to him, and, having made Blastus the king’s chamberlain their friend, desired peace; because their country was nourished by the king’s country."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "On an appointed day Herod, putting on royal clothing and sitting on the judgment seat, was delivering a public address to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And upon a set day Herod, arrayed in royal apparel, sat upon his throne, and made an oration unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The people were crying out, A god's voice and not a human's.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people gave a shout, saying, It is the voice of a god, and not of a man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Immediately a messenger of the Lord struck him because he did not give the glory to the Divine, and being eaten by worms, he breathed out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And immediately the angel of the Lord smote him, because he gave not God the glory: and he was eaten of worms, and gave up the ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "But the word of the Divine grew and multiplied.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the word of God grew and multiplied."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Barnabas and Saul returned from Jerusalem, having fulfilled the service, taking along John who was called Mark.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Barnabas and Saul returned from Jerusalem, when they had fulfilled their ministry, and took with them John, whose surname was Mark."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-25",
+    "tags": "partial-11-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

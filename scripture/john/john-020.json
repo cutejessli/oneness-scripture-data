@@ -1,1 +1,617 @@
-{"book":"John","book_id":"john","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for empty tomb, Mary Magdalene, beloved disciple, Rabbouni, not-yet-ascended saying, peace/breath/Spirit, Thomas, signs purpose statement."},"verses":[{"verse":1,"restored":"On the first day of the week, Mary Magdalene comes early, while it is still dark, to the tomb, and sees the stone taken away from the tomb.","tags":["mary-magdalene","first-day","tomb"]},{"verse":2,"restored":"She therefore runs and comes to Simon Peter and to the other disciple whom Jesus loved, and says to them, They have taken the Lord out of the tomb, and we do not know where they laid him.","tags":["peter","beloved-disciple","tomb"]},{"verse":3,"restored":"Peter therefore went out, and the other disciple, and they were going to the tomb.","tags":["peter","beloved-disciple"]},{"verse":4,"restored":"The two were running together, and the other disciple ran ahead faster than Peter and came first to the tomb.","tags":["running","tomb"]},{"verse":5,"restored":"Stooping to look, he sees the linen cloths lying there, yet he did not enter.","tags":["linen","seeing"]},{"verse":6,"restored":"Simon Peter therefore also comes following him and entered into the tomb; he beholds the linen cloths lying there,","tags":["peter","tomb","linen"]},{"verse":7,"restored":"and the face cloth that had been on his head, not lying with the linen cloths but folded up in a place by itself.","tags":["face-cloth","linen"]},{"verse":8,"restored":"Then therefore the other disciple, the one having come first to the tomb, also entered; and he saw and trusted.","tags":["beloved-disciple","seeing","trust"]},{"verse":9,"restored":"For they did not yet know the Scripture, that it was necessary for him to rise from the dead.","tags":["scripture","rise"]},{"verse":10,"restored":"The disciples therefore went away again to their own.","tags":["disciples"]},{"verse":11,"restored":"But Mary stood outside by the tomb weeping. As she was weeping, she stooped to look into the tomb.","tags":["mary-magdalene","weeping","tomb"]},{"verse":12,"restored":"She beholds two messengers in white sitting, one at the head and one at the feet, where the body of Jesus had lain.","tags":["messengers","body"]},{"verse":13,"restored":"They say to her, Woman, why are you weeping? She says to them, They have taken my Lord, and I do not know where they laid him.","tags":["woman","weeping"]},{"verse":14,"restored":"Saying these things, she turned backward and beholds Jesus standing, and did not know that it was Jesus.","tags":["jesus","recognition"]},{"verse":15,"restored":"Jesus says to her, Woman, why are you weeping? Whom do you seek? Thinking that he is the gardener, she says to him, Lord, if you carried him away, tell me where you laid him, and I will take him.","tags":["gardener","seeking"]},{"verse":16,"restored":"Jesus says to her, Mary. Turning, she says to him in Hebrew, Rabbouni, which means Teacher.","tags":["mary-magdalene","rabbouni","name"]},{"verse":17,"restored":"Jesus says to her, Do not hold on to me, for I have not yet ascended to the Father. But go to my brothers and say to them, I ascend to my Father and your Father, and my Divine and your Divine.","tags":["ascend","father","brothers"]},{"verse":18,"restored":"Mary Magdalene comes announcing to the disciples, I have seen the Lord, and that he said these things to her.","tags":["mary-magdalene","witness","seeing"]},{"verse":19,"restored":"When therefore it was evening on that day, the first day of the week, and the doors had been locked where the disciples were because of fear of the Judeans, Jesus came and stood into the midst and says to them, Peace to you.","tags":["evening","fear","peace"]},{"verse":20,"restored":"Saying this, he showed them the hands and the side. Therefore the disciples rejoiced, seeing the Lord.","tags":["hands","side","joy"]},{"verse":21,"restored":"Jesus therefore said to them again, Peace to you. Just as the Father has sent me, I also send you.","tags":["peace","sent","mission"]},{"verse":22,"restored":"Saying this, he breathed into them and says to them, Receive holy Spirit.","tags":["breath","holy-spirit","receive"]},{"verse":23,"restored":"If you release the sins/misalignments of any, they have been released; if you hold them, they have been held.","tags":["release","misalignment"]},{"verse":24,"restored":"But Thomas, one of the twelve, called Twin, was not with them when Jesus came.","tags":["thomas","twelve"]},{"verse":25,"restored":"The other disciples therefore were saying to him, We have seen the Lord. But he said to them, Unless I see in his hands the mark of the nails, and put my finger into the mark of the nails and put my hand into his side, I will certainly not trust.","tags":["thomas","seeing","trust"]},{"verse":26,"restored":"After eight days his disciples were again inside, and Thomas with them. Jesus comes, the doors having been locked, and stood into the midst and said, Peace to you.","tags":["thomas","peace"]},{"verse":27,"restored":"Then he says to Thomas, Bring your finger here and see my hands; bring your hand and put it into my side; and do not become untrusting but trusting.","tags":["thomas","hands","side","trust"]},{"verse":28,"restored":"Thomas answered and said to him, My Lord and my Divine.","tags":["thomas","lord","divine"]},{"verse":29,"restored":"Jesus says to him, Because you have seen me, have you trusted? Blessed/flourishing are those not seeing and trusting.","tags":["seeing","trust","blessed"]},{"verse":30,"restored":"Therefore many other signs Jesus did before the disciples, which are not written in this scroll.","tags":["signs","scroll"]},{"verse":31,"restored":"But these have been written so that you may trust that Jesus is the Messiah, the Son of the Divine, and that trusting you may have life in his name.","tags":["purpose","trust","life","name"]}]}
+{
+  "book": "John",
+  "book_id": "john",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for empty tomb, Mary Magdalene, beloved disciple, Rabbouni, not-yet-ascended saying, peace/breath/Spirit, Thomas, signs purpose statement."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "On the first day of the week, Mary Magdalene comes early, while it is still dark, to the tomb, and sees the stone taken away from the tomb.",
+      "tags": [
+        "mary-magdalene",
+        "first-day",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The first day of the week cometh Mary Magdalene early, when it was yet dark, unto the sepulchre, and seeth the stone taken away from the sepulchre."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "She therefore runs and comes to Simon Peter and to the other disciple whom Jesus loved, and says to them, They have taken the Lord out of the tomb, and we do not know where they laid him.",
+      "tags": [
+        "peter",
+        "beloved-disciple",
+        "tomb",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the LORD out of the sepulchre, and we know not where they have laid him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Peter therefore went out, and the other disciple, and they were going to the tomb.",
+      "tags": [
+        "peter",
+        "beloved-disciple",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Peter therefore went forth, and that other disciple, and came to the sepulchre."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The two were running together, and the other disciple ran ahead faster than Peter and came first to the tomb.",
+      "tags": [
+        "running",
+        "tomb",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Stooping to look, he sees the linen cloths lying there, yet he did not enter.",
+      "tags": [
+        "linen",
+        "seeing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he stooping down, and looking in, saw the linen clothes lying; yet went he not in."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Simon Peter therefore also comes following him and entered into the tomb; he beholds the linen cloths lying there,",
+      "tags": [
+        "peter",
+        "tomb",
+        "linen"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then cometh Simon Peter following him, and went into the sepulchre, and seeth the linen clothes lie,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and the face cloth that had been on his head, not lying with the linen cloths but folded up in a place by itself.",
+      "tags": [
+        "face-cloth",
+        "linen"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the napkin, that was about his head, not lying with the linen clothes, but wrapped together in a place by itself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Then therefore the other disciple, the one having come first to the tomb, also entered; and he saw and trusted.",
+      "tags": [
+        "beloved-disciple",
+        "seeing",
+        "trust",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went in also that other disciple, which came first to the sepulchre, and he saw, and believed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For they did not yet know the Scripture, that it was necessary for him to rise from the dead.",
+      "tags": [
+        "scripture",
+        "rise"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as yet they knew not the scripture, that he must rise again from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The disciples therefore went away again to their own.",
+      "tags": [
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the disciples went away again unto their own home."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But Mary stood outside by the tomb weeping. As she was weeping, she stooped to look into the tomb.",
+      "tags": [
+        "mary-magdalene",
+        "weeping",
+        "tomb"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Mary stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "She beholds two messengers in white sitting, one at the head and one at the feet, where the body of Jesus had lain.",
+      "tags": [
+        "messengers",
+        "body"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They say to her, Woman, why are you weeping? She says to them, They have taken my Lord, and I do not know where they laid him.",
+      "tags": [
+        "woman",
+        "weeping",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my LORD, and I know not where they have laid him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Saying these things, she turned backward and beholds Jesus standing, and did not know that it was Jesus.",
+      "tags": [
+        "jesus",
+        "recognition"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Jesus says to her, Woman, why are you weeping? Whom do you seek? Thinking that he is the gardener, she says to him, Lord, if you carried him away, tell me where you laid him, and I will take him.",
+      "tags": [
+        "gardener",
+        "seeking",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto her, Woman, why weepest thou? whom seekest thou? She, supposing him to be the gardener, saith unto him, Sir, if thou have borne him hence, tell me where thou hast laid him, and I will take him away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Jesus says to her, Mary. Turning, she says to him in Hebrew, Rabbouni, which means Teacher.",
+      "tags": [
+        "mary-magdalene",
+        "rabbouni",
+        "name",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Jesus says to her, Do not hold on to me, for I have not yet ascended to the Father. But go to my brothers and say to them, I ascend to my Father and your Father, and my Divine and your Divine.",
+      "tags": [
+        "ascend",
+        "father",
+        "brothers"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto her, Touch me not; for I am not yet ascended to my Father: but go to my brethren, and say unto them, I ascend unto my Father, and your Father; and to my God, and your God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Mary Magdalene comes announcing to the disciples, I have seen the Lord, and that he said these things to her.",
+      "tags": [
+        "mary-magdalene",
+        "witness",
+        "seeing",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Mary Magdalene came and told the disciples that she had seen the LORD, and that he had spoken these things unto her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "When therefore it was evening on that day, the first day of the week, and the doors had been locked where the disciples were because of fear of the Judeans, Jesus came and stood into the midst and says to them, Peace to you.",
+      "tags": [
+        "evening",
+        "fear",
+        "peace",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them, Peace be unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Saying this, he showed them the hands and the side. Therefore the disciples rejoiced, seeing the Lord.",
+      "tags": [
+        "hands",
+        "side",
+        "joy",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the LORD."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Jesus therefore said to them again, Peace to you. Just as the Father has sent me, I also send you.",
+      "tags": [
+        "peace",
+        "sent",
+        "mission"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Jesus to them again, Peace be unto you: as my Father hath sent me, even so send I you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Saying this, he breathed into them and says to them, Receive holy Spirit.",
+      "tags": [
+        "breath",
+        "holy-spirit",
+        "receive",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had said this, he breathed on them, and saith unto them, Receive ye the Holy Ghost:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "If you release the sins/misalignments of any, they have been released; if you hold them, they have been held.",
+      "tags": [
+        "release",
+        "misalignment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose soever sins ye remit, they are remitted unto them; and whose soever sins ye retain, they are retained."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "But Thomas, one of the twelve, called Twin, was not with them when Jesus came.",
+      "tags": [
+        "thomas",
+        "twelve"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Thomas, one of the twelve, called Didymus, was not with them when Jesus came."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "The other disciples therefore were saying to him, We have seen the Lord. But he said to them, Unless I see in his hands the mark of the nails, and put my finger into the mark of the nails and put my hand into his side, I will certainly not trust.",
+      "tags": [
+        "thomas",
+        "seeing",
+        "trust",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The other disciples therefore said unto him, We have seen the LORD. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "After eight days his disciples were again inside, and Thomas with them. Jesus comes, the doors having been locked, and stood into the midst and said, Peace to you.",
+      "tags": [
+        "thomas",
+        "peace",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said, Peace be unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Then he says to Thomas, Bring your finger here and see my hands; bring your hand and put it into my side; and do not become untrusting but trusting.",
+      "tags": [
+        "thomas",
+        "hands",
+        "side",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then saith he to Thomas, Reach hither thy finger, and behold my hands; and reach hither thy hand, and thrust it into my side: and be not faithless, but believing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Thomas answered and said to him, My Lord and my Divine.",
+      "tags": [
+        "thomas",
+        "lord",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Thomas answered and said unto him, My LORD and my God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Jesus says to him, Because you have seen me, have you trusted? Blessed/flourishing are those not seeing and trusting.",
+      "tags": [
+        "seeing",
+        "trust",
+        "blessed"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed are they that have not seen, and yet have believed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Therefore many other signs Jesus did before the disciples, which are not written in this scroll.",
+      "tags": [
+        "signs",
+        "scroll",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And many other signs truly did Jesus in the presence of his disciples, which are not written in this book:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "But these have been written so that you may trust that Jesus is the Messiah, the Son of the Divine, and that trusting you may have life in his name.",
+      "tags": [
+        "purpose",
+        "trust",
+        "life",
+        "name",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-31",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-31",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

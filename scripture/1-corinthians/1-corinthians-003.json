@@ -1,1 +1,385 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for fleshly factionalism, planting/watering, God's field/building, foundation, temple, no boasting in humans."},"verses":[{"verse":1,"restored":"And I, siblings, was not able to speak to you as spiritual ones, but as fleshly-patterned, as infants in Messiah."},{"verse":2,"restored":"I gave you milk to drink, not solid food, for you were not yet able. But not even now are you able,"},{"verse":3,"restored":"for you are still fleshly-patterned. For where there is jealousy and strife among you, are you not fleshly-patterned and walking according to human ways?"},{"verse":4,"restored":"For when one says, I am of Paul, and another, I of Apollos, are you not merely human?"},{"verse":5,"restored":"What then is Apollos? And what is Paul? Servants through whom you trusted, as the Lord gave to each."},{"verse":6,"restored":"I planted, Apollos watered, but the Divine caused growth."},{"verse":7,"restored":"So then neither the one planting is anything nor the one watering, but the Divine causing growth."},{"verse":8,"restored":"The one planting and the one watering are one, and each will receive one's own wage according to one's own labor."},{"verse":9,"restored":"For we are coworkers of the Divine; you are field of the Divine, building of the Divine."},{"verse":10,"restored":"According to the grace of the Divine given to me, like a wise master-builder I laid a foundation, and another builds upon it. But let each watch how one builds upon it."},{"verse":11,"restored":"For no one is able to lay another foundation beside the one being laid, which is Jesus Messiah."},{"verse":12,"restored":"If anyone builds upon the foundation gold, silver, precious stones, wood, hay, straw,"},{"verse":13,"restored":"each one's work will become manifest; for the day will make it clear, because it is unveiled in fire, and the fire itself will test what sort each one's work is."},{"verse":14,"restored":"If anyone's work that was built remains, that one will receive a wage."},{"verse":15,"restored":"If anyone's work is burned up, that one will suffer loss, but that one will be saved/healed, yet so as through fire."},{"verse":16,"restored":"Do you not know that you are temple of the Divine and the Spirit of the Divine dwells in you?"},{"verse":17,"restored":"If anyone destroys the temple of the Divine, the Divine will destroy that one; for the temple of the Divine is holy, which you are."},{"verse":18,"restored":"Let no one deceive oneself. If anyone among you thinks oneself wise in this age, let that one become foolish, so that one may become wise."},{"verse":19,"restored":"For the wisdom of this world is foolishness before the Divine; for it is written: He catches the wise in their craftiness."},{"verse":20,"restored":"And again: The Lord knows the reasonings of the wise, that they are empty."},{"verse":21,"restored":"So then let no one boast in humans. For all things are yours:"},{"verse":22,"restored":"whether Paul or Apollos or Cephas, or world or life or death, or present things or coming things—all are yours,"},{"verse":23,"restored":"and you are Messiah's, and Messiah is the Divine's."}],"translation_notes":["You are temple in verses 16-17 is plural/community-focused; the assembly is the holy dwelling, so division becomes temple-harm.","Fleshly-patterned refers to factional ego-behavior, not the material body as evil." ]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for fleshly factionalism, planting/watering, God's field/building, foundation, temple, no boasting in humans."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And I, siblings, was not able to speak to you as spiritual ones, but as fleshly-patterned, as infants in Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I, brethren, could not speak unto you as unto spiritual, but as unto carnal, even as unto babes in Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "I gave you milk to drink, not solid food, for you were not yet able. But not even now are you able,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have fed you with milk, and not with meat: for hitherto ye were not able to bear it, neither yet now are ye able."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "for you are still fleshly-patterned. For where there is jealousy and strife among you, are you not fleshly-patterned and walking according to human ways?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye are yet carnal: for whereas there is among you envying, and strife, and divisions, are ye not carnal, and walk as men?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For when one says, I am of Paul, and another, I of Apollos, are you not merely human?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For while one saith, I am of Paul; and another, I am of Apollos; are ye not carnal?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "What then is Apollos? And what is Paul? Servants through whom you trusted, as the Lord gave to each.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who then is Paul, and who is Apollos, but ministers by whom ye believed, even as the Lord gave to every man?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "I planted, Apollos watered, but the Divine caused growth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have planted, Apollos watered; but God gave the increase."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "So then neither the one planting is anything nor the one watering, but the Divine causing growth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So then neither is he that planteth any thing, neither he that watereth; but God that giveth the increase."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The one planting and the one watering are one, and each will receive one's own wage according to one's own labor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now he that planteth and he that watereth are one: and every man shall receive his own reward according to his own labour."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For we are coworkers of the Divine; you are field of the Divine, building of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we are labourers together with God: ye are God’s husbandry, ye are God’s building."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "According to the grace of the Divine given to me, like a wise master-builder I laid a foundation, and another builds upon it. But let each watch how one builds upon it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "According to the grace of God which is given unto me, as a wise masterbuilder, I have laid the foundation, and another buildeth thereon. But let every man take heed how he buildeth thereupon."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For no one is able to lay another foundation beside the one being laid, which is Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For other foundation can no man lay than that is laid, which is Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "If anyone builds upon the foundation gold, silver, precious stones, wood, hay, straw,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now if any man build upon this foundation gold, silver, precious stones, wood, hay, stubble;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "each one's work will become manifest; for the day will make it clear, because it is unveiled in fire, and the fire itself will test what sort each one's work is.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Every man’s work shall be made manifest: for the day shall declare it, because it shall be revealed by fire; and the fire shall try every man’s work of what sort it is."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "If anyone's work that was built remains, that one will receive a wage.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man’s work abide which he hath built thereupon, he shall receive a reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "If anyone's work is burned up, that one will suffer loss, but that one will be saved/healed, yet so as through fire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man’s work shall be burned, he shall suffer loss: but he himself shall be saved; yet so as by fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Do you not know that you are temple of the Divine and the Spirit of the Divine dwells in you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "If anyone destroys the temple of the Divine, the Divine will destroy that one; for the temple of the Divine is holy, which you are.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Let no one deceive oneself. If anyone among you thinks oneself wise in this age, let that one become foolish, so that one may become wise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let no man deceive himself. If any man among you seemeth to be wise in this world, let him become a fool, that he may be wise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For the wisdom of this world is foolishness before the Divine; for it is written: He catches the wise in their craftiness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the wisdom of this world is foolishness with God. For it is written, He taketh the wise in their own craftiness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And again: The Lord knows the reasonings of the wise, that they are empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And again, The Lord knoweth the thoughts of the wise, that they are vain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "So then let no one boast in humans. For all things are yours:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore let no man glory in men. For all things are yours;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "whether Paul or Apollos or Cephas, or world or life or death, or present things or coming things—all are yours,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whether Paul, or Apollos, or Cephas, or the world, or life, or death, or things present, or things to come; all are yours;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "and you are Messiah's, and Messiah is the Divine's.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye are Christ’s; and Christ is God’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "You are temple in verses 16-17 is plural/community-focused; the assembly is the holy dwelling, so division becomes temple-harm.",
+    "Fleshly-patterned refers to factional ego-behavior, not the material body as evil."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-23",
+    "tags": "partial-5-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

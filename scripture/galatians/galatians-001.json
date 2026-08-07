@@ -1,1 +1,487 @@
-{"book":"Galatians","book_id":"galatians","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek Galatians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for urgent opening, no rival good news, human approval, apocalypse/calling of Jesus Messiah, former zeal, Arabia/Damascus/Jerusalem narrative."},"verses":[{"verse":1,"restored":"Paul, apostle not from humans nor through a human, but through Jesus Messiah and Divine Father, who raised him from the dead,"},{"verse":2,"restored":"and all the siblings with me, to the assemblies of Galatia:"},{"verse":3,"restored":"Grace to you and peace from Divine our Father and Lord Jesus Messiah,"},{"verse":4,"restored":"who gave himself for our sins/misalignments, so that he might rescue us from the present harmful age, according to the will of our Divine and Father,"},{"verse":5,"restored":"to whom be glory into the ages of the ages. Amen."},{"verse":6,"restored":"I marvel that you are so quickly being transferred from the One who called you in the grace of Messiah to a different good news,"},{"verse":7,"restored":"which is not another; except there are some troubling you and wanting to distort the good news of Messiah."},{"verse":8,"restored":"But even if we or a messenger from heaven should announce good news to you beyond what we announced to you, let that one be devoted to judgment."},{"verse":9,"restored":"As we have said before, and now again I say: if anyone announces good news to you beyond what you received, let that one be devoted to judgment."},{"verse":10,"restored":"For now am I persuading humans or the Divine? Or am I seeking to please humans? If I were still pleasing humans, I would not be servant of Messiah."},{"verse":11,"restored":"For I make known to you, siblings, the good news announced by me, that it is not according to human."},{"verse":12,"restored":"For I neither received it from a human nor was taught it, but through an unveiling/apocalypse of Jesus Messiah."},{"verse":13,"restored":"For you heard of my former conduct in Judaism, that beyond measure I pursued/persecuted the assembly of the Divine and ravaged it,"},{"verse":14,"restored":"and I advanced in Judaism beyond many of my own age among my people, being more exceedingly zealous for the traditions of my fathers."},{"verse":15,"restored":"But when the Divine, the One who set me apart from my mother's womb and called me through his grace, was pleased"},{"verse":16,"restored":"to unveil his Son in me, so that I might announce him as good news among the nations, immediately I did not consult flesh and blood,"},{"verse":17,"restored":"nor did I go up to Jerusalem to those apostles before me, but I went away into Arabia and again returned to Damascus."},{"verse":18,"restored":"Then after three years I went up to Jerusalem to visit Cephas, and I remained with him fifteen days."},{"verse":19,"restored":"But I saw none of the other apostles except James, the brother of the Lord."},{"verse":20,"restored":"Now what I write to you, look, before the Divine, I do not lie."},{"verse":21,"restored":"Then I went into the regions of Syria and Cilicia."},{"verse":22,"restored":"But I was unknown by face to the assemblies of Judea that are in Messiah."},{"verse":23,"restored":"They were only hearing: The one formerly pursuing/persecuting us now announces as good news the trust he once ravaged."},{"verse":24,"restored":"And they glorified the Divine in me."}],"translation_notes":["Apokalypsis in verse 12 is rendered unveiling/apocalypse to preserve revelatory force.","Paul's critique of his former zeal is autobiographical and rhetorical; it should not become contempt for Judaism or Jewish tradition." ]}
+{
+  "book": "Galatians",
+  "book_id": "galatians",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Galatians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for urgent opening, no rival good news, human approval, apocalypse/calling of Jesus Messiah, former zeal, Arabia/Damascus/Jerusalem narrative."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul, apostle not from humans nor through a human, but through Jesus Messiah and Divine Father, who raised him from the dead,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul, an apostle, (not of men, neither by man, but by Jesus Christ, and God the Father, who raised him from the dead;)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "and all the siblings with me, to the assemblies of Galatia:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the brethren which are with me, unto the churches of Galatia:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Grace to you and peace from Divine our Father and Lord Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace be to you and peace from God the Father, and from our Lord Jesus Christ,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "who gave himself for our sins/misalignments, so that he might rescue us from the present harmful age, according to the will of our Divine and Father,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who gave himself for our sins, that he might deliver us from this present evil world, according to the will of God and our Father:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "to whom be glory into the ages of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To whom be glory for ever and ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I marvel that you are so quickly being transferred from the One who called you in the grace of Messiah to a different good news,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "which is not another; except there are some troubling you and wanting to distort the good news of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which is not another; but there be some that trouble you, and would pervert the gospel of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "But even if we or a messenger from heaven should announce good news to you beyond what we announced to you, let that one be devoted to judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "As we have said before, and now again I say: if anyone announces good news to you beyond what you received, let that one be devoted to judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For now am I persuading humans or the Divine? Or am I seeking to please humans? If I were still pleasing humans, I would not be servant of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For do I now persuade men, or God? or do I seek to please men? for if I yet pleased men, I should not be the servant of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "For I make known to you, siblings, the good news announced by me, that it is not according to human.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I certify you, brethren, that the gospel which was preached of me is not after man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "For I neither received it from a human nor was taught it, but through an unveiling/apocalypse of Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I neither received it of man, neither was I taught it, but by the revelation of Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "For you heard of my former conduct in Judaism, that beyond measure I pursued/persecuted the assembly of the Divine and ravaged it,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye have heard of my conversation in time past in the Jews’ religion, how that beyond measure I persecuted the church of God, and wasted it:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "and I advanced in Judaism beyond many of my own age among my people, being more exceedingly zealous for the traditions of my fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And profited in the Jews’ religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But when the Divine, the One who set me apart from my mother's womb and called me through his grace, was pleased",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when it pleased God, who separated me from my mother’s womb, and called me by his grace,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "to unveil his Son in me, so that I might announce him as good news among the nations, immediately I did not consult flesh and blood,",
+      "familiar": {
+        "source": "KJV",
+        "text": "To reveal his Son in me, that I might preach him among the heathen; immediately I conferred not with flesh and blood:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "nor did I go up to Jerusalem to those apostles before me, but I went away into Arabia and again returned to Damascus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither went I up to Jerusalem to them which were apostles before me; but I went into Arabia, and returned again unto Damascus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Then after three years I went up to Jerusalem to visit Cephas, and I remained with him fifteen days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then after three years I went up to Jerusalem to see Peter, and abode with him fifteen days."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But I saw none of the other apostles except James, the brother of the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But other of the apostles saw I none, save James the Lord’s brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Now what I write to you, look, before the Divine, I do not lie.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the things which I write unto you, behold, before God, I lie not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Then I went into the regions of Syria and Cilicia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Afterwards I came into the regions of Syria and Cilicia;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But I was unknown by face to the assemblies of Judea that are in Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And was unknown by face unto the churches of Judaea which were in Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "They were only hearing: The one formerly pursuing/persecuting us now announces as good news the trust he once ravaged.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "And they glorified the Divine in me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they glorified God in me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Apokalypsis in verse 12 is rendered unveiling/apocalypse to preserve revelatory force.",
+    "Paul's critique of his former zeal is autobiographical and rhetorical; it should not become contempt for Judaism or Jewish tradition."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-24",
+    "tags": "partial-5-of-24",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

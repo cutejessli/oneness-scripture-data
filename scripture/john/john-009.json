@@ -1,49 +1,775 @@
 {
-  "book":"John",
-  "book_id":"john",
-  "chapter":9,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for man born blind, anti-victim-blame opening, clay/washing, Sabbath dispute, parents, expulsion, Son of Humanity, sight/judgment reversal."},
-  "verses":[
-    {"verse":1,"restored":"Passing by, he saw a human blind from birth.","tags":["blind","birth","seeing"]},
-    {"verse":2,"restored":"His disciples questioned him, Rabbi, who sinned/misaligned, this one or his parents, that he was born blind?","tags":["disciples","misalignment","victim-blame"]},
-    {"verse":3,"restored":"Jesus answered, Neither this one sinned/misaligned nor his parents, but so that the works of the Divine might be revealed in him.","tags":["anti-victim-blame","works","reveal"]},
-    {"verse":4,"restored":"It is necessary for us to work the works of the One who sent me while it is day; night comes when no one is able to work.","tags":["works","sent","day-night"]},
-    {"verse":5,"restored":"While I am in the world, I am the light of the world.","tags":["i-am","light","world"]},
-    {"verse":6,"restored":"Saying these things, he spat on the ground, made clay from the saliva, and anointed the man's eyes with the clay.","tags":["clay","eyes","anointing"]},
-    {"verse":7,"restored":"He said to him, Go, wash in the pool of Siloam, which is translated Sent. He went, therefore, washed, and came seeing.","tags":["siloam","sent","washing","seeing"]},
-    {"verse":8,"restored":"The neighbors and those who had seen him before, that he was a beggar, were saying, Is this not the one sitting and begging?","tags":["neighbors","beggar"]},
-    {"verse":9,"restored":"Others were saying, This is he; others were saying, No, but he is like him. He said, I am he.","tags":["identity"]},
-    {"verse":10,"restored":"They were saying to him, How then were your eyes opened?","tags":["eyes-opened","question"]},
-    {"verse":11,"restored":"He answered, The human called Jesus made clay, anointed my eyes, and said to me, Go to Siloam and wash. So I went, washed, and received sight.","tags":["jesus","siloam","sight"]},
-    {"verse":12,"restored":"They said to him, Where is that one? He says, I do not know.","tags":["question","not-knowing"]},
-    {"verse":13,"restored":"They bring to the Pharisees the one formerly blind.","tags":["pharisees","blind"]},
-    {"verse":14,"restored":"Now it was Sabbath on the day Jesus made the clay and opened his eyes.","tags":["sabbath","clay","eyes"]},
-    {"verse":15,"restored":"Again, therefore, the Pharisees also were asking him how he received sight. He said to them, He put clay on my eyes, and I washed, and I see.","tags":["pharisees","sight"]},
-    {"verse":16,"restored":"Some of the Pharisees were saying, This human is not from the Divine, because he does not keep the Sabbath. But others were saying, How is a sinful/misaligned human able to do such signs? And there was division among them.","tags":["division","sabbath","signs"]},
-    {"verse":17,"restored":"They therefore say to the blind one again, What do you say about him, because he opened your eyes? He said, He is a prophet.","tags":["prophet","eyes-opened"]},
-    {"verse":18,"restored":"The Judeans therefore did not trust concerning him that he had been blind and received sight until they called the parents of the one who received sight.","tags":["parents","trust","sight"]},
-    {"verse":19,"restored":"They questioned them, saying, Is this your son, whom you say was born blind? How then does he now see?","tags":["parents","question"]},
-    {"verse":20,"restored":"His parents answered and said, We know that this is our son and that he was born blind.","tags":["parents","knowing"]},
-    {"verse":21,"restored":"But how he now sees, we do not know; or who opened his eyes, we do not know. Ask him; he has age. He will speak concerning himself.","tags":["parents","fear","speech"]},
-    {"verse":22,"restored":"His parents said these things because they feared the Judeans, for the Judeans had already agreed that if anyone confessed him as Messiah, that one would be put out of the synagogue.","tags":["fear","synagogue","messiah"]},
-    {"verse":23,"restored":"Because of this his parents said, He has age; ask him.","tags":["parents"]},
-    {"verse":24,"restored":"Therefore they called the human a second time, the one who had been blind, and said to him, Give glory to the Divine; we know that this human is sinful/misaligned.","tags":["glory","accusation"]},
-    {"verse":25,"restored":"That one answered, Whether he is sinful/misaligned I do not know. One thing I know: being blind, now I see.","tags":["knowing","sight"]},
-    {"verse":26,"restored":"They said to him, What did he do to you? How did he open your eyes?","tags":["question","eyes-opened"]},
-    {"verse":27,"restored":"He answered them, I told you already, and you did not hear. Why do you want to hear again? Do you also want to become his disciples?","tags":["hearing","disciples"]},
-    {"verse":28,"restored":"They insulted him and said, You are that one's disciple, but we are disciples of Moses.","tags":["insult","moses","disciples"]},
-    {"verse":29,"restored":"We know that the Divine has spoken to Moses; but this one, we do not know where he is from.","tags":["moses","origin"]},
-    {"verse":30,"restored":"The human answered and said to them, In this is a marvel: you do not know where he is from, and he opened my eyes.","tags":["wonder","eyes-opened"]},
-    {"verse":31,"restored":"We know that the Divine does not hear sinners/misaligned ones, but if anyone is reverent toward the Divine and does his will, this one he hears.","tags":["hearing","will"]},
-    {"verse":32,"restored":"From the age it has not been heard that anyone opened the eyes of one born blind.","tags":["age","eyes-opened"]},
-    {"verse":33,"restored":"If this one were not from the Divine, he would not be able to do anything.","tags":["divine","ability"]},
-    {"verse":34,"restored":"They answered and said to him, You were born entirely in sins/misalignments, and you teach us? And they cast him outside.","tags":["expulsion","misalignment"]},
-    {"verse":35,"restored":"Jesus heard that they had cast him outside, and finding him, said, Do you trust into the Son of Humanity?","tags":["son-of-humanity","trust","finding"]},
-    {"verse":36,"restored":"He answered and said, And who is he, Lord, so that I may trust into him?","tags":["question","trust"]},
-    {"verse":37,"restored":"Jesus said to him, You have both seen him, and the one speaking with you is that one.","tags":["seeing","revelation"]},
-    {"verse":38,"restored":"He said, I trust, Lord; and he worshiped him.","tags":["trust","worship"]},
-    {"verse":39,"restored":"Jesus said, For judgment I came into this world, so that those not seeing may see, and those seeing may become blind.","tags":["judgment","sight","blindness"]},
-    {"verse":40,"restored":"Some of the Pharisees who were with him heard these things and said to him, Are we also blind?","tags":["pharisees","blindness"]},
-    {"verse":41,"restored":"Jesus said to them, If you were blind, you would not have sin/misalignment; but now you say, We see. Your sin/misalignment remains.","tags":["seeing","misalignment","remain"]}
-  ]
+  "book": "John",
+  "book_id": "john",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for man born blind, anti-victim-blame opening, clay/washing, Sabbath dispute, parents, expulsion, Son of Humanity, sight/judgment reversal."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Passing by, he saw a human blind from birth.",
+      "tags": [
+        "blind",
+        "birth",
+        "seeing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as Jesus passed by, he saw a man which was blind from his birth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "His disciples questioned him, Rabbi, who sinned/misaligned, this one or his parents, that he was born blind?",
+      "tags": [
+        "disciples",
+        "misalignment",
+        "victim-blame",
+        "religious-authority",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And his disciples asked him, saying, Master, who did sin, this man, or his parents, that he was born blind?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Jesus answered, Neither this one sinned/misaligned nor his parents, but so that the works of the Divine might be revealed in him.",
+      "tags": [
+        "anti-victim-blame",
+        "works",
+        "reveal"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus answered, Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "It is necessary for us to work the works of the One who sent me while it is day; night comes when no one is able to work.",
+      "tags": [
+        "works",
+        "sent",
+        "day-night"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I must work the works of him that sent me, while it is day: the night cometh, when no man can work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "While I am in the world, I am the light of the world.",
+      "tags": [
+        "i-am",
+        "light",
+        "world"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As long as I am in the world, I am the light of the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Saying these things, he spat on the ground, made clay from the saliva, and anointed the man's eyes with the clay.",
+      "tags": [
+        "clay",
+        "eyes",
+        "anointing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When he had thus spoken, he spat on the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He said to him, Go, wash in the pool of Siloam, which is translated Sent. He went, therefore, washed, and came seeing.",
+      "tags": [
+        "siloam",
+        "sent",
+        "washing",
+        "seeing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto him, Go, wash in the pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, and came seeing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The neighbors and those who had seen him before, that he was a beggar, were saying, Is this not the one sitting and begging?",
+      "tags": [
+        "neighbors",
+        "beggar",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The neighbours therefore, and they which before had seen him that he was blind, said, Is not this he that sat and begged?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Others were saying, This is he; others were saying, No, but he is like him. He said, I am he.",
+      "tags": [
+        "identity"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Some said, This is he: others said, He is like him: but he said, I am he."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They were saying to him, How then were your eyes opened?",
+      "tags": [
+        "eyes-opened",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore said they unto him, How were thine eyes opened?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He answered, The human called Jesus made clay, anointed my eyes, and said to me, Go to Siloam and wash. So I went, washed, and received sight.",
+      "tags": [
+        "jesus",
+        "siloam",
+        "sight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered and said, A man that is called Jesus made clay, and anointed mine eyes, and said unto me, Go to the pool of Siloam, and wash: and I went and washed, and I received sight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "They said to him, Where is that one? He says, I do not know.",
+      "tags": [
+        "question",
+        "not-knowing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they unto him, Where is he? He said, I know not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They bring to the Pharisees the one formerly blind.",
+      "tags": [
+        "pharisees",
+        "blind",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They brought to the Pharisees him that aforetime was blind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Now it was Sabbath on the day Jesus made the clay and opened his eyes.",
+      "tags": [
+        "sabbath",
+        "clay",
+        "eyes"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was the sabbath day when Jesus made the clay, and opened his eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Again, therefore, the Pharisees also were asking him how he received sight. He said to them, He put clay on my eyes, and I washed, and I see.",
+      "tags": [
+        "pharisees",
+        "sight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then again the Pharisees also asked him how he had received his sight. He said unto them, He put clay upon mine eyes, and I washed, and do see."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Some of the Pharisees were saying, This human is not from the Divine, because he does not keep the Sabbath. But others were saying, How is a sinful/misaligned human able to do such signs? And there was division among them.",
+      "tags": [
+        "division",
+        "sabbath",
+        "signs"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore said some of the Pharisees, This man is not of God, because he keepeth not the sabbath day. Others said, How can a man that is a sinner do such miracles? And there was a division among them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "They therefore say to the blind one again, What do you say about him, because he opened your eyes? He said, He is a prophet.",
+      "tags": [
+        "prophet",
+        "eyes-opened",
+        "religious-authority",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They say unto the blind man again, What sayest thou of him, that he hath opened thine eyes? He said, He is a prophet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The Judeans therefore did not trust concerning him that he had been blind and received sight until they called the parents of the one who received sight.",
+      "tags": [
+        "parents",
+        "trust",
+        "sight",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But the Jews did not believe concerning him, that he had been blind, and received his sight, until they called the parents of him that had received his sight."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "They questioned them, saying, Is this your son, whom you say was born blind? How then does he now see?",
+      "tags": [
+        "parents",
+        "question",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they asked them, saying, Is this your son, who ye say was born blind? how then doth he now see?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "His parents answered and said, We know that this is our son and that he was born blind.",
+      "tags": [
+        "parents",
+        "knowing",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "His parents answered them and said, We know that this is our son, and that he was born blind:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "But how he now sees, we do not know; or who opened his eyes, we do not know. Ask him; he has age. He will speak concerning himself.",
+      "tags": [
+        "parents",
+        "fear",
+        "speech"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But by what means he now seeth, we know not; or who hath opened his eyes, we know not: he is of age; ask him: he shall speak for himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "His parents said these things because they feared the Judeans, for the Judeans had already agreed that if anyone confessed him as Messiah, that one would be put out of the synagogue.",
+      "tags": [
+        "fear",
+        "synagogue",
+        "messiah",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Because of this his parents said, He has age; ask him.",
+      "tags": [
+        "parents"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore said his parents, He is of age; ask him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Therefore they called the human a second time, the one who had been blind, and said to him, Give glory to the Divine; we know that this human is sinful/misaligned.",
+      "tags": [
+        "glory",
+        "accusation",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then again called they the man that was blind, and said unto him, Give God the praise: we know that this man is a sinner."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "That one answered, Whether he is sinful/misaligned I do not know. One thing I know: being blind, now I see.",
+      "tags": [
+        "knowing",
+        "sight",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered and said, Whether he be a sinner or no, I know not: one thing I know, that, whereas I was blind, now I see."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "They said to him, What did he do to you? How did he open your eyes?",
+      "tags": [
+        "question",
+        "eyes-opened"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they to him again, What did he to thee? how opened he thine eyes?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "He answered them, I told you already, and you did not hear. Why do you want to hear again? Do you also want to become his disciples?",
+      "tags": [
+        "hearing",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered them, I have told you already, and ye did not hear: wherefore would ye hear it again? will ye also be his disciples?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "They insulted him and said, You are that one's disciple, but we are disciples of Moses.",
+      "tags": [
+        "insult",
+        "moses",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they reviled him, and said, Thou art his disciple; but we are Moses’ disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "We know that the Divine has spoken to Moses; but this one, we do not know where he is from.",
+      "tags": [
+        "moses",
+        "origin"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "We know that God spake unto Moses: as for this fellow, we know not from whence he is."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "The human answered and said to them, In this is a marvel: you do not know where he is from, and he opened my eyes.",
+      "tags": [
+        "wonder",
+        "eyes-opened"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The man answered and said unto them, Why herein is a marvellous thing, that ye know not from whence he is, and yet he hath opened mine eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "We know that the Divine does not hear sinners/misaligned ones, but if anyone is reverent toward the Divine and does his will, this one he hears.",
+      "tags": [
+        "hearing",
+        "will"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now we know that God heareth not sinners: but if any man be a worshipper of God, and doeth his will, him he heareth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "From the age it has not been heard that anyone opened the eyes of one born blind.",
+      "tags": [
+        "age",
+        "eyes-opened",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Since the world began was it not heard that any man opened the eyes of one that was born blind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "If this one were not from the Divine, he would not be able to do anything.",
+      "tags": [
+        "divine",
+        "ability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If this man were not of God, he could do nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "They answered and said to him, You were born entirely in sins/misalignments, and you teach us? And they cast him outside.",
+      "tags": [
+        "expulsion",
+        "misalignment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They answered and said unto him, Thou wast altogether born in sins, and dost thou teach us? And they cast him out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Jesus heard that they had cast him outside, and finding him, said, Do you trust into the Son of Humanity?",
+      "tags": [
+        "son-of-humanity",
+        "trust",
+        "finding",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus heard that they had cast him out; and when he had found him, he said unto him, Dost thou believe on the Son of God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "He answered and said, And who is he, Lord, so that I may trust into him?",
+      "tags": [
+        "question",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered and said, Who is he, Lord, that I might believe on him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Jesus said to him, You have both seen him, and the one speaking with you is that one.",
+      "tags": [
+        "seeing",
+        "revelation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto him, Thou hast both seen him, and it is he that talketh with thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "He said, I trust, Lord; and he worshiped him.",
+      "tags": [
+        "trust",
+        "worship"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Lord, I believe. And he worshipped him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "Jesus said, For judgment I came into this world, so that those not seeing may see, and those seeing may become blind.",
+      "tags": [
+        "judgment",
+        "sight",
+        "blindness",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said, For judgment I am come into this world, that they which see not might see; and that they which see might be made blind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "Some of the Pharisees who were with him heard these things and said to him, Are we also blind?",
+      "tags": [
+        "pharisees",
+        "blindness",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of the Pharisees which were with him heard these words, and said unto him, Are we blind also?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 41,
+      "restored": "Jesus said to them, If you were blind, you would not have sin/misalignment; but now you say, We see. Your sin/misalignment remains.",
+      "tags": [
+        "seeing",
+        "misalignment",
+        "remain",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus said unto them, If ye were blind, ye should have no sin: but now ye say, We see; therefore your sin remaineth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-41",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-16-of-41",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
 }

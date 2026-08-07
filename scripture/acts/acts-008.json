@@ -1,1 +1,712 @@
-{"book":"Acts","book_id":"acts","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Saul persecution, Samaria mission, Simon Magus, Peter rebuke, angel/Spirit-guided Ethiopian eunuch encounter, Isaiah reading, baptism, Spirit snatching Philip."},"verses":[{"verse":1,"restored":"Saul was approving of his killing. In that day great persecution happened against the assembly in Jerusalem, and all were scattered through the regions of Judea and Samaria, except the apostles."},{"verse":2,"restored":"Devout men buried Stephen and made great lamentation over him."},{"verse":3,"restored":"But Saul was ravaging the assembly, entering house by house; dragging off both men and women, he was handing them over to prison."},{"verse":4,"restored":"Therefore those scattered went through announcing the good news of the word."},{"verse":5,"restored":"Philip, going down to the city of Samaria, was proclaiming the Messiah to them."},{"verse":6,"restored":"The crowds with one accord were paying attention to the things spoken by Philip, as they heard and saw the signs he was doing."},{"verse":7,"restored":"For many who had unclean spirits, crying with a great voice, were released; and many paralyzed and lame ones were healed."},{"verse":8,"restored":"There was much joy in that city."},{"verse":9,"restored":"A certain man named Simon had previously practiced magic in the city and amazed the nation of Samaria, saying himself to be someone great."},{"verse":10,"restored":"All were paying attention to him, from small to great, saying, This one is the power of the Divine called Great."},{"verse":11,"restored":"They paid attention to him because for a long time he had amazed them with magic arts."},{"verse":12,"restored":"But when they trusted Philip announcing good news concerning the reign of the Divine and the name of Jesus Messiah, they were baptized, both men and women."},{"verse":13,"restored":"Simon himself also trusted, and being baptized, he was continuing with Philip; beholding signs and great powers happening, he was amazed."},{"verse":14,"restored":"When the apostles in Jerusalem heard that Samaria had received the word of the Divine, they sent Peter and John to them,"},{"verse":15,"restored":"who, coming down, prayed concerning them that they might receive holy Spirit."},{"verse":16,"restored":"For he had not yet fallen upon any of them; they had only been baptized into the name of the Lord Jesus."},{"verse":17,"restored":"Then they laid hands upon them, and they received holy Spirit."},{"verse":18,"restored":"Simon, seeing that through the laying on of the apostles' hands the Spirit was given, brought them silver,"},{"verse":19,"restored":"saying, Give me also this authority, so that on whomever I lay hands, that one may receive holy Spirit."},{"verse":20,"restored":"But Peter said to him, May your silver be with you into ruin, because you thought the gift of the Divine could be acquired through money."},{"verse":21,"restored":"There is not for you a part or share in this word, for your heart is not straight before the Divine."},{"verse":22,"restored":"Turn/realign therefore from this harmfulness of yours, and ask the Lord if perhaps the intention of your heart may be released to you."},{"verse":23,"restored":"For I see you are in bitter gall and bond of injustice."},{"verse":24,"restored":"Simon answered and said, You ask the Lord for me, so that nothing of what you have said may come upon me."},{"verse":25,"restored":"They therefore, having testified and spoken the word of the Lord, returned to Jerusalem, announcing the good news to many villages of the Samaritans."},{"verse":26,"restored":"A messenger of the Lord spoke to Philip, saying, Rise and go toward the south on the road going down from Jerusalem to Gaza; this is wilderness."},{"verse":27,"restored":"Rising, he went. Look, an Ethiopian man, a eunuch, a powerful official of Candace queen of Ethiopians, who was over all her treasury, had come to worship in Jerusalem."},{"verse":28,"restored":"He was returning and sitting in his chariot, and he was reading the prophet Isaiah."},{"verse":29,"restored":"The Spirit said to Philip, Go near and join yourself to this chariot."},{"verse":30,"restored":"Running up, Philip heard him reading Isaiah the prophet and said, Do you indeed know what you are reading?"},{"verse":31,"restored":"He said, How could I, unless someone guides me? He invited Philip to come up and sit with him."},{"verse":32,"restored":"The passage of Scripture he was reading was this: As a sheep to slaughter he was led, and as a lamb before its shearer is silent, so he does not open his mouth."},{"verse":33,"restored":"In his humiliation, justice was taken away from him. Who will describe his generation? For his life is taken away from the earth."},{"verse":34,"restored":"The eunuch answered Philip and said, I ask you, concerning whom does the prophet say this, concerning himself or concerning another?"},{"verse":35,"restored":"Philip opened his mouth, and beginning from this Scripture, announced the good news of Jesus to him."},{"verse":36,"restored":"As they were going along the road, they came upon some water, and the eunuch says, Look, water. What prevents me from being baptized?"},{"verse":37,"restored":"[Some later manuscripts add a confession of trust before baptism.]"},{"verse":38,"restored":"He commanded the chariot to stand still, and they both went down into the water, Philip and the eunuch, and he baptized him."},{"verse":39,"restored":"When they came up out of the water, Spirit of the Lord snatched Philip away, and the eunuch saw him no more, for he went on his way rejoicing."},{"verse":40,"restored":"Philip was found at Azotus, and passing through, he announced the good news to all the cities until he came to Caesarea."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Saul persecution, Samaria mission, Simon Magus, Peter rebuke, angel/Spirit-guided Ethiopian eunuch encounter, Isaiah reading, baptism, Spirit snatching Philip."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Saul was approving of his killing. In that day great persecution happened against the assembly in Jerusalem, and all were scattered through the regions of Judea and Samaria, except the apostles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Devout men buried Stephen and made great lamentation over him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And devout men carried Stephen to his burial, and made great lamentation over him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "But Saul was ravaging the assembly, entering house by house; dragging off both men and women, he was handing them over to prison.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As for Saul, he made havock of the church, entering into every house, and haling men and women committed them to prison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Therefore those scattered went through announcing the good news of the word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore they that were scattered abroad went every where preaching the word."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Philip, going down to the city of Samaria, was proclaiming the Messiah to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Philip went down to the city of Samaria, and preached Christ unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The crowds with one accord were paying attention to the things spoken by Philip, as they heard and saw the signs he was doing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For many who had unclean spirits, crying with a great voice, were released; and many paralyzed and lame ones were healed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "There was much joy in that city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was great joy in that city."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "A certain man named Simon had previously practiced magic in the city and amazed the nation of Samaria, saying himself to be someone great.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "All were paying attention to him, from small to great, saying, This one is the power of the Divine called Great.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "They paid attention to him because for a long time he had amazed them with magic arts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to him they had regard, because that of long time he had bewitched them with sorceries."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But when they trusted Philip announcing good news concerning the reign of the Divine and the name of Jesus Messiah, they were baptized, both men and women.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Simon himself also trusted, and being baptized, he was continuing with Philip; beholding signs and great powers happening, he was amazed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Simon himself believed also: and when he was baptized, he continued with Philip, and wondered, beholding the miracles and signs which were done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When the apostles in Jerusalem heard that Samaria had received the word of the Divine, they sent Peter and John to them,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "who, coming down, prayed concerning them that they might receive holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who, when they were come down, prayed for them, that they might receive the Holy Ghost:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For he had not yet fallen upon any of them; they had only been baptized into the name of the Lord Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Then they laid hands upon them, and they received holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then laid they their hands on them, and they received the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Simon, seeing that through the laying on of the apostles' hands the Spirit was given, brought them silver,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Simon saw that through laying on of the apostles’ hands the Holy Ghost was given, he offered them money,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "spirit"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "saying, Give me also this authority, so that on whomever I lay hands, that one may receive holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Give me also this power, that on whomsoever I lay hands, he may receive the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But Peter said to him, May your silver be with you into ruin, because you thought the gift of the Divine could be acquired through money.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Peter said unto him, Thy money perish with thee, because thou hast thought that the gift of God may be purchased with money."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "There is not for you a part or share in this word, for your heart is not straight before the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou hast neither part nor lot in this matter: for thy heart is not right in the sight of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Turn/realign therefore from this harmfulness of yours, and ask the Lord if perhaps the intention of your heart may be released to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Repent therefore of this thy wickedness, and pray God, if perhaps the thought of thine heart may be forgiven thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For I see you are in bitter gall and bond of injustice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I perceive that thou art in the gall of bitterness, and in the bond of iniquity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Simon answered and said, You ask the Lord for me, so that nothing of what you have said may come upon me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Simon, and said, Pray ye to the LORD for me, that none of these things which ye have spoken come upon me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "They therefore, having testified and spoken the word of the Lord, returned to Jerusalem, announcing the good news to many villages of the Samaritans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "A messenger of the Lord spoke to Philip, saying, Rise and go toward the south on the road going down from Jerusalem to Gaza; this is wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel of the Lord spake unto Philip, saying, Arise, and go toward the south unto the way that goeth down from Jerusalem unto Gaza, which is desert."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Rising, he went. Look, an Ethiopian man, a eunuch, a powerful official of Candace queen of Ethiopians, who was over all her treasury, had come to worship in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he arose and went: and, behold, a man of Ethiopia, an eunuch of great authority under Candace queen of the Ethiopians, who had the charge of all her treasure, and had come to Jerusalem for to worship,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "He was returning and sitting in his chariot, and he was reading the prophet Isaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Was returning, and sitting in his chariot read Esaias the prophet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "The Spirit said to Philip, Go near and join yourself to this chariot.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the Spirit said unto Philip, Go near, and join thyself to this chariot."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Running up, Philip heard him reading Isaiah the prophet and said, Do you indeed know what you are reading?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Philip ran thither to him, and heard him read the prophet Esaias, and said, Understandest thou what thou readest?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "He said, How could I, unless someone guides me? He invited Philip to come up and sit with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, How can I, except some man should guide me? And he desired Philip that he would come up and sit with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "The passage of Scripture he was reading was this: As a sheep to slaughter he was led, and as a lamb before its shearer is silent, so he does not open his mouth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The place of the scripture which he read was this, He was led as a sheep to the slaughter; and like a lamb dumb before his shearer, so opened he not his mouth:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "In his humiliation, justice was taken away from him. Who will describe his generation? For his life is taken away from the earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "The eunuch answered Philip and said, I ask you, concerning whom does the prophet say this, concerning himself or concerning another?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the eunuch answered Philip, and said, I pray thee, of whom speaketh the prophet this? of himself, or of some other man?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "Philip opened his mouth, and beginning from this Scripture, announced the good news of Jesus to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Philip opened his mouth, and began at the same scripture, and preached unto him Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "As they were going along the road, they came upon some water, and the eunuch says, Look, water. What prevents me from being baptized?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "[Some later manuscripts add a confession of trust before baptism.]",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Philip said, If thou believest with all thine heart, thou mayest. And he answered and said, I believe that Jesus Christ is the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "He commanded the chariot to stand still, and they both went down into the water, Philip and the eunuch, and he baptized him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "When they came up out of the water, Spirit of the Lord snatched Philip away, and the eunuch saw him no more, for he went on his way rejoicing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were come up out of the water, the Spirit of the Lord caught away Philip, that the eunuch saw him no more: and he went on his way rejoicing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Philip was found at Azotus, and passing through, he announced the good news to all the cities until he came to Caesarea.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Philip was found at Azotus: and passing through he preached in all the cities, till he came to Caesarea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-40",
+    "tags": "partial-15-of-40",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-40",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

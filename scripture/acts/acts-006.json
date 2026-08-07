@@ -1,1 +1,270 @@
-{"book":"Acts","book_id":"acts","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Hellenists/Hebrews complaint, seven appointed, Stephen, synagogue dispute, false witnesses."},"verses":[{"verse":1,"restored":"In these days, as the disciples were multiplying, a murmuring arose of the Hellenists against the Hebrews, because their widows were being overlooked in the daily service."},{"verse":2,"restored":"The twelve called the multitude of the disciples and said, It is not pleasing for us to leave the word of the Divine to serve tables."},{"verse":3,"restored":"Therefore, siblings, look for seven men from among you, witnessed as full of Spirit and wisdom, whom we will appoint over this need."},{"verse":4,"restored":"But we will persevere in prayer and in the service of the word."},{"verse":5,"restored":"The word pleased the whole multitude, and they chose Stephen, a man full of trust and holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte from Antioch."},{"verse":6,"restored":"These they set before the apostles, and praying, they laid hands on them."},{"verse":7,"restored":"The word of the Divine kept growing, and the number of disciples in Jerusalem multiplied greatly; even a great crowd of the priests were obeying the trust."},{"verse":8,"restored":"Stephen, full of grace and power, was doing great wonders and signs among the people."},{"verse":9,"restored":"But some from the synagogue called Freedmen, and Cyrenians, Alexandrians, and those from Cilicia and Asia, rose and disputed with Stephen."},{"verse":10,"restored":"They were not able to withstand the wisdom and the Spirit by which he was speaking."},{"verse":11,"restored":"Then they secretly stirred up men saying, We have heard him speaking blasphemous words against Moses and the Divine."},{"verse":12,"restored":"They stirred up the people, the elders, and the scribes; coming upon him, they seized him and brought him into the council."},{"verse":13,"restored":"They set up false witnesses saying, This human does not cease speaking words against this holy place and the Law."},{"verse":14,"restored":"For we have heard him say that this Jesus the Nazarene will tear down this place and change the customs Moses handed down to us."},{"verse":15,"restored":"Looking intently at him, all those sitting in the council saw his face like the face of a messenger."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Hellenists/Hebrews complaint, seven appointed, Stephen, synagogue dispute, false witnesses."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In these days, as the disciples were multiplying, a murmuring arose of the Hellenists against the Hebrews, because their widows were being overlooked in the daily service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in those days, when the number of the disciples was multiplied, there arose a murmuring of the Grecians against the Hebrews, because their widows were neglected in the daily ministration."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "The twelve called the multitude of the disciples and said, It is not pleasing for us to leave the word of the Divine to serve tables.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the twelve called the multitude of the disciples unto them, and said, It is not reason that we should leave the word of God, and serve tables."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Therefore, siblings, look for seven men from among you, witnessed as full of Spirit and wisdom, whom we will appoint over this need.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, brethren, look ye out among you seven men of honest report, full of the Holy Ghost and wisdom, whom we may appoint over this business."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But we will persevere in prayer and in the service of the word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we will give ourselves continually to prayer, and to the ministry of the word."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The word pleased the whole multitude, and they chose Stephen, a man full of trust and holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmenas, and Nicolaus, a proselyte from Antioch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the saying pleased the whole multitude: and they chose Stephen, a man full of faith and of the Holy Ghost, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolas a proselyte of Antioch:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "These they set before the apostles, and praying, they laid hands on them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whom they set before the apostles: and when they had prayed, they laid their hands on them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "The word of the Divine kept growing, and the number of disciples in Jerusalem multiplied greatly; even a great crowd of the priests were obeying the trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the word of God increased; and the number of the disciples multiplied in Jerusalem greatly; and a great company of the priests were obedient to the faith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Stephen, full of grace and power, was doing great wonders and signs among the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Stephen, full of faith and power, did great wonders and miracles among the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But some from the synagogue called Freedmen, and Cyrenians, Alexandrians, and those from Cilicia and Asia, rose and disputed with Stephen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there arose certain of the synagogue, which is called the synagogue of the Libertines, and Cyrenians, and Alexandrians, and of them of Cilicia and of Asia, disputing with Stephen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They were not able to withstand the wisdom and the Spirit by which he was speaking.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they were not able to resist the wisdom and the spirit by which he spake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Then they secretly stirred up men saying, We have heard him speaking blasphemous words against Moses and the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they suborned men, which said, We have heard him speak blasphemous words against Moses, and against God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They stirred up the people, the elders, and the scribes; coming upon him, they seized him and brought him into the council.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they stirred up the people, and the elders, and the scribes, and came upon him, and caught him, and brought him to the council,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They set up false witnesses saying, This human does not cease speaking words against this holy place and the Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And set up false witnesses, which said, This man ceaseth not to speak blasphemous words against this holy place, and the law:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For we have heard him say that this Jesus the Nazarene will tear down this place and change the customs Moses handed down to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we have heard him say, that this Jesus of Nazareth shall destroy this place, and shall change the customs which Moses delivered us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Looking intently at him, all those sitting in the council saw his face like the face of a messenger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all that sat in the council, looking stedfastly on him, saw his face as it had been the face of an angel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-15",
+    "tags": "partial-9-of-15",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-15",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

@@ -1,1 +1,511 @@
-{"book":"Romans","book_id":"romans","chapter":16,"audit_status":{"status":"source-audited-draft","source_base":"Greek Romans text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Phoebe, women leaders, Junia, house assemblies, warning, greetings, doxology. Preserve women's ministry visibility."},"verses":[{"verse":1,"restored":"I commend to you Phoebe our sister, who is also servant/deacon of the assembly in Cenchreae,"},{"verse":2,"restored":"so that you may receive her in the Lord worthily of the holy ones and stand by her in whatever matter she may need from you; for she also became a patron/protector of many, and of me myself."},{"verse":3,"restored":"Greet Prisca and Aquila, my coworkers in Messiah Jesus,"},{"verse":4,"restored":"who for my life/soul risked their own necks, to whom not only I give thanks but also all the assemblies of the nations."},{"verse":5,"restored":"Greet also the assembly in their house. Greet my beloved Epaenetus, who is firstfruit of Asia for Messiah."},{"verse":6,"restored":"Greet Mary, who labored much for you."},{"verse":7,"restored":"Greet Andronicus and Junia, my kin and fellow prisoners, who are notable among the apostles and were in Messiah before me."},{"verse":8,"restored":"Greet Ampliatus, my beloved in the Lord."},{"verse":9,"restored":"Greet Urbanus, our coworker in Messiah, and my beloved Stachys."},{"verse":10,"restored":"Greet Apelles, approved in Messiah. Greet those from the household of Aristobulus."},{"verse":11,"restored":"Greet Herodion, my kin. Greet those from the household of Narcissus who are in the Lord."},{"verse":12,"restored":"Greet Tryphaena and Tryphosa, those laboring in the Lord. Greet beloved Persis, who labored much in the Lord."},{"verse":13,"restored":"Greet Rufus, chosen in the Lord, and his mother and mine."},{"verse":14,"restored":"Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the siblings with them."},{"verse":15,"restored":"Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the holy ones with them."},{"verse":16,"restored":"Greet one another with a holy kiss. All the assemblies of Messiah greet you."},{"verse":17,"restored":"I urge you, siblings, to watch those making divisions and stumbling blocks contrary to the teaching that you learned, and turn away from them."},{"verse":18,"restored":"For such ones do not serve our Lord Messiah but their own belly, and through smooth speech and blessing-talk deceive the hearts of the innocent."},{"verse":19,"restored":"For your obedience has reached all. Therefore I rejoice over you, but I want you wise toward the good and unmixed toward the harmful."},{"verse":20,"restored":"The Divine of peace will crush the Accuser under your feet swiftly. The grace of our Lord Jesus be with you."},{"verse":21,"restored":"Timothy, my coworker, greets you, and Lucius, Jason, and Sosipater, my kin."},{"verse":22,"restored":"I, Tertius, the one writing down the letter, greet you in the Lord."},{"verse":23,"restored":"Gaius, host of me and of the whole assembly, greets you. Erastus, the city treasurer, greets you, and Quartus the sibling."},{"verse":24,"restored":"[Some later manuscripts include: The grace of our Lord Jesus Messiah be with you all. Amen.]"},{"verse":25,"restored":"Now to the One able to strengthen you according to my good news and the proclamation of Jesus Messiah, according to revelation of mystery kept silent for age-long times,"},{"verse":26,"restored":"but now manifested, and through prophetic Scriptures according to command of the age-long Divine, made known to all nations for obedience of trust,"},{"verse":27,"restored":"to the only wise Divine, through Jesus Messiah, be glory into the ages. Amen."}],"translation_notes":["Phoebe is rendered servant/deacon and patron/protector to preserve her official/ministry and benefactor roles.","Junia is preserved as a woman notable among the apostles, following the straightforward Greek name and early reception.","Romans 16 reveals a network of women and men coworkers, house assemblies, kin, prisoners, patrons, and scribes." ]}
+{
+  "book": "Romans",
+  "book_id": "romans",
+  "chapter": 16,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Romans text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Phoebe, women leaders, Junia, house assemblies, warning, greetings, doxology. Preserve women's ministry visibility."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "I commend to you Phoebe our sister, who is also servant/deacon of the assembly in Cenchreae,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I commend unto you Phebe our sister, which is a servant of the church which is at Cenchrea:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "so that you may receive her in the Lord worthily of the holy ones and stand by her in whatever matter she may need from you; for she also became a patron/protector of many, and of me myself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Greet Prisca and Aquila, my coworkers in Messiah Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Greet Priscilla and Aquila my helpers in Christ Jesus:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "who for my life/soul risked their own necks, to whom not only I give thanks but also all the assemblies of the nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Greet also the assembly in their house. Greet my beloved Epaenetus, who is firstfruit of Asia for Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise greet the church that is in their house. Salute my well-beloved Epaenetus, who is the firstfruits of Achaia unto Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Greet Mary, who labored much for you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Greet Mary, who bestowed much labour on us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Greet Andronicus and Junia, my kin and fellow prisoners, who are notable among the apostles and were in Messiah before me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Andronicus and Junia, my kinsmen, and my fellow-prisoners, who are of note among the apostles, who also were in Christ before me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Greet Ampliatus, my beloved in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Greet Amplias my beloved in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Greet Urbanus, our coworker in Messiah, and my beloved Stachys.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Urbane, our helper in Christ, and Stachys my beloved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Greet Apelles, approved in Messiah. Greet those from the household of Aristobulus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Apelles approved in Christ. Salute them which are of Aristobulus’ household."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Greet Herodion, my kin. Greet those from the household of Narcissus who are in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Herodion my kinsman. Greet them that be of the household of Narcissus, which are in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Greet Tryphaena and Tryphosa, those laboring in the Lord. Greet beloved Persis, who labored much in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Tryphena and Tryphosa, who labour in the Lord. Salute the beloved Persis, which laboured much in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Greet Rufus, chosen in the Lord, and his mother and mine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Rufus chosen in the Lord, and his mother and mine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the siblings with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Asyncritus, Phlegon, Hermas, Patrobas, Hermes, and the brethren which are with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the holy ones with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Philologus, and Julia, Nereus, and his sister, and Olympas, and all the saints which are with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Greet one another with a holy kiss. All the assemblies of Messiah greet you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute one another with an holy kiss. The churches of Christ salute you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "I urge you, siblings, to watch those making divisions and stumbling blocks contrary to the teaching that you learned, and turn away from them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For such ones do not serve our Lord Messiah but their own belly, and through smooth speech and blessing-talk deceive the hearts of the innocent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "For your obedience has reached all. Therefore I rejoice over you, but I want you wise toward the good and unmixed toward the harmful.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For your obedience is come abroad unto all men. I am glad therefore on your behalf: but yet I would have you wise unto that which is good, and simple concerning evil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The Divine of peace will crush the Accuser under your feet swiftly. The grace of our Lord Jesus be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Timothy, my coworker, greets you, and Lucius, Jason, and Sosipater, my kin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Timotheus my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "I, Tertius, the one writing down the letter, greet you in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I Tertius, who wrote this epistle, salute you in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Gaius, host of me and of the whole assembly, greets you. Erastus, the city treasurer, greets you, and Quartus the sibling.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "[Some later manuscripts include: The grace of our Lord Jesus Messiah be with you all. Amen.]",
+      "familiar": {
+        "source": "KJV",
+        "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Now to the One able to strengthen you according to my good news and the proclamation of Jesus Messiah, according to revelation of mystery kept silent for age-long times,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now to him that is of power to stablish you according to my gospel, and the preaching of Jesus Christ, according to the revelation of the mystery, which was kept secret since the world began,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "but now manifested, and through prophetic Scriptures according to command of the age-long Divine, made known to all nations for obedience of trust,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now is made manifest, and by the scriptures of the prophets, according to the commandment of the everlasting God, made known to all nations for the obedience of faith:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "to the only wise Divine, through Jesus Messiah, be glory into the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To God only wise, be glory through Jesus Christ for ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Phoebe is rendered servant/deacon and patron/protector to preserve her official/ministry and benefactor roles.",
+    "Junia is preserved as a woman notable among the apostles, following the straightforward Greek name and early reception.",
+    "Romans 16 reveals a network of women and men coworkers, house assemblies, kin, prisoners, patrons, and scribes."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-27",
+    "tags": "partial-5-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

@@ -1,1 +1,332 @@
-{"book":"2 Corinthians","book_id":"2-corinthians","chapter":10,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for meekness/gentleness of Messiah, spiritual warfare imagery, taking thoughts captive, limits of authority, boasting in Lord."},"verses":[{"verse":1,"restored":"Now I myself, Paul, appeal to you through the meekness and gentleness of Messiah, I who am humble among you face to face, but absent am bold toward you."},{"verse":2,"restored":"I ask that when present I may not have to be bold with the confidence with which I calculate to dare against some who calculate us as walking according to flesh."},{"verse":3,"restored":"For though walking in flesh, we do not wage war according to flesh."},{"verse":4,"restored":"For the weapons of our warfare are not fleshly, but powerful by the Divine for tearing down strongholds,"},{"verse":5,"restored":"tearing down arguments and every height lifted up against the knowledge of the Divine, and taking every thought captive into the obedience of Messiah,"},{"verse":6,"restored":"and being ready to correct every disobedience, when your obedience is fulfilled."},{"verse":7,"restored":"Look at what is before your face. If anyone is persuaded in oneself to be of Messiah, let one calculate this again for oneself: that just as one is of Messiah, so also are we."},{"verse":8,"restored":"For even if I boast somewhat more about our authority, which the Lord gave for building up and not for tearing you down, I will not be ashamed,"},{"verse":9,"restored":"so that I may not seem as if I would terrify you through letters."},{"verse":10,"restored":"For they say, His letters are weighty and strong, but his bodily presence is weak and his speech has been despised."},{"verse":11,"restored":"Let such a one calculate this: what we are in word through letters when absent, such also we are in work when present."},{"verse":12,"restored":"For we do not dare to classify or compare ourselves with some of those recommending themselves; but they, measuring themselves by themselves and comparing themselves with themselves, do not understand."},{"verse":13,"restored":"But we will not boast beyond measure, but according to the measure of the boundary that the Divine apportioned to us, a measure to reach even as far as you."},{"verse":14,"restored":"For we are not overextending ourselves as though not reaching to you; for we came even as far as you in the good news of Messiah."},{"verse":15,"restored":"Not boasting beyond measure in others' labors, but having hope that as your trust grows, we will be enlarged among you according to our boundary into abundance,"},{"verse":16,"restored":"to announce good news into the regions beyond you, not to boast in another's boundary in things already prepared."},{"verse":17,"restored":"But the one boasting, let that one boast in the Lord."},{"verse":18,"restored":"For not the one recommending oneself is approved, but the one whom the Lord recommends."}],"translation_notes":["Spiritual warfare imagery is aimed at arguments, pride, and thought-patterns opposed to Divine knowledge, not at harming people.","Authority is explicitly for building up, not tearing down." ]}
+{
+  "book": "2 Corinthians",
+  "book_id": "2-corinthians",
+  "chapter": 10,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for meekness/gentleness of Messiah, spiritual warfare imagery, taking thoughts captive, limits of authority, boasting in Lord."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now I myself, Paul, appeal to you through the meekness and gentleness of Messiah, I who am humble among you face to face, but absent am bold toward you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I Paul myself beseech you by the meekness and gentleness of Christ, who in presence am base among you, but being absent am bold toward you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "I ask that when present I may not have to be bold with the confidence with which I calculate to dare against some who calculate us as walking according to flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I beseech you, that I may not be bold when I am present with that confidence, wherewith I think to be bold against some, which think of us as if we walked according to the flesh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For though walking in flesh, we do not wage war according to flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For though we walk in the flesh, we do not war after the flesh:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For the weapons of our warfare are not fleshly, but powerful by the Divine for tearing down strongholds,",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For the weapons of our warfare are not carnal, but mighty through God to the pulling down of strong holds;)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "tearing down arguments and every height lifted up against the knowledge of the Divine, and taking every thought captive into the obedience of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Casting down imaginations, and every high thing that exalteth itself against the knowledge of God, and bringing into captivity every thought to the obedience of Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "and being ready to correct every disobedience, when your obedience is fulfilled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And having in a readiness to revenge all disobedience, when your obedience is fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Look at what is before your face. If anyone is persuaded in oneself to be of Messiah, let one calculate this again for oneself: that just as one is of Messiah, so also are we.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye look on things after the outward appearance? If any man trust to himself that he is Christ’s, let him of himself think this again, that, as he is Christ’s, even so are we Christ’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For even if I boast somewhat more about our authority, which the Lord gave for building up and not for tearing you down, I will not be ashamed,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For though I should boast somewhat more of our authority, which the Lord hath given us for edification, and not for your destruction, I should not be ashamed:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "so that I may not seem as if I would terrify you through letters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I may not seem as if I would terrify you by letters."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For they say, His letters are weighty and strong, but his bodily presence is weak and his speech has been despised.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For his letters, say they, are weighty and powerful; but his bodily presence is weak, and his speech contemptible."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Let such a one calculate this: what we are in word through letters when absent, such also we are in work when present.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let such an one think this, that, such as we are in word by letters when we are absent, such will we be also in deed when we are present."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "For we do not dare to classify or compare ourselves with some of those recommending themselves; but they, measuring themselves by themselves and comparing themselves with themselves, do not understand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we dare not make ourselves of the number, or compare ourselves with some that commend themselves: but they measuring themselves by themselves, and comparing themselves among themselves, are not wise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But we will not boast beyond measure, but according to the measure of the boundary that the Divine apportioned to us, a measure to reach even as far as you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we will not boast of things without our measure, but according to the measure of the rule which God hath distributed to us, a measure to reach even unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For we are not overextending ourselves as though not reaching to you; for we came even as far as you in the good news of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we stretch not ourselves beyond our measure, as though we reached not unto you: for we are come as far as to you also in preaching the gospel of Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Not boasting beyond measure in others' labors, but having hope that as your trust grows, we will be enlarged among you according to our boundary into abundance,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not boasting of things without our measure, that is, of other men’s labours; but having hope, when your faith is increased, that we shall be enlarged by you according to our rule abundantly,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "to announce good news into the regions beyond you, not to boast in another's boundary in things already prepared.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To preach the gospel in the regions beyond you, and not to boast in another man’s line of things made ready to our hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But the one boasting, let that one boast in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that glorieth, let him glory in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For not the one recommending oneself is approved, but the one whom the Lord recommends.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For not he that commendeth himself is approved, but whom the Lord commendeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Spiritual warfare imagery is aimed at arguments, pride, and thought-patterns opposed to Divine knowledge, not at harming people.",
+    "Authority is explicitly for building up, not tearing down."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-18",
+    "tags": "partial-2-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

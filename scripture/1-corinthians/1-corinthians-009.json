@@ -1,1 +1,478 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":9,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for apostolic rights, voluntary self-limitation, becoming all things, race/discipline imagery."},"verses":[{"verse":1,"restored":"Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?"},{"verse":2,"restored":"If to others I am not an apostle, at least I am to you, for you are the seal of my apostleship in the Lord."},{"verse":3,"restored":"My defense to those examining me is this:"},{"verse":4,"restored":"Do we not have authority to eat and drink?"},{"verse":5,"restored":"Do we not have authority to take along a believing wife/sister, as also the rest of the apostles and the brothers of the Lord and Cephas?"},{"verse":6,"restored":"Or only I and Barnabas, do we not have authority to refrain from working?"},{"verse":7,"restored":"Who serves as soldier at one's own expense? Who plants a vineyard and does not eat its fruit? Or who shepherds a flock and does not eat from the milk of the flock?"},{"verse":8,"restored":"Do I speak these things according to human reasoning? Or does not the Law also say these things?"},{"verse":9,"restored":"For in the Law of Moses it is written: You shall not muzzle an ox treading grain. Is the Divine concerned for oxen only?"},{"verse":10,"restored":"Or does he speak entirely because of us? Because of us it was written, that the one plowing ought to plow in hope, and the one threshing in hope of sharing."},{"verse":11,"restored":"If we sowed spiritual things among you, is it a great thing if we harvest your material things?"},{"verse":12,"restored":"If others share this authority over you, do we not more? But we did not use this authority; rather, we endure all things so that we may give no hindrance to the good news of Messiah."},{"verse":13,"restored":"Do you not know that those working the sacred things eat from the temple, and those attending the altar share with the altar?"},{"verse":14,"restored":"So also the Lord directed those announcing the good news to live from the good news."},{"verse":15,"restored":"But I have used none of these things. I do not write these things so that it may be done thus in me; for it would be beautiful/good for me rather to die than that anyone empty my boast."},{"verse":16,"restored":"For if I announce good news, there is no boast for me; necessity lies upon me, for woe is me if I do not announce good news."},{"verse":17,"restored":"For if I do this willingly, I have a wage; but if unwillingly, I have been entrusted with a stewardship."},{"verse":18,"restored":"What then is my wage? That announcing good news, I may make the good news without charge, so as not to use fully my authority in the good news."},{"verse":19,"restored":"For being free from all, I enslaved myself to all, so that I might gain the more."},{"verse":20,"restored":"To Judeans I became as Judean, so that I might gain Judeans; to those under Law as under Law, though not myself being under Law, so that I might gain those under Law."},{"verse":21,"restored":"To those without Law as without Law, not being without Divine law but within Messiah's law, so that I might gain those without Law."},{"verse":22,"restored":"To the weak I became weak, so that I might gain the weak. To all I have become all things, so that by all means I might save/heal some."},{"verse":23,"restored":"I do all things because of the good news, so that I may become a sharer with it."},{"verse":24,"restored":"Do you not know that those running in a stadium all run, but one receives the prize? Run in such a way that you may take hold."},{"verse":25,"restored":"Everyone competing exercises self-control in all things; they do it to receive a perishable crown, but we an imperishable."},{"verse":26,"restored":"Therefore I run this way, not uncertainly; I box this way, not beating air."},{"verse":27,"restored":"But I discipline my body and make it a servant, lest somehow, after proclaiming to others, I myself should become disapproved."}],"translation_notes":["Paul's freedom is expressed through voluntary self-limitation for the good news, not through domination.","Athletic imagery is discipline for service, not body-hatred."]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for apostolic rights, voluntary self-limitation, becoming all things, race/discipline imagery."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "If to others I am not an apostle, at least I am to you, for you are the seal of my apostleship in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "My defense to those examining me is this:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Mine answer to them that do examine me is this,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Do we not have authority to eat and drink?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have we not power to eat and to drink?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Do we not have authority to take along a believing wife/sister, as also the rest of the apostles and the brothers of the Lord and Cephas?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Or only I and Barnabas, do we not have authority to refrain from working?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Or I only and Barnabas, have not we power to forbear working?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Who serves as soldier at one's own expense? Who plants a vineyard and does not eat its fruit? Or who shepherds a flock and does not eat from the milk of the flock?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who goeth a warfare any time at his own charges? who planteth a vineyard, and eateth not of the fruit thereof? or who feedeth a flock, and eateth not of the milk of the flock?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Do I speak these things according to human reasoning? Or does not the Law also say these things?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Say I these things as a man? or saith not the law the same also?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For in the Law of Moses it is written: You shall not muzzle an ox treading grain. Is the Divine concerned for oxen only?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is written in the law of Moses, Thou shalt not muzzle the mouth of the ox that treadeth out the corn. Doth God take care for oxen?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Or does he speak entirely because of us? Because of us it was written, that the one plowing ought to plow in hope, and the one threshing in hope of sharing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "If we sowed spiritual things among you, is it a great thing if we harvest your material things?",
+      "familiar": {
+        "source": "KJV",
+        "text": "If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "If others share this authority over you, do we not more? But we did not use this authority; rather, we endure all things so that we may give no hindrance to the good news of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Do you not know that those working the sacred things eat from the temple, and those attending the altar share with the altar?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "So also the Lord directed those announcing the good news to live from the good news.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so hath the Lord ordained that they which preach the gospel should live of the gospel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But I have used none of these things. I do not write these things so that it may be done thus in me; for it would be beautiful/good for me rather to die than that anyone empty my boast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For if I announce good news, there is no boast for me; necessity lies upon me, for woe is me if I do not announce good news.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For if I do this willingly, I have a wage; but if unwillingly, I have been entrusted with a stewardship.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if I do this thing willingly, I have a reward: but if against my will, a dispensation of the gospel is committed unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "What then is my wage? That announcing good news, I may make the good news without charge, so as not to use fully my authority in the good news.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What is my reward then? Verily that, when I preach the gospel, I may make the gospel of Christ without charge, that I abuse not my power in the gospel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For being free from all, I enslaved myself to all, so that I might gain the more.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For though I be free from all men, yet have I made myself servant unto all, that I might gain the more."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "To Judeans I became as Judean, so that I might gain Judeans; to those under Law as under Law, though not myself being under Law, so that I might gain those under Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And unto the Jews I became as a Jew, that I might gain the Jews; to them that are under the law, as under the law, that I might gain them that are under the law;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "To those without Law as without Law, not being without Divine law but within Messiah's law, so that I might gain those without Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To them that are without law, as without law, (being not without law to God, but under the law to Christ,) that I might gain them that are without law."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "To the weak I became weak, so that I might gain the weak. To all I have become all things, so that by all means I might save/heal some.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To the weak became I as weak, that I might gain the weak: I am made all things to all men, that I might by all means save some."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "I do all things because of the good news, so that I may become a sharer with it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this I do for the gospel’s sake, that I might be partaker thereof with you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Do you not know that those running in a stadium all run, but one receives the prize? Run in such a way that you may take hold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Everyone competing exercises self-control in all things; they do it to receive a perishable crown, but we an imperishable.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Therefore I run this way, not uncertainly; I box this way, not beating air.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I therefore so run, not as uncertainly; so fight I, not as one that beateth the air:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "But I discipline my body and make it a servant, lest somehow, after proclaiming to others, I myself should become disapproved.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I keep under my body, and bring it into subjection: lest that by any means, when I have preached to others, I myself should be a castaway."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Paul's freedom is expressed through voluntary self-limitation for the good news, not through domination.",
+    "Athletic imagery is discipline for service, not body-hatred."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-27",
+    "tags": "partial-10-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

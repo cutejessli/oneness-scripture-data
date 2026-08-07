@@ -1,1 +1,543 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for spiritual gifts, one Spirit/many gifts, one body/many members, weaker members honored, gifts ranked toward love in chapter 13."},"verses":[{"verse":1,"restored":"Now concerning spiritual things/gifts, siblings, I do not want you to be unaware."},{"verse":2,"restored":"You know that when you were nations, you were being led away to voiceless idols, however you were led."},{"verse":3,"restored":"Therefore I make known to you that no one speaking in Spirit of the Divine says, Jesus is accursed; and no one is able to say, Jesus is Lord, except in holy Spirit."},{"verse":4,"restored":"There are varieties of grace-gifts, but the same Spirit;"},{"verse":5,"restored":"and there are varieties of services, but the same Lord;"},{"verse":6,"restored":"and there are varieties of workings, but the same Divine, the One working all things in all."},{"verse":7,"restored":"To each is given the manifestation of the Spirit toward what benefits."},{"verse":8,"restored":"For to one through the Spirit is given word of wisdom, and to another word of knowledge according to the same Spirit,"},{"verse":9,"restored":"to another trust in the same Spirit, to another grace-gifts of healings in the one Spirit,"},{"verse":10,"restored":"to another workings of powers, to another prophecy, to another discernings of spirits, to another kinds of tongues, to another interpretation of tongues."},{"verse":11,"restored":"But all these things the one and same Spirit works, distributing to each individually just as he wills."},{"verse":12,"restored":"For just as the body is one and has many members, and all the members of the body, being many, are one body, so also Messiah."},{"verse":13,"restored":"For in one Spirit we all were baptized into one body, whether Judeans or Greeks, whether enslaved or free, and all were given one Spirit to drink."},{"verse":14,"restored":"For the body also is not one member but many."},{"verse":15,"restored":"If the foot should say, Because I am not a hand, I am not from the body, not because of this is it not from the body."},{"verse":16,"restored":"And if the ear should say, Because I am not an eye, I am not from the body, not because of this is it not from the body."},{"verse":17,"restored":"If the whole body were eye, where would hearing be? If the whole were hearing, where would smell be?"},{"verse":18,"restored":"But now the Divine placed the members, each one of them, in the body just as he willed."},{"verse":19,"restored":"If all were one member, where would the body be?"},{"verse":20,"restored":"But now many members, yet one body."},{"verse":21,"restored":"The eye is not able to say to the hand, I have no need of you; or again the head to the feet, I have no need of you."},{"verse":22,"restored":"But much more, the members of the body that seem to be weaker are necessary,"},{"verse":23,"restored":"and those we think to be less honorable in the body, these we clothe with more abundant honor; and our unpresentable parts have more abundant presentability,"},{"verse":24,"restored":"but our presentable parts have no need. But the Divine blended the body together, giving more abundant honor to the one lacking,"},{"verse":25,"restored":"so that there may be no split in the body, but that the members may have the same care for one another."},{"verse":26,"restored":"And if one member suffers, all the members suffer together; if one member is glorified, all the members rejoice together."},{"verse":27,"restored":"Now you are body of Messiah and members from a part."},{"verse":28,"restored":"And the Divine placed some in the assembly: first apostles, second prophets, third teachers, then powers, then grace-gifts of healings, helps, guidances, kinds of tongues."},{"verse":29,"restored":"Are all apostles? Are all prophets? Are all teachers? Are all powers?"},{"verse":30,"restored":"Do all have grace-gifts of healings? Do all speak in tongues? Do all interpret?"},{"verse":31,"restored":"But desire the greater grace-gifts. And still I show you a way beyond measure."}],"translation_notes":["Pneumatika in verse 1 may mean spiritual things or spiritual gifts; restored wording keeps both.","The body section is anti-hierarchy medicine: weaker-seeming members are necessary and receive more abundant honor."]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for spiritual gifts, one Spirit/many gifts, one body/many members, weaker members honored, gifts ranked toward love in chapter 13."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now concerning spiritual things/gifts, siblings, I do not want you to be unaware.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now concerning spiritual gifts, brethren, I would not have you ignorant."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "You know that when you were nations, you were being led away to voiceless idols, however you were led.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Therefore I make known to you that no one speaking in Spirit of the Divine says, Jesus is accursed; and no one is able to say, Jesus is Lord, except in holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I give you to understand, that no man speaking by the Spirit of God calleth Jesus accursed: and that no man can say that Jesus is the Lord, but by the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "There are varieties of grace-gifts, but the same Spirit;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now there are diversities of gifts, but the same Spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "and there are varieties of services, but the same Lord;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are differences of administrations, but the same Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "and there are varieties of workings, but the same Divine, the One working all things in all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are diversities of operations, but it is the same God which worketh all in all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "To each is given the manifestation of the Spirit toward what benefits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the manifestation of the Spirit is given to every man to profit withal."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "For to one through the Spirit is given word of wisdom, and to another word of knowledge according to the same Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "to another trust in the same Spirit, to another grace-gifts of healings in the one Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "To another faith by the same Spirit; to another the gifts of healing by the same Spirit;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "to another workings of powers, to another prophecy, to another discernings of spirits, to another kinds of tongues, to another interpretation of tongues.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To another the working of miracles; to another prophecy; to another discerning of spirits; to another divers kinds of tongues; to another the interpretation of tongues:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But all these things the one and same Spirit works, distributing to each individually just as he wills.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But all these worketh that one and the selfsame Spirit, dividing to every man severally as he will."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "For just as the body is one and has many members, and all the members of the body, being many, are one body, so also Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the body is one, and hath many members, and all the members of that one body, being many, are one body: so also is Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "For in one Spirit we all were baptized into one body, whether Judeans or Greeks, whether enslaved or free, and all were given one Spirit to drink.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "spirit"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "For the body also is not one member but many.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the body is not one member, but many."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "If the foot should say, Because I am not a hand, I am not from the body, not because of this is it not from the body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If the foot shall say, Because I am not the hand, I am not of the body; is it therefore not of the body?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And if the ear should say, Because I am not an eye, I am not from the body, not because of this is it not from the body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the ear shall say, Because I am not the eye, I am not of the body; is it therefore not of the body?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "If the whole body were eye, where would hearing be? If the whole were hearing, where would smell be?",
+      "familiar": {
+        "source": "KJV",
+        "text": "If the whole body were an eye, where were the hearing? If the whole were hearing, where were the smelling?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But now the Divine placed the members, each one of them, in the body just as he willed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now hath God set the members every one of them in the body, as it hath pleased him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "If all were one member, where would the body be?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if they were all one member, where were the body?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But now many members, yet one body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now are they many members, yet but one body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The eye is not able to say to the hand, I have no need of you; or again the head to the feet, I have no need of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the eye cannot say unto the hand, I have no need of thee: nor again the head to the feet, I have no need of you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But much more, the members of the body that seem to be weaker are necessary,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nay, much more those members of the body, which seem to be more feeble, are necessary:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "and those we think to be less honorable in the body, these we clothe with more abundant honor; and our unpresentable parts have more abundant presentability,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "but our presentable parts have no need. But the Divine blended the body together, giving more abundant honor to the one lacking,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "so that there may be no split in the body, but that the members may have the same care for one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That there should be no schism in the body; but that the members should have the same care one for another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "And if one member suffers, all the members suffer together; if one member is glorified, all the members rejoice together.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Now you are body of Messiah and members from a part.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now ye are the body of Christ, and members in particular."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "And the Divine placed some in the assembly: first apostles, second prophets, third teachers, then powers, then grace-gifts of healings, helps, guidances, kinds of tongues.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God hath set some in the church, first apostles, secondarily prophets, thirdly teachers, after that miracles, then gifts of healings, helps, governments, diversities of tongues."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Are all apostles? Are all prophets? Are all teachers? Are all powers?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Are all apostles? are all prophets? are all teachers? are all workers of miracles?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Do all have grace-gifts of healings? Do all speak in tongues? Do all interpret?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have all the gifts of healing? do all speak with tongues? do all interpret?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "But desire the greater grace-gifts. And still I show you a way beyond measure.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But covet earnestly the best gifts: and yet shew I unto you a more excellent way."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Pneumatika in verse 1 may mean spiritual things or spiritual gifts; restored wording keeps both.",
+    "The body section is anti-hierarchy medicine: weaker-seeming members are necessary and receive more abundant honor."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-31",
+    "tags": "partial-10-of-31",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-31",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

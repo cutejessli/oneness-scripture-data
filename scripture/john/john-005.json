@@ -1,55 +1,828 @@
 {
-  "book":"John",
-  "book_id":"john",
-  "chapter":5,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for pool healing, Sabbath controversy, Father/Son work, life/judgment, witnesses, Scripture/Moses testimony."},
-  "verses":[
-    {"verse":1,"restored":"After these things there was a feast of the Judeans, and Jesus went up to Jerusalem.","tags":["feast","jerusalem"]},
-    {"verse":2,"restored":"In Jerusalem by the Sheep Gate there is a pool called in Hebrew Bethesda, having five porticoes.","tags":["jerusalem","bethesda","pool"]},
-    {"verse":3,"restored":"In these lay a multitude of those who were weak, blind, lame, and withered.","tags":["weak","blind","lame"]},
-    {"verse":4,"restored":"[Some later manuscripts add an angel/messenger stirring the water and a healing tradition about entering first.]","tags":["textual-variant","pool"]},
-    {"verse":5,"restored":"A certain human was there who had been in weakness thirty-eight years.","tags":["weakness","thirty-eight"]},
-    {"verse":6,"restored":"Jesus, seeing this one lying there and knowing that he had already been so a long time, says to him, Do you want to become whole?","tags":["seeing","knowing","whole"]},
-    {"verse":7,"restored":"The weakened one answered him, Lord, I have no human to put me into the pool when the water is stirred; while I am coming, another goes down before me.","tags":["pool","no-helper"]},
-    {"verse":8,"restored":"Jesus says to him, Rise, take up your mat, and walk.","tags":["rise","walk"]},
-    {"verse":9,"restored":"Immediately the human became whole, took up his mat, and walked. Now that day was Sabbath.","tags":["immediately","whole","sabbath"]},
-    {"verse":10,"restored":"Therefore the Judeans were saying to the one healed, It is Sabbath, and it is not lawful for you to carry the mat.","tags":["sabbath","law"]},
-    {"verse":11,"restored":"He answered them, The one who made me whole, that one said to me, Take up your mat and walk.","tags":["whole","walk"]},
-    {"verse":12,"restored":"They asked him, Who is the human who said to you, Take up and walk?","tags":["question"]},
-    {"verse":13,"restored":"The one healed did not know who it was, for Jesus had withdrawn, a crowd being in the place.","tags":["healed","unknown","crowd"]},
-    {"verse":14,"restored":"After these things Jesus finds him in the temple and said to him, Look, you have become whole; do not continue in misalignment, so that something worse may not happen to you.","tags":["temple","whole","warning"]},
-    {"verse":15,"restored":"The human went away and reported to the Judeans that Jesus was the one who made him whole.","tags":["report","whole"]},
-    {"verse":16,"restored":"Because of this the Judeans were pursuing Jesus, because he was doing these things on Sabbath.","tags":["sabbath","opposition"]},
-    {"verse":17,"restored":"But Jesus answered them, My Father is working until now, and I am working.","tags":["father","work","sabbath"]},
-    {"verse":18,"restored":"Because of this therefore the Judeans were seeking even more to kill him, because not only was he loosening the Sabbath, but he was also calling the Divine his own Father, making himself equal with the Divine.","tags":["father","sabbath","opposition"]},
-    {"verse":19,"restored":"Jesus answered and said to them, Amen, amen, I say to you: the Son is not able to do anything from himself except what he sees the Father doing; for whatever that One does, these things the Son likewise does.","tags":["amen-amen","son","father","seeing"]},
-    {"verse":20,"restored":"For the Father loves the Son and shows him all things that he himself does; and greater works than these he will show him, so that you may marvel.","tags":["father","son","love","works"]},
-    {"verse":21,"restored":"For just as the Father raises the dead and makes alive, so also the Son makes alive whom he wills.","tags":["life","raising","son"]},
-    {"verse":22,"restored":"For the Father judges no one, but has given all judgment to the Son,","tags":["judgment","son"]},
-    {"verse":23,"restored":"so that all may honor the Son just as they honor the Father. The one not honoring the Son does not honor the Father who sent him.","tags":["honor","father","son"]},
-    {"verse":24,"restored":"Amen, amen, I say to you: the one hearing my word and trusting the One who sent me has age-long life and does not come into judgment, but has crossed over from death into life.","tags":["hearing","trust","life","judgment"]},
-    {"verse":25,"restored":"Amen, amen, I say to you: an hour is coming and now is, when the dead will hear the voice of the Son of the Divine, and those hearing will live.","tags":["hour","voice","life"]},
-    {"verse":26,"restored":"For just as the Father has life in himself, so he gave also to the Son to have life in himself.","tags":["father","son","life"]},
-    {"verse":27,"restored":"And he gave him authority to make judgment, because he is Son of Humanity.","tags":["authority","judgment","son-of-humanity"]},
-    {"verse":28,"restored":"Do not marvel at this, because an hour is coming in which all those in the tombs will hear his voice,","tags":["tombs","voice"]},
-    {"verse":29,"restored":"and will come out: those doing good into resurrection of life, but those practicing harmful things into resurrection of judgment.","tags":["resurrection","life","judgment"]},
-    {"verse":30,"restored":"I am not able to do anything from myself. As I hear, I judge; and my judgment is just, because I do not seek my own will but the will of the One who sent me.","tags":["will","sent","judgment"]},
-    {"verse":31,"restored":"If I bear witness concerning myself, my witness is not true/valid by itself.","tags":["witness"]},
-    {"verse":32,"restored":"There is another bearing witness concerning me, and I know that the witness he bears concerning me is true.","tags":["witness","truth"]},
-    {"verse":33,"restored":"You have sent to John, and he has borne witness to the truth.","tags":["john","witness","truth"]},
-    {"verse":34,"restored":"But I do not receive witness from a human; rather I say these things so that you may be saved/healed.","tags":["witness","sozo"]},
-    {"verse":35,"restored":"That one was the lamp burning and shining, and you were willing to rejoice for an hour in his light.","tags":["lamp","light","john"]},
-    {"verse":36,"restored":"But I have the witness greater than John: the works the Father has given me to complete, these works that I do bear witness concerning me that the Father has sent me.","tags":["works","father","sent"]},
-    {"verse":37,"restored":"The Father who sent me has himself borne witness concerning me. You have neither heard his voice at any time nor seen his form,","tags":["father","voice","form"]},
-    {"verse":38,"restored":"and you do not have his word remaining in you, because the one whom he sent, this one you do not trust.","tags":["word","remain","trust"]},
-    {"verse":39,"restored":"You search the Scriptures because you think in them to have age-long life; and those are the ones bearing witness concerning me.","tags":["scriptures","life","witness"]},
-    {"verse":40,"restored":"Yet you are not willing to come to me so that you may have life.","tags":["coming","life"]},
-    {"verse":41,"restored":"I do not receive glory from humans.","tags":["glory"]},
-    {"verse":42,"restored":"But I know you, that you do not have the love of the Divine in yourselves.","tags":["love","divine"]},
-    {"verse":43,"restored":"I have come in my Father's name, and you do not receive me; if another comes in his own name, that one you will receive.","tags":["name","father","receiving"]},
-    {"verse":44,"restored":"How are you able to trust, receiving glory from one another and not seeking the glory that is from the only Divine?","tags":["trust","glory"]},
-    {"verse":45,"restored":"Do not think that I will accuse you before the Father; the one accusing you is Moses, in whom you have hoped.","tags":["moses","accusation"]},
-    {"verse":46,"restored":"For if you trusted Moses, you would trust me, for that one wrote concerning me.","tags":["moses","trust"]},
-    {"verse":47,"restored":"But if you do not trust his writings, how will you trust my words?","tags":["writings","words","trust"]}
-  ]
+  "book": "John",
+  "book_id": "john",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for pool healing, Sabbath controversy, Father/Son work, life/judgment, witnesses, Scripture/Moses testimony."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these things there was a feast of the Judeans, and Jesus went up to Jerusalem.",
+      "tags": [
+        "feast",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After this there was a feast of the Jews; and Jesus went up to Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "In Jerusalem by the Sheep Gate there is a pool called in Hebrew Bethesda, having five porticoes.",
+      "tags": [
+        "jerusalem",
+        "bethesda",
+        "pool"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "In these lay a multitude of those who were weak, blind, lame, and withered.",
+      "tags": [
+        "weak",
+        "blind",
+        "lame",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "[Some later manuscripts add an angel/messenger stirring the water and a healing tradition about entering first.]",
+      "tags": [
+        "textual-variant",
+        "pool",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "A certain human was there who had been in weakness thirty-eight years.",
+      "tags": [
+        "weakness",
+        "thirty-eight"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a certain man was there, which had an infirmity thirty and eight years."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Jesus, seeing this one lying there and knowing that he had already been so a long time, says to him, Do you want to become whole?",
+      "tags": [
+        "seeing",
+        "knowing",
+        "whole"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "The weakened one answered him, Lord, I have no human to put me into the pool when the water is stirred; while I am coming, another goes down before me.",
+      "tags": [
+        "pool",
+        "no-helper"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Jesus says to him, Rise, take up your mat, and walk.",
+      "tags": [
+        "rise",
+        "walk"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto him, Rise, take up thy bed, and walk."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Immediately the human became whole, took up his mat, and walked. Now that day was Sabbath.",
+      "tags": [
+        "immediately",
+        "whole",
+        "sabbath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Therefore the Judeans were saying to the one healed, It is Sabbath, and it is not lawful for you to carry the mat.",
+      "tags": [
+        "sabbath",
+        "law",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry thy bed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "He answered them, The one who made me whole, that one said to me, Take up your mat and walk.",
+      "tags": [
+        "whole",
+        "walk"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He answered them, He that made me whole, the same said unto me, Take up thy bed, and walk."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They asked him, Who is the human who said to you, Take up and walk?",
+      "tags": [
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then asked they him, What man is that which said unto thee, Take up thy bed, and walk?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The one healed did not know who it was, for Jesus had withdrawn, a crowd being in the place.",
+      "tags": [
+        "healed",
+        "unknown",
+        "crowd",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that was healed wist not who it was: for Jesus had conveyed himself away, a multitude being in that place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "After these things Jesus finds him in the temple and said to him, Look, you have become whole; do not continue in misalignment, so that something worse may not happen to you.",
+      "tags": [
+        "temple",
+        "whole",
+        "warning",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Afterward Jesus findeth him in the temple, and said unto him, Behold, thou art made whole: sin no more, lest a worse thing come unto thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "The human went away and reported to the Judeans that Jesus was the one who made him whole.",
+      "tags": [
+        "report",
+        "whole"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The man departed, and told the Jews that it was Jesus, which had made him whole."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Because of this the Judeans were pursuing Jesus, because he was doing these things on Sabbath.",
+      "tags": [
+        "sabbath",
+        "opposition"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But Jesus answered them, My Father is working until now, and I am working.",
+      "tags": [
+        "father",
+        "work",
+        "sabbath"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jesus answered them, My Father worketh hitherto, and I work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Because of this therefore the Judeans were seeking even more to kill him, because not only was he loosening the Sabbath, but he was also calling the Divine his own Father, making himself equal with the Divine.",
+      "tags": [
+        "father",
+        "sabbath",
+        "opposition",
+        "war-violence"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Jesus answered and said to them, Amen, amen, I say to you: the Son is not able to do anything from himself except what he sees the Father doing; for whatever that One does, these things the Son likewise does.",
+      "tags": [
+        "amen-amen",
+        "son",
+        "father",
+        "seeing",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Jesus and said unto them, Verily, verily, I say unto you, The Son can do nothing of himself, but what he seeth the Father do: for what things soever he doeth, these also doeth the Son likewise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For the Father loves the Son and shows him all things that he himself does; and greater works than these he will show him, so that you may marvel.",
+      "tags": [
+        "father",
+        "son",
+        "love",
+        "works",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Father loveth the Son, and sheweth him all things that himself doeth: and he will shew him greater works than these, that ye may marvel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For just as the Father raises the dead and makes alive, so also the Son makes alive whom he wills.",
+      "tags": [
+        "life",
+        "raising",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For the Father judges no one, but has given all judgment to the Son,",
+      "tags": [
+        "judgment",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Father judgeth no man, but hath committed all judgment unto the Son:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "so that all may honor the Son just as they honor the Father. The one not honoring the Son does not honor the Father who sent him.",
+      "tags": [
+        "honor",
+        "father",
+        "son",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "That all men should honour the Son, even as they honour the Father. He that honoureth not the Son honoureth not the Father which hath sent him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Amen, amen, I say to you: the one hearing my word and trusting the One who sent me has age-long life and does not come into judgment, but has crossed over from death into life.",
+      "tags": [
+        "hearing",
+        "trust",
+        "life",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily, verily, I say unto you, He that heareth my word, and believeth on him that sent me, hath everlasting life, and shall not come into condemnation; but is passed from death unto life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Amen, amen, I say to you: an hour is coming and now is, when the dead will hear the voice of the Son of the Divine, and those hearing will live.",
+      "tags": [
+        "hour",
+        "voice",
+        "life",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily, verily, I say unto you, The hour is coming, and now is, when the dead shall hear the voice of the Son of God: and they that hear shall live."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For just as the Father has life in himself, so he gave also to the Son to have life in himself.",
+      "tags": [
+        "father",
+        "son",
+        "life",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the Father hath life in himself; so hath he given to the Son to have life in himself;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And he gave him authority to make judgment, because he is Son of Humanity.",
+      "tags": [
+        "authority",
+        "judgment",
+        "son-of-humanity",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And hath given him authority to execute judgment also, because he is the Son of man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Do not marvel at this, because an hour is coming in which all those in the tombs will hear his voice,",
+      "tags": [
+        "tombs",
+        "voice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Marvel not at this: for the hour is coming, in the which all that are in the graves shall hear his voice,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "and will come out: those doing good into resurrection of life, but those practicing harmful things into resurrection of judgment.",
+      "tags": [
+        "resurrection",
+        "life",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And shall come forth; they that have done good, unto the resurrection of life; and they that have done evil, unto the resurrection of damnation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "I am not able to do anything from myself. As I hear, I judge; and my judgment is just, because I do not seek my own will but the will of the One who sent me.",
+      "tags": [
+        "will",
+        "sent",
+        "judgment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I can of mine own self do nothing: as I hear, I judge: and my judgment is just; because I seek not mine own will, but the will of the Father which hath sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "If I bear witness concerning myself, my witness is not true/valid by itself.",
+      "tags": [
+        "witness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If I bear witness of myself, my witness is not true."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "There is another bearing witness concerning me, and I know that the witness he bears concerning me is true.",
+      "tags": [
+        "witness",
+        "truth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There is another that beareth witness of me; and I know that the witness which he witnesseth of me is true."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "You have sent to John, and he has borne witness to the truth.",
+      "tags": [
+        "john",
+        "witness",
+        "truth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye sent unto John, and he bare witness unto the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "But I do not receive witness from a human; rather I say these things so that you may be saved/healed.",
+      "tags": [
+        "witness",
+        "sozo",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I receive not testimony from man: but these things I say, that ye might be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "That one was the lamp burning and shining, and you were willing to rejoice for an hour in his light.",
+      "tags": [
+        "lamp",
+        "light",
+        "john"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He was a burning and a shining light: and ye were willing for a season to rejoice in his light."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "But I have the witness greater than John: the works the Father has given me to complete, these works that I do bear witness concerning me that the Father has sent me.",
+      "tags": [
+        "works",
+        "father",
+        "sent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have greater witness than that of John: for the works which the Father hath given me to finish, the same works that I do, bear witness of me, that the Father hath sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "The Father who sent me has himself borne witness concerning me. You have neither heard his voice at any time nor seen his form,",
+      "tags": [
+        "father",
+        "voice",
+        "form"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Father himself, which hath sent me, hath borne witness of me. Ye have neither heard his voice at any time, nor seen his shape."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "and you do not have his word remaining in you, because the one whom he sent, this one you do not trust.",
+      "tags": [
+        "word",
+        "remain",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye have not his word abiding in you: for whom he hath sent, him ye believe not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "You search the Scriptures because you think in them to have age-long life; and those are the ones bearing witness concerning me.",
+      "tags": [
+        "scriptures",
+        "life",
+        "witness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Search the scriptures; for in them ye think ye have eternal life: and they are they which testify of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Yet you are not willing to come to me so that you may have life.",
+      "tags": [
+        "coming",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye will not come to me, that ye might have life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "I do not receive glory from humans.",
+      "tags": [
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I receive not honour from men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "But I know you, that you do not have the love of the Divine in yourselves.",
+      "tags": [
+        "love",
+        "divine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I know you, that ye have not the love of God in you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "I have come in my Father's name, and you do not receive me; if another comes in his own name, that one you will receive.",
+      "tags": [
+        "name",
+        "father",
+        "receiving"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am come in my Father’s name, and ye receive me not: if another shall come in his own name, him ye will receive."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "How are you able to trust, receiving glory from one another and not seeking the glory that is from the only Divine?",
+      "tags": [
+        "trust",
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "How can ye believe, which receive honour one of another, and seek not the honour that cometh from God only?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "Do not think that I will accuse you before the Father; the one accusing you is Moses, in whom you have hoped.",
+      "tags": [
+        "moses",
+        "accusation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Do not think that I will accuse you to the Father: there is one that accuseth you, even Moses, in whom ye trust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "For if you trusted Moses, you would trust me, for that one wrote concerning me.",
+      "tags": [
+        "moses",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For had ye believed Moses, ye would have believed me: for he wrote of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "But if you do not trust his writings, how will you trust my words?",
+      "tags": [
+        "writings",
+        "words",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye believe not his writings, how shall ye believe my words?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-47",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
 }

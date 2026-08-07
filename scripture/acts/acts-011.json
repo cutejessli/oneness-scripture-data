@@ -1,1 +1,503 @@
-{"book":"Acts","book_id":"acts","chapter":11,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Peter's Jerusalem explanation, no distinction, Gentile turning to life, Antioch community, Barnabas/Saul, Christian naming, Agabus famine relief."},"verses":[{"verse":1,"restored":"The apostles and the siblings throughout Judea heard that the nations also received the word of the Divine."},{"verse":2,"restored":"When Peter went up to Jerusalem, those from circumcision were disputing with him,"},{"verse":3,"restored":"saying, You went in to men having uncircumcision and ate with them."},{"verse":4,"restored":"Peter began and explained to them in order, saying,"},{"verse":5,"restored":"I was in the city of Joppa praying, and in a trance I saw a vision: a certain vessel descending like a great linen sheet, being lowered from heaven by four corners, and it came to me."},{"verse":6,"restored":"Looking intently into it, I observed and saw the four-footed creatures of the earth, wild beasts, reptiles, and birds of heaven."},{"verse":7,"restored":"I also heard a voice saying to me, Rise, Peter; slaughter and eat."},{"verse":8,"restored":"But I said, By no means, Lord, because common or unclean has never entered into my mouth."},{"verse":9,"restored":"A voice answered a second time from heaven, What the Divine cleansed, you must not make common."},{"verse":10,"restored":"This happened three times, and all was drawn up again into heaven."},{"verse":11,"restored":"Look, immediately three men stood at the house in which we were, having been sent to me from Caesarea."},{"verse":12,"restored":"The Spirit told me to go with them, making no distinction. These six siblings also came with me, and we entered into the man's house."},{"verse":13,"restored":"He reported to us how he saw the messenger standing in his house and saying, Send to Joppa and summon Simon called Peter,"},{"verse":14,"restored":"who will speak words to you by which you will be saved/healed, you and all your house."},{"verse":15,"restored":"As I began to speak, the holy Spirit fell upon them just as also upon us at the beginning."},{"verse":16,"restored":"I remembered the word of the Lord, how he said, John baptized in water, but you will be baptized in holy Spirit."},{"verse":17,"restored":"If therefore the Divine gave them the equal gift as also to us when we trusted upon the Lord Jesus Messiah, who was I to be able to hinder the Divine?"},{"verse":18,"restored":"Hearing these things, they became quiet and glorified the Divine, saying, Then to the nations also the Divine has given turning/realignment into life."},{"verse":19,"restored":"Now those scattered from the pressure that happened over Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except Judeans only."},{"verse":20,"restored":"But there were some of them, men of Cyprus and Cyrene, who came to Antioch and were speaking also to the Greeks, announcing the good news of the Lord Jesus."},{"verse":21,"restored":"The hand of the Lord was with them, and a great number, trusting, turned to the Lord."},{"verse":22,"restored":"The word about them was heard in the ears of the assembly in Jerusalem, and they sent out Barnabas as far as Antioch."},{"verse":23,"restored":"When he came and saw the grace of the Divine, he rejoiced and encouraged all to remain with the Lord with purpose of heart."},{"verse":24,"restored":"For he was a good man and full of holy Spirit and trust; and a considerable crowd was added to the Lord."},{"verse":25,"restored":"He went out to Tarsus to seek Saul."},{"verse":26,"restored":"Finding him, he brought him to Antioch. It happened that for a whole year they were gathered in the assembly and taught a considerable crowd, and in Antioch the disciples were first called Christians."},{"verse":27,"restored":"In these days prophets came down from Jerusalem to Antioch."},{"verse":28,"restored":"One from them named Agabus stood up and signified through the Spirit that a great famine was about to be over the whole inhabited world, which happened under Claudius."},{"verse":29,"restored":"According as any of the disciples had means, each determined to send service to the siblings dwelling in Judea."},{"verse":30,"restored":"They did this, sending it to the elders by the hand of Barnabas and Saul."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Peter's Jerusalem explanation, no distinction, Gentile turning to life, Antioch community, Barnabas/Saul, Christian naming, Agabus famine relief."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The apostles and the siblings throughout Judea heard that the nations also received the word of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the apostles and brethren that were in Judaea heard that the Gentiles had also received the word of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "When Peter went up to Jerusalem, those from circumcision were disputing with him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Peter was come up to Jerusalem, they that were of the circumcision contended with him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "saying, You went in to men having uncircumcision and ate with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Thou wentest in to men uncircumcised, and didst eat with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Peter began and explained to them in order, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Peter rehearsed the matter from the beginning, and expounded it by order unto them, saying,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "I was in the city of Joppa praying, and in a trance I saw a vision: a certain vessel descending like a great linen sheet, being lowered from heaven by four corners, and it came to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I was in the city of Joppa praying: and in a trance I saw a vision, A certain vessel descend, as it had been a great sheet, let down from heaven by four corners; and it came even to me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Looking intently into it, I observed and saw the four-footed creatures of the earth, wild beasts, reptiles, and birds of heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Upon the which when I had fastened mine eyes, I considered, and saw fourfooted beasts of the earth, and wild beasts, and creeping things, and fowls of the air."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I also heard a voice saying to me, Rise, Peter; slaughter and eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I heard a voice saying unto me, Arise, Peter; slay and eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But I said, By no means, Lord, because common or unclean has never entered into my mouth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I said, Not so, Lord: for nothing common or unclean hath at any time entered into my mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "A voice answered a second time from heaven, What the Divine cleansed, you must not make common.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the voice answered me again from heaven, What God hath cleansed, that call not thou common."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "This happened three times, and all was drawn up again into heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this was done three times: and all were drawn up again into heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Look, immediately three men stood at the house in which we were, having been sent to me from Caesarea.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, immediately there were three men already come unto the house where I was, sent from Caesarea unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The Spirit told me to go with them, making no distinction. These six siblings also came with me, and we entered into the man's house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Spirit bade me go with them, nothing doubting. Moreover these six brethren accompanied me, and we entered into the man’s house:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He reported to us how he saw the messenger standing in his house and saying, Send to Joppa and summon Simon called Peter,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shewed us how he had seen an angel in his house, which stood and said unto him, Send men to Joppa, and call for Simon, whose surname is Peter;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "who will speak words to you by which you will be saved/healed, you and all your house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall tell thee words, whereby thou and all thy house shall be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "As I began to speak, the holy Spirit fell upon them just as also upon us at the beginning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as I began to speak, the Holy Ghost fell on them, as on us at the beginning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "I remembered the word of the Lord, how he said, John baptized in water, but you will be baptized in holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then remembered I the word of the Lord, how that he said, John indeed baptized with water; but ye shall be baptized with the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "If therefore the Divine gave them the equal gift as also to us when we trusted upon the Lord Jesus Messiah, who was I to be able to hinder the Divine?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch then as God gave them the like gift as he did unto us, who believed on the Lord Jesus Christ; what was I, that I could withstand God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Hearing these things, they became quiet and glorified the Divine, saying, Then to the nations also the Divine has given turning/realignment into life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When they heard these things, they held their peace, and glorified God, saying, Then hath God also to the Gentiles granted repentance unto life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Now those scattered from the pressure that happened over Stephen traveled as far as Phoenicia, Cyprus, and Antioch, speaking the word to no one except Judeans only.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now they which were scattered abroad upon the persecution that arose about Stephen travelled as far as Phenice, and Cyprus, and Antioch, preaching the word to none but unto the Jews only."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But there were some of them, men of Cyprus and Cyrene, who came to Antioch and were speaking also to the Greeks, announcing the good news of the Lord Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of them were men of Cyprus and Cyrene, which, when they were come to Antioch, spake unto the Grecians, preaching the LORD Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "The hand of the Lord was with them, and a great number, trusting, turned to the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the hand of the Lord was with them: and a great number believed, and turned unto the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The word about them was heard in the ears of the assembly in Jerusalem, and they sent out Barnabas as far as Antioch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then tidings of these things came unto the ears of the church which was in Jerusalem: and they sent forth Barnabas, that he should go as far as Antioch."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "When he came and saw the grace of the Divine, he rejoiced and encouraged all to remain with the Lord with purpose of heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who, when he came, and had seen the grace of God, was glad, and exhorted them all, that with purpose of heart they would cleave unto the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For he was a good man and full of holy Spirit and trust; and a considerable crowd was added to the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he was a good man, and full of the Holy Ghost and of faith: and much people was added unto the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He went out to Tarsus to seek Saul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then departed Barnabas to Tarsus, for to seek Saul:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Finding him, he brought him to Antioch. It happened that for a whole year they were gathered in the assembly and taught a considerable crowd, and in Antioch the disciples were first called Christians.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had found him, he brought him unto Antioch. And it came to pass, that a whole year they assembled themselves with the church, and taught much people. And the disciples were called Christians first in Antioch."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "In these days prophets came down from Jerusalem to Antioch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in these days came prophets from Jerusalem unto Antioch."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "One from them named Agabus stood up and signified through the Spirit that a great famine was about to be over the whole inhabited world, which happened under Claudius.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there stood up one of them named Agabus, and signified by the Spirit that there should be great dearth throughout all the world: which came to pass in the days of Claudius Caesar."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "According as any of the disciples had means, each determined to send service to the siblings dwelling in Judea.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the disciples, every man according to his ability, determined to send relief unto the brethren which dwelt in Judaea:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "They did this, sending it to the elders by the hand of Barnabas and Saul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which also they did, and sent it to the elders by the hands of Barnabas and Saul."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-30",
+    "tags": "partial-10-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

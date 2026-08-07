@@ -1,79 +1,1259 @@
 {
-  "book":"John",
-  "book_id":"john",
-  "chapter":6,
-  "audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for feeding sign, walking on sea/I am, bread from heaven discourse, flesh/blood hard saying, Spirit/life, Peter confession."},
-  "verses":[
-    {"verse":1,"restored":"After these things Jesus went away to the other side of the sea of Galilee, the sea of Tiberias.","tags":["galilee","tiberias"]},
-    {"verse":2,"restored":"A great crowd followed him, because they were beholding the signs he was doing on those who were weak.","tags":["crowd","signs","weak"]},
-    {"verse":3,"restored":"Jesus went up into the mountain, and there he was sitting with his disciples.","tags":["mountain","disciples"]},
-    {"verse":4,"restored":"Now the Passover, the feast of the Judeans, was near.","tags":["passover","feast"]},
-    {"verse":5,"restored":"Lifting up his eyes and beholding that a great crowd was coming to him, Jesus says to Philip, From where shall we buy bread so these may eat?","tags":["bread","philip","crowd"]},
-    {"verse":6,"restored":"He said this testing him, for he himself knew what he was about to do.","tags":["testing","knowing"]},
-    {"verse":7,"restored":"Philip answered him, Two hundred denarii of bread is not enough for them, so that each may receive a little.","tags":["scarcity","bread"]},
-    {"verse":8,"restored":"One of his disciples, Andrew, Simon Peter's brother, says to him,","tags":["andrew","disciples"]},
-    {"verse":9,"restored":"There is a little boy here who has five barley loaves and two fish; but what are these for so many?","tags":["boy","loaves","fish"]},
-    {"verse":10,"restored":"Jesus said, Make the people recline. There was much grass in the place. So the men reclined, about five thousand in number.","tags":["grass","five-thousand"]},
-    {"verse":11,"restored":"Jesus therefore took the loaves, and giving thanks, distributed to those reclining; likewise also from the fish, as much as they wanted.","tags":["thanks","loaves","abundance"]},
-    {"verse":12,"restored":"When they were filled, he says to his disciples, Gather the remaining broken pieces, so that nothing may be lost.","tags":["filled","gather","lost"]},
-    {"verse":13,"restored":"So they gathered and filled twelve baskets of broken pieces from the five barley loaves, which remained over to those who had eaten.","tags":["twelve","baskets","abundance"]},
-    {"verse":14,"restored":"Therefore the people, seeing the sign he did, were saying, This is truly the Prophet coming into the world.","tags":["sign","prophet","world"]},
-    {"verse":15,"restored":"Jesus, knowing that they were about to come and seize him so they might make him king, withdrew again to the mountain by himself alone.","tags":["king","withdrawal"]},
-    {"verse":16,"restored":"When evening came, his disciples went down to the sea.","tags":["evening","sea"]},
-    {"verse":17,"restored":"Entering a boat, they were going across the sea to Capernaum. Darkness had already come, and Jesus had not yet come to them.","tags":["boat","darkness","capernaum"]},
-    {"verse":18,"restored":"The sea was being stirred because a strong wind was blowing.","tags":["sea","wind"]},
-    {"verse":19,"restored":"Having rowed about twenty-five or thirty stadia, they behold Jesus walking on the sea and coming near the boat, and they were afraid.","tags":["walking-sea","fear"]},
-    {"verse":20,"restored":"But he says to them, I am; do not fear.","terms":[{"display":"I am","source":"ego eimi","language":"Greek","glossary_id":"ego-eimi"}],"tags":["i-am","fear-not"]},
-    {"verse":21,"restored":"Therefore they were willing to receive him into the boat, and immediately the boat came to the land to which they were going.","tags":["boat","immediately"]},
-    {"verse":22,"restored":"The next day the crowd standing on the other side of the sea saw that there had been no other little boat there except one, and that Jesus had not entered the boat with his disciples, but his disciples went away alone.","tags":["crowd","boat"]},
-    {"verse":23,"restored":"Other boats came from Tiberias near the place where they ate the bread after the Lord gave thanks.","tags":["tiberias","bread","thanks"]},
-    {"verse":24,"restored":"When the crowd saw that Jesus was not there, nor his disciples, they entered the boats and went to Capernaum seeking Jesus.","tags":["seeking","capernaum"]},
-    {"verse":25,"restored":"Finding him across the sea, they said to him, Rabbi, when did you come here?","tags":["rabbi","question"]},
-    {"verse":26,"restored":"Jesus answered them, Amen, amen, I say to you: you seek me not because you saw signs, but because you ate from the loaves and were filled.","tags":["amen-amen","seeking","filled"]},
-    {"verse":27,"restored":"Do not work for the food that perishes, but for the food remaining into age-long life, which the Son of Humanity will give you; for on this one the Father, the Divine, has set his seal.","tags":["food","life","son-of-humanity","seal"]},
-    {"verse":28,"restored":"They said to him, What shall we do, so that we may work the works of the Divine?","tags":["works","question"]},
-    {"verse":29,"restored":"Jesus answered and said to them, This is the work of the Divine: that you trust into the one whom that One sent.","tags":["work","trust","sent"]},
-    {"verse":30,"restored":"They said to him, What sign then do you do, so that we may see and trust you? What do you work?","tags":["sign","trust"]},
-    {"verse":31,"restored":"Our fathers ate the manna in the wilderness, as it has been written: He gave them bread from heaven to eat.","tags":["manna","wilderness","bread"]},
-    {"verse":32,"restored":"Jesus said to them, Amen, amen, I say to you: Moses has not given you the bread from heaven, but my Father gives you the true bread from heaven.","tags":["moses","bread","heaven","father"]},
-    {"verse":33,"restored":"For the bread of the Divine is the one coming down from heaven and giving life to the world.","tags":["bread","life","world"]},
-    {"verse":34,"restored":"They said to him, Lord, always give us this bread.","tags":["bread","desire"]},
-    {"verse":35,"restored":"Jesus said to them, I am the bread of life. The one coming to me will certainly not hunger, and the one trusting into me will certainly never thirst.","tags":["i-am","bread-life","hunger","thirst"]},
-    {"verse":36,"restored":"But I said to you that you have seen me and yet do not trust.","tags":["seeing","trust"]},
-    {"verse":37,"restored":"All that the Father gives me will come to me, and the one coming to me I will certainly not cast out,","tags":["father","coming"]},
-    {"verse":38,"restored":"because I have come down from heaven not to do my own will but the will of the One who sent me.","tags":["heaven","will","sent"]},
-    {"verse":39,"restored":"This is the will of the One who sent me: that of all he has given me I should lose nothing, but raise it up on the last day.","tags":["will","lost","raise","last-day"]},
-    {"verse":40,"restored":"For this is the will of my Father: that everyone beholding the Son and trusting into him may have age-long life, and I will raise that one up on the last day.","tags":["father","son","life","raise"]},
-    {"verse":41,"restored":"Therefore the Judeans were grumbling about him because he said, I am the bread that came down from heaven.","tags":["grumbling","bread","heaven"]},
-    {"verse":42,"restored":"They were saying, Is this not Jesus son of Joseph, whose father and mother we know? How now does he say, I have come down from heaven?","tags":["joseph","heaven","misunderstanding"]},
-    {"verse":43,"restored":"Jesus answered and said to them, Do not grumble with one another.","tags":["grumbling"]},
-    {"verse":44,"restored":"No one is able to come to me unless the Father who sent me draws that one, and I will raise that one up on the last day.","tags":["father","draw","raise"]},
-    {"verse":45,"restored":"It has been written in the Prophets: And they will all be taught by the Divine. Everyone who hears from the Father and learns comes to me.","tags":["prophets","taught","hearing"]},
-    {"verse":46,"restored":"Not that anyone has seen the Father except the one being from the Divine; this one has seen the Father.","tags":["father","seeing"]},
-    {"verse":47,"restored":"Amen, amen, I say to you: the one trusting has age-long life.","tags":["trust","life"]},
-    {"verse":48,"restored":"I am the bread of life.","tags":["i-am","bread-life"]},
-    {"verse":49,"restored":"Your fathers ate the manna in the wilderness, and they died.","tags":["manna","wilderness"]},
-    {"verse":50,"restored":"This is the bread coming down from heaven, so that one may eat from it and not die.","tags":["bread","heaven","life"]},
-    {"verse":51,"restored":"I am the living bread that came down from heaven. If anyone eats from this bread, that one will live into the age; and the bread that I will give for the life of the world is my embodied life.","tags":["i-am","living-bread","world","life"]},
-    {"verse":52,"restored":"Therefore the Judeans were disputing with one another, saying, How is this one able to give us his embodied life to eat?","tags":["dispute","embodiment"]},
-    {"verse":53,"restored":"Jesus therefore said to them, Amen, amen, I say to you: unless you eat the embodied life of the Son of Humanity and drink his blood, you do not have life in yourselves.","tags":["son-of-humanity","life","blood"]},
-    {"verse":54,"restored":"The one eating my embodied life and drinking my blood has age-long life, and I will raise that one up on the last day.","tags":["life","raise","last-day"]},
-    {"verse":55,"restored":"For my embodied life is true food, and my blood is true drink.","tags":["true-food","true-drink"]},
-    {"verse":56,"restored":"The one eating my embodied life and drinking my blood remains in me, and I in that one.","tags":["remain","indwelling"]},
-    {"verse":57,"restored":"Just as the living Father sent me, and I live because of the Father, so also the one eating me will live because of me.","tags":["living-father","sent","life"]},
-    {"verse":58,"restored":"This is the bread that came down from heaven, not as the fathers ate and died; the one eating this bread will live into the age.","tags":["bread","heaven","life"]},
-    {"verse":59,"restored":"He said these things teaching in a synagogue in Capernaum.","tags":["synagogue","capernaum"]},
-    {"verse":60,"restored":"Therefore many of his disciples, hearing, said, This word is hard; who is able to hear it?","tags":["disciples","hard-saying","hearing"]},
-    {"verse":61,"restored":"Jesus, knowing in himself that his disciples were grumbling about this, said to them, Does this cause you to stumble?","tags":["knowing","stumbling"]},
-    {"verse":62,"restored":"Then what if you behold the Son of Humanity ascending where he was before?","tags":["son-of-humanity","ascending"]},
-    {"verse":63,"restored":"The Spirit is the one making alive; ordinary human nature profits nothing. The words I have spoken to you are Spirit and are life.","tags":["spirit","life","words"]},
-    {"verse":64,"restored":"But there are some among you who do not trust. For Jesus knew from the beginning who those were who did not trust, and who was the one handing him over.","tags":["trust","betrayal","knowing"]},
-    {"verse":65,"restored":"He was saying, Because of this I have said to you that no one is able to come to me unless it has been given to that one from the Father.","tags":["father","gift","coming"]},
-    {"verse":66,"restored":"From this, many of his disciples went away to the things behind and no longer walked with him.","tags":["disciples","leaving"]},
-    {"verse":67,"restored":"Therefore Jesus said to the twelve, Do you also want to go away?","tags":["twelve","question"]},
-    {"verse":68,"restored":"Simon Peter answered him, Lord, to whom shall we go? You have words of age-long life.","tags":["peter","words","life"]},
-    {"verse":69,"restored":"And we have trusted and have known that you are the Holy One of the Divine.","tags":["trust","knowing","holy-one"]},
-    {"verse":70,"restored":"Jesus answered them, Did I not choose you, the twelve? Yet one of you is adversarial.","tags":["twelve","adversarial"]},
-    {"verse":71,"restored":"He was speaking of Judas son of Simon Iscariot, for this one, one of the twelve, was about to hand him over.","tags":["judas","betrayal"]}
-  ]
+  "book": "John",
+  "book_id": "john",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for feeding sign, walking on sea/I am, bread from heaven discourse, flesh/blood hard saying, Spirit/life, Peter confession."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these things Jesus went away to the other side of the sea of Galilee, the sea of Tiberias.",
+      "tags": [
+        "galilee",
+        "tiberias"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "A great crowd followed him, because they were beholding the signs he was doing on those who were weak.",
+      "tags": [
+        "crowd",
+        "signs",
+        "weak"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And a great multitude followed him, because they saw his miracles which he did on them that were diseased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Jesus went up into the mountain, and there he was sitting with his disciples.",
+      "tags": [
+        "mountain",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus went up into a mountain, and there he sat with his disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Now the Passover, the feast of the Judeans, was near.",
+      "tags": [
+        "passover",
+        "feast"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the passover, a feast of the Jews, was nigh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Lifting up his eyes and beholding that a great crowd was coming to him, Jesus says to Philip, From where shall we buy bread so these may eat?",
+      "tags": [
+        "bread",
+        "philip",
+        "crowd"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He said this testing him, for he himself knew what he was about to do.",
+      "tags": [
+        "testing",
+        "knowing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And this he said to prove him: for he himself knew what he would do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Philip answered him, Two hundred denarii of bread is not enough for them, so that each may receive a little.",
+      "tags": [
+        "scarcity",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "One of his disciples, Andrew, Simon Peter's brother, says to him,",
+      "tags": [
+        "andrew",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "One of his disciples, Andrew, Simon Peter’s brother, saith unto him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "There is a little boy here who has five barley loaves and two fish; but what are these for so many?",
+      "tags": [
+        "boy",
+        "loaves",
+        "fish"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Jesus said, Make the people recline. There was much grass in the place. So the men reclined, about five thousand in number.",
+      "tags": [
+        "grass",
+        "five-thousand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Jesus therefore took the loaves, and giving thanks, distributed to those reclining; likewise also from the fish, as much as they wanted.",
+      "tags": [
+        "thanks",
+        "loaves",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "When they were filled, he says to his disciples, Gather the remaining broken pieces, so that nothing may be lost.",
+      "tags": [
+        "filled",
+        "gather",
+        "lost",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "So they gathered and filled twelve baskets of broken pieces from the five barley loaves, which remained over to those who had eaten.",
+      "tags": [
+        "twelve",
+        "baskets",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Therefore the people, seeing the sign he did, were saying, This is truly the Prophet coming into the world.",
+      "tags": [
+        "sign",
+        "prophet",
+        "world",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Jesus, knowing that they were about to come and seize him so they might make him king, withdrew again to the mountain by himself alone.",
+      "tags": [
+        "king",
+        "withdrawal",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus therefore perceived that they would come and take him by force, to make him a king, he departed again into a mountain himself alone."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "When evening came, his disciples went down to the sea.",
+      "tags": [
+        "evening",
+        "sea",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when even was now come, his disciples went down unto the sea,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Entering a boat, they were going across the sea to Capernaum. Darkness had already come, and Jesus had not yet come to them.",
+      "tags": [
+        "boat",
+        "darkness",
+        "capernaum"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And entered into a ship, and went over the sea toward Capernaum. And it was now dark, and Jesus was not come to them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The sea was being stirred because a strong wind was blowing.",
+      "tags": [
+        "sea",
+        "wind"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sea arose by reason of a great wind that blew."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Having rowed about twenty-five or thirty stadia, they behold Jesus walking on the sea and coming near the boat, and they were afraid.",
+      "tags": [
+        "walking-sea",
+        "fear"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So when they had rowed about five and twenty or thirty furlongs, they see Jesus walking on the sea, and drawing nigh unto the ship: and they were afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But he says to them, I am; do not fear.",
+      "terms": [
+        {
+          "display": "I am",
+          "source": "ego eimi",
+          "language": "Greek",
+          "glossary_id": "ego-eimi"
+        }
+      ],
+      "tags": [
+        "i-am",
+        "fear-not"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he saith unto them, It is I; be not afraid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Therefore they were willing to receive him into the boat, and immediately the boat came to the land to which they were going.",
+      "tags": [
+        "boat",
+        "immediately"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they willingly received him into the ship: and immediately the ship was at the land whither they went."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The next day the crowd standing on the other side of the sea saw that there had been no other little boat there except one, and that Jesus had not entered the boat with his disciples, but his disciples went away alone.",
+      "tags": [
+        "crowd",
+        "boat",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The day following, when the people which stood on the other side of the sea saw that there was none other boat there, save that one whereinto his disciples were entered, and that Jesus went not with his disciples into the boat, but that his disciples were gone away alone;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Other boats came from Tiberias near the place where they ate the bread after the Lord gave thanks.",
+      "tags": [
+        "tiberias",
+        "bread",
+        "thanks"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "(Howbeit there came other boats from Tiberias nigh unto the place where they did eat bread, after that the Lord had given thanks:)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "When the crowd saw that Jesus was not there, nor his disciples, they entered the boats and went to Capernaum seeking Jesus.",
+      "tags": [
+        "seeking",
+        "capernaum",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the people therefore saw that Jesus was not there, neither his disciples, they also took shipping, and came to Capernaum, seeking for Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Finding him across the sea, they said to him, Rabbi, when did you come here?",
+      "tags": [
+        "rabbi",
+        "question",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had found him on the other side of the sea, they said unto him, Rabbi, when camest thou hither?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Jesus answered them, Amen, amen, I say to you: you seek me not because you saw signs, but because you ate from the loaves and were filled.",
+      "tags": [
+        "amen-amen",
+        "seeking",
+        "filled"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus answered them and said, Verily, verily, I say unto you, Ye seek me, not because ye saw the miracles, but because ye did eat of the loaves, and were filled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Do not work for the food that perishes, but for the food remaining into age-long life, which the Son of Humanity will give you; for on this one the Father, the Divine, has set his seal.",
+      "tags": [
+        "food",
+        "life",
+        "son-of-humanity",
+        "seal",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Labour not for the meat which perisheth, but for that meat which endureth unto everlasting life, which the Son of man shall give unto you: for him hath God the Father sealed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "They said to him, What shall we do, so that we may work the works of the Divine?",
+      "tags": [
+        "works",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they unto him, What shall we do, that we might work the works of God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Jesus answered and said to them, This is the work of the Divine: that you trust into the one whom that One sent.",
+      "tags": [
+        "work",
+        "trust",
+        "sent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "They said to him, What sign then do you do, so that we may see and trust you? What do you work?",
+      "tags": [
+        "sign",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "They said therefore unto him, What sign shewest thou then, that we may see, and believe thee? what dost thou work?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Our fathers ate the manna in the wilderness, as it has been written: He gave them bread from heaven to eat.",
+      "tags": [
+        "manna",
+        "wilderness",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Our fathers did eat manna in the desert; as it is written, He gave them bread from heaven to eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Jesus said to them, Amen, amen, I say to you: Moses has not given you the bread from heaven, but my Father gives you the true bread from heaven.",
+      "tags": [
+        "moses",
+        "bread",
+        "heaven",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus said unto them, Verily, verily, I say unto you, Moses gave you not that bread from heaven; but my Father giveth you the true bread from heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "For the bread of the Divine is the one coming down from heaven and giving life to the world.",
+      "tags": [
+        "bread",
+        "life",
+        "world"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the bread of God is he which cometh down from heaven, and giveth life unto the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "They said to him, Lord, always give us this bread.",
+      "tags": [
+        "bread",
+        "desire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they unto him, Lord, evermore give us this bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Jesus said to them, I am the bread of life. The one coming to me will certainly not hunger, and the one trusting into me will certainly never thirst.",
+      "tags": [
+        "i-am",
+        "bread-life",
+        "hunger",
+        "thirst",
+        "poverty-economic-justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus said unto them, I am the bread of life: he that cometh to me shall never hunger; and he that believeth on me shall never thirst."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "But I said to you that you have seen me and yet do not trust.",
+      "tags": [
+        "seeing",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But I said unto you, That ye also have seen me, and believe not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "All that the Father gives me will come to me, and the one coming to me I will certainly not cast out,",
+      "tags": [
+        "father",
+        "coming"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "All that the Father giveth me shall come to me; and him that cometh to me I will in no wise cast out."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "because I have come down from heaven not to do my own will but the will of the One who sent me.",
+      "tags": [
+        "heaven",
+        "will",
+        "sent"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For I came down from heaven, not to do mine own will, but the will of him that sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "This is the will of the One who sent me: that of all he has given me I should lose nothing, but raise it up on the last day.",
+      "tags": [
+        "will",
+        "lost",
+        "raise",
+        "last-day"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the Father’s will which hath sent me, that of all which he hath given me I should lose nothing, but should raise it up again at the last day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "For this is the will of my Father: that everyone beholding the Son and trusting into him may have age-long life, and I will raise that one up on the last day.",
+      "tags": [
+        "father",
+        "son",
+        "life",
+        "raise",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the will of him that sent me, that every one which seeth the Son, and believeth on him, may have everlasting life: and I will raise him up at the last day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Therefore the Judeans were grumbling about him because he said, I am the bread that came down from heaven.",
+      "tags": [
+        "grumbling",
+        "bread",
+        "heaven"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Jews then murmured at him, because he said, I am the bread which came down from heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "They were saying, Is this not Jesus son of Joseph, whose father and mother we know? How now does he say, I have come down from heaven?",
+      "tags": [
+        "joseph",
+        "heaven",
+        "misunderstanding",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, Is not this Jesus, the son of Joseph, whose father and mother we know? how is it then that he saith, I came down from heaven?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "Jesus answered and said to them, Do not grumble with one another.",
+      "tags": [
+        "grumbling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus therefore answered and said unto them, Murmur not among yourselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "No one is able to come to me unless the Father who sent me draws that one, and I will raise that one up on the last day.",
+      "tags": [
+        "father",
+        "draw",
+        "raise"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "No man can come to me, except the Father which hath sent me draw him: and I will raise him up at the last day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 45,
+      "restored": "It has been written in the Prophets: And they will all be taught by the Divine. Everyone who hears from the Father and learns comes to me.",
+      "tags": [
+        "prophets",
+        "taught",
+        "hearing",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is written in the prophets, And they shall be all taught of God. Every man therefore that hath heard, and hath learned of the Father, cometh unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 46,
+      "restored": "Not that anyone has seen the Father except the one being from the Divine; this one has seen the Father.",
+      "tags": [
+        "father",
+        "seeing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Not that any man hath seen the Father, save he which is of God, he hath seen the Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "Amen, amen, I say to you: the one trusting has age-long life.",
+      "tags": [
+        "trust",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily, verily, I say unto you, He that believeth on me hath everlasting life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "I am the bread of life.",
+      "tags": [
+        "i-am",
+        "bread-life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am that bread of life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "Your fathers ate the manna in the wilderness, and they died.",
+      "tags": [
+        "manna",
+        "wilderness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Your fathers did eat manna in the wilderness, and are dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "This is the bread coming down from heaven, so that one may eat from it and not die.",
+      "tags": [
+        "bread",
+        "heaven",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the bread which cometh down from heaven, that a man may eat thereof, and not die."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "I am the living bread that came down from heaven. If anyone eats from this bread, that one will live into the age; and the bread that I will give for the life of the world is my embodied life.",
+      "tags": [
+        "i-am",
+        "living-bread",
+        "world",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever: and the bread that I will give is my flesh, which I will give for the life of the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "Therefore the Judeans were disputing with one another, saying, How is this one able to give us his embodied life to eat?",
+      "tags": [
+        "dispute",
+        "embodiment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The Jews therefore strove among themselves, saying, How can this man give us his flesh to eat?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 53,
+      "restored": "Jesus therefore said to them, Amen, amen, I say to you: unless you eat the embodied life of the Son of Humanity and drink his blood, you do not have life in yourselves.",
+      "tags": [
+        "son-of-humanity",
+        "life",
+        "blood",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus said unto them, Verily, verily, I say unto you, Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "The one eating my embodied life and drinking my blood has age-long life, and I will raise that one up on the last day.",
+      "tags": [
+        "life",
+        "raise",
+        "last-day"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Whoso eateth my flesh, and drinketh my blood, hath eternal life; and I will raise him up at the last day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 55,
+      "restored": "For my embodied life is true food, and my blood is true drink.",
+      "tags": [
+        "true-food",
+        "true-drink"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For my flesh is meat indeed, and my blood is drink indeed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 56,
+      "restored": "The one eating my embodied life and drinking my blood remains in me, and I in that one.",
+      "tags": [
+        "remain",
+        "indwelling"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that eateth my flesh, and drinketh my blood, dwelleth in me, and I in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 57,
+      "restored": "Just as the living Father sent me, and I live because of the Father, so also the one eating me will live because of me.",
+      "tags": [
+        "living-father",
+        "sent",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As the living Father hath sent me, and I live by the Father: so he that eateth me, even he shall live by me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 58,
+      "restored": "This is the bread that came down from heaven, not as the fathers ate and died; the one eating this bread will live into the age.",
+      "tags": [
+        "bread",
+        "heaven",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is that bread which came down from heaven: not as your fathers did eat manna, and are dead: he that eateth of this bread shall live for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 59,
+      "restored": "He said these things teaching in a synagogue in Capernaum.",
+      "tags": [
+        "synagogue",
+        "capernaum",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "These things said he in the synagogue, as he taught in Capernaum."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 60,
+      "restored": "Therefore many of his disciples, hearing, said, This word is hard; who is able to hear it?",
+      "tags": [
+        "disciples",
+        "hard-saying",
+        "hearing",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Many therefore of his disciples, when they had heard this, said, This is an hard saying; who can hear it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 61,
+      "restored": "Jesus, knowing in himself that his disciples were grumbling about this, said to them, Does this cause you to stumble?",
+      "tags": [
+        "knowing",
+        "stumbling",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jesus knew in himself that his disciples murmured at it, he said unto them, Doth this offend you?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 62,
+      "restored": "Then what if you behold the Son of Humanity ascending where he was before?",
+      "tags": [
+        "son-of-humanity",
+        "ascending",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "What and if ye shall see the Son of man ascend up where he was before?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 63,
+      "restored": "The Spirit is the one making alive; ordinary human nature profits nothing. The words I have spoken to you are Spirit and are life.",
+      "tags": [
+        "spirit",
+        "life",
+        "words"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 64,
+      "restored": "But there are some among you who do not trust. For Jesus knew from the beginning who those were who did not trust, and who was the one handing him over.",
+      "tags": [
+        "trust",
+        "betrayal",
+        "knowing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But there are some of you that believe not. For Jesus knew from the beginning who they were that believed not, and who should betray him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 65,
+      "restored": "He was saying, Because of this I have said to you that no one is able to come to me unless it has been given to that one from the Father.",
+      "tags": [
+        "father",
+        "gift",
+        "coming"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Therefore said I unto you, that no man can come unto me, except it were given unto him of my Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 66,
+      "restored": "From this, many of his disciples went away to the things behind and no longer walked with him.",
+      "tags": [
+        "disciples",
+        "leaving",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "From that time many of his disciples went back, and walked no more with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 67,
+      "restored": "Therefore Jesus said to the twelve, Do you also want to go away?",
+      "tags": [
+        "twelve",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Jesus unto the twelve, Will ye also go away?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 68,
+      "restored": "Simon Peter answered him, Lord, to whom shall we go? You have words of age-long life.",
+      "tags": [
+        "peter",
+        "words",
+        "life"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 69,
+      "restored": "And we have trusted and have known that you are the Holy One of the Divine.",
+      "tags": [
+        "trust",
+        "knowing",
+        "holy-one"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And we believe and are sure that thou art that Christ, the Son of the living God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 70,
+      "restored": "Jesus answered them, Did I not choose you, the twelve? Yet one of you is adversarial.",
+      "tags": [
+        "twelve",
+        "adversarial"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus answered them, Have not I chosen you twelve, and one of you is a devil?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 71,
+      "restored": "He was speaking of Judas son of Simon Iscariot, for this one, one of the twelve, was about to hand him over.",
+      "tags": [
+        "judas",
+        "betrayal",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He spake of Judas Iscariot the son of Simon: for he it was that should betray him, being one of the twelve."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-71",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-71",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
 }

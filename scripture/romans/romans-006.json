@@ -1,1 +1,424 @@
-{"book":"Romans","book_id":"romans","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Greek Romans text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for baptism into death/life, old human, sin as enslaving power, grace not permission, slavery metaphor, wages/gift."},"verses":[{"verse":1,"restored":"What then shall we say? Should we remain in sin/misalignment so that grace may abound?"},{"verse":2,"restored":"May it not be. We who died to sin/misalignment, how shall we still live in it?"},{"verse":3,"restored":"Or do you not know that as many of us as were baptized into Messiah Jesus were baptized into his death?"},{"verse":4,"restored":"Therefore we were buried together with him through baptism into death, so that just as Messiah was raised from the dead through the glory of the Father, so we also might walk in newness of life."},{"verse":5,"restored":"For if we have become united with the likeness of his death, certainly we will also be of the resurrection."},{"verse":6,"restored":"Knowing this, that our old human was crucified together, so that the body of sin/misalignment might be made inactive, that we no longer be enslaved to sin/misalignment."},{"verse":7,"restored":"For the one who died has been made righteous/just away from sin/misalignment."},{"verse":8,"restored":"If we died with Messiah, we trust that we will also live with him,"},{"verse":9,"restored":"knowing that Messiah, having been raised from the dead, dies no more; death no longer rules over him."},{"verse":10,"restored":"For the death he died, he died to sin/misalignment once for all; but the life he lives, he lives to the Divine."},{"verse":11,"restored":"So also you, calculate yourselves dead indeed to sin/misalignment, but alive to the Divine in Messiah Jesus."},{"verse":12,"restored":"Therefore do not let sin/misalignment reign in your mortal body, to obey its desires."},{"verse":13,"restored":"Do not present your members to sin/misalignment as instruments of injustice, but present yourselves to the Divine as those alive from the dead, and your members to the Divine as instruments of righteousness/justice."},{"verse":14,"restored":"For sin/misalignment will not rule over you, for you are not under Law but under grace."},{"verse":15,"restored":"What then? Should we sin/misalign because we are not under Law but under grace? May it not be."},{"verse":16,"restored":"Do you not know that to whom you present yourselves as enslaved ones for obedience, you are enslaved to the one you obey, whether sin/misalignment into death or obedience into righteousness/justice?"},{"verse":17,"restored":"But thanks to the Divine, that though you were enslaved to sin/misalignment, you obeyed from the heart the pattern of teaching to which you were handed over,"},{"verse":18,"restored":"and having been released from sin/misalignment, you were enslaved to righteousness/justice."},{"verse":19,"restored":"I speak in human terms because of the weakness of your flesh. For just as you presented your members enslaved to uncleanness and lawlessness into lawlessness, so now present your members enslaved to righteousness/justice into sanctification."},{"verse":20,"restored":"For when you were enslaved to sin/misalignment, you were free with respect to righteousness/justice."},{"verse":21,"restored":"What fruit then did you have at that time, of which you are now ashamed? For the completion of those things is death."},{"verse":22,"restored":"But now, having been released from sin/misalignment and enslaved to the Divine, you have your fruit into sanctification, and the completion age-long life."},{"verse":23,"restored":"For the wages of sin/misalignment is death, but the gift of the Divine is age-long life in Messiah Jesus our Lord."}],"translation_notes":["Romans 6 uses slavery imagery as a moral-political metaphor of belonging and obedience. It should be handled carefully and not romanticized.","Under grace is not permission to misalign; Paul frames grace as liberation from the rule of sin/death into embodied justice." ]}
+{
+  "book": "Romans",
+  "book_id": "romans",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Romans text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for baptism into death/life, old human, sin as enslaving power, grace not permission, slavery metaphor, wages/gift."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "What then shall we say? Should we remain in sin/misalignment so that grace may abound?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What shall we say then? Shall we continue in sin, that grace may abound?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "May it not be. We who died to sin/misalignment, how shall we still live in it?",
+      "familiar": {
+        "source": "KJV",
+        "text": "God forbid. How shall we, that are dead to sin, live any longer therein?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Or do you not know that as many of us as were baptized into Messiah Jesus were baptized into his death?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Therefore we were buried together with him through baptism into death, so that just as Messiah was raised from the dead through the glory of the Father, so we also might walk in newness of life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore we are buried with him by baptism into death: that like as Christ was raised up from the dead by the glory of the Father, even so we also should walk in newness of life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "For if we have become united with the likeness of his death, certainly we will also be of the resurrection.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Knowing this, that our old human was crucified together, so that the body of sin/misalignment might be made inactive, that we no longer be enslaved to sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing this, that our old man is crucified with him, that the body of sin might be destroyed, that henceforth we should not serve sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For the one who died has been made righteous/just away from sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that is dead is freed from sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "If we died with Messiah, we trust that we will also live with him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now if we be dead with Christ, we believe that we shall also live with him:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "knowing that Messiah, having been raised from the dead, dies no more; death no longer rules over him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing that Christ being raised from the dead dieth no more; death hath no more dominion over him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "For the death he died, he died to sin/misalignment once for all; but the life he lives, he lives to the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in that he died, he died unto sin once: but in that he liveth, he liveth unto God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "So also you, calculate yourselves dead indeed to sin/misalignment, but alive to the Divine in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Therefore do not let sin/misalignment reign in your mortal body, to obey its desires.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Do not present your members to sin/misalignment as instruments of injustice, but present yourselves to the Divine as those alive from the dead, and your members to the Divine as instruments of righteousness/justice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For sin/misalignment will not rule over you, for you are not under Law but under grace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For sin shall not have dominion over you: for ye are not under the law, but under grace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "What then? Should we sin/misalign because we are not under Law but under grace? May it not be.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What then? shall we sin, because we are not under the law, but under grace? God forbid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Do you not know that to whom you present yourselves as enslaved ones for obedience, you are enslaved to the one you obey, whether sin/misalignment into death or obedience into righteousness/justice?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "But thanks to the Divine, that though you were enslaved to sin/misalignment, you obeyed from the heart the pattern of teaching to which you were handed over,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "and having been released from sin/misalignment, you were enslaved to righteousness/justice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Being then made free from sin, ye became the servants of righteousness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "I speak in human terms because of the weakness of your flesh. For just as you presented your members enslaved to uncleanness and lawlessness into lawlessness, so now present your members enslaved to righteousness/justice into sanctification.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "For when you were enslaved to sin/misalignment, you were free with respect to righteousness/justice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For when ye were the servants of sin, ye were free from righteousness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "What fruit then did you have at that time, of which you are now ashamed? For the completion of those things is death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But now, having been released from sin/misalignment and enslaved to the Divine, you have your fruit into sanctification, and the completion age-long life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "For the wages of sin/misalignment is death, but the gift of the Divine is age-long life in Messiah Jesus our Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Romans 6 uses slavery imagery as a moral-political metaphor of belonging and obedience. It should be handled carefully and not romanticized.",
+    "Under grace is not permission to misalign; Paul frames grace as liberation from the rule of sin/death into embodied justice."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-23",
+    "tags": "partial-8-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

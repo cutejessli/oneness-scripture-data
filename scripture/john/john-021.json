@@ -1,1 +1,504 @@
-{"book":"John","book_id":"john","chapter":21,"audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Sea of Tiberias appearance, miraculous catch, charcoal fire, breakfast, Peter threefold love/restoration, feed sheep, beloved disciple witness, closing testimony."},"verses":[{"verse":1,"restored":"After these things Jesus revealed himself again to the disciples by the sea of Tiberias; he revealed himself in this way.","tags":["tiberias","reveal","disciples"]},{"verse":2,"restored":"Simon Peter, Thomas called Twin, Nathanael from Cana of Galilee, the sons of Zebedee, and two others of his disciples were together.","tags":["peter","thomas","nathanael","disciples"]},{"verse":3,"restored":"Simon Peter says to them, I am going fishing. They say to him, We also come with you. They went out and entered the boat, and in that night they caught nothing.","tags":["peter","fishing","night"]},{"verse":4,"restored":"When daybreak had already come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.","tags":["daybreak","shore","recognition"]},{"verse":5,"restored":"Jesus therefore says to them, Children, do you have any fish? They answered him, No.","tags":["children","fish"]},{"verse":6,"restored":"He said to them, Cast the net to the right side of the boat, and you will find. Therefore they cast, and they were no longer strong enough to haul it because of the multitude of fish.","tags":["net","fish","abundance"]},{"verse":7,"restored":"Therefore that disciple whom Jesus loved says to Peter, It is the Lord. Simon Peter, hearing that it is the Lord, tied his outer garment around himself, for he was stripped for work, and threw himself into the sea.","tags":["beloved-disciple","peter","lord"]},{"verse":8,"restored":"The other disciples came in the little boat, for they were not far from land but about two hundred cubits away, dragging the net of fish.","tags":["boat","net","fish"]},{"verse":9,"restored":"When therefore they got out onto the land, they see a charcoal fire laid there, and fish placed on it, and bread.","tags":["charcoal-fire","fish","bread"]},{"verse":10,"restored":"Jesus says to them, Bring from the fish you caught just now.","tags":["fish","bring"]},{"verse":11,"restored":"Simon Peter therefore went up and drew the net to land, full of large fish, one hundred fifty-three; and though there were so many, the net was not torn.","tags":["peter","net","153","not-torn"]},{"verse":12,"restored":"Jesus says to them, Come, have breakfast. None of the disciples dared to question him, Who are you? knowing that it is the Lord.","tags":["breakfast","knowing","lord"]},{"verse":13,"restored":"Jesus comes and takes the bread and gives it to them, and the fish likewise.","tags":["bread","fish","giving"]},{"verse":14,"restored":"This was now the third time Jesus was revealed to the disciples after being raised from the dead.","tags":["third-time","raised","reveal"]},{"verse":15,"restored":"When therefore they had breakfasted, Jesus says to Simon Peter, Simon son of John, do you love me more than these? He says to him, Yes, Lord; you know that I love you. He says to him, Feed my lambs.","tags":["peter","love","feed","lambs"]},{"verse":16,"restored":"He says to him again a second time, Simon son of John, do you love me? He says to him, Yes, Lord; you know that I love you. He says to him, Shepherd my sheep.","tags":["peter","love","shepherd","sheep"]},{"verse":17,"restored":"He says to him the third time, Simon son of John, do you love me? Peter was grieved because he said to him the third time, Do you love me? And he said to him, Lord, you know all things; you know that I love you. Jesus says to him, Feed my sheep.","tags":["peter","threefold","love","feed"]},{"verse":18,"restored":"Amen, amen, I say to you: when you were younger, you tied your own belt and walked where you wished; but when you grow old, you will stretch out your hands, and another will tie you and carry you where you do not wish.","tags":["amen-amen","peter","future"]},{"verse":19,"restored":"He said this signifying by what kind of death he would glorify the Divine. And saying this, he says to him, Follow me.","tags":["death","glory","follow"]},{"verse":20,"restored":"Peter, turning, sees the disciple whom Jesus loved following, the one who also reclined at the supper upon his chest and said, Lord, who is the one handing you over?","tags":["peter","beloved-disciple","following"]},{"verse":21,"restored":"Therefore seeing this one, Peter says to Jesus, Lord, but what about this one?","tags":["peter","question"]},{"verse":22,"restored":"Jesus says to him, If I will that he remain until I come, what is that to you? You follow me.","tags":["remain","follow"]},{"verse":23,"restored":"Therefore this word went out among the siblings, that that disciple would not die. But Jesus did not say to him that he would not die, but, If I will that he remain until I come, what is that to you?","tags":["beloved-disciple","misunderstanding","remain"]},{"verse":24,"restored":"This is the disciple bearing witness concerning these things and the one who wrote these things, and we know that his witness is true.","tags":["witness","beloved-disciple","truth"]},{"verse":25,"restored":"There are also many other things that Jesus did, which if they were written one by one, I suppose the world itself would not have room for the scrolls being written.","tags":["world","scrolls","witness"]}]}
+{
+  "book": "John",
+  "book_id": "john",
+  "chapter": 21,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Sea of Tiberias appearance, miraculous catch, charcoal fire, breakfast, Peter threefold love/restoration, feed sheep, beloved disciple witness, closing testimony."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these things Jesus revealed himself again to the disciples by the sea of Tiberias; he revealed himself in this way.",
+      "tags": [
+        "tiberias",
+        "reveal",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "After these things Jesus shewed himself again to the disciples at the sea of Tiberias; and on this wise shewed he himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Simon Peter, Thomas called Twin, Nathanael from Cana of Galilee, the sons of Zebedee, and two others of his disciples were together.",
+      "tags": [
+        "peter",
+        "thomas",
+        "nathanael",
+        "disciples",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "There were together Simon Peter, and Thomas called Didymus, and Nathanael of Cana in Galilee, and the sons of Zebedee, and two other of his disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Simon Peter says to them, I am going fishing. They say to him, We also come with you. They went out and entered the boat, and in that night they caught nothing.",
+      "tags": [
+        "peter",
+        "fishing",
+        "night"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Simon Peter saith unto them, I go a fishing. They say unto him, We also go with thee. They went forth, and entered into a ship immediately; and that night they caught nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "When daybreak had already come, Jesus stood on the shore; yet the disciples did not know that it was Jesus.",
+      "tags": [
+        "daybreak",
+        "shore",
+        "recognition",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the morning was now come, Jesus stood on the shore: but the disciples knew not that it was Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Jesus therefore says to them, Children, do you have any fish? They answered him, No.",
+      "tags": [
+        "children",
+        "fish",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jesus saith unto them, Children, have ye any meat? They answered him, No."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He said to them, Cast the net to the right side of the boat, and you will find. Therefore they cast, and they were no longer strong enough to haul it because of the multitude of fish.",
+      "tags": [
+        "net",
+        "fish",
+        "abundance"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Cast the net on the right side of the ship, and ye shall find. They cast therefore, and now they were not able to draw it for the multitude of fishes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore that disciple whom Jesus loved says to Peter, It is the Lord. Simon Peter, hearing that it is the Lord, tied his outer garment around himself, for he was stripped for work, and threw himself into the sea.",
+      "tags": [
+        "beloved-disciple",
+        "peter",
+        "lord",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore that disciple whom Jesus loved saith unto Peter, It is the Lord. Now when Simon Peter heard that it was the Lord, he girt his fisher’s coat unto him, (for he was naked,) and did cast himself into the sea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The other disciples came in the little boat, for they were not far from land but about two hundred cubits away, dragging the net of fish.",
+      "tags": [
+        "boat",
+        "net",
+        "fish",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the other disciples came in a little ship; (for they were not far from land, but as it were two hundred cubits,) dragging the net with fishes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "When therefore they got out onto the land, they see a charcoal fire laid there, and fish placed on it, and bread.",
+      "tags": [
+        "charcoal-fire",
+        "fish",
+        "bread"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As soon then as they were come to land, they saw a fire of coals there, and fish laid thereon, and bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Jesus says to them, Bring from the fish you caught just now.",
+      "tags": [
+        "fish",
+        "bring"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto them, Bring of the fish which ye have now caught."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Simon Peter therefore went up and drew the net to land, full of large fish, one hundred fifty-three; and though there were so many, the net was not torn.",
+      "tags": [
+        "peter",
+        "net",
+        "153",
+        "not-torn"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Simon Peter went up, and drew the net to land full of great fishes, an hundred and fifty and three: and for all there were so many, yet was not the net broken."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Jesus says to them, Come, have breakfast. None of the disciples dared to question him, Who are you? knowing that it is the Lord.",
+      "tags": [
+        "breakfast",
+        "knowing",
+        "lord",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto them, Come and dine. And none of the disciples durst ask him, Who art thou? knowing that it was the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Jesus comes and takes the bread and gives it to them, and the fish likewise.",
+      "tags": [
+        "bread",
+        "fish",
+        "giving"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus then cometh, and taketh bread, and giveth them, and fish likewise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "This was now the third time Jesus was revealed to the disciples after being raised from the dead.",
+      "tags": [
+        "third-time",
+        "raised",
+        "reveal",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is now the third time that Jesus shewed himself to his disciples, after that he was risen from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "When therefore they had breakfasted, Jesus says to Simon Peter, Simon son of John, do you love me more than these? He says to him, Yes, Lord; you know that I love you. He says to him, Feed my lambs.",
+      "tags": [
+        "peter",
+        "love",
+        "feed",
+        "lambs",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So when they had dined, Jesus saith to Simon Peter, Simon, son of Jonas, lovest thou me more than these? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my lambs."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He says to him again a second time, Simon son of John, do you love me? He says to him, Yes, Lord; you know that I love you. He says to him, Shepherd my sheep.",
+      "tags": [
+        "peter",
+        "love",
+        "shepherd",
+        "sheep",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith to him again the second time, Simon, son of Jonas, lovest thou me? He saith unto him, Yea, Lord; thou knowest that I love thee. He saith unto him, Feed my sheep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He says to him the third time, Simon son of John, do you love me? Peter was grieved because he said to him the third time, Do you love me? And he said to him, Lord, you know all things; you know that I love you. Jesus says to him, Feed my sheep.",
+      "tags": [
+        "peter",
+        "threefold",
+        "love",
+        "feed",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He saith unto him the third time, Simon, son of Jonas, lovest thou me? Peter was grieved because he said unto him the third time, Lovest thou me? And he said unto him, Lord, thou knowest all things; thou knowest that I love thee. Jesus saith unto him, Feed my sheep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Amen, amen, I say to you: when you were younger, you tied your own belt and walked where you wished; but when you grow old, you will stretch out your hands, and another will tie you and carry you where you do not wish.",
+      "tags": [
+        "amen-amen",
+        "peter",
+        "future"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Verily, verily, I say unto thee, When thou wast young, thou girdedst thyself, and walkedst whither thou wouldest: but when thou shalt be old, thou shalt stretch forth thy hands, and another shall gird thee, and carry thee whither thou wouldest not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "He said this signifying by what kind of death he would glorify the Divine. And saying this, he says to him, Follow me.",
+      "tags": [
+        "death",
+        "glory",
+        "follow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This spake he, signifying by what death he should glorify God. And when he had spoken this, he saith unto him, Follow me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Peter, turning, sees the disciple whom Jesus loved following, the one who also reclined at the supper upon his chest and said, Lord, who is the one handing you over?",
+      "tags": [
+        "peter",
+        "beloved-disciple",
+        "following",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Peter, turning about, seeth the disciple whom Jesus loved following; which also leaned on his breast at supper, and said, Lord, which is he that betrayeth thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Therefore seeing this one, Peter says to Jesus, Lord, but what about this one?",
+      "tags": [
+        "peter",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Peter seeing him saith to Jesus, Lord, and what shall this man do?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Jesus says to him, If I will that he remain until I come, what is that to you? You follow me.",
+      "tags": [
+        "remain",
+        "follow"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus saith unto him, If I will that he tarry till I come, what is that to thee? follow thou me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Therefore this word went out among the siblings, that that disciple would not die. But Jesus did not say to him that he would not die, but, If I will that he remain until I come, what is that to you?",
+      "tags": [
+        "beloved-disciple",
+        "misunderstanding",
+        "remain",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went this saying abroad among the brethren, that that disciple should not die: yet Jesus said not unto him, He shall not die; but, If I will that he tarry till I come, what is that to thee?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "This is the disciple bearing witness concerning these things and the one who wrote these things, and we know that his witness is true.",
+      "tags": [
+        "witness",
+        "beloved-disciple",
+        "truth",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "disciple",
+          "source": "mathetes",
+          "language": "Greek",
+          "glossary_id": "mathetes",
+          "transliteration": "mathetes"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "There are also many other things that Jesus did, which if they were written one by one, I suppose the world itself would not have room for the scrolls being written.",
+      "tags": [
+        "world",
+        "scrolls",
+        "witness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are also many other things which Jesus did, the which, if they should be written every one, I suppose that even the world itself could not contain the books that should be written. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-25",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

@@ -1,1 +1,551 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":11,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for imitation, head/source/order, praying/prophesying, mutuality in Lord, Lord's supper abuse, discerning body."},"verses":[{"verse":1,"restored":"Become imitators of me, just as I also am of Messiah."},{"verse":2,"restored":"I praise you because you remember me in all things and hold fast the traditions just as I handed them over to you."},{"verse":3,"restored":"But I want you to know that the head/source of every man is Messiah, and head/source of woman is man, and head/source of Messiah is the Divine."},{"verse":4,"restored":"Every man praying or prophesying having something down over the head dishonors his head/source."},{"verse":5,"restored":"But every woman praying or prophesying with uncovered head dishonors her head/source; for it is one and the same as having been shaved."},{"verse":6,"restored":"For if a woman is not covered, let her also be shorn; but if it is shameful for a woman to be shorn or shaved, let her be covered."},{"verse":7,"restored":"For a man indeed ought not cover the head, being image and glory of the Divine; but woman is glory of man."},{"verse":8,"restored":"For man is not from woman, but woman from man;"},{"verse":9,"restored":"for also man was not created because of the woman, but woman because of the man."},{"verse":10,"restored":"Because of this the woman ought to have authority upon her head, because of the messengers."},{"verse":11,"restored":"Nevertheless, neither woman apart from man nor man apart from woman in the Lord."},{"verse":12,"restored":"For just as the woman is from the man, so also the man is through the woman; but all things are from the Divine."},{"verse":13,"restored":"Judge among yourselves: is it fitting for a woman to pray to the Divine uncovered?"},{"verse":14,"restored":"Does not nature itself teach you that if a man has long hair, it is dishonor to him,"},{"verse":15,"restored":"but if a woman has long hair, it is glory to her? For the hair has been given to her instead of a covering."},{"verse":16,"restored":"But if anyone seems to be contentious, we have no such custom, nor do the assemblies of the Divine."},{"verse":17,"restored":"But in commanding this, I do not praise, because you come together not for the better but for the worse."},{"verse":18,"restored":"For first, when you come together in assembly, I hear there are splits among you, and in part I trust it."},{"verse":19,"restored":"For it is necessary that factions also be among you, so that the approved ones may become manifest among you."},{"verse":20,"restored":"When you therefore come together in the same place, it is not to eat the Lord's supper."},{"verse":21,"restored":"For each one takes one's own supper beforehand in the eating, and one is hungry while another is drunk."},{"verse":22,"restored":"Do you not have houses for eating and drinking? Or do you despise the assembly of the Divine and shame those having nothing? What shall I say to you? Shall I praise you? In this I do not praise."},{"verse":23,"restored":"For I received from the Lord what I also handed over to you, that the Lord Jesus, in the night he was handed over, took bread,"},{"verse":24,"restored":"and giving thanks, broke it and said, This is my body, which is for you; do this into my remembrance."},{"verse":25,"restored":"Likewise also the cup after supper, saying, This cup is the new covenant in my blood; do this, as often as you drink, into my remembrance."},{"verse":26,"restored":"For as often as you eat this bread and drink the cup, you proclaim the death of the Lord until he comes."},{"verse":27,"restored":"Therefore whoever eats the bread or drinks the cup of the Lord unworthily will be liable concerning the body and blood of the Lord."},{"verse":28,"restored":"Let a human examine oneself, and thus let one eat from the bread and drink from the cup."},{"verse":29,"restored":"For the one eating and drinking eats and drinks judgment to oneself if not discerning the body."},{"verse":30,"restored":"Because of this many among you are weak and sick, and a considerable number sleep."},{"verse":31,"restored":"But if we discerned ourselves, we would not be judged."},{"verse":32,"restored":"But being judged by the Lord, we are disciplined, so that we may not be condemned with the world."},{"verse":33,"restored":"So then, my siblings, when you come together to eat, wait for one another."},{"verse":34,"restored":"If anyone is hungry, let that one eat at home, so that you may not come together into judgment. The remaining things I will set in order when I come."}],"translation_notes":["Kephale is rendered head/source to preserve the debated range of headship/source/order language.","Women are explicitly praying and prophesying in the assembly; the issue is ordered honor, not silencing.","Discerning the body includes the communal body, especially the poor shamed at the meal." ]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for imitation, head/source/order, praying/prophesying, mutuality in Lord, Lord's supper abuse, discerning body."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Become imitators of me, just as I also am of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be ye followers of me, even as I also am of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "I praise you because you remember me in all things and hold fast the traditions just as I handed them over to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now I praise you, brethren, that ye remember me in all things, and keep the ordinances, as I delivered them to you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But I want you to know that the head/source of every man is Messiah, and head/source of woman is man, and head/source of Messiah is the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I would have you know, that the head of every man is Christ; and the head of the woman is the man; and the head of Christ is God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Every man praying or prophesying having something down over the head dishonors his head/source.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Every man praying or prophesying, having his head covered, dishonoureth his head."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But every woman praying or prophesying with uncovered head dishonors her head/source; for it is one and the same as having been shaved.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But every woman that prayeth or prophesieth with her head uncovered dishonoureth her head: for that is even all one as if she were shaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "For if a woman is not covered, let her also be shorn; but if it is shameful for a woman to be shorn or shaved, let her be covered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if the woman be not covered, let her also be shorn: but if it be a shame for a woman to be shorn or shaven, let her be covered."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For a man indeed ought not cover the head, being image and glory of the Divine; but woman is glory of man.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For a man indeed ought not to cover his head, forasmuch as he is the image and glory of God: but the woman is the glory of the man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For man is not from woman, but woman from man;",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the man is not of the woman; but the woman of the man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "for also man was not created because of the woman, but woman because of the man.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither was the man created for the woman; but the woman for the man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Because of this the woman ought to have authority upon her head, because of the messengers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause ought the woman to have power on her head because of the angels."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Nevertheless, neither woman apart from man nor man apart from woman in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless neither is the man without the woman, neither the woman without the man, in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "For just as the woman is from the man, so also the man is through the woman; but all things are from the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the woman is of the man, even so is the man also by the woman; but all things of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Judge among yourselves: is it fitting for a woman to pray to the Divine uncovered?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Judge in yourselves: is it comely that a woman pray unto God uncovered?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Does not nature itself teach you that if a man has long hair, it is dishonor to him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth not even nature itself teach you, that, if a man have long hair, it is a shame unto him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "but if a woman has long hair, it is glory to her? For the hair has been given to her instead of a covering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if a woman have long hair, it is a glory to her: for her hair is given her for a covering."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "But if anyone seems to be contentious, we have no such custom, nor do the assemblies of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if any man seem to be contentious, we have no such custom, neither the churches of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But in commanding this, I do not praise, because you come together not for the better but for the worse.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in this that I declare unto you I praise you not, that ye come together not for the better, but for the worse."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For first, when you come together in assembly, I hear there are splits among you, and in part I trust it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For first of all, when ye come together in the church, I hear that there be divisions among you; and I partly believe it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For it is necessary that factions also be among you, so that the approved ones may become manifest among you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there must be also heresies among you, that they which are approved may be made manifest among you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "When you therefore come together in the same place, it is not to eat the Lord's supper.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When ye come together therefore into one place, this is not to eat the Lord’s supper."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For each one takes one's own supper beforehand in the eating, and one is hungry while another is drunk.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in eating every one taketh before other his own supper: and one is hungry, and another is drunken."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "poverty-economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Do you not have houses for eating and drinking? Or do you despise the assembly of the Divine and shame those having nothing? What shall I say to you? Shall I praise you? In this I do not praise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What? have ye not houses to eat and to drink in? or despise ye the church of God, and shame them that have not? What shall I say to you? shall I praise you in this? I praise you not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For I received from the Lord what I also handed over to you, that the Lord Jesus, in the night he was handed over, took bread,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I have received of the Lord that which also I delivered unto you, That the Lord Jesus the same night in which he was betrayed took bread:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "and giving thanks, broke it and said, This is my body, which is for you; do this into my remembrance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had given thanks, he brake it, and said, Take, eat: this is my body, which is broken for you: this do in remembrance of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Likewise also the cup after supper, saying, This cup is the new covenant in my blood; do this, as often as you drink, into my remembrance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "After the same manner also he took the cup, when he had supped, saying, This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "covenant"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For as often as you eat this bread and drink the cup, you proclaim the death of the Lord until he comes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as often as ye eat this bread, and drink this cup, ye do shew the Lord’s death till he come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Therefore whoever eats the bread or drinks the cup of the Lord unworthily will be liable concerning the body and blood of the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore whosoever shall eat this bread, and drink this cup of the Lord, unworthily, shall be guilty of the body and blood of the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Let a human examine oneself, and thus let one eat from the bread and drink from the cup.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let a man examine himself, and so let him eat of that bread, and drink of that cup."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "For the one eating and drinking eats and drinks judgment to oneself if not discerning the body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that eateth and drinketh unworthily, eateth and drinketh damnation to himself, not discerning the Lord’s body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Because of this many among you are weak and sick, and a considerable number sleep.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause many are weak and sickly among you, and many sleep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "But if we discerned ourselves, we would not be judged.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if we would judge ourselves, we should not be judged."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "But being judged by the Lord, we are disciplined, so that we may not be condemned with the world.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when we are judged, we are chastened of the Lord, that we should not be condemned with the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "So then, my siblings, when you come together to eat, wait for one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, my brethren, when ye come together to eat, tarry one for another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "If anyone is hungry, let that one eat at home, so that you may not come together into judgment. The remaining things I will set in order when I come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if any man hunger, let him eat at home; that ye come not together unto condemnation. And the rest will I set in order when I come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "poverty-economic-justice"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Kephale is rendered head/source to preserve the debated range of headship/source/order language.",
+    "Women are explicitly praying and prophesying in the assembly; the issue is ordered honor, not silencing.",
+    "Discerning the body includes the communal body, especially the poor shamed at the meal."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-34",
+    "tags": "partial-15-of-34",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-34",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

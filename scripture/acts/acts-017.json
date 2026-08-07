@@ -1,1 +1,552 @@
-{"book":"Acts","book_id":"acts","chapter":17,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Thessalonica, Berea, Athens, Areopagus, unknown god, divine nearness, poets, resurrection response."},"verses":[{"verse":1,"restored":"Passing through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Judeans."},{"verse":2,"restored":"According to Paul's custom, he went in to them, and on three Sabbaths reasoned with them from the Scriptures,"},{"verse":3,"restored":"opening and setting before them that it was necessary for the Messiah to suffer and rise from the dead, and that this Jesus whom I announce to you is the Messiah."},{"verse":4,"restored":"Some of them were persuaded and joined Paul and Silas, also a great multitude of reverent Greeks and not a few leading women."},{"verse":5,"restored":"But the Judeans, becoming jealous and taking some wicked men from the marketplace rabble, gathering a crowd, threw the city into uproar. Standing over Jason's house, they were seeking to bring them out to the people."},{"verse":6,"restored":"Not finding them, they dragged Jason and some siblings before the city rulers, crying, These ones who have turned the inhabited world upside down have come here also,"},{"verse":7,"restored":"whom Jason has received; and all these act against Caesar's decrees, saying there is another king, Jesus."},{"verse":8,"restored":"They troubled the crowd and the city rulers hearing these things."},{"verse":9,"restored":"After taking security from Jason and the rest, they released them."},{"verse":10,"restored":"The siblings immediately sent Paul and Silas away by night to Berea. Arriving, they went into the synagogue of the Judeans."},{"verse":11,"restored":"These were more noble-minded than those in Thessalonica, who received the word with all eagerness, examining the Scriptures daily whether these things were so."},{"verse":12,"restored":"Therefore many of them trusted, and not a few of the honorable Greek women and men."},{"verse":13,"restored":"But when the Judeans from Thessalonica knew that the word of the Divine was also announced by Paul in Berea, they came there also, shaking and troubling the crowds."},{"verse":14,"restored":"Then immediately the siblings sent Paul away to go as far as the sea, but Silas and Timothy remained there."},{"verse":15,"restored":"Those conducting Paul brought him as far as Athens, and receiving a command for Silas and Timothy to come to him as quickly as possible, they departed."},{"verse":16,"restored":"While Paul was waiting for them in Athens, his spirit was provoked within him as he observed the city full of idols."},{"verse":17,"restored":"So he reasoned in the synagogue with the Judeans and reverent ones, and in the marketplace every day with those who happened to be there."},{"verse":18,"restored":"Some of the Epicurean and Stoic philosophers also conversed with him. Some said, What does this seed-picker want to say? Others said, He seems to be an announcer of foreign divinities, because he was announcing good news of Jesus and the resurrection."},{"verse":19,"restored":"Taking hold of him, they brought him to the Areopagus, saying, Are we able to know what this new teaching is that is spoken by you?"},{"verse":20,"restored":"For you are bringing certain strange things to our ears; therefore we wish to know what these things mean."},{"verse":21,"restored":"Now all Athenians and the visiting foreigners spent their time in nothing other than saying or hearing something newer."},{"verse":22,"restored":"Paul, standing in the midst of the Areopagus, said, Men of Athens, I behold that in every way you are very reverent toward divine things."},{"verse":23,"restored":"For passing through and observing the objects of your worship, I found also an altar on which had been written, To an unknown god. What therefore you revere without knowing, this I announce to you."},{"verse":24,"restored":"The Divine who made the world and all things in it, being Lord of heaven and earth, does not dwell in handmade temples,"},{"verse":25,"restored":"nor is served by human hands as though needing anything, since he himself gives to all life and breath and all things."},{"verse":26,"restored":"From one he made every nation of humans to dwell upon all the face of the earth, appointing ordered times and boundaries of their dwelling,"},{"verse":27,"restored":"so that they might seek the Divine, if indeed they might feel after him and find him, though he is not far from each one of us."},{"verse":28,"restored":"For in him we live and move and are, as also some of your own poets have said, For we are also his offspring."},{"verse":29,"restored":"Being therefore offspring of the Divine, we ought not to think the Divine being is like gold or silver or stone, an engraving of human craft and imagination."},{"verse":30,"restored":"Therefore, overlooking the times of ignorance, the Divine now commands all humans everywhere to turn/realign,"},{"verse":31,"restored":"because he has set a day in which he is about to judge the inhabited world in righteousness/justice by a man whom he appointed, giving trust to all by raising him from the dead."},{"verse":32,"restored":"Hearing resurrection of the dead, some mocked, but others said, We will hear you again about this."},{"verse":33,"restored":"Thus Paul went out from their midst."},{"verse":34,"restored":"But some men joined him and trusted, among whom also were Dionysius the Areopagite, a woman named Damaris, and others with them."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 17,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Thessalonica, Berea, Athens, Areopagus, unknown god, divine nearness, poets, resurrection response."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Passing through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Judeans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where was a synagogue of the Jews:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "According to Paul's custom, he went in to them, and on three Sabbaths reasoned with them from the Scriptures,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Paul, as his manner was, went in unto them, and three sabbath days reasoned with them out of the scriptures,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "opening and setting before them that it was necessary for the Messiah to suffer and rise from the dead, and that this Jesus whom I announce to you is the Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Opening and alleging, that Christ must needs have suffered, and risen again from the dead; and that this Jesus, whom I preach unto you, is Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Some of them were persuaded and joined Paul and Silas, also a great multitude of reverent Greeks and not a few leading women.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of them believed, and consorted with Paul and Silas; and of the devout Greeks a great multitude, and of the chief women not a few."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "But the Judeans, becoming jealous and taking some wicked men from the marketplace rabble, gathering a crowd, threw the city into uproar. Standing over Jason's house, they were seeking to bring them out to the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the Jews which believed not, moved with envy, took unto them certain lewd fellows of the baser sort, and gathered a company, and set all the city on an uproar, and assaulted the house of Jason, and sought to bring them out to the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Not finding them, they dragged Jason and some siblings before the city rulers, crying, These ones who have turned the inhabited world upside down have come here also,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they found them not, they drew Jason and certain brethren unto the rulers of the city, crying, These that have turned the world upside down are come hither also;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "whom Jason has received; and all these act against Caesar's decrees, saying there is another king, Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whom Jason hath received: and these all do contrary to the decrees of Caesar, saying that there is another king, one Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "They troubled the crowd and the city rulers hearing these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they troubled the people and the rulers of the city, when they heard these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "After taking security from Jason and the rest, they released them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had taken security of Jason, and of the other, they let them go."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The siblings immediately sent Paul and Silas away by night to Berea. Arriving, they went into the synagogue of the Judeans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the brethren immediately sent away Paul and Silas by night unto Berea: who coming thither went into the synagogue of the Jews."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "These were more noble-minded than those in Thessalonica, who received the word with all eagerness, examining the Scriptures daily whether these things were so.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were more noble than those in Thessalonica, in that they received the word with all readiness of mind, and searched the scriptures daily, whether those things were so."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Therefore many of them trusted, and not a few of the honorable Greek women and men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore many of them believed; also of honourable women which were Greeks, and of men, not a few."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "But when the Judeans from Thessalonica knew that the word of the Divine was also announced by Paul in Berea, they came there also, shaking and troubling the crowds.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the Jews of Thessalonica had knowledge that the word of God was preached of Paul at Berea, they came thither also, and stirred up the people."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Then immediately the siblings sent Paul away to go as far as the sea, but Silas and Timothy remained there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And then immediately the brethren sent away Paul to go as it were to the sea: but Silas and Timotheus abode there still."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Those conducting Paul brought him as far as Athens, and receiving a command for Silas and Timothy to come to him as quickly as possible, they departed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that conducted Paul brought him unto Athens: and receiving a commandment unto Silas and Timotheus for to come to him with all speed, they departed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "While Paul was waiting for them in Athens, his spirit was provoked within him as he observed the city full of idols.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now while Paul waited for them at Athens, his spirit was stirred in him, when he saw the city wholly given to idolatry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "So he reasoned in the synagogue with the Judeans and reverent ones, and in the marketplace every day with those who happened to be there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore disputed he in the synagogue with the Jews, and with the devout persons, and in the market daily with them that met with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Some of the Epicurean and Stoic philosophers also conversed with him. Some said, What does this seed-picker want to say? Others said, He seems to be an announcer of foreign divinities, because he was announcing good news of Jesus and the resurrection.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then certain philosophers of the Epicureans, and of the Stoicks, encountered him. And some said, What will this babbler say? other some, He seemeth to be a setter forth of strange gods: because he preached unto them Jesus, and the resurrection."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Taking hold of him, they brought him to the Areopagus, saying, Are we able to know what this new teaching is that is spoken by you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took him, and brought him unto Areopagus, saying, May we know what this new doctrine, whereof thou speakest, is?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For you are bringing certain strange things to our ears; therefore we wish to know what these things mean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou bringest certain strange things to our ears: we would know therefore what these things mean."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Now all Athenians and the visiting foreigners spent their time in nothing other than saying or hearing something newer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For all the Athenians and strangers which were there spent their time in nothing else, but either to tell, or to hear some new thing.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Paul, standing in the midst of the Areopagus, said, Men of Athens, I behold that in every way you are very reverent toward divine things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Paul stood in the midst of Mars’ hill, and said, Ye men of Athens, I perceive that in all things ye are too superstitious."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For passing through and observing the objects of your worship, I found also an altar on which had been written, To an unknown god. What therefore you revere without knowing, this I announce to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as I passed by, and beheld your devotions, I found an altar with this inscription, TO THE UNKNOWN GOD. Whom therefore ye ignorantly worship, him declare I unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "The Divine who made the world and all things in it, being Lord of heaven and earth, does not dwell in handmade temples,",
+      "familiar": {
+        "source": "KJV",
+        "text": "God that made the world and all things therein, seeing that he is Lord of heaven and earth, dwelleth not in temples made with hands;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "nor is served by human hands as though needing anything, since he himself gives to all life and breath and all things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither is worshipped with men’s hands, as though he needed any thing, seeing he giveth to all life, and breath, and all things;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "From one he made every nation of humans to dwell upon all the face of the earth, appointing ordered times and boundaries of their dwelling,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hath made of one blood all nations of men for to dwell on all the face of the earth, and hath determined the times before appointed, and the bounds of their habitation;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "so that they might seek the Divine, if indeed they might feel after him and find him, though he is not far from each one of us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That they should seek the Lord, if haply they might feel after him, and find him, though he be not far from every one of us:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "For in him we live and move and are, as also some of your own poets have said, For we are also his offspring.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in him we live, and move, and have our being; as certain also of your own poets have said, For we are also his offspring."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Being therefore offspring of the Divine, we ought not to think the Divine being is like gold or silver or stone, an engraving of human craft and imagination.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch then as we are the offspring of God, we ought not to think that the Godhead is like unto gold, or silver, or stone, graven by art and man’s device."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Therefore, overlooking the times of ignorance, the Divine now commands all humans everywhere to turn/realign,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the times of this ignorance God winked at; but now commandeth all men every where to repent:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "because he has set a day in which he is about to judge the inhabited world in righteousness/justice by a man whom he appointed, giving trust to all by raising him from the dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because he hath appointed a day, in the which he will judge the world in righteousness by that man whom he hath ordained; whereof he hath given assurance unto all men, in that he hath raised him from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Hearing resurrection of the dead, some mocked, but others said, We will hear you again about this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they heard of the resurrection of the dead, some mocked: and others said, We will hear thee again of this matter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Thus Paul went out from their midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Paul departed from among them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "But some men joined him and trusted, among whom also were Dionysius the Areopagite, a woman named Damaris, and others with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit certain men clave unto him, and believed: among the which was Dionysius the Areopagite, and a woman named Damaris, and others with them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-34",
+    "tags": "partial-16-of-34",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-34",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

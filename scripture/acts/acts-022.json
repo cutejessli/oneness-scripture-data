@@ -1,1 +1,439 @@
-{"book":"Acts","book_id":"acts","chapter":22,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Hebrew defense, Damascus encounter retold, Ananias, temple vision, nations commission, crowd reaction, Roman citizenship."},"verses":[{"verse":1,"restored":"Men, siblings and fathers, hear my defense now to you."},{"verse":2,"restored":"Hearing that he addressed them in the Hebrew dialect, they provided even more quiet. He says:"},{"verse":3,"restored":"I am a Judean man, born in Tarsus of Cilicia but brought up in this city, educated at the feet of Gamaliel according to the strictness of the ancestral Law, being zealous for the Divine just as all of you are today."},{"verse":4,"restored":"I pursued this Way as far as death, binding and handing over to prisons both men and women,"},{"verse":5,"restored":"as also the high priest and all the council of elders bear witness to me. From them I received letters to the siblings, and I journeyed to Damascus to bring also those there bound to Jerusalem to be punished."},{"verse":6,"restored":"It happened to me, as I was journeying and drawing near to Damascus about noon, suddenly from heaven a considerable light flashed around me."},{"verse":7,"restored":"I fell to the ground and heard a voice saying to me, Saul, Saul, why do you pursue me?"},{"verse":8,"restored":"I answered, Who are you, Lord? He said to me, I am Jesus the Nazarene, whom you pursue."},{"verse":9,"restored":"Those with me beheld the light, but did not understand the voice of the one speaking to me."},{"verse":10,"restored":"I said, What shall I do, Lord? The Lord said to me, Rise and go into Damascus, and there it will be told to you concerning all things appointed for you to do."},{"verse":11,"restored":"Since I was not seeing from the glory of that light, being led by the hand by those with me, I came into Damascus."},{"verse":12,"restored":"A certain Ananias, a devout man according to the Law, well witnessed by all the Judeans dwelling there,"},{"verse":13,"restored":"came to me, stood by me, and said to me, Brother Saul, see again. And in that very hour I looked up at him."},{"verse":14,"restored":"He said, The Divine of our fathers appointed you beforehand to know his will, to see the Righteous One, and to hear a voice from his mouth,"},{"verse":15,"restored":"because you will be a witness for him to all humans of what you have seen and heard."},{"verse":16,"restored":"And now why do you delay? Rise, be baptized, and wash away your sins/misalignments, calling upon his name."},{"verse":17,"restored":"It happened when I returned to Jerusalem and was praying in the temple, that I came to be in a trance"},{"verse":18,"restored":"and saw him saying to me, Hurry and go out quickly from Jerusalem, because they will not receive your witness concerning me."},{"verse":19,"restored":"I said, Lord, they themselves know that I was imprisoning and beating in every synagogue those trusting in you."},{"verse":20,"restored":"And when the blood of Stephen your witness was being poured out, I also stood by and approved, guarding the garments of those killing him."},{"verse":21,"restored":"He said to me, Go, because I will send you far away to the nations."},{"verse":22,"restored":"They were listening to him until this word, and they lifted up their voice, saying, Take such a one away from the earth, for it is not fitting for him to live."},{"verse":23,"restored":"As they were crying out, throwing off garments, and tossing dust into the air,"},{"verse":24,"restored":"the commander commanded him to be brought into the barracks, saying that he should be examined by flogging, so that he might know for what cause they were shouting against him this way."},{"verse":25,"restored":"But when they stretched him forward with straps, Paul said to the centurion standing by, Is it lawful for you to flog a Roman citizen and uncondemned?"},{"verse":26,"restored":"Hearing this, the centurion went to the commander and reported, saying, What are you about to do? For this human is Roman."},{"verse":27,"restored":"The commander came and said to him, Tell me, are you Roman? He said, Yes."},{"verse":28,"restored":"The commander answered, I acquired this citizenship for a large sum. Paul said, But I have been born so."},{"verse":29,"restored":"Immediately therefore those about to examine him withdrew from him, and the commander also was afraid, realizing that he was Roman and that he had bound him."},{"verse":30,"restored":"On the next day, wishing to know the certainty of why he was accused by the Judeans, he released him and commanded the chief priests and all the council to gather, and bringing Paul down, he stood him among them."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Hebrew defense, Damascus encounter retold, Ananias, temple vision, nations commission, crowd reaction, Roman citizenship."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Men, siblings and fathers, hear my defense now to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Men, brethren, and fathers, hear ye my defence which I make now unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Hearing that he addressed them in the Hebrew dialect, they provided even more quiet. He says:",
+      "familiar": {
+        "source": "KJV",
+        "text": "(And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I am a Judean man, born in Tarsus of Cilicia but brought up in this city, educated at the feet of Gamaliel according to the strictness of the ancestral Law, being zealous for the Divine just as all of you are today.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I am verily a man which am a Jew, born in Tarsus, a city in Cilicia, yet brought up in this city at the feet of Gamaliel, and taught according to the perfect manner of the law of the fathers, and was zealous toward God, as ye all are this day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I pursued this Way as far as death, binding and handing over to prisons both men and women,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I persecuted this way unto the death, binding and delivering into prisons both men and women."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "as also the high priest and all the council of elders bear witness to me. From them I received letters to the siblings, and I journeyed to Damascus to bring also those there bound to Jerusalem to be punished.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "It happened to me, as I was journeying and drawing near to Damascus about noon, suddenly from heaven a considerable light flashed around me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, as I made my journey, and was come nigh unto Damascus about noon, suddenly there shone from heaven a great light round about me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I fell to the ground and heard a voice saying to me, Saul, Saul, why do you pursue me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I fell unto the ground, and heard a voice saying unto me, Saul, Saul, why persecutest thou me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "I answered, Who are you, Lord? He said to me, I am Jesus the Nazarene, whom you pursue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I answered, Who art thou, Lord? And he said unto me, I am Jesus of Nazareth, whom thou persecutest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Those with me beheld the light, but did not understand the voice of the one speaking to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "I said, What shall I do, Lord? The Lord said to me, Rise and go into Damascus, and there it will be told to you concerning all things appointed for you to do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said, What shall I do, LORD? And the Lord said unto me, Arise, and go into Damascus; and there it shall be told thee of all things which are appointed for thee to do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Since I was not seeing from the glory of that light, being led by the hand by those with me, I came into Damascus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "A certain Ananias, a devout man according to the Law, well witnessed by all the Judeans dwelling there,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And one Ananias, a devout man according to the law, having a good report of all the Jews which dwelt there,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "came to me, stood by me, and said to me, Brother Saul, see again. And in that very hour I looked up at him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Came unto me, and stood, and said unto me, Brother Saul, receive thy sight. And the same hour I looked up upon him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He said, The Divine of our fathers appointed you beforehand to know his will, to see the Righteous One, and to hear a voice from his mouth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, The God of our fathers hath chosen thee, that thou shouldest know his will, and see that Just One, and shouldest hear the voice of his mouth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "because you will be a witness for him to all humans of what you have seen and heard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou shalt be his witness unto all men of what thou hast seen and heard."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And now why do you delay? Rise, be baptized, and wash away your sins/misalignments, calling upon his name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now why tarriest thou? arise, and be baptized, and wash away thy sins, calling on the name of the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "It happened when I returned to Jerusalem and was praying in the temple, that I came to be in a trance",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, when I was come again to Jerusalem, even while I prayed in the temple, I was in a trance;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "and saw him saying to me, Hurry and go out quickly from Jerusalem, because they will not receive your witness concerning me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And saw him saying unto me, Make haste, and get thee quickly out of Jerusalem: for they will not receive thy testimony concerning me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "I said, Lord, they themselves know that I was imprisoning and beating in every synagogue those trusting in you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And when the blood of Stephen your witness was being poured out, I also stood by and approved, guarding the garments of those killing him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the blood of thy martyr Stephen was shed, I also was standing by, and consenting unto his death, and kept the raiment of them that slew him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "He said to me, Go, because I will send you far away to the nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto me, Depart: for I will send thee far hence unto the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "They were listening to him until this word, and they lifted up their voice, saying, Take such a one away from the earth, for it is not fitting for him to live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "As they were crying out, throwing off garments, and tossing dust into the air,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they cried out, and cast off their clothes, and threw dust into the air,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "the commander commanded him to be brought into the barracks, saying that he should be examined by flogging, so that he might know for what cause they were shouting against him this way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But when they stretched him forward with straps, Paul said to the centurion standing by, Is it lawful for you to flog a Roman citizen and uncondemned?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Hearing this, the centurion went to the commander and reported, saying, What are you about to do? For this human is Roman.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the centurion heard that, he went and told the chief captain, saying, Take heed what thou doest: for this man is a Roman."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "The commander came and said to him, Tell me, are you Roman? He said, Yes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the chief captain came, and said unto him, Tell me, art thou a Roman? He said, Yea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The commander answered, I acquired this citizenship for a large sum. Paul said, But I have been born so.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief captain answered, With a great sum obtained I this freedom. And Paul said, But I was free born."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Immediately therefore those about to examine him withdrew from him, and the commander also was afraid, realizing that he was Roman and that he had bound him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "On the next day, wishing to know the certainty of why he was accused by the Judeans, he released him and commanded the chief priests and all the council to gather, and bringing Paul down, he stood him among them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "partial-6-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

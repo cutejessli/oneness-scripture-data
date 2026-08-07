@@ -1,1 +1,351 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for lawsuits, wronging siblings, inheritance vice list, washed/sanctified, body for Lord, one spirit, body as temple."},"verses":[{"verse":1,"restored":"Does anyone of you, having a matter against another, dare to be judged before the unjust and not before the holy ones?"},{"verse":2,"restored":"Or do you not know that the holy ones will judge the world? And if the world is judged by you, are you unworthy of the smallest courts?"},{"verse":3,"restored":"Do you not know that we will judge messengers? How much more the things of this life?"},{"verse":4,"restored":"If then you have courts concerning things of this life, do you seat those despised in the assembly?"},{"verse":5,"restored":"I say this toward your shame. Is there not among you one wise person who will be able to discern between siblings?"},{"verse":6,"restored":"But sibling is judged with sibling, and this before untrusting ones."},{"verse":7,"restored":"Already indeed it is wholly a defeat for you that you have lawsuits with one another. Why not rather be wronged? Why not rather be defrauded?"},{"verse":8,"restored":"But you wrong and defraud, and this to siblings."},{"verse":9,"restored":"Or do you not know that unjust ones will not inherit the reign of the Divine? Do not be deceived: neither sexually immoral, nor idolaters, nor adulterers, nor soft/exploitative, nor males who misuse males,"},{"verse":10,"restored":"nor thieves, nor greedy, nor drunkards, nor slanderers, nor swindlers will inherit the reign of the Divine."},{"verse":11,"restored":"And these things some of you were; but you were washed, but you were sanctified, but you were made righteous/just in the name of the Lord Jesus Messiah and in the Spirit of our Divine."},{"verse":12,"restored":"All things are permitted for me, but not all things are beneficial. All things are permitted for me, but I will not be mastered by anything."},{"verse":13,"restored":"Foods for the belly and the belly for foods, but the Divine will make inactive both this and these. The body is not for sexual immorality/misuse, but for the Lord, and the Lord for the body."},{"verse":14,"restored":"The Divine both raised the Lord and will raise us up through his power."},{"verse":15,"restored":"Do you not know that your bodies are members of Messiah? Taking then the members of Messiah, shall I make them members of a prostitute? May it not be."},{"verse":16,"restored":"Or do you not know that the one joined to a prostitute is one body? For it says, The two will be into one flesh."},{"verse":17,"restored":"But the one joined to the Lord is one spirit."},{"verse":18,"restored":"Flee sexual immorality/misuse. Every sin/misalignment a human does is outside the body, but the one sexually misusing sins/misaligns against one's own body."},{"verse":19,"restored":"Or do you not know that your body is temple of the holy Spirit in you, whom you have from the Divine, and you are not your own?"},{"verse":20,"restored":"For you were bought with a price. Therefore glorify the Divine in your body."}],"translation_notes":["The vice terms in 6:9 are difficult and historically contested; avoid using them as blanket categories for loving queer relationships. The context is exploitative/unjust behavior in a wider list of harm.","Paul's body language is strongly positive: the body is for the Lord, will be raised, is member of Messiah, and is temple of holy Spirit." ]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for lawsuits, wronging siblings, inheritance vice list, washed/sanctified, body for Lord, one spirit, body as temple."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Does anyone of you, having a matter against another, dare to be judged before the unjust and not before the holy ones?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Or do you not know that the holy ones will judge the world? And if the world is judged by you, are you unworthy of the smallest courts?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye not know that the saints shall judge the world? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Do you not know that we will judge messengers? How much more the things of this life?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not that we shall judge angels? how much more things that pertain to this life?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "If then you have courts concerning things of this life, do you seat those despised in the assembly?",
+      "familiar": {
+        "source": "KJV",
+        "text": "If then ye have judgments of things pertaining to this life, set them to judge who are least esteemed in the church."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "I say this toward your shame. Is there not among you one wise person who will be able to discern between siblings?",
+      "familiar": {
+        "source": "KJV",
+        "text": "I speak to your shame. Is it so, that there is not a wise man among you? no, not one that shall be able to judge between his brethren?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But sibling is judged with sibling, and this before untrusting ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But brother goeth to law with brother, and that before the unbelievers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Already indeed it is wholly a defeat for you that you have lawsuits with one another. Why not rather be wronged? Why not rather be defrauded?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore there is utterly a fault among you, because ye go to law one with another. Why do ye not rather take wrong? why do ye not rather suffer yourselves to be defrauded?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But you wrong and defraud, and this to siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nay, ye do wrong, and defraud, and that your brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Or do you not know that unjust ones will not inherit the reign of the Divine? Do not be deceived: neither sexually immoral, nor idolaters, nor adulterers, nor soft/exploitative, nor males who misuse males,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not that the unrighteous shall not inherit the kingdom of God? Be not deceived: neither fornicators, nor idolaters, nor adulterers, nor effeminate, nor abusers of themselves with mankind,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "nor thieves, nor greedy, nor drunkards, nor slanderers, nor swindlers will inherit the reign of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nor thieves, nor covetous, nor drunkards, nor revilers, nor extortioners, shall inherit the kingdom of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And these things some of you were; but you were washed, but you were sanctified, but you were made righteous/just in the name of the Lord Jesus Messiah and in the Spirit of our Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And such were some of you: but ye are washed, but ye are sanctified, but ye are justified in the name of the Lord Jesus, and by the Spirit of our God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "All things are permitted for me, but not all things are beneficial. All things are permitted for me, but I will not be mastered by anything.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All things are lawful unto me, but all things are not expedient: all things are lawful for me, but I will not be brought under the power of any."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Foods for the belly and the belly for foods, but the Divine will make inactive both this and these. The body is not for sexual immorality/misuse, but for the Lord, and the Lord for the body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Meats for the belly, and the belly for meats: but God shall destroy both it and them. Now the body is not for fornication, but for the Lord; and the Lord for the body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The Divine both raised the Lord and will raise us up through his power.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God hath both raised up the Lord, and will also raise up us by his own power."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Do you not know that your bodies are members of Messiah? Taking then the members of Messiah, shall I make them members of a prostitute? May it not be.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not that your bodies are the members of Christ? shall I then take the members of Christ, and make them the members of an harlot? God forbid."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Or do you not know that the one joined to a prostitute is one body? For it says, The two will be into one flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What? know ye not that he which is joined to an harlot is one body? for two, saith he, shall be one flesh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But the one joined to the Lord is one spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that is joined unto the Lord is one spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Flee sexual immorality/misuse. Every sin/misalignment a human does is outside the body, but the one sexually misusing sins/misaligns against one's own body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Flee fornication. Every sin that a man doeth is without the body; but he that committeth fornication sinneth against his own body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Or do you not know that your body is temple of the holy Spirit in you, whom you have from the Divine, and you are not your own?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For you were bought with a price. Therefore glorify the Divine in your body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye are bought with a price: therefore glorify God in your body, and in your spirit, which are God’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The vice terms in 6:9 are difficult and historically contested; avoid using them as blanket categories for loving queer relationships. The context is exploitative/unjust behavior in a wider list of harm.",
+    "Paul's body language is strongly positive: the body is for the Lord, will be raised, is member of Messiah, and is temple of holy Spirit."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-20",
+    "tags": "partial-6-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

@@ -1,1 +1,443 @@
-{"book":"Acts","book_id":"acts","chapter":25,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Festus, Jerusalem transfer request, Caesar appeal, Agrippa/Bernice, Festus summary."},"verses":[{"verse":1,"restored":"Festus therefore, entering the province, after three days went up to Jerusalem from Caesarea."},{"verse":2,"restored":"The chief priests and first ones of the Judeans informed him against Paul, and they were urging him,"},{"verse":3,"restored":"asking a favor against him, that he would summon him to Jerusalem, making an ambush to kill him along the way."},{"verse":4,"restored":"Festus answered that Paul was being kept in Caesarea, and that he himself was about to go there quickly."},{"verse":5,"restored":"Therefore, he said, let those powerful among you go down with me; if there is anything out of place in the man, let them accuse him."},{"verse":6,"restored":"Spending among them not more than eight or ten days, he went down to Caesarea. The next day, sitting on the judgment seat, he commanded Paul to be brought."},{"verse":7,"restored":"When he arrived, the Judeans who had come down from Jerusalem stood around him, bringing many heavy charges that they were not able to prove."},{"verse":8,"restored":"Paul defended himself: Neither against the Law of the Judeans, nor against the temple, nor against Caesar have I sinned in anything."},{"verse":9,"restored":"Festus, wishing to lay up favor with the Judeans, answered Paul and said, Are you willing to go up to Jerusalem and be judged there before me concerning these things?"},{"verse":10,"restored":"Paul said, I stand before Caesar's judgment seat, where it is necessary for me to be judged. I have wronged the Judeans in nothing, as you also know very well."},{"verse":11,"restored":"If therefore I am doing wrong and have done anything worthy of death, I do not refuse to die. But if there is nothing to the things these accuse me of, no one is able to hand me over to them. I appeal to Caesar."},{"verse":12,"restored":"Then Festus, having conferred with the council, answered, To Caesar you have appealed; to Caesar you shall go."},{"verse":13,"restored":"After some days had passed, Agrippa the king and Bernice arrived at Caesarea to greet Festus."},{"verse":14,"restored":"As they were spending many days there, Festus set Paul's case before the king, saying, There is a certain man left prisoner by Felix."},{"verse":15,"restored":"When I was in Jerusalem, the chief priests and elders of the Judeans informed me about him, asking for a sentence against him."},{"verse":16,"restored":"I answered them that it is not the custom of Romans to hand over any human before the accused has the accusers face to face and receives opportunity for defense concerning the charge."},{"verse":17,"restored":"Therefore, when they came together here, I made no delay; the next day, sitting on the judgment seat, I commanded the man to be brought."},{"verse":18,"restored":"The accusers stood around him, bringing no charge of evil things such as I suspected,"},{"verse":19,"restored":"but they had certain questions against him concerning their own religion and concerning a certain Jesus who had died, whom Paul was claiming to live."},{"verse":20,"restored":"Being perplexed about inquiry concerning these things, I asked whether he wished to go to Jerusalem and be judged there concerning these things."},{"verse":21,"restored":"But Paul, appealing to be kept for the decision of the Emperor, I commanded him to be kept until I send him to Caesar."},{"verse":22,"restored":"Agrippa said to Festus, I myself was wishing to hear the man. Tomorrow, he says, you shall hear him."},{"verse":23,"restored":"Therefore on the next day, when Agrippa and Bernice came with much display and entered the audience hall with commanders and prominent men of the city, and Festus commanded, Paul was brought."},{"verse":24,"restored":"Festus says, King Agrippa and all men present with us, you behold this one concerning whom the whole multitude of the Judeans petitioned me, both in Jerusalem and here, shouting that he ought not to live any longer."},{"verse":25,"restored":"But I found he had done nothing worthy of death. Since he himself appealed to the Emperor, I decided to send him."},{"verse":26,"restored":"I have nothing certain to write to the lord concerning him. Therefore I brought him before you, and especially before you, King Agrippa, so that after examination happens, I may have something to write."},{"verse":27,"restored":"For it seems unreasonable to me, sending a prisoner, not also to indicate the charges against him."}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 25,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Festus, Jerusalem transfer request, Caesar appeal, Agrippa/Bernice, Festus summary."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Festus therefore, entering the province, after three days went up to Jerusalem from Caesarea.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Festus was come into the province, after three days he ascended from Caesarea to Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "The chief priests and first ones of the Judeans informed him against Paul, and they were urging him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the high priest and the chief of the Jews informed him against Paul, and besought him,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "asking a favor against him, that he would summon him to Jerusalem, making an ambush to kill him along the way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And desired favour against him, that he would send for him to Jerusalem, laying wait in the way to kill him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Festus answered that Paul was being kept in Caesarea, and that he himself was about to go there quickly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Festus answered, that Paul should be kept at Caesarea, and that he himself would depart shortly thither."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Therefore, he said, let those powerful among you go down with me; if there is anything out of place in the man, let them accuse him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let them therefore, said he, which among you are able, go down with me, and accuse this man, if there be any wickedness in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Spending among them not more than eight or ten days, he went down to Caesarea. The next day, sitting on the judgment seat, he commanded Paul to be brought.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had tarried among them more than ten days, he went down unto Caesarea; and the next day sitting on the judgment seat commanded Paul to be brought."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "When he arrived, the Judeans who had come down from Jerusalem stood around him, bringing many heavy charges that they were not able to prove.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was come, the Jews which came down from Jerusalem stood round about, and laid many and grievous complaints against Paul, which they could not prove."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Paul defended himself: Neither against the Law of the Judeans, nor against the temple, nor against Caesar have I sinned in anything.",
+      "familiar": {
+        "source": "KJV",
+        "text": "While he answered for himself, Neither against the law of the Jews, neither against the temple, nor yet against Caesar, have I offended any thing at all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Festus, wishing to lay up favor with the Judeans, answered Paul and said, Are you willing to go up to Jerusalem and be judged there before me concerning these things?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Festus, willing to do the Jews a pleasure, answered Paul, and said, Wilt thou go up to Jerusalem, and there be judged of these things before me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Paul said, I stand before Caesar's judgment seat, where it is necessary for me to be judged. I have wronged the Judeans in nothing, as you also know very well.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Paul, I stand at Caesar’s judgment seat, where I ought to be judged: to the Jews have I done no wrong, as thou very well knowest."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "If therefore I am doing wrong and have done anything worthy of death, I do not refuse to die. But if there is nothing to the things these accuse me of, no one is able to hand me over to them. I appeal to Caesar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if I be an offender, or have committed any thing worthy of death, I refuse not to die: but if there be none of these things whereof these accuse me, no man may deliver me unto them. I appeal unto Caesar."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Then Festus, having conferred with the council, answered, To Caesar you have appealed; to Caesar you shall go.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Festus, when he had conferred with the council, answered, Hast thou appealed unto Caesar? unto Caesar shalt thou go."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "After some days had passed, Agrippa the king and Bernice arrived at Caesarea to greet Festus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after certain days king Agrippa and Bernice came unto Caesarea to salute Festus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "As they were spending many days there, Festus set Paul's case before the king, saying, There is a certain man left prisoner by Felix.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had been there many days, Festus declared Paul’s cause unto the king, saying, There is a certain man left in bonds by Felix:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "When I was in Jerusalem, the chief priests and elders of the Judeans informed me about him, asking for a sentence against him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "About whom, when I was at Jerusalem, the chief priests and the elders of the Jews informed me, desiring to have judgment against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "I answered them that it is not the custom of Romans to hand over any human before the accused has the accusers face to face and receives opportunity for defense concerning the charge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To whom I answered, It is not the manner of the Romans to deliver any man to die, before that he which is accused have the accusers face to face, and have licence to answer for himself concerning the crime laid against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Therefore, when they came together here, I made no delay; the next day, sitting on the judgment seat, I commanded the man to be brought.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore, when they were come hither, without any delay on the morrow I sat on the judgment seat, and commanded the man to be brought forth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The accusers stood around him, bringing no charge of evil things such as I suspected,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Against whom when the accusers stood up, they brought none accusation of such things as I supposed:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "but they had certain questions against him concerning their own religion and concerning a certain Jesus who had died, whom Paul was claiming to live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But had certain questions against him of their own superstition, and of one Jesus, which was dead, whom Paul affirmed to be alive."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Being perplexed about inquiry concerning these things, I asked whether he wished to go to Jerusalem and be judged there concerning these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And because I doubted of such manner of questions, I asked him whether he would go to Jerusalem, and there be judged of these matters."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "But Paul, appealing to be kept for the decision of the Emperor, I commanded him to be kept until I send him to Caesar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Paul had appealed to be reserved unto the hearing of Augustus, I commanded him to be kept till I might send him to Caesar."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Agrippa said to Festus, I myself was wishing to hear the man. Tomorrow, he says, you shall hear him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Agrippa said unto Festus, I would also hear the man myself. To morrow, said he, thou shalt hear him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Therefore on the next day, when Agrippa and Bernice came with much display and entered the audience hall with commanders and prominent men of the city, and Festus commanded, Paul was brought.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And on the morrow, when Agrippa was come, and Bernice, with great pomp, and was entered into the place of hearing, with the chief captains, and principal men of the city, at Festus’ commandment Paul was brought forth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Festus says, King Agrippa and all men present with us, you behold this one concerning whom the whole multitude of the Judeans petitioned me, both in Jerusalem and here, shouting that he ought not to live any longer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Festus said, King Agrippa, and all men which are here present with us, ye see this man, about whom all the multitude of the Jews have dealt with me, both at Jerusalem, and also here, crying that he ought not to live any longer."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "But I found he had done nothing worthy of death. Since he himself appealed to the Emperor, I decided to send him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when I found that he had committed nothing worthy of death, and that he himself hath appealed to Augustus, I have determined to send him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "I have nothing certain to write to the lord concerning him. Therefore I brought him before you, and especially before you, King Agrippa, so that after examination happens, I may have something to write.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of whom I have no certain thing to write unto my lord. Wherefore I have brought him forth before you, and specially before thee, O king Agrippa, that, after examination had, I might have somewhat to write."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "basileus",
+          "language": "Greek",
+          "glossary_id": "basileus",
+          "transliteration": "basileus"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "For it seems unreasonable to me, sending a prisoner, not also to indicate the charges against him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it seemeth to me unreasonable to send a prisoner, and not withal to signify the crimes laid against him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-27",
+    "tags": "partial-9-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

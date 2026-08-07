@@ -1,1 +1,498 @@
-{"book":"John","book_id":"john","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Greek Gospel text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for true vine, remaining/abiding, fruit, love/commands, friends, world-order hatred, witness of Spirit of truth."},"verses":[{"verse":1,"restored":"I am the true vine, and my Father is the vine-worker.","tags":["i-am","vine","father"]},{"verse":2,"restored":"Every branch in me not bearing fruit, he takes away; and every one bearing fruit, he cleanses/prunes, so that it may bear more fruit.","tags":["branch","fruit","prune"]},{"verse":3,"restored":"Already you are clean because of the word I have spoken to you.","tags":["clean","word"]},{"verse":4,"restored":"Remain in me, and I in you. Just as the branch is not able to bear fruit from itself unless it remains in the vine, so neither you unless you remain in me.","tags":["remain","vine","fruit"]},{"verse":5,"restored":"I am the vine; you are the branches. The one remaining in me and I in that one bears much fruit, because apart from me you are not able to do anything.","tags":["i-am","remain","branches","fruit"]},{"verse":6,"restored":"If anyone does not remain in me, that one is thrown outside like the branch and dries up; they gather them, throw them into fire, and they are burned.","tags":["remain","branch","fire"]},{"verse":7,"restored":"If you remain in me and my words remain in you, ask whatever you will, and it will happen for you.","tags":["remain","words","ask"]},{"verse":8,"restored":"In this my Father is glorified: that you bear much fruit and become my disciples.","tags":["father","glory","fruit","disciples"]},{"verse":9,"restored":"Just as the Father loved me, I also loved you; remain in my love.","tags":["love","remain"]},{"verse":10,"restored":"If you keep my commands, you will remain in my love, just as I have kept my Father's commands and remain in his love.","tags":["commands","remain","love"]},{"verse":11,"restored":"These things I have spoken to you so that my joy may be in you and your joy may be fulfilled.","tags":["joy","fulfilled"]},{"verse":12,"restored":"This is my command: that you love one another just as I loved you.","tags":["command","love"]},{"verse":13,"restored":"Greater love than this no one has: that one lay down one's life/soul for one's friends.","tags":["love","psyche","friends"]},{"verse":14,"restored":"You are my friends if you do what I command you.","tags":["friends","command"]},{"verse":15,"restored":"No longer do I call you servants, because the servant does not know what the lord is doing; but I have called you friends, because all that I heard from my Father I made known to you.","tags":["friends","servants","father"]},{"verse":16,"restored":"You did not choose me, but I chose you and appointed you so that you may go and bear fruit, and your fruit may remain, so that whatever you ask the Father in my name, he may give you.","tags":["chosen","fruit","remain","name"]},{"verse":17,"restored":"These things I command you, so that you may love one another.","tags":["command","love"]},{"verse":18,"restored":"If the world hates you, know that it has hated me before you.","tags":["world","hatred"]},{"verse":19,"restored":"If you were from the world, the world would love its own; but because you are not from the world, but I chose you out of the world, because of this the world hates you.","tags":["world","chosen"]},{"verse":20,"restored":"Remember the word I said to you: a servant is not greater than the lord. If they pursued me, they will also pursue you; if they kept my word, they will also keep yours.","tags":["servant","word","pursuit"]},{"verse":21,"restored":"But all these things they will do to you because of my name, because they do not know the One who sent me.","tags":["name","sent","knowing"]},{"verse":22,"restored":"If I had not come and spoken to them, they would not have sin/misalignment; but now they have no excuse concerning their sin/misalignment.","tags":["speech","misalignment"]},{"verse":23,"restored":"The one hating me also hates my Father.","tags":["father","hatred"]},{"verse":24,"restored":"If I had not done among them the works no other did, they would not have sin/misalignment; but now they have both seen and hated both me and my Father.","tags":["works","seeing","father"]},{"verse":25,"restored":"But this happened so that the word written in their Law might be fulfilled: They hated me without cause.","tags":["law","fulfillment"]},{"verse":26,"restored":"When the Advocate/Paraclete comes, whom I will send to you from the Father, the Spirit of truth who proceeds from the Father, that one will bear witness concerning me.","tags":["paraclete","spirit-truth","witness","father"]},{"verse":27,"restored":"And you also bear witness, because you are with me from the beginning.","tags":["witness","beginning"]}]}
+{
+  "book": "John",
+  "book_id": "john",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Gospel text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for true vine, remaining/abiding, fruit, love/commands, friends, world-order hatred, witness of Spirit of truth."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "I am the true vine, and my Father is the vine-worker.",
+      "tags": [
+        "i-am",
+        "vine",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am the true vine, and my Father is the husbandman."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Every branch in me not bearing fruit, he takes away; and every one bearing fruit, he cleanses/prunes, so that it may bear more fruit.",
+      "tags": [
+        "branch",
+        "fruit",
+        "prune"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Already you are clean because of the word I have spoken to you.",
+      "tags": [
+        "clean",
+        "word"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now ye are clean through the word which I have spoken unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Remain in me, and I in you. Just as the branch is not able to bear fruit from itself unless it remains in the vine, so neither you unless you remain in me.",
+      "tags": [
+        "remain",
+        "vine",
+        "fruit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "I am the vine; you are the branches. The one remaining in me and I in that one bears much fruit, because apart from me you are not able to do anything.",
+      "tags": [
+        "i-am",
+        "remain",
+        "branches",
+        "fruit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "If anyone does not remain in me, that one is thrown outside like the branch and dries up; they gather them, throw them into fire, and they are burned.",
+      "tags": [
+        "remain",
+        "branch",
+        "fire"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If you remain in me and my words remain in you, ask whatever you will, and it will happen for you.",
+      "tags": [
+        "remain",
+        "words",
+        "ask"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "In this my Father is glorified: that you bear much fruit and become my disciples.",
+      "tags": [
+        "father",
+        "glory",
+        "fruit",
+        "disciples",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Just as the Father loved me, I also loved you; remain in my love.",
+      "tags": [
+        "love",
+        "remain"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "As the Father hath loved me, so have I loved you: continue ye in my love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "If you keep my commands, you will remain in my love, just as I have kept my Father's commands and remain in his love.",
+      "tags": [
+        "commands",
+        "remain",
+        "love"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "These things I have spoken to you so that my joy may be in you and your joy may be fulfilled.",
+      "tags": [
+        "joy",
+        "fulfilled"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "These things have I spoken unto you, that my joy might remain in you, and that your joy might be full."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "This is my command: that you love one another just as I loved you.",
+      "tags": [
+        "command",
+        "love"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is my commandment, That ye love one another, as I have loved you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Greater love than this no one has: that one lay down one's life/soul for one's friends.",
+      "tags": [
+        "love",
+        "psyche",
+        "friends"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Greater love hath no man than this, that a man lay down his life for his friends."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "You are my friends if you do what I command you.",
+      "tags": [
+        "friends",
+        "command"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are my friends, if ye do whatsoever I command you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "No longer do I call you servants, because the servant does not know what the lord is doing; but I have called you friends, because all that I heard from my Father I made known to you.",
+      "tags": [
+        "friends",
+        "servants",
+        "father",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "You did not choose me, but I chose you and appointed you so that you may go and bear fruit, and your fruit may remain, so that whatever you ask the Father in my name, he may give you.",
+      "tags": [
+        "chosen",
+        "fruit",
+        "remain",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "These things I command you, so that you may love one another.",
+      "tags": [
+        "command",
+        "love"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "These things I command you, that ye love one another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "If the world hates you, know that it has hated me before you.",
+      "tags": [
+        "world",
+        "hatred"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If the world hate you, ye know that it hated me before it hated you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "If you were from the world, the world would love its own; but because you are not from the world, but I chose you out of the world, because of this the world hates you.",
+      "tags": [
+        "world",
+        "chosen"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye were of the world, the world would love his own: but because ye are not of the world, but I have chosen you out of the world, therefore the world hateth you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Remember the word I said to you: a servant is not greater than the lord. If they pursued me, they will also pursue you; if they kept my word, they will also keep yours.",
+      "tags": [
+        "servant",
+        "word",
+        "pursuit",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember the word that I said unto you, The servant is not greater than his lord. If they have persecuted me, they will also persecute you; if they have kept my saying, they will keep yours also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "But all these things they will do to you because of my name, because they do not know the One who sent me.",
+      "tags": [
+        "name",
+        "sent",
+        "knowing"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But all these things will they do unto you for my name’s sake, because they know not him that sent me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "If I had not come and spoken to them, they would not have sin/misalignment; but now they have no excuse concerning their sin/misalignment.",
+      "tags": [
+        "speech",
+        "misalignment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If I had not come and spoken unto them, they had not had sin: but now they have no cloak for their sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "The one hating me also hates my Father.",
+      "tags": [
+        "father",
+        "hatred"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "He that hateth me hateth my Father also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "If I had not done among them the works no other did, they would not have sin/misalignment; but now they have both seen and hated both me and my Father.",
+      "tags": [
+        "works",
+        "seeing",
+        "father"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If I had not done among them the works which none other man did, they had not had sin: but now have they both seen and hated both me and my Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But this happened so that the word written in their Law might be fulfilled: They hated me without cause.",
+      "tags": [
+        "law",
+        "fulfillment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But this cometh to pass, that the word might be fulfilled that is written in their law, They hated me without a cause."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "When the Advocate/Paraclete comes, whom I will send to you from the Father, the Spirit of truth who proceeds from the Father, that one will bear witness concerning me.",
+      "tags": [
+        "paraclete",
+        "spirit-truth",
+        "witness",
+        "father",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the Comforter is come, whom I will send unto you from the Father, even the Spirit of truth, which proceedeth from the Father, he shall testify of me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And you also bear witness, because you are with me from the beginning.",
+      "tags": [
+        "witness",
+        "beginning"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye also shall bear witness, because ye have been with me from the beginning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-27",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

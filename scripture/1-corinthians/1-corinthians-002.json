@@ -1,1 +1,323 @@
-{"book":"1 Corinthians","book_id":"1-corinthians","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for weakness/trembling, Spirit and power, hidden wisdom, Spirit searching depths, spiritual discernment, mind of Messiah."},"verses":[{"verse":1,"restored":"And I, coming to you, siblings, did not come according to superiority of word or wisdom, announcing to you the mystery/testimony of the Divine."},{"verse":2,"restored":"For I decided to know nothing among you except Jesus Messiah, and him crucified."},{"verse":3,"restored":"And I was with you in weakness and in fear and in much trembling."},{"verse":4,"restored":"My word and my proclamation were not in persuasive words of wisdom, but in demonstration of Spirit and power,"},{"verse":5,"restored":"so that your trust might not be in human wisdom but in power of the Divine."},{"verse":6,"restored":"Yet we speak wisdom among the mature/complete, but not wisdom of this age nor of rulers of this age who are being made inactive."},{"verse":7,"restored":"But we speak Divine wisdom in mystery, hidden, which the Divine marked out beforehand before the ages for our glory,"},{"verse":8,"restored":"which none of the rulers of this age has known; for if they had known, they would not have crucified the Lord of glory."},{"verse":9,"restored":"But just as it is written: What eye did not see and ear did not hear and did not rise upon the human heart, what the Divine prepared for those loving him."},{"verse":10,"restored":"For to us the Divine unveiled these things through the Spirit; for the Spirit searches all things, even the depths of the Divine."},{"verse":11,"restored":"For who among humans knows the things of a human except the spirit of the human within? So also the things of the Divine no one has known except the Spirit of the Divine."},{"verse":12,"restored":"But we did not receive the spirit of the world, but the Spirit from the Divine, so that we may know the things graciously given to us by the Divine."},{"verse":13,"restored":"These things we also speak, not in taught words of human wisdom, but in taught words of Spirit, interpreting spiritual things to spiritual ones."},{"verse":14,"restored":"But the natural/soul-level human does not receive the things of the Spirit of the Divine, for they are foolishness to that one, and one is not able to know them, because they are spiritually discerned."},{"verse":15,"restored":"The spiritual one discerns all things, but is discerned by no one."},{"verse":16,"restored":"For who has known the mind of the Lord, who will instruct him? But we have the mind of Messiah."}],"translation_notes":["Psychikos is rendered natural/soul-level to preserve the contrast with pneumatikos/spiritual without implying the soul is evil.","Paul rejects status-performance wisdom, not deep wisdom itself; he speaks hidden Divine wisdom through Spirit." ]}
+{
+  "book": "1 Corinthians",
+  "book_id": "1-corinthians",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Corinthians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for weakness/trembling, Spirit and power, hidden wisdom, Spirit searching depths, spiritual discernment, mind of Messiah."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And I, coming to you, siblings, did not come according to superiority of word or wisdom, announcing to you the mystery/testimony of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I, brethren, when I came to you, came not with excellency of speech or of wisdom, declaring unto you the testimony of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For I decided to know nothing among you except Jesus Messiah, and him crucified.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I determined not to know any thing among you, save Jesus Christ, and him crucified."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "And I was with you in weakness and in fear and in much trembling.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I was with you in weakness, and in fear, and in much trembling."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "My word and my proclamation were not in persuasive words of wisdom, but in demonstration of Spirit and power,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And my speech and my preaching was not with enticing words of man’s wisdom, but in demonstration of the Spirit and of power:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "so that your trust might not be in human wisdom but in power of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That your faith should not stand in the wisdom of men, but in the power of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Yet we speak wisdom among the mature/complete, but not wisdom of this age nor of rulers of this age who are being made inactive.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But we speak Divine wisdom in mystery, hidden, which the Divine marked out beforehand before the ages for our glory,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "which none of the rulers of this age has known; for if they had known, they would not have crucified the Lord of glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But just as it is written: What eye did not see and ear did not hear and did not rise upon the human heart, what the Divine prepared for those loving him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as it is written, Eye hath not seen, nor ear heard, neither have entered into the heart of man, the things which God hath prepared for them that love him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For to us the Divine unveiled these things through the Spirit; for the Spirit searches all things, even the depths of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For who among humans knows the things of a human except the spirit of the human within? So also the things of the Divine no one has known except the Spirit of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For what man knoweth the things of a man, save the spirit of man which is in him? even so the things of God knoweth no man, but the Spirit of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But we did not receive the spirit of the world, but the Spirit from the Divine, so that we may know the things graciously given to us by the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now we have received, not the spirit of the world, but the spirit which is of God; that we might know the things that are freely given to us of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "These things we also speak, not in taught words of human wisdom, but in taught words of Spirit, interpreting spiritual things to spiritual ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which things also we speak, not in the words which man’s wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But the natural/soul-level human does not receive the things of the Spirit of the Divine, for they are foolishness to that one, and one is not able to know them, because they are spiritually discerned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "The spiritual one discerns all things, but is discerned by no one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that is spiritual judgeth all things, yet he himself is judged of no man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For who has known the mind of the Lord, who will instruct him? But we have the mind of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For who hath known the mind of the Lord, that he may instruct him? But we have the mind of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Psychikos is rendered natural/soul-level to preserve the contrast with pneumatikos/spiritual without implying the soul is evil.",
+    "Paul rejects status-performance wisdom, not deep wisdom itself; he speaks hidden Divine wisdom through Spirit."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-16",
+    "tags": "partial-6-of-16",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-16",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

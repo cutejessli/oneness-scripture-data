@@ -1,1 +1,401 @@
-{"book":"Romans","book_id":"romans","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Greek Romans text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for peace, grace, hope, love poured through Spirit, reconciliation, Adam/Messiah contrast, sin/death/grace as powers."},"verses":[{"verse":1,"restored":"Therefore, having been made righteous/just from trust, we have peace toward the Divine through our Lord Jesus Messiah."},{"verse":2,"restored":"Through whom also we have access by trust into this grace in which we stand, and we boast in hope of the glory of the Divine."},{"verse":3,"restored":"And not only this, but we also boast in pressures, knowing that pressure works endurance,"},{"verse":4,"restored":"and endurance tested character, and tested character hope."},{"verse":5,"restored":"And hope does not shame, because the love of the Divine has been poured out in our hearts through holy Spirit given to us."},{"verse":6,"restored":"For while we were still weak, at the right time Messiah died for the ungodly."},{"verse":7,"restored":"For rarely will someone die for a righteous/just person; though perhaps for the good person someone may even dare to die."},{"verse":8,"restored":"But the Divine shows his own love toward us, because while we were still sinners/misaligned, Messiah died for us."},{"verse":9,"restored":"Much more then, having now been made righteous/just in his blood, we will be saved/healed through him from wrath."},{"verse":10,"restored":"For if while enemies we were reconciled to the Divine through the death of his Son, much more, having been reconciled, we will be saved/healed in his life."},{"verse":11,"restored":"And not only this, but we also boast in the Divine through our Lord Jesus Messiah, through whom we have now received reconciliation."},{"verse":12,"restored":"Because of this, just as through one human sin/misalignment entered into the world, and through sin/misalignment death, and so death passed through into all humans, because all sinned/misaligned—"},{"verse":13,"restored":"for until Law, sin/misalignment was in the world, but sin/misalignment is not counted where there is no Law."},{"verse":14,"restored":"Yet death reigned from Adam until Moses, even over those who did not sin/misalign in the likeness of Adam's transgression, who is a pattern of the coming one."},{"verse":15,"restored":"But the gift is not like the trespass. For if by the trespass of the one the many died, much more did the grace of the Divine and the gift in grace of the one human Jesus Messiah abound to the many."},{"verse":16,"restored":"The gift is not through one who sinned/misaligned; for the judgment from one trespass led to condemnation, but the gift from many trespasses led to righteousness/justice."},{"verse":17,"restored":"For if by the trespass of the one, death reigned through the one, much more those receiving the abundance of grace and the gift of righteousness/justice will reign in life through the one, Jesus Messiah."},{"verse":18,"restored":"Therefore then, as through one trespass judgment came to all humans into condemnation, so also through one righteous/just act the gift came to all humans into righteousness/justice of life."},{"verse":19,"restored":"For just as through the disobedience of the one human the many were constituted sinners/misaligned, so also through the obedience of the one the many will be constituted righteous/just."},{"verse":20,"restored":"Law came in alongside so that the trespass might abound; but where sin/misalignment abounded, grace overabounded,"},{"verse":21,"restored":"so that just as sin/misalignment reigned in death, so also grace might reign through righteousness/justice into age-long life through Jesus Messiah our Lord."}],"translation_notes":["Sin and death in Romans 5 are treated as reigning powers, not merely isolated bad actions.","The Adam/Messiah contrast should not be flattened into later inherited-guilt formulas; Paul is contrasting two regimes and their effects."]}
+{
+  "book": "Romans",
+  "book_id": "romans",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Romans text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for peace, grace, hope, love poured through Spirit, reconciliation, Adam/Messiah contrast, sin/death/grace as powers."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore, having been made righteous/just from trust, we have peace toward the Divine through our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Through whom also we have access by trust into this grace in which we stand, and we boast in hope of the glory of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "By whom also we have access by faith into this grace wherein we stand, and rejoice in hope of the glory of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And not only this, but we also boast in pressures, knowing that pressure works endurance,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "and endurance tested character, and tested character hope.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And patience, experience; and experience, hope:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And hope does not shame, because the love of the Divine has been poured out in our hearts through holy Spirit given to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "For while we were still weak, at the right time Messiah died for the ungodly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For when we were yet without strength, in due time Christ died for the ungodly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For rarely will someone die for a righteous/just person; though perhaps for the good person someone may even dare to die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For scarcely for a righteous man will one die: yet peradventure for a good man some would even dare to die."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But the Divine shows his own love toward us, because while we were still sinners/misaligned, Messiah died for us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Much more then, having now been made righteous/just in his blood, we will be saved/healed through him from wrath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Much more then, being now justified by his blood, we shall be saved from wrath through him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For if while enemies we were reconciled to the Divine through the death of his Son, much more, having been reconciled, we will be saved/healed in his life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And not only this, but we also boast in the Divine through our Lord Jesus Messiah, through whom we have now received reconciliation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And not only so, but we also joy in God through our Lord Jesus Christ, by whom we have now received the atonement."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Because of this, just as through one human sin/misalignment entered into the world, and through sin/misalignment death, and so death passed through into all humans, because all sinned/misaligned—",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "for until Law, sin/misalignment was in the world, but sin/misalignment is not counted where there is no Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For until the law sin was in the world: but sin is not imputed when there is no law."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Yet death reigned from Adam until Moses, even over those who did not sin/misalign in the likeness of Adam's transgression, who is a pattern of the coming one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless death reigned from Adam to Moses, even over them that had not sinned after the similitude of Adam’s transgression, who is the figure of him that was to come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But the gift is not like the trespass. For if by the trespass of the one the many died, much more did the grace of the Divine and the gift in grace of the one human Jesus Messiah abound to the many.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "The gift is not through one who sinned/misaligned; for the judgment from one trespass led to condemnation, but the gift from many trespasses led to righteousness/justice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For if by the trespass of the one, death reigned through the one, much more those receiving the abundance of grace and the gift of righteousness/justice will reign in life through the one, Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Therefore then, as through one trespass judgment came to all humans into condemnation, so also through one righteous/just act the gift came to all humans into righteousness/justice of life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For just as through the disobedience of the one human the many were constituted sinners/misaligned, so also through the obedience of the one the many will be constituted righteous/just.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as by one man’s disobedience many were made sinners, so by the obedience of one shall many be made righteous."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Law came in alongside so that the trespass might abound; but where sin/misalignment abounded, grace overabounded,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the law entered, that the offence might abound. But where sin abounded, grace did much more abound:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "so that just as sin/misalignment reigned in death, so also grace might reign through righteousness/justice into age-long life through Jesus Messiah our Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That as sin hath reigned unto death, even so might grace reign through righteousness unto eternal life by Jesus Christ our Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Sin and death in Romans 5 are treated as reigning powers, not merely isolated bad actions.",
+    "The Adam/Messiah contrast should not be flattened into later inherited-guilt formulas; Paul is contrasting two regimes and their effects."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-21",
+    "tags": "partial-7-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}

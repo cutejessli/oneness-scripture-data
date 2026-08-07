@@ -1,1 +1,741 @@
-{"book":"Acts","book_id":"acts","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek Acts text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for arrest, council, name/saving-healing witness, boldness, no other name, prayer with Psalm 2, Spirit-filled speech, common possessions, Barnabas."},"verses":[{"verse":1,"restored":"As they were speaking to the people, the priests, captain of the temple, and Sadducees came upon them,","tags":["temple","sadducees","opposition"]},{"verse":2,"restored":"being greatly troubled because they were teaching the people and announcing in Jesus the resurrection from the dead.","tags":["teaching","resurrection","jesus"]},{"verse":3,"restored":"They laid hands on them and put them in custody until the next day, for it was already evening.","tags":["custody","evening"]},{"verse":4,"restored":"But many of those who heard the word trusted, and the number of the men came to about five thousand.","tags":["word","trust","five-thousand"]},{"verse":5,"restored":"It happened on the next day that their rulers, elders, and scribes were gathered in Jerusalem,","tags":["rulers","elders","jerusalem"]},{"verse":6,"restored":"with Annas the high priest, Caiaphas, John, Alexander, and as many as were from the high-priestly family.","tags":["annas","caiaphas","high-priest"]},{"verse":7,"restored":"Setting them in the middle, they were inquiring, In what power or in what name did you do this?","tags":["power","name","question"]},{"verse":8,"restored":"Then Peter, filled with holy Spirit, said to them, Rulers of the people and elders,","tags":["peter","holy-spirit","speech"]},{"verse":9,"restored":"if we today are examined concerning a good deed to a weak human, by what this one has been saved/healed,","tags":["weak","good-deed","sozo"]},{"verse":10,"restored":"let it be known to all of you and to all the people of Israel that in the name of Jesus Messiah the Nazarene, whom you crucified, whom the Divine raised from the dead, in this one this human stands before you whole.","tags":["name","jesus","raised","whole"]},{"verse":11,"restored":"This is the stone treated as nothing by you the builders, which became head of the corner.","tags":["stone","corner"]},{"verse":12,"restored":"And there is saving/healing in no other, for there is no other name under heaven given among humans by which it is necessary for us to be saved/healed.","tags":["sozo","name","heaven"]},{"verse":13,"restored":"Beholding the boldness of Peter and John and perceiving that they were unlettered and ordinary humans, they marveled; and they recognized them as those who had been with Jesus.","tags":["boldness","peter","john","jesus"]},{"verse":14,"restored":"Seeing the human who had been healed standing with them, they had nothing to say against it.","tags":["healed","standing"]},{"verse":15,"restored":"Commanding them to go outside the council, they were conferring with one another,","tags":["council"]},{"verse":16,"restored":"saying, What shall we do with these humans? For that a known sign has happened through them is manifest to all those dwelling in Jerusalem, and we are not able to deny it.","tags":["sign","jerusalem","deny"]},{"verse":17,"restored":"But so that it may not spread further among the people, let us threaten them not to speak anymore in this name to any human.","tags":["threat","name"]},{"verse":18,"restored":"Calling them, they commanded them not to speak at all nor teach in the name of Jesus.","tags":["command","name","teaching"]},{"verse":19,"restored":"But Peter and John answered and said to them, Whether it is righteous before the Divine to hear you rather than the Divine, judge.","tags":["peter","john","hearing","justice"]},{"verse":20,"restored":"For we are not able not to speak of what we saw and heard.","tags":["sight","hearing","witness"]},{"verse":21,"restored":"After threatening them further, they released them, finding nothing for which they might punish them, because of the people, for all were glorifying the Divine over what had happened.","tags":["release","people","glory"]},{"verse":22,"restored":"For the human on whom this sign of healing had happened was more than forty years old.","tags":["sign","healing","forty"]},{"verse":23,"restored":"Having been released, they came to their own and reported all that the chief priests and elders had said to them.","tags":["release","report"]},{"verse":24,"restored":"Hearing, they lifted one voice to the Divine and said, Master, you who made heaven and earth and sea and all things in them,","tags":["one-voice","creator","prayer"]},{"verse":25,"restored":"who through holy Spirit by the mouth of our father David your servant said, Why did nations rage and peoples meditate empty things?","tags":["holy-spirit","david","psalm"]},{"verse":26,"restored":"The kings of the earth stood near, and the rulers were gathered together against the Lord and against his Messiah.","tags":["kings","rulers","messiah"]},{"verse":27,"restored":"For in truth, in this city, they were gathered against your holy servant/child Jesus, whom you anointed: both Herod and Pontius Pilate, with nations and peoples of Israel,","tags":["jesus","herod","pilate","anointed"]},{"verse":28,"restored":"to do whatever your hand and your purpose had predestined to happen.","tags":["hand","purpose"]},{"verse":29,"restored":"And now, Lord, look upon their threats and give to your servants to speak your word with all boldness,","tags":["threats","word","boldness"]},{"verse":30,"restored":"while you stretch out your hand for healing, and signs and wonders happen through the name of your holy servant/child Jesus.","tags":["healing","signs","name"]},{"verse":31,"restored":"When they had prayed, the place in which they were gathered was shaken, and they were all filled with holy Spirit and were speaking the word of the Divine with boldness.","tags":["prayer","shaken","holy-spirit","boldness"]},{"verse":32,"restored":"The multitude of those who trusted were one heart and soul/life, and not one said that anything belonging to him was his own, but all things were common to them.","tags":["one-heart","common","trust"]},{"verse":33,"restored":"With great power the apostles were giving witness of the resurrection of the Lord Jesus, and great grace was upon them all.","tags":["power","witness","resurrection","grace"]},{"verse":34,"restored":"For there was not anyone needy among them; as many as were owners of lands or houses were selling and bringing the proceeds of what was sold,","tags":["need","possessions"]},{"verse":35,"restored":"and laying them at the apostles' feet; it was distributed to each as anyone had need.","tags":["distribution","need"]},{"verse":36,"restored":"Joseph, who was called Barnabas by the apostles, which is translated Son of Encouragement, a Levite, Cypriot by birth,","tags":["barnabas","encouragement","levite"]},{"verse":37,"restored":"having a field, sold it, brought the silver, and laid it at the apostles' feet.","tags":["field","silver","apostles"]}]}
+{
+  "book": "Acts",
+  "book_id": "acts",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Acts text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for arrest, council, name/saving-healing witness, boldness, no other name, prayer with Psalm 2, Spirit-filled speech, common possessions, Barnabas."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "As they were speaking to the people, the priests, captain of the temple, and Sadducees came upon them,",
+      "tags": [
+        "temple",
+        "sadducees",
+        "opposition",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And as they spake unto the people, the priests, and the captain of the temple, and the Sadducees, came upon them,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "being greatly troubled because they were teaching the people and announcing in Jesus the resurrection from the dead.",
+      "tags": [
+        "teaching",
+        "resurrection",
+        "jesus"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Being grieved that they taught the people, and preached through Jesus the resurrection from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They laid hands on them and put them in custody until the next day, for it was already evening.",
+      "tags": [
+        "custody",
+        "evening"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they laid hands on them, and put them in hold unto the next day: for it was now eventide."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But many of those who heard the word trusted, and the number of the men came to about five thousand.",
+      "tags": [
+        "word",
+        "trust",
+        "five-thousand"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit many of them which heard the word believed; and the number of the men was about five thousand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "It happened on the next day that their rulers, elders, and scribes were gathered in Jerusalem,",
+      "tags": [
+        "rulers",
+        "elders",
+        "jerusalem"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass on the morrow, that their rulers, and elders, and scribes,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "with Annas the high priest, Caiaphas, John, Alexander, and as many as were from the high-priestly family.",
+      "tags": [
+        "annas",
+        "caiaphas",
+        "high-priest",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Annas the high priest, and Caiaphas, and John, and Alexander, and as many as were of the kindred of the high priest, were gathered together at Jerusalem."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Setting them in the middle, they were inquiring, In what power or in what name did you do this?",
+      "tags": [
+        "power",
+        "name",
+        "question"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had set them in the midst, they asked, By what power, or by what name, have ye done this?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Then Peter, filled with holy Spirit, said to them, Rulers of the people and elders,",
+      "tags": [
+        "peter",
+        "holy-spirit",
+        "speech",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Peter, filled with the Holy Ghost, said unto them, Ye rulers of the people, and elders of Israel,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "if we today are examined concerning a good deed to a weak human, by what this one has been saved/healed,",
+      "tags": [
+        "weak",
+        "good-deed",
+        "sozo",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "If we this day be examined of the good deed done to the impotent man, by what means he is made whole;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "let it be known to all of you and to all the people of Israel that in the name of Jesus Messiah the Nazarene, whom you crucified, whom the Divine raised from the dead, in this one this human stands before you whole.",
+      "tags": [
+        "name",
+        "jesus",
+        "raised",
+        "whole"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Be it known unto you all, and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom ye crucified, whom God raised from the dead, even by him doth this man stand here before you whole."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "This is the stone treated as nothing by you the builders, which became head of the corner.",
+      "tags": [
+        "stone",
+        "corner"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the stone which was set at nought of you builders, which is become the head of the corner."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And there is saving/healing in no other, for there is no other name under heaven given among humans by which it is necessary for us to be saved/healed.",
+      "tags": [
+        "sozo",
+        "name",
+        "heaven",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither is there salvation in any other: for there is none other name under heaven given among men, whereby we must be saved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Beholding the boldness of Peter and John and perceiving that they were unlettered and ordinary humans, they marveled; and they recognized them as those who had been with Jesus.",
+      "tags": [
+        "boldness",
+        "peter",
+        "john",
+        "jesus"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when they saw the boldness of Peter and John, and perceived that they were unlearned and ignorant men, they marvelled; and they took knowledge of them, that they had been with Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Seeing the human who had been healed standing with them, they had nothing to say against it.",
+      "tags": [
+        "healed",
+        "standing",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And beholding the man which was healed standing with them, they could say nothing against it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Commanding them to go outside the council, they were conferring with one another,",
+      "tags": [
+        "council"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But when they had commanded them to go aside out of the council, they conferred among themselves,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "saying, What shall we do with these humans? For that a known sign has happened through them is manifest to all those dwelling in Jerusalem, and we are not able to deny it.",
+      "tags": [
+        "sign",
+        "jerusalem",
+        "deny"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, What shall we do to these men? for that indeed a notable miracle hath been done by them is manifest to all them that dwell in Jerusalem; and we cannot deny it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But so that it may not spread further among the people, let us threaten them not to speak anymore in this name to any human.",
+      "tags": [
+        "threat",
+        "name"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But that it spread no further among the people, let us straitly threaten them, that they speak henceforth to no man in this name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Calling them, they commanded them not to speak at all nor teach in the name of Jesus.",
+      "tags": [
+        "command",
+        "name",
+        "teaching"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they called them, and commanded them not to speak at all nor teach in the name of Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But Peter and John answered and said to them, Whether it is righteous before the Divine to hear you rather than the Divine, judge.",
+      "tags": [
+        "peter",
+        "john",
+        "hearing",
+        "justice"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But Peter and John answered and said unto them, Whether it be right in the sight of God to hearken unto you more than unto God, judge ye."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For we are not able not to speak of what we saw and heard.",
+      "tags": [
+        "sight",
+        "hearing",
+        "witness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For we cannot but speak the things which we have seen and heard."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "After threatening them further, they released them, finding nothing for which they might punish them, because of the people, for all were glorifying the Divine over what had happened.",
+      "tags": [
+        "release",
+        "people",
+        "glory"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "So when they had further threatened them, they let them go, finding nothing how they might punish them, because of the people: for all men glorified God for that which was done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For the human on whom this sign of healing had happened was more than forty years old.",
+      "tags": [
+        "sign",
+        "healing",
+        "forty",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For the man was above forty years old, on whom this miracle of healing was shewed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Having been released, they came to their own and reported all that the chief priests and elders had said to them.",
+      "tags": [
+        "release",
+        "report",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And being let go, they went to their own company, and reported all that the chief priests and elders had said unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Hearing, they lifted one voice to the Divine and said, Master, you who made heaven and earth and sea and all things in them,",
+      "tags": [
+        "one-voice",
+        "creator",
+        "prayer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they heard that, they lifted up their voice to God with one accord, and said, Lord, thou art God, which hast made heaven, and earth, and the sea, and all that in them is:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "who through holy Spirit by the mouth of our father David your servant said, Why did nations rage and peoples meditate empty things?",
+      "tags": [
+        "holy-spirit",
+        "david",
+        "psalm",
+        "labor-power",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Who by the mouth of thy servant David hast said, Why did the heathen rage, and the people imagine vain things?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "The kings of the earth stood near, and the rulers were gathered together against the Lord and against his Messiah.",
+      "tags": [
+        "kings",
+        "rulers",
+        "messiah",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "The kings of the earth stood up, and the rulers were gathered together against the Lord, and against his Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "For in truth, in this city, they were gathered against your holy servant/child Jesus, whom you anointed: both Herod and Pontius Pilate, with nations and peoples of Israel,",
+      "tags": [
+        "jesus",
+        "herod",
+        "pilate",
+        "anointed",
+        "labor-power",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For of a truth against thy holy child Jesus, whom thou hast anointed, both Herod, and Pontius Pilate, with the Gentiles, and the people of Israel, were gathered together,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "to do whatever your hand and your purpose had predestined to happen.",
+      "tags": [
+        "hand",
+        "purpose"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For to do whatsoever thy hand and thy counsel determined before to be done."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "And now, Lord, look upon their threats and give to your servants to speak your word with all boldness,",
+      "tags": [
+        "threats",
+        "word",
+        "boldness",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, Lord, behold their threatenings: and grant unto thy servants, that with all boldness they may speak thy word,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "while you stretch out your hand for healing, and signs and wonders happen through the name of your holy servant/child Jesus.",
+      "tags": [
+        "healing",
+        "signs",
+        "name",
+        "labor-power",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "By stretching forth thine hand to heal; and that signs and wonders may be done by the name of thy holy child Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "When they had prayed, the place in which they were gathered was shaken, and they were all filled with holy Spirit and were speaking the word of the Divine with boldness.",
+      "tags": [
+        "prayer",
+        "shaken",
+        "holy-spirit",
+        "boldness",
+        "spirit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had prayed, the place was shaken where they were assembled together; and they were all filled with the Holy Ghost, and they spake the word of God with boldness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "The multitude of those who trusted were one heart and soul/life, and not one said that anything belonging to him was his own, but all things were common to them.",
+      "tags": [
+        "one-heart",
+        "common",
+        "trust"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the multitude of them that believed were of one heart and of one soul: neither said any of them that ought of the things which he possessed was his own; but they had all things common."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "With great power the apostles were giving witness of the resurrection of the Lord Jesus, and great grace was upon them all.",
+      "tags": [
+        "power",
+        "witness",
+        "resurrection",
+        "grace",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And with great power gave the apostles witness of the resurrection of the Lord Jesus: and great grace was upon them all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "For there was not anyone needy among them; as many as were owners of lands or houses were selling and bringing the proceeds of what was sold,",
+      "tags": [
+        "need",
+        "possessions"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither was there any among them that lacked: for as many as were possessors of lands or houses sold them, and brought the prices of the things that were sold,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "and laying them at the apostles' feet; it was distributed to each as anyone had need.",
+      "tags": [
+        "distribution",
+        "need",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And laid them down at the apostles’ feet: and distribution was made unto every man according as he had need."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "Joseph, who was called Barnabas by the apostles, which is translated Son of Encouragement, a Levite, Cypriot by birth,",
+      "tags": [
+        "barnabas",
+        "encouragement",
+        "levite",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joses, who by the apostles was surnamed Barnabas, (which is, being interpreted, The son of consolation,) a Levite, and of the country of Cyprus,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "having a field, sold it, brought the silver, and laid it at the apostles' feet.",
+      "tags": [
+        "field",
+        "silver",
+        "apostles",
+        "religious-authority"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Having land, sold it, and brought the money, and laid it at the apostles’ feet."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-37",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-37",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 5
+  }
+}
