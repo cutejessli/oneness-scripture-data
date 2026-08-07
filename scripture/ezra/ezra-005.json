@@ -1,0 +1,505 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Aramaic-based draft of Ezra 5 aligned to KJV verse numbering; preserves administrative correspondence, prophetic agents, and Persian-period names. Requires witness-check on a few Aramaic orthographic variants (e.g., nebiya / נְבִיָּא) and on the identification/reading of Persian officials' names."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then the prophets Haggai (חַגַּי) and Zechariah son of Iddo prophesied to the Jews in Judah and in Jerusalem in the name of the God of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the prophets, Haggai the prophet, and Zechariah the son of Iddo, prophesied unto the Jews that were in Judah and Jerusalem in the name of the God of Israel, even unto them."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "The source shows a secondary form (נְבִיָּא) for 'prophet' — a dialectal/orthographic variant that needs witness check."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Haggai",
+          "source": "חַגַּי",
+          "language": "Aramaic",
+          "glossary_id": "haggai"
+        },
+        {
+          "display": "Zechariah son of Iddo",
+          "source": "זְכַרְיָה בַּר־עִדּוֹא",
+          "language": "Aramaic",
+          "glossary_id": "zechariah-son-of-iddo"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "restoration"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:14",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine:needs_witness_review"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Then rose up Zerubbabel son of Shealtiel and Jeshua son of Jozadak, with their officers, and they began the rebuilding of the house of God at Jerusalem; and with them were the prophets of God to help them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then rose up Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and began to build the house of God which is at Jerusalem: and with them were the prophets of God helping them."
+      },
+      "notes": [
+        {
+          "title": "names",
+          "body": "Zerubbabel and Jeshua appear with administrative titles; confirm genealogical forms in witnesses."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Zerubbabel",
+          "source": "זְרֻבָּבֶל",
+          "language": "Aramaic",
+          "glossary_id": "zerubbabel"
+        },
+        {
+          "display": "Jeshua (Jozadak)",
+          "source": "יֵשׁוּעַ בַּר־יֽוֹצָדָק",
+          "language": "Aramaic",
+          "glossary_id": "jeshua-jozadak"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "rebuilding"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine:review_names"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "At that time came to them Tatnai, governor on this side the river, and Shethar‑boznai and their companions, and said to them, 'Who hath commanded you to build this house and to complete this wall?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "At the same time came to them Tatnai, governor on this side the river, and Shetharboznai, and their companions, and said thus unto them, Who hath commanded you to build this house, and to make up this wall?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tatnai",
+          "source": "טַעְנָי",
+          "language": "Aramaic",
+          "glossary_id": "tatnai"
+        },
+        {
+          "display": "Shethar‑boznai",
+          "source": "שְׁתַר־בּוֹזְנַי",
+          "language": "Aramaic",
+          "glossary_id": "shethar-boznai"
+        }
+      ],
+      "tags": [
+        "official_inquiry",
+        "governance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine:preserve_form"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Then we answered them in this way: 'Tell us the names of the men who are building this structure.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said we unto them after this manner, What are the names of the men that make this building?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "inquiry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But the eye of their God was upon the elders of the Jews, so that they could not stop them until the matter reached Darius; and then they returned answer by letter concerning these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the eye of their God was upon the elders of the Jews, that they could not cause them to cease, till the matter came to Darius: and then they returned answer by letter concerning this matter."
+      },
+      "notes": [
+        {
+          "title": "idiom",
+          "body": "'The eye of their God' is an idiomatic expression signaling divine oversight rather than a literal gaze."
+        }
+      ],
+      "terms": [
+        {
+          "display": "God",
+          "source": "אֱלָהָא",
+          "language": "Aramaic",
+          "glossary_id": "god-aramaic"
+        }
+      ],
+      "tags": [
+        "providence",
+        "legal"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 4:24",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Now the copy of the letter which Tatnai, governor on this side the river, and Shethar‑boznai and his companions the Apharsachites who were on this side the river, sent to Darius the king, is as follows:",
+      "familiar": {
+        "source": "KJV",
+        "text": "The copy of the letter that Tatnai, governor on this side the river, and Shetharboznai, and his companions the Apharsachites, which were on this side the river, sent unto Darius the king:"
+      },
+      "notes": [
+        {
+          "title": "ethnic",
+          "body": "Apharsachites (אֲפַרְסְכָיֵא) likely denotes an ethnic/administrative group; verify reading against witnesses."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Apharsachites",
+          "source": "אֲפַרְסְכָיֵא",
+          "language": "Aramaic",
+          "glossary_id": "apharsachites"
+        }
+      ],
+      "tags": [
+        "administration",
+        "correspondence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine:verify_ethnonym"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "They sent a letter to him, in which was written thus: 'To Darius the king, all peace.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "They sent a letter unto him, wherein was written thus; Unto Darius the king, all peace."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Darius",
+          "source": "דָּרְיָוֶשׁ",
+          "language": "Aramaic",
+          "glossary_id": "darius"
+        }
+      ],
+      "tags": [
+        "correspondence"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Be it known unto the king that we went into the province of Judea to the house of the great God, which is built with great stones; and timber is laid in the walls, and the work goes forward and prospers in their hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be it known unto the king, that we went into the province of Judea, to the house of the great God, which is builded with great stones, and timber is laid in the walls, and this work goeth fast on, and prospereth in their hands."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "house of the great God",
+          "source": "בֵּית־אֱלָהָא רַבָּא",
+          "language": "Aramaic",
+          "glossary_id": "house-of-god"
+        }
+      ],
+      "tags": [
+        "architecture",
+        "evidence"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 3:10",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Then we asked those elders, 'Who commanded you to build this house and to finish these walls?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then asked we those elders, and said unto them thus, Who commanded you to build this house, and to make up these walls?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "inquiry",
+        "jurisdiction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Also we asked their names, that we might make known to thee and write the names of their chiefs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We asked their names also, to certify thee, that we might write the names of the men that were the chief of them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "accountability",
+        "archival"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And thus they returned us answer, 'We are the servants of the God of heaven and earth, and we are rebuilding the house that was built many years ago, which a great king of Israel built and established.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thus they returned us answer, saying, We are the servants of the God of heaven and earth, and build the house that was builded these many years ago, which a great king of Israel builded and set up."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "servants",
+          "source": "עַבְדֵי",
+          "language": "Aramaic",
+          "glossary_id": "servants"
+        }
+      ],
+      "tags": [
+        "identity",
+        "continuity"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But after our fathers had angered the God of heaven, he gave them into the hand of Nebuchadnezzar king of Babylon, the Chaldean, who destroyed this house and carried the people away to Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But after that our fathers had provoked the God of heaven unto wrath, he gave them into the hand of Nebuchadnezzar the king of Babylon, the Chaldean, who destroyed this house, and carried the people away into Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nebuchadnezzar",
+          "source": "נְבוּכַדְנֶצַּ֥ר",
+          "language": "Aramaic",
+          "glossary_id": "nebuchadnezzar"
+        },
+        {
+          "display": "Chaldean",
+          "source": "כַּסְדָּאָה",
+          "language": "Aramaic",
+          "glossary_id": "chaldean"
+        }
+      ],
+      "tags": [
+        "exile",
+        "destruction"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36:17–21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But in the first year of Cyrus king of Persia, Cyrus made a decree to build this house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But in the first year of Cyrus the king of Babylon the same king Cyrus made a decree to build this house of God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Cyrus",
+          "source": "כּוֹרֶשׁ",
+          "language": "Aramaic",
+          "glossary_id": "cyrus"
+        }
+      ],
+      "tags": [
+        "decree",
+        "persia"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And the vessels of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was at Jerusalem and brought to the temple of Babylon,—those did Cyrus take out of the temple of Babylon and deliver to one whose name was Sheshbazzar, whom he had made governor;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the vessels also of gold and silver of the house of God, which Nebuchadnezzar took out of the temple that was in Jerusalem, and brought them into the temple of Babylon, those did Cyrus the king take out of the temple of Babylon, and they were delivered unto one, whose name was Sheshbazzar, whom he had made governor;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Sheshbazzar",
+          "source": "שֵׁשְׁבַּצַּר",
+          "language": "Aramaic",
+          "glossary_id": "sheshbazzar"
+        }
+      ],
+      "tags": [
+        "restitution",
+        "officiant"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:8–11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine:check_name_variant"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And he said unto him, 'Take these vessels; go, carry them into the temple which is at Jerusalem, and let the house of God be built in its place.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto him, Take these vessels, go, carry them into the temple that is in Jerusalem, and let the house of God be builded in his place."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "command",
+        "restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "So Sheshbazzar came and laid the foundation of the house of God at Jerusalem; and the building has been in progress ever since and is not yet finished.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came the same Sheshbazzar, and laid the foundation of the house of God which is in Jerusalem: and since that time even until now hath it been in building, and yet it is not finished."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "laid the foundation",
+          "source": "יְתָב",
+          "language": "Aramaic",
+          "glossary_id": "laid-the-foundation"
+        }
+      ],
+      "tags": [
+        "foundation",
+        "ongoing"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 3:8–11",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Now therefore, if it seem good to the king, let there be a search made in the king's treasury at Babylon, whether a decree was made by Cyrus to build this house of God at Jerusalem; and let the king send his pleasure to us concerning this matter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore, if it seem good to the king, let there be search made in the king’s treasure house, which is there at Babylon, whether it be so, that a decree was made of Cyrus the king to build this house of God at Jerusalem, and let the king send his pleasure to us concerning this matter."
+      },
+      "notes": [
+        {
+          "title": "administrative request",
+          "body": "The petition asks for a search of the royal archives (treasury/gnzaya) in Babylon; ‘treasury’ here has archival/legal connotations."
+        }
+      ],
+      "terms": [
+        {
+          "display": "treasury/archives",
+          "source": "גִּנְזַיָּא",
+          "language": "Aramaic",
+          "glossary_id": "treasury-archive"
+        }
+      ],
+      "tags": [
+        "archive",
+        "verification"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:1–12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine:needs_archival_check"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered Aramaic אלוהא/בֵית־אֱלָהָא as 'God' / 'house of God' per source language; the divine Tetragrammaton (יהוה) does not occur in this chapter and so YHWH is not used here.",
+    "Kept official names and ethnic labels close to the Aramaic forms (e.g., Tatnai, Shethar‑boznai, Apharsachites, Sheshbazzar); register retains administrative/legal tone of the source letters."
+  ],
+  "safety_note": "Contains references to exile and destruction; no sanitization applied.",
+  "source_witness_audit_flags": [
+    "nebiya_variant_form_for_Haggai",
+    "orthographic_variants_in_titles (e.g., כסדיא/Chaldean)",
+    "identification_of_Sheshbazzar_vs_Shesbazzar"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

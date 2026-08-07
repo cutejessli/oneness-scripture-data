@@ -1,0 +1,742 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation of Ezra 8 rendered closely to the supplied Hebrew. Proper names preserved; a few lines show bracketed / variant readings in source flagged for witness review. Weighings and units kept literal (talents, shekels, drams)."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And these are the chiefs of their fathers, and the genealogical registration of those who went up with me from Babylon in the reign of Artaxerxes the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are now the chief of their fathers, and this is the genealogy of them that went up with me from Babylon, in the reign of Artaxerxes the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "leadership"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 7:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Of the sons of Phinehas: Gershom. Of the sons of Ithamar: Daniel. Of the sons of David: Hattush.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Phinehas; Gershom: of the sons of Ithamar; Daniel: of the sons of David; Hattush."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Phinehas",
+          "source": "פִינְחָס",
+          "language": "Hebrew",
+          "glossary_id": "phinehas"
+        }
+      ],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Of the sons of Shechaniah; of the sons of Pharosh, Zechariah — and with him were reckoned by genealogy of the males an hundred and fifty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Shechaniah, of the sons of Pharosh; Zechariah: and with him were reckoned by genealogy of the males an hundred and fifty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "census"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Of the sons of Pahath‑Moab: Elihoenai son of Zerahiah; and with him two hundred males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Pahathmoab; Elihoenai the son of Zerahiah, and with him two hundred males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Of the sons of Shechaniah, the son of Jahaziel; and with him three hundred males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Shechaniah; the son of Jahaziel, and with him three hundred males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And of the sons also of Adin: Ebed (servant) son of Jonathan; and with him fifty males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons also of Adin; Ebed the son of Jonathan, and with him fifty males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "social"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And of the sons of Elam: Jeshaiah son of Athaliah; and with him seventy males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Elam; Jeshaiah the son of Athaliah, and with him seventy males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And of the sons of Shephatiah: Zebadiah son of Michael; and with him eighty males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Shephatiah; Zebadiah the son of Michael, and with him fourscore males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Of the sons of Joab: Obadiah son of Jehiel; and with him two hundred and eighteen males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Joab; Obadiah the son of Jehiel, and with him two hundred and eighteen males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And of the sons of Shelomith: the son of Josiphiah; and with him an hundred and sixty males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Shelomith; the son of Josiphiah, and with him an hundred and threescore males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And of the sons of Bebai: Zechariah son of Bebai; and with him twenty and eight males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Bebai; Zechariah the son of Bebai, and with him twenty and eight males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And of the sons of Azgad: Johanan son of Hakkatan; and with him an hundred and ten males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Azgad; Johanan the son of Hakkatan, and with him an hundred and ten males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And of the sons of Adonikam, the last ones — their names are these: Eliphelet, Jeiel, and Shemaiah; and with them threescore males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Last sons’ (אֲדֹנִיקָם אַחֲרֹנִים) and ordering may reflect variant lists; witness-check advised."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "textual-variant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "list-order-variants",
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "And of the sons also of Bigvai: Uthai and Zabbud; and with them seventy males.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And I gathered them by the river that comes to Ahava; there we camped for three days. I inspected the people and the priests, and found there none of the sons of Levi.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahava",
+          "source": "אַהֲוָה",
+          "language": "Hebrew",
+          "glossary_id": "ahava-river"
+        }
+      ],
+      "tags": [
+        "journey",
+        "logistics"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 7:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Then I sent for Eliezer, for Ariel, for Shemaiah, for Elnathan, for Jarib, for Elnathan, for Nathan, for Zechariah, and for Meshullam — chiefs; and for Joiarib and for Elnathan, men of understanding.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then sent I for Eliezer, for Ariel, for Shemaiah, and for Elnathan, and for Jarib, and for Elnathan, and for Nathan, and for Zechariah, and for Meshullam, chief men; also for Joiarib, and for Elnathan, men of understanding."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "leadership",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And I commanded them concerning Iddo the chief at the place Casiphia, and I set words in their mouth to speak to Iddo and to his brothers the Nethinim at the place Casiphia, that they should bring us ministers for the house of our God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, and to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Bracketed variant readings in source for verbs and ‘Iddo’ instructions; Casiphia (כָּסִפְיָא) appears twice — check witnesses."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Casiphia",
+          "source": "כָּסִפְיָא",
+          "language": "Hebrew",
+          "glossary_id": "casiphia"
+        }
+      ],
+      "tags": [
+        "administration",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "textual-variant",
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, a Levite, son of Israel; and Sherebiah with his sons and brothers, eighteen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And by the good hand of our God upon us they brought us a man of understanding, of the sons of Mahli, the son of Levi, the son of Israel; and Sherebiah, with his sons and his brethren, eighteen;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "provision",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And Hashabiah, and with him Jeshaiah, of the sons of Merari — their brothers and their sons, twenty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hashabiah, and with him Jeshaiah of the sons of Merari, his brethren and their sons, twenty;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "And of the Nethinim, whom David and the princes had appointed for the service of the Levites: two hundred and twenty Nethinim; all of them were named.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also of the Nethinims, whom David and the princes had appointed for the service of the Levites, two hundred and twenty Nethinims: all of them were expressed by name."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nethinim",
+          "source": "נְתִינִים",
+          "language": "Hebrew",
+          "glossary_id": "nethinim"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "service"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Then I proclaimed a fast there, by the river Ahava, that we might humble ourselves before our God to seek from him a right way for us, for our little ones, and for all our substance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahava",
+          "source": "אַהֲוָה",
+          "language": "Hebrew",
+          "glossary_id": "ahava-river"
+        }
+      ],
+      "tags": [
+        "fast",
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "liturgical-note"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "For I was ashamed to ask the king for soldiers and horsemen to help us against the enemy on the road, because we had told the king, saying, 'The hand of our God is upon all who seek him for good, but his power and his anger is against all who forsake him.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I was ashamed to require of the king a band of soldiers and horsemen to help us against the enemy in the way: because we had spoken unto the king, saying, The hand of our God is upon all them for good that seek him; but his power and his wrath is against all them that forsake him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "diplomacy",
+        "faith"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "So we fasted and besought our God about this, and he was entreated of us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So we fasted and besought our God for this: and he was intreated of us."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fast",
+        "divine-response"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Then I separated twelve of the chiefs of the priests: Sherebiah, Hashabiah, and ten of their brothers with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I separated twelve of the chief of the priests, Sherebiah, Hashabiah, and ten of their brethren with them,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "priesthood",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And I weighed unto them the silver and the gold and the vessels — the offering of the house of our God, which the king, and his counselors, and his lords, and all Israel who were present had offered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And weighed unto them the silver, and the gold, and the vessels, even the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel there present, had offered:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "treasury",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "weights-units"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "I weighed into their hand six hundred and fifty talents of silver, and silver vessels one hundred talents, and of gold one hundred talents.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I even weighed unto their hand six hundred and fifty talents of silver, and silver vessels an hundred talents, and of gold an hundred talents;"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Units rendered literally as 'talents' per Hebrew כִּכָּרִים; confirm conversions and witness totals."
+        }
+      ],
+      "terms": [
+        {
+          "display": "talent",
+          "source": "כִּכָּרִים",
+          "language": "Hebrew",
+          "glossary_id": "talent"
+        }
+      ],
+      "tags": [
+        "finance",
+        "treasury"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "weights-units",
+        "requires-witness-review"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also twenty basons of gold, of a thousand drams; and two vessels of fine copper, precious as gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "treasury",
+        "offerings"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "weights-units"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "And I said unto them: 'You are holy to YHWH, and the vessels are holy; and the silver and the gold are a freewill offering to YHWH, the God of your fathers.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said unto them, Ye are holy unto the LORD; the vessels are holy also; and the silver and the gold are a freewill offering unto the LORD God of your fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "consecration",
+        "theology"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:10",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Keep and guard them until you weigh them before the chiefs of the priests and the Levites and the chief of the fathers of Israel in Jerusalem, in the chambers of the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "custody",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "So the priests and the Levites received the weight of the silver and the gold and the vessels, to bring them to Jerusalem to the house of our God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring them to Jerusalem unto the house of our God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "treasury",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Then we departed from the river Ahava on the twelfth day of the first month to go to Jerusalem; and the hand of our God was upon us, and he delivered us from the hand of the enemy and those lying in wait along the road.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then we departed from the river of Ahava on the twelfth day of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahava",
+          "source": "אַהֲוָה",
+          "language": "Hebrew",
+          "glossary_id": "ahava-river"
+        }
+      ],
+      "tags": [
+        "journey",
+        "divine-protection"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "And we came to Jerusalem and abode there three days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we came to Jerusalem, and abode there three days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "travel",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Now on the fourth day the silver and the gold and the vessels were weighed in the house of our God by the hand of Meremoth son of Uriah the priest; with him Eleazar son of Phinehas; and with them Jozabad son of Jeshua, and Noadiah son of Binnui, Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "accounting",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "names-orthography"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "By number and by weight of every one; and all the weight was written at that time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "By number and by weight of every one: and all the weight was written at that time."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administration",
+        "recordkeeping"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Those who had been carried away and had returned offered burnt offerings to the God of Israel: twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, and twelve he‑goats for a sin offering — all as a burnt offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "And they delivered the king’s commissions unto the king’s lieutenants and to the governors on this side the river; and they furthered the people and the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they delivered the king’s commissions unto the king’s lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "politics",
+        "support"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Grounded on the supplied Hebrew/Aramaic text; YHWH appears elsewhere in book and is rendered YHWH when present.",
+    "Preserve names and numeric totals as in source; Casiphia (כָּסִפְיָא) and Nethinim (נְתִינִים) left untranslated as technical terms."
+  ],
+  "safety_note": "This chapter contains lists, ritual offerings, and military/travel concerns; content retained without sanitization per project rules.",
+  "source_witness_audit_flags": [
+    "names-orthography (many proper names require cross-witness check)",
+    "weights-units (talents/weights need confirmation across witnesses)",
+    "Casiphia-location identification",
+    "list-order-variants (Adonikam / last sons variant)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

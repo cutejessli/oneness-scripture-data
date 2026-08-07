@@ -1,0 +1,423 @@
+{
+  "book": "Nehemiah",
+  "book_id": "nehemiah",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-sensitive English restoration of Nehemiah 2 (KJV verse numbering 1–20). Followed the supplied Hebrew MT lines; preserved ambiguities and the bracketed variant in v.13. Rendered divine name YHWH when present (none in this chapter). Kept verse count and numbering identical to KJV for alignment with target edition."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In the month Nisan, in the twentieth year of King Artaxerxes, wine was before him; I lifted the wine and gave it to the king, and I had not previously been sad in his presence.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the month Nisan, in the twentieth year of Artaxerxes the king, that wine was before him: and I took up the wine, and gave it unto the king. Now I had not been beforetime sad in his presence."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nisan",
+          "source": "ניסן",
+          "language": "Hebrew",
+          "glossary_id": "nisan"
+        }
+      ],
+      "tags": [
+        "setting",
+        "court"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "date-term"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "The king said to me, 'Why is your face sad? You are not ill; this is only sorrow of heart.' I was greatly alarmed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the king said unto me, Why is thy countenance sad, seeing thou art not sick? this is nothing else but sorrow of heart. Then I was very sore afraid,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "emotion",
+        "fear"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I answered the king, 'May the king live for ever. Why should my face not be sad when the city—the place of my fathers’ sepulchres—lies waste and its gates are consumed by fire?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto the king, Let the king live for ever: why should not my countenance be sad, when the city, the place of my fathers’ sepulchres, lieth waste, and the gates thereof are consumed with fire?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "beit-qivrot (place of sepulchres)",
+          "source": "בֵּית־קִבְרוֹת",
+          "language": "Hebrew",
+          "glossary_id": "beit-qivrot"
+        }
+      ],
+      "tags": [
+        "memory",
+        "ruin"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 1:11",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Then the king asked, 'For what do you make request?' At that I prayed to the God of heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king said unto me, For what dost thou make request? So I prayed to the God of heaven."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God of heaven",
+          "source": "אֱלֹהֵי הַשָּׁמַיִם",
+          "language": "Hebrew",
+          "glossary_id": "elohei-hashamayim"
+        }
+      ],
+      "tags": [
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "I said to the king, 'If it pleases the king, and if your servant has found favor in your sight, send me to Judah, to the city of my fathers’ sepulchres, that I may rebuild it.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said unto the king, If it please the king, and if thy servant have found favour in thy sight, that thou wouldest send me unto Judah, unto the city of my fathers’ sepulchres, that I may build it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "petition",
+        "reconstruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "The king said to me (the queen sitting beside him), 'How long will your journey be, and when will you return?' The king found it good to send me, and he fixed a time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king said unto me, (the queen also sitting by him,) For how long shall thy journey be? and when wilt thou return? So it pleased the king to send me; and I set him a time."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royal-approval"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "parenthetical-queen"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Moreover I said to the king, 'If it pleases the king, let letters be given me to the governors beyond the river, that they may convey me across until I come to Judah.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover I said unto the king, If it please the king, let letters be given me to the governors beyond the river, that they may convey me over till I come into Judah;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administration",
+        "travel"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And a letter for Asaph, keeper of the king’s forest, that he give me timber to make beams for the palace gates, for the city wall, and for the house where I will dwell. The king granted this according to the good hand of my God upon me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And a letter unto Asaph the keeper of the king’s forest, that he may give me timber to make beams for the gates of the palace which appertained to the house, and for the wall of the city, and for the house that I shall enter into. And the king granted me, according to the good hand of my God upon me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asaph",
+          "source": "אָסָף",
+          "language": "Hebrew",
+          "glossary_id": "asaph-keeper"
+        }
+      ],
+      "tags": [
+        "resources",
+        "divine-favor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Then I went to the governors beyond the river and presented them the king’s letters. The king had sent with me captains of the army and horsemen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I came to the governors beyond the river, and gave them the king’s letters. Now the king had sent captains of the army and horsemen with me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "escort",
+        "authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "parashah-marker"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "When Sanballat the Horonite and Tobiah the Ammonite heard it, they were greatly displeased that someone had come to seek the welfare of the children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Sanballat",
+          "source": "סַנְבַּלַּט",
+          "language": "Hebrew",
+          "glossary_id": "sanballat"
+        }
+      ],
+      "tags": [
+        "opposition",
+        "local-politics"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "So I came to Jerusalem and remained there three days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So I came to Jerusalem, and was there three days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "arrival",
+        "survey"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "At night I rose with only a few men; I told no one what God had put into my heart to do for Jerusalem. I had no beast with me except the mount I rode.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I arose in the night, I and some few men with me; neither told I any man what my God had put in my heart to do at Jerusalem: neither was there any beast with me, save the beast that I rode upon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "secrecy",
+        "initiative"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I went out by night by the valley gate, toward the well called ‘Ein-hatanin’ (the dragon well), and to the dung gate, and inspected the broken-down walls of Jerusalem and its gates consumed by fire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I went out by night by the gate of the valley, even before the dragon well, and to the dung port, and viewed the walls of Jerusalem, which were broken down, and the gates thereof were consumed with fire."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "MT bracket shows הֵם and an alternate המפרוצים for the phrase describing the breached walls; witnesses should be collated."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Ein-hatanin (dragon well)",
+          "source": "עֵין הַתַּנִּין",
+          "language": "Hebrew",
+          "glossary_id": "ein-hatanin"
+        }
+      ],
+      "tags": [
+        "reconnaissance",
+        "text-variant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "variant-bracketed"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "I went on to the gate of the fountain and to the king’s pool, but there was no room for the animal I rode beneath me to pass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I went on to the gate of the fountain, and to the king’s pool: but there was no place for the beast that was under me to pass."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "obstacle",
+        "urban-topography"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Then I climbed up by night along the stream and inspected the wall; I turned back and entered by the valley gate and returned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went I up in the night by the brook, and viewed the wall, and turned back, and entered by the gate of the valley, and so returned."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "survey",
+        "movement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "The officials did not know where I had gone or what I was doing; I had not yet told the Jews, the priests, the nobles, the officers, or the rest who did the work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "confidentiality",
+        "leadership"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "I said to them, 'You see the distress we are in and how Jerusalem lies waste and its gates burned with fire. Come, let us rebuild the wall of Jerusalem, that we may no longer be a reproach.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "appeal",
+        "communal-action"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "I told them of the good hand of my God upon me and of the king’s words that he had spoken to me. They replied, 'Let us rise up and build.' They strengthened their hands for the good work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I told them of the hand of my God which was good upon me; as also the king’s words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "encouragement",
+        "divine-favor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But when Sanballat the Horonite, Tobiah the Ammonite servant, and Geshem the Arabian heard it, they mocked and despised us, asking, 'What is this thing you do? Will you rebel against the king?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Geshem",
+          "source": "גֶּשֶׁם",
+          "language": "Hebrew",
+          "glossary_id": "geshem"
+        }
+      ],
+      "tags": [
+        "opposition",
+        "ridicule"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "I answered them, 'The God of heaven will prosper us; therefore we his servants will arise and build. But you have no portion, right, or memorial in Jerusalem.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "defiance",
+        "providence"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Rendered qof/peh idioms and royal formulas literally where Hebrew supports them (e.g., 'let the king live for ever' as a court formula).",
+    "Kept place-names and personal names transliterated (Nisan, Sanballat, Tobiah, Geshem, Asaph); preserved the Hebrew term 'beit-qivrot' for the fathers’ sepulchres where source emphasizes it."
+  ],
+  "safety_note": "Contains hostile rhetoric and references to collective opposition; material preserved for fidelity, not endorsement.",
+  "source_witness_audit_flags": [
+    "v.13 bracketed reading: הֵם vs. המפרוצים — collate witnesses",
+    "v.9 paragraph marker ({פ}) and military-escort detail — check parashah placement and emendation",
+    "v.6 parenthetical note about the queen sitting by him — confirm in witnesses"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

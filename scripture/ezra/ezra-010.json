@@ -1,0 +1,1060 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 10,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restoration of Ezra 10 follows the Hebrew witness closely; several names and a phrase (v.16) show variant/uncertain readings needing witness collation."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now when Ezra had prayed and confessed, weeping and prostrating himself before the house of God, a very great assembly of Israelites—men, women, and children—gathered to him; the people wept sorely.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prayed/confessed",
+          "source": "וּכְהִתְפַּלֵּל וּכְהִתְוַדּוֹת",
+          "language": "Hebrew",
+          "glossary_id": "prayer-confession"
+        },
+        {
+          "display": "house of God",
+          "source": "בֵּית הָאֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "house-of-god"
+        }
+      ],
+      "tags": [
+        "confession",
+        "assembly"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 9:5-15",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And Shechaniah son of Jehiel, of the sons of Elam (some witnesses read 'Olam'), answered Ezra: 'We have trespassed against our God and taken foreign wives from the peoples of the land; yet now there is hope in Israel concerning this matter.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shechaniah the son of Jehiel, one of the sons of Elam, answered and said unto Ezra, We have trespassed against our God, and have taken strange wives of the people of the land: yet now there is hope in Israel concerning this thing."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "Some manuscripts read a different tribal-name (עולם vs עֵילָם)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Shechaniah",
+          "source": "שְׁכַנְיָה בֶן־יְחִיאֵל",
+          "language": "Hebrew",
+          "glossary_id": "shechaniah"
+        },
+        {
+          "display": "Elam",
+          "source": "עֵילָם (variant עוֹלָם)",
+          "language": "Hebrew",
+          "glossary_id": "elam-variant"
+        }
+      ],
+      "tags": [
+        "confession",
+        "intermarriage"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 9:1-4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "variant-reading"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Now therefore let us make a covenant with our God to put away all the foreign wives and the children born to them—by the counsel of my lord and of those who tremble at the commandment of our God—and let it be done according to the law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "בְּרִית",
+          "language": "Hebrew",
+          "glossary_id": "berit"
+        },
+        {
+          "display": "law",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "law"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Arise; for this matter belongs to you—be strong; we are with you: act.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Arise; for this matter belongeth unto thee: we also will be with thee: be of good courage, and do it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Arise",
+          "source": "ק֛וּם",
+          "language": "Hebrew",
+          "glossary_id": "qom"
+        }
+      ],
+      "tags": [
+        "encouragement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Then Ezra rose and caused the chief priests, the Levites, and all Israel to swear that they would do according to this word; and they swore.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "chief priests",
+          "source": "שָׂרֵי הַכֹּהֲנִים",
+          "language": "Hebrew",
+          "glossary_id": "chief-priests"
+        }
+      ],
+      "tags": [
+        "oath",
+        "leadership"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Ezra rose from before the house of God and went into the chamber of Johanan son of Eliashib. There he ate no bread and drank no water, for he mourned over the transgression of the exiles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Ezra rose up from before the house of God, and went into the chamber of Johanan the son of Eliashib: and when he came thither, he did eat no bread, nor drink water: for he mourned because of the transgression of them that had been carried away."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Johanan",
+          "source": "יְהוֹחָנָן",
+          "language": "Hebrew",
+          "glossary_id": "johanan"
+        },
+        {
+          "display": "Eliashib",
+          "source": "אֶלְיָשִׁיב",
+          "language": "Hebrew",
+          "glossary_id": "eliashib"
+        }
+      ],
+      "tags": [
+        "mourning",
+        "fasting"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "A proclamation went out through Judah and Jerusalem to all the exiles, that they should gather themselves together at Jerusalem;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they made proclamation throughout Judah and Jerusalem unto all the children of the captivity, that they should gather themselves together unto Jerusalem;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "proclamation",
+          "source": "וַיַּעֲבִ֨ירוּ ק֜וֹל",
+          "language": "Hebrew",
+          "glossary_id": "proclamation"
+        }
+      ],
+      "tags": [
+        "proclamation",
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And whoever would not come within three days, according to the counsel of the princes and elders, his property would be forfeited and he would be separated from the congregation of the exiles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that whosoever would not come within three days, according to the counsel of the princes and the elders, all his substance should be forfeited, and himself separated from the congregation of those that had been carried away."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "forfeited",
+          "source": "יָחֳרַם",
+          "language": "Hebrew",
+          "glossary_id": "cherem"
+        },
+        {
+          "display": "separated",
+          "source": "הִבָּדֵל",
+          "language": "Hebrew",
+          "glossary_id": "hibadel"
+        }
+      ],
+      "tags": [
+        "sanctions",
+        "law"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "legal-action"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Then all the men of Judah and Benjamin gathered at Jerusalem within three days—the ninth month, on the twentieth day—and all the people sat in the street of the house of God, trembling over the matter and because of the heavy rain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ninth month, twentieth day",
+          "source": "הוּא חֹדֶשׁ הַתְּשִׁיעִי בְּעֶשְׂרִים בַּחֹדֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "9th-20th"
+        }
+      ],
+      "tags": [
+        "gathering",
+        "weather"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And Ezra the priest stood up and said to them, 'You have transgressed and taken foreign wives to increase the trespass of Israel.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "transgressed",
+          "source": "מְעַלְתֶּם",
+          "language": "Hebrew",
+          "glossary_id": "ma-al"
+        },
+        {
+          "display": "foreign wives",
+          "source": "נָשִׁים נָכְרִיּוֹת",
+          "language": "Hebrew",
+          "glossary_id": "foreign-wives"
+        }
+      ],
+      "tags": [
+        "rebuke",
+        "intermarriage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Now therefore make confession to YHWH, the God of your fathers, and do his will; separate yourselves from the peoples of the land and from the foreign wives.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore make confession unto the LORD God of your fathers, and do his pleasure: and separate yourselves from the people of the land, and from the strange wives."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "confess",
+          "source": "תְּנ֥וּ תוֹדָה",
+          "language": "Hebrew",
+          "glossary_id": "confession"
+        }
+      ],
+      "tags": [
+        "confession",
+        "separation"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 9:10-11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "All the congregation answered with a loud voice, 'As you have said, so must we do.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all the congregation answered and said with a loud voice, As thou hast said, so must we do."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "loud voice",
+          "source": "קוֹל גָּדֹול",
+          "language": "Hebrew",
+          "glossary_id": "loud-voice"
+        }
+      ],
+      "tags": [
+        "agreement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But the people were many, and it was the rainy season; they lacked strength to stand outside, and the work was not for one or two days—because we have increased in this trespass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "rainy season",
+          "source": "הָעֵת גְּשָׁמִים",
+          "language": "Hebrew",
+          "glossary_id": "rainy-season"
+        }
+      ],
+      "tags": [
+        "practical-constraint"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Let now our rulers of the whole congregation stand, and let all who have taken foreign wives in our cities come at appointed times, with the elders and judges of each city, until the fierce anger of our God over this matter turn from us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "fierce anger",
+          "source": "חָר֤וֹן אַף",
+          "language": "Hebrew",
+          "glossary_id": "charon-af"
+        }
+      ],
+      "tags": [
+        "procedure",
+        "sanctions"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Only Jonathan son of Asahel and Jahaziah son of Tikvah took charge of this, and Meshullam and Shabbethai the Levite helped them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jonathan",
+          "source": "יוֹנָתָן בֶּן־עֲשָׂהאֵל",
+          "language": "Hebrew",
+          "glossary_id": "jonathan"
+        },
+        {
+          "display": "meshullam",
+          "source": "מְשֻׁלָּם",
+          "language": "Hebrew",
+          "glossary_id": "meshullam"
+        }
+      ],
+      "tags": [
+        "commission",
+        "leaders"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "So the exiles did thus: Ezra the priest—men, the heads of fathers' houses in their ancestral families, all by name—were separated, and they sat down on the first day of the tenth month to set the matter (לְדַרְי֖וֹשׁ הַדָּבָר).",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter."
+      },
+      "notes": [
+        {
+          "title": "uncertain",
+          "body": "Phrase לְדַרְי֖וֹשׁ הַדָּבָר ambiguous—may mean 'to examine the matter' or include a proper name; witness check needed."
+        }
+      ],
+      "terms": [
+        {
+          "display": "heads of fathers",
+          "source": "רָאשֵׁי הָאָבוֹת",
+          "language": "Hebrew",
+          "glossary_id": "heads-of-fathers"
+        },
+        {
+          "display": "tenth month",
+          "source": "הָעֲשִׂירִי",
+          "language": "Hebrew",
+          "glossary_id": "10th-month"
+        }
+      ],
+      "tags": [
+        "procedure",
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "uncertain-reading"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "They finished with all the men who had taken foreign wives by the first day of the first month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they made an end with all the men that had taken strange wives by the first day of the first month."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "resolution",
+        "calendar"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Among the sons of the priests were found those who had taken foreign wives: of the sons of Jeshua son of Jozadak and his brothers—Maaseiah, Eliezer, Jarib, and Gedaliah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And among the sons of the priests there were found that had taken strange wives: namely, of the sons of Jeshua the son of Jozadak, and his brethren; Maaseiah, and Eliezer, and Jarib, and Gedaliah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jeshua",
+          "source": "יֵשׁוּעַ בֶּן־יֽוֹצָדָק",
+          "language": "Hebrew",
+          "glossary_id": "jeshua-jozadak"
+        }
+      ],
+      "tags": [
+        "list",
+        "priests"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "They pledged to put away their wives and, guilty, presented a ram of the flock for their trespass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ram for trespass",
+          "source": "אֵיל־צֹאן עַל־אַשְׁמָתָם",
+          "language": "Hebrew",
+          "glossary_id": "trespass-ram"
+        }
+      ],
+      "tags": [
+        "sacrifice",
+        "penitence"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And of the sons of Immer: Hanani and Zebadiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Immer; Hanani, and Zebadiah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Immer",
+          "source": "אִמֵּר",
+          "language": "Hebrew",
+          "glossary_id": "immer"
+        }
+      ],
+      "tags": [
+        "list",
+        "names"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And of the sons of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Harim",
+          "source": "חָרִם",
+          "language": "Hebrew",
+          "glossary_id": "harim"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And of the sons of Pashur: Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Pashur",
+          "source": "פַּשְׁח֑וּר",
+          "language": "Hebrew",
+          "glossary_id": "pashur"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "And of the Levites: Jozabad, Shimei, Kelai (called Kelita), Pethahiah, Judah, and Eliezer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "הַלְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "list",
+        "levites"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Of the singers: Eliashib; and of the porters: Shallum, Telem, and Uri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "singers",
+          "source": "הַמְשֹׁרְרִים",
+          "language": "Hebrew",
+          "glossary_id": "singers"
+        },
+        {
+          "display": "porters",
+          "source": "הַשֹּׁעֲרִים",
+          "language": "Hebrew",
+          "glossary_id": "porters"
+        }
+      ],
+      "tags": [
+        "list",
+        "temple-staff"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Moreover of Israel: of the sons of Parosh—Ramiah, Jeziah, Malchiah, Miamin, Eleazar, Malchijah, and Benaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Parosh",
+          "source": "פַרְעֹשׁ",
+          "language": "Hebrew",
+          "glossary_id": "parosh"
+        }
+      ],
+      "tags": [
+        "list",
+        "Israel"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "And of the sons of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Eliah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Eliah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Elam",
+          "source": "עֵילָם",
+          "language": "Hebrew",
+          "glossary_id": "elam"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And of the sons of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Zattu",
+          "source": "זַתּוּא",
+          "language": "Hebrew",
+          "glossary_id": "zattu"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "And of the sons of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Bebai",
+          "source": "בֵּבָי",
+          "language": "Hebrew",
+          "glossary_id": "bebai"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "And of the sons of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal (or Ramoth in some witnesses).",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "Second name in some manuscripts reads רָמֽוֹת (Ramoth) instead of וְשְׁאָ֥ל."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Bani",
+          "source": "בָּנִי",
+          "language": "Hebrew",
+          "glossary_id": "bani"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "variant-reading"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "And of the sons of Pahath‑Moab: Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, Binnui, and Manasseh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Pahathmoab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Pahath‑Moab",
+          "source": "פַּחַת מוֹאָב",
+          "language": "Hebrew",
+          "glossary_id": "pahath-moab"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "And of the sons of Harim: Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the sons of Harim; Eliezer, Ishijah, Malchiah, Shemaiah, Shimeon,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Benjamin: Malluch and Shemariah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Benjamin, Malluch, and Shemariah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Benjamin",
+          "source": "בִּנְיָמִן",
+          "language": "Hebrew",
+          "glossary_id": "benjamin"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Of the sons of Hashum: Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Hashum",
+          "source": "חָשֻׁם",
+          "language": "Hebrew",
+          "glossary_id": "hashum"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Of the sons of Bani: Maadai, Amram, and Uel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Bani; Maadai, Amram, and Uel,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Benaiah, Bedeiah, Cheluh (all of them).",
+      "familiar": {
+        "source": "KJV",
+        "text": "Benaiah, Bedeiah, Chelluh,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Vaniah, Meremoth, and Eliashib.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Vaniah, Meremoth, Eliashib,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Mattaniah, Mattenai, and Jaasau (or variant reading preserved).",
+      "familiar": {
+        "source": "KJV",
+        "text": "Mattaniah, Mattenai, and Jaasau,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list",
+        "variant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "And Bani, and Binnui, Shimei.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Bani, and Binnui, Shimei,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "And Shelemiah, Nathan, and Adaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shelemiah, and Nathan, and Adaiah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Machnadebai, Shashai, and Sharai.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Machnadebai, Shashai, Sharai,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 41,
+      "restored": "Azareel, and Shelemiah, Shemariah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Azareel, and Shelemiah, Shemariah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 42,
+      "restored": "Shallum, Amariah, and Joseph.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Shallum, Amariah, and Joseph."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 43,
+      "restored": "Of the sons of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nebo",
+          "source": "נְב֑וֹ",
+          "language": "Hebrew",
+          "glossary_id": "nebo"
+        }
+      ],
+      "tags": [
+        "list"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 44,
+      "restored": "All these had taken foreign wives; and some of them had wives by whom they had children.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All these had taken strange wives: and some of them had wives by whom they had children."
+      },
+      "notes": [
+        {
+          "title": "summary",
+          "body": "The chapter ends by noting some accused men had children by the foreign wives."
+        }
+      ],
+      "terms": [
+        {
+          "display": "foreign wives",
+          "source": "נָשִׁים נָכְרִיּוֹת",
+          "language": "Hebrew",
+          "glossary_id": "foreign-wives"
+        }
+      ],
+      "tags": [
+        "consequence",
+        "families"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Render divine name יהוה as YHWH (v.11).",
+    "Preserve bracketed/parenthetical variants exactly noted in editorial_flags for later witness review.",
+    "Lists of names preserve source order and small orthographic variants; no harmonization."
+  ],
+  "safety_note": "Contains coercive removal of wives — preserve historic record without endorsing coercion.",
+  "source_witness_audit_flags": [
+    "v2 variant (עולם [עֵילָם])",
+    "v16 uncertain phrase לְדַרְי֖וֹשׁ הַדָּבָר — needs witness check",
+    "name-orthography variants across vv.29–44"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Source-grounded English draft of Ezra 1: preserves Hebrew wording, numbers, and ambiguous terms; YHWH rendered consistently; several proper-name and numeric items flagged for witness verification."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now in the first year of Koresh (Cyrus) king of Persia, so that the word of YHWH by the mouth of Jeremiah might be fulfilled, YHWH aroused the spirit of Koresh king of Persia and he issued a proclamation throughout all his kingdom and put it also in writing, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD by the mouth of Jeremiah might be fulfilled, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+      },
+      "notes": [
+        {
+          "title": "textual",
+          "body": "Hebrew reads both 'the word of YHWH' and 'YHWH stirred', preserving divine agency in a foreign king."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Koresh",
+          "source": "כּוֹרֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "koresh-cyrus"
+        }
+      ],
+      "tags": [
+        "decree",
+        "divine_agency"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah 25:11-12",
+          "relationship": "quotation"
+        },
+        {
+          "reference": "Isaiah 45:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "contains_divine_name",
+        "proper_name_transliterated"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Thus says Koresh king of Persia: YHWH, God of heaven, has given me all the kingdoms of the earth, and He has charged me to build for Him a house at Jerusalem in Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith Cyrus king of Persia, The LORD God of heaven hath given me all the kingdoms of the earth; and he hath charged me to build him an house at Jerusalem, which is in Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "tetragrammaton-yhwh"
+        }
+      ],
+      "tags": [
+        "decree",
+        "cultic"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah 29:10",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "contains_divine_name"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Whoever among you of all his people—let his God be with him; let him go up to Jerusalem in Judah and build the house of YHWH, God of Israel (he is the God), which is in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is there among you of all his people? his God be with him, and let him go up to Jerusalem, which is in Judah, and build the house of the LORD God of Israel, (he is the God,) which is in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "call_to_return",
+        "communal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "contains_divine_name",
+        "retained_parenthetical_clause"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And whoever remains in any place where he sojourns, let the men of his place support him with silver and gold, with goods and beasts, besides the freewill offering for the house of God that is in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "charity",
+        "community"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "uses_Elohim_for_God"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Then the heads of the fathers of Judah and Benjamin, and the priests and the Levites, rose up—everyone whose God had stirred his spirit—to go up and build the house of YHWH which is in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the LORD which is in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "leadership",
+        "religious"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "uses_Elohim_for_God"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And all who were about them strengthened their hands with silver vessels, with gold, with goods, with beasts and with offerings, and with freewill gifts beyond every voluntary contribution.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "donations",
+        "material_restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Also Koresh king of Persia brought forth the vessels of the house of YHWH, which Nebuchadnezzar had taken out of Jerusalem and put into the house of his gods,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also Cyrus the king brought forth the vessels of the house of the LORD, which Nebuchadnezzar had brought forth out of Jerusalem, and had put them in the house of his gods;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "tetragrammaton-yhwh"
+        }
+      ],
+      "tags": [
+        "restoration",
+        "sacred_vessels"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 25:13–17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "contains_divine_name",
+        "historical_material_transfer"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "and Koresh brought them out by the hand of Mithredath the treasurer and counted them to Sheshbazzar, the prince of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even those did Cyrus king of Persia bring forth by the hand of Mithredath the treasurer, and numbered them unto Sheshbazzar, the prince of Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Mithredath",
+          "source": "מִתְרְדָת",
+          "language": "Hebrew",
+          "glossary_id": "mithredath"
+        },
+        {
+          "display": "Sheshbazzar",
+          "source": "שֵׁשְׁבַּצַּר",
+          "language": "Hebrew",
+          "glossary_id": "sheshbazzar"
+        }
+      ],
+      "tags": [
+        "administration",
+        "inventory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "proper_name_variant"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And this is their number: thirty agartalê of gold, a thousand agartalê of silver, twenty-nine knives (מַחֲלָפִים).",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the number of them: thirty chargers of gold, a thousand chargers of silver, nine and twenty knives,"
+      },
+      "notes": [
+        {
+          "title": "lexical",
+          "body": "אֲגַרְטְלֵי normally 'dishes/chargers'; מַחֲלָפִים uncertain (knives/implements)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "אֲגַרְטְלֵי (agartalê)",
+          "source": "אֲגַרְטְלֵי",
+          "language": "Hebrew",
+          "glossary_id": "agartalei-dishes"
+        },
+        {
+          "display": "מַחֲלָפִים (machalafim)",
+          "source": "מַחֲלָפִים",
+          "language": "Hebrew",
+          "glossary_id": "machalafim"
+        }
+      ],
+      "tags": [
+        "inventory",
+        "lexical_uncertainty"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "numerical_uncertainty"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Thirty gold basins, silver basins of a second kind four hundred and ten, and other vessels a thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thirty basons of gold, silver basons of a second sort four hundred and ten, and other vessels a thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "inventory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "numerical_list_preserved"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "All the vessels of gold and of silver were five thousand four hundred; all these Sheshbazzar took up when the exiles were brought up from Babylon to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the vessels of gold and of silver were five thousand and four hundred. All these did Sheshbazzar bring up with them of the captivity that were brought up from Babylon unto Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Sheshbazzar",
+          "source": "שֵׁשְׁבַּצַּר",
+          "language": "Hebrew",
+          "glossary_id": "sheshbazzar"
+        }
+      ],
+      "tags": [
+        "return",
+        "exile"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 5–6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "numerical_totals_uncertain",
+        "proper_name_variant"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered Hebrew divine name יהוה as YHWH throughout.",
+    "Kept parenthetical and ambiguous phrasing (e.g., v.3 'he is the God') as in the Hebrew.",
+    "Preserved Hebrew technical terms (אֲגַרְטְלֵי, מַחֲלָפִים, כּוֹרֶשׁ, מִתְרְדָת) with transliteration where helpful."
+  ],
+  "safety_note": "",
+  "source_witness_audit_flags": [
+    "proper_name_variants: Sheshbazzar / Shešbazzar orthography needs witness check",
+    "treasurer-name-orthography: מִתְרְדָת (Mithredath) requires attestation",
+    "numerical_totals: counts in vv.9–11 should be checked against Babylonian inventories / LXX"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

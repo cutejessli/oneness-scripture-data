@@ -1,0 +1,313 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restored-English of Ezra 3 from Hebrew; YHWH rendered for divine name; few minor verbal variants (v.3) and paragraph markers noted; needs witness alignment for verb-form and Cyrus-grant phrasing."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And when the seventh month arrived, the children of Israel were in their towns; the people gathered together as one man to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the seventh month was come, and the children of Israel were in the cities, the people gathered themselves together as one man to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "seventh month",
+          "source": "חֹדֶשׁ (chodesh)",
+          "language": "Hebrew",
+          "glossary_id": "chodesh"
+        }
+      ],
+      "tags": [
+        "assembly",
+        "calendar"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Then rose Jeshua son of Jozadak and his brothers the priests, and Zerubbabel son of Shealtiel and his brothers, and they built the altar of the God of Israel to offer burnt offerings thereon, as written in the law of Moses the man of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then stood up Jeshua the son of Jozadak, and his brethren the priests, and Zerubbabel the son of Shealtiel, and his brethren, and builded the altar of the God of Israel, to offer burnt offerings thereon, as it is written in the law of Moses the man of God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jeshua",
+          "source": "יֵשֻׁעַ (Yeshua)",
+          "language": "Hebrew",
+          "glossary_id": "yeshua-son-of-jozadak"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "altar"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They set the altar on its bases; for fear was upon them because of the peoples of the lands, and they offered burnt offerings thereon to YHWH, burnt offerings morning and evening.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they set the altar upon his bases; for fear was upon them because of the people of those countries: and they offered burnt offerings thereon unto the LORD, even burnt offerings morning and evening."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew witnesses show a minor verb-form variant (see v.3: יעל/וַיַּעֲל֨וּ); preserved as a witness discrepancy for later collation."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "worship",
+        "liturgical-ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "variant-verb"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "They kept also the Feast of Sukkot as written, and offered the daily burnt offerings in number, according to the rule—the duty of each day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They kept also the feast of tabernacles, as it is written, and offered the daily burnt offerings by number, according to the custom, as the duty of every day required;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Sukkot",
+          "source": "סֻכּוֹת (Sukkot)",
+          "language": "Hebrew",
+          "glossary_id": "sukkot"
+        }
+      ],
+      "tags": [
+        "festival",
+        "liturgy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And afterward the continual burnt offering, and for the new moons, and for all the appointed feasts of YHWH that were consecrated, and for every one who willingly offered a freewill offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And afterward offered the continual burnt offering, both of the new moons, and of all the set feasts of the LORD that were consecrated, and of every one that willingly offered a freewill offering unto the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "offering",
+        "calendar"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "From the first day of the seventh month they began to offer burnt offerings to YHWH; but the foundation of YHWH's house was not yet laid.",
+      "familiar": {
+        "source": "KJV",
+        "text": "From the first day of the seventh month began they to offer burnt offerings unto the LORD. But the foundation of the temple of the LORD was not yet laid."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "priority",
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They gave silver to masons and carpenters, and food and drink and oil to the Sidonians and to the Tyrians, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant given them by Cyrus king of Persia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They gave money also unto the masons, and to the carpenters; and meat, and drink, and oil, unto them of Zidon, and to them of Tyre, to bring cedar trees from Lebanon to the sea of Joppa, according to the grant that they had of Cyrus king of Persia."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Cyrus",
+          "source": "כּוֹרֶשׁ (Koresh)",
+          "language": "Hebrew",
+          "glossary_id": "cyrus"
+        }
+      ],
+      "tags": [
+        "logistics",
+        "patronage"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:2",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "phrasing-of-cyrus-grant"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Now in the second year of their coming to the house of God at Jerusalem, in the second month, Zerubbabel son of Shealtiel and Jeshua son of Jozadak and the remnant of their brethren the priests and the Levites, and all who had come from the exile to Jerusalem, began to set forward the work of the house of YHWH; they appointed the Levites from twenty years old and upward to supervise the work of the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the second year of their coming unto the house of God at Jerusalem, in the second month, began Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak, and the remnant of their brethren the priests and the Levites, and all they that were come out of the captivity unto Jerusalem; and appointed the Levites, from twenty years old and upward, to set forward the work of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "organization",
+        "age-requirement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Then stood Jeshua with his sons and his brothers, Kadmiel and his sons, the sons of Judah, together to oversee the workmen in the house of God; the sons of Henadad, with their sons and their brethren, the Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then stood Jeshua with his sons and his brethren, Kadmiel and his sons, the sons of Judah, together, to set forward the workmen in the house of God: the sons of Henadad, with their sons and their brethren the Levites."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Kadmiel",
+          "source": "קַדְמִיאֵל (Kadmiel)",
+          "language": "Hebrew",
+          "glossary_id": "kadmiel"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "Levites"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And when the builders laid the foundation of the house of YHWH, the priests stood in their apparel with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise YHWH according to the ordinance of David king of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the builders laid the foundation of the temple of the LORD, they set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the LORD, after the ordinance of David king of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asaph",
+          "source": "אָסָף (Asaph)",
+          "language": "Hebrew",
+          "glossary_id": "asaph"
+        }
+      ],
+      "tags": [
+        "music",
+        "rite"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 16:4-5",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And they sang together, praising and giving thanks to YHWH, for he is good, for his steadfast love toward Israel endures for ever; and all the people shouted with a great shout, when they praised YHWH, because the foundation of the house of YHWH was laid.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they sang together by course in praising and giving thanks unto the LORD; because he is good, for his mercy endureth for ever toward Israel. And all the people shouted with a great shout, when they praised the LORD, because the foundation of the house of the LORD was laid."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "praise",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But many of the priests and Levites and heads of the fathers, the old men who had seen the first house, when they saw the foundation of this house before their eyes, wept with a loud voice; and many shouted for joy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But many of the priests and Levites and chief of the fathers, who were ancient men, that had seen the first house, when the foundation of this house was laid before their eyes, wept with a loud voice; and many shouted aloud for joy:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "memory",
+        "emotion"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "So that the people could not discern the sound of the shout of joy from the sound of the weeping of the people; for the people shouted with a great shout, and the sound was heard afar off.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that the people could not discern the noise of the shout of joy from the noise of the weeping of the people: for the people shouted with a loud shout, and the noise was heard afar off."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ambiguity",
+        "communal-voice"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "has-sep-mark"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered YHWH throughout. Translation follows Hebrew syntax and preserves liturgical terms (e.g., Sukkot, chodesh). Verse numbering preserves KJV numbering though Hebrew clause divisions differ. Variant verb-form in v.3 (orthography/verb plurality) retained as a witness issue."
+  ],
+  "safety_note": "Text contains ritual and communal actions; do not weaponize for modern aggression or sectarian claims.",
+  "source_witness_audit_flags": [
+    "v3-verb-form-variant",
+    "paragraph-marker-mesoratic-separator",
+    "phrasing-of-cyrus-grant"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

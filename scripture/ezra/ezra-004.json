@@ -1,0 +1,619 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-sensitive English rendering of Ezra 4. Preserves Hebrew/Aramaic features (Aramaic letter block vv.7–23) and renders divine name as YHWH. Personal/chronological names transliterated; a few readings flagged for witness check (see audit flags). Versification kept to KJV 24 verses."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now when the adversaries of Judah and Benjamin heard that the sons of the exile were building the house for YHWH, the God of Israel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when the adversaries of Judah and Benjamin heard that the children of the captivity builded the temple unto the LORD God of Israel;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sons of the exile",
+          "source": "בְנֵי הַגּוֹלָה (benei ha-golah)",
+          "language": "Hebrew",
+          "glossary_id": "benei-ha-golah"
+        },
+        {
+          "display": "house",
+          "source": "הֵיכָל (heikhal)",
+          "language": "Hebrew",
+          "glossary_id": "heikhal"
+        }
+      ],
+      "tags": [
+        "opposition",
+        "construction"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 3:11",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "They came to Zerubbabel and to the heads of the fathers and said, \"Let us build with you; for as you, so we seek your God, and we have sacrificed to him from the days of Esar‑haddon king of Assyria, who brought us up hither.\"",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they came to Zerubbabel, and to the chief of the fathers, and said unto them, Let us build with you: for we seek your God, as ye do; and we do sacrifice unto him since the days of Esarhaddon king of Assur, which brought us up hither."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "Hebrew has a compressed/variant reading (ולא / ולו) about 'and for us we sacrifice' — reading here follows inclusive petition; see witness flag."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Esar‑haddon",
+          "source": "אֵסַר חַדֹּן (Esar‑haddon)",
+          "language": "Hebrew",
+          "glossary_id": "esar-haddon"
+        }
+      ],
+      "tags": [
+        "petition",
+        "identity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "variant_present"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "But Zerubbabel and Jeshua and the rest of the chiefs of the fathers of Israel said unto them, \"You have no part with us to build a house to our God; we ourselves will build to YHWH God of Israel, as Cyrus king of Persia commanded us.\"",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Zerubbabel, and Jeshua, and the rest of the chief of the fathers of Israel, said unto them, Ye have nothing to do with us to build an house unto our God; but we ourselves together will build unto the LORD God of Israel, as king Cyrus the king of Persia hath commanded us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Cyrus",
+          "source": "כּוֹרֶשׁ (Koresh)",
+          "language": "Hebrew",
+          "glossary_id": "cyrus-koresh"
+        }
+      ],
+      "tags": [
+        "boundary",
+        "authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Then the people of the land weakened the hands of the people of Judah and frightened them from building.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the people of the land weakened the hands of the people of Judah, and troubled them in building,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "intimidation",
+        "obstruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And they hired counsellors against them to frustrate their purpose, all the days of Cyrus king of Persia even unto the reign of Darius king of Persia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hired counsellors against them, to frustrate their purpose, all the days of Cyrus king of Persia, even until the reign of Darius king of Persia."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administration",
+        "legal"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:14",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And in the reign of Ahasuerus, in the beginning of his reign, they wrote an accusation against the inhabitants of Judah and Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the reign of Ahasuerus, in the beginning of his reign, wrote they unto him an accusation against the inhabitants of Judah and Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahasuerus",
+          "source": "אֲחַשְׁוֵרוֹשׁ (Ahasuerosh)",
+          "language": "Hebrew",
+          "glossary_id": "ahasuerus"
+        }
+      ],
+      "tags": [
+        "accusation",
+        "epistolary"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions unto Artaxerxes king of Persia; and the writing of the letter was written in the Aramaic tongue and interpreted in the Aramaic tongue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the days of Artaxerxes wrote Bishlam, Mithredath, Tabeel, and the rest of their companions, unto Artaxerxes king of Persia; and the writing of the letter was written in the Syrian tongue, and interpreted in the Syrian tongue."
+      },
+      "notes": [
+        {
+          "title": "language",
+          "body": "This paragraph is in Aramaic in the Hebrew text; names and formality preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Aramaic",
+          "source": "אַרָמִית (Aramit)",
+          "language": "Hebrew",
+          "glossary_id": "aramaic-language"
+        },
+        {
+          "display": "Mithredath",
+          "source": "מִתְרְדָת (Mithredath)",
+          "language": "Hebrew",
+          "glossary_id": "mithredath"
+        }
+      ],
+      "tags": [
+        "epistolary",
+        "Aramaic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "language_shift"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Rehum the chancellor and Shimshai the scribe wrote a grievous letter against Jerusalem to Artaxerxes the king in this sort:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Rehum the chancellor and Shimshai the scribe wrote a letter against Jerusalem to Artaxerxes the king in this sort:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Rehum",
+          "source": "רְחוּם (Rehum)",
+          "language": "Aramaic",
+          "glossary_id": "rehum"
+        },
+        {
+          "display": "Shimshai",
+          "source": "שִׁמְשַׁי (Shimshai)",
+          "language": "Aramaic",
+          "glossary_id": "shimshai"
+        }
+      ],
+      "tags": [
+        "bureaucracy",
+        "letter"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Then wrote Rehum the chancellor and Shimshai the scribe and the rest of their companions: the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then wrote Rehum the chancellor, and Shimshai the scribe, and the rest of their companions; the Dinaites, the Apharsathchites, the Tarpelites, the Apharsites, the Archevites, the Babylonians, the Susanchites, the Dehavites, and the Elamites,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asnapper-related peoples",
+          "source": "names list (see text)",
+          "language": "Aramaic",
+          "glossary_id": "asnapper-peoples"
+        }
+      ],
+      "tags": [
+        "ethnic",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And the rest of the nations whom Asnapper the great and noble carried over and set in the cities of Samaria, and the rest that are on this side the river at such a time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the nations whom the great and noble Asnapper brought over, and set in the cities of Samaria, and the rest that are on this side the river, and at such a time."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asnapper",
+          "source": "אֲסְנַפַּר (Asnappar)",
+          "language": "Aramaic",
+          "glossary_id": "asnappar"
+        }
+      ],
+      "tags": [
+        "resettlement",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king: Thy servants the men on this side the river, and at such a time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the copy of the letter that they sent unto him, even unto Artaxerxes the king; Thy servants the men on this side the river, and at such a time."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "copy of the letter",
+          "source": "אִגַּרְתָּא (iggarta)",
+          "language": "Aramaic",
+          "glossary_id": "letter-copy"
+        }
+      ],
+      "tags": [
+        "formula",
+        "epistolary"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Be it known to the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof and joined the foundations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be it known unto the king, that the Jews which came up from thee to us are come unto Jerusalem, building the rebellious and the bad city, and have set up the walls thereof, and joined the foundations."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "rebellious",
+          "source": "מָרָדָא (marada)",
+          "language": "Aramaic",
+          "glossary_id": "rebellious-marada"
+        }
+      ],
+      "tags": [
+        "accusation",
+        "urban"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 3:3",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Be it known now unto the king, that if this city be built, and the walls set up again, then will they not pay toll, tribute, and custom; and thou shalt endamage the revenue of the kings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be it known now unto the king, that, if this city be builded, and the walls set up again, then will they not pay toll, tribute, and custom, and so thou shalt endamage the revenue of the kings."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fiscal",
+        "concern"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Now because we have maintenance from the king's palace, and it was not fit for us to see the king's dishonour, therefore have we sent and certified the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now because we have maintenance from the king’s palace, and it was not meet for us to see the king’s dishonour, therefore have we sent and certified the king;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "motive",
+        "court"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city and hurtful unto kings and provinces, and that sedition was made therein of old time; therefore was this city destroyed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That search may be made in the book of the records of thy fathers: so shalt thou find in the book of the records, and know that this city is a rebellious city, and hurtful unto kings and provinces, and that they have moved sedition within the same of old time: for which cause was this city destroyed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "book of the records",
+          "source": "סֵפֶר זִכְרוֹנִים (sefer zichronim)",
+          "language": "Aramaic",
+          "glossary_id": "sefer-zichronim"
+        }
+      ],
+      "tags": [
+        "archives",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "We certify the king that, if this city be built again, and the walls thereof set up, by this means thou shalt have no portion on this side the river.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We certify the king that, if this city be builded again, and the walls thereof set up, by this means thou shalt have no portion on this side the river."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "imperial",
+        "territory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Then sent the king an answer unto Rehum the chancellor and to Shimshai the scribe and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then sent the king an answer unto Rehum the chancellor, and to Shimshai the scribe, and to the rest of their companions that dwell in Samaria, and unto the rest beyond the river, Peace, and at such a time."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royal_reply",
+        "formula"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The letter which ye sent unto us hath been plainly read before me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The letter which ye sent unto us hath been plainly read before me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royal-reading"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And I commanded, and search hath been made; and it is found that this city of old time made insurrection against kings, and that rebellion and sedition have been wrought therein.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I commanded, and search hath been made, and it is found that this city of old time hath made insurrection against kings, and that rebellion and sedition have been made therein."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "investigation",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom were paid unto them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "There have been mighty kings also over Jerusalem, which have ruled over all countries beyond the river; and toll, tribute, and custom, was paid unto them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "remembrance",
+        "tribute"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Give ye now commandment to cause these men to cease, and that this city be not built, until another commandment shall be given from me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Give ye now commandment to cause these men to cease, and that this city be not builded, until another commandment shall be given from me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "injunction",
+        "suspension"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Take heed now that ye fail not to do this: why should damage grow to the hurt of the kings?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed now that ye fail not to do this: why should damage grow to the hurt of the kings?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "warning",
+        "royal-interest"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Now when the copy of king Artaxerxes' letter was read before Rehum and Shimshai the scribe and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when the copy of king Artaxerxes’ letter was read before Rehum, and Shimshai the scribe, and their companions, they went up in haste to Jerusalem unto the Jews, and made them to cease by force and power."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Artaxerxes",
+          "source": "אַרְתַּחְשַׁתְּא (Artaxerxes)",
+          "language": "Aramaic",
+          "glossary_id": "artaxerxes"
+        }
+      ],
+      "tags": [
+        "enforcement",
+        "bureaucracy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Then ceased the work of the house of God which is at Jerusalem; and it ceased unto the second year of the reign of Darius king of Persia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then ceased the work of the house of God which is at Jerusalem. So it ceased unto the second year of the reign of Darius king of Persia."
+      },
+      "notes": [
+        {
+          "title": "chronology",
+          "body": "Dating to 'second year of Darius' requires cross‑witness alignment; flagged in chapter audit."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Darius",
+          "source": "דָּרְיָוֶשׁ (Daryavesh)",
+          "language": "Hebrew",
+          "glossary_id": "darius"
+        }
+      ],
+      "tags": [
+        "suspension",
+        "dating"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:15",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "translation_draft"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Verses 7–23 originate in Aramaic; preserved Aramaic letter phrasing and register. Rendered YHWH for יהוה throughout.",
+    "v2 contains an ambiguous parenthetical/variant (׳ולא ו־לו׳); conservative reading given and variant flagged for witness review."
+  ],
+  "safety_note": "Contains politically coercive language and official suppression; preserved for historical fidelity, not endorsement.",
+  "source_witness_audit_flags": [
+    "Aramaic-section-v7-23: verify language, manuscript variants, and proper names spellings (Bishlam/Mithredath/Tabeel names).",
+    "v2-phrase-variant: parenthetical alternate reading of the phrase about offering/sacrifice (ולא/ולו) needs witness check.",
+    "v4-verb-phrase: syntax of מְרַפִּים יָדֵי (weakening hands) requires alignment with parallel corpora.",
+    "v24-dating: confirm regnal-counting (ceased until second year of Darius) across witnesses."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

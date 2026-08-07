@@ -1,0 +1,1495 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Restored, source-grounded draft of Ezra 2 following Hebrew witness; preserves names, numbers, and ritual-notes. Counts mirror KJV numbering but remain flagged for witness verification where numeric or name-variants occur."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now these are the children of the province who went up from the exile, those whom Nebuchadnezzar (Hebrew נְבוּכַדְנֶצַּ֥ר) king of Babylon had carried away to Babylon and who returned to Jerusalem and Judah, each to his city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these are the children of the province that went up out of the captivity, of those which had been carried away, whom Nebuchadnezzar the king of Babylon had carried away unto Babylon, and came again unto Jerusalem and Judah, every one unto his city;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nebuchadnezzar",
+          "source": "נְבוּכַדְנֶצַּ֥ר",
+          "language": "Hebrew",
+          "glossary_id": "nebukhadnezzar-name"
+        }
+      ],
+      "tags": [
+        "return",
+        "exile"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "They who came with Zerubbabel: Jeshua (Jeshua), Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, and Baanah — these are the men of Israel named.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which came with Zerubbabel: Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilshan, Mizpar, Bigvai, Rehum, Baanah. The number of the men of the people of Israel:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Zerubbabel",
+          "source": "זְרֻבָּבֶל",
+          "language": "Hebrew",
+          "glossary_id": "zerubbabel-name"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "genealogy"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 7:7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "name_variants"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "The children of Parosh: two thousand one hundred seventy and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Parosh, two thousand an hundred seventy and two."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Parosh",
+          "source": "פַרְעֹשׁ",
+          "language": "Hebrew",
+          "glossary_id": "parosh-clan"
+        }
+      ],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "The children of Shephatiah: three hundred seventy and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Shephatiah, three hundred seventy and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "The children of Arah: seven hundred seventy and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Arah, seven hundred seventy and five."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The children of Pahath‑moab, of the sons of Jeshua and Joab: two thousand eight hundred and twelve.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Pahathmoab, of the children of Jeshua and Joab, two thousand eight hundred and twelve."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Pahath‑moab",
+          "source": "פַחַת מוֹאָב",
+          "language": "Hebrew",
+          "glossary_id": "pahath-moab"
+        }
+      ],
+      "tags": [
+        "genealogy",
+        "diaspora"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "The children of Elam: one thousand two hundred fifty and four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Elam, a thousand two hundred fifty and four."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "ethnic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "The children of Zattu: nine hundred forty and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Zattu, nine hundred forty and five."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "The children of Zaccai: seven hundred and sixty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Zaccai, seven hundred and threescore."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "The children of Bani: six hundred forty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bani, six hundred forty and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "The children of Bebai: six hundred twenty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bebai, six hundred twenty and three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "The children of Azgad: one thousand two hundred twenty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Azgad, a thousand two hundred twenty and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "The children of Adonikam: six hundred sixty and six.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Adonikam, six hundred sixty and six."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "The children of Bigvai: two thousand fifty and six.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bigvai, two thousand fifty and six."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "The children of Adin: four hundred fifty and four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Adin, four hundred fifty and four."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "The children of Ater of Hezekiah: ninety and eight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Ater of Hezekiah, ninety and eight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Hezekiah",
+          "source": "חִזְקִיָּה",
+          "language": "Hebrew",
+          "glossary_id": "hezekiah-name"
+        }
+      ],
+      "tags": [
+        "genealogy",
+        "memory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "name_variants"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "The children of Bezai: three hundred twenty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bezai, three hundred twenty and three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The children of Jorah: one hundred and twelve.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Jorah, an hundred and twelve."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "The children of Hashum: two hundred twenty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Hashum, two hundred twenty and three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "The children of Gibbar: ninety and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Gibbar, ninety and five."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "The children of Bethlehem: one hundred twenty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bethlehem, an hundred twenty and three."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Bethlehem",
+          "source": "בֵּית־לֶחֶם",
+          "language": "Hebrew",
+          "glossary_id": "bethlehem-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_name"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "The men of Netophah: fifty and six.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The men of Netophah, fifty and six."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Netophah",
+          "source": "נְטֹפָה",
+          "language": "Hebrew",
+          "glossary_id": "netophah-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "The men of Anathoth: one hundred twenty and eight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The men of Anathoth, an hundred twenty and eight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Anathoth",
+          "source": "עֲנָתֹת",
+          "language": "Hebrew",
+          "glossary_id": "anathoth-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "The children of Azmaveth: forty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Azmaveth, forty and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "The children of Kiriath‑arim, Kephirah, and Beeroth: seven hundred forty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Kirjatharim, Chephirah, and Beeroth, seven hundred and forty and three."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Kiriath‑arim",
+          "source": "קִרְיַת־עָרִים",
+          "language": "Hebrew",
+          "glossary_id": "kiriath-arim"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers",
+        "place_name"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "The children of Ramah and Gaba: six hundred twenty and one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Ramah and Gaba, six hundred twenty and one."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "The men of Michmas: one hundred twenty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The men of Michmas, an hundred twenty and two."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Michmas",
+          "source": "מִכְמָס",
+          "language": "Hebrew",
+          "glossary_id": "michmas-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "The men of Bethel and Ai: two hundred twenty and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The men of Bethel and Ai, two hundred twenty and three."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Bethel",
+          "source": "בֵּית־אֵל",
+          "language": "Hebrew",
+          "glossary_id": "bethel-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_name",
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "The children of Nebo: fifty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Nebo, fifty and two."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nebo",
+          "source": "נְבוֹ",
+          "language": "Hebrew",
+          "glossary_id": "nebo-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "The children of Magbish: one hundred fifty and six.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Magbish, an hundred fifty and six."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "The children of the other Elam: one thousand two hundred fifty and four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of the other Elam, a thousand two hundred fifty and four."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Elam (other)",
+          "source": "אֵילָם אַחֵר",
+          "language": "Hebrew",
+          "glossary_id": "elam-other"
+        }
+      ],
+      "tags": [
+        "genealogy",
+        "ethnic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "name_variants",
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "The children of Harim: three hundred and twenty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Harim, three hundred and twenty."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Harim",
+          "source": "חָרִים",
+          "language": "Hebrew",
+          "glossary_id": "harim-clan"
+        }
+      ],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "The children of Lod, Hadid, and Ono: seven hundred twenty and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Lod, Hadid, and Ono, seven hundred twenty and five."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Lod",
+          "source": "לוֹד",
+          "language": "Hebrew",
+          "glossary_id": "lod-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_name",
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "The children of Jericho: three hundred forty and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Jericho, three hundred forty and five."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jericho",
+          "source": "יְרֵחוֹ",
+          "language": "Hebrew",
+          "glossary_id": "jericho-place"
+        }
+      ],
+      "tags": [
+        "place",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_name",
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "The children of Senaah: three thousand six hundred thirty and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Senaah, three thousand and six hundred and thirty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "The priests: the children of Jedaiah, of the house of Jeshua — nine hundred seventy and three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The priests: the children of Jedaiah, of the house of Jeshua, nine hundred seventy and three."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Priests (Kohenim)",
+          "source": "כֹּהֲנִים",
+          "language": "Hebrew",
+          "glossary_id": "kohanim-priests"
+        }
+      ],
+      "tags": [
+        "religion",
+        "priesthood"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "clerical_counts"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "The children of Immer: one thousand fifty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Immer, a thousand fifty and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 38,
+      "restored": "The children of Pashhur: one thousand two hundred forty and seven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Pashur, a thousand two hundred forty and seven."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Pashhur",
+          "source": "פַשְׁחוּר",
+          "language": "Hebrew",
+          "glossary_id": "pashhur-clan"
+        }
+      ],
+      "tags": [
+        "priesthood",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "clerical_counts"
+      ]
+    },
+    {
+      "verse": 39,
+      "restored": "The children of Harim: one thousand and seventeen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Harim, a thousand and seventeen."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Harim appears twice with differing numbers in the tradition."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "textual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "duplicate_name",
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 40,
+      "restored": "The Levites: the children of Jeshua and Kadmiel, of the house of Hodaviah — seventy and four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Levites: the children of Jeshua and Kadmiel, of the children of Hodaviah, seventy and four."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "הַלְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "priesthood",
+        "worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "clerical_counts"
+      ]
+    },
+    {
+      "verse": 41,
+      "restored": "The singers: the children of Asaph — one hundred twenty and eight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The singers: the children of Asaph, an hundred twenty and eight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asaph",
+          "source": "אָסָף",
+          "language": "Hebrew",
+          "glossary_id": "asaph-singer"
+        }
+      ],
+      "tags": [
+        "worship",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "cultic_roles"
+      ]
+    },
+    {
+      "verse": 42,
+      "restored": "The porters: the sons of Shallum, Ater, Talmon, Akkub, Hatita, Shobai — in all one hundred thirty and nine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of the porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, in all an hundred thirty and nine."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Porters",
+          "source": "שֹׁעֲרִים",
+          "language": "Hebrew",
+          "glossary_id": "porters"
+        }
+      ],
+      "tags": [
+        "worship",
+        "service"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "role_list"
+      ]
+    },
+    {
+      "verse": 43,
+      "restored": "The Nethinim: the children of Ziha, Hasupha, and Tabbaoth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Nethinims: the children of Ziha, the children of Hasupha, the children of Tabbaoth,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nethinim",
+          "source": "נְתִינִים",
+          "language": "Hebrew",
+          "glossary_id": "nethinim"
+        }
+      ],
+      "tags": [
+        "service",
+        "cultic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "social_category"
+      ]
+    },
+    {
+      "verse": 44,
+      "restored": "The children of Keros, Siaha, and Padon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Keros, the children of Siaha, the children of Padon,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "Nethinim"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "list_entry"
+      ]
+    },
+    {
+      "verse": 45,
+      "restored": "The children of Lebanah, Hagabah, and Akkub.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Lebanah, the children of Hagabah, the children of Akkub,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 46,
+      "restored": "The children of Hagab, Shalmai, and Hanan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Hagab, the children of Shalmai, the children of Hanan,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 47,
+      "restored": "The children of Giddel, Gahar, and Reaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Giddel, the children of Gahar, the children of Reaiah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 48,
+      "restored": "The children of Rezin, Nekoda, and Gazzam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Rezin, the children of Nekoda, the children of Gazzam,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 49,
+      "restored": "The children of Uzza, Paseah, and Besai.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Uzza, the children of Paseah, the children of Besai,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 50,
+      "restored": "The children of Asnah, Mehunim, and Nephusim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Asnah, the children of Mehunim, the children of Nephusim,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 51,
+      "restored": "The children of Bakbuk, Hakupha, and Harhur.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bakbuk, the children of Hakupha, the children of Harhur,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "service"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 52,
+      "restored": "The children of Bazluth, Mehida, and Harsha.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Bazluth, the children of Mehida, the children of Harsha,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 53,
+      "restored": "The children of Barkos, Sisera, and Thamah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Barkos, the children of Sisera, the children of Thamah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "ethnic"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 54,
+      "restored": "The children of Neziah and Hatipha.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Neziah, the children of Hatipha."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 55,
+      "restored": "The children of Solomon’s servants: the children of Sotai, Sophereth, and Peruda.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Solomon’s servants: the children of Sotai, the children of Sophereth, the children of Peruda,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Solomon’s servants",
+          "source": "עַבְדֵי שְׁלֹמֹה",
+          "language": "Hebrew",
+          "glossary_id": "solomon-servants"
+        }
+      ],
+      "tags": [
+        "servitude",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "social_category"
+      ]
+    },
+    {
+      "verse": 56,
+      "restored": "The children of Jaalah, Darkon, and Giddel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Jaalah, the children of Darkon, the children of Giddel,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "servitude"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 57,
+      "restored": "The children of Shephatiah, Hattil, Pochereth of Zebaim, and Ami.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Ami."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 58,
+      "restored": "All the Nethinim and the children of Solomon’s servants: three hundred ninety and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the Nethinims, and the children of Solomon’s servants, were three hundred ninety and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "service",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 59,
+      "restored": "And these who went up from Tel‑melah, Tel‑harsa, Cherub, Addan, and Immer could not declare their father’s houses and their seed; whether they were of Israel was uncertain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these were they which went up from Telmelah, Telharsa, Cherub, Addan, and Immer: but they could not shew their father’s house, and their seed, whether they were of Israel:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tel‑melah",
+          "source": "תֵּל מֶלַח",
+          "language": "Hebrew",
+          "glossary_id": "tel-melah"
+        }
+      ],
+      "tags": [
+        "lineage",
+        "uncertainty"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "lost_lineage"
+      ]
+    },
+    {
+      "verse": 60,
+      "restored": "The children of Delaiah, Tobiah, and Nekoda: six hundred fifty and two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred fifty and two."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_numbers"
+      ]
+    },
+    {
+      "verse": 61,
+      "restored": "And of the priests: the children of Habaiah, Koz, and Barzillai — who took wives from the daughters of Barzillai the Gileadite and were called by their names.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the children of the priests: the children of Habaiah, the children of Koz, the children of Barzillai; which took a wife of the daughters of Barzillai the Gileadite, and was called after their name:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Barzillai",
+          "source": "בַּרְזִלַּי",
+          "language": "Hebrew",
+          "glossary_id": "barzillai-name"
+        }
+      ],
+      "tags": [
+        "priesthood",
+        "marriage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "marriage_exceptions"
+      ]
+    },
+    {
+      "verse": 62,
+      "restored": "These sought their registration among those reckoned by genealogy, but they were not found; therefore they were excluded from the priesthood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These sought their register among those that were reckoned by genealogy, but they were not found: therefore were they, as polluted, put from the priesthood."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Exclusion due to absence from genealogical rolls; 'polluted' in tradition implies ritual impurity, not moral judgement alone."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "exclusion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ritual_impurity"
+      ]
+    },
+    {
+      "verse": 63,
+      "restored": "And the Tirshatha said to them that they should not eat of the most holy things until a priest should stand up with Urim and Thummim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and with Thummim."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Tirshatha = Persian governor; Urim and Thummim denote accepted cultic decision devices."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Tirshatha",
+          "source": "תִּרְשָׁתָא",
+          "language": "Aramaic",
+          "glossary_id": "tirshatha-title"
+        },
+        {
+          "display": "Urim and Thummim",
+          "source": "אוּרִים וּתֻמִּים",
+          "language": "Hebrew",
+          "glossary_id": "urim-thummim"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "title_explanation",
+        "ritual_term"
+      ]
+    },
+    {
+      "verse": 64,
+      "restored": "The whole assembly together numbered forty and two thousand three hundred and threescore.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The whole congregation together was forty and two thousand three hundred and threescore,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "demography"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 7:66",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "check_totals"
+      ]
+    },
+    {
+      "verse": 65,
+      "restored": "Besides their servants and their maids — seven thousand three hundred and thirty and seven; and among them were two hundred singing men and singing women.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beside their servants and their maids, of whom there were seven thousand three hundred thirty and seven: and there were among them two hundred singing men and singing women."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "demography",
+        "service",
+        "worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "check_totals"
+      ]
+    },
+    {
+      "verse": 66,
+      "restored": "Their horses: seven hundred thirty and six; their mules: two hundred forty and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Their horses were seven hundred thirty and six; their mules, two hundred forty and five;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "economy",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "livestock_counts"
+      ]
+    },
+    {
+      "verse": 67,
+      "restored": "Their camels: four hundred thirty and five; their asses: six thousand seven hundred and twenty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Their camels, four hundred thirty and five; their asses, six thousand seven hundred and twenty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "economy",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "livestock_counts"
+      ]
+    },
+    {
+      "verse": 68,
+      "restored": "And some of the chiefs of the fathers, when they came to the house of YHWH which is in Jerusalem, freely offered to the house of God to set it up in its place;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of the chief of the fathers, when they came to the house of the LORD which is at Jerusalem, offered freely for the house of God to set it up in his place:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "house of YHWH",
+          "source": "בֵּית־יְהוָה",
+          "language": "Hebrew",
+          "glossary_id": "house-of-yhwh"
+        }
+      ],
+      "tags": [
+        "offering",
+        "worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "divine_name_rendering"
+      ]
+    },
+    {
+      "verse": 69,
+      "restored": "They gave according to their ability to the treasury for the work: gold measured in daric-like weights, sixty‑one thousand; and silver, five thousand minas; and one hundred priestly garments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They gave after their ability unto the treasure of the work threescore and one thousand drams of gold, and five thousand pound of silver, and one hundred priests’ garments."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "minas",
+          "source": "מָנִים",
+          "language": "Hebrew",
+          "glossary_id": "minas-weight"
+        }
+      ],
+      "tags": [
+        "donation",
+        "economy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "unit_conversion"
+      ]
+    },
+    {
+      "verse": 70,
+      "restored": "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinim lived in their cities; and all Israel dwelt in their cities.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the priests, and the Levites, and some of the people, and the singers, and the porters, and the Nethinims, dwelt in their cities, and all Israel in their cities."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "settlement",
+        "community"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 7:73",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "settlement_note"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name in source rendered as YHWH (Hebrew יהוה) where present (v.68).",
+    "Genealogical names follow Hebrew forms; numerals preserved from source but many ancient totals show textual variance — see audit flags.",
+    "Tirshatha (v.63) is a Persian-era official title; 'Nethinim' retained as a group-name reflecting cultic service."
+  ],
+  "safety_note": "This chapter lists servile groups, ritual exclusion, and population counts; treat identity data carefully and avoid modern targeting.",
+  "source_witness_audit_flags": [
+    "numeric_totals require cross-check with Nehemiah 7 and Masoretic/Qumran/LXX witnesses",
+    "name-variant forms (e.g., Nebuchadnezzar/Nebuchadrezzar, Tirshatha) need palaeographic check",
+    "several family names may be duplicated or conflated across traditions"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,391 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Restored, source-focused draft of Ezra 9 (15 verses). Preserves literal legal and ritual terms, the narrator's unexpected feminine verb-forms, and YHWH where the divine tetragram appears. Pending witness checks for a few morphological and vocalization variants."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now when these things had been finished the princes came to me and said: The people of Israel, the priests and the Levites, have not separated themselves from the peoples of the lands, following their abominations — the Canaanite, the Hittite, the Perizzite, the Jebusite, the Ammonite, the Moabite, the Egyptian, and the Amorite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when these things were done, the princes came to me, saying, The people of Israel, and the priests, and the Levites, have not separated themselves from the people of the lands, doing according to their abominations, even of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians, and the Amorites."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "abominations",
+          "source": "תּוֹעֲבֹֽתֵיהֶם",
+          "language": "Hebrew",
+          "glossary_id": "toavat-hem"
+        }
+      ],
+      "tags": [
+        "intermarriage",
+        "abomination"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 10:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "For they have taken of their daughters for themselves and for their sons, so that the holy seed has mingled with the peoples of those lands; indeed the hand of the princes and of the officials has been first in this trespass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they have taken of their daughters for themselves, and for their sons: so that the holy seed have mingled themselves with the people of those lands: yea, the hand of the princes and rulers hath been chief in this trespass."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "holy seed",
+          "source": "זֶרַע הַקֹּדֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "zera-hakodesh"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "pollution"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 7:3–4",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "When I heard this matter I tore my garment and my mantle, plucked off the hair of my head and of my beard, and sat down astonied.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when I heard this thing, I rent my garment and my mantle, and plucked off the hair of my head and of my beard, and sat down astonied."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "I tore",
+          "source": "קָרַעְתִּי",
+          "language": "Hebrew",
+          "glossary_id": "qara-ti"
+        }
+      ],
+      "tags": [
+        "mourning",
+        "public-shame"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Then were gathered to me everyone who trembled at the words of the God of Israel because of the transgression of those carried away; and I sat astonied until the evening sacrifice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then were assembled unto me every one that trembled at the words of the God of Israel, because of the transgression of those that had been carried away; and I sat astonied until the evening sacrifice."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "those carried away",
+          "source": "הַגּוֹלָה",
+          "language": "Hebrew",
+          "glossary_id": "ha-golah"
+        }
+      ],
+      "tags": [
+        "assembly",
+        "fear"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And at the evening sacrifice I rose from my fasting; and having torn my garment and my mantle I fell upon my knees and spread out my hands to YHWH my God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And at the evening sacrifice I arose up from my heaviness; and having rent my garment and my mantle, I fell upon my knees, and spread out my hands unto the LORD my God,"
+      },
+      "notes": [
+        {
+          "title": "gender-forms",
+          "body": "Hebrew has unexpected feminine verb-forms for the narrator here (וָאֵשְׁבָה / וָאֹמְרָה); ambiguity preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "evening sacrifice",
+          "source": "מִנְחַת הָעֶרֶב",
+          "language": "Hebrew",
+          "glossary_id": "minchat-ha-erev"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "fasting"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "morphology-question"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And I said, O my God, I am ashamed and blush to lift up my face to you, my God; for our iniquities are multiplied above our head and our guilt has grown up unto the heavens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said, O my God, I am ashamed and blush to lift up my face to thee, my God: for our iniquities are increased over our head, and our trespass is grown up unto the heavens."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "iniquities",
+          "source": "עֲוֺנֹתֵינוּ",
+          "language": "Hebrew",
+          "glossary_id": "avonoteinu"
+        }
+      ],
+      "tags": [
+        "confession",
+        "shame"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 38:4",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "From the days of our fathers we have been in great trespass to this day; and for our iniquities have we, our kings and our priests, been delivered into the hand of the kings of the lands, by the sword, by captivity, by spoil, and by shame of face, as it is this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Since the days of our fathers have we been in a great trespass unto this day; and for our iniquities have we, our kings, and our priests, been delivered into the hand of the kings of the lands, to the sword, to captivity, and to a spoil, and to confusion of face, as it is this day."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "history",
+        "punishment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And now for a little while YHWH our God has shown us mercy to leave us a remnant to escape, and to give us a peg (yated) in his holy place, to enlighten our eyes, and to give us a little life in our bondage.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now for a little space grace hath been shewed from the LORD our God, to leave us a remnant to escape, and to give us a nail in his holy place, that our God may lighten our eyes, and give us a little reviving in our bondage."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "peg (yated)",
+          "source": "יָתֵד",
+          "language": "Hebrew",
+          "glossary_id": "yated-peg"
+        }
+      ],
+      "tags": [
+        "mercy",
+        "remnant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal-imagery-preserved"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For we were servants; yet our God did not forsake us in our servitude, but showed us favor before the kings of Persia, to give us life to raise up the house of our God and to restore its ruins and to give us a wall in Judah and in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we were bondmen; yet our God hath not forsaken us in our bondage, but hath extended mercy unto us in the sight of the kings of Persia, to give us a reviving, to set up the house of our God, and to repair the desolations thereof, and to give us a wall in Judah and in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restoration",
+        "gratitude"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And now, what shall we say, our God, after this? for we have forsaken your commandments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, O our God, what shall we say after this? for we have forsaken thy commandments,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "rhetorical-question"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Which you commanded by your servants the prophets, saying: The land which you enter to possess is a land unclean with the uncleanness of the peoples of the lands, filled with their abominations from one end to another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which thou hast commanded by thy servants the prophets, saying, The land, unto which ye go to possess it, is an unclean land with the filthiness of the people of the lands, with their abominations, which have filled it from one end to another with their uncleanness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "unclean (niddah)",
+          "source": "נִדָּה",
+          "language": "Hebrew",
+          "glossary_id": "niddah-unclean"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "ritual-uncleanness"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 18",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Now therefore do not give your daughters to their sons, neither take their daughters for your sons, neither seek their peace nor their prosperity forever; that you may be strong and eat the good of the land, and leave it for an inheritance to your children forever.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore give not your daughters unto their sons, neither take their daughters unto your sons, nor seek their peace or their wealth for ever: that ye may be strong, and eat the good of the land, and leave it for an inheritance to your children for ever."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "exogamy-ban",
+        "inheritance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And after all that has come upon us for our evil deeds and for our great trespass, that you our God have dealt with us more lightly than our iniquities deserved and have given us such deliverance as this,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after all that is come upon us for our evil deeds, and for our great trespass, seeing that thou our God hast punished us less than our iniquities deserve, and hast given us such deliverance as this;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "mercy",
+        "justice"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Shall we again break your commandments and join in affinity with the peoples of these abominations? Would you be angry with us until you had consumed us, leaving no remnant nor escape?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Should we again break thy commandments, and join in affinity with the people of these abominations? wouldest not thou be angry with us till thou hadst consumed us, so that there should be no remnant nor escaping?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "warning",
+        "consequence"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "YHWH God of Israel, you are righteous; for we remain yet escaped, as it is this day: behold, we are before you in our trespasses; for we cannot stand before you because of this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O LORD God of Israel, thou art righteous: for we remain yet escaped, as it is this day: behold, we are before thee in our trespasses: for we cannot stand before thee because of this."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH God of Israel",
+          "source": "יְהֹוָה אֱלֹהֵי יִשְׂרָאֵל",
+          "language": "Hebrew",
+          "glossary_id": "yhwh-elohei-yisrael"
+        }
+      ],
+      "tags": [
+        "confession",
+        "remnant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name-rendered"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Render יהוה as YHWH. Preserve legal/ritual terms (e.g., niddah, zera ha-qodesh) literally when present. Maintain the narrator's unexpected feminine verb-forms from the Hebrew without harmonizing.",
+    "Keep the image 'nail/peg (yated) in his holy place' literal; do not soften or allegorize the covenantal-restoration language."
+  ],
+  "safety_note": "This translation preserves morally difficult material and ancient ethnic designations from the source for accuracy; it does not endorse harm.",
+  "source_witness_audit_flags": [
+    "narrator-feminine-verb-forms (וָאֹמְרָה / וָאֶשְׁבָה) — require morphological/witness check",
+    "minor lexical variants in tail/head continuity with Ezra 8/10 and Nehemiah parallels"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

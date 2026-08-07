@@ -1,14 +1,14 @@
 {
   "project": "Oneness Scripture",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-07T17:31:03.144Z",
+  "generatedAt": "2026-08-07T17:54:45.548Z",
   "dataBranch": "main",
   "dataBase": "https://raw.githubusercontent.com/cutejessli/oneness-scripture-data/main",
   "stats": {
     "canonBooks": 66,
-    "booksLive": 42,
-    "restoredChaptersLive": 705,
-    "mysticalChaptersLive": 705
+    "booksLive": 44,
+    "restoredChaptersLive": 717,
+    "mysticalChaptersLive": 717
   },
   "books": [
     {
@@ -1048,12 +1048,34 @@
       "section": "History",
       "testament": "Hebrew Bible",
       "chapterCount": 10,
-      "availableChapters": [],
-      "mysticalChapters": [],
-      "restoredCount": 0,
-      "mysticalCount": 0,
-      "complete": false,
-      "status": "not-yet-published"
+      "availableChapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mysticalChapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "restoredCount": 10,
+      "mysticalCount": 10,
+      "complete": true,
+      "status": "in-progress-source-audited-draft"
     },
     {
       "id": "nehemiah",
@@ -1062,12 +1084,18 @@
       "section": "History",
       "testament": "Hebrew Bible",
       "chapterCount": 13,
-      "availableChapters": [],
-      "mysticalChapters": [],
-      "restoredCount": 0,
-      "mysticalCount": 0,
+      "availableChapters": [
+        1,
+        2
+      ],
+      "mysticalChapters": [
+        1,
+        2
+      ],
+      "restoredCount": 2,
+      "mysticalCount": 2,
       "complete": false,
-      "status": "not-yet-published"
+      "status": "in-progress-source-audited-draft"
     },
     {
       "id": "esther",

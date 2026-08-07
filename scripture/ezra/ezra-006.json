@@ -1,0 +1,513 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Aramaic administrative decree text preserved; key chronological and royal-name variants (Darius-year; Artaxerxes) flagged for witness review; divine name rendered YHWH."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then Darius the king issued a decree; a search was made in the house of records (Aramaic: beit sepheraya), where the treasures were stored in Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Darius the king made a decree, and search was made in the house of the rolls, where the treasures were laid up in Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "house of the rolls",
+          "source": "בית ספריא (beit sepheraya)",
+          "language": "Aramaic",
+          "glossary_id": "house-of-rolls"
+        }
+      ],
+      "tags": [
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "administrative-formula"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "And it was found at Achmetha, in the palace that is in the province of the Medes, a scroll; and therein was a record written thus:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was found at Achmetha, in the palace that is in the province of the Medes, a roll, and therein was a record thus written:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "archive",
+        "royal"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 5:17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "In the first year of Cyrus the king, Cyrus made a decree concerning the house of God in Jerusalem: Let the house be built, the place where they offer sacrifices; let its foundations be firmly laid, its height sixty cubits and its breadth sixty cubits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the first year of Cyrus the king the same Cyrus the king made a decree concerning the house of God at Jerusalem, Let the house be builded, the place where they offered sacrifices, and let the foundations thereof be strongly laid; the height thereof threescore cubits, and the breadth thereof threescore cubits;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "house of God",
+          "source": "בית־אֱלָהָא (beit 'elāhā)",
+          "language": "Aramaic",
+          "glossary_id": "house-of-god"
+        }
+      ],
+      "tags": [
+        "temple",
+        "architecture"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "measurement-fixed"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "With three rows of great stones and a row of new timber; and let the expenses be given out of the king’s house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "With three rows of great stones, and a row of new timber: and let the expenses be given out of the king’s house:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction",
+        "funding"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Also let the golden and silver vessels of the house of God, which Nebuchadnezzar took from the temple in Jerusalem and brought to Babylon, be restored and brought again to the temple in Jerusalem, each to its place and to be set in the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And also let the golden and silver vessels of the house of God, which Nebuchadnezzar took forth out of the temple which is at Jerusalem, and brought unto Babylon, be restored, and brought again unto the temple which is at Jerusalem, every one to his place, and place them in the house of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restoration",
+        "restitution"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 25:13–17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites who are beyond the river, be far from there;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore, Tatnai, governor beyond the river, Shetharboznai, and your companions the Apharsachites, which are beyond the river, be ye far from thence:"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Names are Aramaic administrative titles; 'beyond the river' indicates the western Euphrates frontier."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Tatnai",
+          "source": "טַטְנַי",
+          "language": "Aramaic",
+          "glossary_id": "tatnai"
+        }
+      ],
+      "tags": [
+        "governor",
+        "jurisdiction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "administrative-names"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in its place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "autonomy",
+        "community"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Moreover I decree that what you shall do to the elders of these Jews for the building of this house of God: of the king’s goods, even of the tribute beyond the river, let expenses be given to these men promptly, that they be not hindered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king’s goods, even of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "funding",
+        "decree"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "And what they need—young bullocks, rams, lambs for burnt offerings to the God of heaven, wheat, salt, wine, and oil—according to the appointment of the priests at Jerusalem, let it be given them day by day without fail.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God of heaven",
+          "source": "אלהא שמיא (elāhā shmayyā)",
+          "language": "Aramaic",
+          "glossary_id": "god-of-heaven"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "provision"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 3:7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "That they may offer sweet savour sacrifices unto the God of heaven and pray for the life of the king and of his sons.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice",
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Also I have made a decree: whoever shall alter this word, timber shall be pulled down from his house; and being set up, he shall be hanged thereon, and his house shall be made a dunghill for this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also I have made a decree, that whosoever shall alter this word, let timber be pulled down from his house, and being set up, let him be hanged thereon; and let his house be made a dunghill for this."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "punishment",
+        "legal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "punitive-formula"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And the God who caused His name to dwell there, destroy all kings and peoples that shall put forth hand to alter and to destroy this house of God which is in Jerusalem. I, Darius, have made a decree; let it be done with speed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the God that hath caused his name to dwell there destroy all kings and people, that shall put to their hand to alter and to destroy this house of God which is at Jerusalem. I Darius have made a decree; let it be done with speed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "invocation",
+        "divine-guarantee"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "theological-invocation"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Then Tatnai, governor on this side of the river, Shetharboznai, and their companions, according to that which Darius the king had sent, did speedily.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Tatnai, governor on this side the river, Shetharboznai, and their companions, according to that which Darius the king had sent, so they did speedily."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "compliance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And the elders of the Jews built, and prospered through the prophesying of Haggai the prophet and Zechariah son of Iddo; and they built and finished it, according to the commandment of the God of Israel and according to the commandment of Cyrus and Darius and Artaxerxes king of Persia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "The mention of Artaxerxes alongside Cyrus and Darius likely reflects later editorial layering; preserved here as in the Aramaic witness."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Haggai",
+          "source": "חַגַּי",
+          "language": "Hebrew",
+          "glossary_id": "haggai"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "completion"
+      ],
+      "cross_references": [
+        {
+          "reference": "Haggai 1–2",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "royal-list-variant"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And this house was finished on the third day of the month Adar; (the Aramaic register reads: in the second year of the reign of Darius the king) — preserved here as the source states.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this house was finished on the third day of the month Adar, which was in the sixth year of the reign of Darius the king."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Source reads 'second year' (Aramaic) for completion; KJV tradition records 'sixth year' — both witnesses noted."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "chronology-variant"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And the children of Israel, the priests, the Levites, and the rest of the children of the captivity kept the dedication of this house of God with joy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dedication",
+        "joy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And they offered at the dedication of this house of God a hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel twelve he-goats, according to the number of the tribes of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice",
+        "atonement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And they set the priests in their divisions, and the Levites in their courses, for the service of the God which is at Jerusalem, as it is written in the book of Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "liturgical-order"
+      ],
+      "cross_references": [
+        {
+          "reference": "Numbers (book of Moses)",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And the children of the captivity kept the Passover on the fourteenth day of the first month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of the captivity kept the passover upon the fourteenth day of the first month."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "Passover"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For the priests and the Levites were purified together; all of them were pure, and they killed the Passover for all the children of the captivity and for their brethren the priests and for themselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the priests and the Levites were purified together, all of them were pure, and killed the passover for all the children of the captivity, and for their brethren the priests, and for themselves."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "purity",
+        "communal-meal"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And the children of Israel who had come again out of captivity, and all who had separated themselves unto them from the filthiness of the peoples of the land, to seek YHWH God of Israel, ate",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel, did eat,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "repentance",
+        "separation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And they kept the feast of unleavened bread seven days with joy; for YHWH had made them joyful, and had turned the heart of the king of Assyria toward them, to strengthen their hands in the work of the house of God, the God of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And kept the feast of unleavened bread seven days with joy: for the LORD had made them joyful, and turned the heart of the king of Assyria unto them, to strengthen their hands in the work of the house of God, the God of Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Text reads 'king of Assyria' (Aramaic); its relation to Persian royal favor is a textual peculiarity requiring witness comparison."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "joy",
+        "political-favor"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:5–6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "royal-epithet-variant"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Base text is Aramaic (Ezra 4:6–6:18 area). Rendered literally where the Aramaic prescribes royal formulae and ritual terms; YHWH used for divine name.",
+    "Chronological discrepancy: local Aramaic text reads 'second year' for completion (v15) vs. KJV 'sixth year' — preserved as variant.",
+    "Personal/place names left transliterated (Tatnai, Shetharboznai, Achmetha) to retain administrative flavour."
+  ],
+  "safety_note": "Contains imperial, coercive, and cultic material; not for use to justify present-day targeting or demeaning groups.",
+  "source_witness_audit_flags": [
+    "completion-date-variant-second-vs-sixth-year",
+    "inclusion-of-Artaxerxes-in-an-Aramaic-administrative-formula",
+    "reference-to-king-of-Assyria (potential editorial layer)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,293 @@
+{
+  "book": "Nehemiah",
+  "book_id": "nehemiah",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Restored draft of Nehemiah 1 from the Masoretic text; YHWH rendered for יהוה; preserves bracketed MT variant in v9 and parashah marker at v11 for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The words of Nehemiah, son of Hachaliah. In the month Chisleu, in the twentieth year, while I was at Shushan the palace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The words of Nehemiah the son of Hachaliah. And it came to pass in the month Chisleu, in the twentieth year, as I was in Shushan the palace,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Shushan",
+          "source": "שׁוּשָׁן",
+          "language": "Hebrew",
+          "glossary_id": "shushan"
+        }
+      ],
+      "tags": [
+        "title",
+        "setting"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Hanani, one of my brothers, came — he and certain men of Judah — and I asked them about the Jews who had escaped and about Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That Hanani, one of my brethren, came, he and certain men of Judah; and I asked them concerning the Jews that had escaped, which were left of the captivity, and concerning Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Hanani",
+          "source": "חֲנָנִי",
+          "language": "Hebrew",
+          "glossary_id": "hanani"
+        }
+      ],
+      "tags": [
+        "report",
+        "remnant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "They said to me, 'The remnant left in the province are in great affliction and reproach; the wall of Jerusalem is broken down and its gates are burned with fire.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto me, The remnant that are left of the captivity there in the province are in great affliction and reproach: the wall of Jerusalem also is broken down, and the gates thereof are burned with fire."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "lament",
+        "destruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "When I heard these words I sat down and wept, mourned for days, fasted, and prayed before the God of the heavens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when I heard these words, that I sat down and wept, and mourned certain days, and fasted, and prayed before the God of heaven,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God of the heavens",
+          "source": "אֱלֹהֵי הַשָּׁמַיִם",
+          "language": "Hebrew",
+          "glossary_id": "elohei-hashamayim"
+        }
+      ],
+      "tags": [
+        "mourning",
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "I said, 'I beseech you, YHWH, God of the heavens, the great and awesome God who keeps covenant and steadfast love for those who love him and keep his commandments.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said, I beseech thee, O LORD God of heaven, the great and terrible God, that keepeth covenant and mercy for them that love him and observe his commandments:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "בְּרִית",
+          "language": "Hebrew",
+          "glossary_id": "berit"
+        }
+      ],
+      "tags": [
+        "petition",
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic",
+        "divine-name-YHWH"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Let your ear be attentive and your eyes open to hear the prayer of your servant, which I pray before you day and night for the children of Israel, your servants; and I confess the sins of the people of Israel, which we have sinned against you — I and my father's house have sinned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let thine ear now be attentive, and thine eyes open, that thou mayest hear the prayer of thy servant, which I pray before thee now, day and night, for the children of Israel thy servants, and confess the sins of the children of Israel, which we have sinned against thee: both I and my father’s house have sinned."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "confession",
+        "intercession"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "We have acted very corruptly toward you and have not kept the commandments, statutes, and ordinances that you commanded your servant Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We have dealt very corruptly against thee, and have not kept the commandments, nor the statutes, nor the judgments, which thou commandedst thy servant Moses."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sin",
+        "law"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Remember the word you commanded to Moses your servant, saying, 'If you transgress I will scatter you among the nations.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember, I beseech thee, the word that thou commandedst thy servant Moses, saying, If ye transgress, I will scatter you abroad among the nations:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenantal-warning"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 26:33",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "But if you return to me, and keep my commandments and do them, though you be driven to the farthest parts of the heavens, from there I will gather you and bring you to the place I have chosen to make my name dwell.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye turn unto me, and keep my commandments, and do them; though there were of you cast out unto the uttermost part of the heaven, yet will I gather them from thence, and will bring them unto the place that I have chosen to set my name there."
+      },
+      "notes": [
+        {
+          "title": "textual-variant",
+          "body": "MT has a bracketed/variant reading (וַהֲבִיאוֹתִים / 'and bring them'); the clause is preserved here according to MT sense and flagged for witness review."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "return",
+        "gathering"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 30:3-5",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "masoretic",
+        "bracketed-variant-v9"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Now these are your servants and your people, whom you redeemed by your great power and by your strong hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these are thy servants and thy people, whom thou hast redeemed by thy great power, and by thy strong hand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "redemption",
+        "people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "O YHWH, let now your ear be attentive to the prayer of your servant and to the prayer of your servants who desire to fear your name; prosper, I pray, your servant this day and grant him mercy in the sight of this man; for I was the king's cupbearer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O LORD, I beseech thee, let now thine ear be attentive to the prayer of thy servant, and to the prayer of thy servants, who desire to fear thy name: and prosper, I pray thee, thy servant this day, and grant him mercy in the sight of this man. For I was the king’s cupbearer."
+      },
+      "notes": [
+        {
+          "title": "layout",
+          "body": "Masoretic parashah marker (פ) appears at the end of the Hebrew verse; preserved as an editorial flag for layout and witness checks."
+        }
+      ],
+      "terms": [
+        {
+          "display": "cupbearer",
+          "source": "מַשְׁקֶה",
+          "language": "Hebrew",
+          "glossary_id": "mashqeh-cupbearer"
+        }
+      ],
+      "tags": [
+        "petition",
+        "office"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "masoretic",
+        "parashah-marker"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "KJV verse numbering retained (11 verses); translation grounded in the Hebrew MT (Masoretic).",
+    "Bracketed MT variant in v9 and the parashah marker at v11 are preserved and flagged for witness review."
+  ],
+  "safety_note": "Contains references to ruin, burning, and reproach; these are preserved from the source rather than softened.",
+  "source_witness_audit_flags": [
+    "v9 bracketed reading וַהֲבִיאוֹתִים — MT variant",
+    "v11 parashah marker (פ) after verse"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

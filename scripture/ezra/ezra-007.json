@@ -1,0 +1,581 @@
+{
+  "book": "Ezra",
+  "book_id": "ezra",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew/Aramaic source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restoration of Ezra 7 follows the Hebrew/Aramaic witness: genealogical formulae preserved, Aramaic royal-decree material rendered as administrative speech, YHWH restored where the Hebrew has יהוה. Dates, measures, and Aramaic legal terms flagged for witness-check. Kept ambiguities and legal violence intact for further review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these matters, in the reign of Artaxerxes king of Persia, Ezra son of Seraiah, son of Azariah, son of Hilkiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now after these things, in the reign of Artaxerxes king of Persia, Ezra the son of Seraiah, the son of Azariah, the son of Hilkiah,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ezra",
+          "source": "עֶזְרָא",
+          "language": "Hebrew",
+          "glossary_id": "ezra-name"
+        }
+      ],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 6:22",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "genealogical-formula"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "son of Shallum, son of Zadok, son of Ahitub,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Shallum, the son of Zadok, the son of Ahitub,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "son of Amariah, son of Azariah, son of Meraioth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Amariah, the son of Azariah, the son of Meraioth,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "son of Zerahiah, son of Uzzi, son of Bukki,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Zerahiah, the son of Uzzi, the son of Bukki,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "son of Abishua, son of Phinehas, son of Eleazar, son of Aaron the chief priest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Aaron",
+          "source": "אַהֲרֹן",
+          "language": "Hebrew",
+          "glossary_id": "aaron"
+        }
+      ],
+      "tags": [
+        "priesthood"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "This Ezra went up from Babylon; he was a skilled scribe in the law of Moses that YHWH, God of Israel, had given, and the king granted him all his requests, for the hand of YHWH his God was upon him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This Ezra went up from Babylon; and he was a ready scribe in the law of Moses, which the LORD God of Israel had given: and the king granted him all his request, according to the hand of the LORD his God upon him."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "The phrase 'hand of YHWH' indicates divine favour as the rationale for royal support."
+        }
+      ],
+      "terms": [
+        {
+          "display": "law",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "scribe",
+        "divine-favour"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 8:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "divine-influence-claim"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And some of the children of Israel, and of the priests, and of the Levites, and of the singers, and of the porters, and of the Nethinim went up to Jerusalem in the seventh year of Artaxerxes the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "return",
+        "community"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He arrived at Jerusalem in the fifth month; that was in the king's seventh year.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he came to Jerusalem in the fifth month, which was in the seventh year of the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For on the first day of the first month he set out from Babylon, and on the first day of the fifth month he came to Jerusalem, by the good hand of his God upon him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "month",
+          "source": "חֹדֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "month"
+        }
+      ],
+      "tags": [
+        "travel",
+        "divine-guidance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For Ezra had prepared his heart to seek the law of YHWH, to do it, and to teach in Israel statutes and judgments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Ezra had prepared his heart to seek the law of the LORD, and to do it, and to teach in Israel statutes and judgments."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "to seek",
+          "source": "לִדְרֹשׁ",
+          "language": "Hebrew",
+          "glossary_id": "lidrosh"
+        }
+      ],
+      "tags": [
+        "mission",
+        "education"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Now this is the copy of the letter that the king Artaxerxes gave to Ezra the priest, the scribe—a copy of the words of the commandments of YHWH and his statutes for Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now this is the copy of the letter that the king Artaxerxes gave unto Ezra the priest, the scribe, even a scribe of the words of the commandments of the LORD, and of his statutes to Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "parshagān (copy)",
+          "source": "פַּרְשְׁגֶן",
+          "language": "Aramaic",
+          "glossary_id": "parshagan-copy"
+        }
+      ],
+      "tags": [
+        "document",
+        "decree"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "aramaic-administrative-text"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Artaxerxes, king of kings, to Ezra the priest, scribe of the law of the God of heaven: perfect peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Artaxerxes, king of kings, unto Ezra the priest, a scribe of the law of the God of heaven, perfect peace, and at such a time."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king of kings",
+          "source": "מַלְכַּיָּא",
+          "language": "Aramaic",
+          "glossary_id": "king-of-kings"
+        }
+      ],
+      "tags": [
+        "royal-formula"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I make a decree: all the people of Israel, and their priests and Levites within my realm who voluntarily set their heart to go to Jerusalem, shall go with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "decree",
+        "volition"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For you have been sent by the king and his seven counselors to make inquiries concerning Judah and Jerusalem, according to the law of your God that is in your hand,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "commission",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "and to carry silver and gold, freely offered by the king and his counselors to the God of Israel whose dwelling is in Jerusalem,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to carry the silver and gold, which the king and his counsellors have freely offered unto the God of Israel, whose habitation is in Jerusalem,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "offerings",
+        "finance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "and all the silver and gold that you can find in the province of Babylon, with voluntary offerings of the people and of the priests, who willingly offer for the house of their God in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fundraising",
+        "return"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Buy promptly with this money bulls, rams, lambs, with their meal-offerings and their drink-offerings, and offer them on the altar of the house of your God in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And do whatever seems good to you and to your brothers to do with the remainder of the silver and gold, according to the will of your God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administrative-discretion"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The vessels of the house of your God that the men of Israel and the priests have presented you, you shall deliver before God in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The vessels also that are given thee for the service of the house of thy God, those deliver thou before the God of Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "vessels",
+        "dedication"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And whatever else is needed for the house of your God which you must provide, you shall take from the king's treasury.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whatsoever more shall be needful for the house of thy God, which thou shalt have occasion to bestow, bestow it out of the king’s treasure house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royal-support"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And I, Artaxerxes the king, make a decree to all the treasurers beyond the river: whatever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, let it be done speedily,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I, even I Artaxerxes the king, do make a decree to all the treasurers which are beyond the river, that whatsoever Ezra the priest, the scribe of the law of the God of heaven, shall require of you, it be done speedily,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fiscal-order",
+        "authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "up to a hundred talents of silver, up to a hundred measures of wheat, up to a hundred baths of wine, up to a hundred baths of oil, and salt without prescribed weight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Units (talents, measures, baths) follow Aramaic list; quantities need witness-check for precise equivalence."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "provisions",
+        "measures"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "measurement-units-ambiguous"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Whatever the God of heaven may command, be careful to do it for the house of the God of heaven, for why should there be wrath against the realm of the king and his sons?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whatsoever is commanded by the God of heaven, let it be diligently done for the house of the God of heaven: for why should there be wrath against the realm of the king and his sons?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God of heaven",
+          "source": "אֱלָהּ שְׁמַיָּא",
+          "language": "Aramaic",
+          "glossary_id": "god-of-heaven"
+        }
+      ],
+      "tags": [
+        "imperial-concern",
+        "divine-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Also we inform you that you must not impose toll, tribute, or custom on any of the priests, Levites, singers, porters, Nethinim, or ministers of this house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "tax-exemption",
+        "cultic-staff"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And you, Ezra, according to the wisdom of your God that is in your hand, appoint magistrates and judges to judge all the people beyond the river who know the laws of your God, and teach those who do not know them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "judiciary",
+        "instruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "administrative-authority"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "And whoever will not do the law of your God nor the law of the king, let judgment be speedily executed upon him—whether by death, exile, confiscation of goods, or imprisonment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whosoever will not do the law of thy God, and the law of the king, let judgment be executed speedily upon him, whether it be unto death, or to banishment, or to confiscation of goods, or to imprisonment."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "punishment",
+        "law-enforcement"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "severe-penalties-preserved"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Blessed be YHWH, the God of our fathers, who put such a thing as this in the king's heart to beautify the house of YHWH that is in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed be the LORD God of our fathers, which hath put such a thing as this in the king’s heart, to beautify the house of the LORD which is in Jerusalem:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "doxology"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name-restored"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "And has shown me mercy before the king and his counselors and all the king's mighty officers. So I gathered chief men from Israel to go up with me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hath extended mercy unto me before the king, and his counsellors, and before all the king’s mighty princes. And I was strengthened as the hand of the LORD my God was upon me, and I gathered together out of Israel chief men to go up with me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "mercy",
+        "leadership"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 8:1",
+          "relationship": "headnote"
+        }
+      ],
+      "editorial_flags": [
+        "leadership-assembly"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Chapter mixes Hebrew genealogy and Aramaic official correspondence; Aramaic administrative words (e.g., פרשגן, מַלְכַּיָּא) are retained where source dictates.",
+    "Divine name: יהוה rendered as YHWH. Where source uses 'God of heaven' (אֱלָהּ שְׁמַיָּא) preserved as 'God of heaven'.",
+    "Monetary and capacity units (talents, measures, baths, baths of oil) follow the Aramaic list but are flagged for numeric witness-check."
+  ],
+  "safety_note": "Contains ancient legal and imperial violence; preserve context and avoid using as justification for modern harm.",
+  "source_witness_audit_flags": [
+    "genealogical-conflation-between-samples",
+    "aramaic-administrative-phrasing-variant",
+    "measurement-units-ambiguous"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew/Aramaic",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}
