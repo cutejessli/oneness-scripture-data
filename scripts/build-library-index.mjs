@@ -1,3 +1,4 @@
+// Canonical library manifest builder for the standalone scripture reader.
 import fs from "node:fs";
 import path from "node:path";
 
