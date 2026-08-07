@@ -1,0 +1,540 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 23,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation follows the Hebrew MT closely, replaces LORD with YHWH, preserves the coup of Jehoiada, the anointing of Joash, Athaliah’s execution, and temple/priestly reorganizations; flagged for witness comparison (LXX, K)."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In the seventh year Jehoiada grew strong, and he took into covenant the captains of hundreds: Azariah son of Jeroham, Ishmael son of Jehohanan, Azariah son of Obed, Maaseiah son of Adaiah, and Elishaphat son of Zichri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the seventh year Jehoiada strengthened himself, and took the captains of hundreds, Azariah the son of Jeroham, and Ishmael the son of Jehohanan, and Azariah the son of Obed, and Maaseiah the son of Adaiah, and Elishaphat the son of Zichri, into covenant with him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "seventh year",
+          "source": "השְׁבִעִית",
+          "language": "Hebrew",
+          "glossary_id": "seventh-year"
+        },
+        {
+          "display": "captains of hundreds",
+          "source": "שָׂרֵי הַמֵּאֹות",
+          "language": "Hebrew",
+          "glossary_id": "captains-hundreds"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "leadership"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:1-3",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "They moved through Judah and gathered the Levites from all the cities of Judah and the heads of fathers’ houses of Israel; they came to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "הַלְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "temple",
+        "assembly"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 23",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "All the congregation made a covenant with the king in the house of God; and he said to them, Behold, the king’s son shall reign, as YHWH has spoken about the sons of David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king’s son shall reign, as the LORD hath said of the sons of David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "dynasty"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And he said, This is what you shall do: a third of you entering on the Sabbath — of the priests and of the Levites — shall be the gatekeepers of the doors;",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Sabbath",
+          "source": "שַׁבָּת",
+          "language": "Hebrew",
+          "glossary_id": "shabbat"
+        }
+      ],
+      "tags": [
+        "temple-order",
+        "liturgical"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "a third shall be at the king’s house, a third at the gate of the foundation; and all the people shall be in the courtyards of the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And a third part shall be at the king’s house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "temple-order",
+        "royal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Let none enter the house of YHWH except the priests and those who minister as Levites; they shall go in, for they are holy; and all the people shall keep the watch of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let none come into the house of the LORD, save the priests, and they that minister of the Levites; they shall go in, for they are holy: but all the people shall keep the watch of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "holiness",
+        "boundary"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "The Levites shall surround the king, every man with his weapon in his hand; and anyone else who comes into the house shall be put to death; but be with the king when he comes in and when he goes out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "protection",
+        "violence",
+        "priesthood"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "So the Levites and all Judah did according to all that Jehoiada the priest commanded; and every man took his men who were to enter on the Sabbath with those who were to go out on the Sabbath, for Jehoiada the priest did not dismiss the divisions.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "divisions",
+          "source": "הַמַּחְלְקוֹת",
+          "language": "Hebrew",
+          "glossary_id": "divisions-courses"
+        }
+      ],
+      "tags": [
+        "obedience",
+        "organization"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And Jehoiada the priest gave to the captains of hundreds the spears, shields, and bucklers that belonged to King David and were kept in the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover Jehoiada the priest delivered to the captains of hundreds spears, and bucklers, and shields, that had been king David’s, which were in the house of God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "spears",
+          "source": "חֲנִיתִים",
+          "language": "Hebrew",
+          "glossary_id": "spears-h-anitim"
+        }
+      ],
+      "tags": [
+        "arms",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 21:8",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "He set all the people, each man with his weapon in his hand, from the right side of the temple to the left side of the temple, by the altar and the house, round about the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "liturgical"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "They brought out the king’s son and put upon him the crown and the testimony, and made him king; and Jehoiada and his sons anointed him, and they said, ‘Long live the king.’",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they brought out the king’s son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew יְחִי הַמֶּלֶךְ literally 'Long live the king' (a proclamation), not an explicit theophany."
+        }
+      ],
+      "terms": [
+        {
+          "display": "anointed",
+          "source": "וַיִּמְשָׁחֻהוּ",
+          "language": "Hebrew",
+          "glossary_id": "anointing"
+        },
+        {
+          "display": "testimony",
+          "source": "הָעֵדוּת",
+          "language": "Hebrew",
+          "glossary_id": "testimony"
+        }
+      ],
+      "tags": [
+        "coronation",
+        "rite"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "When Athaliah heard the noise of the crowd running and praising the king, she came into the house of YHWH to the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Athaliah",
+          "source": "עֲתַלְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "athaliah"
+        }
+      ],
+      "tags": [
+        "usurper",
+        "crowd"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "She saw — behold — the king standing by his pillar at the entrance, the princes and the trumpeters by the king; and all the people of the land rejoiced and blew trumpets and the singers with stringed instruments made praise, so she tore her clothes and cried, 'Treachery! Treachery!'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "public-ceremony",
+        "conflict"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Then Jehoiada the priest sent forth the captains of hundreds who were over the host, and said to them, 'Bring her out of the ranges; whoever follows her shall be slain with the sword.' For the priest said, 'Do not slay her in the house of YHWH.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jehoiada the priest brought out the captains of hundreds that were set over the host, and said unto them, Have her forth of the ranges: and whoso followeth her, let him be slain with the sword. For the priest said, Slay her not in the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restraint",
+        "execution"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "They laid hands on her, and she was brought to the entrance of the Horse Gate of the king’s house; and they killed her there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they laid hands on her; and when she was come to the entering of the horse gate by the king’s house, they slew her there."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "execution",
+        "regicide",
+        "public-order"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And Jehoiada made a covenant between himself and all the people and the king, that they should be YHWH’s people; and he went from the house of YHWH to the king’s house, and made them swear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the LORD’s people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "people-of-YHWH"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Then all the people went to the house of Baal and tore it down; they broke down its altars and its images and killed Mattan the priest of Baal before the altars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Baal",
+          "source": "בַּעַל",
+          "language": "Hebrew",
+          "glossary_id": "baal"
+        }
+      ],
+      "tags": [
+        "iconoclasm",
+        "violence",
+        "religious-reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Jehoiada appointed the duties of the house of YHWH to the priests, the Levites whom David had distributed in the house of YHWH, to offer burnt offerings to YHWH as written in the law of Moses, with rejoicing and with singing, according to the ordinance of David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also Jehoiada appointed the offices of the house of the LORD by the hand of the priests the Levites, whom David had distributed in the house of the LORD, to offer the burnt offerings of the LORD, as it is written in the law of Moses, with rejoicing and with singing, as it was ordained by David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "law",
+        "song"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 23-26",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He set the gatekeepers at the gates of the house of YHWH so that no one unclean in any matter should enter in.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set the porters at the gates of the house of the LORD, that none which was unclean in any thing should enter in."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "purity",
+        "gatekeeping"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "He took the captains of hundreds and the nobles and the governors of the people and all the people of the land, and brought down the king from the house of YHWH; they went through the high gate into the king’s house and set the king on the throne of the kingdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the LORD: and they came through the high gate into the king’s house, and set the king upon the throne of the kingdom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "coronation",
+        "procession"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "And all the people of the land rejoiced; and the city was quiet. Athaliah they put to death with the sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "outcome",
+        "violence",
+        "stability"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "from-Hebrew-MT"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Hebrew phrasing preserved where it differs from KJV (e.g., יְחִי הַמֶּלֶךְ rendered literally).",
+    "Versification matches KJV numbering while translating from the supplied Hebrew chapter text (MT basis)."
+  ],
+  "safety_note": "Contains descriptions of political violence and execution; handle with sensitivity.",
+  "source_witness_audit_flags": [
+    "MT-aligned",
+    "possible-LXX-variation-needs-check",
+    "name-form-variants (Jehoiada/Jehoiyada)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

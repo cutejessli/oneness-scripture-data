@@ -1,0 +1,669 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 33,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft follows Hebrew narrative; renders divine name as YHWH. Keeps moral difficulty and variant markers (Babylon/Babel). Requires witness-check versus 2 Kings and the Prayer of Manasseh tradition."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Manasseh was twelve years old when he began to reign; and he reigned fifty and five years in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Manasseh was twelve years old when he began to reign, and he reigned fifty and five years in Jerusalem:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royalty",
+        "chronology"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "chronology:agedata"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "But he did that which was evil in the sight of YHWH, like the abominations of the nations whom YHWH had cast out before the people of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But did that which was evil in the sight of the LORD, like unto the abominations of the heathen, whom the LORD had cast out before the children of Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Language echoes covenantal warning against foreign cults."
+        }
+      ],
+      "terms": [
+        {
+          "display": "abominations",
+          "source": "תּוֹעֲבוֹת",
+          "language": "Hebrew",
+          "glossary_id": "abominations"
+        }
+      ],
+      "tags": [
+        "idolatry",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 12",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He rebuilt the high places which Hezekiah his father had broken down; he reared up altars for Baʿalim, made Asherim, worshipped all the host of heaven, and served them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he built again the high places which Hezekiah his father had broken down, and he reared up altars for Baalim, and made groves, and worshipped all the host of heaven, and served them."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "'Host of heaven' implies astral cultic worship; Asherim = cultic poles/groves."
+        }
+      ],
+      "terms": [
+        {
+          "display": "high place",
+          "source": "בָּמָה (bamah)",
+          "language": "Hebrew",
+          "glossary_id": "bamah"
+        },
+        {
+          "display": "Asherim",
+          "source": "אֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherah"
+        }
+      ],
+      "tags": [
+        "idolatry",
+        "cult"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:3",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "terminology:bamah",
+        "terminology:asherah"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Also he built altars in the house of YHWH, whereof YHWH had said, 'In Jerusalem shall my name be for ever.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he built altars in the house of the LORD, whereof the LORD had said, In Jerusalem shall my name be for ever."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "temple",
+        "sacrilege"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 8:16",
+          "relationship": "quotation"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And he built altars for all the host of heaven in the two courts of the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he built altars for all the host of heaven in the two courts of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "temple",
+        "astral-cult"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And he caused his sons to pass through the fire in the Valley of Ben‑Hinnom; and he observed times, used augury, witchcraft, consulted familiar spirits and wizards; he wrought much evil in the sight of YHWH, to provoke him to anger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he caused his children to pass through the fire in the valley of the son of Hinnom: also he observed times, and used enchantments, and used witchcraft, and dealt with a familiar spirit, and with wizards: he wrought much evil in the sight of the LORD, to provoke him to anger."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "'Pass through the fire' implies child sacrifice in the valley (Gei‑Ben‑Hinnom)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Valley of Ben‑Hinnom",
+          "source": "גֵּיא־בֶּן־הִנֹּם",
+          "language": "Hebrew",
+          "glossary_id": "ge-ben-hinnom"
+        }
+      ],
+      "tags": [
+        "child-sacrifice",
+        "divination"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah 7:31",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "cultic:child-sacrifice"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And he set the carved image, the idol which he had made, in the house of God; of which God had said to David and to Solomon his son, 'In this house, and in Jerusalem, which I have chosen out of all the tribes of Israel, will I put my name for ever.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set a carved image, the idol which he had made, in the house of God, of which God had said to David and to Solomon his son, In this house, and in Jerusalem, which I have chosen before all the tribes of Israel, will I put my name for ever:"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Quotation of YHWH's promise contrasts with the idol's installation."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "sacrilege",
+        "promise"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 9:3",
+          "relationship": "quotation"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name:YHWH",
+        "contrast:promise_vs_action"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And I will not any more remove the foot of Israel from out of the land which I have appointed for your fathers—only if they will be careful to do all that I have commanded them, according to all the law, statutes, and ordinances by the hand of Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "law",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "law"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 11",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "So Manasseh led Judah and the inhabitants of Jerusalem to do worse than the nations whom YHWH had destroyed before the children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the LORD had destroyed before the children of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sociopolitical",
+        "idolatry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And YHWH spoke to Manasseh and to his people, but they would not give ear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake to Manasseh, and to his people: but they would not hearken."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "rejection"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Therefore YHWH brought upon them the captains of the host of the king of Assyria; and they took Manasseh among the thorns, bound him with fetters, and carried him to Babel (Babylon).",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the LORD brought upon them the captains of the host of the king of Assyria, which took Manasseh among the thorns, and bound him with fetters, and carried him to Babylon."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew text reads 'Babel'—assess witness tradition for 'Babylon' rendering."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Babylon",
+          "source": "בָּבֶלָה (Bavel)",
+          "language": "Hebrew",
+          "glossary_id": "bavel"
+        }
+      ],
+      "tags": [
+        "captivity",
+        "assyria"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:10–11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "variant:Babel",
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And when he was in affliction he besought YHWH his God, and humbled himself greatly before the God of his fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was in affliction, he besought the LORD his God, and humbled himself greatly before the God of his fathers,"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Repentance occurs in affliction—language of 'humbling' (kinnah)."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "affliction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And he prayed unto him, and YHWH was entreated for him, and he brought him again to Jerusalem into his kingdom. Then Manasseh knew that YHWH was God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And prayed unto him: and he was intreated of him, and heard his supplication, and brought him again to Jerusalem into his kingdom. Then Manasseh knew that the LORD he was God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH",
+        "theology:conversion"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "After this he built an outer wall to the city of David, on the west side of Gihon in the valley, even to the entrance at the Fish Gate; he compassed Ophel, and raised it very much, and placed captains of war in all the fortified cities of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now after this he built a wall without the city of David, on the west side of Gihon, in the valley, even to the entering in at the fish gate, and compassed about Ophel, and raised it up a very great height, and put captains of war in all the fenced cities of Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Gihon",
+          "source": "גִּיחוֹן",
+          "language": "Hebrew",
+          "glossary_id": "gihon"
+        },
+        {
+          "display": "Ophel",
+          "source": "עֹפֶל",
+          "language": "Hebrew",
+          "glossary_id": "ophel"
+        }
+      ],
+      "tags": [
+        "reform",
+        "fortification"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "topography:Gihon-Ophel"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And he took away the foreign gods and the idol out of the house of YHWH, and all the altars that he had built on the mount of the house of YHWH and in Jerusalem; and he cast them out of the city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took away the strange gods, and the idol out of the house of the LORD, and all the altars that he had built in the mount of the house of the LORD, and in Jerusalem, and cast them out of the city."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "reform",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And he repaired the altar of YHWH, and sacrificed thereon peace‑offerings and thank‑offerings; and commanded Judah to serve YHWH the God of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he repaired the altar of the LORD, and sacrificed thereon peace offerings and thank offerings, and commanded Judah to serve the LORD God of Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Peace offerings (shelamim) and thank‑offerings (todah) mark cult renewal."
+        }
+      ],
+      "terms": [
+        {
+          "display": "peace‑offerings",
+          "source": "שְׁלָמִים (shelamim)",
+          "language": "Hebrew",
+          "glossary_id": "shelamim"
+        }
+      ],
+      "tags": [
+        "worship",
+        "reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH",
+        "cult:restoration"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Nevertheless the people still sacrificed in the high places, yet unto YHWH their God only.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless the people did sacrifice still in the high places, yet unto the LORD their God only."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "high places",
+          "source": "בָּמוֹת",
+          "language": "Hebrew",
+          "glossary_id": "bamot"
+        }
+      ],
+      "tags": [
+        "partial-reform",
+        "popular-religion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spoke to him in the name of YHWH the God of Israel, are written in the records of the kings of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Manasseh, and his prayer unto his God, and the words of the seers that spake to him in the name of the LORD God of Israel, behold, they are written in the book of the kings of Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "'Seers' (chazim) and 'prayer' suggest additional source material now lost or separate."
+        }
+      ],
+      "terms": [
+        {
+          "display": "seers",
+          "source": "חֹזִים (chazim)",
+          "language": "Hebrew",
+          "glossary_id": "chazim"
+        }
+      ],
+      "tags": [
+        "sources",
+        "historiography"
+      ],
+      "cross_references": [
+        {
+          "reference": "Kings—royal annals",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name:YHWH",
+        "source-reference:royal-annals"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "His prayer also, and how God was entreated of him, and all his sins and his trespass, and the places wherein he built high places and set up Asherim and graven images before he was humbled, behold they are written among the sayings of the seers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "His prayer also, and how God was intreated of him, and all his sins, and his trespass, and the places wherein he built high places, and set up groves and graven images, before he was humbled: behold, they are written among the sayings of the seers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asherim",
+          "source": "אֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherim"
+        }
+      ],
+      "tags": [
+        "sources",
+        "confession"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "source-reference:seers"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "So Manasseh slept with his fathers, and they buried him in his house; and Amon his son reigned in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "succession",
+        "mortality"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Amon was twenty and two years old when he began to reign, and he reigned two years in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Amon was two and twenty years old when he began to reign, and reigned two years in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology",
+        "royalty"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:19–26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "chronology:agedata"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "And he did that which was evil in the sight of YHWH, like as his father Manasseh had done: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he did that which was evil in the sight of the LORD, as did Manasseh his father: for Amon sacrificed unto all the carved images which Manasseh his father had made, and served them;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "idolatry",
+        "continuity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "And he humbled not himself before YHWH, as Manasseh his father had humbled himself; but Amon trespassed more and more.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And humbled not himself before the LORD, as Manasseh his father had humbled himself; but Amon trespassed more and more."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "contrast"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name:YHWH"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "And his servants conspired against him, and slew him in his own house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his servants conspired against him, and slew him in his own house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "political-violence",
+        "coup"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But the people of the land slew all them that had conspired against King Amon; and the people of the land made Josiah his son king in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "justice",
+        "succession"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 21:23–26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Preserves cultic terms (bamah, Asherah) and place-names (Gihon, Ophel, Babel) as transliterations where appropriate.",
+    "Does not harmonize Manasseh's repentance—reports both apostasy and restoration as in the Hebrew narrative."
+  ],
+  "safety_note": "Contains unvarnished descriptions of child sacrifice, idolatry, political violence; intended for scholarly/faithful use, not for propagandistic or abusive ends.",
+  "source_witness_audit_flags": [
+    "Babylon/Babel rendering (v.11) — check textual witnesses",
+    "Reference to captains of Assyria (v.11) — compare 2 Kings 21:10–18",
+    "Material attributed to 'seers' and 'book of the kings' (vv.18–19) — catalog source layers"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

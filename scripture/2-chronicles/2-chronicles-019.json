@@ -1,0 +1,367 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 19,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation of 2 Chronicles 19 faithful to Hebrew; preserves judicial reform language, prophetic rebuke, and cultic-reform terms. A few phrases (v.2, v.10) flagged for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Jehoshaphat king of Judah returned to his house in peace in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat the king of Judah returned to his house in peace to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "shalom",
+          "source": "שָׁלוֹם",
+          "language": "Hebrew",
+          "glossary_id": "shalom"
+        }
+      ],
+      "tags": [
+        "peace",
+        "royal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Jehu son of Hanani the seer went out to meet him and said to the king, “Shall you help the wicked and love those who hate YHWH? Therefore wrath is upon you from before YHWH.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehu the son of Hanani the seer went out to meet him, and said to king Jehoshaphat, Shouldest thou help the ungodly, and love them that hate the LORD? therefore is wrath upon thee from before the LORD."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Direct prophetic rebuke; Hebrew verb-form emphatic—tone confrontational."
+        }
+      ],
+      "terms": [
+        {
+          "display": "chozeh (seer)",
+          "source": "הָחֹזֶה",
+          "language": "Hebrew",
+          "glossary_id": "chozeh-seer"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "reproof"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 16:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Yet good things were found in you: for you removed the Asherah poles from the land and set your heart to seek YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless there are good things found in thee, in that thou hast taken away the groves out of the land, and hast prepared thine heart to seek God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asherah",
+          "source": "הָאֲשֵׁרוֹת",
+          "language": "Hebrew",
+          "glossary_id": "asherah-poles"
+        }
+      ],
+      "tags": [
+        "cult-reform",
+        "piety"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Jehoshaphat dwelt at Jerusalem; and he went out again through the people from Beersheba to Mount Ephraim, and brought them back to YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat dwelt at Jerusalem: and he went out again through the people from Beersheba to mount Ephraim, and brought them back unto the LORD God of their fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Beersheba",
+          "source": "בְּאֵר שֶׁבַע",
+          "language": "Hebrew",
+          "glossary_id": "beersheba"
+        },
+        {
+          "display": "Mount Ephraim",
+          "source": "הַר אֶפְרָיִם",
+          "language": "Hebrew",
+          "glossary_id": "mount-ephraim"
+        }
+      ],
+      "tags": [
+        "religious-reform",
+        "pastoral"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And he set judges in the land throughout all the fortified cities of Judah, city by city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set judges in the land throughout all the fenced cities of Judah, city by city,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "shophtim (judges)",
+          "source": "שֹׁפְטִים",
+          "language": "Hebrew",
+          "glossary_id": "shophtim"
+        }
+      ],
+      "tags": [
+        "judiciary",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And he said to the judges, “See what you do; for you do not judge for man but for YHWH, who is with you in the matter of judgment.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said to the judges, Take heed what ye do: for ye judge not for man, but for the LORD, who is with you in the judgment."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "mishpat (judgment)",
+          "source": "מִשְׁפָּט",
+          "language": "Hebrew",
+          "glossary_id": "mishpat"
+        }
+      ],
+      "tags": [
+        "justice",
+        "ethical"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 1:16-17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Now let the fear of YHWH be upon you; be careful and do it; for there is no iniquity with YHWH our God, nor respect of persons, nor taking of bribes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore now let the fear of the LORD be upon you; take heed and do it: for there is no iniquity with the LORD our God, nor respect of persons, nor taking of gifts."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "miqach shochad (taking of bribes)",
+          "source": "מִקַּח־שֹׁחַד",
+          "language": "Hebrew",
+          "glossary_id": "miqach-shochad"
+        }
+      ],
+      "tags": [
+        "integrity",
+        "anti-corruption"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And in Jerusalem Jehoshaphat appointed of the Levites, and of the priests, and of the heads of the fathers of Israel, for the judgment of YHWH and for controversies; and they returned to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the LORD, and for controversies, when they returned to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Leviyim (Levites)",
+          "source": "הַלְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "leviyim"
+        },
+        {
+          "display": "kohanim (priests)",
+          "source": "הַכֹּהֲנִים",
+          "language": "Hebrew",
+          "glossary_id": "kohanim"
+        }
+      ],
+      "tags": [
+        "religious-officers",
+        "judicial"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And he charged them, saying, “Thus you shall do in the fear of YHWH, faithfully and with a whole heart.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he charged them, saying, Thus shall ye do in the fear of the LORD, faithfully, and with a perfect heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "be'emunah",
+          "source": "בֶּאֱמוּנָה",
+          "language": "Hebrew",
+          "glossary_id": "beemunah-faithfulness"
+        }
+      ],
+      "tags": [
+        "instruction",
+        "piety"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And whatever controversy comes to you from your brethren who dwell in their cities—whether between blood and blood, or between law and commandment, statutes and judgments—warn them, that they trespass not against YHWH; and that wrath not come upon you and upon your brethren. Do this and you shall not trespass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the LORD, and so wrath come upon you, and upon your brethren: this do, and ye shall not trespass."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Phrase 'between blood and blood' (בֵּין־דָּם לְדָם) is ambiguous in Hebrew; could mean homicide, manslaughter, or blood-claims."
+        }
+      ],
+      "terms": [
+        {
+          "display": "dam (blood)",
+          "source": "דָּם",
+          "language": "Hebrew",
+          "glossary_id": "dam-blood"
+        },
+        {
+          "display": "Torah",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "dispute-resolution",
+        "law"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 17:8-13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And, behold, Amariah the chief priest is over you in all the matters of YHWH; and Zebadiah son of Ishmael is the ruler of the house of Judah for all the king’s matters; also the Levites shall be officers before you. Be courageous and act; and YHWH will be with the good.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, Amariah the chief priest is over you in all matters of the LORD; and Zebadiah the son of Ishmael, the ruler of the house of Judah, for all the king’s matters: also the Levites shall be officers before you. Deal courageously, and the LORD shall be with the good."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Role titles combine priestly, administrative, and levitical functions; 'ruler of the house' indicates royal administration."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Amariah",
+          "source": "אֲמַרְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "amariah-chief-priest"
+        },
+        {
+          "display": "Zebadiah",
+          "source": "זְבַדְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "zebadiah-ruler"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered YHWH for Hebrew יהוה. Hebrew terms are transliterated when they carry cultic or legal weight (max two per verse). Preserve literal legal phrasing (e.g., 'between blood and blood').",
+    "This chapter emphasizes judicial/administrative reform and prophetic accountability; avoid harmonizing legal ambiguity."
+  ],
+  "safety_note": "Contains legal/administrative authority material; not a justification for abuse of judicial power.",
+  "source_witness_audit_flags": [
+    "verse2:rebuke-formula and possible variant vocalization",
+    "verse4:geographic-scope phrasing (Beersheba→Ephraim)",
+    "verse10:ambiguous formula 'between blood and blood' needing lexical witness check"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

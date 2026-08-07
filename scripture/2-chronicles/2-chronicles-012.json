@@ -1,0 +1,490 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft based on the Hebrew (MT) chapter text; renders יהוה as YHWH and preserves place/names and numerical details; minor witness items flagged for later review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And it came to pass, when Rehoboam had established the kingdom and had strengthened himself, that he forsook the Torah of YHWH, and all Israel with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the LORD, and all Israel with him."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew phrase literally 'left the Torah of YHWH'."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Torah",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "apostasy",
+        "kingdom"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 12:16",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "mt_based"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "And it came to pass in the fifth year of King Rehoboam that Shishak king of Egypt came up against Jerusalem, because they had transgressed against YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that in the fifth year of king Rehoboam Shishak king of Egypt came up against Jerusalem, because they had transgressed against the LORD,"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew causative verb indicates rising against YHWH as motive for invasion."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Shishak",
+          "source": "שִׁישַׁק",
+          "language": "Hebrew",
+          "glossary_id": "shishak"
+        }
+      ],
+      "tags": [
+        "invasion",
+        "judgement"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 14:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "name_variant_shishak"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "With twelve hundred chariots, and threescore thousand horsemen; and the people were without number that came with him out of Egypt, the Lubims, the Sukkiims, and the Cushites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "With twelve hundred chariots, and threescore thousand horsemen: and the people were without number that came with him out of Egypt; the Lubims, the Sukkiims, and the Ethiopians."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "MT lists peoples (לּוּבִים, סֻכִּים, כּוּשׁ) — identification debated in scholarship."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Lubim",
+          "source": "לּוּבִים",
+          "language": "Hebrew",
+          "glossary_id": "lubim"
+        },
+        {
+          "display": "Sukkiim",
+          "source": "סֻכִּים",
+          "language": "Hebrew",
+          "glossary_id": "sukkiim"
+        }
+      ],
+      "tags": [
+        "army",
+        "foreign_peoples"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "numerical_reporting_mt"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And he took the fenced cities which pertained to Judah, and came to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took the fenced cities which pertained to Judah, and came to Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Fenced cities’ reflects Hebrew מְצוּרוֹת (fortified towns)."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "conquest"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal_place_terms"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Then came Shemaiah the prophet to Rehoboam and to the princes of Judah, who were gathered to Jerusalem because of Shishak, and said unto them, Thus says YHWH: Ye have forsaken me, and therefore have I also left you in the hand of Shishak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the LORD, Ye have forsaken me, and therefore have I also left you in the hand of Shishak."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Prophetic formula כֹּה־אָמַר YHWH preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Shemaiah",
+          "source": "שְׁמַעְיָה",
+          "language": "Hebrew",
+          "glossary_id": "shemaiah"
+        }
+      ],
+      "tags": [
+        "prophecy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 11:2",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "prophetic_formula_preserved"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Whereupon the princes of Israel and the king humbled themselves; and they said, YHWH is righteous.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereupon the princes of Israel and the king humbled themselves; and they said, The LORD is righteous."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "The assembly’s confession is terse: ‘YHWH is righteous.’"
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "confession"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "communal_response_recorded"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And when YHWH saw that they humbled themselves, the word of YHWH came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the LORD saw that they humbled themselves, the word of the LORD came to Shemaiah, saying, They have humbled themselves; therefore I will not destroy them, but I will grant them some deliverance; and my wrath shall not be poured out upon Jerusalem by the hand of Shishak."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Some deliverance’ (כִּמְעַט לִפְלֵיטָה) implies limited rescue, not full restoration."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "mercy",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "limited_deliverance_phrase"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the lands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘His servants’ here reads as service to the foreign king (Shishak)."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "servitude",
+        "didactic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ambiguous_pronoun_referent"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of YHWH, and the treasures of the king's house; he took all: he carried away also the shields of gold which Solomon had made.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Shishak king of Egypt came up against Jerusalem, and took away the treasures of the house of the LORD, and the treasures of the king’s house; he took all: he carried away also the shields of gold which Solomon had made."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "MT emphasizes total seizure: ‘he took all.’"
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "plunder",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 14:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "treasure_list_consistent_mt"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And King Rehoboam made shields of bronze in their stead, and committed them unto the hands of the chief of the guard that kept the entrance of the king's house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Instead of which king Rehoboam made shields of brass, and committed them to the hands of the chief of the guard, that kept the entrance of the king’s house."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘In their stead’ (תַּחְתֵּיהֶם) indicates replacement, not equality."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "replacement",
+        "security"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "material_change_noted"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And when the king entered into the house of YHWH, the guard came and fetched them, and brought them again into the guard chamber.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the king entered into the house of the LORD, the guard came and fetched them, and brought them again into the guard chamber."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "The shields were used ceremonially and kept by the guard (רָצִים)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "ratzim",
+          "source": "רָצִים",
+          "language": "Hebrew",
+          "glossary_id": "ratzim-guard"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "guard"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ceremonial_action_recorded"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And when he humbled himself, the anger of YHWH turned from him, that he would not destroy him altogether: and also in Judah there were good words.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he humbled himself, the wrath of the LORD turned from him, that he would not destroy him altogether: and also in Judah things went well."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew ‘good words’ (דְּבָרִים טוֹבִים) may mean ‘things went well’ or favorable omens."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "idiomatic_phrase"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "So King Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was forty and one years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which YHWH had chosen out of all the tribes of Israel to put his name there. And his mother's name was Naamah the Ammonitess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So king Rehoboam strengthened himself in Jerusalem, and reigned: for Rehoboam was one and forty years old when he began to reign, and he reigned seventeen years in Jerusalem, the city which the LORD had chosen out of all the tribes of Israel, to put his name there. And his mother’s name was Naamah an Ammonitess."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "MT preserves the formulas of age, reign length, and the city's election by YHWH."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Naamah",
+          "source": "נַעֲמָה",
+          "language": "Hebrew",
+          "glossary_id": "naamah"
+        }
+      ],
+      "tags": [
+        "chronology",
+        "identity"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 11:20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "chronological_formula"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "And he did evil, because he prepared not his heart to seek YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did evil, because he prepared not his heart to seek the LORD."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew verb form implies failure to ‘set’ the heart toward seeking YHWH."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "evil",
+        "intention"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "moral_assessment_preserved"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Now the acts of Rehoboam, first and last, are they not written in the words of Shemaiah the prophet and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam all their days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the acts of Rehoboam, first and last, are they not written in the book of Shemaiah the prophet, and of Iddo the seer concerning genealogies? And there were wars between Rehoboam and Jeroboam continually."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Reference to archival sources (Shemaiah, Iddo) indicating fuller records outside this account."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Iddo",
+          "source": "עִדּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "iddo"
+        }
+      ],
+      "tags": [
+        "sources",
+        "war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "external_sources_cited"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Rehoboam slept with his fathers, and was buried in the city of David: and Abijah his son reigned in his stead."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Standard formula for death and succession preserved."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "succession",
+        "death"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 13:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "succession_formula"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered uniformly as YHWH throughout.",
+    "Shishak (Hebrew שִׁישַׁק) and foreign peoples (Lubim, Sukkiim, Cush) kept close to Hebrew forms; numerical totals preserved from MT.",
+    "Preserves prophetic intervention (Shemaiah) and the sequence: invasion, plunder, humility, partial deliverance, continued apostasy."
+  ],
+  "safety_note": "Contains conquest, plunder, and imperial violence; preserved as source-text material.",
+  "source_witness_audit_flags": [
+    "shishak_name_variant",
+    "lubim_sukkiim_identification",
+    "numerical_reporting_mt"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

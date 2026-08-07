@@ -1,0 +1,417 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 17,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation closely follows the supplied Hebrew; divine name rendered as YHWH. Variant in v.8 and unusually large numeric totals flagged for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And Jehoshaphat his son reigned in his place, and he strengthened himself against Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat his son reigned in his stead, and strengthened himself against Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:41-50",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And he placed forces in all the fortified cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim which Asa his father had taken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he placed forces in all the fenced cities of Judah, and set garrisons in the land of Judah, and in the cities of Ephraim, which Asa his father had taken."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "fortified cities",
+          "source": "בְּצֻר֑וֹת",
+          "language": "Hebrew",
+          "glossary_id": "mivtzarot"
+        }
+      ],
+      "tags": [
+        "military",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And YHWH was with Jehoshaphat, because he walked in the early ways of his father David, and did not seek the Baals.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD was with Jehoshaphat, because he walked in the first ways of his father David, and sought not unto Baalim;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "religion",
+        "continuity"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 13:14",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But he sought YHWH, the God of his father, and walked in his commandments, and not after the doings of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But sought to the Lord God of his father, and walked in his commandments, and not after the doings of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "piety",
+        "law"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Therefore YHWH established the kingdom in his hand; and all Judah brought presents to Jehoshaphat, so that he had riches and honour in abundance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore the LORD stablished the kingdom in his hand; and all Judah brought to Jehoshaphat presents; and he had riches and honour in abundance."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_favor",
+        "wealth"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And his heart was lifted up in the ways of YHWH: moreover he removed the high places and the Asherim from Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his heart was lifted up in the ways of the LORD: moreover he took away the high places and groves out of Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "high places",
+          "source": "בָּמ֥וֹת",
+          "language": "Hebrew",
+          "glossary_id": "bamah"
+        },
+        {
+          "display": "Asherim",
+          "source": "אֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherim"
+        }
+      ],
+      "tags": [
+        "religious_reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "And in the third year of his reign he sent to his princes — to Ben‑Hail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah — to teach in the cities of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also in the third year of his reign he sent to his princes, even to Benhail, and to Obadiah, and to Zechariah, and to Nethaneel, and to Michaiah, to teach in the cities of Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "education",
+        "decentralization"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And with them the Levites: Shemaiah, Nethaniah, Zebadiah, Asahel, (and Shmiramoth / Shemiramoth), Jehonathan, Adonijah, Tobijah, and Tobadoni‑jah — Levites; and with them Elishama and Jehoram the priests.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And with them he sent Levites, even Shemaiah, and Nethaniah, and Zebadiah, and Asahel, and Shemiramoth, and Jehonathan, and Adonijah, and Tobijah, and Tobadonijah, Levites; and with them Elishama and Jehoram, priests."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew manuscripts show bracketed/variant reading וּשְׁמִירָמ֡וֹת (Shmiramoth / Shemiramoth); see witness note."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Shmiramoth",
+          "source": "ושמרימות",
+          "language": "Hebrew",
+          "glossary_id": "shmiramoth-variant"
+        }
+      ],
+      "tags": [
+        "levites",
+        "priests"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "textual_variant_shmiramoth"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And they taught in Judah; and they had the book of the law of YHWH with them, and went about through all the cities of Judah, and taught the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they taught in Judah, and had the book of the law of the LORD with them, and went about throughout all the cities of Judah, and taught the people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "book of the law",
+          "source": "סֵ֖פֶר תּוֹרַ֣ת יְהֹוָ֑ה",
+          "language": "Hebrew",
+          "glossary_id": "torat-yhwh"
+        }
+      ],
+      "tags": [
+        "teaching",
+        "scripture"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 31:9",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And the fear of YHWH fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fear of the LORD fell upon all the kingdoms of the lands that were round about Judah, so that they made no war against Jehoshaphat."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_fear",
+        "diplomacy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Also some of the Philistines brought Jehoshaphat presents and tribute of silver; and the Arabians brought him flocks — seven thousand seven hundred rams, and seven thousand seven hundred he‑goats.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "tribute",
+        "international_relations"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And Jehoshaphat became great exceedingly; and he built in Judah fortresses and store‑cities.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat waxed great exceedingly; and he built in Judah castles, and cities of store."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "infrastructure"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he had much business in the cities of Judah: and the men of war, mighty men of valour, were in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "economy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Now these are the numbering of them, by the house of their fathers: of Judah, the captains of thousands — Adnah the chief; and with him mighty men of valour, three hundred thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "roster",
+        "judah"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large_numerical_totals"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And next to him was Jehohanan the captain, and with him two hundred and eighty thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And next to him was Jehohanan the captain, and with him two hundred and fourscore thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large_numerical_totals"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And next him was Amasiah the son of Zichri, who willingly offered himself unto YHWH; and with him two hundred thousand mighty men of valour.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And next him was Amasiah the son of Zichri, who willingly offered himself unto the LORD; and with him two hundred thousand mighty men of valour."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "willingly offered",
+          "source": "הַמִּתְנַדֵּב",
+          "language": "Hebrew",
+          "glossary_id": "mitnadev"
+        }
+      ],
+      "tags": [
+        "devotion",
+        "military"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large_numerical_totals"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And of Benjamin: Eliada a mighty man of valour; and with him armed men, bowmen and shield‑bearers, two hundred thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of Benjamin; Eliada a mighty man of valour, and with him armed men with bow and shield two hundred thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "benjamin",
+        "arms"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large_numerical_totals"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "And next him was Jehozabad, and with him an hundred and eighty thousand, ready prepared for the war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And next him was Jehozabad, and with him an hundred and fourscore thousand ready prepared for the war."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "readiness"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large_numerical_totals"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "These waited on the king, beside those whom the king set in the fortified cities throughout all Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These waited on the king, beside those whom the king put in the fenced cities throughout all Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "service",
+        "garrison"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered uniformly as YHWH.",
+    "Preserves literal structure and names; does not harmonize discrepant numbers or bracketed reading in v.8."
+  ],
+  "safety_note": "",
+  "source_witness_audit_flags": [
+    "variant_8_w_shmiramoth",
+    "large_numerical_totals_verify",
+    "divine_name_rendering_confirmed"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

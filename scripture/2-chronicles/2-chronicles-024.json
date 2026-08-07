@@ -1,0 +1,752 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 24,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft grounded in supplied Hebrew; uses YHWH for יהוה. Preserves textual variant at v27 and unusual age at v15; requires witness collation for a few lexical and typographic variants."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Joash was seven years old when he began to reign; he reigned forty years in Jerusalem. His mother’s name was Zibiah of Beersheba.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Joash was seven years old when he began to reign, and he reigned forty years in Jerusalem. His mother’s name also was Zibiah of Beersheba."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Joash",
+          "source": "יוֹאָשׁ",
+          "language": "Hebrew",
+          "glossary_id": "joash"
+        },
+        {
+          "display": "Zibiah",
+          "source": "צִבְיָה",
+          "language": "Hebrew",
+          "glossary_id": "zibiah"
+        }
+      ],
+      "tags": [
+        "kingship",
+        "lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And Joash did what was right in the eyes of YHWH all the days of Jehoiada the priest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joash did that which was right in the sight of the LORD all the days of Jehoiada the priest."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew indicates continuity 'all the days of Jehoiada'—political-religious dependence implied."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Jehoiada",
+          "source": "יְהוֹיָדָע",
+          "language": "Hebrew",
+          "glossary_id": "jehoiada"
+        }
+      ],
+      "tags": [
+        "reform",
+        "priesthood"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Jehoiada took two wives for him, and he fathered sons and daughters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoiada took for him two wives; and he begat sons and daughters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "After this Joash set his mind to restore the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass after this, that Joash was minded to repair the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "house of YHWH",
+          "source": "בֵּית־יְהוָה",
+          "language": "Hebrew",
+          "glossary_id": "house-of-yhwh"
+        }
+      ],
+      "tags": [
+        "temple",
+        "reform"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "He gathered the priests and the Levites and said to them, 'Go out to the cities of Judah and gather from all Israel money each year to strengthen the house of your God, and hasten the work.' But the Levites did not hasten the matter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he gathered together the priests and the Levites, and said to them, Go out unto the cities of Judah, and gather of all Israel money to repair the house of your God from year to year, and see that ye hasten the matter. Howbeit the Levites hastened it not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "לְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "administration",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:5",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Then the king called Jehoiada the chief and said to him, 'Why have you not required of the Levites that they bring in from Judah and from Jerusalem the charge that Moses the servant of YHWH and the congregation of Israel laid on the tabernacle of witness?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king called for Jehoiada the chief, and said unto him, Why hast thou not required of the Levites to bring in out of Judah and out of Jerusalem the collection, according to the commandment of Moses the servant of the LORD, and of the congregation of Israel, for the tabernacle of witness?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "tabernacle of witness",
+          "source": "אֹהֶל הָעֵדוּת",
+          "language": "Hebrew",
+          "glossary_id": "tabernacle-of-witness"
+        }
+      ],
+      "tags": [
+        "law",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 25",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For the sons of that wicked Athaliah had broken up the house of God, and had given all the dedicated things of the house of YHWH to Baalim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the sons of Athaliah, that wicked woman, had broken up the house of God; and also all the dedicated things of the house of the LORD did they bestow upon Baalim."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Athaliah",
+          "source": "עֲתַלְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "athaliah"
+        }
+      ],
+      "tags": [
+        "desecration",
+        "idolatry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "At the king’s command they made a chest and placed it outside at the gate of YHWH’s house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And at the king’s commandment they made a chest, and set it without at the gate of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "chest",
+          "source": "אֲרוֹן",
+          "language": "Hebrew",
+          "glossary_id": "chest"
+        }
+      ],
+      "tags": [
+        "finance",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:8",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "They proclaimed through Judah and Jerusalem that people should bring to YHWH the levies that Moses the servant of God had imposed on Israel in the wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they made a proclamation through Judah and Jerusalem, to bring in to the LORD the collection that Moses the servant of God laid upon Israel in the wilderness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Moses the servant",
+          "source": "מֹשֶׁה עֶבֶד",
+          "language": "Hebrew",
+          "glossary_id": "moses-servant"
+        }
+      ],
+      "tags": [
+        "history",
+        "law"
+      ],
+      "cross_references": [
+        {
+          "reference": "Numbers 18",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "All the princes and all the people rejoiced; they brought and cast into the chest until they made an end.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the princes and all the people rejoiced, and brought in, and cast into the chest, until they had made an end."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "community",
+        "giving"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "When the chest was brought to the king’s office by the Levites, and they saw that there was much money, the king’s scribe and the high priest’s officer came and emptied the chest and carried it away to their place; thus they did day by day and gathered money in abundance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now it came to pass, that at what time the chest was brought unto the king’s office by the hand of the Levites, and when they saw that there was much money, the king’s scribe and the high priest’s officer came and emptied the chest, and took it, and carried it to his place again. Thus they did day by day, and gathered money in abundance."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew implies regular inspection and removal by royal and priestly agents."
+        }
+      ],
+      "terms": [
+        {
+          "display": "scribe",
+          "source": "סוֹפֵר",
+          "language": "Hebrew",
+          "glossary_id": "scribe"
+        }
+      ],
+      "tags": [
+        "administration",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The king and Jehoiada gave it to those doing the service of the house of YHWH; they hired masons and carpenters to repair the house of YHWH, and smiths and founders to strengthen the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king and Jehoiada gave it to such as did the work of the service of the house of the LORD, and hired masons and carpenters to repair the house of the LORD, and also such as wrought iron and brass to mend the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "masons",
+          "source": "חֹצְבִים",
+          "language": "Hebrew",
+          "glossary_id": "masons"
+        }
+      ],
+      "tags": [
+        "labor",
+        "restoration"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The workmen labored, and the work was increased in their hands. They restored the house of God and strengthened it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the workmen wrought, and the work was perfected by them, and they set the house of God in his state, and strengthened it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When they had finished, they brought the rest of the money before the king and Jehoiada, and it was made into vessels for the house of YHWH—vessels for ministry, and for offerings, bowls, and vessels of gold and silver; and they brought continual burnt offerings in the house of YHWH all the days of Jehoiada.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had finished it, they brought the rest of the money before the king and Jehoiada, whereof were made vessels for the house of the LORD, even vessels to minister, and to offer withal, and spoons, and vessels of gold and silver. And they offered burnt offerings in the house of the LORD continually all the days of Jehoiada."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "vessels for ministry",
+          "source": "כְּלֵי שָׁרֵת",
+          "language": "Hebrew",
+          "glossary_id": "vessels-for-ministry"
+        }
+      ],
+      "tags": [
+        "worship",
+        "temple"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Jehoiada grew old and was full of days; he died at a hundred and thirty years of age.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jehoiada waxed old, and was full of days when he died; an hundred and thirty years old was he when he died."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Age '130' is numerically exceptional in the witness tradition and flagged for verification."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "death",
+        "priesthood"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:15",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "witness-variant"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "They buried him in the city of David with the kings, because he had done good in Israel, both toward God and toward his house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they buried him in the city of David among the kings, because he had done good in Israel, both toward God, and toward his house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "city of David",
+          "source": "עִיר דָּוִד",
+          "language": "Hebrew",
+          "glossary_id": "city-of-david"
+        }
+      ],
+      "tags": [
+        "honor",
+        "burial"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "After the death of Jehoiada the princes of Judah came and bowed to the king; then the king listened to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now after the death of Jehoiada came the princes of Judah, and made obeisance to the king. Then the king hearkened unto them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "politics",
+        "turning-point"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "They forsook the house of YHWH, the God of their fathers, and served the Asherim and the idols. Wrath came upon Judah and Jerusalem for this their trespass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they left the house of the LORD God of their fathers, and served groves and idols: and wrath came upon Judah and Jerusalem for this their trespass."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asherim",
+          "source": "הָאֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherim"
+        }
+      ],
+      "tags": [
+        "apostasy",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:18",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Yet he sent prophets among them to bring them back to YHWH; they testified against them, but they would not give ear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet he sent prophets to them, to bring them again unto the LORD; and they testified against them: but they would not give ear."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prophets",
+          "source": "נְבִיאִים",
+          "language": "Hebrew",
+          "glossary_id": "prophets"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "rejection"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Then the Spirit of God clothed Zachariah son of Jehoiada the priest; he stood above the people and said to them, 'Thus said God: Why do you transgress the commandments of YHWH? You will not prosper, because you have forsaken YHWH; he also has forsaken you.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Spirit of God came upon Zechariah the son of Jehoiada the priest, which stood above the people, and said unto them, Thus saith God, Why transgress ye the commandments of the LORD, that ye cannot prosper? because ye have forsaken the LORD, he hath also forsaken you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Zachariah",
+          "source": "זְכַרְיָה",
+          "language": "Hebrew",
+          "glossary_id": "zechariah"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "spirit"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24:20",
+          "relationship": "quotation"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They conspired against him and stoned him with stones at the command of the king in the court of YHWH’s house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they conspired against him, and stoned him with stones at the commandment of the king in the court of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "violence",
+        "prophetic-martyrdom"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "So Joash the king remembered not the kindness that Jehoiada his father had done to him; he slew his son. And when he died he said, 'May YHWH see and require it.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus Joash the king remembered not the kindness which Jehoiada his father had done to him, but slew his son. And when he died, he said, The LORD look upon it, and require it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "require it",
+          "source": "יֵרֶא וְיִדְרֹשׁ",
+          "language": "Hebrew",
+          "glossary_id": "require-it"
+        }
+      ],
+      "tags": [
+        "injustice",
+        "retribution"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "At the turn of the year the army of Aram came up against him; they came to Judah and Jerusalem and destroyed all the leaders of the people from among the people, and sent all their plunder to the king of Damascus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass at the end of the year, that the host of Syria came up against him: and they came to Judah and Jerusalem, and destroyed all the princes of the people from among the people, and sent all the spoil of them unto the king of Damascus."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Aram",
+          "source": "אֲרָם",
+          "language": "Hebrew",
+          "glossary_id": "aram"
+        }
+      ],
+      "tags": [
+        "war",
+        "foreign-invasion"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:23",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For a small company of Arameans had come, and YHWH gave into their hand a very great host, because they had forsaken YHWH, the God of their fathers; and they dealt with Joash according to the justice due him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the army of the Syrians came with a small company of men, and the LORD delivered a very great host into their hand, because they had forsaken the LORD God of their fathers. So they executed judgment against Joash."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "judgment",
+        "divine-action"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "When they had departed from him (for they left him in great sickness), his own servants conspired against him because of the blood of the sons of Jehoiada the priest; and they killed him on his bed, and he died. They buried him in the city of David, but not in the tombs of the kings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they were departed from him, (for they left him in great diseases,) his own servants conspired against him for the blood of the sons of Jehoiada the priest, and slew him on his bed, and he died: and they buried him in the city of David, but they buried him not in the sepulchres of the kings."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sons of Jehoiada",
+          "source": "בְּנֵי יְהוֹיָדָע",
+          "language": "Hebrew",
+          "glossary_id": "sons-of-jehoiada"
+        }
+      ],
+      "tags": [
+        "assassination",
+        "conspiracy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "And these were the conspirators against him: Zabad the son of Shimeath the Ammonitess, and Jehozabad the son of Shimrith the Moabitess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are they that conspired against him; Zabad the son of Shimeath an Ammonitess, and Jehozabad the son of Shimrith a Moabitess."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Zabad",
+          "source": "זָבָד",
+          "language": "Hebrew",
+          "glossary_id": "zabad"
+        },
+        {
+          "display": "Jehozabad",
+          "source": "יְהוֹזָבָד",
+          "language": "Hebrew",
+          "glossary_id": "jehozabad"
+        }
+      ],
+      "tags": [
+        "conspirators",
+        "naming"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 12:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Concerning his sons and the greatness of the burdens laid upon him, and the repair of the house of God—behold, they are written in the account in the book of the kings. And Amaziah his son reigned in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now concerning his sons, and the greatness of the burdens laid upon him, and the repairing of the house of God, behold, they are written in the story of the book of the kings. And Amaziah his son reigned in his stead."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew witness contains parenthetical/graphic variants (ורב) [יִרֶב] in this verse — editorial recension needed."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "chronicle",
+        "succession"
+      ],
+      "cross_references": [
+        {
+          "reference": "Book of the Kings",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "witness-variant"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered 'בֵּית־יְהוָה' as 'house of YHWH'. Kept close to Hebrew word order where it clarifies agency. Preserved reported sayings, violence, and contradictory acts without harmonization.",
+    "Where Hebrew reads אֱלֹהִים (Elohim) rendered as 'God'; where the Tetragram appears rendered 'YHWH'."
+  ],
+  "safety_note": "Contains descriptions of stoning, conspiracy, and execution. Handle excerpts with contextual sensitivity.",
+  "source_witness_audit_flags": [
+    "v15 Jehoiada's age 'one hundred thirty' is exceptional — verify in witnesses",
+    "v27 parenthetical / corrupt reading (ורב) [יִרֶב] — needs textual recension"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

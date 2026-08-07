@@ -1,0 +1,546 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restores Hebrew-grounded wording, reconciles versification at chapter break (previous-tail supplies Solomon’s decision); numeric and craft terms need witness checks."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And Solomon determined to build a house for the name of YHWH, and a house for his kingdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon determined to build an house for the name of the LORD, and an house for his kingdom."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Decision to build is attested in preceding chapter-tail; placed here by versification reconciliation."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "dedication",
+        "kingship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 1:18",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "versification-reconciliation"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Solomon counted seventy thousand men to bear burdens, and eighty thousand to hew in the mountain, and three thousand six hundred overseers over them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon told out threescore and ten thousand men to bear burdens, and fourscore thousand to hew in the mountain, and three thousand and six hundred to oversee them."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew numbers preserved; 'overseers' translates מנצחים as administrative supervisors."
+        }
+      ],
+      "terms": [
+        {
+          "display": "hewers",
+          "source": "חֹצֵב",
+          "language": "Hebrew",
+          "glossary_id": "chotzev"
+        }
+      ],
+      "tags": [
+        "labor",
+        "administration"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 5:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "numeric-preservation"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "And Solomon sent to Huram (Hiram) king of Tyre, saying, As thou didst with David my father, and didst send him cedars to build him a house to dwell in, so deal with me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon sent to Huram the king of Tyre, saying, As thou didst deal with David my father, and didst send him cedars to build him an house to dwell therein, even so deal with me."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Huram’ rendered per Hebrew; cedars (אֲרָזִים) are the requested material."
+        }
+      ],
+      "terms": [
+        {
+          "display": "cedars",
+          "source": "אֲרָזִים",
+          "language": "Hebrew",
+          "glossary_id": "erezim"
+        }
+      ],
+      "tags": [
+        "diplomacy",
+        "timber"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 5:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "name-variant"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Behold, I build a house to the name of YHWH my God, to consecrate it to burn before him fragrant incense, the continual bread arrangement, and the burnt offerings morning and evening, on the Sabbaths, on the new moons, and on the appointed festivals of YHWH our God — an ordinance forever for Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I build an house to the name of the LORD my God, to dedicate it to him, and to burn before him sweet incense, and for the continual shewbread, and for the burnt offerings morning and evening, on the sabbaths, and on the new moons, and on the solemn feasts of the LORD our God. This is an ordinance for ever to Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Preserves cultic schedule (continuous offerings, Sabbaths, new moons, festivals)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "continual arrangement",
+          "source": "מַעֲרֶכֶת תָּמִיד",
+          "language": "Hebrew",
+          "glossary_id": "maarechet-tamid"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "law"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 29:38-42",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "liturgical-terms"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And the house which I build is great; for great is our God above all gods.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the house which I build is great: for great is our God above all gods."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But who is able to build him a house, for heaven and the heavens of heavens cannot contain him? Who then am I that I should build him a house, save only to offer sacrifice before him?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But who is able to build him an house, seeing the heaven and heaven of heavens cannot contain him? who am I then, that I should build him an house, save only to burn sacrifice before him?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theology",
+        "humility"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Send me therefore a man wise and skilled to work in gold, silver, bronze, iron, purple, crimson, and blue, and who knows how to frame designs with the artisans that are with me in Judah and Jerusalem, whom David my father prepared.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Send me now therefore a man cunning to work in gold, and in silver, and in brass, and in iron, and in purple, and crimson, and blue, and that can skill to grave with the cunning men that are with me in Judah and in Jerusalem, whom David my father did provide."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Materials listed follow Hebrew lexical order; 'frame designs' reflects לפתוח פתוחים/לפתח פִּתּוּחִים."
+        }
+      ],
+      "terms": [
+        {
+          "display": "wise/skilled",
+          "source": "חָכָם",
+          "language": "Hebrew",
+          "glossary_id": "chakam"
+        }
+      ],
+      "tags": [
+        "craftsmanship",
+        "materials"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 28:11-12",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "craft-terms"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Send me cedar, fir, and algum trees out of Lebanon; for I know thy servants can cut timber in Lebanon, and behold my servants will be with thy servants.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Send me also cedar trees, fir trees, and algum trees, out of Lebanon: for I know that thy servants can skill to cut timber in Lebanon; and, behold, my servants shall be with thy servants,"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Algum (אַלְגּוּמִּים) preserved as a distinct Lebanese timber term."
+        }
+      ],
+      "terms": [
+        {
+          "display": "algum",
+          "source": "אַלְגּוּמִּים",
+          "language": "Hebrew",
+          "glossary_id": "algum"
+        }
+      ],
+      "tags": [
+        "timber",
+        "Lebanon"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 5:6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "wood-terminology"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And to prepare me timber in abundance; for the house that I am to build is wondrous great.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even to prepare me timber in abundance: for the house which I am about to build shall be wonderful great."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And, behold, I will give to thy servants, the cutters of the timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, I will give to thy servants, the hewers that cut timber, twenty thousand measures of beaten wheat, and twenty thousand measures of barley, and twenty thousand baths of wine, and twenty thousand baths of oil."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Measures (מַכּוֹת), baths (בַּתִּים) transliterated as measures/baths; units require later witness normalization."
+        }
+      ],
+      "terms": [
+        {
+          "display": "baths",
+          "source": "בַּתִּים",
+          "language": "Hebrew",
+          "glossary_id": "bath"
+        }
+      ],
+      "tags": [
+        "provision",
+        "economy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "measure-units"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Then Huram king of Tyre wrote and sent to Solomon, Because YHWH has loved his people, he has made thee king over them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Huram the king of Tyre answered in writing, which he sent to Solomon, Because the LORD hath loved his people, he hath made thee king over them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Huram/Hiram",
+          "source": "חוּרָם",
+          "language": "Hebrew",
+          "glossary_id": "huram"
+        }
+      ],
+      "tags": [
+        "diplomacy",
+        "divine-action"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 5:11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Huram said moreover, Blessed be YHWH God of Israel, who made heaven and earth, who has given to David a wise son, endowed with shrewdness and understanding, to build a house for YHWH and a house for his kingdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Huram said moreover, Blessed be the LORD God of Israel, that made heaven and earth, who hath given to David the king a wise son, endued with prudence and understanding, that might build an house for the LORD, and an house for his kingdom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "wise",
+          "source": "חָכָם",
+          "language": "Hebrew",
+          "glossary_id": "chakam"
+        }
+      ],
+      "tags": [
+        "blessing",
+        "wisdom"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And now I have sent a skilled man endowed with understanding from Huram my father’s family—",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now I have sent a cunning man, endued with understanding, of Huram my father’s,"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Introductory line; craftsman’s origin expanded in next verse."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "craftsmanship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The son of a woman of the daughters of Dan, and his father was a man of Tyre; he is skilled to work in gold, silver, bronze, iron, in stone and timber, in purple, blue, and fine linen, and in crimson; also to engrave any kind of engraving, and to devise every design that shall be put to him, with thy skilled men and with the skilled men of David thy father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of a woman of the daughters of Dan, and his father was a man of Tyre, skilful to work in gold, and in silver, in brass, in iron, in stone, and in timber, in purple, in blue, and in fine linen, and in crimson; also to grave any manner of graving, and to find out every device which shall be put to him, with thy cunning men, and with the cunning men of my lord David thy father."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Preserves the unusual parentage clause (mother from Dan, father from Tyre) as in Hebrew."
+        }
+      ],
+      "terms": [
+        {
+          "display": "purple",
+          "source": "אַרְגָּמָן",
+          "language": "Hebrew",
+          "glossary_id": "argaman"
+        },
+        {
+          "display": "blue",
+          "source": "תְכֵלֶת",
+          "language": "Hebrew",
+          "glossary_id": "tekelet"
+        }
+      ],
+      "tags": [
+        "lineage",
+        "skills"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:13-14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "ethnic-detail-preserved"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Now therefore the wheat, the barley, the oil, and the wine which my lord has spoken of, let him send to his servants.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore the wheat, and the barley, the oil, and the wine, which my lord hath spoken of, let him send unto his servants:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "provision"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And we will cut wood out of Lebanon, as much as thou shalt need; and we will bring it to thee in rafts by sea to Joppa, and thou shalt carry it up to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Rafts’ translates רַפְסֹדוֹת (rappsodot/rafsodot) — term preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "rafts",
+          "source": "רַפְסֹדֹת",
+          "language": "Hebrew",
+          "glossary_id": "rapsodot"
+        }
+      ],
+      "tags": [
+        "logistics",
+        "transport"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "maritime-term"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And Solomon numbered all the foreign men that were in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred fifty thousand, and three thousand six hundred.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon numbered all the strangers that were in the land of Israel, after the numbering wherewith David his father had numbered them; and they were found an hundred and fifty thousand and three thousand and six hundred."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Foreign men’ reflects הגרים as recorded in Hebrew census."
+        }
+      ],
+      "terms": [
+        {
+          "display": "foreigners/sojourners",
+          "source": "גֵּרִים",
+          "language": "Hebrew",
+          "glossary_id": "gerim"
+        }
+      ],
+      "tags": [
+        "census",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "demographic-notice"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Of these he made seventy thousand bearers of burdens, and eighty thousand hewers in the mountain, and three thousand six hundred overseers to set the people to work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set threescore and ten thousand of them to be bearers of burdens, and fourscore thousand to be hewers in the mountain, and three thousand and six hundred overseers to set the people a work."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Repeats earlier administrative counts; 'overseers' mirrors מנצחים found in the Hebrew."
+        }
+      ],
+      "terms": [
+        {
+          "display": "overseers",
+          "source": "מְנַצְּחִים",
+          "language": "Hebrew",
+          "glossary_id": "menatzechim"
+        }
+      ],
+      "tags": [
+        "labor",
+        "organization"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "administrative-terminology"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered יהוה as YHWH throughout. Versification reconciled using previous chapter tail and next chapter head; counts follow the Hebrew register. Preserve ambiguous ethnonyms and craft-terms (algum, rapsodot).",
+    "Weights/measures and some administrative titles (e.g., מנצחים) are transliterated or glossed rather than normalized; these need later witness alignment."
+  ],
+  "safety_note": "Contains material about forced labor and allocation of provisions; presented descriptively without endorsement.",
+  "source_witness_audit_flags": [
+    "versification-reconciliation-needed",
+    "measure-term-identification",
+    "proper-name-spelling-check"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,550 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft follows supplied Hebrew, uses YHWH, preserves liturgical and numerical oddities, flags a few textual variants and place-name issues for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now in the eighteenth year of King Jeroboam, Abijah began to reign over Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the eighteenth year of king Jeroboam began Abijah to reign over Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dynasty"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He reigned three years in Jerusalem; the name of his mother was Michaiah, daughter of Uriel of Gibeah. There was war between Abijah and Jeroboam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He reigned three years in Jerusalem. His mother’s name also was Michaiah the daughter of Uriel of Gibeah. And there was war between Abijah and Jeroboam."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Michaiah",
+          "source": "מִיכָיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "michaiah-daughter-of-uriel"
+        },
+        {
+          "display": "Gibeah",
+          "source": "גִּבְעָה",
+          "language": "Hebrew",
+          "glossary_id": "gibeah"
+        }
+      ],
+      "tags": [
+        "war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Abijah arrayed for battle with an army of valiant warriors, four hundred thousand chosen men; Jeroboam set himself against him with eight hundred thousand chosen men, mighty in valor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abijah set the battle in array with an army of valiant men of war, even four hundred thousand chosen men: Jeroboam also set the battle in array against him with eight hundred thousand chosen men, being mighty men of valour."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew gibbôrîm (mighty men) preserved; numbers are likely rhetorical."
+        }
+      ],
+      "terms": [
+        {
+          "display": "gibborim (mighty men)",
+          "source": "גִּבּוֹרֵי מִלְחָמָה",
+          "language": "Hebrew",
+          "glossary_id": "gibborim"
+        }
+      ],
+      "tags": [
+        "war",
+        "military"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large-number-possible-exaggeration"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Abijah stood upon Mount Zemaraim, which is in Mount Ephraim, and said, 'Hear me, Jeroboam and all Israel.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abijah stood up upon mount Zemaraim, which is in mount Ephraim, and said, Hear me, thou Jeroboam, and all Israel;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Zemaraim",
+          "source": "צְמָרַיִם",
+          "language": "Hebrew",
+          "glossary_id": "zemaraim"
+        }
+      ],
+      "tags": [
+        "speech",
+        "place"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Ought you not to know that YHWH, God of Israel, gave the kingdom over Israel to David forever, to him and to his sons by a covenant of salt?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ought ye not to know that the LORD God of Israel gave the kingdom over Israel to David for ever, even to him and to his sons by a covenant of salt?"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew phrase ברית מלח (covenant of salt) preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "covenant of salt",
+          "source": "בְּרִית מֶלַח",
+          "language": "Hebrew",
+          "glossary_id": "berit-melah"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "dynasty"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7:16",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Yet Jeroboam son of Nebat, the servant of Solomon son of David, rose up and rebelled against his lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, is risen up, and hath rebelled against his lord."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jeroboam son of Nebat",
+          "source": "יָרׇבְעָם בֶּן־נְבָט",
+          "language": "Hebrew",
+          "glossary_id": "jeroboam-son-of-nebat"
+        }
+      ],
+      "tags": [
+        "rebellion"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 11–12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Men of worthlessness gathered to him, sons of Belial, and they strengthened themselves against Rehoboam son of Solomon; Rehoboam was young and tender in heart and could not stand against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sons of Belial",
+          "source": "בְּנֵי בְלִיַּעַל",
+          "language": "Hebrew",
+          "glossary_id": "beney-beliyaal"
+        }
+      ],
+      "tags": [
+        "politics",
+        "rebellion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "preserve-ambiguity"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And now you think to resist the kingdom of YHWH in the hand of the sons of David; you are a great multitude, and with you are the golden calves which Jeroboam made for you to be gods.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now ye think to withstand the kingdom of the LORD in the hand of the sons of David; and ye be a great multitude, and there are with you golden calves, which Jeroboam made you for gods."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "idolatry",
+        "legitimacy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Have you not cast out the priests of YHWH, the sons of Aaron, and the Levites, and made for yourselves priests after the manner of the nations—whoever comes to consecrate himself with a young bullock and seven rams may be priest of those who are no gods?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have ye not cast out the priests of the LORD, the sons of Aaron, and the Levites, and have made you priests after the manner of the nations of other lands? so that whosoever cometh to consecrate himself with a young bullock and seven rams, the same may be a priest of them that are no gods."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Ritual flexibility criticized; 'seven rams' literal."
+        }
+      ],
+      "terms": [
+        {
+          "display": "young bullock",
+          "source": "פַּר בֶּן־בָּקָר",
+          "language": "Hebrew",
+          "glossary_id": "par-ben-bakar"
+        }
+      ],
+      "tags": [
+        "priesthood",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 12:31",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "But as for us, YHWH is our God, and we have not forsaken him; and the priests who minister to YHWH are the sons of Aaron, and the Levites attend their service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as for us, the LORD is our God, and we have not forsaken him; and the priests, which minister unto the LORD, are the sons of Aaron, and the Levites wait upon their business:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "priesthood",
+        "piety"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "They offer burnt offerings to YHWH every morning and every evening, and incense of sweet spices; they set in order the bread on the pure table, and the gold lampstand with its lamps to burn in the evening, for we keep the charge of YHWH our God, but you have forsaken him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they burn unto the LORD every morning and every evening burnt sacrifices and sweet incense: the shewbread also set they in order upon the pure table; and the candlestick of gold with the lamps thereof, to burn every evening: for we keep the charge of the LORD our God; but ye have forsaken him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "shewbread (pure table)",
+          "source": "שֻׁלְחָן הַטָּהוֹר",
+          "language": "Hebrew",
+          "glossary_id": "shewbread-table"
+        }
+      ],
+      "tags": [
+        "cult",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Behold, the God is with us for our head, and his priests with trumpets to sound alarms against you. Children of Israel, fight not against YHWH, the God of your fathers; for you shall not prosper.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the LORD God of your fathers; for ye shall not prosper."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine-presence",
+        "warning"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "But Jeroboam caused an ambush to come about behind them; so they were before Judah, and the ambush was behind them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jeroboam caused an ambushment to come about behind them: so they were before Judah, and the ambushment was behind them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "ambush"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "When Judah turned, behold, the battle was before and behind them; and they cried to YHWH, and the priests (mahtsorim/masoretic: מחצצרים [מַחְצְרִים]) blew the trumpets.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Judah looked back, behold, the battle was before and behind: and they cried unto the LORD, and the priests sounded with the trumpets."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew has variant trumpet-term (מחצצרים / מַחְצְרִים); reading preserved and flagged."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "textual-variant",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "textual-variant"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Then the men of Judah gave a shout; and as the men of Judah shouted, YHWH struck Jeroboam and all Israel before Abijah and Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine-action",
+        "victory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And the children of Israel fled before Judah; and God delivered them into their hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel fled before Judah: and God delivered them into their hand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "pursuit"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Abijah and his people smote them with a great slaughter; and there fell of Israel five hundred thousand chosen men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Mass casualty number preserved as in Hebrew; may be hyperbolic."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "large-number-possible-exaggeration"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Thus the children of Israel were humbled at that time, and the children of Judah prevailed because they relied on YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the LORD God of their fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theology",
+        "victory"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Abijah pursued Jeroboam and captured from him Bethel with its towns, Jeshanah with its towns, and Ephrain (עֶפְרַ֖יִן / עפרון variant) with its towns.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abijah pursued after Jeroboam, and took cities from him, Bethel with the towns thereof, and Jeshanah with the towns thereof, and Ephrain with the towns thereof."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Place-name Ephrain appears in a variant form (עפרון); reading preserved and flagged."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Bethel",
+          "source": "בֵּית־אֵל",
+          "language": "Hebrew",
+          "glossary_id": "bethel"
+        }
+      ],
+      "tags": [
+        "conquest",
+        "places"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place-name-spelling"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Neither did Jeroboam recover strength again in the days of Abijah; YHWH struck him, and he died.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither did Jeroboam recover strength again in the days of Abijah: and the LORD struck him, and he died."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "death"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "But Abijah waxed mighty; he took fourteen wives, and begot twenty-two sons and sixteen daughters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Abijah waxed mighty, and married fourteen wives, and begat twenty and two sons, and sixteen daughters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy",
+        "household"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "And the rest of the acts of Abijah, his ways and his sayings, are written in the record of the prophet Iddo.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the acts of Abijah, and his ways, and his sayings, are written in the story of the prophet Iddo."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Iddo",
+          "source": "עִדּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "iddo-prophet"
+        }
+      ],
+      "tags": [
+        "sources"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "citation"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered YHWH throughout (per project rule).",
+    "Hebrew cultic/technical terms (e.g., ברית־מלח) preserved as terms where relevant.",
+    "Large army totals and some place-name readings preserved literally; numbers and spellings flagged for witness audit.",
+    "Do not harmonize accounts of violence or cultic conflict; ambiguity retained."
+  ],
+  "safety_note": "This chapter contains violence and ethnic/political conflict preserved from the source; handle responsibly.",
+  "source_witness_audit_flags": [
+    "numerical-exaggeration:army-totals",
+    "textual-variant:trumpet-term (מחצצרים/מַחְצְרִים)",
+    "place-name-spelling:Ephrain/עפרון vs. Ephraim"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

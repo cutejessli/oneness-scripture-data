@@ -1,0 +1,881 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 34,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restoration of 2 Chronicles 34 based on supplied Hebrew: YHWH rendered as YHWH; preserves cultic reform, discovery of the law-book, Huldah’s oracle, and covenant renewal. Several textual variants flagged for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Josiah was eight years old when he began to reign; he reigned in Jerusalem thirty-one years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Josiah was eight years old when he began to reign, and he reigned in Jerusalem one and thirty years."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Josiah",
+          "source": "יוֹאשִׁיָּהוּ",
+          "language": "Hebrew",
+          "glossary_id": "yosiyahu"
+        }
+      ],
+      "tags": [
+        "kingship",
+        "chronology"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He did what was right before YHWH, walking in the ways of David his father; he did not turn aside to the right hand or to the left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was right in the sight of the LORD, and walked in the ways of David his father, and declined neither to the right hand, nor to the left."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "David",
+          "source": "דָּוִד",
+          "language": "Hebrew",
+          "glossary_id": "david"
+        }
+      ],
+      "tags": [
+        "righteousness"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "In the eighth year of his reign, while he was still young, he began to seek the God of David his father; and in the twelfth year he began to purge Judah and Jerusalem of the high places, the Asherah poles, the carved images and the molten images.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in the eighth year of his reign, while he was yet young, he began to seek after the God of David his father: and in the twelfth year he began to purge Judah and Jerusalem from the high places, and the groves, and the carved images, and the molten images."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "high places",
+          "source": "בָּמוֹת",
+          "language": "Hebrew",
+          "glossary_id": "bamot"
+        },
+        {
+          "display": "Asherah poles",
+          "source": "אֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherah"
+        }
+      ],
+      "tags": [
+        "religious_reform"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:3",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "They broke down the altars of the Baals in his presence; the images that stood above them he cut down; the groves, the carved images and the molten images he shattered, pulverized, and scattered upon the graves of those who had sacrificed to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brake down the altars of Baalim in his presence; and the images, that were on high above them, he cut down; and the groves, and the carved images, and the molten images, he brake in pieces, and made dust of them, and strowed it upon the graves of them that had sacrificed unto them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Baalim",
+          "source": "בַּעֲלִים",
+          "language": "Hebrew",
+          "glossary_id": "baalim"
+        }
+      ],
+      "tags": [
+        "iconoclasm",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 23:6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "He burned the bones of the priests on their altars and cleansed Judah and Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he burnt the bones of the priests upon their altars, and cleansed Judah and Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "variant",
+          "body": "Masoretic line shows a parenthetical variant for 'their altars' (מִזְבְּחֻתָם); reading preserved here but flagged for witness check."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "cultic_action",
+        "purification"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 23:15",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag",
+        "variant:bracketed"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "So he acted in the cities of Manasseh, Ephraim and Simeon, as far as Naphtali, with their mattocks all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And so did he in the cities of Manasseh, and Ephraim, and Simeon, even unto Naphtali, with their mattocks round about."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Naphtali",
+          "source": "נַפְתָּלִי",
+          "language": "Hebrew",
+          "glossary_id": "naphtali"
+        }
+      ],
+      "tags": [
+        "regional_reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "When he had broken down the altars and the groves and had ground the carved images to powder, and cut down all the idols throughout the land of Israel, he returned to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had broken down the altars and the groves, and had beaten the graven images into powder, and cut down all the idols throughout all the land of Israel, he returned to Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "completion",
+        "return"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "In the eighteenth year of his reign, when he had purified the land and the house, he sent Shaphan son of Azaliah, Maaseiah the city governor, and Joah son of Joahaz the recorder to repair the house of YHWH his God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the eighteenth year of his reign, when he had purged the land, and the house, he sent Shaphan the son of Azaliah, and Maaseiah the governor of the city, and Joah the son of Joahaz the recorder, to repair the house of the LORD his God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Shaphan",
+          "source": "שָׁפָן",
+          "language": "Hebrew",
+          "glossary_id": "shaphan"
+        }
+      ],
+      "tags": [
+        "administration",
+        "restoration"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:3-8",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "They came to Hilkiah the high priest and delivered the money brought into the house of God, which the Levites, keepers of the threshold, had gathered from the hand of Manasseh and Ephraim and from all the remnant of Israel and from all Judah and Benjamin; then they returned to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Hilkiah",
+          "source": "חִלְקִיָּהוּ",
+          "language": "Hebrew",
+          "glossary_id": "hilkiah"
+        },
+        {
+          "display": "Levites",
+          "source": "לְוִיִּים",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "finance",
+        "priests"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:4-6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "They put it in the hand of the overseers and of the craftsmen charged with the house of YHWH, and the craftsmen gave it to those who worked in the house to repair and strengthen the house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they put it in the hand of the workmen that had the oversight of the house of the LORD, and they gave it to the workmen that wrought in the house of the LORD, to repair and amend the house:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "stewardship",
+        "craft"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "They gave it to carpenters and builders to buy hewn stone and timber for the joining and for the beams, and to rebuild the houses that the kings of Judah had ruined.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even to the artificers and builders gave they it, to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "The men did the work faithfully; and the overseers over them were Jahath and Obadiah of the Levites, sons of Merari; and Zechariah and Meshullam of the sons of Kohath, to promote the work; and the Levites, all skilful in musical instruments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Merari",
+          "source": "מְרָרִי",
+          "language": "Hebrew",
+          "glossary_id": "merari"
+        },
+        {
+          "display": "Kohathites",
+          "source": "כְּהָת",
+          "language": "Hebrew",
+          "glossary_id": "kohath"
+        }
+      ],
+      "tags": [
+        "Levites",
+        "oversight"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And over the bearers of burdens and the overseers of every kind of work were the Levites; among the Levites were scribes, officers and gatekeepers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "roles",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "When they brought out the money that had been brought into the house of YHWH, Hilkiah the priest found a book of the law of YHWH given by Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they brought out the money that was brought into the house of the LORD, Hilkiah the priest found a book of the law of the LORD given by Moses."
+      },
+      "notes": [
+        {
+          "title": "provenance",
+          "body": "The description 'book of the law of YHWH given by Moses' signals canonical authority; the exact manuscript tradition and wording require witness collation."
+        }
+      ],
+      "terms": [
+        {
+          "display": "book of the law",
+          "source": "סֵפֶר תּוֹרַת־יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "sefer-torah"
+        },
+        {
+          "display": "Moses",
+          "source": "מֹשֶׁה",
+          "language": "Hebrew",
+          "glossary_id": "moses"
+        }
+      ],
+      "tags": [
+        "scripture",
+        "discovery"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 31:24–26",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag",
+        "significant_witness"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Hilkiah answered and said to Shaphan the scribe, 'I have found the book of the law in the house of YHWH.' And Hilkiah gave the book to Shaphan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hilkiah answered and said to Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah delivered the book to Shaphan."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Shaphan",
+          "source": "שָׁפָן",
+          "language": "Hebrew",
+          "glossary_id": "shaphan"
+        }
+      ],
+      "tags": [
+        "discovery",
+        "transmission"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:8",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Shaphan carried the book to the king and reported, 'All that has been committed to your servants they are doing.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "report",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "They have gathered together the money that was found in the house of YHWH and have delivered it into the hands of the overseers and the craftsmen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they have gathered together the money that was found in the house of the LORD, and have delivered it into the hand of the overseers, and to the hand of the workmen."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "accounting"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Then Shaphan the scribe told the king, 'Hilkiah the priest has given me a book.' And Shaphan read it before the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Shaphan the scribe told the king, saying, Hilkiah the priest hath given me a book. And Shaphan read it before the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "public_reading",
+        "text"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "When the king heard the words of the law he tore his clothes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the king had heard the words of the law, that he rent his clothes."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "lament",
+        "repentance"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 9:3",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "The king commanded Hilkiah and Ahikam son of Shaphan and Abdon son of Micah and Shaphan the scribe and Asaiah the king’s servant, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king commanded Hilkiah, and Ahikam the son of Shaphan, and Abdon the son of Micah, and Shaphan the scribe, and Asaiah a servant of the king’s, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahikam",
+          "source": "אֲחִיקָם",
+          "language": "Hebrew",
+          "glossary_id": "ahikam"
+        }
+      ],
+      "tags": [
+        "delegation"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Go, inquire of YHWH for me and for those left in Israel and Judah, concerning the words of the book that has been found; for great is the wrath of YHWH which is poured out upon us because our fathers did not keep the word of YHWH to do according to all that is written in this book.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go, enquire of the LORD for me, and for them that are left in Israel and in Judah, concerning the words of the book that is found: for great is the wrath of the LORD that is poured out upon us, because our fathers have not kept the word of the LORD, to do after all that is written in this book."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "wrath of YHWH",
+          "source": "חֲמַת־יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "wrath-yhwh"
+        }
+      ],
+      "tags": [
+        "petition",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Hilkiah and the men whom the king had appointed went to Huldah the prophetess, the wife of Shallum son of Tikvath son of Hasrah, keeper of the wardrobe; and she dwelt in Jerusalem in the second quarter; and they spoke to her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect."
+      },
+      "notes": [
+        {
+          "title": "location-term",
+          "body": "The phrase 'in the second quarter' (מִשְׁנֶה) describes Huldah’s dwelling; exact institutional meaning merits witness-check."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Huldah",
+          "source": "חֻלְדָּה",
+          "language": "Hebrew",
+          "glossary_id": "huldah"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "inquiry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag",
+        "locational_variant"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "She answered them, 'Thus says YHWH, the God of Israel: Tell the man who sent you to me—'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she answered them, Thus saith the LORD God of Israel, Tell ye the man that sent you to me,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "oracle"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Thus says YHWH: Behold, I will bring calamity upon this place and upon its inhabitants, even all the curses that are written in the book which they have read before the king of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the curses that are written in the book which they have read before the king of Judah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "judgment",
+        "scriptural-citation"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 28",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Because they have forsaken me and burned incense to other gods to provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place and shall not be quenched.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "idolatry",
+        "wrath"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "And to the king of Judah who sent you to inquire of YHWH you shall say, 'Thus says YHWH God of Israel concerning the words which you have heard.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as for the king of Judah, who sent you to enquire of the LORD, so shall ye say unto him, Thus saith the LORD God of Israel concerning the words which thou hast heard;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God of Israel",
+          "source": "אֱלֹהֵי יִשְׂרָאֵל",
+          "language": "Hebrew",
+          "glossary_id": "elohei-yisrael"
+        }
+      ],
+      "tags": [
+        "prophetic_message"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Because your heart was tender and you humbled yourself before God when you heard his words against this place and its inhabitants, and you humbled yourself and tore your clothes and wept before me, I have heard you, declares YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because thine heart was tender, and thou didst humble thyself before God, when thou heardest his words against this place, and against the inhabitants thereof, and humbledst thyself before me, and didst rend thy clothes, and weep before me; I have even heard thee also, saith the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "mercy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 22:19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Behold, I will gather you to your fathers, and you shall be gathered to your grave in peace; your eyes shall not see all the evil that I will bring upon this place and upon its inhabitants.' So they brought the king word back again.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assurance",
+        "prophetic_outcome"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Then the king sent and gathered all the elders of Judah and Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king sent and gathered together all the elders of Judah and Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "The king went up to the house of YHWH, with all the men of Judah and the inhabitants of Jerusalem, and the priests and the Levites and all the people, great and small; and he read to them in their hearing all the words of the book of the covenant that was found in the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king went up into the house of the LORD, and all the men of Judah, and the inhabitants of Jerusalem, and the priests, and the Levites, and all the people, great and small: and he read in their ears all the words of the book of the covenant that was found in the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "book of the covenant",
+          "source": "סֵפֶר הַבְּרִית",
+          "language": "Hebrew",
+          "glossary_id": "sefer-hebrit"
+        }
+      ],
+      "tags": [
+        "public_reading",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 24:7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "The king stood in his place and made a covenant before YHWH, to walk after YHWH and to keep his commandments and his testimonies and his statutes with all his heart and with all his soul, to perform the words of the covenant written in this book.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king stood in his place, and made a covenant before the LORD, to walk after the LORD, and to keep his commandments, and his testimonies, and his statutes, with all his heart, and with all his soul, to perform the words of the covenant which are written in this book."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "commandments",
+          "source": "מִצְוֹתָיו",
+          "language": "Hebrew",
+          "glossary_id": "mitzvot"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "vow"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 6:5",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "He made all that were present in Jerusalem and in Benjamin stand to the covenant; and the inhabitants of Jerusalem did according to the covenant of the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "communal_renewal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Josiah removed all the abominations from all the lands that belonged to the children of Israel, and he made all who remained in Israel serve YHWH their God; all his days they did not turn aside from following YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the LORD their God. And all his days they departed not from following the LORD, the God of their fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "abominations",
+          "source": "תֹּעֵב֗וֹת",
+          "language": "Hebrew",
+          "glossary_id": "toevot"
+        }
+      ],
+      "tags": [
+        "reform",
+        "religious_life"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 23:25–27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "machine-readable-flag"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered YHWH throughout. The Hebrew book found is rendered literally as 'book of the law (sefer torah)' with provenance left open. Preserve cultic and judicial language without theological harmonization.",
+    "Where the Masoretic text shows bracketed/parenthetical variants those readings are preserved or signalled in notes. Hebrew technical terms are given at verse level (max two)."
+  ],
+  "safety_note": "Contains descriptions of cult destruction, prophetic denunciation, divine wrath and collective punishment; treat responsibly and avoid violent endorsement.",
+  "source_witness_audit_flags": [
+    "verse5: bracketed reading around 'altars' — verify Masoretic/parashah variants",
+    "verse14–19: provenance and wording of 'book of the law' (sefer torah) — establish manuscript witness",
+    "verses22–28: Huldah oracle wording, her titulary and location (מִשְׁנֶה) — verify variant readings and dating"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

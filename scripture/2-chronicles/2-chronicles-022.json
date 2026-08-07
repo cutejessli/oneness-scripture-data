@@ -1,0 +1,402 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-centered, KJV-versified English rendering of 2 Chronicles 22 using the supplied Hebrew context. YHWH rendered literally. Kept KJV verse numbering and compact source-sensitive phrasing; preserved names, violence, and dynastic details. Minor witness points flagged for later review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead; for the company of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah, son of Jehoram king of Judah, reigned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned."
+      },
+      "notes": [
+        {
+          "title": "term note",
+          "body": "Hebrew הערבים (ha·aravim) likely denotes Arabian/Arab raiding-company; left as 'Arabians' following source sense and KJV tradition."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Ahaziah",
+          "source": "אַחֲזְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "ahaziah"
+        }
+      ],
+      "tags": [
+        "kingship",
+        "violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 8:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother's name also was Athaliah the daughter of Omri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forty and two years old was Ahaziah when he began to reign, and he reigned one year in Jerusalem. His mother’s name also was Athaliah the daughter of Omri."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Athaliah",
+          "source": "עֲתַלְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "athaliah"
+        },
+        {
+          "display": "Omri",
+          "source": "עָמְרִי",
+          "language": "Hebrew",
+          "glossary_id": "omri"
+        }
+      ],
+      "tags": [
+        "chronology",
+        "genealogy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 8:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "chronological_note"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He also walked in the ways of the house of Ahab; for his mother was his counsellor to do wickedly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He also walked in the ways of the house of Ahab: for his mother was his counsellor to do wickedly."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "influence",
+        "culpability"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 16:29–33",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Wherefore he did evil in the sight of YHWH like the house of Ahab; for they were his counsellors after the death of his father to his destruction.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore he did evil in the sight of the LORD like the house of Ahab: for they were his counsellors after the death of his father to his destruction."
+      },
+      "notes": [
+        {
+          "title": "divine-name",
+          "body": "Hebrew יְהוָה rendered as YHWH throughout this chapter per project rule."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "divine_judgment",
+        "dynasty"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 3:2",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "rendered_YHWH"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Aram at Ramoth‑Gilead: and the Syrians smote Joram.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramothgilead: and the Syrians smote Joram."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jehoram",
+          "source": "יְהוֹרָם",
+          "language": "Hebrew",
+          "glossary_id": "jehoram"
+        },
+        {
+          "display": "Hazael",
+          "source": "חֲזָאֵל",
+          "language": "Hebrew",
+          "glossary_id": "hazael"
+        }
+      ],
+      "tags": [
+        "war",
+        "alliance"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 8:28–29",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Aram. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he returned to be healed in Jezreel because of the wounds which were given him at Ramah, when he fought with Hazael king of Syria. And Azariah the son of Jehoram king of Judah went down to see Jehoram the son of Ahab at Jezreel, because he was sick."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jezreel",
+          "source": "יִזְרְעֶאל",
+          "language": "Hebrew",
+          "glossary_id": "jezreel"
+        }
+      ],
+      "tags": [
+        "wound",
+        "visit"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 8:29",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And the destruction of Ahaziah was of God by coming to Joram: for when he came, he went out with Jehoram against Jehu the son of Nimshi, whom YHWH had anointed to cut off the house of Ahab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the destruction of Ahaziah was of God by coming to Joram: for when he was come, he went out with Jehoram against Jehu the son of Nimshi, whom the LORD had anointed to cut off the house of Ahab."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jehu",
+          "source": "יֵהוּא",
+          "language": "Hebrew",
+          "glossary_id": "jehu"
+        }
+      ],
+      "tags": [
+        "divine_action",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 9:1–10",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "rendered_YHWH"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And it came to pass, that, when Jehu executed judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah that ministered to Ahaziah, he slew them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that, when Jehu was executing judgment upon the house of Ahab, and found the princes of Judah, and the sons of the brethren of Ahaziah, that ministered to Ahaziah, he slew them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "execution",
+        "retribution"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 9:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And he sought Ahaziah: and they caught him, for he was hid in Samaria; and they brought him to Jehu: and when they had slain him they buried him. For they said, 'He is the son of Jehoshaphat who sought YHWH with all his heart.' So the house of Ahaziah had no power to retain the kingdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the LORD with all his heart. So the house of Ahaziah had no power to keep still the kingdom."
+      },
+      "notes": [
+        {
+          "title": "burial rationale",
+          "body": "The text records the captors' justification for burial: Ahaziah's descent from Jehoshaphat who sought YHWH; left untranslated as reported speech."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Samaria",
+          "source": "שֹׁמְרוֹן",
+          "language": "Hebrew",
+          "glossary_id": "samaria"
+        }
+      ],
+      "tags": [
+        "violence",
+        "lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 9:27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "reporting_style"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Athaliah the mother of Ahaziah saw that her son was dead, she arose and destroyed all the seed royal of the house of Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Athaliah",
+          "source": "עֲתַלְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "athaliah"
+        }
+      ],
+      "tags": [
+        "massacre",
+        "usurpation"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "content_warning"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "But Jehoshabeath the king's daughter took Joash the son of Ahaziah, and stole him from among the king's sons that were slain; and she put him and his nurse in the bedchamber, and hid him. Jehoshabeath was the daughter of King Jehoram and the wife of Jehoiada the priest; she hid him from Athaliah so that she slew him not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jehoshabeath, the daughter of the king, took Joash the son of Ahaziah, and stole him from among the king’s sons that were slain, and put him and his nurse in a bedchamber. So Jehoshabeath, the daughter of king Jehoram, the wife of Jehoiada the priest, (for she was the sister of Ahaziah,) hid him from Athaliah, so that she slew him not."
+      },
+      "notes": [
+        {
+          "title": "identification",
+          "body": "Jehoshabeath is named as daughter of the king (Jehoram) and wife of Jehoiada the priest in the Hebrew tradition."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Joash",
+          "source": "יוָֹאשׁ",
+          "language": "Hebrew",
+          "glossary_id": "joash"
+        }
+      ],
+      "tags": [
+        "preservation",
+        "priesthood"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And he was with them hidden in the house of God six years: and Athaliah reigned over the land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he was with them hid in the house of God six years: and Athaliah reigned over the land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sanctuary",
+        "concealment"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 11:3",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered as YHWH per project rule. Kept KJV verse divisions and phrasing where compatible with Hebrew; adjusted word-order and lexical choices to reflect the Hebrew text. Preserved difficult and violent material without harmonization.",
+    "Names transliterated from Hebrew forms (e.g., Athaliah/עֲתַלְיָהוּ)."
+  ],
+  "safety_note": "Contains graphic dynastic violence and executions; use responsibly in scholarly contexts.",
+  "source_witness_audit_flags": [
+    "name_variant:Azariah/Uzziah (chronological tradition divergence)",
+    "genealogy_label:Athaliah called 'daughter of Omri' (possible dynastic epithet)",
+    "divine_name:YHWH rendering confirmed but verify across witnesses"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

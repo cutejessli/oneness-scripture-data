@@ -1,0 +1,400 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 14,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted from supplied Hebrew witnesses; preserves YHWH rendering and literal military numbers where Hebrew reads 'thousand thousands' and place-name variants; needs witness review for numerals and some place-name readings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "So Abijah slept with his fathers, and they buried him in the city of David; and Asa his son reigned in his stead. In his days the land had rest ten years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "city of David",
+          "source": "עִיר דָּוִיד",
+          "language": "Hebrew",
+          "glossary_id": "city-of-david"
+        }
+      ],
+      "tags": [
+        "dynasty",
+        "rest"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Asa did what was good and right in the eyes of YHWH his God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa did that which was good and right in the eyes of the LORD his God:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "religion",
+        "ethic"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "For he removed the altars of the foreign gods and the high places, broke down the standing stones, and cut down the Asherah poles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he took away the altars of the strange gods, and the high places, and brake down the images, and cut down the groves:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asherah",
+          "source": "הָאֲשֵׁרִים",
+          "language": "Hebrew",
+          "glossary_id": "asherah-pole"
+        }
+      ],
+      "tags": [
+        "religious-reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "He commanded Judah to seek YHWH, the God of their fathers, and to keep the law and the commandment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And commanded Judah to seek the LORD God of their fathers, and to do the law and the commandment."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "law",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Also he removed from all the cities of Judah the high places and the standing stones; and the kingdom was quiet before him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he took away out of all the cities of Judah the high places and the images: and the kingdom was quiet before him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "rest",
+        "reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He built fortified towns in Judah, for the land had rest and there was no war in those years; for YHWH had given him rest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he built fenced cities in Judah: for the land had rest, and he had no war in those years; because the LORD had given him rest."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Repeated verb 'we sought' in following clause in Hebrew emphasizes communal seeking as cause of rest (v.7)."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "fortification",
+        "divine-benefaction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore he said to Judah, 'Let us build these cities and surround them with walls and towers, with gates and bars; for the land is still before us — because we have sought YHWH our God, we sought him, and he has given us rest on every side.' So they built and prospered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the LORD our God, we have sought him, and he hath given us rest on every side. So they built and prospered."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "walls and towers",
+          "source": "חוֹמָה וּמִגְדָּלִים",
+          "language": "Hebrew",
+          "glossary_id": "walls-and-towers"
+        }
+      ],
+      "tags": [
+        "community-action",
+        "prosperity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Asa had an army that bore shield and spear — out of Judah three hundred thousand; and out of Benjamin men who bore shields and drew bows two hundred and eighty thousand — all these were mighty men of valour.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valour."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew military totals are large; the following verse (v.9) reads 'thousand thousands' — magnitude is debated in the witnesses."
+        }
+      ],
+      "terms": [
+        {
+          "display": "shield and spear",
+          "source": "צִנָּה וָרֹמַח",
+          "language": "Hebrew",
+          "glossary_id": "shield-and-spear"
+        }
+      ],
+      "tags": [
+        "military",
+        "numbers"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And there came out against them Zerah the Cushite with a host of a thousand thousands and three hundred chariots; and he came to Mareshah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came out against them Zerah the Ethiopian with an host of a thousand thousand, and three hundred chariots; and came unto Mareshah."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew כּוּשׁ (Cush) rendered 'Cushite'; 'thousand thousands' preserved literally; both require witness comparison."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Cush",
+          "source": "כּוּשׁ",
+          "language": "Hebrew",
+          "glossary_id": "cush"
+        },
+        {
+          "display": "Mareshah",
+          "source": "מָרֵשָׁה",
+          "language": "Hebrew",
+          "glossary_id": "mareshah"
+        }
+      ],
+      "tags": [
+        "invasion",
+        "numbers"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal",
+        "number-suspect"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Then Asa went out against him, and they set the battle in array in the valley of Zephathah by Mareshah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Gēi Zephathah",
+          "source": "גֵיא צְפַתָה",
+          "language": "Hebrew",
+          "glossary_id": "gei-zephathah"
+        }
+      ],
+      "tags": [
+        "battle",
+        "place-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal",
+        "place-name-variant"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And Asa cried to YHWH his God, and said, 'YHWH, there is nothing too hard for you to help, whether by many or by those of no power; help us, YHWH our God, for we rely on you, and in your name we come against this multitude. YHWH, you are our God; do not let man prevail against you.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa cried unto the LORD his God, and said, LORD, it is nothing with thee to help, whether with many, or with them that have no power: help us, O LORD our God; for we rest on thee, and in thy name we go against this multitude. O LORD, thou art our God; let not man prevail against thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "dependence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "So YHWH struck the Cushites before Asa and before Judah, and the Cushites fled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the LORD smote the Ethiopians before Asa, and before Judah; and the Ethiopians fled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine-intervention"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And Asa and the people who were with him pursued them to Gerar; and the Cushites were overthrown so that not one escaped alive, for they were crushed before YHWH and his host; and they carried away much spoil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the LORD, and before his host; and they carried away very much spoil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Gerar",
+          "source": "גְּרָר",
+          "language": "Hebrew",
+          "glossary_id": "gerar"
+        }
+      ],
+      "tags": [
+        "pursuit",
+        "plunder"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "They struck all the cities around Gerar, for the fear of YHWH fell upon them; and they plundered all the cities, for there was very much spoil in them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they smote all the cities round about Gerar; for the fear of the LORD came upon them: and they spoiled all the cities; for there was exceeding much spoil in them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fear-of-YHWH",
+        "plunder"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "They also struck the cattle camps and took sheep and camels in abundance, and returned to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "spoils",
+        "return"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered as YHWH (Hebrew יהוה) throughout per project rule.",
+    "Numeric expressions follow the Hebrew wording (e.g., 'thousand thousands'); large-magnitude reading flagged for witness review.",
+    "Place-names (Mareshah, Zephathah/Gēi Zephathah) preserved; orthography reflects Hebrew forms."
+  ],
+  "safety_note": "This chapter contains preserved descriptions of warfare and plunder; material retained for fidelity to source.",
+  "source_witness_audit_flags": [
+    "numeric-magnitude: 'thousand thousands' (v.8) — confirm MT vs. alternatives",
+    "ethnonym/identity: כּוּשׁ (Cush/Cushite) (v.8) — confirm historical referent",
+    "place-names: מָרֵשָׁה / צְפַתָה (Mareshah / Zephathah) (vv.9–10) — orthography/identification"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,1031 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restores Hebrew-weighted wording, renders divine name as YHWH, keeps KJV verse numbering; requires witness-checks for Hazazontamar/Engedi identification, valley-name tradition, and the reading of the prophetic utterance (Jahaziel)."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Afterward the sons of Moab and the sons of Ammon, with others besides the Ammonites, came up against Jehoshaphat to make war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Moab",
+          "source": "מוֹאָב",
+          "language": "Hebrew",
+          "glossary_id": "moab"
+        }
+      ],
+      "tags": [
+        "invasion",
+        "crisis"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name_no"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Messengers came and told Jehoshaphat, “A great multitude is coming against you from beyond the sea on this side of Aram; behold, they are in Hazazontamar — that is, Engedi.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazontamar, which is Engedi."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hazazontamar is identified with Engedi in the Hebrew tradition; location flagged for witness review."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Hazazontamar",
+          "source": "חֲצְצ֣וֹן תָּמָר",
+          "language": "Hebrew",
+          "glossary_id": "hazazontamar-engedi"
+        },
+        {
+          "display": "Engedi",
+          "source": "עֵ֥ין גֶּֽדִי",
+          "language": "Hebrew",
+          "glossary_id": "engedi"
+        }
+      ],
+      "tags": [
+        "intelligence",
+        "geography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_identification"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Jehoshaphat feared and set his face to seek YHWH; he proclaimed a fast throughout all Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat feared, and set himself to seek the LORD, and proclaimed a fast throughout all Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "fast"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And Judah gathered to ask help of YHWH; people came from all the cities of Judah to seek YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah gathered themselves together, to ask help of the LORD: even out of all the cities of Judah they came to seek the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "assembly",
+        "petition"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Jehoshaphat stood in the assembly of Judah and of Jerusalem in the house of YHWH, before the new court.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat stood in the congregation of Judah and Jerusalem, in the house of the LORD, before the new court,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "new court",
+          "source": "הֶחָצֵ֥ר הַחֲדָשָׁה",
+          "language": "Hebrew",
+          "glossary_id": "new-court"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "sanctuary"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He said, “O YHWH, God of our fathers, are you not God in the heavens? Do you not rule over all the kingdoms of the nations? In your hand is power and might, and none can withstand you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said, O LORD God of our fathers, art not thou God in heaven? and rulest not thou over all the kingdoms of the heathen? and in thine hand is there not power and might, so that none is able to withstand thee?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "theology",
+        "sovreignty"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Are you not our God who dispossessed the inhabitants of this land before your people Israel and gave it to the descendants of Abraham your friend forever?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Art not thou our God, who didst drive out the inhabitants of this land before thy people Israel, and gavest it to the seed of Abraham thy friend for ever?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Abraham",
+          "source": "אַבְרָהָם",
+          "language": "Hebrew",
+          "glossary_id": "abraham"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They settled there and built for your name a sanctuary, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sanctuary",
+        "memory"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "‘If evil come upon us — sword, judgment, pestilence, or famine — and we stand before this house and before you (for your name is in this house), and cry out in our affliction, you will hear and save.’",
+      "familiar": {
+        "source": "KJV",
+        "text": "If, when evil cometh upon us, as the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name is in this house,) and cry unto thee in our affliction, then thou wilt hear and help."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Your name is in this house’ echoes temple-liturgy asserting YHWH’s presence; theological claim preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "house",
+          "source": "הַבַּיִת",
+          "language": "Hebrew",
+          "glossary_id": "temple-house"
+        },
+        {
+          "display": "name",
+          "source": "שִׁמְךָ",
+          "language": "Hebrew",
+          "glossary_id": "divine-name"
+        }
+      ],
+      "tags": [
+        "petition",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Now behold, the sons of Ammon and Moab and Mount Seir — whom you did not give Israel possession of when they came out of Egypt because they turned aside from them and did not destroy them — are repaying us by coming to drive us out of your heritage that you gave us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Mount Seir",
+          "source": "הַר־שֵׂעִיר",
+          "language": "Hebrew",
+          "glossary_id": "mount-seir"
+        }
+      ],
+      "tags": [
+        "history",
+        "enemy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Behold how they reward us, to come and cast us out from your possession that you gave us to inherit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I say, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dispossession",
+        "inheritance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "O our God, will you not judge them? For we have no strength against this great company that comes against us; nor do we know what to do, for our eyes are upon you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "petition",
+        "helplessness"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "All Judah stood before YHWH, with their little ones, their wives, and their children.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all Judah stood before the LORD, with their little ones, their wives, and their children."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "communal_prayer",
+        "family"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Then the Spirit of YHWH came upon Jahaziel son of Zechariah son of Benaiah son of Jeiel son of Mattaniah, a Levite of the sons of Asaph, in the midst of the congregation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then upon Jahaziel the son of Zechariah, the son of Benaiah, the son of Jeiel, the son of Mattaniah, a Levite of the sons of Asaph, came the Spirit of the LORD in the midst of the congregation;"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Prophetic utterance attributed to Jahaziel (יַחֲזִיאֵל); lineage ties him to the Asaphite Levitical tradition."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Jahaziel",
+          "source": "יַחֲזִיאֵל",
+          "language": "Hebrew",
+          "glossary_id": "jahaziel"
+        },
+        {
+          "display": "Spirit of YHWH",
+          "source": "ר֣וּחַ יְהֹוָ֔ה",
+          "language": "Hebrew",
+          "glossary_id": "ruach-yhwh"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "levite"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "prophetic_speech_attribution"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He said, “Hearken, all Judah and inhabitants of Jerusalem, and you king Jehoshaphat: thus says YHWH to you, ‘Do not be afraid and do not be dismayed because of this great multitude, for the battle is not yours but YHWH’s.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Hearken ye, all Judah, and ye inhabitants of Jerusalem, and thou king Jehoshaphat, Thus saith the LORD unto you, Be not afraid nor dismayed by reason of this great multitude; for the battle is not yours, but God’s."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "oracle",
+        "encouragement"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Tomorrow go down against them; behold, they will come up by the cliff of Ziz, and you will find them at the end of the brook before the wilderness of Jeruel.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ziz",
+          "source": "הַצִּיץ",
+          "language": "Hebrew",
+          "glossary_id": "ziz-cliff"
+        },
+        {
+          "display": "Jeruel",
+          "source": "יְרוּאֵל",
+          "language": "Hebrew",
+          "glossary_id": "jeruel"
+        }
+      ],
+      "tags": [
+        "strategy",
+        "topography"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You will not need to fight in this battle; set yourselves, stand and see the salvation of YHWH with you, O Judah and Jerusalem. Do not be afraid or dismayed; tomorrow go out against them, for YHWH is with you.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the LORD with you, O Judah and Jerusalem: fear not, nor be dismayed; to morrow go out against them: for the LORD will be with you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "salvation",
+          "source": "יְשׁוּעָה",
+          "language": "Hebrew",
+          "glossary_id": "yeshuah"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "assurance",
+        "divine_action"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Jehoshaphat bowed his face to the ground, and all Judah and the inhabitants of Jerusalem fell before YHWH to worship YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the LORD, worshipping the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "bowed",
+          "source": "וַיִּקֹּד",
+          "language": "Hebrew",
+          "glossary_id": "bowed"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "worship",
+        "humility"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "The Levites, from the Kohathite and Korahite clans, stood up to praise the God of Israel with a loud voice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the LORD God of Israel with a loud voice on high."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Kohathite",
+          "source": "קְהָתִים",
+          "language": "Hebrew",
+          "glossary_id": "kohathites"
+        }
+      ],
+      "tags": [
+        "levites",
+        "praise"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Early in the morning they rose and went out into the wilderness of Tekoa; as they went forth Jehoshaphat stood and said, “Hear me, O Judah and inhabitants of Jerusalem: believe in YHWH your God, and you shall be established; believe his prophets, and you shall prosper.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the LORD your God, so shall ye be established; believe his prophets, so shall ye prosper."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tekoa",
+          "source": "תְּקוֹעַ",
+          "language": "Hebrew",
+          "glossary_id": "tekoa"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "faith"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "He consulted with the people and appointed singers to YHWH, to praise the splendor of holiness as they went before the army, saying, “Give thanks to YHWH, for his steadfast love endures forever.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had consulted with the people, he appointed singers unto the LORD, and that should praise the beauty of holiness, as they went out before the army, and to say, Praise the LORD; for his mercy endureth for ever."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "The term often translated 'mercy' is חֶסֶד (steadfast love/chesed); retained the covenantal tone."
+        }
+      ],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חַסְדּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "chesed"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "liturgical",
+        "procession"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 136",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "When they began to sing and to praise, YHWH set ambushes against the sons of Ammon, Moab, and Mount Seir who had come against Judah, and they were struck.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they began to sing and to praise, the LORD set ambushments against the children of Ammon, Moab, and mount Seir, which were come against Judah; and they were smitten."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "MT reads YHWH 'placed ambushes' (מְאָרְבִים); verb and tense warrant witness review."
+        }
+      ],
+      "terms": [
+        {
+          "display": "ambushes",
+          "source": "מְאָרְבִים",
+          "language": "Hebrew",
+          "glossary_id": "ambushes"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "divine_action",
+        "battle"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verb_choice_check"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "The sons of Ammon and Moab rose against the inhabitants of Mount Seir to destroy them; after they had finished with Seir, each helped to destroy another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Seir",
+          "source": "שֵׂעִיר",
+          "language": "Hebrew",
+          "glossary_id": "seir"
+        }
+      ],
+      "tags": [
+        "intra-enemy_conflict",
+        "rout"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "When Judah came to the lookout in the wilderness they looked toward the multitude and behold — bodies fallen on the ground; no one had escaped.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they were dead bodies fallen to the earth, and none escaped."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "lookout",
+          "source": "מִצְפֶּה",
+          "language": "Hebrew",
+          "glossary_id": "watchtower"
+        }
+      ],
+      "tags": [
+        "survey",
+        "aftermath"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Jehoshaphat and his people came to gather the spoil and found that among the dead there was abundant plunder — riches and valuables more than they could carry; they spent three days gathering the spoil because it was so much.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "spoil",
+        "plunder"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "On the fourth day they assembled in the valley of blessing, for there they blessed YHWH; therefore it was named the Valley of Berachah to this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the LORD: therefore the name of the same place was called, The valley of Berachah, unto this day."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Berachah (בְּרָכָה) = blessing; place-name commemorates the act of blessing."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Berachah",
+          "source": "בְּרָכָה",
+          "language": "Hebrew",
+          "glossary_id": "berachah"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "toponym",
+        "commemoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place_name_commemorative"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Then every man of Judah returned to their cities, and Jehoshaphat returned to Jerusalem with joy, for YHWH had made them rejoice over their enemies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the LORD had made them to rejoice over their enemies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "return",
+        "joy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "They came to Jerusalem with harps, lyres, and trumpets to the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they came to Jerusalem with psalteries and harps and trumpets unto the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "harps",
+          "source": "נְבָלִים",
+          "language": "Hebrew",
+          "glossary_id": "nevalim"
+        }
+      ],
+      "tags": [
+        "music",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Terror from God fell upon all the kingdoms of the lands when they heard that YHWH had fought against the enemies of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fear of God was on all the kingdoms of those countries, when they had heard that the LORD fought against the enemies of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "terror from God",
+          "source": "פַחַד אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "pachad-elohim"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "reputation",
+        "divine_fear"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Thus the kingdom of Jehoshaphat was quiet; and his God gave him rest round about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the realm of Jehoshaphat was quiet: for his God gave him rest round about."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "rest",
+          "source": "נָחַת",
+          "language": "Hebrew",
+          "glossary_id": "rest"
+        }
+      ],
+      "tags": [
+        "peace",
+        "stability"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign, and he reigned in Jerusalem twenty and five years. His mother’s name was Azubah daughter of Shilhi.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat reigned over Judah: he was thirty and five years old when he began to reign, and he reigned twenty and five years in Jerusalem. And his mother’s name was Azubah the daughter of Shilhi."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Azubah",
+          "source": "עֲזוּבָה",
+          "language": "Hebrew",
+          "glossary_id": "azubah"
+        }
+      ],
+      "tags": [
+        "chronology",
+        "dynasty"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "He walked in the ways of his father Asa and departed not from them, doing that which was right in the sight of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he walked in the way of Asa his father, and departed not from it, doing that which was right in the sight of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asa",
+          "source": "אָסָא",
+          "language": "Hebrew",
+          "glossary_id": "asa"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "righteousness",
+        "continuity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "However the high places were not removed; the people still had not prepared their hearts to the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "high places",
+          "source": "הַבָּמ֖וֹת",
+          "language": "Hebrew",
+          "glossary_id": "high-places"
+        }
+      ],
+      "tags": [
+        "religious_practice",
+        "incomplete_reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "The rest of the acts of Jehoshaphat, first and last, behold they are written in the words of Jehu son of Hanani, which are recorded in the book of the kings of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Jehoshaphat, first and last, behold, they are written in the book of Jehu the son of Hanani, who is mentioned in the book of the kings of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jehu son of Hanani",
+          "source": "יֵהוּא בֶּן־חֲנָנִי",
+          "language": "Hebrew",
+          "glossary_id": "jehu-son-of-hanani"
+        }
+      ],
+      "tags": [
+        "sources",
+        "record"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "After this Jehoshaphat allied himself with Ahaziah king of Israel, who did wickedly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after this did Jehoshaphat king of Judah join himself with Ahaziah king of Israel, who did very wickedly:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ahaziah",
+          "source": "אֲחַזְיָה",
+          "language": "Hebrew",
+          "glossary_id": "ahaziah"
+        }
+      ],
+      "tags": [
+        "alliance",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "He joined with him to make ships to go to Tarshish; they made ships in Ezion-Geber.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he joined himself with him to make ships to go to Tarshish: and they made the ships in Eziongaber."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tarshish",
+          "source": "תַּרְשִׁישׁ",
+          "language": "Hebrew",
+          "glossary_id": "tarshish"
+        },
+        {
+          "display": "Ezion-Geber",
+          "source": "עֶצְי֥וֹן גָּבֶר",
+          "language": "Hebrew",
+          "glossary_id": "ezion-geber"
+        }
+      ],
+      "tags": [
+        "maritime",
+        "trade"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Eliezer son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, ‘Because you have joined yourself with Ahaziah, YHWH has broken your works,’ and the ships were broken so that they could not go to Tarshish.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the LORD hath broken thy works. And the ships were broken, that they were not able to go to Tarshish."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Eliezer son of Dodavah",
+          "source": "אֱלִיעֶזֶר בֶּן־דֹּדָבָה",
+          "language": "Hebrew",
+          "glossary_id": "eliezer-dodavah"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered_divine_name"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Hazazontamar (חֲצְצ֣וֹן תָּמָר) aligned with Engedi per MT tradition; flagged for location/witness review.",
+    "Preserves rhetorical ambiguities (who fights, who is struck, the ‘ambushes’ verb) rather than harmonizing."
+  ],
+  "safety_note": "Contains wartime violence and mass slaughter in source; preserved without sanitization. Use responsibly.",
+  "source_witness_audit_flags": [
+    "hazazontamar_engedi_location_uncertain",
+    "prophetic_speech_text_shape_Jahaziel_needs_witness_check",
+    "v22_ambushes_reading_verb_choice"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

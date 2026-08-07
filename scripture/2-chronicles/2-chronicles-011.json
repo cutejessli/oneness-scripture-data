@@ -1,0 +1,501 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation of 2 Chronicles 11 grounded in supplied Hebrew. Preserves YHWH, cultic and family detail, and textual ambiguities (notably שְׂעִירִים and variant in v.18). Numbers and names follow the Hebrew witness; some readings flagged for later witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And Rehoboam came to Jerusalem and gathered from the house of Judah and of Benjamin an hundred and eighty thousand chosen men, valiant for battle, to fight against Israel, to restore the kingdom to Rehoboam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Rehoboam was come to Jerusalem, he gathered of the house of Judah and Benjamin an hundred and fourscore thousand chosen men, which were warriors, to fight against Israel, that he might bring the kingdom again to Rehoboam."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "chosen",
+          "source": "בָּחוּר (bachur)",
+          "language": "Hebrew",
+          "glossary_id": "bachur"
+        }
+      ],
+      "tags": [
+        "military",
+        "dynasty"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 10:17-19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "But the word of YHWH came to Shemaiah the man of God, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the word of the LORD came to Shemaiah the man of God, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Shemaiah",
+          "source": "שְׁמַעְיָהוּ (Shema‘yahu)",
+          "language": "Hebrew",
+          "glossary_id": "shemaiah"
+        }
+      ],
+      "tags": [
+        "prophecy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak unto Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "audience"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 12:21-24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Thus says YHWH: You shall not go up, nor fight against your brothers; return every man to his house, for this matter is from me. And they obeyed the words of YHWH and turned back from marching against Jeroboam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith the LORD, Ye shall not go up, nor fight against your brethren: return every man to his house: for this thing is done of me. And they obeyed the words of the LORD, and returned from going against Jeroboam."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "peace"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And Rehoboam dwelt in Jerusalem and built cities of defense in Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Rehoboam dwelt in Jerusalem, and built cities for defence in Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction",
+        "defense"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He built even Bethlehem, and Etam, and Tekoa;",
+      "familiar": {
+        "source": "KJV",
+        "text": "He built even Bethlehem, and Etam, and Tekoa,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction",
+        "topography"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and Beth‑zur, and Shoco, and Adullam,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Bethzur, and Shoco, and Adullam,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "and Gath, and Mareshah, and Ziph,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Gath, and Mareshah, and Ziph,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "and Adoraim, and Lachish, and Azekah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Adoraim, and Lachish, and Azekah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "and Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin—fenced cities.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zorah, and Aijalon, and Hebron, which are in Judah and in Benjamin fenced cities."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "fenced cities",
+          "source": "מְצוּרוֹת (metzurot)",
+          "language": "Hebrew",
+          "glossary_id": "metzurot"
+        }
+      ],
+      "tags": [
+        "construction",
+        "defense"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And he fortified the strongholds and set captains in them, and stores of food and of oil and wine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he fortified the strong holds, and put captains in them, and store of victual, and of oil and wine."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "logistics",
+        "military"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "In every city he placed shields and spears and made them very strong; and Judah and Benjamin were his.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in every several city he put shields and spears, and made them exceeding strong, having Judah and Benjamin on his side."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "politics"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And the priests and the Levites who were in all Israel gathered themselves to him out of all their borders.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priests and the Levites that were in all Israel resorted to him out of all their coasts."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "לְוִיִּם (Leviim)",
+          "language": "Hebrew",
+          "glossary_id": "levites"
+        }
+      ],
+      "tags": [
+        "priesthood",
+        "migration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For the Levites left their suburbs and their possessions and came to Judah and to Jerusalem, because Jeroboam and his sons had neglected them from serving as priests to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the Levites left their suburbs and their possession, and came to Judah and Jerusalem: for Jeroboam and his sons had cast them off from executing the priest’s office unto the LORD:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "priesthood",
+        "abandonment"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And he appointed for himself priests for the high places, and for the se'irim (שְׂעִירִים), and for the calves which he had made.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he ordained him priests for the high places, and for the devils, and for the calves which he had made."
+      },
+      "notes": [
+        {
+          "title": "translation",
+          "body": "Hebrew שְׂעִירִים transliterated se'irim due to textual ambiguity (goat‑figures/demons/idols)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "se'irim",
+          "source": "שְׂעִירִים (se‘irim)",
+          "language": "Hebrew",
+          "glossary_id": "seirim"
+        }
+      ],
+      "tags": [
+        "cult",
+        "priesthood"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 12:31",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "witness-needed"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And after them, out of all the tribes of Israel, those who set their heart to seek YHWH God of Israel came to Jerusalem to sacrifice to YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after them out of all the tribes of Israel such as set their hearts to seek the LORD God of Israel came to Jerusalem, to sacrifice unto the LORD God of their fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "religion",
+        "pilgrimage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "So they strengthened the kingdom of Judah and made Rehoboam son of Solomon firm for three years, for three years they walked in the way of David and Solomon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "stability",
+        "tradition"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And Rehoboam took to wife Mahalath (מָחֲלַת) — in some witnesses rendered with variant — daughter of Jerimoth son of David, and Abihail daughter of Eliab son of Jesse.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Rehoboam took him Mahalath the daughter of Jerimoth the son of David to wife, and Abihail the daughter of Eliab the son of Jesse;"
+      },
+      "notes": [
+        {
+          "title": "witness",
+          "body": "Hebrew shows bracketed/variant reading for Mahalath’s filiations; needs textual review."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Mahalath",
+          "source": "מָחֲלַת (Mahalath)",
+          "language": "Hebrew",
+          "glossary_id": "mahalath"
+        }
+      ],
+      "tags": [
+        "marriage",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "variant-in-name"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And she bore him Jeush, and Shemariah, and Zaham.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which bare him children; Jeush, and Shamariah, and Zaham."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And afterward he took Maachah daughter of Absalom; and she bore him Abijah, and Attai, and Ziza, and Shelomith.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after her he took Maachah the daughter of Absalom; which bare him Abijah, and Attai, and Ziza, and Shelomith."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Maachah",
+          "source": "מַעֲכָה (Maachah)",
+          "language": "Hebrew",
+          "glossary_id": "maachah"
+        }
+      ],
+      "tags": [
+        "marriage",
+        "genealogy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and concubines; for he had eighteen wives and sixty concubines, and begot twenty and eight sons and sixty daughters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Rehoboam loved Maachah the daughter of Absalom above all his wives and his concubines: (for he took eighteen wives, and threescore concubines; and begat twenty and eight sons, and threescore daughters.)"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family",
+        "polygamy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And Rehoboam made Abijah son of Maachah chief among his brothers, to be ruler; for he intended to make him king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Rehoboam made Abijah the son of Maachah the chief, to be ruler among his brethren: for he thought to make him king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Abijah",
+          "source": "אֲבִיָּה (Aviyah)",
+          "language": "Hebrew",
+          "glossary_id": "abijah"
+        }
+      ],
+      "tags": [
+        "succession",
+        "dynasty"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "And he dealt wisely and dispersed all his children throughout all the lands of Judah and Benjamin, to every fortified city; and he gave them food in abundance, and sought many wives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he dealt wisely, and dispersed of all his children throughout all the countries of Judah and Benjamin, unto every fenced city: and he gave them victual in abundance. And he desired many wives."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dominion",
+        "family"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Preserves ambiguous cult-term שְׂעִירִים as transliterated in verse 15; literalness preferred over harmonizing.",
+    "Family-name variant in v.18 (מַחֲלַת / bracketed reading) is retained and flagged."
+  ],
+  "safety_note": "Contains war, coercion, cultic practices, and patriarchal family material preserved from source; retained for fidelity, not endorsement.",
+  "source_witness_audit_flags": [
+    "v.1 numeric reading 180,000 (מֵאָה וּשְׁמוֹנִים אֶלֶף) — confirm numeral transmission",
+    "v.15 term שְׂעִירִים — ambiguous (goat-idols/demons/ritual figures), needs witness commentary",
+    "v.18 name-form for Mahalath / textual bracket (מָחֲלַת (בן) [בַּת־]יְרִימֹת) — review variant"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

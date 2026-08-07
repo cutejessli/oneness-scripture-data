@@ -1,0 +1,500 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft grounded in supplied Hebrew; YHWH rendered consistently. Preserves textual variants (machatzrim), large numeric traditions, and conditional covenant language. Pending witness collation for bracketed readings and metal-term senses."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now when Solomon had finished praying, fire descended from the heavens and consumed the burnt offering and the sacrifices; and the glory of YHWH filled the house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Solomon had made an end of praying, the fire came down from heaven, and consumed the burnt offering and the sacrifices; and the glory of the LORD filled the house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_presence",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 8:11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "And the priests could not enter into the house of YHWH, because the glory of YHWH had filled the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priests could not enter into the house of the LORD, because the glory of the LORD had filled the LORD’s house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_presence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 8:10-11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "And when all the children of Israel saw the fire descend and the glory of YHWH upon the house, they bowed their faces to the ground upon the pavement, worshipped and praised YHWH, saying, “For he is good; for his chesed endures for ever.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when all the children of Israel saw how the fire came down, and the glory of the LORD upon the house, they bowed themselves with their faces to the ground upon the pavement, and worshipped, and praised the LORD, saying, For he is good; for his mercy endureth for ever."
+      },
+      "notes": [
+        {
+          "title": "term",
+          "body": "chesed (Heb.) chosen for חַסְדּוֹ to keep lexical resonance of covenantal loyal love."
+        }
+      ],
+      "terms": [
+        {
+          "display": "chesed",
+          "source": "חַסְדּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "chesed"
+        }
+      ],
+      "tags": [
+        "worship",
+        "praise"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 136",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Then the king and all the people offered sacrifices before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king and all the people offered sacrifices before the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "leadership"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And King Solomon offered a sacrifice of twenty-two thousand oxen and one hundred and twenty thousand sheep; thus the king and all the people dedicated the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dedication",
+        "festival"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "numerical_tradition"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And the priests stood at their services, and the Levites with the instruments of song of YHWH that David the king had made to give thanks to YHWH—because his chesed endures for ever—while David praised by their ministry; the priests sounding trumpets before them, and all Israel stood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priests waited on their offices: the Levites also with instruments of musick of the LORD, which David the king had made to praise the LORD, because his mercy endureth for ever, when David praised by their ministry; and the priests sounded trumpets before them, and all Israel stood."
+      },
+      "notes": [
+        {
+          "title": "textual",
+          "body": "Hebrew shows bracketed variant מחצצרים / מַחְצְרִים (machatzrim) in the singing/winged-priest term — witness review advised."
+        }
+      ],
+      "terms": [
+        {
+          "display": "machatzrim",
+          "source": "מַחְצְרִים / מחצצרים",
+          "language": "Hebrew",
+          "glossary_id": "machatzrim-variant"
+        }
+      ],
+      "tags": [
+        "music",
+        "liturgical"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 16",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "machatzrim_variant"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Moreover Solomon consecrated the middle of the court that was before the house of YHWH; there he made burnt offerings and the fat of the peace offerings, for the bronze (nechoshet) altar that Solomon had made could not hold the burnt offerings or the grain offerings or the fat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover Solomon hallowed the middle of the court that was before the house of the LORD: for there he offered burnt offerings, and the fat of the peace offerings, because the brasen altar which Solomon had made was not able to receive the burnt offerings, and the meat offerings, and the fat."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "nechoshet",
+          "source": "נְחֹשֶׁת",
+          "language": "Hebrew",
+          "glossary_id": "nechoshet-bronze"
+        }
+      ],
+      "tags": [
+        "altar",
+        "sacrifice"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "altar_metal_term_nechoshet"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And Solomon held the feast at that time seven days; and all Israel with him, a very great congregation from the entrance of Hamath even to the River of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "festival",
+        "national"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And on the eighth day they held a solemn assembly; for they had kept the dedication of the altar seven days and the feast seven days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And on the twenty-third day of the seventh month he sent the people away to their tents, joyful and glad in heart for the goodness that YHWH had shown to David and to Solomon and to Israel his people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And on the three and twentieth day of the seventh month he sent the people away into their tents, glad and merry in heart for the goodness that the LORD had shewed unto David, and to Solomon, and to Israel his people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "festival",
+        "gratitude"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Thus Solomon finished the house of YHWH and the king's house; and whatever came into Solomon's heart to do in the house of YHWH and in his own house, he prosperously accomplished.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus Solomon finished the house of the LORD, and the king’s house: and all that came into Solomon’s heart to make in the house of the LORD, and in his own house, he prosperously effected."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "completion",
+        "royal"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And YHWH appeared to Solomon by night and said to him, “I have heard your prayer and have chosen this place for myself as a house of sacrifice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD appeared to Solomon by night, and said unto him, I have heard thy prayer, and have chosen this place to myself for an house of sacrifice."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theophany",
+        "sanctification"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 8:12-13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Behold, I will shut up the heavens so that there shall be no rain, and I will command the locust to devour the land, or I will send pestilence among my people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If I shut up heaven that there be no rain, or if I command the locusts to devour the land, or if I send pestilence among my people;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "pestilence",
+          "source": "דֶּבֶר",
+          "language": "Hebrew",
+          "glossary_id": "dever-pestilence"
+        }
+      ],
+      "tags": [
+        "judgment",
+        "threat"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "If my people, who are called by my name, shall humble themselves and pray, and seek my face and turn from their wicked ways, then I will hear from heaven and will forgive their sin and heal their land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "repentance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Now my eyes shall be open and my ears attentive to the prayer made in this place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now mine eyes shall be open, and mine ears attent unto the prayer that is made in this place."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_attention",
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "For now I have chosen and sanctified this house, that my name may be there for ever; and my eyes and my heart shall be there perpetually.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For now have I chosen and sanctified this house, that my name may be there for ever: and mine eyes and mine heart shall be there perpetually."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sanctification",
+        "presence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "source_sensitive"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And as for you, if you walk before me as David your father walked, and do according to all that I have commanded you—keeping my statutes and my judgments—",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as for thee, if thou wilt walk before me, as David thy father walked, and do according to all that I have commanded thee, and shalt observe my statutes and my judgments;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "leadership"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Then I will establish the throne of your kingdom, as I covenanted with David your father, saying, ‘There shall not fail you a man to rule over Israel.’",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then will I stablish the throne of thy kingdom, according as I have covenanted with David thy father, saying, There shall not fail thee a man to be ruler in Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dynasty",
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "But if you turn away and forsake my statutes and my commandments which I have set before you, and go and serve other gods and worship them,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "apostasy",
+        "warning"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "then I will pluck them up from my land which I have given them, and I will cast off this house that I have sanctified for my name from before my face; and I will make it a byword and an astonishment among all peoples.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then will I pluck them up by the roots out of my land which I have given them; and this house, which I have sanctified for my name, will I cast out of my sight, and will make it to be a proverb and a byword among all nations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "judgment",
+        "proverb"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "And the house that is exalted shall be a byword to everyone passing by; they shall say, ‘Why has YHWH done thus to this land and to this house?’",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the LORD done thus unto this land, and unto this house?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "reputation",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "And it shall be answered: ‘Because they left YHWH the God of their fathers, who brought them out of the land of Egypt, and they embraced other gods and worshipped them and served them; therefore YHWH brought upon them all this evil.’",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be answered, Because they forsook the LORD God of their fathers, which brought them forth out of the land of Egypt, and laid hold on other gods, and worshipped them, and served them: therefore hath he brought all this evil upon them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "explanation",
+        "idolatry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 8",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "verified-draft"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout. Hebrew key terms preserved where lexical ambiguity matters (max two terms/verse). Bracketed/variant readings from the source are noted where present.",
+    "Preserve KJV verse numbering (22 verses) while following Hebrew content and syntax; differences in phrasing kept source-attentive rather than KJV-modernizing."
+  ],
+  "safety_note": "Text contains divine threats (drought, locusts, pestilence), forced displacement, and harsh covenantal punishments; readers should be aware of morally difficult material.",
+  "source_witness_audit_flags": [
+    "machatzrim_variant",
+    "altar_metal_term_nechoshet",
+    "numerical_tradition_large_figures"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

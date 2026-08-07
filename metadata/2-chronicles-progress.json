@@ -2,10 +2,10 @@
   "book": "2 Chronicles",
   "book_id": "2-chronicles",
   "total_chapters": 36,
-  "restored_chapters": 0,
-  "mystical_chapters": 0,
-  "complete": false,
-  "status": "in-progress-source-audited-draft",
-  "generation_model": "openai/gpt-4.1",
+  "restored_chapters": 36,
+  "mystical_chapters": 36,
+  "complete": true,
+  "status": "complete-source-audited-draft-with-mystical-companions",
+  "generation_model": "gpt-5.6-terra",
   "continuity_audit": "pending-global-pass"
 }

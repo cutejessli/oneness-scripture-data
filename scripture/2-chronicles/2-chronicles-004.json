@@ -1,0 +1,575 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-grounded English rendering of 2 Chronicles 4 preserving Hebrew material readings, measurements, and name variants; awaits witness-level checks for measurements, metal-terms, and the Huram/Hiram name variant."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Moreover he made an altar of bronze: twenty cubits its length, twenty cubits its breadth, and ten cubits its height.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he made an altar of brass, twenty cubits the length thereof, and twenty cubits the breadth thereof, and ten cubits the height thereof."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "bronze",
+          "source": "נְחֹשֶׁת (nechoshet)",
+          "language": "Hebrew",
+          "glossary_id": "nechoshet-bronze"
+        }
+      ],
+      "tags": [
+        "altar",
+        "measurement"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "measure_unit_cubit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Also he made the molten sea, ten cubits from brim to brim, circular in compass; its height was five cubits, and a line of thirty cubits compassed it round about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he made a molten sea of ten cubits from brim to brim, round in compass, and five cubits the height thereof; and a line of thirty cubits did compass it round about."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sea (molten sea)",
+          "source": "יָם (yam)",
+          "language": "Hebrew",
+          "glossary_id": "yam-molten-sea"
+        }
+      ],
+      "tags": [
+        "vessel",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:23",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "round_compass"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "And under it was the likeness of oxen round about, ten to a cubit, compassing the sea all around; two rows of oxen were cast when it was cast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And under it was the similitude of oxen, which did compass it round about: ten in a cubit, compassing the sea round about. Two rows of oxen were cast, when it was cast."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "oxen",
+          "source": "בָּקָר (bakar)",
+          "language": "Hebrew",
+          "glossary_id": "bakar-oxen"
+        }
+      ],
+      "tags": [
+        "iconography"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "numerical_reading_ambiguous"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "It stood on twelve oxen: three looking toward the north, three toward the west, three toward the south, and three toward the east; the sea was set above them, and all their hind parts were inward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "orientation",
+        "sculpture"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Its thickness was a handbreadth, and its brim like the work of a cup’s rim, with lily-work; it received and held three thousand baths.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the thickness of it was an handbreadth, and the brim of it like the work of the brim of a cup, with flowers of lilies; and it received and held three thousand baths."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "‘Handbreadth’ (Heb. טֶפַח, tefach) and ‘bath’ are preserved as ancient units; volumes require witness calibration."
+        }
+      ],
+      "terms": [
+        {
+          "display": "handbreadth",
+          "source": "טֶפַח (tefach)",
+          "language": "Hebrew",
+          "glossary_id": "tefach-handbreadth"
+        }
+      ],
+      "tags": [
+        "measurement",
+        "ornament"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "unit_bath_volume_needs_check"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He made ten lavers and set five on the right hand and five on the left to wash in them; those who offered the burnt offerings washed in them, but the sea was for the priests to wash in.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea was for the priests to wash in."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "purification"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "And he made ten golden lampstands according to their form, and placed them in the temple, five on the right hand and five on the left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he made ten candlesticks of gold according to their form, and set them in the temple, five on the right hand, and five on the left."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "lampstand",
+        "symmetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:49",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He also made ten tables and placed them in the temple, five on the right side and five on the left; and he made a hundred basins of gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He made also ten tables, and placed them in the temple, five on the right side, and five on the left. And he made an hundred basons of gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "furnishings"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:48",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Furthermore he made the court of the priests and the great court and doors for the court; he overlaid their doors with bronze.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Furthermore he made the court of the priests, and the great court, and doors for the court, and overlaid the doors of them with brass."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "architecture"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And he set the sea on the right side of the east end, beside the south.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set the sea on the right side of the east end, over against the south."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "placement"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:39",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Huram (also written Hiram in some witnesses) made the pots, the shovels, and the basins; Huram finished the work he was to make for King Solomon for the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Huram made the pots, and the shovels, and the basons. And Huram finished the work that he was to make for king Solomon for the house of God;"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Name appears with variant forms (חוּרָם / חִירָם); see witness-note for editorial review."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Huram / Hiram",
+          "source": "חוּרָם / חִירָם",
+          "language": "Hebrew",
+          "glossary_id": "huram-hiram-variant"
+        }
+      ],
+      "tags": [
+        "craftsman",
+        "name-variant"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:13-14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "name_variant_huram_hiram",
+        "requires_witness_check"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "The two pillars, the pommels, and the chapiters upon the two pillars, and the two wreaths to cover the two pommels that were upon the pillars—these he made.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To wit, the two pillars, and the pommels, and the chapiters which were on the top of the two pillars, and the two wreaths to cover the two pommels of the chapiters which were on the top of the pillars;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "pillar",
+          "source": "עַמּוּדִים (amudim)",
+          "language": "Hebrew",
+          "glossary_id": "amudim-pillars"
+        }
+      ],
+      "tags": [
+        "ornament",
+        "column"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:15-22",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And he made four hundred pomegranates for the two wreaths, two rows of pomegranates for each wreath to cover the two pommels that were upon the pillars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And four hundred pomegranates on the two wreaths; two rows of pomegranates on each wreath, to cover the two pommels of the chapiters which were upon the pillars."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "decoration",
+        "count"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:18",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He made the bases and he made the lavers on the bases.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He made also bases, and lavers made he upon the bases;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "support",
+        "vessels"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:26-27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "One sea and twelve oxen under it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "One sea, and twelve oxen under it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "summary"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Huram's father made the pots, the shovels, the fleshhooks, and all the instruments — Huram’s father made them for King Solomon for the house of YHWH of polished bronze.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The pots also, and the shovels, and the fleshhooks, and all their instruments, did Huram his father make to king Solomon for the house of the LORD of bright brass."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "polished bronze",
+          "source": "נְחֹשֶׁת מָרוּק (nechoshet maruk)",
+          "language": "Hebrew",
+          "glossary_id": "nechoshet-maruk-polished"
+        }
+      ],
+      "tags": [
+        "materials",
+        "heritage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:47",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "In the plain of the Jordan the king cast them, in the clay ground between Succoth and Zeredathah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the plain of Jordan did the king cast them, in the clay ground between Succoth and Zeredathah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "plain of Jordan",
+          "source": "כִּכַּר יָרְדֵן (kikkar ha-Yarden)",
+          "language": "Hebrew",
+          "glossary_id": "kikkar-yarden-plain"
+        }
+      ],
+      "tags": [
+        "location",
+        "casting"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:46",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "place-name_variants"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Thus Solomon made all these vessels in great abundance; the weight of the bronze was not searched out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus Solomon made all these vessels in great abundance: for the weight of the brass could not be found out."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "abundance"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:47-48",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "unknown_weight"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And Solomon made all the vessels that were for the house of God: the golden altar also, and the tables upon which was the bread of the Presence.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon made all the vessels that were for the house of God, the golden altar also, and the tables whereon the shewbread was set;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacral_furnishing"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:48",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Also the candlesticks and their lamps to burn in front of the oracle, according to the rule, of pure gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the candlesticks with their lamps, that they should burn after the manner before the oracle, of pure gold;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "lamp",
+        "gold"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:49",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And the flowers, the lamps, and the tongs — all of gold; by weight they were of pure gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the flowers, and the lamps, and the tongs, made he of gold, and that perfect gold;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ornament",
+        "gold"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:50",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And the snuffers, basins, spoons, and censers — all of pure gold; and the entrance of the house, the inner doors for the Most Holy Place, and the doors of the temple, were of gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the snuffers, and the basons, and the spoons, and the censers, of pure gold: and the entry of the house, the inner doors thereof for the most holy place, and the doors of the house of the temple, were of gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "threshold",
+        "implements"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:50",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Hebrew נְחֹשֶׁת (nechoshet) rendered 'bronze' while noting KJV 'brass'; measurements (cubit, tefach, baths) preserved as ancient units; counting and casting locations follow MT but require comparison with parallel accounts (1 Kings) and Dead Sea/Septuagint witnesses.",
+    "Name חוּרָם / חִירָם (Huram/Hiram) flagged as a variant; numerical totals (e.g., 3000 baths, 400 pomegranates) preserved without harmonizing."
+  ],
+  "safety_note": "Technical and ritual details are historic; avoid using these to reproduce consecrated objects or for harmful appropriation.",
+  "source_witness_audit_flags": [
+    "nechoshet_translation_bronze_vs_brass",
+    "measurement_units_cubit_tefach_bath_volumes_need_witnessing",
+    "name_variant_huram_vs_hiram",
+    "casting_location_Succoth_vs_Succoth_and_Zeredathah_variants"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,715 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 30,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-grounded, English restoration of 2 Chronicles 30 (KJV verse numbering). Divine name יהוה rendered as YHWH. Preserves second-month Passover, northern-invitation rhetoric, prayer effect, and ritual irregularities; flagged loci needing witness checks."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Hezekiah sent to all Israel and Judah, and he also wrote letters to Ephraim and Manasseh, bidding them come to the house of YHWH in Jerusalem to keep the Pesach to YHWH, the God of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah sent to all Israel and Judah, and wrote letters also to Ephraim and Manasseh, that they should come to the house of the LORD at Jerusalem, to keep the passover unto the LORD God of Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew text explicitly names Ephraim and Manasseh; 'house of YHWH' literal."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "Pesach (Passover)",
+          "source": "פֶּסַח",
+          "language": "Hebrew",
+          "glossary_id": "pesach"
+        }
+      ],
+      "tags": [
+        "invitation",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 12:1-14",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "For the king, his princes, and all the congregation in Jerusalem resolved to keep the Passover in the second month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the king had taken counsel, and his princes, and all the congregation in Jerusalem, to keep the passover in the second month."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "calendar",
+        "leadership"
+      ],
+      "cross_references": [
+        {
+          "reference": "Numbers 9:10-11",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "They could not keep it at that season, for the priests had not consecrated themselves enough, and the people had not gathered to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they could not keep it at that time, because the priests had not sanctified themselves sufficiently, neither had the people gathered themselves together to Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew stresses lacking priestly sanctification and absence of the people."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "sanctification",
+        "absence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And the matter pleased the king and all the congregation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the thing pleased the king and all the congregation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "consensus"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "They issued a decree and proclaimed through all Israel, from Beersheba even to Dan, that they should come to keep the Passover to YHWH, the God of Israel, at Jerusalem; for it had long not been done as written.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they established a decree to make proclamation throughout all Israel, from Beersheba even to Dan, that they should come to keep the passover unto the LORD God of Israel at Jerusalem: for they had not done it of a long time in such sort as it was written."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew emphasizes wide proclamation and that written prescription had been neglected."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Beersheba",
+          "source": "בְּאֵר־שֶׁבַע",
+          "language": "Hebrew",
+          "glossary_id": "beersheba"
+        },
+        {
+          "display": "Dan",
+          "source": "דָּן",
+          "language": "Hebrew",
+          "glossary_id": "dan"
+        }
+      ],
+      "tags": [
+        "proclamation",
+        "geography"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 16:1-8",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "liturgical-gap"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "So the couriers went with the king's letters through all Israel and Judah, according to the king's command, saying: 'Children of Israel, return to YHWH, the God of Abraham, Isaac, and Israel; and he will return to the remnant of you that have escaped from the hand of the kings of Assyria.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the posts went with the letters from the king and his princes throughout all Israel and Judah, and according to the commandment of the king, saying, Ye children of Israel, turn again unto the LORD God of Abraham, Isaac, and Israel, and he will return to the remnant of you, that are escaped out of the hand of the kings of Assyria."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Assyria",
+          "source": "אֲשּׁוּר",
+          "language": "Hebrew",
+          "glossary_id": "assyria"
+        }
+      ],
+      "tags": [
+        "appeal",
+        "history"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 18:7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And be not like your fathers and your brothers, who trespassed against YHWH, the God of their fathers, and he gave them up to utter desolation, as you see.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And be not ye like your fathers, and like your brethren, which trespassed against the LORD God of their fathers, who therefore gave them up to desolation, as ye see."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "warning",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Now be not stiff-necked as your fathers were; put out your hand to YHWH, and enter into his sanctuary which he hath sanctified forever; and serve YHWH your God, that the fierceness of his anger may turn from you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now be ye not stiffnecked, as your fathers were, but yield yourselves unto the LORD, and enter into his sanctuary, which he hath sanctified for ever: and serve the LORD your God, that the fierceness of his wrath may turn away from you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "sanctuary"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 32:9-14",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For if you turn again to YHWH, your brothers and your children will find mercy before those who carry them away, and will return to this land; for YHWH your God is gracious and merciful, and will not utterly turn away his face from you if you return to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if ye turn again unto the LORD, your brethren and your children shall find compassion before them that lead them captive, so that they shall come again into this land: for the LORD your God is gracious and merciful, and will not turn away his face from you, if ye return unto him."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew balances communal return with divine graciousness; implies political restoration."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "grace",
+        "restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And the couriers passed from city to city in the land of Ephraim and Manasseh even to Zebulun; and they mocked and scoffed at them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the posts passed from city to city through the country of Ephraim and Manasseh even unto Zebulun: but they laughed them to scorn, and mocked them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ephraim",
+          "source": "אֶפְרַיִם",
+          "language": "Hebrew",
+          "glossary_id": "ephraim"
+        },
+        {
+          "display": "Manasseh",
+          "source": "מְנַשֶּׁה",
+          "language": "Hebrew",
+          "glossary_id": "manasseh"
+        }
+      ],
+      "tags": [
+        "rejection"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Yet some men of Asher, Manasseh, and of Zebulun humbled themselves, and came to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless divers of Asher and Manasseh and of Zebulun humbled themselves, and came to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Asher",
+          "source": "אָשֵׁר",
+          "language": "Hebrew",
+          "glossary_id": "asher"
+        },
+        {
+          "display": "Zebulun",
+          "source": "זְבֻלוּן",
+          "language": "Hebrew",
+          "glossary_id": "zebulun"
+        }
+      ],
+      "tags": [
+        "return",
+        "humility"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also in Judah the hand of God was to give them one heart to do the commandment of the king and of the princes, by the word of the LORD."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew explicitly attributes unified will to the 'hand of God'."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "divine-action",
+        "unity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And there assembled at Jerusalem a great congregation to keep the feast of unleavened bread in the second month; a very large company.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there assembled at Jerusalem much people to keep the feast of unleavened bread in the second month, a very great congregation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assembly",
+        "festival"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 23:5-6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "And they arose and took away the altars that were in Jerusalem, and all the incense-stand altars they removed and cast into the brook Kidron.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they arose and took away the altars that were in Jerusalem, and all the altars for incense took they away, and cast them into the brook Kidron."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew lists altars and incense altars; disposal into Kidron is literal in source."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Kidron",
+          "source": "קִדְרוֹן",
+          "language": "Hebrew",
+          "glossary_id": "kidron"
+        }
+      ],
+      "tags": [
+        "purge",
+        "ritual-reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "They slaughtered the Passover on the fourteenth day of the second month; and the priests and Levites were ashamed and sanctified themselves, and brought the burnt offerings into the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they killed the passover on the fourteenth day of the second month: and the priests and the Levites were ashamed, and sanctified themselves, and brought in the burnt offerings into the house of the LORD."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew date is explicit: 14th of the second month; priests' shame and sanctification are linked."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "passover",
+        "sanctification"
+      ],
+      "cross_references": [
+        {
+          "reference": "Numbers 9:10-12",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "date-explicit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "They stood in their places according to their ordinance, as Moses the man of God commanded; the priests sprinkled the blood received from the hand of the Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they stood in their place after their manner, according to the law of Moses the man of God: the priests sprinkled the blood, which they received of the hand of the Levites."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Moses",
+          "source": "מֹשֶׁה",
+          "language": "Hebrew",
+          "glossary_id": "moses"
+        }
+      ],
+      "tags": [
+        "ritual-order"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 1-7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "For the multitude of the people had not sanctified themselves; therefore the Levites were over the slaughtering of the Passovers for all who were unclean, to sanctify them unto YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there were many in the congregation that were not sanctified: therefore the Levites had the charge of the killing of the passovers for every one that was not clean, to sanctify them unto the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "mediatorship",
+        "purity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "For a great number of the people, many of Ephraim, Manasseh, Issachar, and Zebulun, had not purified themselves; yet they ate the Passover contrary to the written rule. Hezekiah prayed for them, saying, 'May the good YHWH pardon everyone.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "For a multitude of the people, even many of Ephraim, and Manasseh, Issachar, and Zebulun, had not cleansed themselves, yet did they eat the passover otherwise than it was written. But Hezekiah prayed for them, saying, The good LORD pardon every one"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew states these tribes had not purified themselves yet were admitted; Hezekiah’s intercession follows."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Issachar",
+          "source": "יִשָּׂשכָר",
+          "language": "Hebrew",
+          "glossary_id": "issachar"
+        }
+      ],
+      "tags": [
+        "intercession",
+        "inclusion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "ritual-irregularity"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And every one whose heart was prepared to seek God, YHWH, the God of his fathers, though he were not purified according to the purity of the sanctuary, was pardoned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That prepareth his heart to seek God, the LORD God of his fathers, though he be not cleansed according to the purification of the sanctuary."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew emphasis on 'heart prepared' (lev) as basis for pardon despite ritual impurity."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "heart",
+        "pardon"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "theological-claim"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "And YHWH hearkened to Hezekiah and healed the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD hearkened to Hezekiah, and healed the people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "healing",
+        "divine-response"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "And the children of Israel who were present at Jerusalem kept the feast of unleavened bread seven days with great joy; and the Levites and priests praised YHWH day by day, singing with loud instruments to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel that were present at Jerusalem kept the feast of unleavened bread seven days with great gladness: and the Levites and the priests praised the LORD day by day, singing with loud instruments unto the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "joy",
+        "praise"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Hezekiah spoke comfortably to all the Levites who had good understanding of YHWH; and they ate throughout the feast seven days, offering peace-offerings and making confession to YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah spake comfortably unto all the Levites that taught the good knowledge of the LORD: and they did eat throughout the feast seven days, offering peace offerings, and making confession to the LORD God of their fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "teaching",
+        "confession"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "And the whole assembly counseled to keep seven more days; so they kept seven more days with gladness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the whole assembly took counsel to keep other seven days: and they kept other seven days with gladness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "extension",
+        "joy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "For Hezekiah king of Judah had provided for the congregation a thousand bullocks and seven thousand sheep; and the princes provided for the congregation a thousand bullocks and ten thousand sheep; and a great number of priests were sanctified.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Hezekiah king of Judah did give to the congregation a thousand bullocks and seven thousand sheep; and the princes gave to the congregation a thousand bullocks and ten thousand sheep: and a great number of priests sanctified themselves."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Numbers in Hebrew are explicit; note the combined royal and princely gifts."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "provision",
+        "sacrifice"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "numerical-data"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "And all the congregation of Judah, with the priests and the Levites, and all the congregation who came out of Israel, the sojourners who came from the land of Israel, and those dwelling in Judah, rejoiced.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the congregation of Judah, with the priests and the Levites, and all the congregation that came out of Israel, and the strangers that came out of the land of Israel, and that dwelt in Judah, rejoiced."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "inclusion",
+        "rejoicing"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "So there was great joy in Jerusalem; for since the days of Solomon son of David king of Israel there had been nothing like this in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So there was great joy in Jerusalem: for since the time of Solomon the son of David king of Israel there was not the like in Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Solomon",
+          "source": "שְׁלֹמֹה",
+          "language": "Hebrew",
+          "glossary_id": "solomon"
+        }
+      ],
+      "tags": [
+        "joy",
+        "memory"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 4:20",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "hebrew-restoration"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Then the priests and Levites arose and blessed the people; and their voice was heard, and their prayer went up to YHWH's holy dwelling place, even to heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the priests the Levites arose and blessed the people: and their voice was heard, and their prayer came up to his holy dwelling place, even unto heaven."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew frames the blessing as audible and the prayer as ascending to YHWH's holy place."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "blessing",
+        "prayer"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "hebrew-restoration",
+        "liturgical-language"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name: יהוה rendered uniformly as YHWH. 'Passover' renders Hebrew פֶּסַח (Pesach) as the ritual named in source.",
+    "Hebrew places and tribal names preserved (Beersheba, Dan, Kidron, Ephraim, Manasseh, Zebulun, Asher, Issachar).",
+    "Chapter reflects a delayed Passover (second month) and communal irregularities; prayer and royal initiative are shown as primary corrective acts."
+  ],
+  "safety_note": "Contains religious coercion and ritual failure themes; no sanitization of morally difficult material.",
+  "source_witness_audit_flags": [
+    "date-of-passover-second-month (lit. Hebrew explicit)",
+    "letters-to-northern-tribes (textual scope and reception variants)",
+    "prayer-effect-healing (syntax may reflect theological editorial layer)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

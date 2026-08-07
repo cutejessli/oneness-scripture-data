@@ -1,0 +1,829 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 32,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation of 2 Chronicles 32 aligned to Hebrew witness; preserves Assyrian taunts, YHWH naming, and the Gihon/Millo details. One flagged textual variant at v21 (bracketed form)."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these words and this truth, Sennacherib king of Assyria came and entered Judah, and encamped against the fortified cities and spoke against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "After these things, and the establishment thereof, Sennacherib king of Assyria came, and entered into Judah, and encamped against the fenced cities, and thought to win them for himself."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "history",
+        "war"
+      ],
+      "cross_references": [
+        {
+          "reference": "Isaiah 37",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "When Hezekiah saw that Sennacherib had come, and that his face was set to wage war against Jerusalem,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Hezekiah saw that Sennacherib was come, and that he was purposed to fight against Jerusalem,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "leadership",
+        "threat"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 18:13-19:37",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He took counsel with his princes and his mighty men to stop the springs that were outside the city, and they helped him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He took counsel with his princes and his mighty men to stop the waters of the fountains which were without the city: and they did help him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "springs",
+          "source": "עינון / הַעֲיָנוֹת",
+          "language": "Hebrew",
+          "glossary_id": "springs-aynayim"
+        }
+      ],
+      "tags": [
+        "strategy",
+        "hydrology"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "A great people gathered and stopped every spring and the torrent that flowed through the land, saying, Why should the kings of Assyria come and find abundant water?",
+      "familiar": {
+        "source": "KJV",
+        "text": "So there was gathered much people together, who stopped all the fountains, and the brook that ran through the midst of the land, saying, Why should the kings of Assyria come, and find much water?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "communal-action"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "He strengthened himself and rebuilt all the broken wall, raised it to the towers, and another wall outside; he repaired the Millo in the city of David, and made many weapons and shields.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he strengthened himself, and built up all the wall that was broken, and raised it up to the towers, and another wall without, and repaired Millo in the city of David, and made darts and shields in abundance."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Millo (Hebrew מִלּוֹ) is a fortified terrace or fill in the city of David."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Millo",
+          "source": "מִלּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "millo"
+        }
+      ],
+      "tags": [
+        "fortification",
+        "military"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He appointed captains of war over the people, gathered them in the public square by the city gate, and spoke to their hearts, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set captains of war over the people, and gathered them together to him in the street of the gate of the city, and spake comfortably to them, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "counsel",
+        "mobilization"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Be strong and courageous; do not fear or be dismayed before the king of Assyria nor before all the multitude with him; for there are more with us than with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be strong and courageous, be not afraid nor dismayed for the king of Assyria, nor for all the multitude that is with him: for there be more with us than with him:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "encouragement",
+        "faith"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "With him is an arm of flesh, but with us is YHWH our God to help us and to fight our battles; and the people rested upon the words of Hezekiah king of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "With him is an arm of flesh; but with us is the LORD our God to help us, and to fight our battles. And the people rested themselves upon the words of Hezekiah king of Judah."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Divine name from Hebrew יְהֹוָה rendered YHWH."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "divine-help",
+        "faith"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 20:7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft",
+        "divine-name-standardized"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "After this Sennacherib king of Assyria sent his servants to Jerusalem (while he himself was besieging Lachish with all his power), to Hezekiah king of Judah and to all Judah in Jerusalem, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "After this did Sennacherib king of Assyria send his servants to Jerusalem, (but he himself laid siege against Lachish, and all his power with him,) unto Hezekiah king of Judah, and unto all Judah that were at Jerusalem, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "diplomacy",
+        "siege"
+      ],
+      "cross_references": [
+        {
+          "reference": "Isaiah 36",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Thus says Sennacherib king of Assyria: On what do you trust, that you sit in a siege in Jerusalem?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "propaganda",
+        "challenge"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Does not Hezekiah persuade you to surrender yourselves to die of famine and thirst, saying, YHWH our God will deliver us from the hand of the king of Assyria?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth not Hezekiah persuade you to give over yourselves to die by famine and by thirst, saying, The LORD our God shall deliver us out of the hand of the king of Assyria?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "propaganda",
+        "faith"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Has not this Hezekiah removed his high places and his altars and said to Judah and Jerusalem, 'Before one altar you shall bow down and burn incense'?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "religion",
+        "reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Do you not know what I and my fathers have done to all the peoples of the lands? Could the gods of those peoples deliver their lands from my hand?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "rhetoric",
+        "history"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Which of all the gods of those nations whom my fathers destroyed could save his people from my hand? How then would your God be able to save you from my hand?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "taunt",
+        "comparative-argument"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Now therefore let not Hezekiah deceive you or make you trust in this manner; do not believe him; for no god of any nation or kingdom has been able to deliver his people from my hand and from the hand of my fathers—how much less will your God deliver you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore let not Hezekiah deceive you, nor persuade you on this manner, neither yet believe him: for no god of any nation or kingdom was able to deliver his people out of mine hand, and out of the hand of my fathers: how much less shall your God deliver you out of mine hand?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "propaganda",
+        "challenge"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Moreover, his servants spoke against YHWH the God and against His servant Hezekiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his servants spake yet more against the LORD God, and against his servant Hezekiah."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew frames these as public speeches against deity and king."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "blasphemy",
+        "insult"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He also wrote letters to revile YHWH God of Israel and to speak against Him, saying that as the gods of the nations have not delivered their peoples from my hand, so YHWH will not deliver His people from my hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He wrote also letters to rail on the LORD God of Israel, and to speak against him, saying, As the gods of the nations of other lands have not delivered their people out of mine hand, so shall not the God of Hezekiah deliver his people out of mine hand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "propaganda",
+        "letters"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Then they cried with a loud voice in the Jewish tongue to the people on the wall in Jerusalem, to frighten and terrify them that they might take the city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they cried with a loud voice in the Jews’ speech unto the people of Jerusalem that were on the wall, to affright them, and to trouble them; that they might take the city."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psychological-warfare"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "They spoke against the God of Jerusalem as against the gods of the peoples of the earth, the work of human hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they spake against the God of Jerusalem, as against the gods of the people of the earth, which were the work of the hands of man."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theology",
+        "propaganda"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "For this cause Hezekiah the king and Isaiah the prophet, son of Amoz, prayed and cried to heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And for this cause Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Isaiah son of Amoz",
+          "source": "יְשַׁעְיָהוּ בֶן‑אָמֹץ",
+          "language": "Hebrew",
+          "glossary_id": "isaiah-amos-son"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "prophecy"
+      ],
+      "cross_references": [
+        {
+          "reference": "Isaiah 37:14-20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Then YHWH sent an angel, who cut off every mighty man of valor, commanders and officers in the camp of the king of Assyria; and he returned with shame to his own land. And when he came into the house of his god, those who came forth of his own body slew him there with the sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD sent an angel, which cut off all the mighty men of valour, and the leaders and captains in the camp of the king of Assyria. So he returned with shame of face to his own land. And when he was come into the house of his god, they that came forth of his own bowels slew him there with the sword."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew text has a bracketed reading (ומיציאו / וּמִיצִיאֵי); variant affects phrase about those coming out of his bowels—witness check recommended."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "miracle",
+        "divine-judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 19:35-37",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft",
+        "variant-noted"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Thus YHWH saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib king of Assyria and from the hand of all others, and guided them on every side.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus the LORD saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria, and from the hand of all other, and guided them on every side."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "salvation",
+        "providence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "And many brought gifts to YHWH to Jerusalem and presents to Hezekiah king of Judah; so he was exalted in the sight of all the nations thereafter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And many brought gifts unto the LORD to Jerusalem, and presents to Hezekiah king of Judah: so that he was magnified in the sight of all nations from thenceforth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "tribute",
+        "recognition"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "In those days Hezekiah was sick to death; he prayed to YHWH, and YHWH spoke to him and gave him a sign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In those days Hezekiah was sick to the death, and prayed unto the LORD: and he spake unto him, and he gave him a sign."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "illness",
+        "sign"
+      ],
+      "cross_references": [
+        {
+          "reference": "Isaiah 38",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "But Hezekiah did not repay according to the benefit shown him; for his heart was proud, therefore wrath came upon him and upon Judah and Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Hezekiah rendered not again according to the benefit done unto him; for his heart was lifted up: therefore there was wrath upon him, and upon Judah and Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "pride",
+        "consequence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "But Hezekiah humbled himself for the pride of his heart, he and the inhabitants of Jerusalem, and the wrath of YHWH did not come upon them in the days of Hezekiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the LORD came not upon them in the days of Hezekiah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יְהֹוָה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "repentance",
+        "mercy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "And Hezekiah had great riches and honor; he made for himself treasuries for silver, gold, precious stones, spices, shields, and all manner of desirable vessels,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah had exceeding much riches and honour: and he made himself treasuries for silver, and for gold, and for precious stones, and for spices, and for shields, and for all manner of pleasant jewels;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "wealth",
+        "honor"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Storehouses also for grain, wine, and oil; stalls for all kinds of beasts and folds for flocks.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Storehouses also for the increase of corn, and wine, and oil; and stalls for all manner of beasts, and cotes for flocks."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "provision",
+        "economy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "He acquired cities for himself and very much livestock, sheep and cattle; for God had given him exceedingly much wealth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he provided him cities, and possessions of flocks and herds in abundance: for God had given him substance very much."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": [
+        "blessing",
+        "property"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "This Hezekiah stopped the upper outlet of the waters of Gihon and led them straight down to the west side of the city of David; and Hezekiah prospered in all his works.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This same Hezekiah also stopped the upper watercourse of Gihon, and brought it straight down to the west side of the city of David. And Hezekiah prospered in all his works."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Gihon (Hebrew גיחון) is the spring of Jerusalem; engineering project noted here."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Gihon",
+          "source": "גִיחוֹן",
+          "language": "Hebrew",
+          "glossary_id": "gihon"
+        }
+      ],
+      "tags": [
+        "engineering",
+        "prosperity"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 5:8",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "As for the ambassadors of the princes of Babylon who sent to inquire about the wonder that was done in the land, God left him to try him, to know all that was in his heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit in the business of the ambassadors of the princes of Babylon, who sent unto him to enquire of the wonder that was done in the land, God left him, to try him, that he might know all that was in his heart."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew indicates 'God left him' (testing) — theological nuance requires witness comparison."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "testing",
+        "diplomacy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 20:12-19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft",
+        "theological-note"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "Now the rest of the acts of Hezekiah and his kindnesses—behold, they are written in the vision of Isaiah son of Amoz and in the book of the kings of Judah and Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Hezekiah, and his goodness, behold, they are written in the vision of Isaiah the prophet, the son of Amoz, and in the book of the kings of Judah and Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Isaiah son of Amoz",
+          "source": "יְשַׁעְיָהוּ בֶן‑אָמֹץ",
+          "language": "Hebrew",
+          "glossary_id": "isaiah-amos-son"
+        }
+      ],
+      "tags": [
+        "sources",
+        "records"
+      ],
+      "cross_references": [
+        {
+          "reference": "Isaiah 36-39",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Hezekiah slept with his fathers; they buried him on the ascent of the tombs of the sons of David. And all Judah and the inhabitants of Jerusalem honored him at his death; and Manasseh his son reigned in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "death",
+        "succession"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 20:20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Preserves direct speeches (Assyrian propaganda) and Hebrew place-names (Millo, Gihon) transliterated where source demands.",
+    "Do not harmonize contradictions; keep verse-structure per KJV numbering."
+  ],
+  "safety_note": "Contains preserved ancient violence and propaganda; intended for scholarly use; reader discretion advised.",
+  "source_witness_audit_flags": [
+    "v21 bracketed variant: מיציאו vs מִיצִיאֵי — review critical apparatus",
+    "v31-32 theological note on 'God left him' (testing) may require comparative witness check",
+    "Toponym identification: Gihon (v30) and Millo (v5) need geographic correlation"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

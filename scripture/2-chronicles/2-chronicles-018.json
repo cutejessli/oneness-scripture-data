@@ -1,0 +1,977 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 18,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Chapter 18 recounts Jehoshaphat's alliance with Ahab and the pivotal encounter with the prophet Micaiah, culminating in the battle of Ramoth-gilead where Ahab dies. The text presents a theologically complex narrative: divine sanction of deception through a lying spirit, prophetic integrity under pressure, and the mechanics of divine judgment. Sources align well; the narrative is substantially preserved between Kings 22 and Chronicles 18."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Jehoshaphat accumulated wealth and honor in great abundance, and he allied himself by marriage to Ahab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Jehoshaphat had riches and honour in abundance, and joined affinity with Ahab."
+      },
+      "notes": [
+        {
+          "title": "Alliance by marriage",
+          "body": "חתן (oath-binding kinship through marriage) signals political entanglement, not merely personal connection."
+        }
+      ],
+      "terms": [
+        {
+          "display": "allied himself by marriage",
+          "source": "חתן",
+          "language": "Hebrew",
+          "glossary_id": "hitchaten-marry-alliance"
+        }
+      ],
+      "tags": [
+        "alliance",
+        "wealth",
+        "Ahab"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "After some years he went down to Ahab in Samaria. Ahab slaughtered sheep and cattle for him in abundance, and for the people with him, and urged him to go up with him to Ramoth-gilead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after certain years he went down to Ahab to Samaria. And Ahab killed sheep and oxen for him in abundance, and for the people that he had with him, and persuaded him to go up with him to Ramothgilead."
+      },
+      "notes": [
+        {
+          "title": "Persuasion through abundance",
+          "body": "The killing of animals and lavish feast are methods of political persuasion; Ahab seeks to seduce Jehoshaphat into dangerous alliance."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Ahab",
+        "Samaria",
+        "Ramoth-gilead"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:2–4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Ahab king of Israel said to Jehoshaphat king of Judah, Will you go with me to Ramoth-gilead? And he said to him, I am as you are, and my people as your people; with you we will be in the war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahab king of Israel said unto Jehoshaphat king of Judah, Wilt thou go with me to Ramothgilead? And he answered him, I am as thou art, and my people as thy people; and we will be with thee in the war."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "Ahab",
+        "Jehoshaphat",
+        "Ramoth-gilead"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And Jehoshaphat said to the king of Israel, Inquire now at the word of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat said unto the king of Israel, Enquire, I pray thee, at the word of the LORD to day."
+      },
+      "notes": [
+        {
+          "title": "First appeal to divine word",
+          "body": "Jehoshaphat breaks ranks to demand prophetic consultation, a redemptive impulse within the dangerous alliance."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "inquiry"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:5",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "So the king of Israel gathered the prophets—four hundred men—and said to them, Shall we go to Ramoth-gilead to battle, or shall I forbear? And they said, Go up, and YHWH will give it into the king's hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore the king of Israel gathered together of prophets four hundred men, and said unto them, Shall we go to Ramothgilead to battle, or shall I forbear? And they said, Go up; for God will deliver it into the king’s hand."
+      },
+      "notes": [
+        {
+          "title": "Institutional prophecy",
+          "body": "The 400 prophets represent state-sanctioned religious authority, likely prophets of other deities rather than YHWH-prophets."
+        }
+      ],
+      "terms": [
+        {
+          "display": "forbear",
+          "source": "חדל",
+          "language": "Hebrew",
+          "glossary_id": "chadal-cease-abstain"
+        }
+      ],
+      "tags": [
+        "false-prophecy",
+        "institutional-religion"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And Jehoshaphat said, Is there not here still a prophet of YHWH, that we might inquire of him?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jehoshaphat said, Is there not here a prophet of the LORD besides, that we might enquire of him?"
+      },
+      "notes": [
+        {
+          "title": "Prophetic integrity",
+          "body": "Jehoshaphat's skepticism about institutional prophecy drives him to seek an independent prophet."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "inquiry"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "And the king of Israel said to Jehoshaphat, There is yet one man by whom we might inquire of YHWH, but I hate him, for he never prophesies good to me, but always evil—Micaiah son of Imlah. And Jehoshaphat said, Let not the king speak thus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel said unto Jehoshaphat, There is yet one man, by whom we may enquire of the LORD: but I hate him; for he never prophesied good unto me, but always evil: the same is Micaiah the son of Imla. And Jehoshaphat said, Let not the king say so."
+      },
+      "notes": [
+        {
+          "title": "Prophetic unpopularity",
+          "body": "Ahab's contempt for Micaiah demonstrates how true prophecy antagonizes those in power who seek confirmation rather than truth."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Micaiah",
+          "source": "מִיכָיְהוּ",
+          "language": "Hebrew",
+          "glossary_id": "micaiah-prophet"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "integrity",
+        "Ahab"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:8–9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "So the king of Israel called one of his eunuchs and said, Fetch quickly Micaiah son of Imlah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel called for one of his officers, and said, Fetch quickly Micaiah the son of Imla."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "variant-spelling-micaiah"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Now the king of Israel and Jehoshaphat king of Judah sat each on his throne, clothed in their robes, in an open place at the gate of Samaria; and all the prophets prophesied before them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel and Jehoshaphat king of Judah sat either of them on his throne, clothed in their robes, and they sat in a void place at the entering in of the gate of Samaria; and all the prophets prophesied before them."
+      },
+      "notes": [
+        {
+          "title": "Visual staging",
+          "body": "The throne-sitting and robing establish official authority and expectation. The 'open place' (goren, threshing floor) suggests both exposure and theatricality."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Samaria",
+        "prophecy",
+        "authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:10",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And Zedekiah son of Chenaanah had made himself horns of iron and said, Thus says YHWH: With these you will gore Aram until they are consumed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zedekiah the son of Chenaanah had made him horns of iron, and said, Thus saith the LORD, With these thou shalt push Syria until they be consumed."
+      },
+      "notes": [
+        {
+          "title": "Symbolic prophecy",
+          "body": "Iron horns as symbols of military strength and aggressive conquest; Zedekiah performs the prophecy."
+        }
+      ],
+      "terms": [
+        {
+          "display": "gore",
+          "source": "נגח",
+          "language": "Hebrew",
+          "glossary_id": "nagach-gore-push"
+        }
+      ],
+      "tags": [
+        "false-prophecy",
+        "war"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And all the prophets prophesied thus, saying, Go up to Ramoth-gilead and prosper, and YHWH will give it into the hand of the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the prophets prophesied so, saying, Go up to Ramothgilead, and prosper: for the LORD shall deliver it into the hand of the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "false-prophecy",
+        "Ramoth-gilead"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Now the messenger who had gone to summon Micaiah spoke to him, saying, Behold, the words of the prophets declare good to the king with one mouth; let your word, please, be like one of theirs, and speak good.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the messenger that went to call Micaiah spake to him, saying, Behold, the words of the prophets declare good to the king with one assent; let thy word therefore, I pray thee, be like one of theirs, and speak thou good."
+      },
+      "notes": [
+        {
+          "title": "Prophetic pressure",
+          "body": "The messenger offers Micaiah the invitation to compromise—to align with institutional prophecy and gain favor."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "integrity"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And Micaiah said, As YHWH lives, surely what my God says, that I will speak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Micaiah said, As the LORD liveth, even what my God saith, that will I speak."
+      },
+      "notes": [
+        {
+          "title": "Prophetic oath",
+          "body": "Micaiah's invocation of YHWH's life affirms that his allegiance is to divine word, not royal preference."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "integrity",
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:14",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And when he came to the king, the king said to him, Micaiah, shall we go to Ramoth-gilead to battle, or shall I forbear? And he said, Go up and prosper, and they will be given into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he was come to the king, the king said unto him, Micaiah, shall we go to Ramothgilead to battle, or shall I forbear? And he said, Go ye up, and prosper, and they shall be delivered into your hand."
+      },
+      "notes": [
+        {
+          "title": "Prophetic irony",
+          "body": "Micaiah mirrors the false prophets' words, but the context reveals them as doom, not blessing. The repetition exposes the gap between what is said and what is true."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "irony",
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:15",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And the king said to him, How many times must I adjure you to speak to me only truth in the name of YHWH?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king said to him, How many times shall I adjure thee that thou say nothing but the truth to me in the name of the LORD?"
+      },
+      "notes": [
+        {
+          "title": "Adjuration",
+          "body": "The king's oath-formula demands that Micaiah speak truth, not flattery—a demand that seals the king's own doom."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:16",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Then he said, I saw all Israel scattered on the mountains like sheep without a shepherd; and YHWH said, These have no lord. Let each return to his house in peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he said, I did see all Israel scattered upon the mountains, as sheep that have no shepherd: and the LORD said, These have no master; let them return therefore every man to his house in peace."
+      },
+      "notes": [
+        {
+          "title": "Vision of defeat",
+          "body": "The scattered sheep image reverses expectations of victory. 'No lord' (אדונים) may denote kingship or divine guidance; the absence is total."
+        }
+      ],
+      "terms": [
+        {
+          "display": "scattered",
+          "source": "נפוץ",
+          "language": "Hebrew",
+          "glossary_id": "nefutz-dispersed-scattered"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "vision",
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And the king of Israel said to Jehoshaphat, Did I not tell you that he would not prophesy good to me, but evil?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel said to Jehoshaphat, Did I not tell thee that he would not prophesy good unto me, but evil?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "Ahab",
+        "Micaiah",
+        "prophecy"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:18",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And he said, Therefore hear the word of YHWH: I saw YHWH sitting on his throne, and all the host of heaven standing by his right and by his left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Again he said, Therefore hear the word of the LORD; I saw the LORD sitting upon his throne, and all the host of heaven standing on his right hand and on his left."
+      },
+      "notes": [
+        {
+          "title": "Heavenly throne vision",
+          "body": "Micaiah claims direct visionary access to YHWH's council and throne, establishing his prophecy as originating from the divine assembly."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "vision",
+        "Micaiah"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:19",
+          "relationship": "parallel"
+        },
+        {
+          "reference": "Isaiah 6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And YHWH said, Who will entice Ahab king of Israel, that he may go up and fall at Ramoth-gilead? And one said this thing, and another said that.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said, Who shall entice Ahab king of Israel, that he may go up and fall at Ramothgilead? And one spake saying after this manner, and another saying after that manner."
+      },
+      "notes": [
+        {
+          "title": "Divine deliberation",
+          "body": "YHWH solicits proposals from the heavenly council for how to lure Ahab to his death. The process reveals judgment as relational, not mechanical."
+        }
+      ],
+      "terms": [
+        {
+          "display": "entice",
+          "source": "פתה",
+          "language": "Hebrew",
+          "glossary_id": "fatah-entice-deceive"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "vision",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Then a spirit came forth and stood before YHWH and said, I will entice him. And YHWH said to him, By what means?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there came out a spirit, and stood before the LORD, and said, I will entice him. And the LORD said unto him, Wherewith?"
+      },
+      "notes": [
+        {
+          "title": "The spirit's self-offering",
+          "body": "A spirit from the heavenly council volunteers for the work of deception. YHWH's question seeks specification, not moral justification."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "vision",
+        "lying-spirit"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And he said, I will go out and be a lying spirit in the mouth of all his prophets. And YHWH said, You will entice him, and also prevail. Go out and do this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, I will go out, and be a lying spirit in the mouth of all his prophets. And the Lord said, Thou shalt entice him, and thou shalt also prevail: go out, and do even so."
+      },
+      "notes": [
+        {
+          "title": "Divine authorization of deception",
+          "body": "YHWH explicitly commissions the lying spirit to work through the prophets' mouths. This is not demonic subversion but divine use of spiritual agency for judgment."
+        }
+      ],
+      "terms": [
+        {
+          "display": "lying spirit",
+          "source": "רוּחַ שֶׁקֶר",
+          "language": "Hebrew",
+          "glossary_id": "ruach-sheker-lying-spirit"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "lying-spirit",
+        "deception"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:22",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "So now, behold, YHWH has put a lying spirit in the mouth of these prophets of yours, and YHWH has spoken evil against you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore, behold, the LORD hath put a lying spirit in the mouth of these thy prophets, and the LORD hath spoken evil against thee."
+      },
+      "notes": [
+        {
+          "title": "Interpretation of false prophecy",
+          "body": "Micaiah reveals that the false prophets' words are not mere human error but divinely-permitted deception functioning as judgment against Ahab."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "lying-spirit",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:23",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Then Zedekiah son of Chenaanah came near and struck Micaiah on the cheek and said, Which way did the spirit of YHWH go from me to speak to you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Zedekiah the son of Chenaanah came near, and smote Micaiah upon the cheek, and said, Which way went the Spirit of the LORD from me to speak unto thee?"
+      },
+      "notes": [
+        {
+          "title": "Prophetic conflict",
+          "body": "Zedekiah's physical violence against Micaiah is both defense of false prophecy and implicit acknowledgment that truth threatens his authority."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "Zedekiah",
+        "violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "And Micaiah said, Behold, you will see on that day when you go into an inner chamber to hide yourself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Micaiah said, Behold, thou shalt see on that day when thou shalt go into an inner chamber to hide thyself."
+      },
+      "notes": [
+        {
+          "title": "Prophetic judgment",
+          "body": "Micaiah's response predicts Zedekiah's humiliation—not physical death but the exposure of his false prophecy and his retreat from public view."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "Micaiah",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And the king of Israel said, Take Micaiah and send him back to Amon the governor of the city and to Joash the king's son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king of Israel said, Take ye Micaiah, and carry him back to Amon the governor of the city, and to Joash the king’s son;"
+      },
+      "notes": [
+        {
+          "title": "Micaiah's arrest",
+          "body": "Amon (governor, šar) and Joash (royal prince) form a supervisory apparatus designed to keep the prophet under control."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Micaiah",
+        "imprisonment",
+        "authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "and say, Thus says the king: Put this man in prison and feed him with the bread of affliction and the water of affliction, until I come back in peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And say, Thus saith the king, Put this fellow in the prison, and feed him with bread of affliction and with water of affliction, until I return in peace."
+      },
+      "notes": [
+        {
+          "title": "Prophetic imprisonment",
+          "body": "Minimal rations of bread and water (standard in ancient Near Eastern imprisonment) are explicitly designed as punishment for Micaiah's inconvenient prophecy."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Micaiah",
+        "imprisonment",
+        "punishment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:27",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And Micaiah said, If you return in peace, then YHWH has not spoken by me. And he said, Hear, all you peoples.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Micaiah said, If thou certainly return in peace, then hath not the LORD spoken by me. And he said, Hearken, all ye people."
+      },
+      "notes": [
+        {
+          "title": "Prophetic self-attestation",
+          "body": "Micaiah makes his continued life conditional on his prophecy's truth. He summons public witness ('all peoples,' עמים כלם) to the judgment about to unfold."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "prophecy",
+        "Micaiah",
+        "witness"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:28",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the king of Israel and Jehoshaphat the king of Judah went up to Ramothgilead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "Ramoth-gilead",
+        "battle"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:29",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "And the king of Israel said to Jehoshaphat, I will disguise myself and go into the battle, but you put on your robes. So the king of Israel disguised himself, and they went into the battle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel said unto Jehoshaphat, I will disguise myself, and will go to the battle; but put thou on thy robes. So the king of Israel disguised himself; and they went to the battle."
+      },
+      "notes": [
+        {
+          "title": "Strategic disguise",
+          "body": "Ahab's disguise is both military tactic (to avoid enemy focus) and ironic irony given Micaiah's prophecy. Jehoshaphat, wearing royal garb, becomes the visible target."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "battle",
+        "disguise",
+        "Ahab"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:30",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Now the king of Aram had commanded the captains of the chariots with him, saying, Fight not with small or great, save only with the king of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the king of Syria had commanded the captains of the chariots that were with him, saying, Fight ye not with small or great, save only with the king of Israel."
+      },
+      "notes": [
+        {
+          "title": "Aramean strategy",
+          "body": "Ben-Hadad (named in Kings 22:31) instructs his chariot commanders to focus solely on the king of Israel, reflecting both military logic and recognition of Ahab's centrality."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Aram",
+        "battle",
+        "strategy"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:31",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "And when the chariot captains saw Jehoshaphat, they said, This is the king of Israel. And they turned to fight against him. But Jehoshaphat cried out, and YHWH helped him; and God turned them away from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, It is the king of Israel. Therefore they compassed about him to fight: but Jehoshaphat cried out, and the LORD helped him; and God moved them to depart from him."
+      },
+      "notes": [
+        {
+          "title": "Providential protection",
+          "body": "Jehoshaphat's deliverance from Aramean forces is attributed directly to YHWH's intervention. He cries out, YHWH responds, and God turns the enemy away—a reversal of Ahab's trajectory."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Jehoshaphat",
+        "YHWH-help",
+        "protection"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:32",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "And when the chariot captains saw that it was not the king of Israel, they turned back from pursuing him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it came to pass, that, when the captains of the chariots perceived that it was not the king of Israel, they turned back again from pursuing him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "battle",
+        "Ahab"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:33",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "And a certain man drew his bow at random and struck the king of Israel between the segments and the breastplate. And he said to the charioteer, Turn your hand and carry me out of the camp, for I am wounded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And a certain man drew a bow at a venture, and smote the king of Israel between the joints of the harness: therefore he said to his chariot man, Turn thine hand, that thou mayest carry me out of the host; for I am wounded."
+      },
+      "notes": [
+        {
+          "title": "Ahab's wounding",
+          "body": "The 'random' arrow (לתמו, at his luck/chance) strikes between armor plates—a gap where protection ends. The wound is fatal but slow. Ahab directs his charioteer to remove him from combat."
+        }
+      ],
+      "terms": [
+        {
+          "display": "at random / by chance",
+          "source": "לתמו",
+          "language": "Hebrew",
+          "glossary_id": "letummo-at-random"
+        }
+      ],
+      "tags": [
+        "Ahab",
+        "wound",
+        "death"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:34",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "And the battle mounted that day, and the king of Israel propped himself up in his chariot facing Aram until the evening, and he died at the time the sun was setting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the battle increased that day: howbeit the king of Israel stayed himself up in his chariot against the Syrians until the even: and about the time of the sun going down he died."
+      },
+      "notes": [
+        {
+          "title": "Ahab's death",
+          "body": "Ahab maintains position in the chariot through the long battle, using it as a position to command or hide. He dies at sunset, fulfilling Micaiah's prophecy of his fall at Ramoth-gilead."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "Ahab",
+        "death",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 22:35",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Divine deception narrative (vv. 18–22) is presented directly without harmonization; the lying spirit operates within YHWH's sovereign purposes.",
+    "Micaiah's name appears in variant form in v. 8 (likely scribal variation; both reference the same figure).",
+    "The Aramean king remains unnamed in Chronicles (contrast with 1 Kings 22)."
+  ],
+  "safety_note": "Chapter contains royal political manipulation, false prophecy sanctioned by divine decree, violent conflict, and the death of a king in battle. Does not sanitize moral complexity.",
+  "source_witness_audit_flags": [
+    "Variant spelling of Micaiah in v. 8; compare textual witnesses.",
+    "Verse 33 contains emended text (ידיך vs. יָדְךָ); preserved as likely scribal variant."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

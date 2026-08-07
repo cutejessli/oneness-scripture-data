@@ -1,0 +1,568 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 36,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft translation closely follows the supplied Hebrew chapter. Divine name יהוה rendered as YHWH throughout; textual variants and parashah markers noted for witness review. Preserves violent and difficult material without harmonization."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then the people of the land took Jehoahaz son of Josiah, and made him king in his father’s place in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father’s stead in Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jehoahaz",
+          "source": "יְהוֹאָחָז",
+          "language": "Hebrew",
+          "glossary_id": "jehoahaz"
+        }
+      ],
+      "tags": [
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "translation-choice:YHWH-absent"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jehoahaz was twenty and three years old when he began to reign, and he reigned three months in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And the king of Egypt deposed him at Jerusalem, and fined the land a hundred talents of silver and a talent of gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Egypt put him down at Jerusalem, and condemned the land in an hundred talents of silver and a talent of gold."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "talent",
+          "source": "כִּכָּר",
+          "language": "Hebrew",
+          "glossary_id": "talent-kikkar"
+        }
+      ],
+      "tags": [
+        "foreign-intervention",
+        "tribute"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim; and he took Jehoahaz his brother away and brought him to Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Egypt made Eliakim his brother king over Judah and Jerusalem, and turned his name to Jehoiakim. And Necho took Jehoahaz his brother, and carried him to Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Eliakim → Jehoiakim",
+          "source": "אֶלְיָקִים / יְהוֹיָקִים",
+          "language": "Hebrew",
+          "glossary_id": "eliakim-jehoiakim-name-change"
+        }
+      ],
+      "tags": [
+        "name-change",
+        "foreign-control"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "parashah-break-after"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem; and he did evil in the sight of YHWH his God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jehoiakim was twenty and five years old when he began to reign, and he reigned eleven years in Jerusalem: and he did that which was evil in the sight of the LORD his God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "evil",
+        "divine-judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters to carry him to Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Against him came up Nebuchadnezzar king of Babylon, and bound him in fetters, to carry him to Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Nebuchadnezzar",
+          "source": "נְבוּכַדְנֶאצַּר",
+          "language": "Hebrew",
+          "glossary_id": "nebuchadnezzar"
+        }
+      ],
+      "tags": [
+        "invasion",
+        "captivity"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Nebuchadnezzar also carried of the vessels of the house of YHWH to Babylon, and put them in his temple at Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nebuchadnezzar also carried of the vessels of the house of the LORD to Babylon, and put them in his temple at Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "vessels of the house",
+          "source": "כְּלֵי־בֵּית",
+          "language": "Hebrew",
+          "glossary_id": "temple-vessels"
+        }
+      ],
+      "tags": [
+        "temple",
+        "expropriation"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah; and Jehoiachin his son reigned in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Jehoiakim, and his abominations which he did, and that which was found in him, behold, they are written in the book of the kings of Israel and Judah: and Jehoiachin his son reigned in his stead."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Paratextual record referred to (book of kings) — source signals further documentation."
+        }
+      ],
+      "terms": [
+        {
+          "display": "book of the kings",
+          "source": "סֵפֶר מַלְכֵי",
+          "language": "Hebrew",
+          "glossary_id": "book-of-kings-reference"
+        }
+      ],
+      "tags": [
+        "archival-note"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings / 2 Kings",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "parashah-break"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem; and he did evil in the sight of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jehoiachin was eight years old when he began to reign, and he reigned three months and ten days in Jerusalem: and he did that which was evil in the sight of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "child-king"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of YHWH; and made Zedekiah his brother king over Judah and Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the year was expired, king Nebuchadnezzar sent, and brought him to Babylon, with the goodly vessels of the house of the LORD, and made Zedekiah his brother king over Judah and Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "goodly vessels",
+          "source": "כְּלֵי חֶמְדַּת",
+          "language": "Hebrew",
+          "glossary_id": "goodly-vessels"
+        }
+      ],
+      "tags": [
+        "exile",
+        "regime-change"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Zedekiah was one and twenty years old when he began to reign, and he reigned eleven years in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Zedekiah was one and twenty years old when he began to reign, and reigned eleven years in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And he did evil in the sight of YHWH his God; he did not humble himself before Jeremiah the prophet, who spoke from the mouth of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was evil in the sight of the LORD his God, and humbled not himself before Jeremiah the prophet speaking from the mouth of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jeremiah",
+          "source": "יִרְמְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "jeremiah"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "stiff-necked"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God; but he stiffened his neck, and hardened his heart from turning unto YHWH the God of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he also rebelled against king Nebuchadnezzar, who had made him swear by God: but he stiffened his neck, and hardened his heart from turning unto the LORD God of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "oath",
+        "rebellion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Moreover all the chiefs of the priests and the people transgressed greatly after all the abominations of the nations, and polluted the house of YHWH which he had hallowed in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the LORD which he had hallowed in Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew witnesses show an alternate small-word reading in the phrase for 'transgressed' (see source_witness_audit_flags)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "transgressed",
+          "source": "לְמַעֲל־ / לִמְעׇל",
+          "language": "Hebrew",
+          "glossary_id": "transgress-variant"
+        }
+      ],
+      "tags": [
+        "priests",
+        "defilement"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "source-variant",
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And YHWH the God of their fathers sent to them by his messengers, rising up early and sending; because he had compassion on his people and on his dwelling place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD God of their fathers sent to them by his messengers, rising up betimes, and sending; because he had compassion on his people, and on his dwelling place:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine-mercy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of YHWH arose against his people, until there was no remedy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the LORD arose against his people, till there was no remedy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "prophetic-rejection",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Therefore he brought upon them the king of the Chaldeans (Kasdim), who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man or him that stooped for age: he gave them all into his hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore he brought upon them the king of the Chaldees, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew shows variant spellings for the ethnonym (כשדיים / כַשְׂדִּים); both witnesses recorded."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Kasdim / Chaldeans",
+          "source": "כַּשְׂדִּים / כשדיים",
+          "language": "Hebrew",
+          "glossary_id": "kasdim-chaldeans"
+        }
+      ],
+      "tags": [
+        "violence",
+        "invasion"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "source-variant"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "And all the vessels of the house of God, great and small, and the treasures of the house of YHWH, and the treasures of the king and of his princes, all these he brought to Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the vessels of the house of God, great and small, and the treasures of the house of the LORD, and the treasures of the king, and of his princes; all these he brought to Babylon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "plunder",
+        "treasure"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "And they burned the house of God, broke down the wall of Jerusalem, burned all its palaces with fire, and destroyed all its goodly vessels.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "destruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And those who escaped from the sword he carried away to Babylon; and they were servants to him and to his sons until the reign of the kingdom of Persia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "exile",
+        "servitude"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "To fulfil the word of YHWH by the mouth of Jeremiah, until the land had enjoyed her sabbaths; for as long as she lay desolate she kept sabbath, to fulfil seventy years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To fulfil the word of the LORD by the mouth of Jeremiah, until the land had enjoyed her sabbaths: for as long as she lay desolate she kept sabbath, to fulfil threescore and ten years."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Seventy years (שִׁבְעִים שָׁנָה) is an interpretive chronological statement tied to the land’s sabbaths; dating tradition to be audited."
+        }
+      ],
+      "terms": [
+        {
+          "display": "sabbaths",
+          "source": "שַׁבְּתוֹתֶיהָ",
+          "language": "Hebrew",
+          "glossary_id": "land-sabbaths"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "sabbatical"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah 25:11-12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Now in the first year of Cyrus king of Persia, that the word of YHWH spoken by the mouth of Jeremiah might be accomplished, YHWH stirred up the spirit of Cyrus king of Persia, and he made a proclamation through all his kingdom and also put it in writing, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now in the first year of Cyrus king of Persia, that the word of the LORD spoken by the mouth of Jeremiah might be accomplished, the LORD stirred up the spirit of Cyrus king of Persia, that he made a proclamation throughout all his kingdom, and put it also in writing, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Cyrus",
+          "source": "כּוֹרֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "cyrus"
+        }
+      ],
+      "tags": [
+        "divine-action",
+        "proclamation"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Thus says Cyrus king of Persia: 'All the kingdoms of the earth YHWH the God of heaven has given me; and he has charged me to build him a house in Jerusalem, which is in Judah. Who is there among you of all his people? YHWH his God be with him, and let him go up.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the LORD God of heaven given me; and he hath charged me to build him an house in Jerusalem, which is in Judah. Who is there among you of all his people? The LORD his God be with him, and let him go up."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH the God of heaven",
+          "source": "יְהֹוָה אֱלֹהֵי הַשָּׁמַיִם",
+          "language": "Hebrew",
+          "glossary_id": "yhwh-god-of-heaven"
+        }
+      ],
+      "tags": [
+        "decree",
+        "return"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ezra 1:2-4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "rendered-YHWH"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered divine name as YHWH wherever Hebrew has יהוה. Kept KJV verse numbering exactly while using the supplied Hebrew wording as primary base.",
+    "Preserved bracketed and alternate Hebrew readings (noted below) and retained the documentary signals (parashah marks) when they affect verse boundaries or emphasis."
+  ],
+  "safety_note": "This chapter contains descriptions of violence, exile, and destruction retained from the source; use for study and historical-critical work only.",
+  "source_witness_audit_flags": [
+    "v14_textual-variant_limmol_vs_limmal (למעול / [לִמְעׇל־])",
+    "v17_term-variant_kasdim/chasdim (כשדיים / כַשְׂדִּים)",
+    "v21_sabbaths-counting-seventy-years (interpretive dating of שַׁבְּתוֹתֶיהָ)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

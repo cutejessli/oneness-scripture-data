@@ -1,0 +1,292 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 27,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "2 Chronicles 27: Jotham's reign (16 years). Abbreviated parallel to 2 Kings 15:32-38 (not in 2 Chronicles counterpart structure). Emphasizes building, military success, and sustained moral uprightness without temple entry. Closure narrative precedes Ahaz's dramatic failure. Source-text is stable; Hebrew witnesses consistent."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Jotham was twenty and five years old when he became king, and he reigned sixteen years in Jerusalem. His mother's name was Jerushah, daughter of Zadok.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jotham was twenty and five years old when he began to reign, and he reigned sixteen years in Jerusalem. His mother’s name also was Jerushah, the daughter of Zadok."
+      },
+      "notes": [
+        {
+          "title": "Age formula",
+          "body": "Parallel to 2 Kings 15:33; source repeats age/reign span in v. 8."
+        }
+      ],
+      "terms": [
+        {
+          "display": "became king",
+          "source": "בְמׇלְכוֹ",
+          "language": "Hebrew",
+          "glossary_id": "reign-begin"
+        }
+      ],
+      "tags": [
+        "succession",
+        "reign-duration"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 15:33",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He did what was right before YHWH, according to all that his father Uzziah did; except he did not enter the temple of YHWH. And the people were still acting corruptly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was right in the sight of the LORD, according to all that his father Uzziah did: howbeit he entered not into the temple of the LORD. And the people did yet corruptly."
+      },
+      "notes": [
+        {
+          "title": "Temple exclusion",
+          "body": "Crucial distinction: unlike Uzziah (2 Chr 26:16–18), Jotham maintains proper boundaries. His avoidance is restraint, not judgment."
+        }
+      ],
+      "terms": [
+        {
+          "display": "did the right",
+          "source": "עָשָׂה הַיָּשָׁר",
+          "language": "Hebrew",
+          "glossary_id": "righteousness-deed"
+        }
+      ],
+      "tags": [
+        "morality",
+        "temple-boundary",
+        "corruption"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 26:16-21",
+          "relationship": "contrast"
+        },
+        {
+          "reference": "2 Kings 15:34",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He built the upper gate of the house of YHWH, and on the wall of Ophel he built extensively.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He built the high gate of the house of the LORD, and on the wall of Ophel he built much."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "upper gate",
+          "source": "שַׁעַר בֵּית־יְהֹוָה הָעֶלְיוֹן",
+          "language": "Hebrew",
+          "glossary_id": "upper-gate-temple"
+        }
+      ],
+      "tags": [
+        "building",
+        "temple-precinct"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 15:35",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Moreover he built cities in the mountains of Judah, and in the forests he built fortified residences and towers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he built cities in the mountains of Judah, and in the forests he built castles and towers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "fortification",
+        "territorial-development"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 15:35b",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "He also fought against the king of the Ammonites and grew mighty over them. The Ammonites gave him in that year one hundred talents of silver, ten thousand measures of wheat, and ten thousand measures of barley. The Ammonites paid him the same tribute in the second year and the third.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third."
+      },
+      "notes": [
+        {
+          "title": "Tribute sequence",
+          "body": "Ammonite payments continue; 'second year and third' likely indicates sustained payment pattern, not a single triennium."
+        }
+      ],
+      "terms": [
+        {
+          "display": "prevailed",
+          "source": "וַיֶּחֱזַק עֲלֵיהֶם",
+          "language": "Hebrew",
+          "glossary_id": "strength-victory"
+        }
+      ],
+      "tags": [
+        "military",
+        "tribute",
+        "foreign-relations"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 15:37b",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "cross-check-ammonite-chronology"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "So Jotham became mighty, because he established his ways before YHWH his God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Jotham became mighty, because he prepared his ways before the LORD his God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prepared his ways",
+          "source": "הֵכִין דְּרָכָיו",
+          "language": "Hebrew",
+          "glossary_id": "prepare-paths"
+        }
+      ],
+      "tags": [
+        "divine-favor",
+        "spiritual-foundation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Now the rest of the acts of Jotham, and all his wars, and his ways, look, they are written in the book of the kings of Israel and Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Jotham, and all his wars, and his ways, lo, they are written in the book of the kings of Israel and Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "archive-formula"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 15:36",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He was twenty and five years old when he became king, and he reigned sixteen years in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He was five and twenty years old when he began to reign, and reigned sixteen years in Jerusalem."
+      },
+      "notes": [
+        {
+          "title": "Repetition",
+          "body": "Source repeats v. 1 data (age, reign length); common in royal chronicles to bracket the narrative with confirming formula."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "reign-formula"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 27:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "And Jotham lay down with his fathers, and they buried him in the city of David. And Ahaz his son reigned in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead."
+      },
+      "notes": [
+        {
+          "title": "Succession notice",
+          "body": "Ahaz's reign (ch. 28) marks sharp moral inversion: idolatry, temple violation, child sacrifice."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "death",
+        "burial",
+        "succession"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 28:1-27",
+          "relationship": "contrast"
+        },
+        {
+          "reference": "2 Kings 15:38",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Verse 2: 'did the right' (הַיָּשָׁר) preserves stronger sense than 'did that which was right'; parallels his father's reign but marks critical distinction: no temple access despite public sanctity.",
+    "Verse 5: Ammonite tribute appears in two sequential years; Hebrew construction '(בַּשָּׁנָה הַשְׁנִית וְהַשְּׁלִשִׁית)' suggests first occurrence + repeat pattern rather than three years total.",
+    "Verse 6: 'prepared his ways' (הֵכִין דְּרָכָיו) is active moral-spiritual commitment language, not passive virtue."
+  ],
+  "safety_note": "",
+  "source_witness_audit_flags": [
+    "Verse 5: Tribute sequence grammar ('second year and the third')—verify against 2 Kings 15:37b and Ammonite historical context if available."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

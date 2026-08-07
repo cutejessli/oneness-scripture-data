@@ -1,0 +1,407 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-rooted English rendering of 2 Chronicles 15. Preserves Hebrew ambiguities (e.g., אֱלֹהֵי אֱמֶת), the severe covenant penalty, Azariah/Oded attribution, and cultic details (Maachah/Asherah). Divine name rendered as YHWH throughout. Pending witness-checks noted."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The Spirit of God came upon Azariah son of Oded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Spirit of God came upon Azariah the son of Oded:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Azariah son of Oded",
+          "source": "עזריהו בן-עודד",
+          "language": "Hebrew",
+          "glossary_id": "azariah-ben-oded"
+        },
+        {
+          "display": "Spirit of God",
+          "source": "רוּחַ אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "ruach-elohim"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "call"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "proper-name-spelling-confirm"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He went out to meet Asa and said to him, 'Hear me, Asa, and all Judah and Benjamin: YHWH is with you while you are with him; if you seek him he will be found by you, but if you forsake him he will forsake you.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The LORD is with you, while ye be with him; and if ye seek him, he will be found of you; but if ye forsake him, he will forsake you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "exhortation",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chr 14:11",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "divine-name-rendered-YHWH"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "For long days Israel has been without a God of truth, without a teaching priest, and without law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now for a long season Israel hath been without the true God, and without a teaching priest, and without law."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "אֱלֹהֵי אֱמֶת literal 'God of truth' — could mean 'true God' or 'a God of truth'; כֹהֵן מוֹרֶה likely 'teaching priest' (cf. Hebrew idiom)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "God of truth",
+          "source": "אֱלֹהֵי אֱמֶת",
+          "language": "Hebrew",
+          "glossary_id": "elohim-of-emet"
+        },
+        {
+          "display": "teaching priest",
+          "source": "כֹהֵן מוֹרֶה",
+          "language": "Hebrew",
+          "glossary_id": "kohen-moreh"
+        }
+      ],
+      "tags": [
+        "religious-state",
+        "absence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "interpretive-ambiguity-flag"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "When they in their distress turned to YHWH God of Israel and sought him, he was found by them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when they in their trouble did turn unto the LORD God of Israel, and sought him, he was found of them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "In those times there was no peace for the one who went out nor for the one who came in; great commotions were upon all the inhabitants of the lands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in those times there was no peace to him that went out, nor to him that came in, but great vexations were upon all the inhabitants of the countries."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "disorder"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Nation pressed against nation and city against city, for God brought them to bewilderment in every distress.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And nation was destroyed of nation, and city of city: for God did vex them with all adversity."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "conflict"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Be strong therefore, and let not your hands be weak; for there is a reward for your labor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be ye strong therefore, and let not your hands be weak: for your work shall be rewarded."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "encouragement"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "When Asa heard these words and the prophecy of Oded the prophet, he took courage; he removed the abominations from all the land of Judah and Benjamin, from the towns he had taken from Mount Ephraim, and he renewed the altar of YHWH that was before the porch of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Asa heard these words, and the prophecy of Oded the prophet, he took courage, and put away the abominable idols out of all the land of Judah and Benjamin, and out of the cities which he had taken from mount Ephraim, and renewed the altar of the LORD, that was before the porch of the LORD."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "reform",
+        "prophecy"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chr 14:2-5",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "prophecy-attribution-note"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "He gathered all Judah and Benjamin and the sojourners with them from Ephraim and Manasseh and from Simeon; for many of Israel had fallen to him when they saw that YHWH his God was with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the LORD his God was with him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "gathering",
+        "inclusion"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They assembled at Jerusalem in the third month, in the fifteenth year of Asa's reign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "On that day they offered to YHWH from the spoil they had brought: seven hundred oxen and seven thousand sheep.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they offered unto the LORD the same time, of the spoil which they had brought, seven hundred oxen and seven thousand sheep."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice",
+        "offerings"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They entered into a covenant to seek YHWH God of their fathers with all their heart and with all their soul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they entered into a covenant to seek the LORD God of their fathers with all their heart and with all their soul;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "devotion"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And whoever would not seek YHWH God of Israel was to be put to death — from the least to the greatest, man and woman.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That whosoever would not seek the LORD God of Israel should be put to death, whether small or great, whether man or woman."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Communal death-penalty clause preserved as in the Hebrew text; legal and ethical implications flagged for witness review."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "sanction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "legal-formula-preserved"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "They swore to YHWH with a loud voice, with shouting, with trumpets and with shofars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they sware unto the LORD with a loud voice, and with shouting, and with trumpets, and with cornets."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ritual",
+        "oath"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "All Judah rejoiced at the oath; for they had sworn with all their heart and sought him with their whole desire; and he was found by them; and YHWH gave them rest round about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the LORD gave them rest round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "joy",
+        "rest"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "As for Maachah, mother of King Asa, he removed her from being queen because she had made an Asherah; Asa cut down her Asherah, crushed it, and burned it at the brook Kidron.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And also concerning Maachah the mother of Asa the king, he removed her from being queen, because she had made an idol in a grove: and Asa cut down her idol, and stamped it, and burnt it at the brook Kidron."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Maachah",
+          "source": "מַעֲכָה",
+          "language": "Hebrew",
+          "glossary_id": "maachah"
+        },
+        {
+          "display": "Asherah",
+          "source": "אֲשֵׁרָה",
+          "language": "Hebrew",
+          "glossary_id": "asherah"
+        }
+      ],
+      "tags": [
+        "cult-reform",
+        "family"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But the high places were not taken away from Israel; yet the heart of Asa was whole all his days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the high places were not taken away out of Israel: nevertheless the heart of Asa was perfect all his days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "limitation",
+        "character"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He brought into the house of God the sacred things of his father and of his own dedication — silver, gold, and vessels.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought into the house of God the things that his father had dedicated, and that he himself had dedicated, silver, and gold, and vessels."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "dedication",
+        "treasury"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "There was no more war until the thirty-fifth year of Asa's reign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was no more war unto the five and thirtieth year of the reign of Asa."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "peace",
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered consistently as YHWH.",
+    "אֱלֹהֵי אֱמֶת (Heb.) rendered literally as 'God of truth' / 'a God of truth' — ambiguous in Hebrew and flagged.",
+    "Prophetic attribution preserves Azariah son of Oded while also preserving the text saying 'the prophecy of Oded' (witness flag)."
+  ],
+  "safety_note": "Contains preserved ancient sanctions and violent language (oath with death-penalty, cult destruction). Presented for scholarly use, not endorsement.",
+  "source_witness_audit_flags": [
+    "Azariah-son-of-Oded—name/attribution-variant",
+    "אֱלֹהֵי-אֱמֶת—interpretive-ambiguity",
+    "oath-death-penalty—legal-formula-witness"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

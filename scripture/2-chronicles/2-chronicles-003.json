@@ -1,0 +1,477 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft literal, source-sensitive rendering of 2 Chronicles 3 (Hebrew). Preserves YHWH, Hebrew measure-terms, Parvaim, pillar names and architectural detail; minor places flagged for witness review (weights/terms, glossing of Parvaim)."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Then Solomon began to build the house of YHWH in Jerusalem on Mount Moriah, where YHWH had been shown to David his father, in the place that David had prepared on the threshing-floor of Ornan the Jebusite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Solomon began to build the house of the LORD at Jerusalem in mount Moriah, where the Lord appeared unto David his father, in the place that David had prepared in the threshingfloor of Ornan the Jebusite."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew phrase נֶרְאָה לְדָוִיד literally 'was shown to David' preserves ambiguous agency (YHWH shown to David / appeared)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Mount Moriah",
+          "source": "הַמּוֹרִיָּה",
+          "language": "Hebrew",
+          "glossary_id": "mount-moriah"
+        },
+        {
+          "display": "Ornan ( threshing-floor )",
+          "source": "אֹרְנָן",
+          "language": "Hebrew",
+          "glossary_id": "ornan-threshing-floor"
+        }
+      ],
+      "tags": [
+        "foundation",
+        "divine-appearance"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 21:28–22:1",
+          "relationship": "parallel|theme"
+        }
+      ],
+      "editorial_flags": [
+        "literal",
+        "preserve-divine-name"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He began to build in the second month, on the second day of the fourth year of his reign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he began to build in the second day of the second month, in the fourth year of his reign."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew places month/day order; rendered into idiomatic English while keeping numerals."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Now these are the foundations according to which Solomon built the house of God: the length by cubits after the first measure was sixty cubits, and the breadth twenty cubits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these are the things wherein Solomon was instructed for the building of the house of God. The length by cubits after the first measure was threescore cubits, and the breadth twenty cubits."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew 'amot' rendered as 'cubits' (see chapter-level note)."
+        }
+      ],
+      "terms": [
+        {
+          "display": "amat / cubit",
+          "source": "אֲמָה",
+          "language": "Hebrew",
+          "glossary_id": "cubit-amah"
+        }
+      ],
+      "tags": [
+        "measurements",
+        "architecture"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And the porch that was before the house, its length corresponded to the house's breadth—twenty cubits—and its height a hundred and twenty cubits; and he overlaid it within with pure gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the porch that was in the front of the house, the length of it was according to the breadth of the house, twenty cubits, and the height was an hundred and twenty: and he overlaid it within with pure gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "porch",
+        "gold-overlay"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And the great house he ceiled with cedar—he overlaid it with fine gold and set palm‑trees and chains upon it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the greater house he cieled with fir tree, which he overlaid with fine gold, and set thereon palm trees and chains."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "cedar",
+          "source": "בְּרוֹשִׁים",
+          "language": "Hebrew",
+          "glossary_id": "cedar"
+        }
+      ],
+      "tags": [
+        "cedar",
+        "decoration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And he adorned the house with precious stones for beauty; and the gold was gold of Parvaim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he garnished the house with precious stones for beauty: and the gold was gold of Parvaim."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Parvaim (פַּרְוָיִם) transliterated pending lexical/witness resolution; may indicate a region or class of gold."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Parvaim",
+          "source": "פַּרְוָיִם",
+          "language": "Hebrew",
+          "glossary_id": "parvaim"
+        }
+      ],
+      "tags": [
+        "materials",
+        "ornament"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He overlaid the house, the beams, the posts, its walls and its doors with gold, and carved cherubim on the walls.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He overlaid also the house, the beams, the posts, and the walls thereof, and the doors thereof, with gold; and graved cherubims on the walls."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "carving",
+        "gilding"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "He made the Holy of Holies: its length, by the house's breadth, twenty cubits; its breadth twenty cubits; and he overlaid it with fine gold—six hundred talents in weight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he made the most holy house, the length whereof was according to the breadth of the house, twenty cubits, and the breadth thereof twenty cubits: and he overlaid it with fine gold, amounting to six hundred talents."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew \"כְּדֵי־כִּכָּרִים שֵׁשׁ מֵאוֹת\" rendered 'six hundred talents'—weight term 'kikkar' kept as 'talent'."
+        }
+      ],
+      "terms": [
+        {
+          "display": "talent (kikkar)",
+          "source": "כִּכָּר",
+          "language": "Hebrew",
+          "glossary_id": "talent-kikkar"
+        }
+      ],
+      "tags": [
+        "Holy-of-Holies",
+        "weight"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "measurement-note"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "The weight of the nails was fifty shekels of gold; and he overlaid the upper chambers with gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the weight of the nails was fifty shekels of gold. And he overlaid the upper chambers with gold."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Shekel weight given for nails; preserves Hebrew numeric detail."
+        }
+      ],
+      "terms": [
+        {
+          "display": "shekel",
+          "source": "שֶׁקֶל",
+          "language": "Hebrew",
+          "glossary_id": "shekel"
+        }
+      ],
+      "tags": [
+        "weights",
+        "finishing"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "In the Holy of Holies he made two cherubim of workmanship; he overlaid them with gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the most holy house he made two cherubims of image work, and overlaid them with gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "cherubim",
+        "iconic"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 6:23–28",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "The wings of the cherubim were twenty cubits long: one wing of the one cherub reached five cubits to the wall of the house, and the other wing reached five cubits to the wing of the other cherub.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the wings of the cherubims were twenty cubits long: one wing of the one cherub was five cubits, reaching to the wall of the house: and the other wing was likewise five cubits, reaching to the wing of the other cherub."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "measurements",
+        "cherubim"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "One wing of the other cherub reached five cubits to the house wall, and the other wing reached five cubits to join the wing of the other cherub.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And one wing of the other cherub was five cubits, reaching to the wall of the house: and the other wing was five cubits also, joining to the wing of the other cherub."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "symmetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "The wings of these cherubim spread twenty cubits; they stood on their feet, their faces toward the house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces were inward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "orientation",
+        "guardians"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "And he made the veil of blue and purple and crimson and fine linen, and wrought cherubim thereon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he made the vail of blue, and purple, and crimson, and fine linen, and wrought cherubims thereon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "tekhelet (blue)",
+          "source": "תְּכֵלֶת",
+          "language": "Hebrew",
+          "glossary_id": "tekhelet"
+        }
+      ],
+      "tags": [
+        "veil",
+        "textiles"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Also he made before the house two pillars, thirty and five cubits high; and the capitals that were on the top of them were five cubits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he made before the house two pillars of thirty and five cubits high, and the chapiter that was on the top of each of them was five cubits."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "pillar (amud)",
+          "source": "עַמּוּד",
+          "language": "Hebrew",
+          "glossary_id": "pillar-amud"
+        }
+      ],
+      "tags": [
+        "pillars",
+        "entrance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "He made chains for the entryway and put them on the capitals of the pillars; and he made a hundred pomegranates and put them on the chains.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he made chains, as in the oracle, and put them on the heads of the pillars; and made an hundred pomegranates, and put them on the chains."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "pomegranates",
+          "source": "רִמּוֹנִים",
+          "language": "Hebrew",
+          "glossary_id": "pomegranates-rimmonim"
+        }
+      ],
+      "tags": [
+        "ornament",
+        "entry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "literal"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He set up the pillars before the temple—one on the right hand and the other on the left; and he called the name of the one on the right Jachin, and the name of the one on the left Boaz.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he reared up the pillars before the temple, one on the right hand, and the other on the left; and called the name of that on the right hand Jachin, and the name of that on the left Boaz."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew names יָכִין (Yakin/Jachin) and בֹּעַז (Boaz) preserved in transliteration."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Jachin",
+          "source": "יָכִין",
+          "language": "Hebrew",
+          "glossary_id": "jachin"
+        },
+        {
+          "display": "Boaz",
+          "source": "בֹּעַז",
+          "language": "Hebrew",
+          "glossary_id": "boaz-pillar"
+        }
+      ],
+      "tags": [
+        "pillars",
+        "naming"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 7:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "literal",
+        "preserve-names"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout. Measurements follow the Hebrew 'amot' (translated here as cubits) and preserved numerals. 'Parvaim' left transliterated pending lexical witness. Maintain morphological ambiguities (e.g., \"which was seen to David\").",
+    "This chapter is primarily descriptive (architectural inventory); preserve Hebraic word order where it clarifies agency or emphasis (e.g., \"the house the great he ceiled\")."
+  ],
+  "safety_note": "",
+  "source_witness_audit_flags": [
+    "rendering-of-יהוה-as-YHWH-verified",
+    "measurement-equivalence-amot->cubits-needs-witness",
+    "Parvaim-identification-locative-lexeme-review",
+    "pillar-names-textual-orthography"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

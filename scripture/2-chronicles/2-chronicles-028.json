@@ -1,0 +1,714 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 28,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft follows the Hebrew closely, renders the divine name as YHWH, preserves difficult passages (child-burning, large casualty figures, political payments to Assyria). Requires witness review for numeric and titular anomalies and for ambiguous verbs."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem; and he did not do what was right before YHWH, like David his father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ahaz was twenty years old when he began to reign, and he reigned sixteen years in Jerusalem: but he did not that which was right in the sight of the LORD, like David his father:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "kingship",
+        "divine-judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 16:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He walked in the ways of the kings of Israel, and he made molten images for the Baalim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he walked in the ways of the kings of Israel, and made also molten images for Baalim."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "idolatry",
+        "assimilation"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 16:3",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Moreover he burned incense in the Gei ben-Hinnom, and he burned his sons in the fire, according to the abominations of the peoples whom YHWH had cast out before the children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he burnt incense in the valley of the son of Hinnom, and burnt his children in the fire, after the abominations of the heathen whom the LORD had cast out before the children of Israel."
+      },
+      "notes": [
+        {
+          "title": "textual-ambiguity",
+          "body": "Hebrew וַיַּבְעֵר אֶת־בָּנָיו is literal 'he burned his sons'; this may indicate child sacrifice or other ritual/violent burning. Preserved without harmonization."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Gei ben-Hinnom",
+          "source": "גֵיא בֶן־הִנֹּם",
+          "language": "Hebrew",
+          "glossary_id": "gei-ben-hinnom"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "child-sacrifice",
+        "idolatry",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "Jeremiah 7:31",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft",
+        "contains-violence",
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "He sacrificed and burned incense on the high places, on the hills, and under every green tree.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He sacrificed also and burnt incense in the high places, and on the hills, and under every green tree."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "high-places",
+        "syncretism"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Therefore YHWH his God gave him into the hand of the king of Aram; they struck him and carried away a great multitude captive and brought them to Damascus; and he was also given into the hand of the king of Israel, who struck him with a great slaughter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the LORD his God delivered him into the hand of the king of Syria; and they smote him, and carried away a great multitude of them captives, and brought them to Damascus. And he was also delivered into the hand of the king of Israel, who smote him with a great slaughter."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "divine-judgment",
+        "captivity"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 16:5-6",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "For Pekah son of Remaliah slew in Judah one hundred twenty thousand in one day — all were valiant men — because they had forsaken YHWH, the God of their fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Pekah the son of Remaliah slew in Judah an hundred and twenty thousand in one day, which were all valiant men; because they had forsaken the LORD God of their fathers."
+      },
+      "notes": [
+        {
+          "title": "numeric-signal",
+          "body": "The large casualty figure is preserved from the Hebrew and flagged for witness verification."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Pekah",
+          "source": "פֶּקַח",
+          "language": "Hebrew",
+          "glossary_id": "pekah"
+        }
+      ],
+      "tags": [
+        "warfare",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft",
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the palace officer, and Elkanah who was next to the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zichri, a mighty man of Ephraim, slew Maaseiah the king’s son, and Azrikam the governor of the house, and Elkanah that was next to the king."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assassination",
+        "military"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And the sons of Israel carried away captive of their brothers two hundred thousand, women, sons, and daughters; and they took much spoil and brought the spoil to Samaria.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel carried away captive of their brethren two hundred thousand, women, sons, and daughters, and took also away much spoil from them, and brought the spoil to Samaria."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "captivity",
+        "plunder"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft",
+        "contains-violence"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "But there was there a prophet of YHWH, whose name was Oded; he went out before the army that came to Samaria and said to them, 'Behold, because YHWH the God of your fathers was angry with Judah, he has delivered them into your hand, and you have slain them in a rage that reaches to heaven.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "But a prophet of the LORD was there, whose name was Oded: and he went out before the host that came to Samaria, and said unto them, Behold, because the LORD God of your fathers was wroth with Judah, he hath delivered them into your hand, and ye have slain them in a rage that reacheth up unto heaven."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Oded",
+          "source": "עוֹדֵד",
+          "language": "Hebrew",
+          "glossary_id": "oded"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "ethical-appeal"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 16:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "And now you intend to make the children of Judah and Jerusalem your slaves and bondwomen; are there not with you your own sins against YHWH your God?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now ye purpose to keep under the children of Judah and Jerusalem for bondmen and bondwomen unto you: but are there not with you, even with you, sins against the LORD your God?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "ethics",
+        "slavery"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Now therefore hear me, and return the captives again whom you have taken of your brothers; for the fierce wrath of YHWH is upon you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now hear me therefore, and deliver the captives again, which ye have taken captive of your brethren: for the fierce wrath of the LORD is upon you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "repentance",
+        "prophetic-instruction"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Then certain of the heads of the men of Ephraim — Azariah son of Johanan, Berechiah son of Meshillemoth, Jehizkiah son of Shallum, and Amasa son of Hadlai — stood up against those coming from the war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then certain of the heads of the children of Ephraim, Azariah the son of Johanan, Berechiah the son of Meshillemoth, and Jehizkiah the son of Shallum, and Amasa the son of Hadlai, stood up against them that came from the war,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Azariah",
+          "source": "עֲזַרְיָהוּ",
+          "language": "Hebrew",
+          "glossary_id": "azaryahu"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "intervention"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "They said to them, 'You shall not bring the captives here; for whereas we have offended YHWH already, you intend to add to our sins and to our trespass; for our trespass is great and the fierce wrath is upon Israel.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto them, Ye shall not bring in the captives hither: for whereas we have offended against the LORD already, ye intend to add more to our sins and to our trespass: for our trespass is great, and there is fierce wrath against Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "confession",
+        "communal-responsibility"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "So the armed men left the captives and the spoil before the princes and all the congregation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the armed men left the captives and the spoil before the princes and all the congregation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restraint",
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And the men who were named rose up and took the captives; with the spoil they clothed all that were naked among them, arrayed and shod them, gave them food and drink, anointed them and set the feeble on donkeys, and brought them to Jericho, the city of palm trees, to their brethren; then they returned to Samaria.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men which were expressed by name rose up, and took the captives, and with the spoil clothed all that were naked among them, and arrayed them, and shod them, and gave them to eat and to drink, and anointed them, and carried all the feeble of them upon asses, and brought them to Jericho, the city of palm trees, to their brethren: then they returned to Samaria."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jericho",
+          "source": "יְרִיחוֹ",
+          "language": "Hebrew",
+          "glossary_id": "jericho"
+        }
+      ],
+      "tags": [
+        "compassion",
+        "humanitarian"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft",
+        "contains-compassion"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "At that time King Ahaz sent to the kings of Assyria for help.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At that time did king Ahaz send unto the kings of Assyria to help him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Assyria",
+          "source": "אֲשׁוּר",
+          "language": "Hebrew",
+          "glossary_id": "assyria"
+        }
+      ],
+      "tags": [
+        "diplomacy",
+        "foreign-policy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And again the Edomites came and struck Judah and carried away captives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For again the Edomites had come and smitten Judah, and carried away captives."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Edomites",
+          "source": "אֱדוֹם",
+          "language": "Hebrew",
+          "glossary_id": "edom"
+        }
+      ],
+      "tags": [
+        "invasion",
+        "regional-conflict"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The Philistines also raided the cities of the lowland and the Negeb of Judah and took Beth-shemesh, Ajalon, Gederoth, Socho and their villages, Timnah and their villages, Gimzo and their villages; and they dwelt there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Philistines also had invaded the cities of the low country, and of the south of Judah, and had taken Bethshemesh, and Ajalon, and Gederoth, and Shocho with the villages thereof, and Timnah with the villages thereof, Gimzo also and the villages thereof: and they dwelt there."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "occupation",
+        "settlement"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "For YHWH brought Judah low because of Ahaz king of Israel, for he had made Judah naked and transgressed greatly against YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD brought Judah low because of Ahaz king of Israel; for he made Judah naked, and transgressed sore against the LORD."
+      },
+      "notes": [
+        {
+          "title": "titular-note",
+          "body": "Hebrew calls Ahaz 'king of Israel' here; preserved as in source — requires witness check for editorial intent."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "humiliation",
+        "transgression"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft",
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Then Tilgath‑pilneser king of Assyria came to him, and distressed him, but strengthened him not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Tilgathpilneser king of Assyria came unto him, and distressed him, but strengthened him not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tilgath‑pilneser",
+          "source": "תִּלְגַת פִּלְנְאֶסֶר",
+          "language": "Hebrew",
+          "glossary_id": "tilgath-pilneser"
+        }
+      ],
+      "tags": [
+        "assyria",
+        "political-dependence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft",
+        "needs-witness-review"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "For Ahaz gave a present from the house of YHWH and from the house of the king and of the princes into the hand of the king of Assyria; but he helped him not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Ahaz took away a portion out of the house of the LORD, and out of the house of the king, and of the princes, and gave it unto the king of Assyria: but he helped him not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "sacred-theft",
+        "failed-alliance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "And in the time of his distress he trespassed yet more against YHWH — it was King Ahaz.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the time of his distress did he trespass yet more against the LORD: this is that king Ahaz."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "escalation",
+        "leadership-failure"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "For he sacrificed to the gods of Damascus who had struck him, and he said, 'Because the gods of the kings of Aram help them, I will sacrifice to them that they may help me.' And they were to him a snare and to all Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he sacrificed unto the gods of Damascus, which smote him: and he said, Because the gods of the kings of Syria help them, therefore will I sacrifice to them, that they may help me. But they were the ruin of him, and of all Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "syncretism",
+        "political-religious"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "And Ahaz gathered the vessels of the house of God, cut in pieces the vessels of the house of God, shut the doors of the house of YHWH, and he made for himself altars in every corner of Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahaz gathered together the vessels of the house of God, and cut in pieces the vessels of the house of God, and shut up the doors of the house of the LORD, and he made him altars in every corner of Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "temple",
+        "ritual-reform"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "And in every city and town of Judah he made high places to burn incense to other gods, and he provoked YHWH, the God of his fathers, to anger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in every several city of Judah he made high places to burn incense unto other gods, and provoked to anger the LORD God of his fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "provocation",
+        "idolatry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Now the rest of his acts, and all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of his acts and of all his ways, first and last, behold, they are written in the book of the kings of Judah and Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "historiography"
+      ],
+      "cross_references": [
+        {
+          "reference": "Book of the Kings (annals)",
+          "relationship": "quotation"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "So Ahaz slept with his fathers; and they buried him in the city, even in Jerusalem — for they did not bring him to the tombs of the kings of Israel. And Hezekiah his son reigned in his stead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahaz slept with his fathers, and they buried him in the city, even in Jerusalem: but they brought him not into the sepulchres of the kings of Israel: and Hezekiah his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "death",
+        "succession"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Kings 16:20-20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "restored-draft"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Phrases with moral/ritual ambiguity (e.g., burning sons in fire) are translated literally and flagged.",
+    "Where the Hebrew gives unusual titles or numbers (e.g., 'king of Israel' applied to Ahaz; casualty figures), these are retained and flagged for textual-witness review."
+  ],
+  "safety_note": "This chapter contains graphic violence, forced captivity, and archaic ritual practices; it is presented verbatim from source without sanitization.",
+  "source_witness_audit_flags": [
+    "Ambiguous verb וַיַּבְעֵר אֶת־בָּנָיו (v3) — child sacrifice vs. burning of corpses",
+    "High casualty figure '120,000' (v6) — verify manuscript tradition",
+    "'Ahaz' labeled 'king of Israel' in v19 in Hebrew witness — investigate.",
+    "Tilgath-pilneser name (v20) — verify spelling/identification across witnesses"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

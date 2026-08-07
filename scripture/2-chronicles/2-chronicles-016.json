@@ -1,0 +1,489 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 16,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-centered English rendering of 2 Chronicles 16 (14 verses, KJV numbering). YHWH rendered for יהוה; preserved prophetic rebuke, diplomatic payments, military action, and Asa’s illness and burial. Minor witness issues flagged for later review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In the thirty-sixth year of Asa king of Judah, Baasha king of Israel went up against Judah and built Ramah, to prevent any going out or coming in to Asa king of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the six and thirtieth year of the reign of Asa Baasha king of Israel came up against Judah, and built Ramah, to the intent that he might let none go out or come in to Asa king of Judah."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Ramah as a blocking fortress for access to Asa."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Ramah",
+          "source": "הָרָמָה",
+          "language": "Hebrew",
+          "glossary_id": "ramah"
+        }
+      ],
+      "tags": [
+        "siege",
+        "diplomacy"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:17",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "aligns-kjv"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Then Asa took silver and gold from the treasuries of the house of YHWH and from the king’s house, and sent it to Ben‑Hadad king of Aram who lived in Damascus, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Asa brought out silver and gold out of the treasures of the house of the LORD and of the king’s house, and sent to Benhadad king of Syria, that dwelt at Damascus, saying,"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "House of YHWH (בֵּית יְהוָֹה) distinguished from the king’s house."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Ben‑Hadad",
+          "source": "בֶּן־הֲדַד",
+          "language": "Hebrew",
+          "glossary_id": "benhadad"
+        },
+        {
+          "display": "YHWH (house of)",
+          "source": "בֵּית יְהוָֹה",
+          "language": "Hebrew",
+          "glossary_id": "house-of-yhwh"
+        }
+      ],
+      "tags": [
+        "bribery",
+        "religious-treasure"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:18",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "use-of-religious-funds"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "‘There is a league between me and you, as between my father and your father. Behold, I have sent you silver and gold; go, break your league with Baasha king of Israel, that he may depart from me.’",
+      "familiar": {
+        "source": "KJV",
+        "text": "There is a league between me and thee, as there was between my father and thy father: behold, I have sent thee silver and gold; go, break thy league with Baasha king of Israel, that he may depart from me."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Asa appeals to ancestral treaty and uses treasure to induce rupture."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "treaty",
+        "manipulation"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "diplomatic-formula"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And Ben‑Hadad listened to King Asa, and sent the captains of his host against the cities of Israel; they struck Ijon, Dan, Abel‑maim, and all the store‑cities of Naphtali.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Benhadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abelmaim, and all the store cities of Naphtali."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "List of northern towns attacked; 'store‑cities' implies logistics/depots."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Abel‑maim",
+          "source": "אָבֵל מָיִם",
+          "language": "Hebrew",
+          "glossary_id": "abel-maim"
+        }
+      ],
+      "tags": [
+        "raid",
+        "logistics"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:20",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "place-names"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "When Baasha heard of it he ceased building Ramah and stopped his work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Baasha heard it, that he left off building of Ramah, and let his work cease."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Baasha abandons construction once northern pressure occurs."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "retreat"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:21",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "abandoned-project"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Then Asa the king took all Judah; they carried away the stones of Ramah and its timber which Baasha had been using, and built with them Geba and Mizpah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Material re‑used for Geba and Mizpah; communal labor implied."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Geba",
+          "source": "גֶּבַע",
+          "language": "Hebrew",
+          "glossary_id": "geba"
+        },
+        {
+          "display": "Mizpah",
+          "source": "מִצְפָּה",
+          "language": "Hebrew",
+          "glossary_id": "mizpah"
+        }
+      ],
+      "tags": [
+        "reconstruction",
+        "fortification"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:22",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "material-reuse"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "At that time Hanani the seer came to Asa king of Judah and said to him, ‘Because you relied on the king of Aram and did not rely on YHWH your God, the army of the king of Aram escaped from your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And at that time Hanani the seer came to Asa king of Judah, and said unto him, Because thou hast relied on the king of Syria, and not relied on the LORD thy God, therefore is the host of the king of Syria escaped out of thine hand."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hanani reproves Asa for political reliance instead of reliance on YHWH."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Hanani",
+          "source": "חֲנָנִי",
+          "language": "Hebrew",
+          "glossary_id": "hanani"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "rebuke"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:23",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "prophetic-rebuke"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Were not the Cushites and the Lubim a great host, with very many chariots and horsemen? Yet because you relied on YHWH, he delivered them into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Were not the Ethiopians and the Lubims a huge host, with very many chariots and horsemen? yet, because thou didst rely on the LORD, he delivered them into thine hand."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Cush and Lubim (foreign powers) cited as examples of previous deliverance by trust in YHWH."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Cush",
+          "source": "כּוּשׁ",
+          "language": "Hebrew",
+          "glossary_id": "cush"
+        },
+        {
+          "display": "Lubim",
+          "source": "לוּבִים",
+          "language": "Hebrew",
+          "glossary_id": "lubim"
+        }
+      ],
+      "tags": [
+        "deliverance",
+        "comparison"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 14:9-14",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "ethnic-terms"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For the eyes of YHWH run to and fro throughout the whole earth to show himself strong on behalf of those whose heart is perfect toward him. You have acted foolishly in this; therefore from now on you shall have wars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the eyes of the LORD run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him. Herein thou hast done foolishly: therefore from henceforth thou shalt have wars."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Sovereign observation tied to the moral condition of the heart; prophetic consequence pronounced."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "divine-survey",
+        "consequence"
+      ],
+      "cross_references": [
+        {
+          "reference": "Proverbs 15:3",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "theological-statement"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Then Asa was angry with the seer, and put him in the prison house; for he was in a rage with him because of this. And Asa oppressed some of the people at that time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Asa was wroth with the seer, and put him in a prison house; for he was in a rage with him because of this thing. And Asa oppressed some of the people the same time."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Punitive response to prophetic speech; oppression recorded without justification."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "punishment",
+        "oppression"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:25",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "prophet-imprisoned"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Behold, the acts of Asa, first and last, are written on the book of the kings of Judah and Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, the acts of Asa, first and last, lo, they are written in the book of the kings of Judah and Israel."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Reference to royal annals as fuller source."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "annals",
+        "record"
+      ],
+      "cross_references": [
+        {
+          "reference": "Kings (royal annals)",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "source-reference"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "In the thirty-ninth year of his reign Asa became diseased in his feet, and his disease was severe; yet in his disease he did not seek YHWH, but the physicians.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa in the thirty and ninth year of his reign was diseased in his feet, until his disease was exceeding great: yet in his disease he sought not to the LORD, but to the physicians."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew indicates reliance on physicians rather than seeking YHWH in the illness."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "illness",
+        "medical"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:23-24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "medical-vs-spiritual"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Then Asa rested with his fathers and died in the one and fortieth year of his reign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Asa slept with his fathers, and died in the one and fortieth year of his reign."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Death-year formula matching royal chronologies."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "death"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "chronology-note"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "They buried him in his own tomb which he had prepared in the city of David, and laid him in the bed that was filled with spices and varied ointments, and they made a very great burning for him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries’ art: and they made a very great burning for him."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Burial with spices and a large pyre; ritual details retained from the Hebrew."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "burial",
+        "ritual"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 15:24",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "funerary-practices"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered chiefly from the supplied Hebrew lines; KJV verse numbering preserved for output.",
+    "Divine name יהוה rendered as YHWH. Kept diplomatic bribery, prophetic censure, and medical detail literal and ambiguous where the Hebrew is.",
+    "Mystical_translation provides a contemplative, non-lexical companion distinct from the restored draft."
+  ],
+  "safety_note": "Contains violence, coerced labor and burial rites; preserved for historical fidelity—do not use for incitement or justification of harm.",
+  "source_witness_audit_flags": [
+    "v2_reading-of-benhadad-gift-formula",
+    "v9_divine-name-context-and-verb-choice",
+    "v12-medical-term-interpretation"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

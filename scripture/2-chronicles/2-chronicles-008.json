@@ -1,0 +1,465 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Drafted a source-attentive, English restoration of 2 Chronicles 8 (KJV verse numbering). YHWH rendered consistently; place-names and ethnic names follow Hebrew forms. A few Masoretic variants (noted) and place-name spellings flagged for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At the end of twenty years, in which Solomon had built the house of YHWH and his own house,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass at the end of twenty years, wherein Solomon had built the house of the LORD, and his own house,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "divine-name-yhwh"
+        }
+      ],
+      "tags": [
+        "chronology",
+        "construction"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 9:10",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "contains_divine_name"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "And the cities which Huram had given to Solomon, Solomon built; and he caused the children of Israel to dwell there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the cities which Huram had restored to Solomon, Solomon built them, and caused the children of Israel to dwell there."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Huram",
+          "source": "חורם",
+          "language": "Hebrew",
+          "glossary_id": "huram-hiram"
+        }
+      ],
+      "tags": [
+        "diplomacy",
+        "settlement"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 9:11",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "place-name-spelling"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "And Solomon went to Hamath-zobah, and prevailed against it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon went to Hamathzobah, and prevailed against it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "expansion"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And he built Tadmor in the wilderness, and all the store-cities which he built in Hamath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he built Tadmor in the wilderness, and all the store cities, which he built in Hamath."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tadmor",
+          "source": "תדמור",
+          "language": "Hebrew",
+          "glossary_id": "tadmor-tadmur"
+        }
+      ],
+      "tags": [
+        "construction",
+        "frontier"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "place-name-spelling_tadmor_hamath"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Also he built Beth-horon the upper and Beth-horon the lower, fortified cities with walls, gates, and bars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also he built Bethhoron the upper, and Bethhoron the nether, fenced cities, with walls, gates, and bars;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Beth-horon",
+          "source": "ביתחורון",
+          "language": "Hebrew",
+          "glossary_id": "beth-horon"
+        }
+      ],
+      "tags": [
+        "fortification",
+        "transport"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And Baalath, and all the store-cities that Solomon had, and all the chariot-cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem and in Lebanon and throughout all the land of his dominion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Baalath, and all the store cities that Solomon had, and all the chariot cities, and the cities of the horsemen, and all that Solomon desired to build in Jerusalem, and in Lebanon, and throughout all the land of his dominion."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administration",
+        "military",
+        "construction"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, who were not of Israel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "As for all the people that were left of the Hittites, and the Amorites, and the Perizzites, and the Hivites, and the Jebusites, which were not of Israel,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Hittites",
+          "source": "חִתִּי",
+          "language": "Hebrew",
+          "glossary_id": "hittites"
+        }
+      ],
+      "tags": [
+        "ethnicities",
+        "demography"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Of their children who remained after them in the land, whom the children of Israel did not destroy, Solomon made them pay tribute until this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "tribute",
+        "minorities"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But of the children of Israel did Solomon make no servants for his work; for they were men of war, captains of his captains, and captains of his chariots and horsemen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and captains of his chariots and horsemen."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "social-structure"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And these were the chiefs (the governors) of King Solomon: two hundred and fifty who bore rule over the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these were the chief of king Solomon’s officers, even two hundred and fifty, that bare rule over the people."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew text shows variant bracketed readings (הנציבים / הנצבים); rendered 'chiefs (governors)' to reflect the ambiguity."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "administration"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 4:26",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "variant_reading_verse10",
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And Solomon brought up the daughter of Pharaoh out of the city of David to the house that he had built for her; for he said, 'My wife shall not dwell in the house of David king of Israel; for the places are holy whereunto the ark of YHWH has come.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon brought up the daughter of Pharaoh out of the city of David unto the house that he had built for her: for he said, My wife shall not dwell in the house of David king of Israel, because the places are holy, whereunto the ark of the LORD hath come."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "daughter of Pharaoh",
+          "source": "בת פרעה",
+          "language": "Hebrew",
+          "glossary_id": "daughter-of-pharaoh"
+        }
+      ],
+      "tags": [
+        "marriage",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Then Solomon offered burnt offerings unto YHWH on the altar of YHWH which he had built before the porch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Solomon offered burnt offerings unto the LORD on the altar of the LORD, which he had built before the porch,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "divine-name-yhwh"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "contains_divine_name"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "And according to a fixed rate he offered daily, according to the commandment of Moses, on the sabbaths, on the new moons, and on the set feasts three times in the year—at the Feast of Unleavened Bread, the Feast of Weeks, and the Feast of Tabernacles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even after a certain rate every day, offering according to the commandment of Moses, on the sabbaths, and on the new moons, and on the solemn feasts, three times in the year, even in the feast of unleavened bread, and in the feast of weeks, and in the feast of tabernacles."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Moses",
+          "source": "משה",
+          "language": "Hebrew",
+          "glossary_id": "moses"
+        }
+      ],
+      "tags": [
+        "festival",
+        "law"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 23:14-17",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And he set the divisions of the priests according to the ordinance of David his father, and the Levites for their charges to praise and to minister before the priests, daily; and the gatekeepers by their divisions at every gate, according to their courses— for so David the man of God had commanded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he appointed, according to the order of David his father, the courses of the priests to their service, and the Levites to their charges, to praise and minister before the priests, as the duty of every day required: the porters also by their courses at every gate: for so had David the man of God commanded."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "David",
+          "source": "דוד",
+          "language": "Hebrew",
+          "glossary_id": "david"
+        }
+      ],
+      "tags": [
+        "ritual",
+        "institution"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 23",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They departed not from the commandment of the king to the priests and Levites regarding any matter, or regarding the treasuries.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "administration",
+        "obedience"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And all the work of Solomon was prepared until the day the foundation of the house of YHWH was laid, and until it was finished; and the house of YHWH was perfected.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now all the work of Solomon was prepared unto the day of the foundation of the house of the LORD, and until it was finished. So the house of the LORD was perfected."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "divine-name-yhwh"
+        }
+      ],
+      "tags": [
+        "completion",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "contains_divine_name"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Then Solomon went to Ezion-geber and to Eloth at the shore of the sea, in the land of Edom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went Solomon to Eziongeber, and to Eloth, at the sea side in the land of Edom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ezion-geber",
+          "source": "עציון-גבר",
+          "language": "Hebrew",
+          "glossary_id": "ezion-geber"
+        }
+      ],
+      "tags": [
+        "trade",
+        "geography"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Huram sent him ships by the hand of his servants—seamen who knew the sea—and they came with the servants of Solomon to Ophir, and took there four hundred and fifty talents of gold, and brought it to King Solomon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought them to king Solomon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Ophir",
+          "source": "אופיר",
+          "language": "Hebrew",
+          "glossary_id": "ophir"
+        }
+      ],
+      "tags": [
+        "trade",
+        "foreign-relations"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 9:28",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "place-name-spelling"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name יהוה rendered as YHWH throughout. KJV verse numbering preserved though Hebrew chapter-content informs phrasing. Kept Masoretic readings and noted one explicit variant in v.10.",
+    "Festival names rendered from Hebrew terms; 'tribute' reflects לְמַס. Proper names follow the supplied Hebrew orthography (Huram, Tadmor, Ophir)."
+  ],
+  "safety_note": "This chapter retains historically violent, hierarchical, and coerced-labour realities from the source for fidelity. Handle respectfully; not prescriptive.",
+  "source_witness_audit_flags": [
+    "variant_reading_verse10",
+    "place-name-spelling_tadmor_hamath",
+    "chronology_and_terminology_for_masoretic_allocations"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

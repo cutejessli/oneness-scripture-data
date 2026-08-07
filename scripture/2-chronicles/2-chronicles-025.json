@@ -1,0 +1,714 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 25,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft, source-sensitive rendering of 2 Chronicles 25 from Hebrew; YHWH used for the Tetragram. Preserves idolatry, violence, prophetic rebuke; numeric and verse-27 witness issues need collation."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Amaziah was twenty-five years old when he began to reign, and he reigned twenty-nine years in Jerusalem. His mother's name was Jehoaddan of Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Amaziah was twenty and five years old when he began to reign, and he reigned twenty and nine years in Jerusalem. And his mother’s name was Jehoaddan of Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Jehoaddan",
+          "source": "יְהוֹעַדָּן",
+          "language": "Hebrew",
+          "glossary_id": "jehoaddan"
+        }
+      ],
+      "tags": [
+        "dynasty"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He did what was right in the sight of YHWH, but not with a whole heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was right in the sight of the LORD, but not with a perfect heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "tetragram"
+        }
+      ],
+      "tags": [
+        "piety",
+        "ambiguity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name-rendered",
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "When the kingdom was established for him he executed the servants who had struck down the king his father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now it came to pass, when the kingdom was established to him, that he slew his servants that had killed the king his father."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "servants",
+          "source": "עֲבָדָיו",
+          "language": "Hebrew",
+          "glossary_id": "servants"
+        }
+      ],
+      "tags": [
+        "justice",
+        "violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "But he did not put their children to death, for as it is written in the Torah, in the book of Moses, which YHWH commanded, 'Fathers shall not die for the children, nor shall children die for the fathers; every man shall die for his own sin.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he slew not their children, but did as it is written in the law in the book of Moses, where the LORD commanded, saying, The fathers shall not die for the children, neither shall the children die for the fathers, but every man shall die for his own sin."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Direct citation from Mosaic Torah; communal vengeance restrained by law."
+        }
+      ],
+      "terms": [
+        {
+          "display": "Torah",
+          "source": "תּוֹרָה",
+          "language": "Hebrew",
+          "glossary_id": "torah"
+        },
+        {
+          "display": "Moses",
+          "source": "מֹשֶׁה",
+          "language": "Hebrew",
+          "glossary_id": "moses"
+        }
+      ],
+      "tags": [
+        "law",
+        "ethics"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 24:16",
+          "relationship": "parallel|quotation"
+        }
+      ],
+      "editorial_flags": [
+        "quotation-from-Torah",
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Moreover Amaziah gathered Judah and made them captains of thousands and captains of hundreds, according to the houses of their fathers, throughout Judah and Benjamin; he numbered them from twenty years old and upward and found three hundred thousand choice men, able to go forth to war, handling spear and shield.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover Amaziah gathered Judah together, and made them captains over thousands, and captains over hundreds, according to the houses of their fathers, throughout all Judah and Benjamin: and he numbered them from twenty years old and above, and found them three hundred thousand choice men, able to go forth to war, that could handle spear and shield."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "organization"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He also hired from Israel one hundred thousand mighty men of valour for a hundred talents of silver.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He hired also an hundred thousand mighty men of valour out of Israel for an hundred talents of silver."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "talent",
+          "source": "כִּכַּר",
+          "language": "Hebrew",
+          "glossary_id": "talent"
+        }
+      ],
+      "tags": [
+        "military",
+        "economy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "But a man of God came to him and said, 'O king, let not the army of Israel go with you; for YHWH is not with Israel, namely with all the sons of Ephraim.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "But there came a man of God to him, saying, O king, let not the army of Israel go with thee; for the LORD is not with Israel, to wit, with all the children of Ephraim."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "man of God",
+          "source": "אִישׁ הָאֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "man-of-god"
+        },
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "tetragram"
+        }
+      ],
+      "tags": [
+        "prophet-warning"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "If you go, do it; be strong for the battle. God will make you fall before the enemy, for there is power in God to help and to cast down.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if thou wilt go, do it, be strong for the battle: God shall make thee fall before the enemy: for God hath power to help, and to cast down."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "warning"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Amaziah said to the man of God, 'What shall we do for the hundred talents which I have given to the army of Israel?' The man of God answered, 'YHWH is able to give you much more than this.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Amaziah said to the man of God, But what shall we do for the hundred talents which I have given to the army of Israel? And the man of God answered, The LORD is able to give thee much more than this."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "tetragram"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "provision"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name-rendered",
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "So he sent away the army that had come to him from Ephraim to return to their place; their anger was greatly kindled against Judah, and they returned home in great anger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Amaziah separated them, to wit, the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "conflict",
+        "alliance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Amaziah strengthened himself, led his people, went to the Valley of Salt, and struck ten thousand of the children of Seir.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Amaziah strengthened himself, and led forth his people, and went to the valley of salt, and smote of the children of Seir ten thousand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Valley of Salt",
+          "source": "גֵּיא הַמֶּלַח",
+          "language": "Hebrew",
+          "glossary_id": "valley-of-salt"
+        }
+      ],
+      "tags": [
+        "war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And other ten thousand alive the children of Judah took captive; they brought them to the top of the rock and cast them down from the top, and all were broken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And other ten thousand left alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "violence",
+        "captivity"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "But the band which Amaziah had sent back raided the cities of Judah from Samaria even to Beth-horon and struck three thousand of them and took much spoil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Bethhoron, and smote three thousand of them, and took much spoil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Samaria",
+          "source": "שֹׁמְרוֹן",
+          "language": "Hebrew",
+          "glossary_id": "samaria"
+        }
+      ],
+      "tags": [
+        "reprisal",
+        "pillaging"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "After Amaziah came from the slaughter of the Edomites, he brought the gods of the children of Seir and set them up to be his gods; before them he bowed down and burned incense to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now it came to pass, after that Amaziah was come from the slaughter of the Edomites, that he brought the gods of the children of Seir, and set them up to be his gods, and bowed down himself before them, and burned incense unto them."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Idolatry follows military success in the narrative; cause for prophetic rebuke."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "idolatry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "YHWH's anger was kindled against Amaziah, and He sent unto him a prophet who said, 'Why have you sought after the gods of the people, which did not deliver their own people out of your hand?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the anger of the LORD was kindled against Amaziah, and he sent unto him a prophet, which said unto him, Why hast thou sought after the gods of the people, which could not deliver their own people out of thine hand?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "tetragram"
+        },
+        {
+          "display": "prophet",
+          "source": "נָבִיא",
+          "language": "Hebrew",
+          "glossary_id": "navi"
+        }
+      ],
+      "tags": [
+        "prophetic-rebuke"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "divine-name-rendered",
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "As he spoke to him the king said to the prophet, 'Are you made of the king's counsel? Cease; why should you be struck?' The prophet ceased and said, 'I know that God has counseled to destroy you, because you have done this and have not heeded my counsel.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king’s counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": [
+        "prophecy",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Then Amaziah king of Judah consulted and sent to Joash son of Jehoahaz son of Jehu, king of Israel, saying, 'Come, let us meet face to face.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Amaziah king of Judah took advice, and sent to Joash, the son of Jehoahaz, the son of Jehu, king of Israel, saying, Come, let us see one another in the face."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "diplomacy"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Joash king of Israel sent to Amaziah king of Judah, 'The thistle that was in Lebanon said to the cedar of Lebanon, “Give your daughter to my son for a wife”; and a wild beast that was in Lebanon passed by and trampled the thistle.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joash king of Israel sent to Amaziah king of Judah, saying, The thistle that was in Lebanon sent to the cedar that was in Lebanon, saying, Give thy daughter to my son to wife: and there passed by a wild beast that was in Lebanon, and trode down the thistle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "thistle",
+          "source": "חֹחַ",
+          "language": "Hebrew",
+          "glossary_id": "thistle"
+        },
+        {
+          "display": "cedar",
+          "source": "אֶרֶז",
+          "language": "Hebrew",
+          "glossary_id": "cedar"
+        }
+      ],
+      "tags": [
+        "parable",
+        "humility"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "You say, “You have struck Edom, and your heart has lifted you up to boast; now stay at home. Why should you be meddlesome to your hurt, that you and Judah should fall?”",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou sayest, Lo, thou hast smitten the Edomites; and thine heart lifteth thee up to boast: abide now at home; why shouldest thou meddle to thine hurt, that thou shouldest fall, even thou, and Judah with thee?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "warning",
+        "hubris"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "But Amaziah would not hear; for it was from God that it should come to pass, to give them into the hand of their enemies, because they sought after the gods of Edom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Amaziah would not hear; for it came of God, that he might deliver them into the hand of their enemies, because they sought after the gods of Edom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "God",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": [
+        "judgment",
+        "cause-and-effect"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "So Joash king of Israel went up; they met face to face, he and Amaziah king of Judah, at Beth-shemesh which belongs to Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Bethshemesh, which belongeth to Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Beth-shemesh",
+          "source": "בֵּית שֶׁמֶשׁ",
+          "language": "Hebrew",
+          "glossary_id": "beth-shemesh"
+        }
+      ],
+      "tags": [
+        "battle"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Judah was put to the worse before Israel, and they fled every man to his tent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah was put to the worse before Israel, and they fled every man to his tent."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "defeat"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "And Joash king of Israel took Amaziah king of Judah, son of Joash son of Jehoahaz, at Beth-shemesh and brought him to Jerusalem; he broke down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joash the king of Israel took Amaziah king of Judah, the son of Joash, the son of Jehoahaz, at Bethshemesh, and brought him to Jerusalem, and brake down the wall of Jerusalem from the gate of Ephraim to the corner gate, four hundred cubits."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "four hundred cubits",
+          "source": "אַרְבַּע מֵא֖וֹת אַמָּה",
+          "language": "Hebrew",
+          "glossary_id": "four-hundred-cubits"
+        }
+      ],
+      "tags": [
+        "siege",
+        "humiliation"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "He took all the gold and silver and all the vessels that were found in the house of God with Obed‑edom, and the treasures of the king's house and the hostages, and returned to Samaria.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took all the gold and the silver, and all the vessels that were found in the house of God with Obededom, and the treasures of the king’s house, the hostages also, and returned to Samaria."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Obed-edom",
+          "source": "עֹבֵד אֹדֵם",
+          "language": "Hebrew",
+          "glossary_id": "obed-edom"
+        }
+      ],
+      "tags": [
+        "plunder",
+        "temple"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Amaziah the son of Joash king of Judah lived fifteen years after the death of Joash son of Jehoahaz king of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Amaziah the son of Joash king of Judah lived after the death of Joash son of Jehoahaz king of Israel fifteen years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "chronology"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Now the rest of the acts of Amaziah, first and last, are they not written in the book of the kings of Judah and Israel?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Amaziah, first and last, behold, are they not written in the book of the kings of Judah and Israel?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sources"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Now when Amaziah turned away from following YHWH, they made a conspiracy against him in Jerusalem; he fled to Lachish, but they sent to Lachish and killed him there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now after the time that Amaziah did turn away from following the LORD they made a conspiracy against him in Jerusalem; and he fled to Lachish: but they sent to Lachish after him, and slew him there."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Verse reflects witness conflations in the MT and other traditions; see source_tail for variant lines."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "tetragram"
+        },
+        {
+          "display": "Lachish",
+          "source": "לָכִישָׁה",
+          "language": "Hebrew",
+          "glossary_id": "lachish"
+        }
+      ],
+      "tags": [
+        "conspiracy",
+        "regicide"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "witness-variant",
+        "machine-checked"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "They brought him on horses, and they buried him with his fathers in the city of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought him upon horses, and buried him with his fathers in the city of Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "burial",
+        "closure"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "machine-checked"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Rendered יהוה as YHWH throughout; other divine titles (אֱלֹהִים, בֵּית־הָאֱלֹהִים) left as God / house of God per source wording.",
+    "Preserves the Torah quotation (Deut./Moses) and the prophet's rebuke; military numbers taken from the Masoretic consonantal text without emendation.",
+    "Verse 27 presents conflated/parenthetical readings in the witnesses (see source_tail); requires later witness-critical annotation."
+  ],
+  "safety_note": "Contains violence, executions, forced deaths, and idol worship; intended for scholarly use and not advocacy.",
+  "source_witness_audit_flags": [
+    "numerical-rolls-need-witness-check",
+    "verse-27-graphic-variant-conflation",
+    "divine-name-rendering-checked"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

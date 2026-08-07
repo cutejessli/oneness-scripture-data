@@ -1,0 +1,490 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Draft restores Hebrew wording and structure; YHWH used for divine name. Parashah markers and a reading variant in v12 flagged for witness review."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Thus all the work that Solomon made for the house of YHWH was finished; and Solomon brought the holy things of David his father, and the silver and the gold and all the vessels, and put them in the treasuries of the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus all the work that Solomon made for the house of the LORD was finished: and Solomon brought in all the things that David his father had dedicated; and the silver, and the gold, and all the instruments, put he among the treasures of the house of God."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Masoretic parashah marker ({ס}) appears in the Hebrew after this verse."
+        }
+      ],
+      "terms": [
+        {
+          "display": "holy things",
+          "source": "קׇדְשֵׁי",
+          "language": "Hebrew",
+          "glossary_id": "kadshei"
+        },
+        {
+          "display": "treasuries",
+          "source": "אֹצְרוֹת",
+          "language": "Hebrew",
+          "glossary_id": "otzarot"
+        }
+      ],
+      "tags": [
+        "dedication",
+        "treasury"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 8:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "contains_parashah_marker",
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Then Solomon assembled the elders of Israel and all the heads of the tribes, the chiefs of the fathers of the children of Israel, to Jerusalem, to bring up the ark of the covenant of YHWH from the city of David, which is Zion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Solomon assembled the elders of Israel, and all the heads of the tribes, the chief of the fathers of the children of Israel, unto Jerusalem, to bring up the ark of the covenant of the LORD out of the city of David, which is Zion."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "אָרוֹן",
+          "language": "Hebrew",
+          "glossary_id": "aron"
+        },
+        {
+          "display": "covenant",
+          "source": "בְּרִית",
+          "language": "Hebrew",
+          "glossary_id": "brit"
+        }
+      ],
+      "tags": [
+        "assembly",
+        "ark"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 25:10–22",
+          "relationship": "theme"
+        },
+        {
+          "reference": "1 Chronicles 15:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "standard_translation"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Wherefore all the men of Israel assembled themselves to the king at the feast; it was the seventh month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "seventh month",
+          "source": "הַחֹדֶשׁ הַשְּׁבִיעִי",
+          "language": "Hebrew",
+          "glossary_id": "hodesh-shvi-i"
+        }
+      ],
+      "tags": [
+        "festival",
+        "assembly"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 23",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "standard_translation"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "And all the elders of Israel came; and the Levites took up the ark.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the elders of Israel came; and the Levites took up the ark."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levites",
+          "source": "לְוִיִּם",
+          "language": "Hebrew",
+          "glossary_id": "leviyim"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "ritual"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "standard_translation"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And they brought up the ark, and the tent of meeting, and all the holy vessels that were in the tent; these did the priests and the Levites bring up.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, these did the priests and the Levites bring up."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "tent of meeting",
+          "source": "אוֹהֶל מוֹעֵד",
+          "language": "Hebrew",
+          "glossary_id": "ohel-moed"
+        }
+      ],
+      "tags": [
+        "tabernacle",
+        "procession"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 40:34–38",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "standard_translation"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Also King Solomon and all the congregation of Israel that were assembled before the ark sacrificed sheep and oxen that could not be told nor numbered for multitude.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sacrifices",
+          "source": "מְזַבְּחִים",
+          "language": "Hebrew",
+          "glossary_id": "mizbechim"
+        }
+      ],
+      "tags": [
+        "sacrifice",
+        "multitude"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 22:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "contains_ritual_sacrifice"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And the priests brought in the ark of the covenant of YHWH to its place, to the oracle of the house, into the Most Holy Place, even under the wings of the cherubim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priests brought in the ark of the covenant of the LORD unto his place, to the oracle of the house, into the most holy place, even under the wings of the cherubims:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "oracle (d'vir)",
+          "source": "דְּבִיר",
+          "language": "Hebrew",
+          "glossary_id": "dvir"
+        },
+        {
+          "display": "cherubim",
+          "source": "כְּרוּבִים",
+          "language": "Hebrew",
+          "glossary_id": "keruvim"
+        }
+      ],
+      "tags": [
+        "sanctuary",
+        "cherubim"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 25:18–22",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "theophoric_render:YHWH"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For the cherubim spread forth their wings over the place of the ark, and the cherubim covered the ark and the staves thereof above.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "wings",
+          "source": "כְּנָפַיִם",
+          "language": "Hebrew",
+          "glossary_id": "knafayim"
+        }
+      ],
+      "tags": [
+        "cherubim",
+        "iconography"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "standard_translation"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And they drew out the staves of the ark, so that the ends of the staves were seen from the ark before the oracle; but they were not seen from without. And there they are to this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they drew out the staves of the ark, that the ends of the staves were seen from the ark before the oracle; but they were not seen without. And there it is unto this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "staves",
+          "source": "הַבַּדִּים",
+          "language": "Hebrew",
+          "glossary_id": "habaddim"
+        }
+      ],
+      "tags": [
+        "ark",
+        "visibility"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 25:15",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "preserve_present_state_note"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "There was nothing in the ark save the two tablets which Moses put there at Horeb, when YHWH made a covenant with the children of Israel when they came out of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "There was nothing in the ark save the two tables which Moses put therein at Horeb, when the LORD made a covenant with the children of Israel, when they came out of Egypt."
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Masoretic parashah marker ({פ}) follows this verse."
+        }
+      ],
+      "terms": [
+        {
+          "display": "two tablets",
+          "source": "שְׁנֵי הַלֻּחֹת",
+          "language": "Hebrew",
+          "glossary_id": "shnei-luchot"
+        },
+        {
+          "display": "Horeb",
+          "source": "חֹרֵב",
+          "language": "Hebrew",
+          "glossary_id": "horeb"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "tablets"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 34:28",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "contains_parashah_marker",
+        "needs_witness_review"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And it came to pass, when the priests were come out of the holy place (for all the priests that were present were sanctified, and did not then keep to their courses),",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the priests were come out of the holy place: (for all the priests that were present were sanctified, and did not then wait by course:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "priesthood",
+        "sanctification"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "parenthetical_clause_preserved"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Also the Levites who were the singers, Asaph, Heman, and Jeduthun, with their sons and their brethren, arrayed in white linen, having cymbals, psalteries, and harps, stood at the east end of the altar; and with them were a hundred and twenty priests sounding with trumpets.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)"
+      },
+      "notes": [
+        {
+          "title": "short",
+          "body": "Hebrew shows a variant reading in the trumpet-word (מחצצרים / מַחְצְרִים); both forms are attested."
+        }
+      ],
+      "terms": [
+        {
+          "display": "trumpeters (variant)",
+          "source": "מחצצרים / מַחְצְרִים",
+          "language": "Hebrew",
+          "glossary_id": "machatzrim-variant"
+        },
+        {
+          "display": "Asaph",
+          "source": "אָסָף",
+          "language": "Hebrew",
+          "glossary_id": "asaph"
+        }
+      ],
+      "tags": [
+        "music",
+        "liturgical_order"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 25:1–7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "textual_variant",
+        "liturgical_detail"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "It came even to pass, as the trumpeters and singers were as one, to make one sound to praise and to give thanks unto YHWH; and when they lifted up their voice with trumpets, cymbals, and instruments of music, and praised YHWH, saying, 'For he is good; for his steadfast love endures for ever,' the house was filled with a cloud, the house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It came even to pass, as the trumpeters and singers were as one, to make one sound to be heard in praising and thanking the LORD; and when they lifted up their voice with the trumpets and cymbals and instruments of musick, and praised the LORD, saying, For he is good; for his mercy endureth for ever: that then the house was filled with a cloud, even the house of the LORD;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חַסְדּוֹ",
+          "language": "Hebrew",
+          "glossary_id": "chesed"
+        }
+      ],
+      "tags": [
+        "praise",
+        "divine_presence"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 136:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "theophoric_render:YHWH",
+        "liturgical_formula_preserved"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "So that the priests could not stand to minister because of the cloud; for the glory of YHWH had filled the house of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that the priests could not stand to minister by reason of the cloud: for the glory of the LORD had filled the house of God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "glory",
+          "source": "כְּבוֹד",
+          "language": "Hebrew",
+          "glossary_id": "kavod"
+        }
+      ],
+      "tags": [
+        "glory",
+        "presence"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 40:34–35",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "theophanic_manifestation"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name rendered YHWH (Hebrew יהוה).",
+    "Parenthetical variant in v12 (מחצצרים / מחצְרִים) retained as textual variant.",
+    "Parashah markers ({ס},{פ}) from the Masoretic layout preserved as editorial flags where present."
+  ],
+  "safety_note": "Contains large-scale ritual slaughter and cultic violence imagery; preserved as in source.",
+  "source_witness_audit_flags": [
+    "parashah_markers_present ({ס} at v1; {פ} at v10)",
+    "textual_variant_in_v12 (מחצצרים / מַחְצְרִים)",
+    "orthography: vocalization and word-division to be checked against manuscripts for v1–v3"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

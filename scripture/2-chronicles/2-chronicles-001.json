@@ -1,0 +1,442 @@
+{
+  "book": "2 Chronicles",
+  "book_id": "2-chronicles",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Faithful MT-based draft; YHWH rendered where יהוה appears; preserves cultic terms (אֹהֶל־מוֹעֵד, נְחֹשֶׁת) and Solomon–Gibeon theophany. Needs witness checks against LXX/1 Kgs and metal-term semantics."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And Solomon son of David strengthened himself in his kingdom; YHWH his God was with him and magnified him exceedingly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon the son of David was strengthened in his kingdom, and the LORD his God was with him, and magnified him exceedingly."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "royal",
+        "divine_presence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:1",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source",
+        "divine-name-YHWH"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Then Solomon spoke to all Israel—to the captains of thousands and of hundreds, to the judges, and to every governor in all Israel, the heads of the ancestral households.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Solomon spake unto all Israel, to the captains of thousands and of hundreds, and to the judges, and to every governor in all Israel, the chief of the fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "assembly",
+        "administration"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:2",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "So Solomon and all the congregation with him went to the high place at Gibeon; for there was the tent of meeting that Moses the servant of YHWH had made in the wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the LORD had made in the wilderness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "tent of meeting",
+          "source": "אֹהֶל־מוֹעֵד (ohel moʿed)",
+          "language": "Hebrew",
+          "glossary_id": "ohel-moed"
+        }
+      ],
+      "tags": [
+        "worship",
+        "sanctuary"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:4",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source",
+        "ohel-moed-term"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "But the ark of God David had brought up from Kiriath‑jearim to the place David had prepared for it, for he had pitched a tent for it in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the ark of God had David brought up from Kirjathjearim to the place which David had prepared for it: for he had pitched a tent for it at Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ark",
+        "Jerusalem"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 7:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And the bronze altar that Bezaleel son of Uri son of Hur had made was there before the tent of YHWH; and Solomon and the congregation sought it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the LORD: and Solomon and the congregation sought unto it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "bronze",
+          "source": "נְחֹשֶׁת (nechoshet)",
+          "language": "Hebrew",
+          "glossary_id": "nechoshet"
+        }
+      ],
+      "tags": [
+        "altar",
+        "cult"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 27:1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source",
+        "material-term"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And Solomon went up there to the bronze altar before YHWH, which was at the tent of meeting, and offered on it a thousand burnt offerings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon went up thither to the brasen altar before the LORD, which was at the tabernacle of the congregation, and offered a thousand burnt offerings upon it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 1",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "In that night God appeared to Solomon and said to him, 'Ask what I shall give you.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "In that night did God appear unto Solomon, and said unto him, Ask what I shall give thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "theophany",
+        "vocation"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:5",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And Solomon said to God, 'You have shown great mercy to David my father, and have made me to reign in his stead.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon said unto God, Thou hast shewed great mercy unto David my father, and hast made me to reign in his stead."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "petition",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Now, O YHWH God, let thy word to David my father be established; for thou hast made me ruler over a people like the dust of the earth in multitude.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now, O LORD God, let thy promise unto David my father be established: for thou hast made me king over a people like the dust of the earth in multitude."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "covenant",
+        "population"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source",
+        "divine-name-YHWH"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Give me now wisdom and knowledge, that I may go out and come in before this people, and that I may judge this great people of yours.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Give me now wisdom and knowledge, that I may go out and come in before this people: for who can judge this thy people, that is so great?"
+      },
+      "notes": [
+        {
+          "title": "lexicon",
+          "body": "חָכְמָה (chochmah) 'wisdom', מַדָּע 'knowledge'—both preserved to reflect judicial and practical skill."
+        }
+      ],
+      "terms": [
+        {
+          "display": "chochmah",
+          "source": "חָכְמָה (chochmah)",
+          "language": "Hebrew",
+          "glossary_id": "chochmah"
+        }
+      ],
+      "tags": [
+        "wisdom",
+        "judgment"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:9",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "And God said to Solomon, 'Because this was in your heart and you have not asked for riches, wealth, or honour, nor the life of your enemies, nor yet long life, but have asked for yourself wisdom and knowledge to judge my people over whom I made you king,'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God said to Solomon, Because this was in thine heart, and thou hast not asked riches, wealth, or honour, nor the life of thine enemies, neither yet hast asked long life; but hast asked wisdom and knowledge for thyself, that thou mayest judge my people, over whom I have made thee king:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "divine_granting"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:10",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Wisdom and knowledge are given to you; and I will also give you riches, wealth, and honour—such as none of the kings before you had, and none after you shall have the like.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wisdom and knowledge is granted unto thee; and I will give thee riches, and wealth, and honour, such as none of the kings have had that have been before thee, neither shall there any after thee have the like."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "gift",
+        "wisdom"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:11-13",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Then Solomon came from the high place at Gibeon to Jerusalem, from before the tent of meeting, and reigned as king over Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Solomon came from his journey to the high place that was at Gibeon to Jerusalem, from before the tabernacle of the congregation, and reigned over Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "reign",
+        "Jerusalem"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 3:15",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "And Solomon gathered chariots and horsemen; he had fourteen hundred chariots and twelve thousand horsemen, and he stationed them in the chariot cities and with the king at Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon gathered chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, which he placed in the chariot cities, and with the king at Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "military",
+        "administration"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And the king made silver and gold in Jerusalem as plentiful as stones, and cedars he made as the sycamores that are in the lowland for abundance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king made silver and gold at Jerusalem as plenteous as stones, and cedar trees made he as the sycomore trees that are in the vale for abundance."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "economy",
+        "resources"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "And the horses that Solomon had were brought out of Egypt; and the king's merchants received them at the appointed price.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "trade"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "And they brought up and fetched out of Egypt a chariot for six hundred shekels of silver, and a horse for a hundred and fifty; and so they brought them for all the kings of the Hittites and the kings of Aram by their means.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "trade",
+        "diplomacy"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Kings 10:28-29",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": [
+        "heb-source"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Divine name: rendered as YHWH where the tetragram appears; 'God' used for אֱלֹהִים.",
+    "אֹהֶל־מוֹעֵד rendered 'tent of meeting' (ohel moʿed) to preserve sanctuary ambiguity at Gibeon.",
+    "נְחֹשֶׁת rendered 'bronze' (nechoshet) pending metallurgical witness review; חָכְמָה/מַדָּע rendered 'wisdom'/'knowledge'."
+  ],
+  "safety_note": "Contains ritual violence imagery (burnt offerings); presented descriptively, not prescriptive.",
+  "source_witness_audit_flags": [
+    "ohel-moed_location_Gibeon_vs_Jerusalem",
+    "nechoshet_metal_identification_bronze_vs_brass",
+    "parallel_alignment_with_1_Kings_3_textual_variants"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}
