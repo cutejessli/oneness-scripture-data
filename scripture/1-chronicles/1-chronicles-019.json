@@ -1,1 +1,528 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":19,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph Ammonite diplomatic humiliation and Aramean war, first-pass restored draft with public-domain scaffold; later witness audit required","review_note":"Reviewed against 2 Samuel 10 for bereavement diplomacy, espionage fear, shaving and garment exposure, recovery privacy, mercenary hiring, city defense, mutual aid, war theology, casualty numbers, forced peace, and servitude."},"verses":[{"verse":1,"restored":"After this Nahash king of Ammonites died, and his son reigned in his place."},{"verse":2,"restored":"David said, I will show covenant-kindness to Hanun son of Nahash, because his father showed kindness to me. David sent messengers to comfort him concerning his father. David's servants came to land of Ammonites to Hanun to comfort him."},{"verse":3,"restored":"Ammonite officials said to Hanun, Does David honor your father in your eyes by sending comforters? Have his servants not come to search, overthrow, and spy out land?"},{"verse":4,"restored":"Hanun took David's servants, shaved them, cut garments in middle near buttocks, and sent them away."},{"verse":5,"restored":"People went and told David concerning men. He sent to meet them, for men were greatly humiliated. King said, Stay at Jericho until your beards grow, then return."},{"verse":6,"restored":"Ammonites saw they had made themselves odious to David; Hanun and Ammonites sent one thousand talents of silver to hire chariots and horsemen from Aram-naharaim, Aram-maacah, and Zobah."},{"verse":7,"restored":"They hired thirty-two thousand chariots/forces and king of Maacah with people; they came and camped before Medeba. Ammonites gathered from cities and came for battle."},{"verse":8,"restored":"David heard and sent Joab and all army of mighty warriors."},{"verse":9,"restored":"Ammonites came out and arranged battle at city gate, while kings who came were separately in field."},{"verse":10,"restored":"Joab saw battle was against him front and rear; he chose from best of Israel and arranged them against Arameans."},{"verse":11,"restored":"Rest of people he gave into hand of Abishai his brother, and they arranged against Ammonites."},{"verse":12,"restored":"He said, If Arameans are too strong for me, you shall rescue me; if Ammonites too strong for you, I will rescue you."},{"verse":13,"restored":"Be strong, and let us strengthen ourselves for our people and cities of our Divine; may YHWH do what is good in the eyes."},{"verse":14,"restored":"Joab and people with him approached Arameans for battle, and they fled before him."},{"verse":15,"restored":"Ammonites saw Arameans fled and also fled before Abishai his brother and entered city. Joab came to Jerusalem."},{"verse":16,"restored":"Arameans saw they were defeated before Israel, sent messengers, and brought Arameans beyond river; Shophach commander of Hadadezer's army led them."},{"verse":17,"restored":"It was told David; he gathered all Israel, crossed Jordan, came to them, and arranged battle. David arranged against Arameans, and they fought him."},{"verse":18,"restored":"Arameans fled before Israel; David killed seven thousand chariot fighters and forty thousand foot soldiers and put Shophach commander to death."},{"verse":19,"restored":"Servants of Hadadezer saw they were defeated before Israel, made peace with David, and served him. Arameans were unwilling to help Ammonites again."}],"translation_notes":["The chapter begins with grief diplomacy. Security concerns about espionage can be understandable, but fear does not justify abuse of envoys.","Shaving and cutting garments to expose buttocks is sexualized and gendered humiliation. It must not be treated as comedy or proof that masculinity depends on hair and clothing.","David gives the men privacy and time before public return, a constructive response to humiliation, though their own wishes are not recorded.","'Made themselves odious' describes a damaged political relationship and must not become an ethnic slur against Ammonites.","Hiring allied forces shows the economics of war; silver, transport, animals, and soldiers are mobilized through elite decisions.","Joab's mutual-support plan is tactically constructive but does not sanctify the war or erase civilians at Medeba and city gates.","The prayer that YHWH do what is good leaves outcome open; it is not proof every subsequent killing is Divine will.","Forty-seven thousand reported deaths are human catastrophe and the numbers differ from 2 Samuel 10.","Peace after overwhelming defeat and ensuing service to David are coerced imperial terms, not free reconciliation."],"safety_note":"Do not mock sexualized humiliation, define manhood through beards, demonize Ammonites or Arameans, glorify mercenary war, or call forced submission peace. Center bereavement, bodily dignity, recovery privacy, civilian impact, and the humanity behind casualty totals."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 19,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph Ammonite diplomatic humiliation and Aramean war, first-pass restored draft with public-domain scaffold; later witness audit required",
+    "review_note": "Reviewed against 2 Samuel 10 for bereavement diplomacy, espionage fear, shaving and garment exposure, recovery privacy, mercenary hiring, city defense, mutual aid, war theology, casualty numbers, forced peace, and servitude."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After this Nahash king of Ammonites died, and his son reigned in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now it came to pass after this, that Nahash the king of the children of Ammon died, and his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "David said, I will show covenant-kindness to Hanun son of Nahash, because his father showed kindness to me. David sent messengers to comfort him concerning his father. David's servants came to land of Ammonites to Hanun to comfort him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said, I will shew kindness unto Hanun the son of Nahash, because his father shewed kindness to me. And David sent messengers to comfort him concerning his father. So the servants of David came into the land of the children of Ammon to Hanun, to comfort him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "covenant",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Ammonite officials said to Hanun, Does David honor your father in your eyes by sending comforters? Have his servants not come to search, overthrow, and spy out land?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the princes of the children of Ammon said to Hanun, Thinkest thou that David doth honour thy father, that he hath sent comforters unto thee? are not his servants come unto thee for to search, and to overthrow, and to spy out the land?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Hanun took David's servants, shaved them, cut garments in middle near buttocks, and sent them away.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore Hanun took David’s servants, and shaved them, and cut off their garments in the midst hard by their buttocks, and sent them away."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "People went and told David concerning men. He sent to meet them, for men were greatly humiliated. King said, Stay at Jericho until your beards grow, then return.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there went certain, and told David how the men were served. And he sent to meet them: for the men were greatly ashamed. And the king said, Tarry at Jericho until your beards be grown, and then return."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Ammonites saw they had made themselves odious to David; Hanun and Ammonites sent one thousand talents of silver to hire chariots and horsemen from Aram-naharaim, Aram-maacah, and Zobah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the children of Ammon saw that they had made themselves odious to David, Hanun and the children of Ammon sent a thousand talents of silver to hire them chariots and horsemen out of Mesopotamia, and out of Syriamaachah, and out of Zobah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "They hired thirty-two thousand chariots/forces and king of Maacah with people; they came and camped before Medeba. Ammonites gathered from cities and came for battle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they hired thirty and two thousand chariots, and the king of Maachah and his people; who came and pitched before Medeba. And the children of Ammon gathered themselves together from their cities, and came to battle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "David heard and sent Joab and all army of mighty warriors.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when David heard of it, he sent Joab, and all the host of the mighty men."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Ammonites came out and arranged battle at city gate, while kings who came were separately in field.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Ammon came out, and put the battle in array before the gate of the city: and the kings that were come were by themselves in the field."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Joab saw battle was against him front and rear; he chose from best of Israel and arranged them against Arameans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when Joab saw that the battle was set against him before and behind, he chose out of all the choice of Israel, and put them in array against the Syrians."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Rest of people he gave into hand of Abishai his brother, and they arranged against Ammonites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the people he delivered unto the hand of Abishai his brother, and they set themselves in array against the children of Ammon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "He said, If Arameans are too strong for me, you shall rescue me; if Ammonites too strong for you, I will rescue you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, If the Syrians be too strong for me, then thou shalt help me: but if the children of Ammon be too strong for thee, then I will help thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Be strong, and let us strengthen ourselves for our people and cities of our Divine; may YHWH do what is good in the eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be of good courage, and let us behave ourselves valiantly for our people, and for the cities of our God: and let the LORD do that which is good in his sight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Joab and people with him approached Arameans for battle, and they fled before him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Joab and the people that were with him drew nigh before the Syrians unto the battle; and they fled before him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Ammonites saw Arameans fled and also fled before Abishai his brother and entered city. Joab came to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the children of Ammon saw that the Syrians were fled, they likewise fled before Abishai his brother, and entered into the city. Then Joab came to Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Arameans saw they were defeated before Israel, sent messengers, and brought Arameans beyond river; Shophach commander of Hadadezer's army led them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the Syrians saw that they were put to the worse before Israel, they sent messengers, and drew forth the Syrians that were beyond the river: and Shophach the captain of the host of Hadarezer went before them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "It was told David; he gathered all Israel, crossed Jordan, came to them, and arranged battle. David arranged against Arameans, and they fought him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was told David; and he gathered all Israel, and passed over Jordan, and came upon them, and set the battle in array against them. So when David had put the battle in array against the Syrians, they fought with him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Arameans fled before Israel; David killed seven thousand chariot fighters and forty thousand foot soldiers and put Shophach commander to death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the Syrians fled before Israel; and David slew of the Syrians seven thousand men which fought in chariots, and forty thousand footmen, and killed Shophach the captain of the host."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Servants of Hadadezer saw they were defeated before Israel, made peace with David, and served him. Arameans were unwilling to help Ammonites again.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the servants of Hadarezer saw that they were put to the worse before Israel, they made peace with David, and became his servants: neither would the Syrians help the children of Ammon any more."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 10",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The chapter begins with grief diplomacy. Security concerns about espionage can be understandable, but fear does not justify abuse of envoys.",
+    "Shaving and cutting garments to expose buttocks is sexualized and gendered humiliation. It must not be treated as comedy or proof that masculinity depends on hair and clothing.",
+    "David gives the men privacy and time before public return, a constructive response to humiliation, though their own wishes are not recorded.",
+    "'Made themselves odious' describes a damaged political relationship and must not become an ethnic slur against Ammonites.",
+    "Hiring allied forces shows the economics of war; silver, transport, animals, and soldiers are mobilized through elite decisions.",
+    "Joab's mutual-support plan is tactically constructive but does not sanctify the war or erase civilians at Medeba and city gates.",
+    "The prayer that YHWH do what is good leaves outcome open; it is not proof every subsequent killing is Divine will.",
+    "Forty-seven thousand reported deaths are human catastrophe and the numbers differ from 2 Samuel 10.",
+    "Peace after overwhelming defeat and ensuing service to David are coerced imperial terms, not free reconciliation."
+  ],
+  "safety_note": "Do not mock sexualized humiliation, define manhood through beards, demonize Ammonites or Arameans, glorify mercenary war, or call forced submission peace. Center bereavement, bodily dignity, recovery privacy, civilian impact, and the humanity behind casualty totals.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-19",
+    "tags": "partial-18-of-19",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-17-of-19",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

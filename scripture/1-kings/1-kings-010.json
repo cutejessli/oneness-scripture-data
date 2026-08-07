@@ -1,1 +1,851 @@
-{"book":"1 Kings","book_id":"1-kings","chapter":10,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Kings / Melakhim Aleph chapter 10, first-pass draft aligned to public-domain verse structure; formal witness and trade-history audit remains required.","review_note":"Reviewed for the queen of Sheba's agency, intellectual exchange, court labor, royal spectacle, diplomatic gifts, exoticized trade, gold concentration, ivory, animals, militarization, Egyptian horse trade, and wisdom-versus-extraction tension."},"verses":[{"verse":1,"restored":"Queen of Sheba heard report of Solomon concerning name of YHWH, and she came to test him with difficult questions."},{"verse":2,"restored":"She came to Jerusalem with a very great company, camels carrying spices, very much gold, and precious stones. She came to Solomon and spoke with him all that was upon her heart."},{"verse":3,"restored":"Solomon answered all her matters; no matter was hidden from king that he could not explain to her."},{"verse":4,"restored":"Queen of Sheba saw all wisdom of Solomon and house he built,"},{"verse":5,"restored":"food of his table, seating of servants, attendance of ministers, their garments, cupbearers, and his ascent/burnt offering by which he went to house of YHWH; there was no more breath in her."},{"verse":6,"restored":"She said to king, True was word I heard in my land concerning your words/deeds and wisdom."},{"verse":7,"restored":"I did not believe words until I came and my eyes saw. Look, half was not told me; your wisdom and prosperity exceed report I heard."},{"verse":8,"restored":"Happy are your people/men; happy are these your servants who continually stand before you and hear your wisdom."},{"verse":9,"restored":"Blessed be YHWH your Divine, who delighted in you to place you upon throne of Israel. Because YHWH loved Israel forever, YHWH made you king to do justice and righteousness."},{"verse":10,"restored":"She gave king one hundred twenty talents of gold, very great abundance of spices, and precious stones. Never again came such abundance of spices as Queen of Sheba gave King Solomon."},{"verse":11,"restored":"Hiram's fleet that brought gold from Ophir also brought from Ophir very great amounts of almug wood and precious stones."},{"verse":12,"restored":"King made from almug wood supports for house of YHWH and king's house, and lyres and harps for singers. Such almug wood had not come or been seen until this day."},{"verse":13,"restored":"King Solomon gave Queen of Sheba all her desire, whatever she asked, besides what he gave her according to royal hand. She turned and went to her land, she and her servants."},{"verse":14,"restored":"Weight of gold coming to Solomon in one year was six hundred sixty-six talents of gold,"},{"verse":15,"restored":"besides from traders, merchant traffic, all kings of Arabia, and governors of land."},{"verse":16,"restored":"King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went upon each shield."},{"verse":17,"restored":"He made three hundred small shields of hammered gold; three minas of gold went upon each shield. King placed them in House of Forest of Lebanon."},{"verse":18,"restored":"The king made a great throne of ivory and overlaid it with refined gold."},{"verse":19,"restored":"The throne had six steps, a rounded top behind, arms on both sides of seat, and two lions standing beside arms."},{"verse":20,"restored":"Twelve lions stood there upon six steps, one on each side. Nothing like it was made for any kingdom."},{"verse":21,"restored":"All King Solomon's drinking vessels were gold, and all vessels of House of Forest of Lebanon were pure gold; silver was considered as nothing in days of Solomon."},{"verse":22,"restored":"King had a fleet of Tarshish at sea with Hiram's fleet. Once in three years fleet came bearing gold, silver, ivory, apes, and peacocks/baboons."},{"verse":23,"restored":"King Solomon became greater than all kings of earth in riches and wisdom."},{"verse":24,"restored":"All earth sought face of Solomon to hear wisdom Divine had put in his heart."},{"verse":25,"restored":"Each brought gift: vessels of silver and gold, garments, weapons, spices, horses, and mules, a yearly amount."},{"verse":26,"restored":"Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, stationed in chariot cities and with king in Jerusalem."},{"verse":27,"restored":"King made silver in Jerusalem like stones, and cedars like sycamores in lowland for abundance."},{"verse":28,"restored":"Solomon's horses were imported from Egypt and Kue; king's merchants acquired them from Kue at a price."},{"verse":29,"restored":"A chariot came up and went out from Egypt for six hundred shekels of silver, and a horse for one hundred fifty. Thus through their hand they exported them to all kings of Hittites and kings of Aram."}],"translation_notes":["The queen of Sheba is a sovereign intellectual and diplomatic actor who travels with resources, questions Solomon, evaluates his court, blesses YHWH, negotiates exchange, and returns to her own country.","Her astonishment includes servants, ministers, food, dress, architecture, and ritual. Court magnificence depends upon extensive labor and disciplined hierarchy.","Her blessing names justice and righteousness as the purpose of kingship; wealth and reputation are not the standard.","Spices, gold, gems, rare wood, ivory, animals, horses, and textiles come through long-distance networks involving extraction, animal capture, transport danger, and workers absent from the narrative.","The ivory throne requires killed elephants or traded tusks; animal bodies are part of royal spectacle.","Gold shields and vessels convert extreme wealth into display while silver loses value at court. Abundance concentrated at the center does not prove equitable prosperity.","Apes and other animals brought as exotic cargo should not be romanticized; capture and transport likely involved suffering.","Chariot and horse accumulation conflicts with Torah's warnings about royal militarization and return to Egypt.","The chapter intentionally moves from a woman praising justice to an inventory of excess, inviting the reader to test Solomon's wisdom against his accumulation."],"safety_note":"Do not exoticize the queen of Sheba, erase her sovereignty, or reduce her to admiration of a male king. Do not present ivory, captured animals, gold concentration, tribute, or arms trading as uncomplicated blessing. Measure wisdom by justice and righteousness."}
+{
+  "book": "1 Kings",
+  "book_id": "1-kings",
+  "chapter": 10,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Kings / Melakhim Aleph chapter 10, first-pass draft aligned to public-domain verse structure; formal witness and trade-history audit remains required.",
+    "review_note": "Reviewed for the queen of Sheba's agency, intellectual exchange, court labor, royal spectacle, diplomatic gifts, exoticized trade, gold concentration, ivory, animals, militarization, Egyptian horse trade, and wisdom-versus-extraction tension."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Queen of Sheba heard report of Solomon concerning name of YHWH, and she came to test him with difficult questions.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the queen of Sheba heard of the fame of Solomon concerning the name of the LORD, she came to prove him with hard questions."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "She came to Jerusalem with a very great company, camels carrying spices, very much gold, and precious stones. She came to Solomon and spoke with him all that was upon her heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she came to Jerusalem with a very great train, with camels that bare spices, and very much gold, and precious stones: and when she was come to Solomon, she communed with him of all that was in her heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Solomon answered all her matters; no matter was hidden from king that he could not explain to her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon told her all her questions: there was not any thing hid from the king, which he told her not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Queen of Sheba saw all wisdom of Solomon and house he built,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the queen of Sheba had seen all Solomon’s wisdom, and the house that he had built,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "food of his table, seating of servants, attendance of ministers, their garments, cupbearers, and his ascent/burnt offering by which he went to house of YHWH; there was no more breath in her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the meat of his table, and the sitting of his servants, and the attendance of his ministers, and their apparel, and his cupbearers, and his ascent by which he went up unto the house of the LORD; there was no more spirit in her."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "labor-power",
+        "sacrifice-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "She said to king, True was word I heard in my land concerning your words/deeds and wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she said to the king, It was a true report that I heard in mine own land of thy acts and of thy wisdom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "I did not believe words until I came and my eyes saw. Look, half was not told me; your wisdom and prosperity exceed report I heard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit I believed not the words, until I came, and mine eyes had seen it: and, behold, the half was not told me: thy wisdom and prosperity exceedeth the fame which I heard."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Happy are your people/men; happy are these your servants who continually stand before you and hear your wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Happy are thy men, happy are these thy servants, which stand continually before thee, and that hear thy wisdom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Blessed be YHWH your Divine, who delighted in you to place you upon throne of Israel. Because YHWH loved Israel forever, YHWH made you king to do justice and righteousness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed be the LORD thy God, which delighted in thee, to set thee on the throne of Israel: because the LORD loved Israel for ever, therefore made he thee king, to do judgment and justice."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "She gave king one hundred twenty talents of gold, very great abundance of spices, and precious stones. Never again came such abundance of spices as Queen of Sheba gave King Solomon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she gave the king an hundred and twenty talents of gold, and of spices very great store, and precious stones: there came no more such abundance of spices as these which the queen of Sheba gave to king Solomon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Hiram's fleet that brought gold from Ophir also brought from Ophir very great amounts of almug wood and precious stones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the navy also of Hiram, that brought gold from Ophir, brought in from Ophir great plenty of almug trees, and precious stones."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "King made from almug wood supports for house of YHWH and king's house, and lyres and harps for singers. Such almug wood had not come or been seen until this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king made of the almug trees pillars for the house of the LORD, and for the king’s house, harps also and psalteries for singers: there came no such almug trees, nor were seen unto this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space",
+        "music-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "King Solomon gave Queen of Sheba all her desire, whatever she asked, besides what he gave her according to royal hand. She turned and went to her land, she and her servants.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And king Solomon gave unto the queen of Sheba all her desire, whatsoever she asked, beside that which Solomon gave her of his royal bounty. So she turned and went to her own country, she and her servants."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Weight of gold coming to Solomon in one year was six hundred sixty-six talents of gold,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the weight of gold that came to Solomon in one year was six hundred threescore and six talents of gold,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "besides from traders, merchant traffic, all kings of Arabia, and governors of land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beside that he had of the merchantmen, and of the traffick of the spice merchants, and of all the kings of Arabia, and of the governors of the country."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "King Solomon made two hundred large shields of hammered gold; six hundred shekels of gold went upon each shield.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And king Solomon made two hundred targets of beaten gold: six hundred shekels of gold went to one target."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He made three hundred small shields of hammered gold; three minas of gold went upon each shield. King placed them in House of Forest of Lebanon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he made three hundred shields of beaten gold; three pound of gold went to one shield: and the king put them in the house of the forest of Lebanon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The king made a great throne of ivory and overlaid it with refined gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the king made a great throne of ivory, and overlaid it with the best gold."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "The throne had six steps, a rounded top behind, arms on both sides of seat, and two lions standing beside arms.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The throne had six steps, and the top of the throne was round behind: and there were stays on either side on the place of the seat, and two lions stood beside the stays."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Twelve lions stood there upon six steps, one on each side. Nothing like it was made for any kingdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And twelve lions stood there on the one side and on the other upon the six steps: there was not the like made in any kingdom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "All King Solomon's drinking vessels were gold, and all vessels of House of Forest of Lebanon were pure gold; silver was considered as nothing in days of Solomon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all king Solomon’s drinking vessels were of gold, and all the vessels of the house of the forest of Lebanon were of pure gold; none were of silver: it was nothing accounted of in the days of Solomon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "King had a fleet of Tarshish at sea with Hiram's fleet. Once in three years fleet came bearing gold, silver, ivory, apes, and peacocks/baboons.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the king had at sea a navy of Tharshish with the navy of Hiram: once in three years came the navy of Tharshish, bringing gold, and silver, ivory, and apes, and peacocks."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "King Solomon became greater than all kings of earth in riches and wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So king Solomon exceeded all the kings of the earth for riches and for wisdom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "All earth sought face of Solomon to hear wisdom Divine had put in his heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Each brought gift: vessels of silver and gold, garments, weapons, spices, horses, and mules, a yearly amount.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Solomon gathered chariots and horsemen. He had one thousand four hundred chariots and twelve thousand horsemen, stationed in chariot cities and with king in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen, whom he bestowed in the cities for chariots, and with the king at Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "King made silver in Jerusalem like stones, and cedars like sycamores in lowland for abundance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king made silver to be in Jerusalem as stones, and cedars made he to be as the sycomore trees that are in the vale, for abundance."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Solomon's horses were imported from Egypt and Kue; king's merchants acquired them from Kue at a price.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon had horses brought out of Egypt, and linen yarn: the king’s merchants received the linen yarn at a price."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "A chariot came up and went out from Egypt for six hundred shekels of silver, and a horse for one hundred fifty. Thus through their hand they exported them to all kings of Hittites and kings of Aram.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 8-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The queen of Sheba is a sovereign intellectual and diplomatic actor who travels with resources, questions Solomon, evaluates his court, blesses YHWH, negotiates exchange, and returns to her own country.",
+    "Her astonishment includes servants, ministers, food, dress, architecture, and ritual. Court magnificence depends upon extensive labor and disciplined hierarchy.",
+    "Her blessing names justice and righteousness as the purpose of kingship; wealth and reputation are not the standard.",
+    "Spices, gold, gems, rare wood, ivory, animals, horses, and textiles come through long-distance networks involving extraction, animal capture, transport danger, and workers absent from the narrative.",
+    "The ivory throne requires killed elephants or traded tusks; animal bodies are part of royal spectacle.",
+    "Gold shields and vessels convert extreme wealth into display while silver loses value at court. Abundance concentrated at the center does not prove equitable prosperity.",
+    "Apes and other animals brought as exotic cargo should not be romanticized; capture and transport likely involved suffering.",
+    "Chariot and horse accumulation conflicts with Torah's warnings about royal militarization and return to Egypt.",
+    "The chapter intentionally moves from a woman praising justice to an inventory of excess, inviting the reader to test Solomon's wisdom against his accumulation."
+  ],
+  "safety_note": "Do not exoticize the queen of Sheba, erase her sovereignty, or reduce her to admiration of a male king. Do not present ivory, captured animals, gold concentration, tribute, or arms trading as uncomplicated blessing. Measure wisdom by justice and righteousness.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-21-of-29",
+    "tags": "partial-21-of-29",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-21-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

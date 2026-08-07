@@ -1,1 +1,668 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":23,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph Solomon succession and Levitical organization, first-pass restored draft; later witness audit required","review_note":"Reviewed for idealized succession, Levite census and age thresholds, labor divisions, hereditary office, Aaron/Moses status, daughters and cousin marriage, daily worship, and Jerusalem permanence language."},"verses":[{"verse":1,"restored":"David was old and full of days, and he made Solomon his son king over Israel."},{"verse":2,"restored":"He gathered all leaders of Israel, priests, and Levites."},{"verse":3,"restored":"Levites were counted from age thirty and upward; their number by head, man by man, was thirty-eight thousand."},{"verse":4,"restored":"Of these, twenty-four thousand oversaw work of house of YHWH, six thousand were officers and judges,"},{"verse":5,"restored":"four thousand gatekeepers, and four thousand praised YHWH with instruments David made for praise."},{"verse":6,"restored":"David divided them into courses according to sons of Levi: Gershon, Kohath, and Merari."},{"verse":7,"restored":"Of Gershonites: Ladan and Shimei."},{"verse":8,"restored":"Sons of Ladan: Jehiel the chief, Zetham, and Joel—three."},{"verse":9,"restored":"Sons of Shimei: Shelomoth, Haziel, and Haran—three; these were heads of Ladan's ancestral houses."},{"verse":10,"restored":"Sons of Shimei: Jahath, Zina/Zizah, Jeush, and Beriah—four."},{"verse":11,"restored":"Jahath was chief and Zizah second; Jeush and Beriah did not have many sons, so they were counted as one ancestral house."},{"verse":12,"restored":"Sons of Kohath: Amram, Izhar, Hebron, and Uzziel—four."},{"verse":13,"restored":"Sons of Amram: Aaron and Moses. Aaron was set apart to consecrate most holy things, he and sons enduringly, to burn incense before YHWH, minister, and bless in the name."},{"verse":14,"restored":"As for Moses, man of Divine, his sons were named among tribe of Levi."},{"verse":15,"restored":"Sons of Moses: Gershom and Eliezer."},{"verse":16,"restored":"From sons of Gershom, Shebuel was chief."},{"verse":17,"restored":"Descendant of Eliezer: Rehabiah the chief. Eliezer had no other sons, but sons of Rehabiah were very many."},{"verse":18,"restored":"From sons of Izhar, Shelomith was chief."},{"verse":19,"restored":"Sons of Hebron: Jeriah first, Amariah second, Jahaziel third, Jekameam fourth."},{"verse":20,"restored":"Sons of Uzziel: Micah first, Isshiah second."},{"verse":21,"restored":"Sons of Merari: Mahli and Mushi. Sons of Mahli: Eleazar and Kish."},{"verse":22,"restored":"Eleazar died and had no sons, only daughters; their brothers/kinsmen, sons of Kish, took them as wives."},{"verse":23,"restored":"Sons of Mushi: Mahli, Eder, and Jeremoth—three."},{"verse":24,"restored":"These were sons of Levi by ancestral houses, heads counted by names, doing service work of house of YHWH from age twenty and upward."},{"verse":25,"restored":"For David said, YHWH Divine of Israel has given rest to people and dwells in Jerusalem enduringly."},{"verse":26,"restored":"Levites no longer need carry dwelling or any vessels for its service."},{"verse":27,"restored":"By David's last words Levites were counted from age twenty and upward."},{"verse":28,"restored":"Their station was beside sons of Aaron for service of house of YHWH, over courts, chambers, purification of sacred things, and service work of house of Divine,"},{"verse":29,"restored":"over bread of rows, fine flour for grain offering, unleavened wafers, pan-baked and mixed offerings, and every measure and size,"},{"verse":30,"restored":"and to stand morning by morning to thank and praise YHWH, and likewise at evening,"},{"verse":31,"restored":"and for all burnt offerings to YHWH on Sabbaths, new moons, and appointed festivals, by number according to ordinance continually before YHWH."},{"verse":32,"restored":"They guarded responsibility of tent of meeting, sacred place, and sons of Aaron their relatives, in service of house of YHWH."}],"translation_notes":["The smooth succession omits Adonijah's competing claim and violence in 1 Kings 1-2; idealized transfer must not erase conflict.","Levite census and changing minimum age show administrative adaptation, not an eternally fixed labor system.","Twenty-year-old workers may still be vulnerable to family, religious, and royal pressure; sacred employment requires consent and protection.","Hereditary priestly hierarchy describes an ancient institution, not modern clerical caste or male-only authority.","Eleazar's daughters are used to continue property and lineage through marriage to cousins; their consent and individual lives are not narrated.","Few or many sons do not measure worth, blessing, or fitness for leadership.","Daily worship depends on food preparation, cleaning, measurement, guarding, and shift labor as well as public praise.","Animal offerings remain part of the workload and should not disappear into administrative language.","Jerusalem 'forever' is covenantal liturgy, not a modern exclusivist property claim."],"safety_note":"Do not use Levitical organization to justify child or young-adult labor pressure, clerical caste, male supremacy, coerced cousin marriage, fertility hierarchy, or modern territorial exclusivity. Center consent, labor conditions, daughters, ordinary service work, and the conflict hidden by smooth succession."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 23,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph Solomon succession and Levitical organization, first-pass restored draft; later witness audit required",
+    "review_note": "Reviewed for idealized succession, Levite census and age thresholds, labor divisions, hereditary office, Aaron/Moses status, daughters and cousin marriage, daily worship, and Jerusalem permanence language."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "David was old and full of days, and he made Solomon his son king over Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So when David was old and full of days, he made Solomon his son king over Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He gathered all leaders of Israel, priests, and Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he gathered together all the princes of Israel, with the priests and the Levites."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Levites were counted from age thirty and upward; their number by head, man by man, was thirty-eight thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the Levites were numbered from the age of thirty years and upward: and their number by their polls, man by man, was thirty and eight thousand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Of these, twenty-four thousand oversaw work of house of YHWH, six thousand were officers and judges,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of which, twenty and four thousand were to set forward the work of the house of the LORD; and six thousand were officers and judges:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "four thousand gatekeepers, and four thousand praised YHWH with instruments David made for praise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover four thousand were porters; and four thousand praised the LORD with the instruments which I made, said David, to praise therewith."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "David divided them into courses according to sons of Levi: Gershon, Kohath, and Merari.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Of Gershonites: Ladan and Shimei.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the Gershonites were, Laadan, and Shimei."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Sons of Ladan: Jehiel the chief, Zetham, and Joel—three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Sons of Shimei: Shelomoth, Haziel, and Haran—three; these were heads of Ladan's ancestral houses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Sons of Shimei: Jahath, Zina/Zizah, Jeush, and Beriah—four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Jahath was chief and Zizah second; Jeush and Beriah did not have many sons, so they were counted as one ancestral house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father’s house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Sons of Kohath: Amram, Izhar, Hebron, and Uzziel—four.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Sons of Amram: Aaron and Moses. Aaron was set apart to consecrate most holy things, he and sons enduringly, to burn incense before YHWH, minister, and bless in the name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the LORD, to minister unto him, and to bless in his name for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "As for Moses, man of Divine, his sons were named among tribe of Levi.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now concerning Moses the man of God, his sons were named of the tribe of Levi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Sons of Moses: Gershom and Eliezer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Moses were, Gershom, and Eliezer."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "From sons of Gershom, Shebuel was chief.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Gershom, Shebuel was the chief."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Descendant of Eliezer: Rehabiah the chief. Eliezer had no other sons, but sons of Rehabiah were very many.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Eliezer were, Rehabiah the chief. And Eliezer had none other sons; but the sons of Rehabiah were very many."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "From sons of Izhar, Shelomith was chief.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Izhar; Shelomith the chief."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Sons of Hebron: Jeriah first, Amariah second, Jahaziel third, Jekameam fourth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Sons of Uzziel: Micah first, Isshiah second.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Uzziel; Micah the first, and Jesiah the second."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Sons of Merari: Mahli and Mushi. Sons of Mahli: Eleazar and Kish.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Merari; Mahli, and Mushi. The sons of Mahli; Eleazar, and Kish."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Eleazar died and had no sons, only daughters; their brothers/kinsmen, sons of Kish, took them as wives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Sons of Mushi: Mahli, Eder, and Jeremoth—three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Mushi; Mahli, and Eder, and Jeremoth, three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "These were sons of Levi by ancestral houses, heads counted by names, doing service work of house of YHWH from age twenty and upward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were the sons of Levi after the house of their fathers; even the chief of the fathers, as they were counted by number of names by their polls, that did the work for the service of the house of the LORD, from the age of twenty years and upward."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "For David said, YHWH Divine of Israel has given rest to people and dwells in Jerusalem enduringly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For David said, The LORD God of Israel hath given rest unto his people, that they may dwell in Jerusalem for ever:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Levites no longer need carry dwelling or any vessels for its service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "By David's last words Levites were counted from age twenty and upward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For by the last words of David the Levites were numbered from twenty years old and above:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Their station was beside sons of Aaron for service of house of YHWH, over courts, chambers, purification of sacred things, and service work of house of Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because their office was to wait on the sons of Aaron for the service of the house of the LORD, in the courts, and in the chambers, and in the purifying of all holy things, and the work of the service of the house of God;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "over bread of rows, fine flour for grain offering, unleavened wafers, pan-baked and mixed offerings, and every measure and size,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "and to stand morning by morning to thank and praise YHWH, and likewise at evening,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to stand every morning to thank and praise the LORD, and likewise at even;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "and for all burnt offerings to YHWH on Sabbaths, new moons, and appointed festivals, by number according to ordinance continually before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to offer all burnt sacrifices unto the LORD in the sabbaths, in the new moons, and on the set feasts, by number, according to the order commanded unto them, continually before the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "They guarded responsibility of tent of meeting, sacred place, and sons of Aaron their relatives, in service of house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The smooth succession omits Adonijah's competing claim and violence in 1 Kings 1-2; idealized transfer must not erase conflict.",
+    "Levite census and changing minimum age show administrative adaptation, not an eternally fixed labor system.",
+    "Twenty-year-old workers may still be vulnerable to family, religious, and royal pressure; sacred employment requires consent and protection.",
+    "Hereditary priestly hierarchy describes an ancient institution, not modern clerical caste or male-only authority.",
+    "Eleazar's daughters are used to continue property and lineage through marriage to cousins; their consent and individual lives are not narrated.",
+    "Few or many sons do not measure worth, blessing, or fitness for leadership.",
+    "Daily worship depends on food preparation, cleaning, measurement, guarding, and shift labor as well as public praise.",
+    "Animal offerings remain part of the workload and should not disappear into administrative language.",
+    "Jerusalem 'forever' is covenantal liturgy, not a modern exclusivist property claim."
+  ],
+  "safety_note": "Do not use Levitical organization to justify child or young-adult labor pressure, clerical caste, male supremacy, coerced cousin marriage, fertility hierarchy, or modern territorial exclusivity. Center consent, labor conditions, daughters, ordinary service work, and the conflict hidden by smooth succession.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-15-of-32",
+    "tags": "partial-28-of-32",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

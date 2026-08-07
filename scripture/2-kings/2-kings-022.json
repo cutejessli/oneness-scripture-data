@@ -1,1 +1,684 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":22,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Josiah accession, temple repair, discovered Torah scroll, royal grief, and Huldah oracle narrative, draft aligned later","review_note":"First-pass draft reviewed for eight-year-old kingship, Jedidah's lineage, temple-repair finance and worker trust, finding and reading the scroll, royal mourning, intergenerational guilt, delegation to Huldah, a woman's prophetic authority, collective disaster oracle, tender-hearted response, and the tension between promised peaceful burial and Josiah's later battlefield death."},"verses":[{"verse":1,"restored":"Eight years old was Josiah when he became king, and thirty-one years he reigned in Jerusalem. Name of his mother was Jedidah daughter of Adaiah from Bozkath."},{"verse":2,"restored":"He did what was right in eyes of YHWH, walked in all way of David his father, and did not turn aside right or left."},{"verse":3,"restored":"In eighteenth year of king Josiah, king sent Shaphan son of Azaliah son of Meshullam, the scribe, to house of YHWH, saying,"},{"verse":4,"restored":"Go up to Hilkiah the high priest, and let him count silver brought into house of YHWH, which guardians of threshold gathered from people."},{"verse":5,"restored":"Let them give it into hand of those doing work, those appointed over house of YHWH, and let them give it to those doing work in house of YHWH to repair breaches of house,"},{"verse":6,"restored":"to carpenters, builders, and masons, and to buy timber and hewn stone to repair house."},{"verse":7,"restored":"Only no accounting was made with them for silver given into their hand, because they dealt faithfully."},{"verse":8,"restored":"Hilkiah the high priest said to Shaphan the scribe, I found scroll of Torah in house of YHWH. Hilkiah gave scroll to Shaphan, and he read it."},{"verse":9,"restored":"Shaphan the scribe came to king and returned word to king, saying, Your servants emptied out silver found in house and gave it into hand of those doing work, those appointed over house of YHWH."},{"verse":10,"restored":"Shaphan the scribe told king, saying, Hilkiah the priest gave me a scroll. Shaphan read it before king."},{"verse":11,"restored":"When king heard words of scroll of Torah, he tore his garments."},{"verse":12,"restored":"King commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah servant of king, saying,"},{"verse":13,"restored":"Go, inquire of YHWH for me, for people, and for all Judah concerning words of this scroll that was found, for great is wrath of YHWH kindled against us because our fathers did not listen to words of this scroll, to do according to all written concerning us."},{"verse":14,"restored":"Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophet, wife of Shallum son of Tikvah son of Harhas, keeper of garments. She lived in Jerusalem in second quarter, and they spoke with her."},{"verse":15,"restored":"She said to them, Thus says YHWH, Divine of Israel: Say to man who sent you to me,"},{"verse":16,"restored":"Thus says YHWH: Look, I am bringing evil upon this place and upon its inhabitants—all words of scroll king of Judah read—"},{"verse":17,"restored":"because they abandoned me and burned incense to other gods, provoking me with all work of their hands. My wrath shall be kindled against this place and shall not be quenched."},{"verse":18,"restored":"But to king of Judah who sent you to inquire of YHWH, thus you shall say to him: Thus says YHWH, Divine of Israel, concerning words you heard:"},{"verse":19,"restored":"Because your heart was tender and you humbled yourself before YHWH when you heard what I spoke against this place and its inhabitants, that they would become desolation and curse, and you tore your garments and wept before me, I also heard, says YHWH."},{"verse":20,"restored":"Therefore look, I am gathering you to your fathers, and you shall be gathered to your grave in peace; your eyes shall not see all evil I am bringing upon this place. They returned word to king."}],"translation_notes":["Josiah begins ruling at eight. His later reform should not be used to romanticize child kingship or erase the adult court, caregivers, officials, and institutions governing around him.","Temple-repair funds are counted and placed with supervisors, craftspeople, and suppliers. Faithful handling is praised, but modern sacred institutions still require transparent accounting, worker protections, and independent review.","The scroll is 'found' in the temple and becomes authoritative through reading, interpretation, and communal response. Its identity, dating, edition, and relationship to Deuteronomy require source-critical audit.","Josiah tears his garments rather than denying the document or punishing its readers. A text's authority is tested by whether it opens accountability, not merely whether leaders invoke it.","Huldah is the decisive prophetic authority consulted by priest, scribe, and royal officials. Her gender must not be minimized, explained away, or subordinated to male prophets who were also active in the period.","Huldah is identified through her own prophetic role as well as household and neighborhood. 'Second quarter' is geographical, not a statement of lesser status.","The oracle threatens inhabitants collectively for prior generations' practices. This is morally dangerous punishment theology and may not justify harming descendants or civilians.","Josiah's tenderness, tears, and humility are heard. Emotional responsiveness is presented as leadership strength, not weakness.","The promise that Josiah will be gathered in peace conflicts or interacts complexly with his later death at Megiddo. The tension must remain visible rather than being harmonized deceptively.","A delayed disaster is not full justice if later people still bear it. Personal reprieve does not resolve communal danger."],"safety_note":"Do not glorify child rule, use trust to eliminate financial oversight, silence women's spiritual authority, or turn a discovered text into permission for collective punishment. Center craftspeople, transparent stewardship, Huldah's full authority, Josiah's accountable grief, and the unresolved tension between individual peace and future communal disaster."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Josiah accession, temple repair, discovered Torah scroll, royal grief, and Huldah oracle narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for eight-year-old kingship, Jedidah's lineage, temple-repair finance and worker trust, finding and reading the scroll, royal mourning, intergenerational guilt, delegation to Huldah, a woman's prophetic authority, collective disaster oracle, tender-hearted response, and the tension between promised peaceful burial and Josiah's later battlefield death."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Eight years old was Josiah when he became king, and thirty-one years he reigned in Jerusalem. Name of his mother was Jedidah daughter of Adaiah from Bozkath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Josiah was eight years old when he began to reign, and he reigned thirty and one years in Jerusalem. And his mother’s name was Jedidah, the daughter of Adaiah of Boscath."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He did what was right in eyes of YHWH, walked in all way of David his father, and did not turn aside right or left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was right in the sight of the LORD, and walked in all the way of David his father, and turned not aside to the right hand or to the left."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "In eighteenth year of king Josiah, king sent Shaphan son of Azaliah son of Meshullam, the scribe, to house of YHWH, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the eighteenth year of king Josiah, that the king sent Shaphan the son of Azaliah, the son of Meshullam, the scribe, to the house of the LORD, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Go up to Hilkiah the high priest, and let him count silver brought into house of YHWH, which guardians of threshold gathered from people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the LORD, which the keepers of the door have gathered of the people:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let them give it into hand of those doing work, those appointed over house of YHWH, and let them give it to those doing work in house of YHWH to repair breaches of house,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And let them deliver it into the hand of the doers of the work, that have the oversight of the house of the LORD: and let them give it to the doers of the work which is in the house of the LORD, to repair the breaches of the house,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "to carpenters, builders, and masons, and to buy timber and hewn stone to repair house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto carpenters, and builders, and masons, and to buy timber and hewn stone to repair the house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Only no accounting was made with them for silver given into their hand, because they dealt faithfully.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Hilkiah the high priest said to Shaphan the scribe, I found scroll of Torah in house of YHWH. Hilkiah gave scroll to Shaphan, and he read it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hilkiah the high priest said unto Shaphan the scribe, I have found the book of the law in the house of the LORD. And Hilkiah gave the book to Shaphan, and he read it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Shaphan the scribe came to king and returned word to king, saying, Your servants emptied out silver found in house and gave it into hand of those doing work, those appointed over house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Shaphan the scribe told king, saying, Hilkiah the priest gave me a scroll. Shaphan read it before king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shaphan the scribe shewed the king, saying, Hilkiah the priest hath delivered me a book. And Shaphan read it before the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "When king heard words of scroll of Torah, he tore his garments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the king had heard the words of the book of the law, that he rent his clothes."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "King commanded Hilkiah the priest, Ahikam son of Shaphan, Achbor son of Micaiah, Shaphan the scribe, and Asaiah servant of king, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king commanded Hilkiah the priest, and Ahikam the son of Shaphan, and Achbor the son of Michaiah, and Shaphan the scribe, and Asahiah a servant of the king’s, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Go, inquire of YHWH for me, for people, and for all Judah concerning words of this scroll that was found, for great is wrath of YHWH kindled against us because our fathers did not listen to words of this scroll, to do according to all written concerning us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go ye, enquire of the LORD for me, and for the people, and for all Judah, concerning the words of this book that is found: for great is the wrath of the LORD that is kindled against us, because our fathers have not hearkened unto the words of this book, to do according unto all that which is written concerning us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Hilkiah the priest, Ahikam, Achbor, Shaphan, and Asaiah went to Huldah the prophet, wife of Shallum son of Tikvah son of Harhas, keeper of garments. She lived in Jerusalem in second quarter, and they spoke with her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asahiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "She said to them, Thus says YHWH, Divine of Israel: Say to man who sent you to me,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she said unto them, Thus saith the LORD God of Israel, Tell the man that sent you to me,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Thus says YHWH: Look, I am bringing evil upon this place and upon its inhabitants—all words of scroll king of Judah read—",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith the LORD, Behold, I will bring evil upon this place, and upon the inhabitants thereof, even all the words of the book which the king of Judah hath read:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "because they abandoned me and burned incense to other gods, provoking me with all work of their hands. My wrath shall be kindled against this place and shall not be quenched.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "But to king of Judah who sent you to inquire of YHWH, thus you shall say to him: Thus says YHWH, Divine of Israel, concerning words you heard:",
+      "familiar": {
+        "source": "KJV",
+        "text": "But to the king of Judah which sent you to enquire of the LORD, thus shall ye say to him, Thus saith the LORD God of Israel, As touching the words which thou hast heard;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Because your heart was tender and you humbled yourself before YHWH when you heard what I spoke against this place and its inhabitants, that they would become desolation and curse, and you tore your garments and wept before me, I also heard, says YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because thine heart was tender, and thou hast humbled thyself before the LORD, when thou heardest what I spake against this place, and against the inhabitants thereof, that they should become a desolation and a curse, and hast rent thy clothes, and wept before me; I also have heard thee, saith the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Therefore look, I am gathering you to your fathers, and you shall be gathered to your grave in peace; your eyes shall not see all evil I am bringing upon this place. They returned word to king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 34",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Josiah begins ruling at eight. His later reform should not be used to romanticize child kingship or erase the adult court, caregivers, officials, and institutions governing around him.",
+    "Temple-repair funds are counted and placed with supervisors, craftspeople, and suppliers. Faithful handling is praised, but modern sacred institutions still require transparent accounting, worker protections, and independent review.",
+    "The scroll is 'found' in the temple and becomes authoritative through reading, interpretation, and communal response. Its identity, dating, edition, and relationship to Deuteronomy require source-critical audit.",
+    "Josiah tears his garments rather than denying the document or punishing its readers. A text's authority is tested by whether it opens accountability, not merely whether leaders invoke it.",
+    "Huldah is the decisive prophetic authority consulted by priest, scribe, and royal officials. Her gender must not be minimized, explained away, or subordinated to male prophets who were also active in the period.",
+    "Huldah is identified through her own prophetic role as well as household and neighborhood. 'Second quarter' is geographical, not a statement of lesser status.",
+    "The oracle threatens inhabitants collectively for prior generations' practices. This is morally dangerous punishment theology and may not justify harming descendants or civilians.",
+    "Josiah's tenderness, tears, and humility are heard. Emotional responsiveness is presented as leadership strength, not weakness.",
+    "The promise that Josiah will be gathered in peace conflicts or interacts complexly with his later death at Megiddo. The tension must remain visible rather than being harmonized deceptively.",
+    "A delayed disaster is not full justice if later people still bear it. Personal reprieve does not resolve communal danger."
+  ],
+  "safety_note": "Do not glorify child rule, use trust to eliminate financial oversight, silence women's spiritual authority, or turn a discovered text into permission for collective punishment. Center craftspeople, transparent stewardship, Huldah's full authority, Josiah's accountable grief, and the unresolved tension between individual peace and future communal disaster.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-17-of-20",
+    "tags": "partial-14-of-20",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-11-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

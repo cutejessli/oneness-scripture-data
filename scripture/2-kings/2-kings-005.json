@@ -1,1 +1,614 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Naaman, captive girl, Elisha, Jordan washing, and Gehazi narrative, draft aligned later","review_note":"First-pass draft reviewed for Naaman's military status and skin disease, the unnamed captive Israelite girl's agency, diplomatic misreading, Elisha's refusal of spectacle, Jordan washing, anti-xenophobia, Gehazi's deception and wealth-taking, and disease transfer language."},"verses":[{"verse":1,"restored":"Naaman, commander of army of king of Aram, was a great man before his lord and lifted of face, because by him YHWH had given victory to Aram. The man was a mighty man of strength, and afflicted with a skin disease."},{"verse":2,"restored":"Arameans had gone out in raiding bands and captured from land of Israel a young girl, and she was before Naaman's wife."},{"verse":3,"restored":"She said to her mistress, If only my lord were before prophet who is in Samaria, then he would gather/heal him from his skin disease."},{"verse":4,"restored":"He went and told his lord, saying, Thus and thus spoke the girl who is from land of Israel."},{"verse":5,"restored":"King of Aram said, Go, enter, and I will send a letter to king of Israel. He went and took in his hand ten talents of silver, six thousand gold pieces, and ten changes of garments."},{"verse":6,"restored":"He brought letter to king of Israel, saying, Now when this letter comes to you, look, I have sent to you Naaman my servant so you may gather/heal him from his skin disease."},{"verse":7,"restored":"It was, when king of Israel read the letter, that he tore his garments and said, Am I Divine, to put to death and make alive, that this one sends to me to gather/heal a man from his skin disease? Surely know and see that he seeks occasion against me."},{"verse":8,"restored":"It was, when Elisha man of Divine heard that king of Israel tore his garments, that he sent to king, saying, Why have you torn your garments? Let him come now to me, and he shall know there is a prophet in Israel."},{"verse":9,"restored":"Naaman came with his horses and chariot and stood at entrance of house of Elisha."},{"verse":10,"restored":"Elisha sent a messenger to him, saying, Go and wash seven times in Jordan, and your flesh shall return to you, and you shall be clean."},{"verse":11,"restored":"Naaman was angry and went away, saying, Look, I said to myself, Going out, he will surely come out to me, stand, call in name of YHWH his Divine, wave his hand over place, and gather/heal the skin disease."},{"verse":12,"restored":"Are not Abanah and Pharpar, rivers of Damascus, better than all waters of Israel? Could I not wash in them and be clean? He turned and went in fury."},{"verse":13,"restored":"His servants drew near and spoke to him, saying, My father, had prophet spoken to you a great thing, would you not do it? How much more when he said to you, Wash and be clean?"},{"verse":14,"restored":"He went down and dipped in Jordan seven times according to word of man of Divine, and his flesh returned like flesh of a little boy, and he was clean."},{"verse":15,"restored":"He returned to man of Divine, he and all his camp, came and stood before him, and said, Look, now I know there is no Divine in all earth except in Israel. Now please take a blessing/gift from your servant."},{"verse":16,"restored":"He said, As YHWH lives, before whom I stand, I will not take. He pressed him to take, but he refused."},{"verse":17,"restored":"Naaman said, If not, please let there be given to your servant burden of a pair of mules of earth, for your servant will no longer make burnt offering or sacrifice to other gods, but to YHWH."},{"verse":18,"restored":"For this thing may YHWH forgive your servant: when my lord enters house of Rimmon to bow there, and he leans upon my hand, and I bow in house of Rimmon—when I bow in house of Rimmon, may YHWH forgive your servant in this thing."},{"verse":19,"restored":"He said to him, Go in peace. He went from him a short distance."},{"verse":20,"restored":"Gehazi, servant of Elisha man of Divine, said, Look, my lord spared Naaman this Aramean by not taking from his hand what he brought. As YHWH lives, I will run after him and take something from him."},{"verse":21,"restored":"Gehazi pursued after Naaman. Naaman saw one running after him, fell from chariot to meet him, and said, Is it peace?"},{"verse":22,"restored":"He said, Peace. My lord sent me, saying, Look, just now two young men from sons of prophets came to me from hill country of Ephraim. Please give them one talent of silver and two changes of garments."},{"verse":23,"restored":"Naaman said, Be willing, take two talents. He urged him and bound two talents of silver in two bags, with two changes of garments, and gave them to two of his young men, and they carried before him."},{"verse":24,"restored":"He came to hill/Ophel, took from their hand, deposited in house, and sent men away, and they went."},{"verse":25,"restored":"He entered and stood before his lord. Elisha said to him, From where, Gehazi? He said, Your servant did not go here or there."},{"verse":26,"restored":"He said to him, Did not my heart go when man turned from upon his chariot to meet you? Is it time to take silver and garments, olive groves and vineyards, sheep and cattle, male and female servants?"},{"verse":27,"restored":"Skin disease of Naaman shall cling to you and to your seed forever. He went out from before him afflicted with skin disease, white as snow."}],"translation_notes":["Naaman is both an honored military commander and a person with a skin disease. Disease does not erase dignity, competence, or personhood.","The unnamed Israelite girl is a captive taken in a raid. Her insight drives the entire healing narrative, but her enslavement and displacement must not disappear behind Naaman's cure.","The Hebrew tsara'at does not equal modern leprosy/Hansen's disease by default. Use 'skin disease' pending fuller medical-historical audit and avoid contagion stigma.","YHWH giving victory to Aram complicates nationalist theology and prevents assuming Divine action belongs only to Israel's military interests.","The king misreads the letter as a diplomatic provocation, showing how illness and healing can be politicized by rulers.","Elisha refuses wealth and spectacle; healing is not sold, and prophetic authority is not validated by performance theatrics.","Naaman's servants successfully challenge his pride. Subordinates can offer wise correction without being devalued.","Naaman's request for Israelite earth reflects ancient territorial theology. His continued state duty in Rimmon's temple is met with 'Go in peace,' not coercive purity policing.","Gehazi exploits a healed foreigner through lies and invented charitable need. Religious workers may not monetize access, fabricate need, or use vulnerable people's gratitude.","The transfer of skin disease to Gehazi and his descendants is morally dangerous collective-punishment language and must not be used to explain illness, heredity, disability, or family suffering."],"safety_note":"Do not stigmatize skin disease, disability, foreigners, captives, servants, or interfaith complexity. Do not erase the captive girl's trauma or use Naaman's healing to glorify war. Healing is not for sale. Gehazi's punishment language may not justify disease blame, inherited guilt, or shaming families."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Naaman, captive girl, Elisha, Jordan washing, and Gehazi narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Naaman's military status and skin disease, the unnamed captive Israelite girl's agency, diplomatic misreading, Elisha's refusal of spectacle, Jordan washing, anti-xenophobia, Gehazi's deception and wealth-taking, and disease transfer language."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Naaman, commander of army of king of Aram, was a great man before his lord and lifted of face, because by him YHWH had given victory to Aram. The man was a mighty man of strength, and afflicted with a skin disease.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Naaman, captain of the host of the king of Syria, was a great man with his master, and honourable, because by him the LORD had given deliverance unto Syria: he was also a mighty man in valour, but he was a leper."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Arameans had gone out in raiding bands and captured from land of Israel a young girl, and she was before Naaman's wife.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman’s wife."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "She said to her mistress, If only my lord were before prophet who is in Samaria, then he would gather/heal him from his skin disease.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she said unto her mistress, Would God my lord were with the prophet that is in Samaria! for he would recover him of his leprosy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "He went and told his lord, saying, Thus and thus spoke the girl who is from land of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And one went in, and told his lord, saying, Thus and thus said the maid that is of the land of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "King of Aram said, Go, enter, and I will send a letter to king of Israel. He went and took in his hand ten talents of silver, six thousand gold pieces, and ten changes of garments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Syria said, Go to, go, and I will send a letter unto the king of Israel. And he departed, and took with him ten talents of silver, and six thousand pieces of gold, and ten changes of raiment."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He brought letter to king of Israel, saying, Now when this letter comes to you, look, I have sent to you Naaman my servant so you may gather/heal him from his skin disease.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought the letter to the king of Israel, saying, Now when this letter is come unto thee, behold, I have therewith sent Naaman my servant to thee, that thou mayest recover him of his leprosy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "It was, when king of Israel read the letter, that he tore his garments and said, Am I Divine, to put to death and make alive, that this one sends to me to gather/heal a man from his skin disease? Surely know and see that he seeks occasion against me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the king of Israel had read the letter, that he rent his clothes, and said, Am I God, to kill and to make alive, that this man doth send unto me to recover a man of his leprosy? wherefore consider, I pray you, and see how he seeketh a quarrel against me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "It was, when Elisha man of Divine heard that king of Israel tore his garments, that he sent to king, saying, Why have you torn your garments? Let him come now to me, and he shall know there is a prophet in Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was so, when Elisha the man of God had heard that the king of Israel had rent his clothes, that he sent to the king, saying, Wherefore hast thou rent thy clothes? let him come now to me, and he shall know that there is a prophet in Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Naaman came with his horses and chariot and stood at entrance of house of Elisha.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Naaman came with his horses and with his chariot, and stood at the door of the house of Elisha."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Elisha sent a messenger to him, saying, Go and wash seven times in Jordan, and your flesh shall return to you, and you shall be clean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elisha sent a messenger unto him, saying, Go and wash in Jordan seven times, and thy flesh shall come again to thee, and thou shalt be clean."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Naaman was angry and went away, saying, Look, I said to myself, Going out, he will surely come out to me, stand, call in name of YHWH his Divine, wave his hand over place, and gather/heal the skin disease.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Naaman was wroth, and went away, and said, Behold, I thought, He will surely come out to me, and stand, and call on the name of the LORD his God, and strike his hand over the place, and recover the leper."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Are not Abanah and Pharpar, rivers of Damascus, better than all waters of Israel? Could I not wash in them and be clean? He turned and went in fury.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Are not Abana and Pharpar, rivers of Damascus, better than all the waters of Israel? may I not wash in them, and be clean? So he turned and went away in a rage."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "His servants drew near and spoke to him, saying, My father, had prophet spoken to you a great thing, would you not do it? How much more when he said to you, Wash and be clean?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He went down and dipped in Jordan seven times according to word of man of Divine, and his flesh returned like flesh of a little boy, and he was clean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then went he down, and dipped himself seven times in Jordan, according to the saying of the man of God: and his flesh came again like unto the flesh of a little child, and he was clean."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He returned to man of Divine, he and all his camp, came and stood before him, and said, Look, now I know there is no Divine in all earth except in Israel. Now please take a blessing/gift from your servant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he returned to the man of God, he and all his company, and came, and stood before him: and he said, Behold, now I know that there is no God in all the earth, but in Israel: now therefore, I pray thee, take a blessing of thy servant."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "He said, As YHWH lives, before whom I stand, I will not take. He pressed him to take, but he refused.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he said, As the LORD liveth, before whom I stand, I will receive none. And he urged him to take it; but he refused."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Naaman said, If not, please let there be given to your servant burden of a pair of mules of earth, for your servant will no longer make burnt offering or sacrifice to other gods, but to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Naaman said, Shall there not then, I pray thee, be given to thy servant two mules’ burden of earth? for thy servant will henceforth offer neither burnt offering nor sacrifice unto other gods, but unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "For this thing may YHWH forgive your servant: when my lord enters house of Rimmon to bow there, and he leans upon my hand, and I bow in house of Rimmon—when I bow in house of Rimmon, may YHWH forgive your servant in this thing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In this thing the LORD pardon thy servant, that when my master goeth into the house of Rimmon to worship there, and he leaneth on my hand, and I bow myself in the house of Rimmon: when I bow down myself in the house of Rimmon, the LORD pardon thy servant in this thing."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He said to him, Go in peace. He went from him a short distance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Go in peace. So he departed from him a little way."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Gehazi, servant of Elisha man of Divine, said, Look, my lord spared Naaman this Aramean by not taking from his hand what he brought. As YHWH lives, I will run after him and take something from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Gehazi, the servant of Elisha the man of God, said, Behold, my master hath spared Naaman this Syrian, in not receiving at his hands that which he brought: but, as the LORD liveth, I will run after him, and take somewhat of him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Gehazi pursued after Naaman. Naaman saw one running after him, fell from chariot to meet him, and said, Is it peace?",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Gehazi followed after Naaman. And when Naaman saw him running after him, he lighted down from the chariot to meet him, and said, Is all well?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "He said, Peace. My lord sent me, saying, Look, just now two young men from sons of prophets came to me from hill country of Ephraim. Please give them one talent of silver and two changes of garments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, All is well. My master hath sent me, saying, Behold, even now there be come to me from mount Ephraim two young men of the sons of the prophets: give them, I pray thee, a talent of silver, and two changes of garments."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Naaman said, Be willing, take two talents. He urged him and bound two talents of silver in two bags, with two changes of garments, and gave them to two of his young men, and they carried before him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He came to hill/Ophel, took from their hand, deposited in house, and sent men away, and they went.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He entered and stood before his lord. Elisha said to him, From where, Gehazi? He said, Your servant did not go here or there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he went in, and stood before his master. And Elisha said unto him, Whence comest thou, Gehazi? And he said, Thy servant went no whither."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "He said to him, Did not my heart go when man turned from upon his chariot to meet you? Is it time to take silver and garments, olive groves and vineyards, sheep and cattle, male and female servants?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Went not mine heart with thee, when the man turned again from his chariot to meet thee? Is it a time to receive money, and to receive garments, and oliveyards, and vineyards, and sheep, and oxen, and menservants, and maidservants?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Skin disease of Naaman shall cling to you and to your seed forever. He went out from before him afflicted with skin disease, white as snow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The leprosy therefore of Naaman shall cleave unto thee, and unto thy seed for ever. And he went out from his presence a leper as white as snow."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Naaman is both an honored military commander and a person with a skin disease. Disease does not erase dignity, competence, or personhood.",
+    "The unnamed Israelite girl is a captive taken in a raid. Her insight drives the entire healing narrative, but her enslavement and displacement must not disappear behind Naaman's cure.",
+    "The Hebrew tsara'at does not equal modern leprosy/Hansen's disease by default. Use 'skin disease' pending fuller medical-historical audit and avoid contagion stigma.",
+    "YHWH giving victory to Aram complicates nationalist theology and prevents assuming Divine action belongs only to Israel's military interests.",
+    "The king misreads the letter as a diplomatic provocation, showing how illness and healing can be politicized by rulers.",
+    "Elisha refuses wealth and spectacle; healing is not sold, and prophetic authority is not validated by performance theatrics.",
+    "Naaman's servants successfully challenge his pride. Subordinates can offer wise correction without being devalued.",
+    "Naaman's request for Israelite earth reflects ancient territorial theology. His continued state duty in Rimmon's temple is met with 'Go in peace,' not coercive purity policing.",
+    "Gehazi exploits a healed foreigner through lies and invented charitable need. Religious workers may not monetize access, fabricate need, or use vulnerable people's gratitude.",
+    "The transfer of skin disease to Gehazi and his descendants is morally dangerous collective-punishment language and must not be used to explain illness, heredity, disability, or family suffering."
+  ],
+  "safety_note": "Do not stigmatize skin disease, disability, foreigners, captives, servants, or interfaith complexity. Do not erase the captive girl's trauma or use Naaman's healing to glorify war. Healing is not for sale. Gehazi's punishment language may not justify disease blame, inherited guilt, or shaming families.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-14-of-27",
+    "tags": "partial-16-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-17-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

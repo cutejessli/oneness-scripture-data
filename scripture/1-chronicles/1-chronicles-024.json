@@ -1,1 +1,549 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":24,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph priestly and Levitical divisions, first-pass restored draft; later witness audit required","review_note":"Reviewed for Nadab and Abihu, hereditary priesthood, proportional divisions, lots, scribal transparency, old/young equality, and textual variants."},"verses":[{"verse":1,"restored":"Divisions of sons of Aaron: sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."},{"verse":2,"restored":"Nadab and Abihu died before their father and had no children; Eleazar and Ithamar served as priests."},{"verse":3,"restored":"David, with Zadok from sons of Eleazar and Ahimelech from sons of Ithamar, divided them according to appointed service."},{"verse":4,"restored":"More chief men were found among sons of Eleazar than sons of Ithamar, so they divided them: sixteen ancestral heads from Eleazar and eight from Ithamar."},{"verse":5,"restored":"They divided them by lot, these with those, because officials of sanctuary and officials of Divine house came from both Eleazar and Ithamar."},{"verse":6,"restored":"Shemaiah son of Nethanel, Levite scribe, wrote them before king, leaders, Zadok the priest, Ahimelech son of Abiathar, and ancestral heads of priests and Levites, one ancestral house drawn for Eleazar and then one for Ithamar."},{"verse":7,"restored":"First lot came to Jehoiarib, second to Jedaiah,"},{"verse":8,"restored":"third to Harim, fourth to Seorim,"},{"verse":9,"restored":"fifth to Malchijah, sixth to Mijamin,"},{"verse":10,"restored":"seventh to Hakkoz, eighth to Abijah,"},{"verse":11,"restored":"ninth to Jeshua, tenth to Shecaniah,"},{"verse":12,"restored":"eleventh to Eliashib, twelfth to Jakim,"},{"verse":13,"restored":"thirteenth to Huppah, fourteenth to Jeshebeab,"},{"verse":14,"restored":"fifteenth to Bilgah, sixteenth to Immer,"},{"verse":15,"restored":"seventeenth to Hezir, eighteenth to Happizzez,"},{"verse":16,"restored":"nineteenth to Pethahiah, twentieth to Jehezkel,"},{"verse":17,"restored":"twenty-first to Jachin, twenty-second to Gamul,"},{"verse":18,"restored":"twenty-third to Delaiah, twenty-fourth to Maaziah."},{"verse":19,"restored":"These were appointments for service, to enter house of YHWH according to ordinance through Aaron their ancestor, as YHWH Divine of Israel commanded him."},{"verse":20,"restored":"Remaining descendants of Levi: from sons of Amram, Shubael; from sons of Shubael, Jehdeiah."},{"verse":21,"restored":"From Rehabiah, Isshiah the chief."},{"verse":22,"restored":"From Izharites, Shelomoth; from sons of Shelomoth, Jahath."},{"verse":23,"restored":"Sons of Hebron: Jeriah first, Amariah second, Jahaziel third, Jekameam fourth."},{"verse":24,"restored":"Son of Uzziel: Micah; from sons of Micah, Shamir."},{"verse":25,"restored":"Brother of Micah was Isshiah; from sons of Isshiah, Zechariah."},{"verse":26,"restored":"Sons of Merari: Mahli and Mushi; sons of Jaaziah: Beno."},{"verse":27,"restored":"Sons of Merari through Jaaziah: Beno, Shoham, Zaccur, and Ibri."},{"verse":28,"restored":"From Mahli: Eleazar, who had no sons."},{"verse":29,"restored":"From Kish: Jerahmeel his son."},{"verse":30,"restored":"Sons of Mushi: Mahli, Eder, and Jerimoth. These were Levite descendants by ancestral houses."},{"verse":31,"restored":"They also cast lots corresponding to relatives sons of Aaron before David, Zadok, Ahimelech, and ancestral heads of priests and Levites; chief ancestral house was treated like younger relative."}],"translation_notes":["Nadab and Abihu's death belongs to a sacred-violence tradition and must not be used to terrorize religious workers or children.","Hereditary priesthood describes an ancient system and does not authorize modern caste, nepotism, or male-only spiritual authority.","Lots distribute work; they are not magical guarantees of Divine approval and require transparent, revisable administration.","Shemaiah's written record before multiple witnesses is a constructive accountability practice.","Equal treatment of chief and younger households limits seniority privilege, though labor consent and conditions remain unstated.","Childlessness is recorded administratively and does not diminish a person's worth.","Names and family relationships contain textual variants requiring witness audit."],"safety_note":"Do not use priestly divisions to justify clerical caste, fear-based ritual control, nepotism, male supremacy, or divination by lots. Preserve transparent records, equal dignity, accountability, and safe working conditions."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 24,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph priestly and Levitical divisions, first-pass restored draft; later witness audit required",
+    "review_note": "Reviewed for Nadab and Abihu, hereditary priesthood, proportional divisions, lots, scribal transparency, old/young equality, and textual variants."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Divisions of sons of Aaron: sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Nadab and Abihu died before their father and had no children; Eleazar and Ithamar served as priests.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest’s office."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "David, with Zadok from sons of Eleazar and Ahimelech from sons of Ithamar, divided them according to appointed service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David distributed them, both Zadok of the sons of Eleazar, and Ahimelech of the sons of Ithamar, according to their offices in their service."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "More chief men were found among sons of Eleazar than sons of Ithamar, so they divided them: sixteen ancestral heads from Eleazar and eight from Ithamar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there were more chief men found of the sons of Eleazar than of the sons of Ithamar; and thus were they divided. Among the sons of Eleazar there were sixteen chief men of the house of their fathers, and eight among the sons of Ithamar according to the house of their fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They divided them by lot, these with those, because officials of sanctuary and officials of Divine house came from both Eleazar and Ithamar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Shemaiah son of Nethanel, Levite scribe, wrote them before king, leaders, Zadok the priest, Ahimelech son of Abiathar, and ancestral heads of priests and Levites, one ancestral house drawn for Eleazar and then one for Ithamar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "First lot came to Jehoiarib, second to Jedaiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the first lot came forth to Jehoiarib, the second to Jedaiah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "third to Harim, fourth to Seorim,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The third to Harim, the fourth to Seorim,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "fifth to Malchijah, sixth to Mijamin,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fifth to Malchijah, the sixth to Mijamin,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "seventh to Hakkoz, eighth to Abijah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The seventh to Hakkoz, the eighth to Abijah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "ninth to Jeshua, tenth to Shecaniah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The ninth to Jeshuah, the tenth to Shecaniah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "eleventh to Eliashib, twelfth to Jakim,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The eleventh to Eliashib, the twelfth to Jakim,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "thirteenth to Huppah, fourteenth to Jeshebeab,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The thirteenth to Huppah, the fourteenth to Jeshebeab,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "fifteenth to Bilgah, sixteenth to Immer,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fifteenth to Bilgah, the sixteenth to Immer,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "seventeenth to Hezir, eighteenth to Happizzez,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The seventeenth to Hezir, the eighteenth to Aphses,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "nineteenth to Pethahiah, twentieth to Jehezkel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The nineteenth to Pethahiah, the twentieth to Jehezekel,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "twenty-first to Jachin, twenty-second to Gamul,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The one and twentieth to Jachin, the two and twentieth to Gamul,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "twenty-third to Delaiah, twenty-fourth to Maaziah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The three and twentieth to Delaiah, the four and twentieth to Maaziah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "These were appointments for service, to enter house of YHWH according to ordinance through Aaron their ancestor, as YHWH Divine of Israel commanded him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were the orderings of them in their service to come into the house of the LORD, according to their manner, under Aaron their father, as the LORD God of Israel had commanded him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Remaining descendants of Levi: from sons of Amram, Shubael; from sons of Shubael, Jehdeiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the sons of Levi were these: Of the sons of Amram; Shubael: of the sons of Shubael; Jehdeiah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "From Rehabiah, Isshiah the chief.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Concerning Rehabiah: of the sons of Rehabiah, the first was Isshiah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "From Izharites, Shelomoth; from sons of Shelomoth, Jahath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Sons of Hebron: Jeriah first, Amariah second, Jahaziel third, Jekameam fourth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Hebron; Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Son of Uzziel: Micah; from sons of Micah, Shamir.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Uzziel; Michah: of the sons of Michah; Shamir."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Brother of Micah was Isshiah; from sons of Isshiah, Zechariah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The brother of Michah was Isshiah: of the sons of Isshiah; Zechariah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Sons of Merari: Mahli and Mushi; sons of Jaaziah: Beno.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Merari were Mahli and Mushi: the sons of Jaaziah; Beno."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Sons of Merari through Jaaziah: Beno, Shoham, Zaccur, and Ibri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Merari by Jaaziah; Beno, and Shoham, and Zaccur, and Ibri."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "From Mahli: Eleazar, who had no sons.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of Mahli came Eleazar, who had no sons."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "From Kish: Jerahmeel his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Concerning Kish: the son of Kish was Jerahmeel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Sons of Mushi: Mahli, Eder, and Jerimoth. These were Levite descendants by ancestral houses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "They also cast lots corresponding to relatives sons of Aaron before David, Zadok, Ahimelech, and ancestral heads of priests and Levites; chief ancestral house was treated like younger relative.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Nadab and Abihu's death belongs to a sacred-violence tradition and must not be used to terrorize religious workers or children.",
+    "Hereditary priesthood describes an ancient system and does not authorize modern caste, nepotism, or male-only spiritual authority.",
+    "Lots distribute work; they are not magical guarantees of Divine approval and require transparent, revisable administration.",
+    "Shemaiah's written record before multiple witnesses is a constructive accountability practice.",
+    "Equal treatment of chief and younger households limits seniority privilege, though labor consent and conditions remain unstated.",
+    "Childlessness is recorded administratively and does not diminish a person's worth.",
+    "Names and family relationships contain textual variants requiring witness audit."
+  ],
+  "safety_note": "Do not use priestly divisions to justify clerical caste, fear-based ritual control, nepotism, male supremacy, or divination by lots. Preserve transparent records, equal dignity, accountability, and safe working conditions.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-31",
+    "tags": "partial-18-of-31",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-31",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

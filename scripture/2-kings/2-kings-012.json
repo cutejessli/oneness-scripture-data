@@ -1,1 +1,724 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Joash reign, temple-repair finance, Hazael tribute, and assassination narrative, draft aligned later","review_note":"First-pass draft reviewed for child-king maturation under Jehoiada, high-place continuity, dedicated-money categories, failed repair system, chest collection, counting and distribution controls, artisan trust, priestly revenue, imperial tribute from sacred treasury, and palace assassination."},"verses":[{"verse":1,"restored":"In seventh year of Jehu, Jehoash became king, and forty years he reigned in Jerusalem. Name of his mother was Zibiah from Beer-sheba."},{"verse":2,"restored":"Jehoash did what was right in eyes of YHWH all his days in which Jehoiada the priest instructed him."},{"verse":3,"restored":"Only high places were not removed; people were still sacrificing and burning incense at high places."},{"verse":4,"restored":"Jehoash said to priests, All silver of sacred gifts brought into house of YHWH—the silver of each one who passes assessment, silver of persons according to valuation, and all silver that comes upon a person's heart to bring into house of YHWH—"},{"verse":5,"restored":"let priests take it, each from his acquaintance, and let them repair breaches of house wherever a breach is found."},{"verse":6,"restored":"But in twenty-third year of king Jehoash, priests had not repaired breaches of house."},{"verse":7,"restored":"King Jehoash called Jehoiada the priest and other priests and said, Why are you not repairing breaches of house? Now take no more silver from your acquaintances, but give it for breaches of house."},{"verse":8,"restored":"Priests consented not to take silver from people and not to repair breaches of house."},{"verse":9,"restored":"Jehoiada the priest took one chest, bored a hole in its lid, and placed it beside altar, on right as one enters house of YHWH. Priests guarding threshold put there all silver brought into house of YHWH."},{"verse":10,"restored":"Whenever they saw much silver in chest, scribe of king and high priest came up, bound and counted silver found in house of YHWH."},{"verse":11,"restored":"They gave counted silver into hands of those doing work, those appointed over house of YHWH, and they paid it to carpenters and builders working on house of YHWH,"},{"verse":12,"restored":"to masons and stonecutters, to buy timber and hewn stone to repair breaches of house of YHWH, and for all spent on house to repair it."},{"verse":13,"restored":"Yet no silver basins, snuffers, bowls, trumpets, any vessel of gold or vessel of silver were made for house of YHWH from silver brought into house of YHWH,"},{"verse":14,"restored":"for they gave it to workers and repaired house of YHWH with it."},{"verse":15,"restored":"They did not make accounting with men into whose hands they gave silver to give to workers, because they dealt faithfully."},{"verse":16,"restored":"Silver of guilt offerings and silver of sin offerings was not brought into house of YHWH; it belonged to priests."},{"verse":17,"restored":"Then Hazael king of Aram went up, fought against Gath, and captured it. Hazael set his face to go up against Jerusalem."},{"verse":18,"restored":"Jehoash king of Judah took all sacred gifts Jehoshaphat, Jehoram, and Ahaziah his fathers, kings of Judah, had dedicated, his own sacred gifts, and all gold found in treasuries of house of YHWH and king's house, and sent it to Hazael king of Aram. Then he went away from Jerusalem."},{"verse":19,"restored":"Remaining acts of Joash and all he did, are they not written in scroll of matters of days of kings of Judah?"},{"verse":20,"restored":"His servants rose and made a conspiracy, and struck Joash at house of Millo, on way descending to Silla."},{"verse":21,"restored":"Jozacar son of Shimeath and Jehozabad son of Shomer, his servants, struck him, and he died. They buried him with his fathers in city of David, and Amaziah his son became king in his place."}],"translation_notes":["Joash begins as a rescued child and rules under Jehoiada's instruction. His later authority does not erase the formative control adults exercised around him.","Temple-repair money initially passes through informal priestly relationships, and the repairs remain undone for decades. Sacred status does not remove the need for transparent systems and measurable outcomes.","The chest, joint counting by royal and priestly officials, and direct payment to supervisors and artisans show financial controls replacing an ineffective arrangement.","Trust in work supervisors is praised, but this verse must not be used to reject audits, worker protections, receipts, or modern fiduciary accountability.","Carpenters, builders, masons, stonecutters, and suppliers perform the repair. Their labor, skill, safety, and fair payment belong at the center of the temple story.","Sacred and royal treasures are transferred to Hazael to avert attack. A ruler's survival strategy can preserve a city while also exposing dependence, extortion, and the vulnerability of public resources.","Joash is assassinated by servants. The narrative provides no trial or full motive here; conspiracy and regicide are not accountability systems.","Parallel material in Chronicles differs substantially and requires source-witness audit rather than forced harmonization."],"safety_note":"Do not use this chapter to excuse clerical financial opacity, unpaid sacred labor, imperial extortion, or assassination. Preserve transparent stewardship, skilled workers' dignity, public accountability, and the distinction between protecting a community and buying a ruler's security with communal treasure."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Joash reign, temple-repair finance, Hazael tribute, and assassination narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for child-king maturation under Jehoiada, high-place continuity, dedicated-money categories, failed repair system, chest collection, counting and distribution controls, artisan trust, priestly revenue, imperial tribute from sacred treasury, and palace assassination."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In seventh year of Jehu, Jehoash became king, and forty years he reigned in Jerusalem. Name of his mother was Zibiah from Beer-sheba.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the seventh year of Jehu Jehoash began to reign; and forty years reigned he in Jerusalem. And his mother’s name was Zibiah of Beersheba."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Jehoash did what was right in eyes of YHWH all his days in which Jehoiada the priest instructed him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoash did that which was right in the sight of the LORD all his days wherein Jehoiada the priest instructed him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Only high places were not removed; people were still sacrificing and burning incense at high places.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the high places were not taken away: the people still sacrificed and burnt incense in the high places."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Jehoash said to priests, All silver of sacred gifts brought into house of YHWH—the silver of each one who passes assessment, silver of persons according to valuation, and all silver that comes upon a person's heart to bring into house of YHWH—",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoash said to the priests, All the money of the dedicated things that is brought into the house of the LORD, even the money of every one that passeth the account, the money that every man is set at, and all the money that cometh into any man’s heart to bring into the house of the LORD,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "let priests take it, each from his acquaintance, and let them repair breaches of house wherever a breach is found.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the priests take it to them, every man of his acquaintance: and let them repair the breaches of the house, wheresoever any breach shall be found."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But in twenty-third year of king Jehoash, priests had not repaired breaches of house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "King Jehoash called Jehoiada the priest and other priests and said, Why are you not repairing breaches of house? Now take no more silver from your acquaintances, but give it for breaches of house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then king Jehoash called for Jehoiada the priest, and the other priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Priests consented not to take silver from people and not to repair breaches of house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priests consented to receive no more money of the people, neither to repair the breaches of the house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Jehoiada the priest took one chest, bored a hole in its lid, and placed it beside altar, on right as one enters house of YHWH. Priests guarding threshold put there all silver brought into house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the LORD: and the priests that kept the door put therein all the money that was brought into the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Whenever they saw much silver in chest, scribe of king and high priest came up, bound and counted silver found in house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was so, when they saw that there was much money in the chest, that the king’s scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "They gave counted silver into hands of those doing work, those appointed over house of YHWH, and they paid it to carpenters and builders working on house of YHWH,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the LORD: and they laid it out to the carpenters and builders, that wrought upon the house of the LORD,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "to masons and stonecutters, to buy timber and hewn stone to repair breaches of house of YHWH, and for all spent on house to repair it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the LORD, and for all that was laid out for the house to repair it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Yet no silver basins, snuffers, bowls, trumpets, any vessel of gold or vessel of silver were made for house of YHWH from silver brought into house of YHWH,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit there were not made for the house of the LORD bowls of silver, snuffers, basons, trumpets, any vessels of gold, or vessels of silver, of the money that was brought into the house of the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "for they gave it to workers and repaired house of YHWH with it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But they gave that to the workmen, and repaired therewith the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They did not make accounting with men into whose hands they gave silver to give to workers, because they dealt faithfully.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Silver of guilt offerings and silver of sin offerings was not brought into house of YHWH; it belonged to priests.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The trespass money and sin money was not brought into the house of the LORD: it was the priests’."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Then Hazael king of Aram went up, fought against Gath, and captured it. Hazael set his face to go up against Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Hazael king of Syria went up, and fought against Gath, and took it: and Hazael set his face to go up to Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Jehoash king of Judah took all sacred gifts Jehoshaphat, Jehoram, and Ahaziah his fathers, kings of Judah, had dedicated, his own sacred gifts, and all gold found in treasuries of house of YHWH and king's house, and sent it to Hazael king of Aram. Then he went away from Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoash king of Judah took all the hallowed things that Jehoshaphat, and Jehoram, and Ahaziah, his fathers, kings of Judah, had dedicated, and his own hallowed things, and all the gold that was found in the treasures of the house of the LORD, and in the king’s house, and sent it to Hazael king of Syria: and he went away from Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Remaining acts of Joash and all he did, are they not written in scroll of matters of days of kings of Judah?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the acts of Joash, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "His servants rose and made a conspiracy, and struck Joash at house of Millo, on way descending to Silla.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Jozacar son of Shimeath and Jehozabad son of Shomer, his servants, struck him, and he died. They buried him with his fathers in city of David, and Amaziah his son became king in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 24",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Joash begins as a rescued child and rules under Jehoiada's instruction. His later authority does not erase the formative control adults exercised around him.",
+    "Temple-repair money initially passes through informal priestly relationships, and the repairs remain undone for decades. Sacred status does not remove the need for transparent systems and measurable outcomes.",
+    "The chest, joint counting by royal and priestly officials, and direct payment to supervisors and artisans show financial controls replacing an ineffective arrangement.",
+    "Trust in work supervisors is praised, but this verse must not be used to reject audits, worker protections, receipts, or modern fiduciary accountability.",
+    "Carpenters, builders, masons, stonecutters, and suppliers perform the repair. Their labor, skill, safety, and fair payment belong at the center of the temple story.",
+    "Sacred and royal treasures are transferred to Hazael to avert attack. A ruler's survival strategy can preserve a city while also exposing dependence, extortion, and the vulnerability of public resources.",
+    "Joash is assassinated by servants. The narrative provides no trial or full motive here; conspiracy and regicide are not accountability systems.",
+    "Parallel material in Chronicles differs substantially and requires source-witness audit rather than forced harmonization."
+  ],
+  "safety_note": "Do not use this chapter to excuse clerical financial opacity, unpaid sacred labor, imperial extortion, or assassination. Preserve transparent stewardship, skilled workers' dignity, public accountability, and the distinction between protecting a community and buying a ruler's security with communal treasure.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-18-of-21",
+    "tags": "partial-19-of-21",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-10-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

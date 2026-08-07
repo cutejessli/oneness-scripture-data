@@ -1,1 +1,653 @@
-{"book":"1 Kings","book_id":"1-kings","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Kings / Melakhim Aleph chapter 4, first-pass draft aligned to public-domain verse structure; formal witness audit remains required.","review_note":"Reviewed for administrative hierarchy, regional provisioning, royal marriages, tribute, imperial reach, court consumption, animal systems, militarization, public security, wisdom claims, and knowledge of creation."},"verses":[{"verse":1,"restored":"King Solomon was king over all Israel."},{"verse":2,"restored":"These were officials he had: Azariah son of Zadok, the priest;"},{"verse":3,"restored":"Elihoreph and Ahijah sons of Shisha, scribes; Jehoshaphat son of Ahilud, recorder."},{"verse":4,"restored":"Benaiah son of Jehoiada was over army; Zadok and Abiathar were priests."},{"verse":5,"restored":"Azariah son of Nathan was over administrators; Zabud son of Nathan was priest/chief official and king's friend."},{"verse":6,"restored":"Ahishar was over household; Adoniram son of Abda was over forced labor/tribute."},{"verse":7,"restored":"Solomon had twelve administrators over all Israel. They provided food for king and his household; each provided for one month in year."},{"verse":8,"restored":"These are their names: Ben-hur in hill country of Ephraim;"},{"verse":9,"restored":"Ben-deker in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;"},{"verse":10,"restored":"Ben-hesed in Arubboth; Socoh and all land of Hepher were his."},{"verse":11,"restored":"Ben-abinadab in all heights/region of Dor; Taphath daughter of Solomon was his wife."},{"verse":12,"restored":"Baana son of Ahilud had Taanach, Megiddo, and all Beth-shean beside Zarethan below Jezreel, from Beth-shean to Abel-meholah and beyond Jokmeam."},{"verse":13,"restored":"Ben-geber was in Ramoth-gilead; towns of Jair son of Manasseh in Gilead were his, and region of Argob in Bashan—sixty great cities with walls and bronze bars."},{"verse":14,"restored":"Ahinadab son of Iddo was in Mahanaim."},{"verse":15,"restored":"Ahimaaz was in Naphtali; he also took Basemath daughter of Solomon as wife."},{"verse":16,"restored":"Baana son of Hushai was in Asher and Bealoth."},{"verse":17,"restored":"Jehoshaphat son of Paruah was in Issachar."},{"verse":18,"restored":"Shimei son of Ela was in Benjamin."},{"verse":19,"restored":"Geber son of Uri was in land of Gilead, land of Sihon king of Amorites and Og king of Bashan; one administrator was over land."},{"verse":20,"restored":"Judah and Israel were many, like sand beside sea in multitude, eating, drinking, and rejoicing."},{"verse":21,"restored":"Solomon ruled over all kingdoms from River to land of Philistines and border of Egypt. They brought tribute and served Solomon all days of his life."},{"verse":22,"restored":"Solomon's provision for one day was thirty kors of fine flour and sixty kors of meal,"},{"verse":23,"restored":"ten fattened cattle, twenty pasture-fed cattle, one hundred sheep, besides deer, gazelles, roebucks, and fattened birds."},{"verse":24,"restored":"He had dominion over all beyond River, from Tiphsah to Gaza, over all kings beyond River, and had peace from every side around him."},{"verse":25,"restored":"Judah and Israel lived in security, each under vine and fig tree, from Dan to Beersheba, all days of Solomon."},{"verse":26,"restored":"Solomon had forty thousand stalls of horses for chariots and twelve thousand horsemen."},{"verse":27,"restored":"Those administrators provided food for King Solomon and all who came to king's table, each in his month; they let nothing be lacking."},{"verse":28,"restored":"They brought barley and straw for horses and swift steeds to required place, each according to his charge."},{"verse":29,"restored":"Divine gave Solomon very great wisdom and understanding, and breadth of heart like sand upon seashore."},{"verse":30,"restored":"Solomon's wisdom was greater than wisdom of all children of east and all wisdom of Egypt."},{"verse":31,"restored":"He was wiser than every human—than Ethan the Ezrahite, Heman, Calcol, and Darda, sons of Mahol—and his name/fame was among all nations around."},{"verse":32,"restored":"He spoke three thousand proverbs, and his songs were one thousand and five."},{"verse":33,"restored":"He spoke concerning trees, from cedar in Lebanon to hyssop growing from wall. He spoke concerning animals, birds, creeping things, and fish."},{"verse":34,"restored":"People came from all peoples to hear wisdom of Solomon, from all kings of earth who heard his wisdom."}],"translation_notes":["The administrative list is not neutral bureaucracy. It maps who collects food, labor, and resources for the palace and who supervises the people doing that work.","Adoniram's portfolio over forced labor/tribute anticipates the grievance that fractures the kingdom. Administrative efficiency can institutionalize exploitation.","Taphath and Basemath, Solomon's daughters, appear through marriages to regional officials. Their consent and political roles are not recorded.","The image of each person under vine and fig tree preserves a genuine ideal of ordinary security, but it exists beside tribute, imperial service, enormous palace consumption, and military buildup.","Daily court provisions and animal numbers reflect concentrated wealth and extraction. Abundance at the royal table does not prove abundance in every household.","The empire's peoples bring gifts/tribute and serve Solomon. 'Peace' may describe absence of revolt from the center while conquered communities experience domination.","Wisdom includes poetry and close observation of plants and animals. Knowledge of creation must not be confused with ownership or permission to exploit it.","Comparisons that make Solomon wiser than whole regions risk civilizational superiority. Egypt and eastern peoples possess their own wisdom traditions and human dignity."],"safety_note":"Do not romanticize the administrative machine, tribute, forced labor, militarization, or extravagant court consumption as proof of Divine prosperity. Test royal wisdom by whether ordinary people, workers, neighboring peoples, and animals flourish."}
+{
+  "book": "1 Kings",
+  "book_id": "1-kings",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Kings / Melakhim Aleph chapter 4, first-pass draft aligned to public-domain verse structure; formal witness audit remains required.",
+    "review_note": "Reviewed for administrative hierarchy, regional provisioning, royal marriages, tribute, imperial reach, court consumption, animal systems, militarization, public security, wisdom claims, and knowledge of creation."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "King Solomon was king over all Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So king Solomon was king over all Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "These were officials he had: Azariah son of Zadok, the priest;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these were the princes which he had; Azariah the son of Zadok the priest,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Elihoreph and Ahijah sons of Shisha, scribes; Jehoshaphat son of Ahilud, recorder.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Benaiah son of Jehoiada was over army; Zadok and Abiathar were priests.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Azariah son of Nathan was over administrators; Zabud son of Nathan was priest/chief official and king's friend.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Azariah the son of Nathan was over the officers: and Zabud the son of Nathan was principal officer, and the king’s friend:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Ahishar was over household; Adoniram son of Abda was over forced labor/tribute.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahishar was over the household: and Adoniram the son of Abda was over the tribute."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Solomon had twelve administrators over all Israel. They provided food for king and his household; each provided for one month in year.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "These are their names: Ben-hur in hill country of Ephraim;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are their names: The son of Hur, in mount Ephraim:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Ben-deker in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Dekar, in Makaz, and in Shaalbim, and Bethshemesh, and Elonbethhanan:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Ben-hesed in Arubboth; Socoh and all land of Hepher were his.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Hesed, in Aruboth; to him pertained Sochoh, and all the land of Hepher:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Ben-abinadab in all heights/region of Dor; Taphath daughter of Solomon was his wife.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Abinadab, in all the region of Dor; which had Taphath the daughter of Solomon to wife:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Baana son of Ahilud had Taanach, Megiddo, and all Beth-shean beside Zarethan below Jezreel, from Beth-shean to Abel-meholah and beyond Jokmeam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Baana the son of Ahilud; to him pertained Taanach and Megiddo, and all Bethshean, which is by Zartanah beneath Jezreel, from Bethshean to Abelmeholah, even unto the place that is beyond Jokneam:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Ben-geber was in Ramoth-gilead; towns of Jair son of Manasseh in Gilead were his, and region of Argob in Bashan—sixty great cities with walls and bronze bars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The son of Geber, in Ramothgilead; to him pertained the towns of Jair the son of Manasseh, which are in Gilead; to him also pertained the region of Argob, which is in Bashan, threescore great cities with walls and brasen bars:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Ahinadab son of Iddo was in Mahanaim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ahinadab the son of Iddo had Mahanaim:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Ahimaaz was in Naphtali; he also took Basemath daughter of Solomon as wife.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ahimaaz was in Naphtali; he also took Basmath the daughter of Solomon to wife:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Baana son of Hushai was in Asher and Bealoth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Baanah the son of Hushai was in Asher and in Aloth:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Jehoshaphat son of Paruah was in Issachar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jehoshaphat the son of Paruah, in Issachar:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Shimei son of Ela was in Benjamin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Shimei the son of Elah, in Benjamin:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Geber son of Uri was in land of Gilead, land of Sihon king of Amorites and Og king of Bashan; one administrator was over land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Geber the son of Uri was in the country of Gilead, in the country of Sihon king of the Amorites, and of Og king of Bashan; and he was the only officer which was in the land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Judah and Israel were many, like sand beside sea in multitude, eating, drinking, and rejoicing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Judah and Israel were many, as the sand which is by the sea in multitude, eating and drinking, and making merry."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Solomon ruled over all kingdoms from River to land of Philistines and border of Egypt. They brought tribute and served Solomon all days of his life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "labor-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Solomon's provision for one day was thirty kors of fine flour and sixty kors of meal,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon’s provision for one day was thirty measures of fine flour, and threescore measures of meal,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "ten fattened cattle, twenty pasture-fed cattle, one hundred sheep, besides deer, gazelles, roebucks, and fattened birds.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ten fat oxen, and twenty oxen out of the pastures, and an hundred sheep, beside harts, and roebucks, and fallowdeer, and fatted fowl."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He had dominion over all beyond River, from Tiphsah to Gaza, over all kings beyond River, and had peace from every side around him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he had dominion over all the region on this side the river, from Tiphsah even to Azzah, over all the kings on this side the river: and he had peace on all sides round about him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Judah and Israel lived in security, each under vine and fig tree, from Dan to Beersheba, all days of Solomon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beersheba, all the days of Solomon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Solomon had forty thousand stalls of horses for chariots and twelve thousand horsemen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon had forty thousand stalls of horses for his chariots, and twelve thousand horsemen."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Those administrators provided food for King Solomon and all who came to king's table, each in his month; they let nothing be lacking.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And those officers provided victual for king Solomon, and for all that came unto king Solomon’s table, every man in his month: they lacked nothing."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "They brought barley and straw for horses and swift steeds to required place, each according to his charge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Divine gave Solomon very great wisdom and understanding, and breadth of heart like sand upon seashore.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God gave Solomon wisdom and understanding exceeding much, and largeness of heart, even as the sand that is on the sea shore."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Solomon's wisdom was greater than wisdom of all children of east and all wisdom of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon’s wisdom excelled the wisdom of all the children of the east country, and all the wisdom of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "He was wiser than every human—than Ethan the Ezrahite, Heman, Calcol, and Darda, sons of Mahol—and his name/fame was among all nations around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he was wiser than all men; than Ethan the Ezrahite, and Heman, and Chalcol, and Darda, the sons of Mahol: and his fame was in all nations round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "He spoke three thousand proverbs, and his songs were one thousand and five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake three thousand proverbs: and his songs were a thousand and five."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "He spoke concerning trees, from cedar in Lebanon to hyssop growing from wall. He spoke concerning animals, birds, creeping things, and fish.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake of trees, from the cedar tree that is in Lebanon even unto the hyssop that springeth out of the wall: he spake also of beasts, and of fowl, and of creeping things, and of fishes."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "People came from all peoples to hear wisdom of Solomon, from all kings of earth who heard his wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The administrative list is not neutral bureaucracy. It maps who collects food, labor, and resources for the palace and who supervises the people doing that work.",
+    "Adoniram's portfolio over forced labor/tribute anticipates the grievance that fractures the kingdom. Administrative efficiency can institutionalize exploitation.",
+    "Taphath and Basemath, Solomon's daughters, appear through marriages to regional officials. Their consent and political roles are not recorded.",
+    "The image of each person under vine and fig tree preserves a genuine ideal of ordinary security, but it exists beside tribute, imperial service, enormous palace consumption, and military buildup.",
+    "Daily court provisions and animal numbers reflect concentrated wealth and extraction. Abundance at the royal table does not prove abundance in every household.",
+    "The empire's peoples bring gifts/tribute and serve Solomon. 'Peace' may describe absence of revolt from the center while conquered communities experience domination.",
+    "Wisdom includes poetry and close observation of plants and animals. Knowledge of creation must not be confused with ownership or permission to exploit it.",
+    "Comparisons that make Solomon wiser than whole regions risk civilizational superiority. Egypt and eastern peoples possess their own wisdom traditions and human dignity."
+  ],
+  "safety_note": "Do not romanticize the administrative machine, tribute, forced labor, militarization, or extravagant court consumption as proof of Divine prosperity. Test royal wisdom by whether ordinary people, workers, neighboring peoples, and animals flourish.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-34",
+    "tags": "partial-23-of-34",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-34",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,813 @@
-{"book":"2 Samuel","book_id":"2-samuel","chapter":11,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Samuel chapter 11, first-pass draft aligned later","review_note":"Reviewed for siege setting, royal surveillance, Bathsheba's identity and washing, 'sent and took' coercion, pregnancy, attempted reproductive cover-up, intoxication, Uriah's loyalty, murder order, collateral deaths, command responsibility, mourning, and palace seizure."},"verses":[{"verse":1,"restored":"At return of year, at time kings go out, David sent Joab, his servants with him, and all Israel. They ruined children of Ammon and besieged Rabbah, but David remained in Jerusalem."},{"verse":2,"restored":"At evening David arose from his bed and walked upon roof of house of king. From roof he saw a woman bathing, and woman was very good in appearance."},{"verse":3,"restored":"David sent and inquired concerning woman. One said, Is this not Bathsheba daughter of Eliam, wife of Uriah the Hittite?"},{"verse":4,"restored":"David sent messengers and took her. She came to him, and he lay with her. She was cleansing herself from her impurity, and she returned to her house."},{"verse":5,"restored":"Woman conceived. She sent and told David, and said, I am pregnant."},{"verse":6,"restored":"David sent to Joab, saying, Send Uriah the Hittite to me. Joab sent Uriah to David."},{"verse":7,"restored":"Uriah came to him. David asked concerning peace of Joab, peace of people, and peace of war."},{"verse":8,"restored":"David said to Uriah, Go down to your house and wash your feet. Uriah went out from house of king, and a gift/portion from king went out after him."},{"verse":9,"restored":"Uriah lay at entrance of house of king with all servants of his lord and did not go down to his house."},{"verse":10,"restored":"They told David, saying, Uriah did not go down to his house. David said to Uriah, Did you not come from a journey? Why did you not go down to your house?"},{"verse":11,"restored":"Uriah said to David, Ark, Israel, and Judah dwell in shelters; my lord Joab and servants of my lord camp upon face of field. Shall I go to my house to eat, drink, and lie with my wife? By your life and life of your soul, I will not do this thing."},{"verse":12,"restored":"David said to Uriah, Stay here also today, and tomorrow I will send you. Uriah stayed in Jerusalem that day and next."},{"verse":13,"restored":"David called him, and he ate and drank before him. David made him drunk. In evening he went out to lie on his bed with servants of his lord, but he did not go down to his house."},{"verse":14,"restored":"In morning David wrote a letter to Joab and sent it by hand of Uriah."},{"verse":15,"restored":"He wrote in letter, saying, Place Uriah at front of fiercest battle and turn back from behind him, so he may be struck and die."},{"verse":16,"restored":"When Joab watched city, he assigned Uriah to place where he knew strong warriors were."},{"verse":17,"restored":"Men of city went out and fought with Joab. Some of people, from servants of David, fell; Uriah the Hittite also died."},{"verse":18,"restored":"Joab sent and told David all matters of war."},{"verse":19,"restored":"He commanded messenger, saying, When you finish speaking all matters of war to king,"},{"verse":20,"restored":"if anger of king rises and he says, Why did you approach so near city to fight? Did you not know they would shoot from wall?"},{"verse":21,"restored":"Who struck Abimelech son of Jerubbesheth? Did not a woman throw upper millstone upon him from wall so he died at Thebez? Why did you approach wall? Then say, Your servant Uriah the Hittite is also dead."},{"verse":22,"restored":"Messenger went, came, and told David all that Joab had sent him to tell."},{"verse":23,"restored":"Messenger said to David, Men were strong against us and came out to us into field, but we pressed them as far as entrance of gate."},{"verse":24,"restored":"Shooters shot at your servants from wall. Some servants of king died, and your servant Uriah the Hittite is also dead."},{"verse":25,"restored":"David said to messenger, Thus say to Joab: Do not let this thing be evil in your eyes, because sword devours one and another. Strengthen your battle against city and overthrow it. Strengthen him."},{"verse":26,"restored":"Wife of Uriah heard that Uriah her husband was dead, and she lamented over her husband."},{"verse":27,"restored":"When mourning passed, David sent and gathered her to his house. She became his wife and bore him a son. But thing David had done was evil in eyes of YHWH."}],"translation_notes":["Bathsheba is named before the encounter as daughter of Eliam and wife of Uriah. Her relationships and personhood precede David's desire.","The Hebrew sequence says David 'sent' and 'took' her. A king with messengers, palace power, and authority over her husband creates coercion; the text records no request from David and no consent from Bathsheba.","Her ritual washing is not seduction. The rooftop viewpoint belongs to David; she is not blamed for being seen.","Her message 'I am pregnant' is the chapter's clearest direct speech and exposes consequences that royal power tries to conceal.","David attempts reproductive cover-up by ordering Uriah home, then uses alcohol when the first plan fails. Intoxication is an instrument of coercion here.","Uriah is a Hittite and a loyal soldier; ethnicity does not make him less part of Israel or less worthy of justice.","David sends Uriah carrying his own death order and engineers battlefield abandonment. Joab executes the plan, and additional soldiers die. This is murder through command authority and collateral killing.","'The sword devours one and another' is David's euphemism for a death he arranged. Fatalism must not erase command responsibility.","Bathsheba's mourning is centered. Palace marriage after the murder does not retroactively create consent or repair the abuse."],"safety_note":"Maximum survivor-centered safeguards: This chapter depicts royal sexual abuse, reproductive coercion, intoxication, cover-up, murder, and war-command abuse. Do not call Bathsheba a temptress or adulteress, speculate that she invited David's gaze, or use later marriage to erase coercion. David's spiritual importance never exempts him from accountability."}
+{
+  "book": "2 Samuel",
+  "book_id": "2-samuel",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Samuel chapter 11, first-pass draft aligned later",
+    "review_note": "Reviewed for siege setting, royal surveillance, Bathsheba's identity and washing, 'sent and took' coercion, pregnancy, attempted reproductive cover-up, intoxication, Uriah's loyalty, murder order, collateral deaths, command responsibility, mourning, and palace seizure."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At return of year, at time kings go out, David sent Joab, his servants with him, and all Israel. They ruined children of Ammon and besieged Rabbah, but David remained in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "At evening David arose from his bed and walked upon roof of house of king. From roof he saw a woman bathing, and woman was very good in appearance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in an eveningtide, that David arose from off his bed, and walked upon the roof of the king’s house: and from the roof he saw a woman washing herself; and the woman was very beautiful to look upon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "David sent and inquired concerning woman. One said, Is this not Bathsheba daughter of Eliam, wife of Uriah the Hittite?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David sent and enquired after the woman. And one said, Is not this Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "David sent messengers and took her. She came to him, and he lay with her. She was cleansing herself from her impurity, and she returned to her house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David sent messengers, and took her; and she came in unto him, and he lay with her; for she was purified from her uncleanness: and she returned unto her house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Woman conceived. She sent and told David, and said, I am pregnant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the woman conceived, and sent and told David, and said, I am with child."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "David sent to Joab, saying, Send Uriah the Hittite to me. Joab sent Uriah to David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David sent to Joab, saying, Send me Uriah the Hittite. And Joab sent Uriah to David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Uriah came to him. David asked concerning peace of Joab, peace of people, and peace of war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "David said to Uriah, Go down to your house and wash your feet. Uriah went out from house of king, and a gift/portion from king went out after him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said to Uriah, Go down to thy house, and wash thy feet. And Uriah departed out of the king’s house, and there followed him a mess of meat from the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Uriah lay at entrance of house of king with all servants of his lord and did not go down to his house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Uriah slept at the door of the king’s house with all the servants of his lord, and went not down to his house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "They told David, saying, Uriah did not go down to his house. David said to Uriah, Did you not come from a journey? Why did you not go down to your house?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they had told David, saying, Uriah went not down unto his house, David said unto Uriah, Camest thou not from thy journey? why then didst thou not go down unto thine house?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Uriah said to David, Ark, Israel, and Judah dwell in shelters; my lord Joab and servants of my lord camp upon face of field. Shall I go to my house to eat, drink, and lie with my wife? By your life and life of your soul, I will not do this thing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "women-gender",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "David said to Uriah, Stay here also today, and tomorrow I will send you. Uriah stayed in Jerusalem that day and next.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said to Uriah, Tarry here to day also, and to morrow I will let thee depart. So Uriah abode in Jerusalem that day, and the morrow."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "David called him, and he ate and drank before him. David made him drunk. In evening he went out to lie on his bed with servants of his lord, but he did not go down to his house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when David had called him, he did eat and drink before him; and he made him drunk: and at even he went out to lie on his bed with the servants of his lord, but went not down to his house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "In morning David wrote a letter to Joab and sent it by hand of Uriah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the morning, that David wrote a letter to Joab, and sent it by the hand of Uriah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "He wrote in letter, saying, Place Uriah at front of fiercest battle and turn back from behind him, so he may be struck and die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he wrote in the letter, saying, Set ye Uriah in the forefront of the hottest battle, and retire ye from him, that he may be smitten, and die."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "When Joab watched city, he assigned Uriah to place where he knew strong warriors were.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Joab observed the city, that he assigned Uriah unto a place where he knew that valiant men were."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Men of city went out and fought with Joab. Some of people, from servants of David, fell; Uriah the Hittite also died.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of the city went out, and fought with Joab: and there fell some of the people of the servants of David; and Uriah the Hittite died also."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Joab sent and told David all matters of war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Joab sent and told David all the things concerning the war;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He commanded messenger, saying, When you finish speaking all matters of war to king,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And charged the messenger, saying, When thou hast made an end of telling the matters of the war unto the king,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "if anger of king rises and he says, Why did you approach so near city to fight? Did you not know they would shoot from wall?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if so be that the king’s wrath arise, and he say unto thee, Wherefore approached ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Who struck Abimelech son of Jerubbesheth? Did not a woman throw upper millstone upon him from wall so he died at Thebez? Why did you approach wall? Then say, Your servant Uriah the Hittite is also dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who smote Abimelech the son of Jerubbesheth? did not a woman cast a piece of a millstone upon him from the wall, that he died in Thebez? why went ye nigh the wall? then say thou, Thy servant Uriah the Hittite is dead also."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "women-gender",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Messenger went, came, and told David all that Joab had sent him to tell.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the messenger went, and came and shewed David all that Joab had sent him for."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Messenger said to David, Men were strong against us and came out to us into field, but we pressed them as far as entrance of gate.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the messenger said unto David, Surely the men prevailed against us, and came out unto us into the field, and we were upon them even unto the entering of the gate."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Shooters shot at your servants from wall. Some servants of king died, and your servant Uriah the Hittite is also dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the shooters shot from off the wall upon thy servants; and some of the king’s servants be dead, and thy servant Uriah the Hittite is dead also."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "David said to messenger, Thus say to Joab: Do not let this thing be evil in your eyes, because sword devours one and another. Strengthen your battle against city and overthrow it. Strengthen him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then David said unto the messenger, Thus shalt thou say unto Joab, Let not this thing displease thee, for the sword devoureth one as well as another: make thy battle more strong against the city, and overthrow it: and encourage thou him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Wife of Uriah heard that Uriah her husband was dead, and she lamented over her husband.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the wife of Uriah heard that Uriah her husband was dead, she mourned for her husband."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "When mourning passed, David sent and gathered her to his house. She became his wife and bore him a son. But thing David had done was evil in eyes of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the mourning was past, David sent and fetched her to his house, and she became his wife, and bare him a son. But the thing that David had done displeased the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 20:1",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Psalm 51",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Bathsheba is named before the encounter as daughter of Eliam and wife of Uriah. Her relationships and personhood precede David's desire.",
+    "The Hebrew sequence says David 'sent' and 'took' her. A king with messengers, palace power, and authority over her husband creates coercion; the text records no request from David and no consent from Bathsheba.",
+    "Her ritual washing is not seduction. The rooftop viewpoint belongs to David; she is not blamed for being seen.",
+    "Her message 'I am pregnant' is the chapter's clearest direct speech and exposes consequences that royal power tries to conceal.",
+    "David attempts reproductive cover-up by ordering Uriah home, then uses alcohol when the first plan fails. Intoxication is an instrument of coercion here.",
+    "Uriah is a Hittite and a loyal soldier; ethnicity does not make him less part of Israel or less worthy of justice.",
+    "David sends Uriah carrying his own death order and engineers battlefield abandonment. Joab executes the plan, and additional soldiers die. This is murder through command authority and collateral killing.",
+    "'The sword devours one and another' is David's euphemism for a death he arranged. Fatalism must not erase command responsibility.",
+    "Bathsheba's mourning is centered. Palace marriage after the murder does not retroactively create consent or repair the abuse."
+  ],
+  "safety_note": "Maximum survivor-centered safeguards: This chapter depicts royal sexual abuse, reproductive coercion, intoxication, cover-up, murder, and war-command abuse. Do not call Bathsheba a temptress or adulteress, speculate that she invited David's gaze, or use later marriage to erase coercion. David's spiritual importance never exempts him from accountability.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-27",
+    "tags": "partial-20-of-27",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-20-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

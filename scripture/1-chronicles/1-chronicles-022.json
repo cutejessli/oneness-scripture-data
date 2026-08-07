@@ -1,1 +1,636 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":22,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph temple preparation and David's charge to Solomon, first-pass restored draft; later witness audit required","review_note":"Reviewed for temple site, foreign-resident labor, materials, Solomon's youth, David's wars, peace language, skilled work, and prior inhabitants."},"verses":[{"verse":1,"restored":"David said, This is house of YHWH Divine, and this is altar of burnt offering for Israel."},{"verse":2,"restored":"David commanded gathering of foreign residents in land of Israel and appointed stonecutters to hew dressed stones for building house of Divine."},{"verse":3,"restored":"David prepared iron in abundance for nails of gate doors and clamps, and bronze in abundance beyond weighing,"},{"verse":4,"restored":"and cedar logs without number, for Sidonians and Tyrians brought much cedar to David."},{"verse":5,"restored":"David said, Solomon my son is young and inexperienced, and house built for YHWH must be exceedingly great, for fame and glory in all lands; I will prepare for it. David prepared abundantly before death."},{"verse":6,"restored":"He called Solomon his son and commanded him to build house for YHWH Divine of Israel."},{"verse":7,"restored":"David said to Solomon, My son, it was in my heart to build house for name of YHWH my Divine."},{"verse":8,"restored":"But word of YHWH came to me: You have shed blood abundantly and made great wars; you shall not build a house for my name, because you shed much blood on earth before me."},{"verse":9,"restored":"Look, a son shall be born to you who shall be a man of rest; I will give him rest from enemies around. His name shall be Solomon, and I will give peace and quiet to Israel in his days."},{"verse":10,"restored":"He shall build house for my name; he shall be son to me and I father to him; I will establish throne of his kingdom over Israel enduringly."},{"verse":11,"restored":"Now, my son, may YHWH be with you, and may you succeed and build house of YHWH your Divine as spoken concerning you."},{"verse":12,"restored":"Only may YHWH give you insight and understanding and command concerning Israel, so you may guard Torah of YHWH your Divine."},{"verse":13,"restored":"Then you shall succeed if you guard to do statutes and judgments YHWH commanded Moses concerning Israel. Be strong and courageous; do not fear or be dismayed."},{"verse":14,"restored":"Look, in my affliction and preparation I have provided for house of YHWH one hundred thousand talents of gold, one million talents of silver, bronze and iron beyond weighing, timber and stone; you may add to them."},{"verse":15,"restored":"With you are many workers: stonecutters, masons, carpenters, and every skilled person for every work,"},{"verse":16,"restored":"in gold, silver, bronze, and iron beyond number. Rise and act, and may YHWH be with you."},{"verse":17,"restored":"David commanded all leaders of Israel to help Solomon his son."},{"verse":18,"restored":"Is not YHWH your Divine with you and given rest around? For inhabitants of land have been given into my hand, and land is subdued before YHWH and people."},{"verse":19,"restored":"Now set heart and soul to seek YHWH your Divine. Rise and build sanctuary of YHWH Divine, to bring ark of covenant of YHWH and sacred vessels into house built for name of YHWH."}],"translation_notes":["Foreign residents are assigned stonework; vulnerable migrant labor may be coerced and requires protection.","Temple materials depend on forests, mines, trade, transport, and skilled labor.","Solomon is young and receives a vast inherited project under public pressure.","David is disqualified from building because of extensive warfare and bloodshed; violent leadership has spiritual limits.","Rest is narrated beside subjugation of prior inhabitants, so domination must not be called peace.","The immense material totals may be rhetorical and must not support coercive religious fundraising.","Workers require safety, rest, compensation, and agency.","The site follows Ornan's pressured transaction and plague trauma."],"safety_note":"Do not use this chapter to defend coerced migrant labor, conquest, extravagant fundraising, unsafe construction, or hereditary ruler immunity. Center workers, Solomon's youth, prior inhabitants, ecological cost, and David's disqualification by violence."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph temple preparation and David's charge to Solomon, first-pass restored draft; later witness audit required",
+    "review_note": "Reviewed for temple site, foreign-resident labor, materials, Solomon's youth, David's wars, peace language, skilled work, and prior inhabitants."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "David said, This is house of YHWH Divine, and this is altar of burnt offering for Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then David said, This is the house of the LORD God, and this is the altar of the burnt offering for Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "David commanded gathering of foreign residents in land of Israel and appointed stonecutters to hew dressed stones for building house of Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David commanded to gather together the strangers that were in the land of Israel; and he set masons to hew wrought stones to build the house of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "David prepared iron in abundance for nails of gate doors and clamps, and bronze in abundance beyond weighing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David prepared iron in abundance for the nails for the doors of the gates, and for the joinings; and brass in abundance without weight;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "and cedar logs without number, for Sidonians and Tyrians brought much cedar to David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "David said, Solomon my son is young and inexperienced, and house built for YHWH must be exceedingly great, for fame and glory in all lands; I will prepare for it. David prepared abundantly before death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said, Solomon my son is young and tender, and the house that is to be builded for the LORD must be exceeding magnifical, of fame and of glory throughout all countries: I will therefore now make preparation for it. So David prepared abundantly before his death."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He called Solomon his son and commanded him to build house for YHWH Divine of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he called for Solomon his son, and charged him to build an house for the LORD God of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "David said to Solomon, My son, it was in my heart to build house for name of YHWH my Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said to Solomon, My son, as for me, it was in my mind to build an house unto the name of the LORD my God:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But word of YHWH came to me: You have shed blood abundantly and made great wars; you shall not build a house for my name, because you shed much blood on earth before me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the word of the LORD came to me, saying, Thou hast shed blood abundantly, and hast made great wars: thou shalt not build an house unto my name, because thou hast shed much blood upon the earth in my sight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Look, a son shall be born to you who shall be a man of rest; I will give him rest from enemies around. His name shall be Solomon, and I will give peace and quiet to Israel in his days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, a son shall be born to thee, who shall be a man of rest; and I will give him rest from all his enemies round about: for his name shall be Solomon, and I will give peace and quietness unto Israel in his days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "He shall build house for my name; he shall be son to me and I father to him; I will establish throne of his kingdom over Israel enduringly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall build an house for my name; and he shall be my son, and I will be his father; and I will establish the throne of his kingdom over Israel for ever."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Now, my son, may YHWH be with you, and may you succeed and build house of YHWH your Divine as spoken concerning you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now, my son, the LORD be with thee; and prosper thou, and build the house of the LORD thy God, as he hath said of thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Only may YHWH give you insight and understanding and command concerning Israel, so you may guard Torah of YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only the LORD give thee wisdom and understanding, and give thee charge concerning Israel, that thou mayest keep the law of the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Then you shall succeed if you guard to do statutes and judgments YHWH commanded Moses concerning Israel. Be strong and courageous; do not fear or be dismayed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shalt thou prosper, if thou takest heed to fulfil the statutes and judgments which the LORD charged Moses with concerning Israel: be strong, and of good courage; dread not, nor be dismayed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Look, in my affliction and preparation I have provided for house of YHWH one hundred thousand talents of gold, one million talents of silver, bronze and iron beyond weighing, timber and stone; you may add to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now, behold, in my trouble I have prepared for the house of the LORD an hundred thousand talents of gold, and a thousand thousand talents of silver; and of brass and iron without weight; for it is in abundance: timber also and stone have I prepared; and thou mayest add thereto."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "With you are many workers: stonecutters, masons, carpenters, and every skilled person for every work,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover there are workmen with thee in abundance, hewers and workers of stone and timber, and all manner of cunning men for every manner of work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "in gold, silver, bronze, and iron beyond number. Rise and act, and may YHWH be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the gold, the silver, and the brass, and the iron, there is no number. Arise therefore, and be doing, and the LORD be with thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "David commanded all leaders of Israel to help Solomon his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "David also commanded all the princes of Israel to help Solomon his son, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Is not YHWH your Divine with you and given rest around? For inhabitants of land have been given into my hand, and land is subdued before YHWH and people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Is not the LORD your God with you? and hath he not given you rest on every side? for he hath given the inhabitants of the land into mine hand; and the land is subdued before the LORD, and before his people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Now set heart and soul to seek YHWH your Divine. Rise and build sanctuary of YHWH Divine, to bring ark of covenant of YHWH and sacred vessels into house built for name of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now set your heart and your soul to seek the LORD your God; arise therefore, and build ye the sanctuary of the LORD God, to bring the ark of the covenant of the LORD, and the holy vessels of God, into the house that is to be built to the name of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 7",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Kings 5",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Foreign residents are assigned stonework; vulnerable migrant labor may be coerced and requires protection.",
+    "Temple materials depend on forests, mines, trade, transport, and skilled labor.",
+    "Solomon is young and receives a vast inherited project under public pressure.",
+    "David is disqualified from building because of extensive warfare and bloodshed; violent leadership has spiritual limits.",
+    "Rest is narrated beside subjugation of prior inhabitants, so domination must not be called peace.",
+    "The immense material totals may be rhetorical and must not support coercive religious fundraising.",
+    "Workers require safety, rest, compensation, and agency.",
+    "The site follows Ornan's pressured transaction and plague trauma."
+  ],
+  "safety_note": "Do not use this chapter to defend coerced migrant labor, conquest, extravagant fundraising, unsafe construction, or hereditary ruler immunity. Center workers, Solomon's youth, prior inhabitants, ecological cost, and David's disqualification by violence.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-19",
+    "tags": "partial-13-of-19",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-4-of-19",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,276 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph Rabbah conquest and Philistine champion traditions, first-pass restored draft with public-domain scaffold; later witness audit required","review_note":"Reviewed against 2 Samuel 11-12 and 21 for omitted Bathsheba/Uriah narrative, Rabbah siege and spoil, v3 forced-labor/execution ambiguity, crown imagery, giant/champion terminology, Goliath/Lahmi textual relationship, stature and polydactyly, and Philistine reception."},"verses":[{"verse":1,"restored":"At return of year, at time kings go out, Joab led army power, devastated land of Ammonites, came and besieged Rabbah. David remained in Jerusalem. Joab struck Rabbah and tore it down."},{"verse":2,"restored":"David took crown of their king/Milcom from his head; its weight was found a talent of gold with precious stone, and it was set on David's head. He brought very much spoil from city."},{"verse":3,"restored":"He brought out people in it and set/cut them with saws, iron picks/harrows, and axes; thus David did to all cities of Ammonites. David and all people returned to Jerusalem."},{"verse":4,"restored":"After this war arose at Gezer with Philistines; Sibbecai the Hushathite struck Sippai from descendants of Rephaim, and they were subdued."},{"verse":5,"restored":"Again there was war with Philistines; Elhanan son of Jair struck Lahmi brother of Goliath the Gittite, whose spear shaft was like weaver's beam."},{"verse":6,"restored":"Again there was war at Gath, where there was a man of great measure with six fingers on each hand and six toes on each foot, twenty-four; he also was descended from Rephaim."},{"verse":7,"restored":"He taunted Israel, and Jonathan son of Shimea, David's brother, struck him."},{"verse":8,"restored":"These were born to Rephaim in Gath, and they fell by hand of David and hand of servants."}],"translation_notes":["Chronicles omits David's sexual abuse of Bathsheba, Uriah's command murder, and Nathan's confrontation, although verse 1 occupies the same campaign setting. The omission must not rehabilitate David through silence.","Joab devastates Ammonite land and destroys Rabbah; civilians, homes, food systems, and grief remain behind the royal summary.","The crown and extensive spoil are trophies of conquest. Sacred or royal display does not legitimate plunder.","Verse 3 is textually and ethically difficult: it may describe killing/torture with tools or placing people into forced labor using those tools. Neither reading is benign.","Ammonite captives are people, not labor inventory or objects for exemplary cruelty.","Rephaim and 'great stature' language describe ancient champion traditions, not monsters, demons, or inferior bodies.","Six fingers and toes is polydactyly, a human bodily variation; it is not a sign of evil, giant blood, or spiritual threat.","The Goliath/Lahmi wording differs across Samuel and Chronicles and requires close textual audit.","Philistine champions remain human opponents and may not become modern ethnic stereotypes."],"safety_note":"Do not let Chronicles' omission erase Bathsheba and Uriah. Reject torture, forced labor, plunder, disability stigma, polydactyly superstition, giant mythology used against real bodies, and anti-Philistine hatred. Rabbah's conquered people remain the chapter's most endangered community."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph Rabbah conquest and Philistine champion traditions, first-pass restored draft with public-domain scaffold; later witness audit required",
+    "review_note": "Reviewed against 2 Samuel 11-12 and 21 for omitted Bathsheba/Uriah narrative, Rabbah siege and spoil, v3 forced-labor/execution ambiguity, crown imagery, giant/champion terminology, Goliath/Lahmi textual relationship, stature and polydactyly, and Philistine reception."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At return of year, at time kings go out, Joab led army power, devastated land of Ammonites, came and besieged Rabbah. David remained in Jerusalem. Joab struck Rabbah and tore it down.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "David took crown of their king/Milcom from his head; its weight was found a talent of gold with precious stone, and it was set on David's head. He brought very much spoil from city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David took the crown of their king from off his head, and found it to weigh a talent of gold, and there were precious stones in it; and it was set upon David’s head: and he brought also exceeding much spoil out of the city."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He brought out people in it and set/cut them with saws, iron picks/harrows, and axes; thus David did to all cities of Ammonites. David and all people returned to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "After this war arose at Gezer with Philistines; Sibbecai the Hushathite struck Sippai from descendants of Rephaim, and they were subdued.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass after this, that there arose war at Gezer with the Philistines; at which time Sibbechai the Hushathite slew Sippai, that was of the children of the giant: and they were subdued."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Again there was war with Philistines; Elhanan son of Jair struck Lahmi brother of Goliath the Gittite, whose spear shaft was like weaver's beam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was war again with the Philistines; and Elhanan the son of Jair slew Lahmi the brother of Goliath the Gittite, whose spear staff was like a weaver’s beam."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Again there was war at Gath, where there was a man of great measure with six fingers on each hand and six toes on each foot, twenty-four; he also was descended from Rephaim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And yet again there was war at Gath, where was a man of great stature, whose fingers and toes were four and twenty, six on each hand, and six on each foot and he also was the son of the giant."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He taunted Israel, and Jonathan son of Shimea, David's brother, struck him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when he defied Israel, Jonathan the son of Shimea David’s brother slew him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "These were born to Rephaim in Gath, and they fell by hand of David and hand of servants.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 21:15-22",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Chronicles omits David's sexual abuse of Bathsheba, Uriah's command murder, and Nathan's confrontation, although verse 1 occupies the same campaign setting. The omission must not rehabilitate David through silence.",
+    "Joab devastates Ammonite land and destroys Rabbah; civilians, homes, food systems, and grief remain behind the royal summary.",
+    "The crown and extensive spoil are trophies of conquest. Sacred or royal display does not legitimate plunder.",
+    "Verse 3 is textually and ethically difficult: it may describe killing/torture with tools or placing people into forced labor using those tools. Neither reading is benign.",
+    "Ammonite captives are people, not labor inventory or objects for exemplary cruelty.",
+    "Rephaim and 'great stature' language describe ancient champion traditions, not monsters, demons, or inferior bodies.",
+    "Six fingers and toes is polydactyly, a human bodily variation; it is not a sign of evil, giant blood, or spiritual threat.",
+    "The Goliath/Lahmi wording differs across Samuel and Chronicles and requires close textual audit.",
+    "Philistine champions remain human opponents and may not become modern ethnic stereotypes."
+  ],
+  "safety_note": "Do not let Chronicles' omission erase Bathsheba and Uriah. Reject torture, forced labor, plunder, disability stigma, polydactyly superstition, giant mythology used against real bodies, and anti-Philistine hatred. Rabbah's conquered people remain the chapter's most endangered community.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-8",
+    "tags": "present-all-verses",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "present-all-verses",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

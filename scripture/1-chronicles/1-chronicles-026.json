@@ -1,1 +1,618 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":26,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph gatekeepers, treasuries, and external administration, first-pass restored draft; later witness audit required","review_note":"Reviewed for gatekeeping, fertility blessing, warrior language, lots, accessibility, treasury oversight, dedicated war spoil, religious-state administration, regional authority, and labor accountability."},"verses":[{"verse":1,"restored":"Divisions of gatekeepers: from Korahites, Meshelemiah son of Kore from sons of Asaph/Ebiasaph."},{"verse":2,"restored":"Sons of Meshelemiah: Zechariah firstborn, Jediael second, Zebadiah third, Jathniel fourth,"},{"verse":3,"restored":"Elam fifth, Jehohanan sixth, Eliehoenai seventh."},{"verse":4,"restored":"Sons of Obed-edom: Shemaiah firstborn, Jehozabad second, Joah third, Sacar fourth, Nethanel fifth,"},{"verse":5,"restored":"Ammiel sixth, Issachar seventh, Peullethai eighth, for Divine blessed him."},{"verse":6,"restored":"To Shemaiah his son were born sons who ruled ancestral house, for they were mighty people of ability."},{"verse":7,"restored":"Sons of Shemaiah: Othni, Rephael, Obed, Elzabad, whose relatives Elihu and Semachiah were able people."},{"verse":8,"restored":"All these from sons of Obed-edom, they and sons and relatives, able with strength for service—sixty-two from Obed-edom."},{"verse":9,"restored":"Meshelemiah had sons and relatives, able people—eighteen."},{"verse":10,"restored":"Hosah from sons of Merari had sons: Shimri the chief, though not firstborn, father made him chief;"},{"verse":11,"restored":"Hilkiah second, Tebaliah third, Zechariah fourth. All sons and relatives of Hosah were thirteen."},{"verse":12,"restored":"To these divisions of gatekeepers, chief people had duties corresponding to relatives to minister in house of YHWH."},{"verse":13,"restored":"They cast lots, small and great alike by ancestral house, for each gate."},{"verse":14,"restored":"Lot eastward fell to Shelemiah. For Zechariah his son, a counselor with insight, they cast lots, and his lot came northward."},{"verse":15,"restored":"For Obed-edom southward, and for sons the storehouse."},{"verse":16,"restored":"For Shuppim and Hosah westward, at Shallecheth gate by ascending highway, watch beside watch."},{"verse":17,"restored":"Eastward six Levites each day, northward four, southward four, and at storehouse two by two."},{"verse":18,"restored":"At colonnade westward, four at highway and two at colonnade."},{"verse":19,"restored":"These were divisions of gatekeepers from Korahites and sons of Merari."},{"verse":20,"restored":"Levites—their relatives—were over treasuries of house of Divine and treasuries of dedicated things."},{"verse":21,"restored":"Descendants of Ladan, Gershonites through Ladan, heads of ancestral houses: Jehieli."},{"verse":22,"restored":"Sons of Jehieli, Zetham and Joel his brother, were over treasuries of house of YHWH."},{"verse":23,"restored":"From Amramites, Izharites, Hebronites, and Uzzielites:"},{"verse":24,"restored":"Shebuel son of Gershom son of Moses was ruler over treasuries."},{"verse":25,"restored":"His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son, Shelomoth his son."},{"verse":26,"restored":"Shelomoth and relatives were over all treasuries of dedicated things that David the king, ancestral heads, commanders of thousands and hundreds, and army commanders had dedicated."},{"verse":27,"restored":"From wars and spoil they dedicated things to maintain house of YHWH."},{"verse":28,"restored":"All Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah had dedicated—every dedicated thing was under hand of Shelomoth and relatives."},{"verse":29,"restored":"From Izharites, Chenaniah and sons were assigned to external business over Israel as officers and judges."},{"verse":30,"restored":"From Hebronites, Hashabiah and relatives, able people—one thousand seven hundred—had oversight west of Jordan for all work of YHWH and service of king."},{"verse":31,"restored":"From Hebronites, Jerijah was chief according to generations. In fortieth year of David's reign they were sought, and able people were found at Jazer of Gilead."},{"verse":32,"restored":"His relatives, able ancestral heads—two thousand seven hundred—David made overseers over Reubenites, Gadites, and half-Manasseh for every matter of Divine and matter of king."}],"translation_notes":["Gatekeepers manage safety, access, property, and welcome; they should not become militarized bouncers or barriers to disabled and marginalized worshippers.","Obed-edom's many sons are called blessing, but fertility and number of children are not universal measures of Divine favor.","'Mighty' and 'able' should include reliability and skill, not only violent masculinity.","Lots distribute gates but do not guarantee fairness; accessibility, rotation, and oversight remain necessary.","Treasuries require transparent records, separation of duties, and protection against clerical or royal misuse.","War spoil dedicated to temple maintenance does not cleanse the violence or restore property to those from whom it was taken.","Samuel, Saul, Abner, Joab, and David all contribute to sacred treasury despite morally complex histories; donations do not purchase absolution.","External officers combine religious and royal matters, raising concerns about theocracy, policing, and institutional overreach.","Regional oversight across Jordan may reflect centralized control rather than local consent."],"safety_note":"Do not use gatekeeping to exclude, family size as blessing hierarchy, sacred treasury to launder war wealth, or religious officers as unaccountable police. Require accessibility, transparent finances, labor dignity, local voice, and separation of religious and coercive power."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 26,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph gatekeepers, treasuries, and external administration, first-pass restored draft; later witness audit required",
+    "review_note": "Reviewed for gatekeeping, fertility blessing, warrior language, lots, accessibility, treasury oversight, dedicated war spoil, religious-state administration, regional authority, and labor accountability."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Divisions of gatekeepers: from Korahites, Meshelemiah son of Kore from sons of Asaph/Ebiasaph.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Concerning the divisions of the porters: Of the Korhites was Meshelemiah the son of Kore, of the sons of Asaph."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Sons of Meshelemiah: Zechariah firstborn, Jediael second, Zebadiah third, Jathniel fourth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Meshelemiah were, Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Elam fifth, Jehohanan sixth, Eliehoenai seventh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Elam the fifth, Jehohanan the sixth, Elioenai the seventh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Sons of Obed-edom: Shemaiah firstborn, Jehozabad second, Joah third, Sacar fourth, Nethanel fifth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the sons of Obededom were, Shemaiah the firstborn, Jehozabad the second, Joah the third, and Sacar the fourth, and Nethaneel the fifth,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Ammiel sixth, Issachar seventh, Peullethai eighth, for Divine blessed him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ammiel the sixth, Issachar the seventh, Peulthai the eighth: for God blessed him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "To Shemaiah his son were born sons who ruled ancestral house, for they were mighty people of ability.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also unto Shemaiah his son were sons born, that ruled throughout the house of their father: for they were mighty men of valour."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Sons of Shemaiah: Othni, Rephael, Obed, Elzabad, whose relatives Elihu and Semachiah were able people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Shemaiah; Othni, and Rephael, and Obed, Elzabad, whose brethren were strong men, Elihu, and Semachiah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "All these from sons of Obed-edom, they and sons and relatives, able with strength for service—sixty-two from Obed-edom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All these of the sons of Obededom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obededom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Meshelemiah had sons and relatives, able people—eighteen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Meshelemiah had sons and brethren, strong men, eighteen."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Hosah from sons of Merari had sons: Shimri the chief, though not firstborn, father made him chief;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also Hosah, of the children of Merari, had sons; Simri the chief, (for though he was not the firstborn, yet his father made him the chief;)"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Hilkiah second, Tebaliah third, Zechariah fourth. All sons and relatives of Hosah were thirteen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "To these divisions of gatekeepers, chief people had duties corresponding to relatives to minister in house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "They cast lots, small and great alike by ancestral house, for each gate.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they cast lots, as well the small as the great, according to the house of their fathers, for every gate."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Lot eastward fell to Shelemiah. For Zechariah his son, a counselor with insight, they cast lots, and his lot came northward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "For Obed-edom southward, and for sons the storehouse.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To Obededom southward; and to his sons the house of Asuppim."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "For Shuppim and Hosah westward, at Shallecheth gate by ascending highway, watch beside watch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To Shuppim and Hosah the lot came forth westward, with the gate Shallecheth, by the causeway of the going up, ward against ward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Eastward six Levites each day, northward four, southward four, and at storehouse two by two.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Eastward were six Levites, northward four a day, southward four a day, and toward Asuppim two and two."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "At colonnade westward, four at highway and two at colonnade.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At Parbar westward, four at the causeway, and two at Parbar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "These were divisions of gatekeepers from Korahites and sons of Merari.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are the divisions of the porters among the sons of Kore, and among the sons of Merari."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Levites—their relatives—were over treasuries of house of Divine and treasuries of dedicated things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the Levites, Ahijah was over the treasures of the house of God, and over the treasures of the dedicated things."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Descendants of Ladan, Gershonites through Ladan, heads of ancestral houses: Jehieli.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As concerning the sons of Laadan; the sons of the Gershonite Laadan, chief fathers, even of Laadan the Gershonite, were Jehieli."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Sons of Jehieli, Zetham and Joel his brother, were over treasuries of house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "From Amramites, Izharites, Hebronites, and Uzzielites:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the Amramites, and the Izharites, the Hebronites, and the Uzzielites:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Shebuel son of Gershom son of Moses was ruler over treasuries.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shebuel the son of Gershom, the son of Moses, was ruler of the treasures."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "His relatives through Eliezer: Rehabiah his son, Jeshaiah his son, Joram his son, Zichri his son, Shelomoth his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his brethren by Eliezer; Rehabiah his son, and Jeshaiah his son, and Joram his son, and Zichri his son, and Shelomith his son."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Shelomoth and relatives were over all treasuries of dedicated things that David the king, ancestral heads, commanders of thousands and hundreds, and army commanders had dedicated.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "From wars and spoil they dedicated things to maintain house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Out of the spoils won in battles did they dedicate to maintain the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "All Samuel the seer, Saul son of Kish, Abner son of Ner, and Joab son of Zeruiah had dedicated—every dedicated thing was under hand of Shelomoth and relatives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all that Samuel the seer, and Saul the son of Kish, and Abner the son of Ner, and Joab the son of Zeruiah, had dedicated; and whosoever had dedicated any thing, it was under the hand of Shelomith, and of his brethren."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "seer",
+          "source": "roeh",
+          "language": "Hebrew",
+          "glossary_id": "roeh",
+          "transliteration": "roeh"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "From Izharites, Chenaniah and sons were assigned to external business over Israel as officers and judges.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the Izharites, Chenaniah and his sons were for the outward business over Israel, for officers and judges."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "From Hebronites, Hashabiah and relatives, able people—one thousand seven hundred—had oversight west of Jordan for all work of YHWH and service of king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the LORD, and in the service of the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "From Hebronites, Jerijah was chief according to generations. In fortieth year of David's reign they were sought, and able people were found at Jazer of Gilead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Among the Hebronites was Jerijah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "His relatives, able ancestral heads—two thousand seven hundred—David made overseers over Reubenites, Gadites, and half-Manasseh for every matter of Divine and matter of king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his brethren, men of valour, were two thousand and seven hundred chief fathers, whom king David made rulers over the Reubenites, the Gadites, and the half tribe of Manasseh, for every matter pertaining to God, and affairs of the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Gatekeepers manage safety, access, property, and welcome; they should not become militarized bouncers or barriers to disabled and marginalized worshippers.",
+    "Obed-edom's many sons are called blessing, but fertility and number of children are not universal measures of Divine favor.",
+    "'Mighty' and 'able' should include reliability and skill, not only violent masculinity.",
+    "Lots distribute gates but do not guarantee fairness; accessibility, rotation, and oversight remain necessary.",
+    "Treasuries require transparent records, separation of duties, and protection against clerical or royal misuse.",
+    "War spoil dedicated to temple maintenance does not cleanse the violence or restore property to those from whom it was taken.",
+    "Samuel, Saul, Abner, Joab, and David all contribute to sacred treasury despite morally complex histories; donations do not purchase absolution.",
+    "External officers combine religious and royal matters, raising concerns about theocracy, policing, and institutional overreach.",
+    "Regional oversight across Jordan may reflect centralized control rather than local consent."
+  ],
+  "safety_note": "Do not use gatekeeping to exclude, family size as blessing hierarchy, sacred treasury to launder war wealth, or religious officers as unaccountable police. Require accessibility, transparent finances, labor dignity, local voice, and separation of religious and coercive power.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-32",
+    "tags": "partial-25-of-32",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

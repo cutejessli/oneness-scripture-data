@@ -1,1 +1,973 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph Benjamin and Saul genealogies, first-pass restored draft with public-domain scaffold; later witness audit required","review_note":"Reviewed for differences from chapter 7, family relocation, wives and divorce/sending away, Moab residence, builders and towns, expulsion from Gath, Jerusalem residence, Saul/Jonathan names, Baal-name reception, disability-related name alteration, archers, and fertility hierarchy."},"verses":[{"verse":1,"restored":"Benjamin fathered Bela his firstborn, Ashbel second, Aharah third,"},{"verse":2,"restored":"Nohah fourth, and Rapha fifth."},{"verse":3,"restored":"Sons of Bela: Addar, Gera, Abihud,"},{"verse":4,"restored":"Abishua, Naaman, Ahoah,"},{"verse":5,"restored":"Gera, Shephuphan, and Huram."},{"verse":6,"restored":"These were sons of Ehud, heads of ancestral houses of inhabitants of Geba, who were relocated to Manahath:"},{"verse":7,"restored":"Naaman, Ahijah, and Gera; he relocated them and fathered Uzza and Ahihud."},{"verse":8,"restored":"Shaharaim fathered children in field/land of Moab after sending away Hushim and Baara his wives."},{"verse":9,"restored":"By Hodesh his wife he fathered Jobab, Zibia, Mesha, Malcam,"},{"verse":10,"restored":"Jeuz, Sachia, and Mirmah. These were his sons, heads of ancestral houses."},{"verse":11,"restored":"By Hushim he fathered Abitub and Elpaal."},{"verse":12,"restored":"Sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with their towns;"},{"verse":13,"restored":"also Beriah and Shema, heads of ancestral houses of inhabitants of Aijalon, who drove away inhabitants of Gath."},{"verse":14,"restored":"Ahio, Shashak, Jeremoth,"},{"verse":15,"restored":"Zebadiah, Arad, Eder,"},{"verse":16,"restored":"Michael, Ishpah, and Joha were sons of Beriah."},{"verse":17,"restored":"Zebadiah, Meshullam, Hizki, Heber,"},{"verse":18,"restored":"Ishmerai, Izliah, and Jobab were sons of Elpaal."},{"verse":19,"restored":"Jakim, Zichri, Zabdi,"},{"verse":20,"restored":"Elienai, Zillethai, Eliel,"},{"verse":21,"restored":"Adaiah, Beraiah, and Shimrath were sons of Shimei."},{"verse":22,"restored":"Ishpan, Eber, Eliel,"},{"verse":23,"restored":"Abdon, Zichri, Hanan,"},{"verse":24,"restored":"Hananiah, Elam, Anthothijah,"},{"verse":25,"restored":"Iphdeiah and Penuel were sons of Shashak."},{"verse":26,"restored":"Shamsherai, Shehariah, Athaliah,"},{"verse":27,"restored":"Jaareshiah, Elijah, and Zichri were sons of Jeroham."},{"verse":28,"restored":"These were heads of ancestral houses according to generations, chief men; these lived in Jerusalem."},{"verse":29,"restored":"At Gibeon lived Jeiel father/founder of Gibeon; name of his wife was Maacah."},{"verse":30,"restored":"His firstborn son Abdon, then Zur, Kish, Baal, Nadab,"},{"verse":31,"restored":"Gedor, Ahio, and Zecher/Zechariah."},{"verse":32,"restored":"Mikloth fathered Shimeah. They also lived with their brothers in Jerusalem, opposite their brothers."},{"verse":33,"restored":"Ner fathered Kish; Kish fathered Saul; Saul fathered Jonathan, Malchi-shua, Abinadab, and Esh-baal."},{"verse":34,"restored":"Son of Jonathan was Merib-baal; Merib-baal fathered Micah."},{"verse":35,"restored":"Sons of Micah: Pithon, Melech, Tarea, and Ahaz."},{"verse":36,"restored":"Ahaz fathered Jehoaddah; Jehoaddah fathered Alemeth, Azmaveth, and Zimri; Zimri fathered Moza;"},{"verse":37,"restored":"Moza fathered Binea; Raphah was his son, Eleasah his son, Azel his son."},{"verse":38,"restored":"Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were sons of Azel."},{"verse":39,"restored":"Sons of Eshek his brother: Ulam firstborn, Jeush second, Eliphelet third."},{"verse":40,"restored":"Sons of Ulam were mighty warriors and archers, with many sons and grandsons—one hundred fifty. All these were descendants of Benjamin."}],"translation_notes":["This Benjamin genealogy differs from chapter 7 and other biblical lists; it is a constructed archive, not a seamless modern family tree.","Verses 6-7 describe relocation whose agency and coercion are unclear; displaced families should not be treated as administrative objects.","Shaharaim sends away wives Hushim and Baara. The text gives no consent, economic, custody, or survival details for the women.","Living in Moab and interregional marriage undermine ethnic-purity readings.","Ono and Lod are built by named descendants, preserving civic labor within genealogy.","Driving out inhabitants of Gath is displacement and must not be celebrated merely as ancestral expansion.","Esh-baal and Merib-baal preserve names containing Baal; later forms Ish-bosheth and Mephibosheth may reflect scribal substitution. Baal-name elements do not prove moral corruption.","Merib-baal/Mephibosheth's disability story in Samuel must not be erased or stigmatized by name changes.","Military ability, archery, and number of sons are not measures of masculine or family worth."],"safety_note":"Do not use Benjamin's genealogy to justify ethnic purity, forced relocation, abandonment of wives, expulsion of residents, disability stigma, or militarized masculinity. Preserve textual differences and the humanity of people moved, sent away, or driven out."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph Benjamin and Saul genealogies, first-pass restored draft with public-domain scaffold; later witness audit required",
+    "review_note": "Reviewed for differences from chapter 7, family relocation, wives and divorce/sending away, Moab residence, builders and towns, expulsion from Gath, Jerusalem residence, Saul/Jonathan names, Baal-name reception, disability-related name alteration, archers, and fertility hierarchy."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Benjamin fathered Bela his firstborn, Ashbel second, Aharah third,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah the third,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Nohah fourth, and Rapha fifth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nohah the fourth, and Rapha the fifth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Sons of Bela: Addar, Gera, Abihud,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Bela were, Addar, and Gera, and Abihud,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Abishua, Naaman, Ahoah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abishua, and Naaman, and Ahoah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Gera, Shephuphan, and Huram.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Gera, and Shephuphan, and Huram."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "These were sons of Ehud, heads of ancestral houses of inhabitants of Geba, who were relocated to Manahath:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Naaman, Ahijah, and Gera; he relocated them and fathered Uzza and Ahihud.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Shaharaim fathered children in field/land of Moab after sending away Hushim and Baara his wives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shaharaim begat children in the country of Moab, after he had sent them away; Hushim and Baara were his wives."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "By Hodesh his wife he fathered Jobab, Zibia, Mesha, Malcam,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he begat of Hodesh his wife, Jobab, and Zibia, and Mesha, and Malcham,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Jeuz, Sachia, and Mirmah. These were his sons, heads of ancestral houses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "By Hushim he fathered Abitub and Elpaal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of Hushim he begat Abitub, and Elpaal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Sons of Elpaal: Eber, Misham, and Shemed, who built Ono and Lod with their towns;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Elpaal; Eber, and Misham, and Shamed, who built Ono, and Lod, with the towns thereof:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "also Beriah and Shema, heads of ancestral houses of inhabitants of Aijalon, who drove away inhabitants of Gath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beriah also, and Shema, who were heads of the fathers of the inhabitants of Aijalon, who drove away the inhabitants of Gath:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Ahio, Shashak, Jeremoth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahio, Shashak, and Jeremoth,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Zebadiah, Arad, Eder,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zebadiah, and Arad, and Ader,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Michael, Ishpah, and Joha were sons of Beriah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Michael, and Ispah, and Joha, the sons of Beriah;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Zebadiah, Meshullam, Hizki, Heber,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zebadiah, and Meshullam, and Hezeki, and Heber,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Ishmerai, Izliah, and Jobab were sons of Elpaal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Jakim, Zichri, Zabdi,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jakim, and Zichri, and Zabdi,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Elienai, Zillethai, Eliel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elienai, and Zilthai, and Eliel,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Adaiah, Beraiah, and Shimrath were sons of Shimei.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Ishpan, Eber, Eliel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ishpan, and Heber, and Eliel,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Abdon, Zichri, Hanan,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abdon, and Zichri, and Hanan,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Hananiah, Elam, Anthothijah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hananiah, and Elam, and Antothijah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Iphdeiah and Penuel were sons of Shashak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Iphedeiah, and Penuel, the sons of Shashak;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Shamsherai, Shehariah, Athaliah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shamsherai, and Shehariah, and Athaliah,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Jaareshiah, Elijah, and Zichri were sons of Jeroham.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jaresiah, and Eliah, and Zichri, the sons of Jeroham."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "These were heads of ancestral houses according to generations, chief men; these lived in Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were heads of the fathers, by their generations, chief men. These dwelt in Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "At Gibeon lived Jeiel father/founder of Gibeon; name of his wife was Maacah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And at Gibeon dwelt the father of Gibeon; whose wife’s name was Maachah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "His firstborn son Abdon, then Zur, Kish, Baal, Nadab,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Gedor, Ahio, and Zecher/Zechariah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Gedor, and Ahio, and Zacher."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Mikloth fathered Shimeah. They also lived with their brothers in Jerusalem, opposite their brothers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Ner fathered Kish; Kish fathered Saul; Saul fathered Jonathan, Malchi-shua, Abinadab, and Esh-baal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ner begat Kish, and Kish begat Saul, and Saul begat Jonathan, and Malchishua, and Abinadab, and Eshbaal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Son of Jonathan was Merib-baal; Merib-baal fathered Micah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the son of Jonathan was Meribbaal; and Meribbaal begat Micah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Sons of Micah: Pithon, Melech, Tarea, and Ahaz.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Ahaz fathered Jehoaddah; Jehoaddah fathered Alemeth, Azmaveth, and Zimri; Zimri fathered Moza;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahaz begat Jehoadah; and Jehoadah begat Alemeth, and Azmaveth, and Zimri; and Zimri begat Moza,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "Moza fathered Binea; Raphah was his son, Eleasah his son, Azel his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moza begat Binea: Rapha was his son, Eleasah his son, Azel his son:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "Azel had six sons: Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan. All these were sons of Azel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 39,
+      "restored": "Sons of Eshek his brother: Ulam firstborn, Jeush second, Eliphelet third.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Eshek his brother were, Ulam his firstborn, Jehush the second, and Eliphelet the third."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 40,
+      "restored": "Sons of Ulam were mighty warriors and archers, with many sons and grandsons—one hundred fifty. All these were descendants of Benjamin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons’ sons, an hundred and fifty. All these are of the sons of Benjamin."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Samuel 9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Samuel 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This Benjamin genealogy differs from chapter 7 and other biblical lists; it is a constructed archive, not a seamless modern family tree.",
+    "Verses 6-7 describe relocation whose agency and coercion are unclear; displaced families should not be treated as administrative objects.",
+    "Shaharaim sends away wives Hushim and Baara. The text gives no consent, economic, custody, or survival details for the women.",
+    "Living in Moab and interregional marriage undermine ethnic-purity readings.",
+    "Ono and Lod are built by named descendants, preserving civic labor within genealogy.",
+    "Driving out inhabitants of Gath is displacement and must not be celebrated merely as ancestral expansion.",
+    "Esh-baal and Merib-baal preserve names containing Baal; later forms Ish-bosheth and Mephibosheth may reflect scribal substitution. Baal-name elements do not prove moral corruption.",
+    "Merib-baal/Mephibosheth's disability story in Samuel must not be erased or stigmatized by name changes.",
+    "Military ability, archery, and number of sons are not measures of masculine or family worth."
+  ],
+  "safety_note": "Do not use Benjamin's genealogy to justify ethnic purity, forced relocation, abandonment of wives, expulsion of residents, disability stigma, or militarized masculinity. Preserve textual differences and the humanity of people moved, sent away, or driven out.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "partial-19-of-40",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-4-of-40",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

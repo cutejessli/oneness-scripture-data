@@ -1,1 +1,767 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":24,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Jehoiakim vassalage, Babylonian regional attacks, Jehoiachin siege and deportation, temple plunder, skilled-worker exile, and Zedekiah installation narrative, draft aligned later","review_note":"First-pass draft reviewed for Babylonian vassalage and rebellion, raiding bands, theological attribution to Manasseh, innocent blood, imperial transfer from Egypt to Babylon, adolescent king and queen mother, siege and surrender, temple dismantling, elite and skilled-worker deportation, poorest residents left, forced renaming, puppet kingship, and renewed rebellion."},"verses":[{"verse":1,"restored":"In his days Nebuchadnezzar king of Babylon went up, and Jehoiakim became his servant three years; then he turned and rebelled against him."},{"verse":2,"restored":"YHWH sent against him bands of Chaldeans, bands of Arameans, bands of Moab, and bands of children of Ammon; he sent them against Judah to destroy it, according to word of YHWH spoken through his servants the prophets."},{"verse":3,"restored":"Surely by mouth of YHWH this came upon Judah, to remove it from before his face, because of sins of Manasseh according to all he did,"},{"verse":4,"restored":"and also innocent blood he shed, for he filled Jerusalem with innocent blood, and YHWH was unwilling to forgive."},{"verse":5,"restored":"Remaining acts of Jehoiakim and all he did, are they not written in scroll of matters of days of kings of Judah?"},{"verse":6,"restored":"Jehoiakim lay with his fathers, and Jehoiachin his son became king in his place."},{"verse":7,"restored":"King of Egypt did not again go out from his land, for king of Babylon had taken from wadi of Egypt to river Euphrates all that belonged to king of Egypt."},{"verse":8,"restored":"Eighteen years old was Jehoiachin when he became king, and three months he reigned in Jerusalem. Name of his mother was Nehushta daughter of Elnathan from Jerusalem."},{"verse":9,"restored":"He did evil in eyes of YHWH, according to all his father had done."},{"verse":10,"restored":"At that time servants of Nebuchadnezzar king of Babylon went up against Jerusalem, and city entered siege."},{"verse":11,"restored":"Nebuchadnezzar king of Babylon came against city while his servants were besieging it."},{"verse":12,"restored":"Jehoiachin king of Judah went out to king of Babylon, he, his mother, his servants, his commanders, and his officers. King of Babylon took him in eighth year of his reign."},{"verse":13,"restored":"He brought out from there all treasures of house of YHWH and treasures of king's house, and cut apart all vessels of gold Solomon king of Israel had made in temple of YHWH, as YHWH had spoken."},{"verse":14,"restored":"He exiled all Jerusalem, all commanders, and all mighty warriors—ten thousand exiles—and every craftworker and smith; none remained except poorest of people of land."},{"verse":15,"restored":"He exiled Jehoiachin to Babylon, and king's mother, king's wives, his officers, and mighty ones of land he led into exile from Jerusalem to Babylon."},{"verse":16,"restored":"All men of might, seven thousand, and craftworkers and smiths, one thousand, all strong and trained for war—king of Babylon brought them into exile to Babylon."},{"verse":17,"restored":"King of Babylon made Mattaniah, his father's brother, king in his place and changed his name to Zedekiah."},{"verse":18,"restored":"Twenty-one years old was Zedekiah when he became king, and eleven years he reigned in Jerusalem. Name of his mother was Hamutal daughter of Jeremiah from Libnah."},{"verse":19,"restored":"He did evil in eyes of YHWH, according to all Jehoiakim had done."},{"verse":20,"restored":"For through anger of YHWH this happened in Jerusalem and Judah until he cast them from before his face. Then Zedekiah rebelled against king of Babylon."}],"translation_notes":["Babylonian vassalage, tribute, and rebellion are imperial politics. Jehoiakim's choices matter, but populations living beneath him bear raids, siege, taxation, and retaliation.","The raiding bands include Chaldeans, Arameans, Moabites, and Ammonites. These ancient labels may not become inherited guilt or hostility toward modern peoples.","The narrator attributes Judah's removal to Manasseh and innocent blood shed in an earlier reign. This collective and intergenerational punishment theology is morally dangerous and cannot justify harming descendants.","The refusal to 'forgive' innocent blood should center the murdered victims and institutional impunity, not make later civilians payment for crimes they did not commit.","Jehoiachin is eighteen and reigns three months. His mother Nehushta, wives, officers, and household surrender with him and are deported; they are people under coercion, not royal baggage.","Temple treasure and historic gold vessels are dismantled and removed. Imperial conquest includes cultural and religious extraction.","Ten thousand people are deported, with commanders, soldiers, craftworkers, and smiths specifically targeted. Skilled-worker removal weakens the occupied society while transferring knowledge to empire.","Those described as poorest remain in land. They are not disposable leftovers; they inherit devastated infrastructure, coerced agriculture, and political vulnerability.","Mattaniah is installed and renamed Zedekiah by Babylon. Forced renaming marks imperial control over identity and puppet sovereignty.","Numbers and chronology differ across Kings, Chronicles, Jeremiah, and Babylonian evidence and require source-witness audit."],"safety_note":"Do not blame later civilians for Manasseh, stigmatize ancient or modern ethnic groups, romanticize surrender or rebellion, treat deportees as elite abstractions, or dismiss those left behind as merely poor. Center innocent-blood accountability without collective punishment, the queen mother and families, cultural plunder, skilled-worker extraction, forced renaming, and empire's control over both exiles and survivors."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 24,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Jehoiakim vassalage, Babylonian regional attacks, Jehoiachin siege and deportation, temple plunder, skilled-worker exile, and Zedekiah installation narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Babylonian vassalage and rebellion, raiding bands, theological attribution to Manasseh, innocent blood, imperial transfer from Egypt to Babylon, adolescent king and queen mother, siege and surrender, temple dismantling, elite and skilled-worker deportation, poorest residents left, forced renaming, puppet kingship, and renewed rebellion."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In his days Nebuchadnezzar king of Babylon went up, and Jehoiakim became his servant three years; then he turned and rebelled against him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In his days Nebuchadnezzar king of Babylon came up, and Jehoiakim became his servant three years: then he turned and rebelled against him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH sent against him bands of Chaldeans, bands of Arameans, bands of Moab, and bands of children of Ammon; he sent them against Judah to destroy it, according to word of YHWH spoken through his servants the prophets.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD sent against him bands of the Chaldees, and bands of the Syrians, and bands of the Moabites, and bands of the children of Ammon, and sent them against Judah to destroy it, according to the word of the LORD, which he spake by his servants the prophets."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "labor-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Surely by mouth of YHWH this came upon Judah, to remove it from before his face, because of sins of Manasseh according to all he did,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely at the commandment of the LORD came this upon Judah, to remove them out of his sight, for the sins of Manasseh, according to all that he did;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "and also innocent blood he shed, for he filled Jerusalem with innocent blood, and YHWH was unwilling to forgive.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And also for the innocent blood that he shed: for he filled Jerusalem with innocent blood; which the LORD would not pardon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Remaining acts of Jehoiakim and all he did, are they not written in scroll of matters of days of kings of Judah?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Jehoiakim, and all that he did, are they not written in the book of the chronicles of the kings of Judah?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Jehoiakim lay with his fathers, and Jehoiachin his son became king in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Jehoiakim slept with his fathers: and Jehoiachin his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "King of Egypt did not again go out from his land, for king of Babylon had taken from wadi of Egypt to river Euphrates all that belonged to king of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Egypt came not again any more out of his land: for the king of Babylon had taken from the river of Egypt unto the river Euphrates all that pertained to the king of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Eighteen years old was Jehoiachin when he became king, and three months he reigned in Jerusalem. Name of his mother was Nehushta daughter of Elnathan from Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jehoiachin was eighteen years old when he began to reign, and he reigned in Jerusalem three months. And his mother’s name was Nehushta, the daughter of Elnathan of Jerusalem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "He did evil in eyes of YHWH, according to all his father had done.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was evil in the sight of the LORD, according to all that his father had done."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "At that time servants of Nebuchadnezzar king of Babylon went up against Jerusalem, and city entered siege.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At that time the servants of Nebuchadnezzar king of Babylon came up against Jerusalem, and the city was besieged."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Nebuchadnezzar king of Babylon came against city while his servants were besieging it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Nebuchadnezzar king of Babylon came against the city, and his servants did besiege it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Jehoiachin king of Judah went out to king of Babylon, he, his mother, his servants, his commanders, and his officers. King of Babylon took him in eighth year of his reign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoiachin the king of Judah went out to the king of Babylon, he, and his mother, and his servants, and his princes, and his officers: and the king of Babylon took him in the eighth year of his reign."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "He brought out from there all treasures of house of YHWH and treasures of king's house, and cut apart all vessels of gold Solomon king of Israel had made in temple of YHWH, as YHWH had spoken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he carried out thence all the treasures of the house of the LORD, and the treasures of the king’s house, and cut in pieces all the vessels of gold which Solomon king of Israel had made in the temple of the LORD, as the LORD had said."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He exiled all Jerusalem, all commanders, and all mighty warriors—ten thousand exiles—and every craftworker and smith; none remained except poorest of people of land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he carried away all Jerusalem, and all the princes, and all the mighty men of valour, even ten thousand captives, and all the craftsmen and smiths: none remained, save the poorest sort of the people of the land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He exiled Jehoiachin to Babylon, and king's mother, king's wives, his officers, and mighty ones of land he led into exile from Jerusalem to Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he carried away Jehoiachin to Babylon, and the king’s mother, and the king’s wives, and his officers, and the mighty of the land, those carried he into captivity from Jerusalem to Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "All men of might, seven thousand, and craftworkers and smiths, one thousand, all strong and trained for war—king of Babylon brought them into exile to Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the men of might, even seven thousand, and craftsmen and smiths a thousand, all that were strong and apt for war, even them the king of Babylon brought captive to Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "King of Babylon made Mattaniah, his father's brother, king in his place and changed his name to Zedekiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Babylon made Mattaniah his father’s brother king in his stead, and changed his name to Zedekiah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Twenty-one years old was Zedekiah when he became king, and eleven years he reigned in Jerusalem. Name of his mother was Hamutal daughter of Jeremiah from Libnah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Zedekiah was twenty and one years old when he began to reign, and he reigned eleven years in Jerusalem. And his mother’s name was Hamutal, the daughter of Jeremiah of Libnah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He did evil in eyes of YHWH, according to all Jehoiakim had done.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did that which was evil in the sight of the LORD, according to all that Jehoiakim had done."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For through anger of YHWH this happened in Jerusalem and Judah until he cast them from before his face. Then Zedekiah rebelled against king of Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For through the anger of the LORD it came to pass in Jerusalem and Judah, until he had cast them out from his presence, that Zedekiah rebelled against the king of Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 36",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Jeremiah 37-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Babylonian vassalage, tribute, and rebellion are imperial politics. Jehoiakim's choices matter, but populations living beneath him bear raids, siege, taxation, and retaliation.",
+    "The raiding bands include Chaldeans, Arameans, Moabites, and Ammonites. These ancient labels may not become inherited guilt or hostility toward modern peoples.",
+    "The narrator attributes Judah's removal to Manasseh and innocent blood shed in an earlier reign. This collective and intergenerational punishment theology is morally dangerous and cannot justify harming descendants.",
+    "The refusal to 'forgive' innocent blood should center the murdered victims and institutional impunity, not make later civilians payment for crimes they did not commit.",
+    "Jehoiachin is eighteen and reigns three months. His mother Nehushta, wives, officers, and household surrender with him and are deported; they are people under coercion, not royal baggage.",
+    "Temple treasure and historic gold vessels are dismantled and removed. Imperial conquest includes cultural and religious extraction.",
+    "Ten thousand people are deported, with commanders, soldiers, craftworkers, and smiths specifically targeted. Skilled-worker removal weakens the occupied society while transferring knowledge to empire.",
+    "Those described as poorest remain in land. They are not disposable leftovers; they inherit devastated infrastructure, coerced agriculture, and political vulnerability.",
+    "Mattaniah is installed and renamed Zedekiah by Babylon. Forced renaming marks imperial control over identity and puppet sovereignty.",
+    "Numbers and chronology differ across Kings, Chronicles, Jeremiah, and Babylonian evidence and require source-witness audit."
+  ],
+  "safety_note": "Do not blame later civilians for Manasseh, stigmatize ancient or modern ethnic groups, romanticize surrender or rebellion, treat deportees as elite abstractions, or dismiss those left behind as merely poor. Center innocent-blood accountability without collective punishment, the queen mother and families, cultural plunder, skilled-worker extraction, forced renaming, and empire's control over both exiles and survivors.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-19-of-20",
+    "tags": "partial-16-of-20",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-16-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

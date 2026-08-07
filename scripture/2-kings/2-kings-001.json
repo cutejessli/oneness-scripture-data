@@ -1,1 +1,425 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Elijah, Ahaziah, Baal-zebub, fire, and succession narrative, draft aligned later","review_note":"First-pass draft reviewed for Moab revolt notice, Ahaziah's injury, Baal-zebub inquiry, Elijah's confrontation, repeated royal arrests, fire from heaven, third captain's plea, Ahaziah's death, and Jehoram succession."},"verses":[{"verse":1,"restored":"Moab rebelled against Israel after death of Ahab."},{"verse":2,"restored":"Ahaziah fell through lattice in his upper chamber in Samaria and became ill. He sent messengers, saying, Go inquire of Baal-zebub god of Ekron whether I shall live from this sickness."},{"verse":3,"restored":"Messenger of YHWH spoke to Elijah the Tishbite: Rise, go up to meet messengers of king of Samaria and say, Is it because there is no Divine in Israel that you go to inquire of Baal-zebub god of Ekron?"},{"verse":4,"restored":"Therefore thus says YHWH: From the bed to which you went up, you shall not come down, for dying, you shall die. Elijah went."},{"verse":5,"restored":"The messengers returned to him, and he said, Why have you returned?"},{"verse":6,"restored":"They said, A man came up to meet us and said, Go, return to the king who sent you and tell him: Thus says YHWH, Is it because there is no Divine in Israel that you send to inquire of Baal-zebub god of Ekron? Therefore from the bed to which you went up, you shall not come down, for dying, you shall die."},{"verse":7,"restored":"He said to them, What was the appearance of the man who came up to meet you and spoke these words?"},{"verse":8,"restored":"They said, A hairy man, with a leather belt girded around his waist. He said, It is Elijah the Tishbite."},{"verse":9,"restored":"He sent to him a captain of fifty with his fifty. He went up to him, and look, he was sitting on top of hill. He said, Man of Divine, the king says, Come down."},{"verse":10,"restored":"Elijah answered the captain of fifty, If I am man of Divine, let fire come down from heavens and consume you and your fifty. Fire came down from heavens and consumed him and his fifty."},{"verse":11,"restored":"Again the king sent another captain of fifty with his fifty. He answered and said, Man of Divine, thus says the king: Quickly, come down."},{"verse":12,"restored":"Elijah answered, If I am man of Divine, let fire come down from heavens and consume you and your fifty. Fire of Divine came down from heavens and consumed him and his fifty."},{"verse":13,"restored":"Again the king sent a third captain of fifty with his fifty. The third captain went up, came and bent on his knees before Elijah, and pleaded, Man of Divine, please let my life and life of these fifty your servants be precious in your eyes."},{"verse":14,"restored":"Look, fire came down from heavens and consumed the first two captains and their fifties; now let my life be precious in your eyes."},{"verse":15,"restored":"Messenger of YHWH said to Elijah, Go down with him; do not fear him. He rose and went down with him to the king."},{"verse":16,"restored":"He spoke to him, Thus says YHWH: Because you sent messengers to inquire of Baal-zebub god of Ekron, is it because there is no Divine in Israel to inquire of his word? Therefore from the bed to which you went up, you shall not come down, for dying, you shall die."},{"verse":17,"restored":"He died according to word of YHWH that Elijah spoke. Jehoram became king in his place in second year of Jehoram son of Jehoshaphat king of Judah, because he had no son."},{"verse":18,"restored":"The rest of acts of Ahaziah that he did, are they not written in scroll of chronicles of kings of Israel?"}],"translation_notes":["Ahaziah's fall and illness are not moral proof against disabled, injured, or chronically ill people; the prophetic dispute concerns royal allegiance and inquiry, not the worth of a sick body.","Baal-zebub/Ekron language belongs to ancient Israelite polemic and may not authorize mockery or persecution of other religions.","The fire-from-heaven scenes kill soldiers acting under royal command. They must not become a model for religious violence, police killing, or charismatic displays of power.","The third captain survives by pleading for the preciousness of his life and the lives of his men; this is the chapter's clearest de-escalation thread.","Elijah obeys the messenger's instruction not to fear the captain; prophetic authority still remains answerable to Divine command rather than private escalation."],"safety_note":"Do not use 2 Kings 1 to justify calling down harm, spiritual intimidation, religious persecution, mockery of illness, or killing state agents sent by corrupt rulers. Center the third captain's plea that lives be precious and the refusal to make prophetic power a spectacle of death."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Elijah, Ahaziah, Baal-zebub, fire, and succession narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Moab revolt notice, Ahaziah's injury, Baal-zebub inquiry, Elijah's confrontation, repeated royal arrests, fire from heaven, third captain's plea, Ahaziah's death, and Jehoram succession."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Moab rebelled against Israel after death of Ahab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Moab rebelled against Israel after the death of Ahab."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Ahaziah fell through lattice in his upper chamber in Samaria and became ill. He sent messengers, saying, Go inquire of Baal-zebub god of Ekron whether I shall live from this sickness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahaziah fell down through a lattice in his upper chamber that was in Samaria, and was sick: and he sent messengers, and said unto them, Go, enquire of Baalzebub the god of Ekron whether I shall recover of this disease."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Messenger of YHWH spoke to Elijah the Tishbite: Rise, go up to meet messengers of king of Samaria and say, Is it because there is no Divine in Israel that you go to inquire of Baal-zebub god of Ekron?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the angel of the LORD said to Elijah the Tishbite, Arise, go up to meet the messengers of the king of Samaria, and say unto them, Is it not because there is not a God in Israel, that ye go to enquire of Baalzebub the god of Ekron?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Therefore thus says YHWH: From the bed to which you went up, you shall not come down, for dying, you shall die. Elijah went.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore thus saith the LORD, Thou shalt not come down from that bed on which thou art gone up, but shalt surely die. And Elijah departed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The messengers returned to him, and he said, Why have you returned?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the messengers turned back unto him, he said unto them, Why are ye now turned back?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "They said, A man came up to meet us and said, Go, return to the king who sent you and tell him: Thus says YHWH, Is it because there is no Divine in Israel that you send to inquire of Baal-zebub god of Ekron? Therefore from the bed to which you went up, you shall not come down, for dying, you shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the LORD, Is it not because there is not a God in Israel, that thou sendest to enquire of Baalzebub the god of Ekron? therefore thou shalt not come down from that bed on which thou art gone up, but shalt surely die."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He said to them, What was the appearance of the man who came up to meet you and spoke these words?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, What manner of man was he which came up to meet you, and told you these words?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They said, A hairy man, with a leather belt girded around his waist. He said, It is Elijah the Tishbite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He sent to him a captain of fifty with his fifty. He went up to him, and look, he was sitting on top of hill. He said, Man of Divine, the king says, Come down.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king sent unto him a captain of fifty with his fifty. And he went up to him: and, behold, he sat on the top of an hill. And he spake unto him, Thou man of God, the king hath said, Come down."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Elijah answered the captain of fifty, If I am man of Divine, let fire come down from heavens and consume you and your fifty. Fire came down from heavens and consumed him and his fifty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elijah answered and said to the captain of fifty, If I be a man of God, then let fire come down from heaven, and consume thee and thy fifty. And there came down fire from heaven, and consumed him and his fifty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Again the king sent another captain of fifty with his fifty. He answered and said, Man of Divine, thus says the king: Quickly, come down.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Again also he sent unto him another captain of fifty with his fifty. And he answered and said unto him, O man of God, thus hath the king said, Come down quickly."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Elijah answered, If I am man of Divine, let fire come down from heavens and consume you and your fifty. Fire of Divine came down from heavens and consumed him and his fifty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elijah answered and said unto them, If I be a man of God, let fire come down from heaven, and consume thee and thy fifty. And the fire of God came down from heaven, and consumed him and his fifty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Again the king sent a third captain of fifty with his fifty. The third captain went up, came and bent on his knees before Elijah, and pleaded, Man of Divine, please let my life and life of these fifty your servants be precious in your eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sent again a captain of the third fifty with his fifty. And the third captain of fifty went up, and came and fell on his knees before Elijah, and besought him, and said unto him, O man of God, I pray thee, let my life, and the life of these fifty thy servants, be precious in thy sight."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Look, fire came down from heavens and consumed the first two captains and their fifties; now let my life be precious in your eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Messenger of YHWH said to Elijah, Go down with him; do not fear him. He rose and went down with him to the king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel of the LORD said unto Elijah, Go down with him: be not afraid of him. And he arose, and went down with him unto the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "He spoke to him, Thus says YHWH: Because you sent messengers to inquire of Baal-zebub god of Ekron, is it because there is no Divine in Israel to inquire of his word? Therefore from the bed to which you went up, you shall not come down, for dying, you shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto him, Thus saith the LORD, Forasmuch as thou hast sent messengers to enquire of Baalzebub the god of Ekron, is it not because there is no God in Israel to enquire of his word? therefore thou shalt not come down off that bed on which thou art gone up, but shalt surely die."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He died according to word of YHWH that Elijah spoke. Jehoram became king in his place in second year of Jehoram son of Jehoshaphat king of Judah, because he had no son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So he died according to the word of the LORD which Elijah had spoken. And Jehoram reigned in his stead in the second year of Jehoram the son of Jehoshaphat king of Judah; because he had no son."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The rest of acts of Ahaziah that he did, are they not written in scroll of chronicles of kings of Israel?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the rest of the acts of Ahaziah which he did, are they not written in the book of the chronicles of the kings of Israel?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Ahaziah's fall and illness are not moral proof against disabled, injured, or chronically ill people; the prophetic dispute concerns royal allegiance and inquiry, not the worth of a sick body.",
+    "Baal-zebub/Ekron language belongs to ancient Israelite polemic and may not authorize mockery or persecution of other religions.",
+    "The fire-from-heaven scenes kill soldiers acting under royal command. They must not become a model for religious violence, police killing, or charismatic displays of power.",
+    "The third captain survives by pleading for the preciousness of his life and the lives of his men; this is the chapter's clearest de-escalation thread.",
+    "Elijah obeys the messenger's instruction not to fear the captain; prophetic authority still remains answerable to Divine command rather than private escalation."
+  ],
+  "safety_note": "Do not use 2 Kings 1 to justify calling down harm, spiritual intimidation, religious persecution, mockery of illness, or killing state agents sent by corrupt rulers. Center the third captain's plea that lives be precious and the refusal to make prophetic power a spectacle of death.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-18",
+    "tags": "partial-9-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,561 @@
-{"book":"2 Samuel","book_id":"2-samuel","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Samuel / Shemuel Bet chapter 8, draft aligned later","review_note":"First-pass draft reviewed for Philistine subjugation, Moabite line-measure killing, Hadadezer/Zobah war, horse hamstringing, Damascus casualties and garrisons, tribute and sacred treasuries, Toi's diplomacy, Aram/Edom textual variant, imperial administration, justice claims, foreign guards, and David's sons as priests/chief officials."},"verses":[{"verse":1,"restored":"After this David struck Philistines and subdued them. David took Metheg-ammah from hand of Philistines."},{"verse":2,"restored":"He struck Moab and measured them with a line, making them lie down on ground. He measured two lines to put to death and one full line to keep alive. Moab became servants to David, bringing tribute."},{"verse":3,"restored":"David struck Hadadezer son of Rehob, king of Zobah, as he went to restore his hand at River Euphrates."},{"verse":4,"restored":"David captured from him one thousand seven hundred horsemen and twenty thousand foot soldiers. David hamstrung all chariot horses but left enough from them for one hundred chariots."},{"verse":5,"restored":"Arameans of Damascus came to help Hadadezer king of Zobah, and David struck twenty-two thousand men among Arameans."},{"verse":6,"restored":"David placed garrisons in Aram of Damascus, and Arameans became servants to David, bringing tribute. YHWH delivered/saved David wherever he went."},{"verse":7,"restored":"David took gold shields that belonged to servants of Hadadezer and brought them to Jerusalem."},{"verse":8,"restored":"From Betah and Berothai, cities of Hadadezer, king David took very much bronze."},{"verse":9,"restored":"Toi king of Hamath heard that David had struck all army of Hadadezer."},{"verse":10,"restored":"Toi sent Joram his son to king David to ask concerning his peace and to bless him because he had fought against Hadadezer and struck him, for Hadadezer had been a man of wars against Toi. In his hand were vessels of silver, vessels of gold, and vessels of bronze."},{"verse":11,"restored":"King David dedicated them also to YHWH, with silver and gold that he had dedicated from all nations that he subdued:"},{"verse":12,"restored":"from Aram, Moab, children of Ammon, Philistines, Amalek, and from spoil of Hadadezer son of Rehob, king of Zobah."},{"verse":13,"restored":"David made a name when he returned from striking eighteen thousand Arameans/Edomites in valley of Salt."},{"verse":14,"restored":"He placed garrisons in Edom; throughout all Edom he placed garrisons, and all Edom became servants to David. YHWH delivered/saved David wherever he went."},{"verse":15,"restored":"David reigned over all Israel, and David was doing justice and righteousness for all his people."},{"verse":16,"restored":"Joab son of Zeruiah was over army; Jehoshaphat son of Ahilud was recorder."},{"verse":17,"restored":"Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe."},{"verse":18,"restored":"Benaiah son of Jehoiada was over Cherethites and Pelethites, and sons of David were priests/chief officials."}],"translation_notes":["The chapter is an imperial summary organized around striking, subduing, tribute, garrisons, plunder, and administration. It should not be softened into neutral national growth.","David's treatment of Moab—making captives lie down, measuring lines, and killing roughly two portions while sparing one—is mass execution. It is an atrocity, not a clever battlefield image or model of measured justice.","Hamstringing captured horses inflicts deliberate animal injury to disable military use. Ancient strategy does not remove animal suffering or create a modern practice to imitate.","Large casualty numbers and repeated statements that YHWH saved David belong to royal war theology and possible propaganda. They may not authorize modern holy war, militarism, or claims that victory proves righteousness.","Garrisons, servitude, tribute, and removal of metals to Jerusalem are structures of occupation and extraction.","Toi's diplomatic gifts are given in context of a shared enemy and shifting regional power. Diplomacy under empire may mix relief, strategy, fear, and tribute.","Verse 13 has a major textual issue between Arameans and Edomites, and the number/tradition differs across Samuel, Psalms, and Chronicles. The uncertainty must remain explicit.","The claim that David did justice and righteousness for all his people stands beside mass killing and foreign subjugation. Internal justice claims must be tested against treatment of outsiders and occupied peoples.","Cherethites and Pelethites appear as elite royal forces with possible foreign associations. Foreign identity does not imply disloyalty.","The description of David's sons as kohanim may mean priests or chief officials and raises questions about royal control of sacred and administrative office."],"safety_note":"Maximum anti-imperial safeguards: Do not glorify the Moabite executions, horse mutilation, mass casualties, occupation, tribute, or plunder. Do not use 'YHWH gave victory' as a modern war mandate. Evaluate royal justice by the lives of conquered peoples, animals, laborers, and communities under garrison—not only citizens at the imperial center."}
+{
+  "book": "2 Samuel",
+  "book_id": "2-samuel",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Samuel / Shemuel Bet chapter 8, draft aligned later",
+    "review_note": "First-pass draft reviewed for Philistine subjugation, Moabite line-measure killing, Hadadezer/Zobah war, horse hamstringing, Damascus casualties and garrisons, tribute and sacred treasuries, Toi's diplomacy, Aram/Edom textual variant, imperial administration, justice claims, foreign guards, and David's sons as priests/chief officials."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After this David struck Philistines and subdued them. David took Metheg-ammah from hand of Philistines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after this it came to pass that David smote the Philistines, and subdued them: and David took Methegammah out of the hand of the Philistines."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He struck Moab and measured them with a line, making them lie down on ground. He measured two lines to put to death and one full line to keep alive. Moab became servants to David, bringing tribute.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David’s servants, and brought gifts."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "labor-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "David struck Hadadezer son of Rehob, king of Zobah, as he went to restore his hand at River Euphrates.",
+      "familiar": {
+        "source": "KJV",
+        "text": "David smote also Hadadezer, the son of Rehob, king of Zobah, as he went to recover his border at the river Euphrates."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "David captured from him one thousand seven hundred horsemen and twenty thousand foot soldiers. David hamstrung all chariot horses but left enough from them for one hundred chariots.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David took from him a thousand chariots, and seven hundred horsemen, and twenty thousand footmen: and David houghed all the chariot horses, but reserved of them for an hundred chariots."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Arameans of Damascus came to help Hadadezer king of Zobah, and David struck twenty-two thousand men among Arameans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the Syrians of Damascus came to succour Hadadezer king of Zobah, David slew of the Syrians two and twenty thousand men."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "David placed garrisons in Aram of Damascus, and Arameans became servants to David, bringing tribute. YHWH delivered/saved David wherever he went.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the LORD preserved David whithersoever he went."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "David took gold shields that belonged to servants of Hadadezer and brought them to Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "From Betah and Berothai, cities of Hadadezer, king David took very much bronze.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And from Betah, and from Berothai, cities of Hadadezer, king David took exceeding much brass."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Toi king of Hamath heard that David had struck all army of Hadadezer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Toi king of Hamath heard that David had smitten all the host of Hadadezer,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Toi sent Joram his son to king David to ask concerning his peace and to bless him because he had fought against Hadadezer and struck him, for Hadadezer had been a man of wars against Toi. In his hand were vessels of silver, vessels of gold, and vessels of bronze.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Toi sent Joram his son unto king David, to salute him, and to bless him, because he had fought against Hadadezer, and smitten him: for Hadadezer had wars with Toi. And Joram brought with him vessels of silver, and vessels of gold, and vessels of brass:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "King David dedicated them also to YHWH, with silver and gold that he had dedicated from all nations that he subdued:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which also king David did dedicate unto the LORD, with the silver and gold that he had dedicated of all nations which he subdued;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "from Aram, Moab, children of Ammon, Philistines, Amalek, and from spoil of Hadadezer son of Rehob, king of Zobah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of Syria, and of Moab, and of the children of Ammon, and of the Philistines, and of Amalek, and of the spoil of Hadadezer, son of Rehob, king of Zobah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "amalek-reception-risk",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "modern-targeting-prohibited",
+        "leader-accountability",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "David made a name when he returned from striking eighteen thousand Arameans/Edomites in valley of Salt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David gat him a name when he returned from smiting of the Syrians in the valley of salt, being eighteen thousand men."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He placed garrisons in Edom; throughout all Edom he placed garrisons, and all Edom became servants to David. YHWH delivered/saved David wherever he went.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David’s servants. And the LORD preserved David whithersoever he went."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "David reigned over all Israel, and David was doing justice and righteousness for all his people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David reigned over all Israel; and David executed judgment and justice unto all his people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Joab son of Zeruiah was over army; Jehoshaphat son of Ahilud was recorder.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joab the son of Zeruiah was over the host; and Jehoshaphat the son of Ahilud was recorder;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Zadok son of Ahitub and Ahimelech son of Abiathar were priests; Seraiah was scribe.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Benaiah son of Jehoiada was over Cherethites and Pelethites, and sons of David were priests/chief officials.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David’s sons were chief rulers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 18",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The chapter is an imperial summary organized around striking, subduing, tribute, garrisons, plunder, and administration. It should not be softened into neutral national growth.",
+    "David's treatment of Moab—making captives lie down, measuring lines, and killing roughly two portions while sparing one—is mass execution. It is an atrocity, not a clever battlefield image or model of measured justice.",
+    "Hamstringing captured horses inflicts deliberate animal injury to disable military use. Ancient strategy does not remove animal suffering or create a modern practice to imitate.",
+    "Large casualty numbers and repeated statements that YHWH saved David belong to royal war theology and possible propaganda. They may not authorize modern holy war, militarism, or claims that victory proves righteousness.",
+    "Garrisons, servitude, tribute, and removal of metals to Jerusalem are structures of occupation and extraction.",
+    "Toi's diplomatic gifts are given in context of a shared enemy and shifting regional power. Diplomacy under empire may mix relief, strategy, fear, and tribute.",
+    "Verse 13 has a major textual issue between Arameans and Edomites, and the number/tradition differs across Samuel, Psalms, and Chronicles. The uncertainty must remain explicit.",
+    "The claim that David did justice and righteousness for all his people stands beside mass killing and foreign subjugation. Internal justice claims must be tested against treatment of outsiders and occupied peoples.",
+    "Cherethites and Pelethites appear as elite royal forces with possible foreign associations. Foreign identity does not imply disloyalty.",
+    "The description of David's sons as kohanim may mean priests or chief officials and raises questions about royal control of sacred and administrative office."
+  ],
+  "safety_note": "Maximum anti-imperial safeguards: Do not glorify the Moabite executions, horse mutilation, mass casualties, occupation, tribute, or plunder. Do not use 'YHWH gave victory' as a modern war mandate. Evaluate royal justice by the lives of conquered peoples, animals, laborers, and communities under garrison—not only citizens at the imperial center.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-18",
+    "tags": "present-all-verses",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-13-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

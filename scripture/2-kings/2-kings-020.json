@@ -1,1 +1,713 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Hezekiah illness, changed oracle, fig treatment, shadow sign, Babylonian envoys, exile prediction, and succession narrative, draft aligned later","review_note":"First-pass draft reviewed for terminal prognosis, grief and prayer, revised prophetic message, healing timeline, fig poultice, astronomical sign language, diplomatic disclosure, treasury and weapons exposure, future plunder and deportation, eunuch/court language, Hezekiah's response, water infrastructure, and chronology."},"verses":[{"verse":1,"restored":"In those days Hezekiah became sick to death. Isaiah the prophet son of Amoz came to him and said to him, Thus says YHWH: Command your house, for dying you shall die and not live."},{"verse":2,"restored":"He turned his face to wall and prayed to YHWH, saying,"},{"verse":3,"restored":"Please, YHWH, remember how I walked before you in faithfulness and with whole heart and did what was good in your eyes. Hezekiah wept a great weeping."},{"verse":4,"restored":"Before Isaiah had gone out of middle court, word of YHWH came to him, saying,"},{"verse":5,"restored":"Turn back and say to Hezekiah, leader of my people: Thus says YHWH, Divine of David your father: I heard your prayer; I saw your tears. Look, I am healing you. On third day you shall go up to house of YHWH."},{"verse":6,"restored":"I will add fifteen years to your days, and from hand of king of Assyria I will deliver you and this city. I will shield this city for my sake and for sake of David my servant."},{"verse":7,"restored":"Isaiah said, Take a cake of figs. They took and placed it upon boil, and he lived/recovered."},{"verse":8,"restored":"Hezekiah said to Isaiah, What is sign that YHWH will heal me and I shall go up on third day to house of YHWH?"},{"verse":9,"restored":"Isaiah said, This is sign for you from YHWH that YHWH will do word he spoke: Shall shadow go forward ten steps, or return ten steps?"},{"verse":10,"restored":"Hezekiah said, It is easy for shadow to stretch ten steps; no, let shadow return backward ten steps."},{"verse":11,"restored":"Isaiah the prophet called to YHWH, and he brought shadow backward ten steps by which it had gone down on steps of Ahaz."},{"verse":12,"restored":"At that time Berodach-baladan son of Baladan king of Babylon sent letters and gift to Hezekiah, for he heard that Hezekiah had been sick."},{"verse":13,"restored":"Hezekiah listened to them and showed them all house of his treasure: silver, gold, spices, good oil, house of weapons, and all found in his treasuries. There was nothing in his house or all his dominion that Hezekiah did not show them."},{"verse":14,"restored":"Isaiah the prophet came to king Hezekiah and said to him, What did these men say, and from where did they come to you? Hezekiah said, From a distant land they came, from Babylon."},{"verse":15,"restored":"He said, What did they see in your house? Hezekiah said, All in my house they saw; there is nothing in my treasuries I did not show them."},{"verse":16,"restored":"Isaiah said to Hezekiah, Hear word of YHWH."},{"verse":17,"restored":"Look, days are coming when all in your house and what your fathers stored until this day shall be carried to Babylon; nothing shall be left, says YHWH."},{"verse":18,"restored":"From your sons who come from you, whom you father, they shall take, and they shall be eunuchs/court officials in palace of king of Babylon."},{"verse":19,"restored":"Hezekiah said to Isaiah, Good is word of YHWH you spoke. He said, Is it not so, if peace and truth are in my days?"},{"verse":20,"restored":"Remaining acts of Hezekiah, all his might, how he made pool and conduit and brought water into city, are they not written in scroll of matters of days of kings of Judah?"},{"verse":21,"restored":"Hezekiah lay with his fathers, and Manasseh his son became king in his place."}],"translation_notes":["A prophetic declaration of death is reversed before Isaiah leaves the court. This chapter itself rejects treating a prognosis or claimed revelation as beyond review, prayer, new information, or change.","Hezekiah's tears are not lack of faith. Serious illness, anticipatory grief, and fear of death deserve presence and care.","The story does not promise that sincere prayer will add fifteen years to every life. People who die, remain ill, or receive no reversal have not prayed incorrectly.","The fig cake/poultice is an ancient treatment detail and not a substitute for diagnosis, emergency care, antibiotics, surgery, oncology, or evidence-based medicine.","The shadow sign is narrated as wonder. It must not be used as a modern astronomical claim or a test believers must reproduce.","Hezekiah shows Babylonian envoys wealth, spices, oil, weapons, and defenses. Hospitality and diplomacy do not require exposing every vulnerable resource.","The prediction of Babylonian plunder and deportation shifts consequences onto future generations. It must not justify collective punishment or teach that descendants deserve disaster for an ancestor's pride.","The Hebrew sarisim can refer to eunuchs or court officials. Eunuch identity is not shame, emasculation rhetoric, or evidence of reduced human worth; forced bodily alteration under empire would be violence.","Hezekiah's relief that peace will last in his days reveals a dangerous short horizon. Leadership must include consequences beyond one's own lifetime.","The pool and conduit honor public infrastructure that preserves life during siege; engineering and communal planning are part of the king's legacy."],"safety_note":"Do not turn Hezekiah's healing into a guarantee, reject medical care, shame those who die, treat a prophet's first word as infallible, stigmatize eunuchs, or excuse future deportation as a descendant's punishment. Preserve grief, changing prognosis, practical treatment, infrastructure, and responsibility to generations beyond one's own peace."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Hezekiah illness, changed oracle, fig treatment, shadow sign, Babylonian envoys, exile prediction, and succession narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for terminal prognosis, grief and prayer, revised prophetic message, healing timeline, fig poultice, astronomical sign language, diplomatic disclosure, treasury and weapons exposure, future plunder and deportation, eunuch/court language, Hezekiah's response, water infrastructure, and chronology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In those days Hezekiah became sick to death. Isaiah the prophet son of Amoz came to him and said to him, Thus says YHWH: Command your house, for dying you shall die and not live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In those days was Hezekiah sick unto death. And the prophet Isaiah the son of Amoz came to him, and said unto him, Thus saith the LORD, Set thine house in order; for thou shalt die, and not live."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He turned his face to wall and prayed to YHWH, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he turned his face to the wall, and prayed unto the LORD, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Please, YHWH, remember how I walked before you in faithfulness and with whole heart and did what was good in your eyes. Hezekiah wept a great weeping.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I beseech thee, O LORD, remember now how I have walked before thee in truth and with a perfect heart, and have done that which is good in thy sight. And Hezekiah wept sore."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Before Isaiah had gone out of middle court, word of YHWH came to him, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, afore Isaiah was gone out into the middle court, that the word of the LORD came to him, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Turn back and say to Hezekiah, leader of my people: Thus says YHWH, Divine of David your father: I heard your prayer; I saw your tears. Look, I am healing you. On third day you shall go up to house of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Turn again, and tell Hezekiah the captain of my people, Thus saith the LORD, the God of David thy father, I have heard thy prayer, I have seen thy tears: behold, I will heal thee: on the third day thou shalt go up unto the house of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I will add fifteen years to your days, and from hand of king of Assyria I will deliver you and this city. I will shield this city for my sake and for sake of David my servant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will add unto thy days fifteen years; and I will deliver thee and this city out of the hand of the king of Assyria; and I will defend this city for mine own sake, and for my servant David’s sake."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Isaiah said, Take a cake of figs. They took and placed it upon boil, and he lived/recovered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Isaiah said, Take a lump of figs. And they took and laid it on the boil, and he recovered."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Hezekiah said to Isaiah, What is sign that YHWH will heal me and I shall go up on third day to house of YHWH?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah said unto Isaiah, What shall be the sign that the LORD will heal me, and that I shall go up into the house of the LORD the third day?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Isaiah said, This is sign for you from YHWH that YHWH will do word he spoke: Shall shadow go forward ten steps, or return ten steps?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Isaiah said, This sign shalt thou have of the LORD, that the LORD will do the thing that he hath spoken: shall the shadow go forward ten degrees, or go back ten degrees?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Hezekiah said, It is easy for shadow to stretch ten steps; no, let shadow return backward ten steps.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah answered, It is a light thing for the shadow to go down ten degrees: nay, but let the shadow return backward ten degrees."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Isaiah the prophet called to YHWH, and he brought shadow backward ten steps by which it had gone down on steps of Ahaz.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Isaiah the prophet cried unto the LORD: and he brought the shadow ten degrees backward, by which it had gone down in the dial of Ahaz."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "At that time Berodach-baladan son of Baladan king of Babylon sent letters and gift to Hezekiah, for he heard that Hezekiah had been sick.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At that time Berodachbaladan, the son of Baladan, king of Babylon, sent letters and a present unto Hezekiah: for he had heard that Hezekiah had been sick."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Hezekiah listened to them and showed them all house of his treasure: silver, gold, spices, good oil, house of weapons, and all found in his treasuries. There was nothing in his house or all his dominion that Hezekiah did not show them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah hearkened unto them, and shewed them all the house of his precious things, the silver, and the gold, and the spices, and the precious ointment, and all the house of his armour, and all that was found in his treasures: there was nothing in his house, nor in all his dominion, that Hezekiah shewed them not."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Isaiah the prophet came to king Hezekiah and said to him, What did these men say, and from where did they come to you? Hezekiah said, From a distant land they came, from Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, even from Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He said, What did they see in your house? Hezekiah said, All in my house they saw; there is nothing in my treasuries I did not show them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, What have they seen in thine house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Isaiah said to Hezekiah, Hear word of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Isaiah said unto Hezekiah, Hear the word of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Look, days are coming when all in your house and what your fathers stored until this day shall be carried to Babylon; nothing shall be left, says YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, the days come, that all that is in thine house, and that which thy fathers have laid up in store unto this day, shall be carried into Babylon: nothing shall be left, saith the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "From your sons who come from you, whom you father, they shall take, and they shall be eunuchs/court officials in palace of king of Babylon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Hezekiah said to Isaiah, Good is word of YHWH you spoke. He said, Is it not so, if peace and truth are in my days?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Hezekiah unto Isaiah, Good is the word of the LORD which thou hast spoken. And he said, Is it not good, if peace and truth be in my days?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Remaining acts of Hezekiah, all his might, how he made pool and conduit and brought water into city, are they not written in scroll of matters of days of kings of Judah?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the rest of the acts of Hezekiah, and all his might, and how he made a pool, and a conduit, and brought water into the city, are they not written in the book of the chronicles of the kings of Judah?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Hezekiah lay with his fathers, and Manasseh his son became king in his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hezekiah slept with his fathers: and Manasseh his son reigned in his stead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 32",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "Isaiah 38-39",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "A prophetic declaration of death is reversed before Isaiah leaves the court. This chapter itself rejects treating a prognosis or claimed revelation as beyond review, prayer, new information, or change.",
+    "Hezekiah's tears are not lack of faith. Serious illness, anticipatory grief, and fear of death deserve presence and care.",
+    "The story does not promise that sincere prayer will add fifteen years to every life. People who die, remain ill, or receive no reversal have not prayed incorrectly.",
+    "The fig cake/poultice is an ancient treatment detail and not a substitute for diagnosis, emergency care, antibiotics, surgery, oncology, or evidence-based medicine.",
+    "The shadow sign is narrated as wonder. It must not be used as a modern astronomical claim or a test believers must reproduce.",
+    "Hezekiah shows Babylonian envoys wealth, spices, oil, weapons, and defenses. Hospitality and diplomacy do not require exposing every vulnerable resource.",
+    "The prediction of Babylonian plunder and deportation shifts consequences onto future generations. It must not justify collective punishment or teach that descendants deserve disaster for an ancestor's pride.",
+    "The Hebrew sarisim can refer to eunuchs or court officials. Eunuch identity is not shame, emasculation rhetoric, or evidence of reduced human worth; forced bodily alteration under empire would be violence.",
+    "Hezekiah's relief that peace will last in his days reveals a dangerous short horizon. Leadership must include consequences beyond one's own lifetime.",
+    "The pool and conduit honor public infrastructure that preserves life during siege; engineering and communal planning are part of the king's legacy."
+  ],
+  "safety_note": "Do not turn Hezekiah's healing into a guarantee, reject medical care, shame those who die, treat a prophet's first word as infallible, stigmatize eunuchs, or excuse future deportation as a descendant's punishment. Preserve grief, changing prognosis, practical treatment, infrastructure, and responsibility to generations beyond one's own peace.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-17-of-21",
+    "tags": "partial-10-of-21",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-8-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,822 @@
-{"book":"2 Samuel","book_id":"2-samuel","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Samuel / Shemuel Bet chapter 5, draft aligned later","review_note":"First-pass draft reviewed for tribal coronation, shepherd/ruler language, reign chronology, capture of Jebusite Jerusalem, blind/lame taunt and textual difficulty, royal construction, Hiram's labor, expanding wives and concubines, dynastic children, Philistine campaigns, Divine-war language, abandoned sacred images, and territorial pursuit."},"verses":[{"verse":1,"restored":"All tribes of Israel came to David at Hebron and said, Look, we are your bone and your flesh."},{"verse":2,"restored":"Also yesterday and before, when Saul was king over us, you were the one bringing Israel out and bringing it in. YHWH said to you, You shall shepherd my people Israel, and you shall be leader over Israel."},{"verse":3,"restored":"All elders of Israel came to king at Hebron, and king David cut covenant with them at Hebron before YHWH. They anointed David as king over Israel."},{"verse":4,"restored":"David was thirty years old when he became king; forty years he reigned."},{"verse":5,"restored":"In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah."},{"verse":6,"restored":"King and his men went to Jerusalem against Jebusites, inhabitants of land. They said to David, You shall not come in here, because even blind and lame will turn you away, saying, David cannot come in here."},{"verse":7,"restored":"David captured stronghold of Zion; it is City of David."},{"verse":8,"restored":"David said on that day, Whoever strikes Jebusites, let him reach through water shaft—and the lame and blind, hated by David's soul. Therefore they say, Blind and lame shall not come into house."},{"verse":9,"restored":"David lived in stronghold and called it City of David. David built all around from Millo and inward."},{"verse":10,"restored":"David went on and became great, and YHWH, Divine of hosts, was with him."},{"verse":11,"restored":"Hiram king of Tyre sent messengers to David, cedar trees, woodworkers, and stoneworkers for walls, and they built a house for David."},{"verse":12,"restored":"David knew that YHWH had established him as king over Israel and had lifted up his kingdom for sake of YHWH's people Israel."},{"verse":13,"restored":"David took more concubines and wives from Jerusalem after he came from Hebron, and more sons and daughters were born to David."},{"verse":14,"restored":"These are names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,"},{"verse":15,"restored":"Ibhar, Elishua, Nepheg, Japhia,"},{"verse":16,"restored":"Elishama, Eliada, and Eliphelet."},{"verse":17,"restored":"Philistines heard that they had anointed David as king over Israel, and all Philistines went up to seek David. David heard and went down to stronghold."},{"verse":18,"restored":"Philistines came and spread themselves in valley of Rephaim."},{"verse":19,"restored":"David inquired of YHWH, saying, Shall I go up against Philistines? Will you give them into my hand? YHWH said to David, Go up, because giving I will give Philistines into your hand."},{"verse":20,"restored":"David came to Baal-perazim, and David struck them there. He said, YHWH has broken through my enemies before me like breach of waters. Therefore he called name of that place Baal-perazim."},{"verse":21,"restored":"They abandoned their sacred images there, and David and his men carried them away."},{"verse":22,"restored":"Philistines again went up and spread themselves in valley of Rephaim."},{"verse":23,"restored":"David inquired of YHWH, and YHWH said, You shall not go up directly. Circle around behind them and come against them opposite balsam trees."},{"verse":24,"restored":"When you hear sound of marching in tops of balsam trees, then act decisively, because then YHWH has gone out before you to strike camp of Philistines."},{"verse":25,"restored":"David did so as YHWH commanded him, and he struck Philistines from Geba as far as approach to Gezer."}],"translation_notes":["Israel's elders use kinship, military memory, covenant, and Divine speech to legitimate David. None of these removes the people's right to hold a ruler accountable.","The capture of Jerusalem is conquest of an inhabited Jebusite city, not discovery of empty sacred space. Jebusites must not disappear beneath later Davidic or Zion traditions.","Verses 6 and 8 contain a deeply ableist taunt, response, and proverb, with significant textual and interpretive difficulty. Blindness and mobility disability are not contemptible, impure, or evidence of exclusion from sacred community.","The phrase translated 'hated by David's soul' may preserve hostile propaganda or a damaged tradition. It cannot be used to authorize discrimination against disabled people.","Hiram's cedar, craftspeople, and construction represent international diplomacy and labor. Royal architecture is not proof of Divine approval and should be examined for extraction and worker conditions.","David's additional wives and concubines expand dynasty and alliances. Their names, voices, and consent are absent; they are not reproductive infrastructure for empire.","Philistines remain human communities, not timeless enemies. Their sacred images may not be used to justify religious contempt, vandalism, or modern ethnic hatred.","Statements that YHWH commands or grants victory belong to ancient royal war theology and must never authorize modern conquest, nationalism, or claims of guaranteed military favor.","The chapter's growth language should be read beside the people and bodies absorbed by expanding royal power."],"safety_note":"Maximum anti-ableist and anti-imperial safeguards: Do not repeat the blind/lame language as a spiritual insult or exclusion rule. Do not romanticize Jerusalem's capture, dynastic marriage expansion, sacred-image seizure, or territorial war. Anointing and victory never create leader immunity or modern land entitlement."}
+{
+  "book": "2 Samuel",
+  "book_id": "2-samuel",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Samuel / Shemuel Bet chapter 5, draft aligned later",
+    "review_note": "First-pass draft reviewed for tribal coronation, shepherd/ruler language, reign chronology, capture of Jebusite Jerusalem, blind/lame taunt and textual difficulty, royal construction, Hiram's labor, expanding wives and concubines, dynastic children, Philistine campaigns, Divine-war language, abandoned sacred images, and territorial pursuit."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "All tribes of Israel came to David at Hebron and said, Look, we are your bone and your flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Also yesterday and before, when Saul was king over us, you were the one bringing Israel out and bringing it in. YHWH said to you, You shall shepherd my people Israel, and you shall be leader over Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the LORD said to thee, Thou shalt feed my people Israel, and thou shalt be a captain over Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "All elders of Israel came to king at Hebron, and king David cut covenant with them at Hebron before YHWH. They anointed David as king over Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the LORD: and they anointed David king over Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "David was thirty years old when he became king; forty years he reigned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "David was thirty years old when he began to reign, and he reigned forty years."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "In Hebron he reigned over Judah seven years and six months, and in Jerusalem he reigned thirty-three years over all Israel and Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In Hebron he reigned over Judah seven years and six months: and in Jerusalem he reigned thirty and three years over all Israel and Judah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "King and his men went to Jerusalem against Jebusites, inhabitants of land. They said to David, You shall not come in here, because even blind and lame will turn you away, saying, David cannot come in here.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "David captured stronghold of Zion; it is City of David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless David took the strong hold of Zion: the same is the city of David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "David said on that day, Whoever strikes Jebusites, let him reach through water shaft—and the lame and blind, hated by David's soul. Therefore they say, Blind and lame shall not come into house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said on that day, Whosoever getteth up to the gutter, and smiteth the Jebusites, and the lame and the blind, that are hated of David’s soul, he shall be chief and captain. Wherefore they said, The blind and the lame shall not come into the house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "David lived in stronghold and called it City of David. David built all around from Millo and inward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So David dwelt in the fort, and called it the city of David. And David built round about from Millo and inward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "David went on and became great, and YHWH, Divine of hosts, was with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David went on, and grew great, and the LORD God of hosts was with him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Hiram king of Tyre sent messengers to David, cedar trees, woodworkers, and stoneworkers for walls, and they built a house for David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hiram king of Tyre sent messengers to David, and cedar trees, and carpenters, and masons: and they built David an house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "David knew that YHWH had established him as king over Israel and had lifted up his kingdom for sake of YHWH's people Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David perceived that the LORD had established him king over Israel, and that he had exalted his kingdom for his people Israel’s sake."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "David took more concubines and wives from Jerusalem after he came from Hebron, and more sons and daughters were born to David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David took him more concubines and wives out of Jerusalem, after he was come from Hebron: and there were yet sons and daughters born to David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "These are names of those born to him in Jerusalem: Shammua, Shobab, Nathan, Solomon,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these be the names of those that were born unto him in Jerusalem; Shammuah, and Shobab, and Nathan, and Solomon,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Ibhar, Elishua, Nepheg, Japhia,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ibhar also, and Elishua, and Nepheg, and Japhia,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Elishama, Eliada, and Eliphelet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elishama, and Eliada, and Eliphalet."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Philistines heard that they had anointed David as king over Israel, and all Philistines went up to seek David. David heard and went down to stronghold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Philistines came and spread themselves in valley of Rephaim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Philistines also came and spread themselves in the valley of Rephaim."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "David inquired of YHWH, saying, Shall I go up against Philistines? Will you give them into my hand? YHWH said to David, Go up, because giving I will give Philistines into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David enquired of the LORD, saying, Shall I go up to the Philistines? wilt thou deliver them into mine hand? And the LORD said unto David, Go up: for I will doubtless deliver the Philistines into thine hand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "David came to Baal-perazim, and David struck them there. He said, YHWH has broken through my enemies before me like breach of waters. Therefore he called name of that place Baal-perazim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David came to Baalperazim, and David smote them there, and said, The LORD hath broken forth upon mine enemies before me, as the breach of waters. Therefore he called the name of that place Baalperazim."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "They abandoned their sacred images there, and David and his men carried them away.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there they left their images, and David and his men burned them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Philistines again went up and spread themselves in valley of Rephaim.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Philistines came up yet again, and spread themselves in the valley of Rephaim."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "David inquired of YHWH, and YHWH said, You shall not go up directly. Circle around behind them and come against them opposite balsam trees.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when David enquired of the LORD, he said, Thou shalt not go up; but fetch a compass behind them, and come upon them over against the mulberry trees."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "When you hear sound of marching in tops of balsam trees, then act decisively, because then YHWH has gone out before you to strike camp of Philistines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And let it be, when thou hearest the sound of a going in the tops of the mulberry trees, that then thou shalt bestir thyself: for then shall the LORD go out before thee, to smite the host of the Philistines."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "David did so as YHWH commanded him, and he struck Philistines from Geba as far as approach to Gezer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David did so, as the LORD had commanded him; and smote the Philistines from Geba until thou come to Gazer."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "1 Chronicles 11:1-9",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "1 Chronicles 14",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Israel's elders use kinship, military memory, covenant, and Divine speech to legitimate David. None of these removes the people's right to hold a ruler accountable.",
+    "The capture of Jerusalem is conquest of an inhabited Jebusite city, not discovery of empty sacred space. Jebusites must not disappear beneath later Davidic or Zion traditions.",
+    "Verses 6 and 8 contain a deeply ableist taunt, response, and proverb, with significant textual and interpretive difficulty. Blindness and mobility disability are not contemptible, impure, or evidence of exclusion from sacred community.",
+    "The phrase translated 'hated by David's soul' may preserve hostile propaganda or a damaged tradition. It cannot be used to authorize discrimination against disabled people.",
+    "Hiram's cedar, craftspeople, and construction represent international diplomacy and labor. Royal architecture is not proof of Divine approval and should be examined for extraction and worker conditions.",
+    "David's additional wives and concubines expand dynasty and alliances. Their names, voices, and consent are absent; they are not reproductive infrastructure for empire.",
+    "Philistines remain human communities, not timeless enemies. Their sacred images may not be used to justify religious contempt, vandalism, or modern ethnic hatred.",
+    "Statements that YHWH commands or grants victory belong to ancient royal war theology and must never authorize modern conquest, nationalism, or claims of guaranteed military favor.",
+    "The chapter's growth language should be read beside the people and bodies absorbed by expanding royal power."
+  ],
+  "safety_note": "Maximum anti-ableist and anti-imperial safeguards: Do not repeat the blind/lame language as a spiritual insult or exclusion rule. Do not romanticize Jerusalem's capture, dynastic marriage expansion, sacred-image seizure, or territorial war. Anointing and victory never create leader immunity or modern land entitlement.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-14-of-25",
+    "tags": "partial-15-of-25",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-15-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

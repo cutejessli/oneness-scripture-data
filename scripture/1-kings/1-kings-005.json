@@ -1,1 +1,483 @@
-{"book":"1 Kings","book_id":"1-kings","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Kings / Melakhim Aleph chapter 5, first-pass draft aligned to public-domain verse structure; formal witness audit remains required.","review_note":"Reviewed for Tyrian diplomacy, cedar extraction, Sidonian expertise, food exchange, covenant, conscription, rotational labor, burden carriers, quarry workers, supervisors, and monumental construction."},"verses":[{"verse":1,"restored":"Hiram king of Tyre sent his servants to Solomon, for he heard they had anointed him king in place of his father; Hiram had loved David all days."},{"verse":2,"restored":"Solomon sent to Hiram, saying:"},{"verse":3,"restored":"You know David my father could not build a house for name of YHWH his Divine because of wars surrounding him, until YHWH put them beneath soles of his feet."},{"verse":4,"restored":"But now YHWH my Divine has given me rest from every side; there is no adversary and no evil occurrence."},{"verse":5,"restored":"Look, I intend to build a house for name of YHWH my Divine, as YHWH spoke to David my father: Your son whom I place upon your throne in your place—he shall build house for my name."},{"verse":6,"restored":"Now command that cedars be cut for me from Lebanon. My servants shall be with your servants, and I will give wages for your servants according to all you say, for you know no one among us knows how to cut timber like Sidonians."},{"verse":7,"restored":"When Hiram heard Solomon's words, he rejoiced greatly and said, Blessed be YHWH this day, who gave David a wise son over this great people."},{"verse":8,"restored":"Hiram sent to Solomon: I heard what you sent to me. I will do all your desire concerning cedar timber and cypress timber."},{"verse":9,"restored":"My servants shall bring them down from Lebanon to sea. I will make them into rafts by sea to place you appoint, break them apart there, and you shall take them. You shall do my desire by providing food for my household."},{"verse":10,"restored":"Hiram gave Solomon cedar and cypress timber according to all his desire."},{"verse":11,"restored":"Solomon gave Hiram twenty thousand kors of wheat as food for his household and twenty kors of beaten oil; Solomon gave this to Hiram year by year."},{"verse":12,"restored":"YHWH gave Solomon wisdom as promised. There was peace between Hiram and Solomon, and the two cut a covenant."},{"verse":13,"restored":"King Solomon raised forced labor from all Israel; levy was thirty thousand men."},{"verse":14,"restored":"He sent them to Lebanon in shifts, ten thousand per month: one month in Lebanon and two months at home. Adoniram was over forced labor."},{"verse":15,"restored":"Solomon had seventy thousand burden-bearers and eighty thousand stonecutters in mountain,"},{"verse":16,"restored":"besides Solomon's chief officers over work, three thousand three hundred who ruled over people doing work."},{"verse":17,"restored":"The king commanded, and they quarried great stones, costly stones, hewn stones, to lay foundation of house."},{"verse":18,"restored":"Solomon's builders, Hiram's builders, and Gebalites shaped them; they prepared timber and stones to build house."}],"translation_notes":["Hiram and Sidonian workers bring specialized maritime and timber knowledge. Their expertise must not be reduced to foreign labor serving Israel's glory.","The cedar trade transforms Lebanon's forests into royal sacred architecture. Ecological cost and sovereignty over natural resources remain ethical questions.","Solomon describes peace as absence of adversaries, then uses that peace to mobilize enormous compulsory labor. Rest from war is not rest for workers.","Thirty thousand Israelites rotate into Lebanon, while seventy thousand carry burdens and eighty thousand cut stone. Monumental worship is built through bodies, time, family separation, and danger.","The text distinguishes wages for Hiram's servants from Solomon's levy. This raises labor-status, compensation, and coercion questions that later become central to the kingdom's fracture.","Covenant between kings does not reveal whether workers or affected communities consented to the terms.","Large, costly stones symbolize permanence, but sacred permanence cannot justify exploitation or worker deaths."],"safety_note":"Do not romanticize forced labor, ecological extraction, imperial building, or elite treaties as automatically holy. A house for YHWH must be evaluated by the treatment, consent, compensation, rest, and safety of those who build it."}
+{
+  "book": "1 Kings",
+  "book_id": "1-kings",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Kings / Melakhim Aleph chapter 5, first-pass draft aligned to public-domain verse structure; formal witness audit remains required.",
+    "review_note": "Reviewed for Tyrian diplomacy, cedar extraction, Sidonian expertise, food exchange, covenant, conscription, rotational labor, burden carriers, quarry workers, supervisors, and monumental construction."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Hiram king of Tyre sent his servants to Solomon, for he heard they had anointed him king in place of his father; Hiram had loved David all days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hiram king of Tyre sent his servants unto Solomon; for he had heard that they had anointed him king in the room of his father: for Hiram was ever a lover of David."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Solomon sent to Hiram, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon sent to Hiram, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "You know David my father could not build a house for name of YHWH his Divine because of wars surrounding him, until YHWH put them beneath soles of his feet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou knowest how that David my father could not build an house unto the name of the LORD his God for the wars which were about him on every side, until the LORD put them under the soles of his feet."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "But now YHWH my Divine has given me rest from every side; there is no adversary and no evil occurrence.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now the LORD my God hath given me rest on every side, so that there is neither adversary nor evil occurrent."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Look, I intend to build a house for name of YHWH my Divine, as YHWH spoke to David my father: Your son whom I place upon your throne in your place—he shall build house for my name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, behold, I purpose to build an house unto the name of the LORD my God, as the LORD spake unto David my father, saying, Thy son, whom I will set upon thy throne in thy room, he shall build an house unto my name."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Now command that cedars be cut for me from Lebanon. My servants shall be with your servants, and I will give wages for your servants according to all you say, for you know no one among us knows how to cut timber like Sidonians.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "When Hiram heard Solomon's words, he rejoiced greatly and said, Blessed be YHWH this day, who gave David a wise son over this great people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Hiram heard the words of Solomon, that he rejoiced greatly, and said, Blessed be the LORD this day, which hath given unto David a wise son over this great people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Hiram sent to Solomon: I heard what you sent to me. I will do all your desire concerning cedar timber and cypress timber.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hiram sent to Solomon, saying, I have considered the things which thou sentest to me for: and I will do all thy desire concerning timber of cedar, and concerning timber of fir."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "My servants shall bring them down from Lebanon to sea. I will make them into rafts by sea to place you appoint, break them apart there, and you shall take them. You shall do my desire by providing food for my household.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Hiram gave Solomon cedar and cypress timber according to all his desire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Hiram gave Solomon cedar trees and fir trees according to all his desire."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Solomon gave Hiram twenty thousand kors of wheat as food for his household and twenty kors of beaten oil; Solomon gave this to Hiram year by year.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon gave Hiram twenty thousand measures of wheat for food to his household, and twenty measures of pure oil: thus gave Solomon to Hiram year by year."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "YHWH gave Solomon wisdom as promised. There was peace between Hiram and Solomon, and the two cut a covenant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD gave Solomon wisdom, as he promised him: and there was peace between Hiram and Solomon; and they two made a league together."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "King Solomon raised forced labor from all Israel; levy was thirty thousand men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And king Solomon raised a levy out of all Israel; and the levy was thirty thousand men."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He sent them to Lebanon in shifts, ten thousand per month: one month in Lebanon and two months at home. Adoniram was over forced labor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Solomon had seventy thousand burden-bearers and eighty thousand stonecutters in mountain,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon had threescore and ten thousand that bare burdens, and fourscore thousand hewers in the mountains;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "besides Solomon's chief officers over work, three thousand three hundred who ruled over people doing work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beside the chief of Solomon’s officers which were over the work, three thousand and three hundred, which ruled over the people that wrought in the work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "The king commanded, and they quarried great stones, costly stones, hewn stones, to lay foundation of house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Solomon's builders, Hiram's builders, and Gebalites shaped them; they prepared timber and stones to build house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon’s builders and Hiram’s builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Chronicles 2",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Hiram and Sidonian workers bring specialized maritime and timber knowledge. Their expertise must not be reduced to foreign labor serving Israel's glory.",
+    "The cedar trade transforms Lebanon's forests into royal sacred architecture. Ecological cost and sovereignty over natural resources remain ethical questions.",
+    "Solomon describes peace as absence of adversaries, then uses that peace to mobilize enormous compulsory labor. Rest from war is not rest for workers.",
+    "Thirty thousand Israelites rotate into Lebanon, while seventy thousand carry burdens and eighty thousand cut stone. Monumental worship is built through bodies, time, family separation, and danger.",
+    "The text distinguishes wages for Hiram's servants from Solomon's levy. This raises labor-status, compensation, and coercion questions that later become central to the kingdom's fracture.",
+    "Covenant between kings does not reveal whether workers or affected communities consented to the terms.",
+    "Large, costly stones symbolize permanence, but sacred permanence cannot justify exploitation or worker deaths."
+  ],
+  "safety_note": "Do not romanticize forced labor, ecological extraction, imperial building, or elite treaties as automatically holy. A house for YHWH must be evaluated by the treatment, consent, compensation, rest, and safety of those who build it.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-18",
+    "tags": "partial-10-of-18",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-8-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

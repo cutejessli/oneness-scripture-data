@@ -1,1 +1,978 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph second ark procession, Levitical organization, music, sacrifices, and Michal, first-pass restored draft with public-domain scaffold; later witness audit required","review_note":"Reviewed against 2 Samuel 6 for David's houses and tent, exclusive Levite transport, assignment counts, blame for first breach, sanctification, skilled music, gatekeepers, animal offerings, royal clothing, public procession, and Michal's omitted speech."},"verses":[{"verse":1,"restored":"David made houses for himself in city of David, prepared a place for ark of Divine, and pitched a tent for it."},{"verse":2,"restored":"Then David said, None should carry ark of Divine except Levites, for YHWH chose them to carry ark and minister before YHWH continually."},{"verse":3,"restored":"David gathered all Israel to Jerusalem to bring ark of YHWH to place he prepared."},{"verse":4,"restored":"David assembled descendants of Aaron and Levites:"},{"verse":5,"restored":"from sons of Kohath, Uriel the chief and one hundred twenty relatives;"},{"verse":6,"restored":"from sons of Merari, Asaiah the chief and two hundred twenty relatives;"},{"verse":7,"restored":"from sons of Gershom, Joel the chief and one hundred thirty relatives;"},{"verse":8,"restored":"from sons of Elizaphan, Shemaiah the chief and two hundred relatives;"},{"verse":9,"restored":"from sons of Hebron, Eliel the chief and eighty relatives;"},{"verse":10,"restored":"from sons of Uzziel, Amminadab the chief and one hundred twelve relatives."},{"verse":11,"restored":"David called Zadok and Abiathar the priests and Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab."},{"verse":12,"restored":"He said, You are heads of Levite ancestral houses. Sanctify yourselves, you and relatives, and bring ark of YHWH Divine of Israel to place I prepared."},{"verse":13,"restored":"Because you were not there/ did not carry it at first, YHWH our Divine broke out against us, because we did not seek according to proper order."},{"verse":14,"restored":"Priests and Levites sanctified themselves to bring ark of YHWH Divine of Israel."},{"verse":15,"restored":"Levites carried ark of Divine on shoulders with poles, as Moses commanded according to word of YHWH."},{"verse":16,"restored":"David told Levite chiefs to appoint relatives as singers with instruments—harps, lyres, and cymbals—raising sounds of joy."},{"verse":17,"restored":"Levites appointed Heman son of Joel; Asaph son of Berechiah; and from Merari relatives, Ethan son of Kushaiah."},{"verse":18,"restored":"With them relatives of second rank: Zechariah, Ben/Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel, gatekeepers."},{"verse":19,"restored":"Singers Heman, Asaph, and Ethan sounded bronze cymbals."},{"verse":20,"restored":"Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah played lyres according to Alamoth."},{"verse":21,"restored":"Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah played harps according to Sheminith, to lead."},{"verse":22,"restored":"Chenaniah chief of Levites was over carrying/song; he instructed because he was skilled."},{"verse":23,"restored":"Berechiah and Elkanah were gatekeepers for ark."},{"verse":24,"restored":"Shebaniah, Jehoshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests sounded trumpets before ark; Obed-edom and Jehiah were gatekeepers."},{"verse":25,"restored":"David, elders of Israel, and commanders of thousands went to bring ark of covenant of YHWH from house of Obed-edom with joy."},{"verse":26,"restored":"When Divine helped Levites carrying ark of covenant of YHWH, they sacrificed seven bulls and seven rams."},{"verse":27,"restored":"David was clothed in robe of fine linen, as were all Levites carrying ark, singers, and Chenaniah leader of carrying/song; David wore linen ephod."},{"verse":28,"restored":"All Israel brought ark of covenant of YHWH with shouting, horn, trumpets, cymbals, lyres, and harps."},{"verse":29,"restored":"As ark of covenant of YHWH came to city of David, Michal daughter of Saul looked through window and saw king David dancing and playing, and despised him in her heart."}],"translation_notes":["The second attempt improves role clarity and transport method, but safer procedure does not explain away Uzzah's death or make it deserved.","David says Levites caused the first breach by not participating properly, yet he led the original plan. Responsibility may not be shifted downward onto workers after a leadership failure.","Ritual sanctification and 'proper order' must not become victim-blaming, purity policing, or fear that minor procedural mistakes merit death.","The chapter preserves extensive skilled musical and logistical labor. Chenaniah leads because of competence, not merely ancestry.","Gatekeepers, carriers, instrumentalists, singers, priests, and organizers all share responsibility; religious work is collaborative and should be safe and compensated.","Fourteen animals are killed in celebration. Their deaths should not disappear beneath music and pageantry.","Fine clothing and royal performance may communicate solidarity, but public spectacle does not remove hierarchy.","Chronicles gives Michal only an interior judgment and omits her confrontation, David's retaliatory speech, servant-women context, and childlessness from 2 Samuel 6. Her perspective must not be reduced to jealous contempt.","Alamoth and Sheminith are technical musical terms of uncertain meaning and require audit."],"safety_note":"Do not blame Uzzah or lower-ranking workers for leadership failure, weaponize ritual purity, exploit musicians, or use Michal as a misogynistic warning against women who criticize male religious spectacle. Safety, skill, shared responsibility, and dissent belong inside worship."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph second ark procession, Levitical organization, music, sacrifices, and Michal, first-pass restored draft with public-domain scaffold; later witness audit required",
+    "review_note": "Reviewed against 2 Samuel 6 for David's houses and tent, exclusive Levite transport, assignment counts, blame for first breach, sanctification, skilled music, gatekeepers, animal offerings, royal clothing, public procession, and Michal's omitted speech."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "David made houses for himself in city of David, prepared a place for ark of Divine, and pitched a tent for it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David made him houses in the city of David, and prepared a place for the ark of God, and pitched for it a tent."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Then David said, None should carry ark of Divine except Levites, for YHWH chose them to carry ark and minister before YHWH continually.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then David said, None ought to carry the ark of God but the Levites: for them hath the LORD chosen to carry the ark of God, and to minister unto him for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "David gathered all Israel to Jerusalem to bring ark of YHWH to place he prepared.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David gathered all Israel together to Jerusalem, to bring up the ark of the LORD unto his place, which he had prepared for it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "David assembled descendants of Aaron and Levites:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David assembled the children of Aaron, and the Levites:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "from sons of Kohath, Uriel the chief and one hundred twenty relatives;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Kohath; Uriel the chief, and his brethren an hundred and twenty:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "from sons of Merari, Asaiah the chief and two hundred twenty relatives;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Merari; Asaiah the chief, and his brethren two hundred and twenty:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "from sons of Gershom, Joel the chief and one hundred thirty relatives;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Gershom; Joel the chief, and his brethren an hundred and thirty:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "from sons of Elizaphan, Shemaiah the chief and two hundred relatives;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Elizaphan; Shemaiah the chief, and his brethren two hundred:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "from sons of Hebron, Eliel the chief and eighty relatives;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Hebron; Eliel the chief, and his brethren fourscore:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "from sons of Uzziel, Amminadab the chief and one hundred twelve relatives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the sons of Uzziel; Amminadab the chief, and his brethren an hundred and twelve."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "David called Zadok and Abiathar the priests and Levites Uriel, Asaiah, Joel, Shemaiah, Eliel, and Amminadab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David called for Zadok and Abiathar the priests, and for the Levites, for Uriel, Asaiah, and Joel, Shemaiah, and Eliel, and Amminadab,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "He said, You are heads of Levite ancestral houses. Sanctify yourselves, you and relatives, and bring ark of YHWH Divine of Israel to place I prepared.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said unto them, Ye are the chief of the fathers of the Levites: sanctify yourselves, both ye and your brethren, that ye may bring up the ark of the LORD God of Israel unto the place that I have prepared for it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Because you were not there/ did not carry it at first, YHWH our Divine broke out against us, because we did not seek according to proper order.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For because ye did it not at the first, the LORD our God made a breach upon us, for that we sought him not after the due order."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Priests and Levites sanctified themselves to bring ark of YHWH Divine of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the priests and the Levites sanctified themselves to bring up the ark of the LORD God of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Levites carried ark of Divine on shoulders with poles, as Moses commanded according to word of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of the Levites bare the ark of God upon their shoulders with the staves thereon, as Moses commanded according to the word of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "David told Levite chiefs to appoint relatives as singers with instruments—harps, lyres, and cymbals—raising sounds of joy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David spake to the chief of the Levites to appoint their brethren to be the singers with instruments of musick, psalteries and harps and cymbals, sounding, by lifting up the voice with joy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "music-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Levites appointed Heman son of Joel; Asaph son of Berechiah; and from Merari relatives, Ethan son of Kushaiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the Levites appointed Heman the son of Joel; and of his brethren, Asaph the son of Berechiah; and of the sons of Merari their brethren, Ethan the son of Kushaiah;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "With them relatives of second rank: Zechariah, Ben/Jaaziel, Shemiramoth, Jehiel, Unni, Eliab, Benaiah, Maaseiah, Mattithiah, Eliphelehu, Mikneiah, Obed-edom, and Jeiel, gatekeepers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And with them their brethren of the second degree, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Singers Heman, Asaph, and Ethan sounded bronze cymbals.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the singers, Heman, Asaph, and Ethan, were appointed to sound with cymbals of brass;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah played lyres according to Alamoth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Zechariah, and Aziel, and Shemiramoth, and Jehiel, and Unni, and Eliab, and Maaseiah, and Benaiah, with psalteries on Alamoth;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah played harps according to Sheminith, to lead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, and Azaziah, with harps on the Sheminith to excel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Chenaniah chief of Levites was over carrying/song; he instructed because he was skilled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Chenaniah, chief of the Levites, was for song: he instructed about the song, because he was skilful."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Berechiah and Elkanah were gatekeepers for ark.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Berechiah and Elkanah were doorkeepers for the ark."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Shebaniah, Jehoshaphat, Nethanel, Amasai, Zechariah, Benaiah, and Eliezer the priests sounded trumpets before ark; Obed-edom and Jehiah were gatekeepers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Shebaniah, and Jehoshaphat, and Nethaneel, and Amasai, and Zechariah, and Benaiah, and Eliezer, the priests, did blow with the trumpets before the ark of God: and Obededom and Jehiah were doorkeepers for the ark."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "David, elders of Israel, and commanders of thousands went to bring ark of covenant of YHWH from house of Obed-edom with joy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So David, and the elders of Israel, and the captains over thousands, went to bring up the ark of the covenant of the LORD out of the house of Obededom with joy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "covenant",
+        "ancient-people"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "When Divine helped Levites carrying ark of covenant of YHWH, they sacrificed seven bulls and seven rams.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when God helped the Levites that bare the ark of the covenant of the LORD, that they offered seven bullocks and seven rams."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "sacrifice-worship",
+        "covenant"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "David was clothed in robe of fine linen, as were all Levites carrying ark, singers, and Chenaniah leader of carrying/song; David wore linen ephod.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David was clothed with a robe of fine linen, and all the Levites that bare the ark, and the singers, and Chenaniah the master of the song with the singers: David also had upon him an ephod of linen."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "music-worship",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "All Israel brought ark of covenant of YHWH with shouting, horn, trumpets, cymbals, lyres, and harps.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus all Israel brought up the ark of the covenant of the LORD with shouting, and with sound of the cornet, and with trumpets, and with cymbals, making a noise with psalteries and harps."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "covenant",
+        "music-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "As ark of covenant of YHWH came to city of David, Michal daughter of Saul looked through window and saw king David dancing and playing, and despised him in her heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as the ark of the covenant of the LORD came to the city of David, that Michal, the daughter of Saul looking out at a window saw king David dancing and playing: and she despised him in her heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space",
+        "women-gender",
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 6:12-23",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The second attempt improves role clarity and transport method, but safer procedure does not explain away Uzzah's death or make it deserved.",
+    "David says Levites caused the first breach by not participating properly, yet he led the original plan. Responsibility may not be shifted downward onto workers after a leadership failure.",
+    "Ritual sanctification and 'proper order' must not become victim-blaming, purity policing, or fear that minor procedural mistakes merit death.",
+    "The chapter preserves extensive skilled musical and logistical labor. Chenaniah leads because of competence, not merely ancestry.",
+    "Gatekeepers, carriers, instrumentalists, singers, priests, and organizers all share responsibility; religious work is collaborative and should be safe and compensated.",
+    "Fourteen animals are killed in celebration. Their deaths should not disappear beneath music and pageantry.",
+    "Fine clothing and royal performance may communicate solidarity, but public spectacle does not remove hierarchy.",
+    "Chronicles gives Michal only an interior judgment and omits her confrontation, David's retaliatory speech, servant-women context, and childlessness from 2 Samuel 6. Her perspective must not be reduced to jealous contempt.",
+    "Alamoth and Sheminith are technical musical terms of uncertain meaning and require audit."
+  ],
+  "safety_note": "Do not blame Uzzah or lower-ranking workers for leadership failure, weaponize ritual purity, exploit musicians, or use Michal as a misogynistic warning against women who criticize male religious spectacle. Safety, skill, shared responsibility, and dissent belong inside worship.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-19-of-29",
+    "tags": "partial-28-of-29",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-6-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

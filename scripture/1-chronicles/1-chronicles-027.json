@@ -1,1 +1,629 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":27,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph monthly military divisions, tribal leaders, royal property managers, counselors, and commanders, first-pass restored draft; later witness audit required","review_note":"Reviewed for rotating military system, under-twenty exclusion, unfinished census and wrath, tribal representation, royal agricultural wealth, migrant/foreign managers, animal labor, counselor networks, Ahithophel context, nepotism, and public-private boundaries."},"verses":[{"verse":1,"restored":"Children of Israel by number—ancestral heads, commanders of thousands and hundreds, and officers serving king in every matter of divisions—came in and went out month by month through all months; each division numbered twenty-four thousand."},{"verse":2,"restored":"Over first division for first month was Jashobeam son of Zabdiel; in his division were twenty-four thousand."},{"verse":3,"restored":"He was from sons of Perez and chief of all army commanders for first month."},{"verse":4,"restored":"Over division of second month was Dodai the Ahohite, and Mikloth was leader; in division were twenty-four thousand."},{"verse":5,"restored":"Third army commander for third month was Benaiah son of Jehoiada the priest, chief; in his division were twenty-four thousand."},{"verse":6,"restored":"This Benaiah was mighty among thirty and over thirty; Ammizabad his son was over his division."},{"verse":7,"restored":"Fourth for fourth month was Asahel brother of Joab, and Zebadiah his son after him; in division were twenty-four thousand."},{"verse":8,"restored":"Fifth for fifth month was Shamhuth the Izrahite; in division were twenty-four thousand."},{"verse":9,"restored":"Sixth for sixth month was Ira son of Ikkesh the Tekoite; in division were twenty-four thousand."},{"verse":10,"restored":"Seventh for seventh month was Helez the Pelonite from Ephraim; in division were twenty-four thousand."},{"verse":11,"restored":"Eighth for eighth month was Sibbecai the Hushathite from Zerahites; in division were twenty-four thousand."},{"verse":12,"restored":"Ninth for ninth month was Abiezer the Anathothite from Benjaminites; in division were twenty-four thousand."},{"verse":13,"restored":"Tenth for tenth month was Maharai the Netophathite from Zerahites; in division were twenty-four thousand."},{"verse":14,"restored":"Eleventh for eleventh month was Benaiah the Pirathonite from Ephraim; in division were twenty-four thousand."},{"verse":15,"restored":"Twelfth for twelfth month was Heldai the Netophathite from Othniel; in division were twenty-four thousand."},{"verse":16,"restored":"Over tribes of Israel: for Reuben, Eliezer son of Zichri; for Simeon, Shephatiah son of Maacah;"},{"verse":17,"restored":"for Levi, Hashabiah son of Kemuel; for Aaron, Zadok;"},{"verse":18,"restored":"for Judah, Elihu from brothers of David; for Issachar, Omri son of Michael;"},{"verse":19,"restored":"for Zebulun, Ishmaiah son of Obadiah; for Naphtali, Jerimoth son of Azriel;"},{"verse":20,"restored":"for Ephraim, Hoshea son of Azaziah; for half-tribe Manasseh, Joel son of Pedaiah;"},{"verse":21,"restored":"for half-Manasseh in Gilead, Iddo son of Zechariah; for Benjamin, Jaasiel son of Abner;"},{"verse":22,"restored":"for Dan, Azarel son of Jeroham. These were leaders of tribes of Israel."},{"verse":23,"restored":"David did not take number of those twenty years old and under, because YHWH had said Israel would be multiplied like stars of heavens."},{"verse":24,"restored":"Joab son of Zeruiah began to count but did not finish; wrath came upon Israel because of this, and number did not enter account in chronicles of king David."},{"verse":25,"restored":"Over king's treasuries was Azmaveth son of Adiel; over storehouses in fields, cities, villages, and towers was Jonathan son of Uzziah."},{"verse":26,"restored":"Over field workers cultivating ground was Ezri son of Chelub."},{"verse":27,"restored":"Over vineyards was Shimei the Ramathite; over vineyard produce for wine stores was Zabdi the Shiphmite."},{"verse":28,"restored":"Over olive and sycamore trees in Shephelah was Baal-hanan the Gederite; over oil stores was Joash."},{"verse":29,"restored":"Over herds grazing in Sharon was Shitrai the Sharonite; over herds in valleys was Shaphat son of Adlai."},{"verse":30,"restored":"Over camels was Obil the Ishmaelite; over donkeys was Jehdeiah the Meronothite."},{"verse":31,"restored":"Over flocks was Jaziz the Hagarite. All these were officials over king David's property."},{"verse":32,"restored":"Jonathan David's uncle was counselor, understanding and scribe; Jehiel son of Hachmoni was with king's sons."},{"verse":33,"restored":"Ahithophel was king's counselor; Hushai the Archite was king's companion."},{"verse":34,"restored":"After Ahithophel were Jehoiada son of Benaiah and Abiathar; Joab was commander of king's army."}],"translation_notes":["Twelve rotating divisions create a permanent military system affecting soldiers, families, farms, and local economies even outside active war.","Excluding those twenty and under from the census is a meaningful limit, but the remaining system still raises conscription and consent concerns.","The unfinished census recalls chapter 21, showing that administrative counting and militarized control remain unresolved rather than inherently forbidden.","Tribal leaders do not guarantee full representation of women, poor people, local communities, or dissenters.","Royal property encompasses treasuries, storehouses, fields, vineyards, orchards, wine, oil, herds, camels, donkeys, and flocks, revealing a vast extraction and management system.","Farmers and animal keepers generate royal wealth; they require recognition, fair conditions, and protection from exploitation.","Obil the Ishmaelite and Jaziz the Hagarite hold trusted roles, undermining ethnic-purity narratives.","Animals are living beings cared for by workers, not merely royal inventory.","Ahithophel's later suicide in 2 Samuel 17 must remain visible; his name is not simply a neutral office-holder entry.","Family and companion appointments raise questions about nepotism and blurred public-private power."],"safety_note":"Do not glorify permanent militarization, conscription, royal extraction, nepotism, or ownership of workers and animals. Center underage protection, farmers, migrant managers, animal care, public accountability, and families carrying the hidden cost of rotating armies."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 27,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph monthly military divisions, tribal leaders, royal property managers, counselors, and commanders, first-pass restored draft; later witness audit required",
+    "review_note": "Reviewed for rotating military system, under-twenty exclusion, unfinished census and wrath, tribal representation, royal agricultural wealth, migrant/foreign managers, animal labor, counselor networks, Ahithophel context, nepotism, and public-private boundaries."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Children of Israel by number—ancestral heads, commanders of thousands and hundreds, and officers serving king in every matter of divisions—came in and went out month by month through all months; each division numbered twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the children of Israel after their number, to wit, the chief fathers and captains of thousands and hundreds, and their officers that served the king in any matter of the courses, which came in and went out month by month throughout all the months of the year, of every course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "census",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Over first division for first month was Jashobeam son of Zabdiel; in his division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Over the first course for the first month was Jashobeam the son of Zabdiel: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He was from sons of Perez and chief of all army commanders for first month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the children of Perez was the chief of all the captains of the host for the first month."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Over division of second month was Dodai the Ahohite, and Mikloth was leader; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the course of the second month was Dodai an Ahohite, and of his course was Mikloth also the ruler: in his course likewise were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Third army commander for third month was Benaiah son of Jehoiada the priest, chief; in his division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The third captain of the host for the third month was Benaiah the son of Jehoiada, a chief priest: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "This Benaiah was mighty among thirty and over thirty; Ammizabad his son was over his division.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is that Benaiah, who was mighty among the thirty, and above the thirty: and in his course was Ammizabad his son."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Fourth for fourth month was Asahel brother of Joab, and Zebadiah his son after him; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fourth captain for the fourth month was Asahel the brother of Joab, and Zebadiah his son after him: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Fifth for fifth month was Shamhuth the Izrahite; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fifth captain for the fifth month was Shamhuth the Izrahite: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Sixth for sixth month was Ira son of Ikkesh the Tekoite; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sixth captain for the sixth month was Ira the son of Ikkesh the Tekoite: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Seventh for seventh month was Helez the Pelonite from Ephraim; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The seventh captain for the seventh month was Helez the Pelonite, of the children of Ephraim: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Eighth for eighth month was Sibbecai the Hushathite from Zerahites; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The eighth captain for the eighth month was Sibbecai the Hushathite, of the Zarhites: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Ninth for ninth month was Abiezer the Anathothite from Benjaminites; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The ninth captain for the ninth month was Abiezer the Anetothite, of the Benjamites: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Tenth for tenth month was Maharai the Netophathite from Zerahites; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The tenth captain for the tenth month was Maharai the Netophathite, of the Zarhites: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Eleventh for eleventh month was Benaiah the Pirathonite from Ephraim; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The eleventh captain for the eleventh month was Benaiah the Pirathonite, of the children of Ephraim: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Twelfth for twelfth month was Heldai the Netophathite from Othniel; in division were twenty-four thousand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The twelfth captain for the twelfth month was Heldai the Netophathite, of Othniel: and in his course were twenty and four thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Over tribes of Israel: for Reuben, Eliezer son of Zichri; for Simeon, Shephatiah son of Maacah;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Furthermore over the tribes of Israel: the ruler of the Reubenites was Eliezer the son of Zichri: of the Simeonites, Shephatiah the son of Maachah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "for Levi, Hashabiah son of Kemuel; for Aaron, Zadok;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the Levites, Hashabiah the son of Kemuel: of the Aaronites, Zadok:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "for Judah, Elihu from brothers of David; for Issachar, Omri son of Michael;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of Judah, Elihu, one of the brethren of David: of Issachar, Omri the son of Michael:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "for Zebulun, Ishmaiah son of Obadiah; for Naphtali, Jerimoth son of Azriel;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of Zebulun, Ishmaiah the son of Obadiah: of Naphtali, Jerimoth the son of Azriel:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "for Ephraim, Hoshea son of Azaziah; for half-tribe Manasseh, Joel son of Pedaiah;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the children of Ephraim, Hoshea the son of Azaziah: of the half tribe of Manasseh, Joel the son of Pedaiah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "for half-Manasseh in Gilead, Iddo son of Zechariah; for Benjamin, Jaasiel son of Abner;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the half tribe of Manasseh in Gilead, Iddo the son of Zechariah: of Benjamin, Jaasiel the son of Abner:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "for Dan, Azarel son of Jeroham. These were leaders of tribes of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "David did not take number of those twenty years old and under, because YHWH had said Israel would be multiplied like stars of heavens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But David took not the number of them from twenty years old and under: because the LORD had said he would increase Israel like to the stars of the heavens."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Joab son of Zeruiah began to count but did not finish; wrath came upon Israel because of this, and number did not enter account in chronicles of king David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Joab the son of Zeruiah began to number, but he finished not, because there fell wrath for it against Israel; neither was the number put in the account of the chronicles of king David."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Over king's treasuries was Azmaveth son of Adiel; over storehouses in fields, cities, villages, and towers was Jonathan son of Uzziah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the king’s treasures was Azmaveth the son of Adiel: and over the storehouses in the fields, in the cities, and in the villages, and in the castles, was Jehonathan the son of Uzziah:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Over field workers cultivating ground was Ezri son of Chelub.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over them that did the work of the field for tillage of the ground was Ezri the son of Chelub:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Over vineyards was Shimei the Ramathite; over vineyard produce for wine stores was Zabdi the Shiphmite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the vineyards was Shimei the Ramathite: over the increase of the vineyards for the wine cellars was Zabdi the Shiphmite:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Over olive and sycamore trees in Shephelah was Baal-hanan the Gederite; over oil stores was Joash.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the olive trees and the sycomore trees that were in the low plains was Baalhanan the Gederite: and over the cellars of oil was Joash:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Over herds grazing in Sharon was Shitrai the Sharonite; over herds in valleys was Shaphat son of Adlai.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the herds that fed in Sharon was Shitrai the Sharonite: and over the herds that were in the valleys was Shaphat the son of Adlai:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Over camels was Obil the Ishmaelite; over donkeys was Jehdeiah the Meronothite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Over the camels also was Obil the Ishmaelite: and over the asses was Jehdeiah the Meronothite:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "Over flocks was Jaziz the Hagarite. All these were officials over king David's property.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over the flocks was Jaziz the Hagerite. All these were the rulers of the substance which was king David’s."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "Jonathan David's uncle was counselor, understanding and scribe; Jehiel son of Hachmoni was with king's sons.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also Jonathan David’s uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king’s sons:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Ahithophel was king's counselor; Hushai the Archite was king's companion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Ahithophel was the king’s counsellor: and Hushai the Archite was the king’s companion:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "After Ahithophel were Jehoiada son of Benaiah and Abiathar; Joab was commander of king's army.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king’s army was Joab."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Twelve rotating divisions create a permanent military system affecting soldiers, families, farms, and local economies even outside active war.",
+    "Excluding those twenty and under from the census is a meaningful limit, but the remaining system still raises conscription and consent concerns.",
+    "The unfinished census recalls chapter 21, showing that administrative counting and militarized control remain unresolved rather than inherently forbidden.",
+    "Tribal leaders do not guarantee full representation of women, poor people, local communities, or dissenters.",
+    "Royal property encompasses treasuries, storehouses, fields, vineyards, orchards, wine, oil, herds, camels, donkeys, and flocks, revealing a vast extraction and management system.",
+    "Farmers and animal keepers generate royal wealth; they require recognition, fair conditions, and protection from exploitation.",
+    "Obil the Ishmaelite and Jaziz the Hagarite hold trusted roles, undermining ethnic-purity narratives.",
+    "Animals are living beings cared for by workers, not merely royal inventory.",
+    "Ahithophel's later suicide in 2 Samuel 17 must remain visible; his name is not simply a neutral office-holder entry.",
+    "Family and companion appointments raise questions about nepotism and blurred public-private power."
+  ],
+  "safety_note": "Do not glorify permanent militarization, conscription, royal extraction, nepotism, or ownership of workers and animals. Center underage protection, farmers, migrant managers, animal care, public accountability, and families carrying the hidden cost of rotating armies.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-34",
+    "tags": "partial-22-of-34",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-34",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

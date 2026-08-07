@@ -1,1 +1,737 @@
-{"book":"2 Kings","book_id":"2-kings","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 2 Kings / Melakhim Bet Jehoram, Moab revolt, Elisha oracle, and Mesha child-sacrifice narrative, draft aligned later","review_note":"First-pass draft reviewed for Jehoram's reign, Mesha's tribute and rebellion, Israel-Judah-Edom coalition, wilderness water crisis, Elisha's musician-assisted oracle, Moabite misreading of water, city destruction, and king of Moab's sacrifice of his son."},"verses":[{"verse":1,"restored":"Jehoram son of Ahab became king over Israel in Samaria in eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years."},{"verse":2,"restored":"He did evil in eyes of YHWH, though not like his father and mother; he removed pillar of Baal his father had made."},{"verse":3,"restored":"Yet he clung to sins of Jeroboam son of Nebat, who caused Israel to sin; he did not turn from them."},{"verse":4,"restored":"Mesha king of Moab was a sheep breeder, and he returned to king of Israel one hundred thousand lambs and wool of one hundred thousand rams."},{"verse":5,"restored":"When Ahab died, king of Moab rebelled against king of Israel."},{"verse":6,"restored":"King Jehoram went out from Samaria at that time and mustered all Israel."},{"verse":7,"restored":"He sent to Jehoshaphat king of Judah, saying, King of Moab has rebelled against me; will you go with me to Moab for war? He said, I will go; I am as you, my people as your people, my horses as your horses."},{"verse":8,"restored":"He said, Which way shall we go up? He answered, Way of wilderness of Edom."},{"verse":9,"restored":"King of Israel, king of Judah, and king of Edom went; after seven days circling, there was no water for army or animals at their feet."},{"verse":10,"restored":"King of Israel said, Alas, YHWH has called these three kings to give them into hand of Moab."},{"verse":11,"restored":"Jehoshaphat said, Is there no prophet of YHWH here, that we may inquire of YHWH by him? One servant answered, Elisha son of Shaphat is here, who poured water on hands of Elijah."},{"verse":12,"restored":"Jehoshaphat said, Word of YHWH is with him. So king of Israel, Jehoshaphat, and king of Edom went down to him."},{"verse":13,"restored":"Elisha said to king of Israel, What is there between me and you? Go to prophets of your father and mother. King of Israel said, No, for YHWH called these three kings to give them into hand of Moab."},{"verse":14,"restored":"Elisha said, As YHWH of hosts lives, before whom I stand, if I did not lift face of Jehoshaphat king of Judah, I would not look toward you or see you."},{"verse":15,"restored":"Now bring me a musician. When musician played, hand of YHWH came upon him."},{"verse":16,"restored":"He said, Thus says YHWH: Make this wadi pits, pits."},{"verse":17,"restored":"For thus says YHWH: You shall not see wind and shall not see rain, yet that wadi shall be filled with water, and you shall drink, you, your livestock, and your animals."},{"verse":18,"restored":"This is light in eyes of YHWH; he will also give Moab into your hand."},{"verse":19,"restored":"You shall strike every fortified city and every choice city; every good tree you shall fell, all springs of water stop up, and every good field ruin with stones."},{"verse":20,"restored":"In morning, at time of offering, look, water came from way of Edom, and land was filled with water."},{"verse":21,"restored":"All Moab heard kings had come to fight them; all able to gird armor and upward were called and stood at border."},{"verse":22,"restored":"They rose early, and sun shone upon water; Moab saw water opposite them red as blood."},{"verse":23,"restored":"They said, This is blood; the kings have surely fought each other. Now to spoil, Moab!"},{"verse":24,"restored":"They came to camp of Israel, and Israel rose and struck Moab; they fled before them, and Israel entered, striking Moab."},{"verse":25,"restored":"They destroyed cities, and each man threw stone on every good field until it was covered; they stopped every spring and felled every good tree, until only Kir-hareseth stones remained. Slingers surrounded and struck it."},{"verse":26,"restored":"King of Moab saw battle was too strong for him; he took with him seven hundred men drawing sword to break through to king of Edom, but they could not."},{"verse":27,"restored":"He took his firstborn son who would reign after him and brought him up as an ascending offering on the wall. Great wrath came upon Israel, and they withdrew from him and returned to land."}],"translation_notes":["Mesha's tribute and rebellion should be compared with the Mesha Stele; the biblical account is a Judah/Israel-facing war memory, not the only witness.","The coalition's lack of water includes animals; war logistics place human and nonhuman bodies at risk.","Elisha's use of a musician before prophecy preserves a connection between sound and inspired speech without creating a formula for forced prophecy.","Verse 19 commands ecological warfare: felling trees, stopping springs, and ruining fields. This must be rejected as a modern environmental or military model.","The red-water misunderstanding drives Moab into disaster; perception under war conditions can be lethal.","Verse 27 reports the king of Moab sacrificing his heir on the wall. This is child sacrifice under siege desperation and royal violence, not devotion to be imitated.","The great wrath that follows is ambiguous; do not use it to validate child sacrifice or claim human sacrifice has spiritual power."],"safety_note":"Do not use 2 Kings 3 to justify ecological warfare, child sacrifice, siege tactics, anti-Moabite hatred, animal neglect, or claims that desperate ritual violence works. Keep the son on the wall visible as a child and heir destroyed by royal war."}
+{
+  "book": "2 Kings",
+  "book_id": "2-kings",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 2 Kings / Melakhim Bet Jehoram, Moab revolt, Elisha oracle, and Mesha child-sacrifice narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Jehoram's reign, Mesha's tribute and rebellion, Israel-Judah-Edom coalition, wilderness water crisis, Elisha's musician-assisted oracle, Moabite misreading of water, city destruction, and king of Moab's sacrifice of his son."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Jehoram son of Ahab became king over Israel in Samaria in eighteenth year of Jehoshaphat king of Judah, and he reigned twelve years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Jehoram the son of Ahab began to reign over Israel in Samaria the eighteenth year of Jehoshaphat king of Judah, and reigned twelve years."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He did evil in eyes of YHWH, though not like his father and mother; he removed pillar of Baal his father had made.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he wrought evil in the sight of the LORD; but not like his father, and like his mother: for he put away the image of Baal that his father had made."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Yet he clung to sins of Jeroboam son of Nebat, who caused Israel to sin; he did not turn from them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless he cleaved unto the sins of Jeroboam the son of Nebat, which made Israel to sin; he departed not therefrom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Mesha king of Moab was a sheep breeder, and he returned to king of Israel one hundred thousand lambs and wool of one hundred thousand rams.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Mesha king of Moab was a sheepmaster, and rendered unto the king of Israel an hundred thousand lambs, and an hundred thousand rams, with the wool."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "When Ahab died, king of Moab rebelled against king of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But it came to pass, when Ahab was dead, that the king of Moab rebelled against the king of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "King Jehoram went out from Samaria at that time and mustered all Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And king Jehoram went out of Samaria the same time, and numbered all Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He sent to Jehoshaphat king of Judah, saying, King of Moab has rebelled against me; will you go with me to Moab for war? He said, I will go; I am as you, my people as your people, my horses as your horses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "He said, Which way shall we go up? He answered, Way of wilderness of Edom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Which way shall we go up? And he answered, The way through the wilderness of Edom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "King of Israel, king of Judah, and king of Edom went; after seven days circling, there was no water for army or animals at their feet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days’ journey: and there was no water for the host, and for the cattle that followed them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "King of Israel said, Alas, YHWH has called these three kings to give them into hand of Moab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Israel said, Alas! that the LORD hath called these three kings together, to deliver them into the hand of Moab!"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Jehoshaphat said, Is there no prophet of YHWH here, that we may inquire of YHWH by him? One servant answered, Elisha son of Shaphat is here, who poured water on hands of Elijah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Jehoshaphat said, Is there not here a prophet of the LORD, that we may enquire of the LORD by him? And one of the king of Israel’s servants answered and said, Here is Elisha the son of Shaphat, which poured water on the hands of Elijah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Jehoshaphat said, Word of YHWH is with him. So king of Israel, Jehoshaphat, and king of Edom went down to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jehoshaphat said, The word of the LORD is with him. So the king of Israel and Jehoshaphat and the king of Edom went down to him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Elisha said to king of Israel, What is there between me and you? Go to prophets of your father and mother. King of Israel said, No, for YHWH called these three kings to give them into hand of Moab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elisha said unto the king of Israel, What have I to do with thee? get thee to the prophets of thy father, and to the prophets of thy mother. And the king of Israel said unto him, Nay: for the LORD hath called these three kings together, to deliver them into the hand of Moab."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Elisha said, As YHWH of hosts lives, before whom I stand, if I did not lift face of Jehoshaphat king of Judah, I would not look toward you or see you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elisha said, As the LORD of hosts liveth, before whom I stand, surely, were it not that I regard the presence of Jehoshaphat the king of Judah, I would not look toward thee, nor see thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Now bring me a musician. When musician played, hand of YHWH came upon him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now bring me a minstrel. And it came to pass, when the minstrel played, that the hand of the LORD came upon him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "music-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He said, Thus says YHWH: Make this wadi pits, pits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Thus saith the LORD, Make this valley full of ditches."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For thus says YHWH: You shall not see wind and shall not see rain, yet that wadi shall be filled with water, and you shall drink, you, your livestock, and your animals.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thus saith the LORD, Ye shall not see wind, neither shall ye see rain; yet that valley shall be filled with water, that ye may drink, both ye, and your cattle, and your beasts."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "This is light in eyes of YHWH; he will also give Moab into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is but a light thing in the sight of the LORD: he will deliver the Moabites also into your hand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "You shall strike every fortified city and every choice city; every good tree you shall fell, all springs of water stop up, and every good field ruin with stones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall smite every fenced city, and every choice city, and shall fell every good tree, and stop all wells of water, and mar every good piece of land with stones."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "In morning, at time of offering, look, water came from way of Edom, and land was filled with water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the morning, when the meat offering was offered, that, behold, there came water by the way of Edom, and the country was filled with water."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "All Moab heard kings had come to fight them; all able to gird armor and upward were called and stood at border.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "They rose early, and sun shone upon water; Moab saw water opposite them red as blood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "They said, This is blood; the kings have surely fought each other. Now to spoil, Moab!",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "They came to camp of Israel, and Israel rose and struck Moab; they fled before them, and Israel entered, striking Moab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "They destroyed cities, and each man threw stone on every good field until it was covered; they stopped every spring and felled every good tree, until only Kir-hareseth stones remained. Slingers surrounded and struck it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kirharaseth left they the stones thereof; howbeit the slingers went about it, and smote it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "King of Moab saw battle was too strong for him; he took with him seven hundred men drawing sword to break through to king of Edom, but they could not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "He took his firstborn son who would reign after him and brought him up as an ascending offering on the wall. Great wrath came upon Israel, and they withdrew from him and returned to land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Mesha's tribute and rebellion should be compared with the Mesha Stele; the biblical account is a Judah/Israel-facing war memory, not the only witness.",
+    "The coalition's lack of water includes animals; war logistics place human and nonhuman bodies at risk.",
+    "Elisha's use of a musician before prophecy preserves a connection between sound and inspired speech without creating a formula for forced prophecy.",
+    "Verse 19 commands ecological warfare: felling trees, stopping springs, and ruining fields. This must be rejected as a modern environmental or military model.",
+    "The red-water misunderstanding drives Moab into disaster; perception under war conditions can be lethal.",
+    "Verse 27 reports the king of Moab sacrificing his heir on the wall. This is child sacrifice under siege desperation and royal violence, not devotion to be imitated.",
+    "The great wrath that follows is ambiguous; do not use it to validate child sacrifice or claim human sacrifice has spiritual power."
+  ],
+  "safety_note": "Do not use 2 Kings 3 to justify ecological warfare, child sacrifice, siege tactics, anti-Moabite hatred, animal neglect, or claims that desperate ritual violence works. Keep the son on the wall visible as a child and heir destroyed by royal war.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-21-of-27",
+    "tags": "partial-23-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-20-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,733 @@
-{"book":"1 Chronicles","book_id":"1-chronicles","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Chronicles / Divrei Hayamim Aleph Davidic descendants from Hebron through postexilic generations, first-pass restored draft with public-domain scaffold; later witness audit required","review_note":"Reviewed for David's wives and children, Bathshua/Bathsheba naming, Tamar, concubines, royal succession, exile, Jeconiah's descendants, women named and unnamed, and chronological variants."},"verses":[{"verse":1,"restored":"These were sons of David born to him in Hebron: firstborn Amnon, by Ahinoam the Jezreelite; second Daniel/Chileab, by Abigail the Carmelite;"},{"verse":2,"restored":"third Absalom son of Maacah daughter of Talmai king of Geshur; fourth Adonijah son of Haggith;"},{"verse":3,"restored":"fifth Shephatiah by Abital; sixth Ithream by Eglah his wife."},{"verse":4,"restored":"Six were born to him in Hebron, where he reigned seven years and six months; in Jerusalem he reigned thirty-three years."},{"verse":5,"restored":"These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon—four by Bathshua/Bathsheba daughter of Ammiel."},{"verse":6,"restored":"Also Ibhar, Elishama, Eliphelet,"},{"verse":7,"restored":"Nogah, Nepheg, Japhia,"},{"verse":8,"restored":"Elishama, Eliada, and Eliphelet—nine."},{"verse":9,"restored":"These were all sons of David, besides sons of concubines; Tamar was their sister."},{"verse":10,"restored":"Solomon's son was Rehoboam; Abijah his son, Asa his son, Jehoshaphat his son,"},{"verse":11,"restored":"Joram his son, Ahaziah his son, Joash his son,"},{"verse":12,"restored":"Amaziah his son, Azariah/Uzziah his son, Jotham his son,"},{"verse":13,"restored":"Ahaz his son, Hezekiah his son, Manasseh his son,"},{"verse":14,"restored":"Amon his son, Josiah his son."},{"verse":15,"restored":"Sons of Josiah: firstborn Johanan, second Jehoiakim, third Zedekiah, fourth Shallum/Jehoahaz."},{"verse":16,"restored":"Sons/descendants of Jehoiakim: Jeconiah his son and Zedekiah his son/kinsman."},{"verse":17,"restored":"Sons of Jeconiah the captive: Shealtiel his son,"},{"verse":18,"restored":"Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah."},{"verse":19,"restored":"Sons of Pedaiah: Zerubbabel and Shimei. Children of Zerubbabel: Meshullam, Hananiah, and Shelomith their sister;"},{"verse":20,"restored":"also Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five."},{"verse":21,"restored":"Descendants of Hananiah: Pelatiah and Jeshaiah; descendants of Rephaiah, Arnan, Obadiah, and Shecaniah."},{"verse":22,"restored":"Descendants of Shecaniah: Shemaiah. Sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—six with their father/another textual count."},{"verse":23,"restored":"Sons of Neariah: Elioenai, Hezekiah, and Azrikam—three."},{"verse":24,"restored":"Sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven."}],"translation_notes":["The chapter compresses stories of violence, coercion, grief, and political rivalry into a succession list; Samuel and Kings must remain in view.","Bathshua is generally identified with Bathsheba. Her appearance as Solomon's mother must not erase David's sexual abuse of royal power or Uriah's command murder.","Tamar is named only as sister, but 2 Samuel 13 preserves her rape, protest, desolation, and abandonment. Genealogy may not silence the survivor's story.","David's wives, concubines, and unnamed mothers lived within unequal royal household structures; their reproductive labor is not evidence of free consent.","Royal descent does not establish moral superiority, Divine immunity, or hereditary entitlement for modern rulers.","Jeconiah is named as captive, keeping imperial violence and exile within the family archive.","Shelomith is one of few postexilic daughters named; many women remain structurally omitted.","The final generations contain textual and chronological difficulties and require Hebrew, Greek, Syriac, and manuscript comparison."],"safety_note":"Do not turn Davidic genealogy into leader worship, Christian supersessionism, bloodline mysticism, hereditary monarchy, or erasure of Bathsheba and Tamar. Names in a royal line do not absolve abuse, murder, coercion, or imperial collaboration."}
+{
+  "book": "1 Chronicles",
+  "book_id": "1-chronicles",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Chronicles / Divrei Hayamim Aleph Davidic descendants from Hebron through postexilic generations, first-pass restored draft with public-domain scaffold; later witness audit required",
+    "review_note": "Reviewed for David's wives and children, Bathshua/Bathsheba naming, Tamar, concubines, royal succession, exile, Jeconiah's descendants, women named and unnamed, and chronological variants."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "These were sons of David born to him in Hebron: firstborn Amnon, by Ahinoam the Jezreelite; second Daniel/Chileab, by Abigail the Carmelite;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these were the sons of David, which were born unto him in Hebron; the firstborn Amnon, of Ahinoam the Jezreelitess; the second Daniel, of Abigail the Carmelitess:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "third Absalom son of Maacah daughter of Talmai king of Geshur; fourth Adonijah son of Haggith;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The third, Absalom the son of Maachah the daughter of Talmai king of Geshur: the fourth, Adonijah the son of Haggith:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "fifth Shephatiah by Abital; sixth Ithream by Eglah his wife.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fifth, Shephatiah of Abital: the sixth, Ithream by Eglah his wife."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Six were born to him in Hebron, where he reigned seven years and six months; in Jerusalem he reigned thirty-three years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These six were born unto him in Hebron; and there he reigned seven years and six months: and in Jerusalem he reigned thirty and three years."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "These were born to him in Jerusalem: Shimea, Shobab, Nathan, and Solomon—four by Bathshua/Bathsheba daughter of Ammiel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these were born unto him in Jerusalem; Shimea, and Shobab, and Nathan, and Solomon, four, of Bathshua the daughter of Ammiel:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Also Ibhar, Elishama, Eliphelet,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ibhar also, and Elishama, and Eliphelet,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Nogah, Nepheg, Japhia,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Nogah, and Nepheg, and Japhia,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Elishama, Eliada, and Eliphelet—nine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Elishama, and Eliada, and Eliphelet, nine."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "These were all sons of David, besides sons of concubines; Tamar was their sister.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were all the sons of David, beside the sons of the concubines, and Tamar their sister."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Solomon's son was Rehoboam; Abijah his son, Asa his son, Jehoshaphat his son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Solomon’s son was Rehoboam, Abia his son, Asa his son, Jehoshaphat his son,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Joram his son, Ahaziah his son, Joash his son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Joram his son, Ahaziah his son, Joash his son,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Amaziah his son, Azariah/Uzziah his son, Jotham his son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Amaziah his son, Azariah his son, Jotham his son,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Ahaz his son, Hezekiah his son, Manasseh his son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ahaz his son, Hezekiah his son, Manasseh his son,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Amon his son, Josiah his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Amon his son, Josiah his son."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Sons of Josiah: firstborn Johanan, second Jehoiakim, third Zedekiah, fourth Shallum/Jehoahaz.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Josiah were, the firstborn Johanan, the second Jehoiakim, the third Zedekiah, the fourth Shallum."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Sons/descendants of Jehoiakim: Jeconiah his son and Zedekiah his son/kinsman.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Jehoiakim: Jeconiah his son, Zedekiah his son."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Sons of Jeconiah the captive: Shealtiel his son,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Jeconiah; Assir, Salathiel his son,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Sons of Pedaiah: Zerubbabel and Shimei. Children of Zerubbabel: Meshullam, Hananiah, and Shelomith their sister;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Pedaiah were, Zerubbabel, and Shimei: and the sons of Zerubbabel; Meshullam, and Hananiah, and Shelomith their sister:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "also Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Hashubah, and Ohel, and Berechiah, and Hasadiah, Jushabhesed, five."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Descendants of Hananiah: Pelatiah and Jeshaiah; descendants of Rephaiah, Arnan, Obadiah, and Shecaniah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Hananiah; Pelatiah, and Jesaiah: the sons of Rephaiah, the sons of Arnan, the sons of Obadiah, the sons of Shechaniah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Descendants of Shecaniah: Shemaiah. Sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—six with their father/another textual count.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Shechaniah; Shemaiah: and the sons of Shemaiah; Hattush, and Igeal, and Bariah, and Neariah, and Shaphat, six."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Sons of Neariah: Elioenai, Hezekiah, and Azrikam—three.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Sons of Elioenai: Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Elioenai were, Hodaiah, and Eliashib, and Pelaiah, and Akkub, and Johanan, and Dalaiah, and Anani, seven."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 3:2-5",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Samuel 5:13-16",
+          "relationship": "chapter-parallel-or-related-passage"
+        },
+        {
+          "reference": "2 Kings 24-25",
+          "relationship": "chapter-parallel-or-related-passage"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The chapter compresses stories of violence, coercion, grief, and political rivalry into a succession list; Samuel and Kings must remain in view.",
+    "Bathshua is generally identified with Bathsheba. Her appearance as Solomon's mother must not erase David's sexual abuse of royal power or Uriah's command murder.",
+    "Tamar is named only as sister, but 2 Samuel 13 preserves her rape, protest, desolation, and abandonment. Genealogy may not silence the survivor's story.",
+    "David's wives, concubines, and unnamed mothers lived within unequal royal household structures; their reproductive labor is not evidence of free consent.",
+    "Royal descent does not establish moral superiority, Divine immunity, or hereditary entitlement for modern rulers.",
+    "Jeconiah is named as captive, keeping imperial violence and exile within the family archive.",
+    "Shelomith is one of few postexilic daughters named; many women remain structurally omitted.",
+    "The final generations contain textual and chronological difficulties and require Hebrew, Greek, Syriac, and manuscript comparison."
+  ],
+  "safety_note": "Do not turn Davidic genealogy into leader worship, Christian supersessionism, bloodline mysticism, hereditary monarchy, or erasure of Bathsheba and Tamar. Names in a royal line do not absolve abuse, murder, coercion, or imperial collaboration.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-24",
+    "tags": "partial-18-of-24",
+    "cross_references": "present-all-verses",
+    "editorial_flags": "partial-5-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}
