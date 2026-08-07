@@ -1,0 +1,92 @@
+name: Generate missing Oneness Scripture canon
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate-missing-canon.mjs"
+      - ".github/workflows/generate-missing-canon.yml"
+  workflow_dispatch:
+    inputs:
+      books:
+        description: "Comma-separated book ids; blank walks the remaining canon"
+        required: false
+        default: "2-chronicles"
+      max_chapters:
+        description: "Maximum new chapters this run"
+        required: false
+        default: "36"
+
+permissions:
+  contents: write
+  models: read
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      SCRIPTURE_MODEL: openai/gpt-4.1
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Resolve generation scope
+        id: scope
+        shell: bash
+        run: |
+          BOOKS="${{ github.event.inputs.books }}"
+          MAX="${{ github.event.inputs.max_chapters }}"
+          if [ -z "$BOOKS" ]; then BOOKS="2-chronicles"; fi
+          if [ -z "$MAX" ]; then MAX="36"; fi
+          echo "books=$BOOKS" >> "$GITHUB_OUTPUT"
+          echo "max=$MAX" >> "$GITHUB_OUTPUT"
+
+      - name: Generate missing restored and mystical chapters
+        run: node scripts/generate-missing-canon.mjs --books=${{ steps.scope.outputs.books }} --max-chapters=${{ steps.scope.outputs.max }}
+
+      - name: Rebuild library index
+        run: node scripts/build-library-index.mjs
+
+      - name: Validate generated JSON and verse alignment
+        shell: bash
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          const state = JSON.parse(fs.readFileSync('metadata/generation-state.json', 'utf8'));
+          console.log('Generated this run:', state.generatedThisRun, 'last:', state.lastChapter, 'quota stop:', state.stoppedForQuota);
+          const roots = fs.readdirSync('scripture', { withFileTypes: true }).filter(d => d.isDirectory()).map(d => d.name);
+          let checked = 0;
+          for (const id of roots) {
+            const dir = path.join('scripture', id);
+            for (const name of fs.readdirSync(dir).filter(n => new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
+              const restored = JSON.parse(fs.readFileSync(path.join(dir, name), 'utf8'));
+              if (!Array.isArray(restored.verses) || restored.verses.some((v, i) => Number(v.verse) !== i + 1 || !v.restored)) throw new Error(`Invalid restored alignment: ${id}/${name}`);
+              const ch = String(restored.chapter).padStart(3, '0');
+              const mysticalPath = path.join(dir, 'mystical', `${id}-${ch}-mystical.json`);
+              if (!fs.existsSync(mysticalPath)) continue;
+              const mystical = JSON.parse(fs.readFileSync(mysticalPath, 'utf8'));
+              if (!Array.isArray(mystical.verses) || mystical.verses.length !== restored.verses.length || mystical.verses.some((v, i) => Number(v.verse) !== i + 1 || !v.mystical_translation)) throw new Error(`Invalid mystical alignment: ${mysticalPath}`);
+              checked += 1;
+            }
+          }
+          console.log(`Validated ${checked} aligned restored/mystical chapter pairs.`);
+          NODE
+
+      - name: Commit generated canon batch
+        shell: bash
+        run: |
+          if git diff --quiet; then
+            echo "No generated changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripture metadata/library-index.json metadata/generation-state.json metadata/*-progress.json
+          GENERATED=$(node -e "console.log(JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')).generatedThisRun)")
+          LAST=$(node -e "console.log(JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')).lastChapter || 'none')")
+          git commit -m "Generate ${GENERATED} missing scripture chapters through ${LAST}"
+          git push
