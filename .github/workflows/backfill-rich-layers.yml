@@ -10,6 +10,7 @@ on:
       - "scripts/backfill-batch-3.mjs"
       - "scripts/backfill-batch-4.mjs"
       - "scripts/backfill-batch-5.mjs"
+      - "scripts/backfill-batch-6.mjs"
       - ".github/workflows/backfill-rich-layers.yml"
   workflow_dispatch:
 
@@ -23,9 +24,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Backfill 100 Greek scripture chapters
-        run: node scripts/backfill-batch-5.mjs
-      - name: Commit large backfill batch
+      - name: Backfill final 142 live scripture chapters
+        run: node scripts/backfill-batch-6.mjs
+      - name: Commit final live-corpus backfill batch
         run: |
           if git diff --quiet; then
             echo "No changes to commit"
@@ -33,6 +34,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add scripture/john scripture/acts scripture/romans scripture/1-corinthians scripture/2-corinthians scripture/galatians
-          git commit -m "Backfill rich layers across 100 Greek scripture chapters"
+          git add scripture/genesis scripture/ephesians scripture/philippians scripture/colossians scripture/1-thessalonians scripture/2-thessalonians scripture/1-timothy scripture/2-timothy scripture/titus scripture/philemon scripture/hebrews scripture/james scripture/1-peter scripture/2-peter scripture/1-john scripture/2-john scripture/3-john scripture/jude scripture/revelation
+          git commit -m "Backfill rich layers across final 142 live scripture chapters"
           git push
