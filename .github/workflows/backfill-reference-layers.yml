@@ -35,8 +35,13 @@ jobs:
       - name: Download current public-domain Berean Standard Bible USFM
         run: |
           mkdir -p /tmp/modern-usfm
-          curl -L --fail --retry 3 https://bereanbible.com/bsb_usfm.zip -o /tmp/bsb_usfm.zip
+          curl -L --fail --retry 3 https://ebible.org/Scriptures/engbsb_usfm.zip -o /tmp/bsb_usfm.zip
           unzip -q /tmp/bsb_usfm.zip -d /tmp/modern-usfm
+          # BSB USFM is distributed with .SFM filenames; normalize the extension for the importer.
+          find /tmp/modern-usfm -type f -iname '*.sfm' -print0 | while IFS= read -r -d '' file; do
+            mv "$file" "${file%.*}.usfm"
+          done
+          find /tmp/modern-usfm -type f -iname '*.usfm' | head
 
       - name: Prepare Open Scriptures Hebrew Bible in English versification
         run: |
@@ -107,9 +112,9 @@ jobs:
               doc.reference_layers ||= {};
               doc.reference_layers.modern = {
                 source: 'Berean Standard Bible',
-                edition: 'Current, updated to 3rd Printing',
+                edition: 'Current 3rd Printing; eBible source files dated June 2026',
                 license: 'Public Domain',
-                provenance: 'Official Berean Bible USFM download'
+                provenance: 'eBible.org engbsb USFM distribution from BSB Publishing, LLC'
               };
               if (doc.verses?.every(v => v.modern?.text)) doc.layer_status.modern_comparison = 'complete-BSB';
               fs.writeFileSync(p, JSON.stringify(doc,null,2)+'\n');
@@ -118,7 +123,7 @@ jobs:
           const reportPath = 'metadata/reference-layer-report.json';
           if (fs.existsSync(reportPath)) {
             const report = JSON.parse(fs.readFileSync(reportPath,'utf8'));
-            report.sources.modern = 'Berean Standard Bible, current 3rd Printing (Public Domain)';
+            report.sources.modern = 'Berean Standard Bible, current 3rd Printing (Public Domain; eBible June 2026 distribution)';
             fs.writeFileSync(reportPath, JSON.stringify(report,null,2)+'\n');
           }
           NODE
