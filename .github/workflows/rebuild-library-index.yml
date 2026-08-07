@@ -1,12 +1,6 @@
 name: Rebuild scripture library index
 
 on:
-  push:
-    branches: [main]
-    paths:
-      - "scripture/**"
-      - "metadata/*-progress.json"
-      - "scripts/build-library-index.mjs"
   workflow_dispatch:
 
 permissions:
