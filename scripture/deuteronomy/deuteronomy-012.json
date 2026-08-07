@@ -1,1 +1,766 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim centralized-worship, slaughter, blood, and anti-idolatry law, draft aligned later","review_note":"First-pass draft reviewed for destruction of local cult sites, the chosen place, household rejoicing, local slaughter, blood prohibition, Levite inclusion, vow/holy-gift centralization, land expansion, and child-sacrifice warning."},"verses":[{"verse":1,"restored":"These are statutes and judgments you shall keep to do in land YHWH Divine of your fathers gives you to possess, all days you live upon ground."},{"verse":2,"restored":"You shall surely destroy all places where nations whom you dispossess served their gods, upon high mountains, hills, and under every leafy tree."},{"verse":3,"restored":"You shall tear down their altars, smash their pillars, burn their Asherah poles with fire, cut down carved images of their gods, and destroy their name from that place."},{"verse":4,"restored":"You shall not do so to YHWH your Divine."},{"verse":5,"restored":"But to place YHWH your Divine chooses from all your tribes to put his name there, to his dwelling you shall seek, and there you shall come."},{"verse":6,"restored":"There you shall bring burnt offerings, sacrifices, tithes, contribution of your hand, vows, freewill offerings, and firstborn of herd and flock."},{"verse":7,"restored":"There you shall eat before YHWH your Divine and rejoice, you and your households, in all undertaking of your hand in which YHWH your Divine blessed you."},{"verse":8,"restored":"You shall not do according to all we do here today, each man whatever is right in his own eyes,"},{"verse":9,"restored":"for until now you have not come to rest and inheritance YHWH your Divine gives you."},{"verse":10,"restored":"When you cross Jordan and dwell in land YHWH your Divine causes you to inherit, and he gives rest from all enemies around and you dwell securely,"},{"verse":11,"restored":"then to place YHWH your Divine chooses to cause his name to dwell, there you shall bring all I command: burnt offerings, sacrifices, tithes, contribution of your hand, and all choice vows you vow to YHWH."},{"verse":12,"restored":"You shall rejoice before YHWH your Divine—you, your sons, daughters, male servants, female servants, and Levite within your gates, for he has no portion or inheritance with you."},{"verse":13,"restored":"Guard yourself lest you offer burnt offerings in every place you see."},{"verse":14,"restored":"Only in place YHWH chooses in one of your tribes, there you shall offer burnt offerings and there do all I command you."},{"verse":15,"restored":"Yet with all desire of your soul/life you may slaughter and eat meat within all your gates, according to blessing YHWH your Divine gives you; unclean and clean may eat it, like gazelle and deer."},{"verse":16,"restored":"Only blood you shall not eat; upon earth you shall pour it like water."},{"verse":17,"restored":"You may not eat within your gates tithe of grain, new wine, oil, firstborn of herd or flock, any vow you vow, freewill offering, or contribution of your hand."},{"verse":18,"restored":"But before YHWH your Divine you shall eat them in place YHWH your Divine chooses—you, your son, daughter, male servant, female servant, and Levite within your gates—and rejoice before YHWH your Divine in all undertaking of your hand."},{"verse":19,"restored":"Guard yourself lest you abandon Levite all your days upon your ground."},{"verse":20,"restored":"When YHWH your Divine enlarges your border as he spoke to you and you say, I will eat meat, because your soul/life desires to eat meat, according to all desire of your soul/life you may eat meat."},{"verse":21,"restored":"If place YHWH your Divine chooses to put his name there is far from you, you may slaughter from herd and flock YHWH gives you, as I commanded you, and eat within your gates according to all desire of your soul/life."},{"verse":22,"restored":"As gazelle and deer are eaten, so you may eat it; unclean and clean together may eat it."},{"verse":23,"restored":"Only be strong not to eat blood, for blood is soul/life; you shall not eat soul/life with flesh."},{"verse":24,"restored":"You shall not eat it; upon earth you shall pour it like water."},{"verse":25,"restored":"You shall not eat it, so it may be well with you and your children after you, when you do right in eyes of YHWH."},{"verse":26,"restored":"Only your holy things that are yours and your vows you shall carry and come to place YHWH chooses."},{"verse":27,"restored":"You shall make burnt offerings, flesh and blood, upon altar of YHWH your Divine; blood of your sacrifices shall be poured upon altar of YHWH your Divine, and flesh you shall eat."},{"verse":28,"restored":"Keep and listen to all these words I command you, so it may be well with you and your children after you forever, when you do good and right in eyes of YHWH your Divine."},{"verse":29,"restored":"When YHWH your Divine cuts off nations where you are entering to dispossess them, and you dispossess them and dwell in their land,"},{"verse":30,"restored":"guard yourself lest you are ensnared after them, after they are destroyed from before you, and lest you inquire concerning their gods, saying, How did these nations serve their gods? I also will do likewise."},{"verse":31,"restored":"You shall not do so to YHWH your Divine, for every abomination YHWH hates they did for their gods; even their sons and daughters they burned in fire to their gods."},{"verse":32,"restored":"All word I command you, it you shall keep to do; you shall not add to it or diminish from it."}],"translation_notes":["The chosen-place theology centralizes sacrificial worship and later becomes foundational for Jerusalem, though Jerusalem is not named in this chapter.","Commands to destroy altars, pillars, sacred trees, images, and names are ancient anti-idolatry law and must never authorize modern destruction of another community's sacred sites, art, or cultural memory.","Centralization is repeatedly paired with household rejoicing that includes daughters, servants, and Levites.","Local slaughter for ordinary meat is permitted when the sanctuary is distant; ritual status does not bar people from the meal.","Blood is treated as life and returned to earth rather than consumed.","The child-burning warning condemns sacrificial killing of children; it must not become xenophobic caricature of all neighboring religions.","Conquest framing and inhabiting others' land remain morally contested and cannot serve modern territorial claims."],"safety_note":"Do not use Deuteronomy 12 to justify iconoclasm, destruction of Indigenous or minority sacred places, forced religious centralization, colonial dispossession, or exclusion from communal food. Center shared rejoicing, care for Levites, reverence for life in blood, and rejection of child sacrifice."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim centralized-worship, slaughter, blood, and anti-idolatry law, draft aligned later",
+    "review_note": "First-pass draft reviewed for destruction of local cult sites, the chosen place, household rejoicing, local slaughter, blood prohibition, Levite inclusion, vow/holy-gift centralization, land expansion, and child-sacrifice warning."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "These are statutes and judgments you shall keep to do in land YHWH Divine of your fathers gives you to possess, all days you live upon ground.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are the statutes and judgments, which ye shall observe to do in the land, which the LORD God of thy fathers giveth thee to possess it, all the days that ye live upon the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "You shall surely destroy all places where nations whom you dispossess served their gods, upon high mountains, hills, and under every leafy tree.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall utterly destroy all the places, wherein the nations which ye shall possess served their gods, upon the high mountains, and upon the hills, and under every green tree:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "You shall tear down their altars, smash their pillars, burn their Asherah poles with fire, cut down carved images of their gods, and destroy their name from that place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall overthrow their altars, and break their pillars, and burn their groves with fire; and ye shall hew down the graven images of their gods, and destroy the names of them out of that place."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "You shall not do so to YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall not do so unto the LORD your God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But to place YHWH your Divine chooses from all your tribes to put his name there, to his dwelling you shall seek, and there you shall come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But unto the place which the LORD your God shall choose out of all your tribes to put his name there, even unto his habitation shall ye seek, and thither thou shalt come:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "There you shall bring burnt offerings, sacrifices, tithes, contribution of your hand, vows, freewill offerings, and firstborn of herd and flock.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thither ye shall bring your burnt offerings, and your sacrifices, and your tithes, and heave offerings of your hand, and your vows, and your freewill offerings, and the firstlings of your herds and of your flocks:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "There you shall eat before YHWH your Divine and rejoice, you and your households, in all undertaking of your hand in which YHWH your Divine blessed you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there ye shall eat before the LORD your God, and ye shall rejoice in all that ye put your hand unto, ye and your households, wherein the LORD thy God hath blessed thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "You shall not do according to all we do here today, each man whatever is right in his own eyes,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall not do after all the things that we do here this day, every man whatsoever is right in his own eyes."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "for until now you have not come to rest and inheritance YHWH your Divine gives you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye are not as yet come to the rest and to the inheritance, which the LORD your God giveth you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When you cross Jordan and dwell in land YHWH your Divine causes you to inherit, and he gives rest from all enemies around and you dwell securely,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when ye go over Jordan, and dwell in the land which the LORD your God giveth you to inherit, and when he giveth you rest from all your enemies round about, so that ye dwell in safety;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "then to place YHWH your Divine chooses to cause his name to dwell, there you shall bring all I command: burnt offerings, sacrifices, tithes, contribution of your hand, and all choice vows you vow to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then there shall be a place which the LORD your God shall choose to cause his name to dwell there; thither shall ye bring all that I command you; your burnt offerings, and your sacrifices, your tithes, and the heave offering of your hand, and all your choice vows which ye vow unto the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "You shall rejoice before YHWH your Divine—you, your sons, daughters, male servants, female servants, and Levite within your gates, for he has no portion or inheritance with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye shall rejoice before the LORD your God, ye, and your sons, and your daughters, and your menservants, and your maidservants, and the Levite that is within your gates; forasmuch as he hath no part nor inheritance with you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Guard yourself lest you offer burnt offerings in every place you see.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed to thyself that thou offer not thy burnt offerings in every place that thou seest:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Only in place YHWH chooses in one of your tribes, there you shall offer burnt offerings and there do all I command you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But in the place which the LORD shall choose in one of thy tribes, there thou shalt offer thy burnt offerings, and there thou shalt do all that I command thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Yet with all desire of your soul/life you may slaughter and eat meat within all your gates, according to blessing YHWH your Divine gives you; unclean and clean may eat it, like gazelle and deer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding thou mayest kill and eat flesh in all thy gates, whatsoever thy soul lusteth after, according to the blessing of the LORD thy God which he hath given thee: the unclean and the clean may eat thereof, as of the roebuck, and as of the hart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Only blood you shall not eat; upon earth you shall pour it like water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only ye shall not eat the blood; ye shall pour it upon the earth as water."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You may not eat within your gates tithe of grain, new wine, oil, firstborn of herd or flock, any vow you vow, freewill offering, or contribution of your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou mayest not eat within thy gates the tithe of thy corn, or of thy wine, or of thy oil, or the firstlings of thy herds or of thy flock, nor any of thy vows which thou vowest, nor thy freewill offerings, or heave offering of thine hand:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But before YHWH your Divine you shall eat them in place YHWH your Divine chooses—you, your son, daughter, male servant, female servant, and Levite within your gates—and rejoice before YHWH your Divine in all undertaking of your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou must eat them before the LORD thy God in the place which the LORD thy God shall choose, thou, and thy son, and thy daughter, and thy manservant, and thy maidservant, and the Levite that is within thy gates: and thou shalt rejoice before the LORD thy God in all that thou puttest thine hands unto."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Guard yourself lest you abandon Levite all your days upon your ground.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed to thyself that thou forsake not the Levite as long as thou livest upon the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "When YHWH your Divine enlarges your border as he spoke to you and you say, I will eat meat, because your soul/life desires to eat meat, according to all desire of your soul/life you may eat meat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the LORD thy God shall enlarge thy border, as he hath promised thee, and thou shalt say, I will eat flesh, because thy soul longeth to eat flesh; thou mayest eat flesh, whatsoever thy soul lusteth after."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "If place YHWH your Divine chooses to put his name there is far from you, you may slaughter from herd and flock YHWH gives you, as I commanded you, and eat within your gates according to all desire of your soul/life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If the place which the LORD thy God hath chosen to put his name there be too far from thee, then thou shalt kill of thy herd and of thy flock, which the LORD hath given thee, as I have commanded thee, and thou shalt eat in thy gates whatsoever thy soul lusteth after."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "As gazelle and deer are eaten, so you may eat it; unclean and clean together may eat it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even as the roebuck and the hart is eaten, so thou shalt eat them: the unclean and the clean shall eat of them alike."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Only be strong not to eat blood, for blood is soul/life; you shall not eat soul/life with flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only be sure that thou eat not the blood: for the blood is the life; and thou mayest not eat the life with the flesh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "You shall not eat it; upon earth you shall pour it like water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not eat it; thou shalt pour it upon the earth as water."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "You shall not eat it, so it may be well with you and your children after you, when you do right in eyes of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not eat it; that it may go well with thee, and with thy children after thee, when thou shalt do that which is right in the sight of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Only your holy things that are yours and your vows you shall carry and come to place YHWH chooses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only thy holy things which thou hast, and thy vows, thou shalt take, and go unto the place which the LORD shall choose:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "You shall make burnt offerings, flesh and blood, upon altar of YHWH your Divine; blood of your sacrifices shall be poured upon altar of YHWH your Divine, and flesh you shall eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt offer thy burnt offerings, the flesh and the blood, upon the altar of the LORD thy God: and the blood of thy sacrifices shall be poured out upon the altar of the LORD thy God, and thou shalt eat the flesh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Keep and listen to all these words I command you, so it may be well with you and your children after you forever, when you do good and right in eyes of YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Observe and hear all these words which I command thee, that it may go well with thee, and with thy children after thee for ever, when thou doest that which is good and right in the sight of the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "When YHWH your Divine cuts off nations where you are entering to dispossess them, and you dispossess them and dwell in their land,",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the LORD thy God shall cut off the nations from before thee, whither thou goest to possess them, and thou succeedest them, and dwellest in their land;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "guard yourself lest you are ensnared after them, after they are destroyed from before you, and lest you inquire concerning their gods, saying, How did these nations serve their gods? I also will do likewise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed to thyself that thou be not snared by following them, after that they be destroyed from before thee; and that thou enquire not after their gods, saying, How did these nations serve their gods? even so will I do likewise."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "You shall not do so to YHWH your Divine, for every abomination YHWH hates they did for their gods; even their sons and daughters they burned in fire to their gods.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not do so unto the LORD thy God: for every abomination to the LORD, which he hateth, have they done unto their gods; for even their sons and their daughters they have burnt in the fire to their gods."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "All word I command you, it you shall keep to do; you shall not add to it or diminish from it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What thing soever I command you, observe to do it: thou shalt not add thereto, nor diminish from it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The chosen-place theology centralizes sacrificial worship and later becomes foundational for Jerusalem, though Jerusalem is not named in this chapter.",
+    "Commands to destroy altars, pillars, sacred trees, images, and names are ancient anti-idolatry law and must never authorize modern destruction of another community's sacred sites, art, or cultural memory.",
+    "Centralization is repeatedly paired with household rejoicing that includes daughters, servants, and Levites.",
+    "Local slaughter for ordinary meat is permitted when the sanctuary is distant; ritual status does not bar people from the meal.",
+    "Blood is treated as life and returned to earth rather than consumed.",
+    "The child-burning warning condemns sacrificial killing of children; it must not become xenophobic caricature of all neighboring religions.",
+    "Conquest framing and inhabiting others' land remain morally contested and cannot serve modern territorial claims."
+  ],
+  "safety_note": "Do not use Deuteronomy 12 to justify iconoclasm, destruction of Indigenous or minority sacred places, forced religious centralization, colonial dispossession, or exclusion from communal food. Center shared rejoicing, care for Levites, reverence for life in blood, and rejection of child sacrifice.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-23-of-32",
+    "tags": "partial-12-of-32",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

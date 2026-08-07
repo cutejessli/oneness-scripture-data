@@ -1,1 +1,189 @@
-{"book":"Joshua","book_id":"joshua","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Joshua / Yehoshua cities-of-refuge implementation narrative, draft aligned later","review_note":"First-pass draft reviewed for Deuteronomy/Numbers refuge command, unintentional killing, blood-avenger restraint, gate hearing, trial before congregation, high-priest death marker, six named refuge cities, and equal access for Israelite, sojourner, and resident alien."},"verses":[{"verse":1,"restored":"YHWH spoke to Joshua, saying,"},{"verse":2,"restored":"Speak to children of Israel, saying, Give for yourselves cities of refuge of which I spoke to you by hand of Moses,"},{"verse":3,"restored":"so a manslayer who strikes a soul/life by mistake, without knowledge, may flee there; they shall be for you refuge from blood-avenger."},{"verse":4,"restored":"He shall flee to one of these cities, stand at entrance of gate of city, and speak his words in ears of elders of that city; they shall gather him into city to them and give him a place, and he shall dwell with them."},{"verse":5,"restored":"If blood-avenger pursues after him, they shall not deliver manslayer into his hand, because he struck his neighbor without knowledge and did not hate him in time past."},{"verse":6,"restored":"He shall dwell in that city until he stands before congregation for judgment, until death of high priest who is in those days. Then manslayer shall return and come to his own city and to his house, to city from which he fled."},{"verse":7,"restored":"They set apart Kedesh in Galilee in hill country of Naphtali, Shechem in hill country of Ephraim, and Kiriath-arba, that is Hebron, in hill country of Judah."},{"verse":8,"restored":"Across Jordan by Jericho eastward they gave Bezer in wilderness on plateau from tribe of Reuben, Ramoth in Gilead from tribe of Gad, and Golan in Bashan from tribe of Manasseh."},{"verse":9,"restored":"These were cities appointed for all children of Israel and for sojourner and resident alien among them, so anyone striking a soul/life by mistake might flee there and not die by hand of blood-avenger until he stands before congregation."}],"translation_notes":["Joshua 20 implements refuge legislation anticipated in Exodus, Numbers, and Deuteronomy, with emphasis on unintentional killing and protection from immediate revenge.","Refuge begins at the city gate with a preliminary hearing before elders, not with vigilante capture.","The city must receive the fugitive, give him a place, and not hand him over to the blood-avenger when the killing was without knowledge and without prior hatred.","The blood-avenger institution is restrained by asylum and trial but remains an ancient kinship-vengeance system, not a modern justice model.","The killer remains in refuge until trial and, in this version, until the high priest's death; that marker requires comparison with Numbers 35 and later interpretation.","The six cities cover west and east of Jordan and include access for Israelite, sojourner, and resident alien alike.","This refuge structure protects accused people without declaring every killing harmless; intent and due process matter."],"safety_note":"Do not use Joshua 20 to justify private vengeance, sanctuary for intentional murder, indefinite detention without process, or unequal access to asylum. Center reachable refuge, gate hearing, protection from hot retaliation, intent analysis, and equal access for citizens and immigrants."}
+{
+  "book": "Joshua",
+  "book_id": "joshua",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Joshua / Yehoshua cities-of-refuge implementation narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Deuteronomy/Numbers refuge command, unintentional killing, blood-avenger restraint, gate hearing, trial before congregation, high-priest death marker, six named refuge cities, and equal access for Israelite, sojourner, and resident alien."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Joshua, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD also spake unto Joshua, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Speak to children of Israel, saying, Give for yourselves cities of refuge of which I spoke to you by hand of Moses,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "so a manslayer who strikes a soul/life by mistake, without knowledge, may flee there; they shall be for you refuge from blood-avenger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He shall flee to one of these cities, stand at entrance of gate of city, and speak his words in ears of elders of that city; they shall gather him into city to them and give him a place, and he shall dwell with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "If blood-avenger pursues after him, they shall not deliver manslayer into his hand, because he struck his neighbor without knowledge and did not hate him in time past.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He shall dwell in that city until he stands before congregation for judgment, until death of high priest who is in those days. Then manslayer shall return and come to his own city and to his house, to city from which he fled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "They set apart Kedesh in Galilee in hill country of Naphtali, Shechem in hill country of Ephraim, and Kiriath-arba, that is Hebron, in hill country of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Across Jordan by Jericho eastward they gave Bezer in wilderness on plateau from tribe of Reuben, Ramoth in Gilead from tribe of Gad, and Golan in Bashan from tribe of Manasseh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "These were cities appointed for all children of Israel and for sojourner and resident alien among them, so anyone striking a soul/life by mistake might flee there and not die by hand of blood-avenger until he stands before congregation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity",
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Joshua 20 implements refuge legislation anticipated in Exodus, Numbers, and Deuteronomy, with emphasis on unintentional killing and protection from immediate revenge.",
+    "Refuge begins at the city gate with a preliminary hearing before elders, not with vigilante capture.",
+    "The city must receive the fugitive, give him a place, and not hand him over to the blood-avenger when the killing was without knowledge and without prior hatred.",
+    "The blood-avenger institution is restrained by asylum and trial but remains an ancient kinship-vengeance system, not a modern justice model.",
+    "The killer remains in refuge until trial and, in this version, until the high priest's death; that marker requires comparison with Numbers 35 and later interpretation.",
+    "The six cities cover west and east of Jordan and include access for Israelite, sojourner, and resident alien alike.",
+    "This refuge structure protects accused people without declaring every killing harmless; intent and due process matter."
+  ],
+  "safety_note": "Do not use Joshua 20 to justify private vengeance, sanctuary for intentional murder, indefinite detention without process, or unequal access to asylum. Center reachable refuge, gate hearing, protection from hot retaliation, intent analysis, and equal access for citizens and immigrants.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-9",
+    "tags": "partial-4-of-9",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-9",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

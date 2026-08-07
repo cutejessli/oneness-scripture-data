@@ -1,1 +1,408 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":21,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel chapter 21, first-pass restored draft","review_note":"Reviewed for Nob sanctuary, David's deceptive mission claim, holy bread and purity, Doeg's presence and ethnicity, Goliath's sword, flight to Gath, fear, feigned altered behavior, saliva imagery, and mental-health/disability stigma."},"verses":[{"verse":1,"restored":"David came to Nob, to Ahimelech the priest. Ahimelech trembled to meet David and said to him, Why are you alone and no one with you?"},{"verse":2,"restored":"David said to Ahimelech the priest, King commanded me a matter and said to me, Let no one know anything of matter for which I send you and which I commanded you. I have appointed young men to a certain place."},{"verse":3,"restored":"Now what is under your hand? Give into my hand five loaves of bread, or whatever is found."},{"verse":4,"restored":"Priest answered David and said, There is no ordinary bread under my hand, but there is holy bread, if young men have kept themselves from women."},{"verse":5,"restored":"David answered priest and said, Indeed women have been withheld from us as yesterday and third day when I went out. Vessels/bodies of young men are holy, though journey is ordinary; how much more today shall it be holy in vessel."},{"verse":6,"restored":"Priest gave him holy bread, because no bread was there except bread of Presence, removed from before YHWH to place hot bread on day it was taken."},{"verse":7,"restored":"A man from servants of Saul was there that day, detained before YHWH. His name was Doeg the Edomite, chief of shepherds belonging to Saul."},{"verse":8,"restored":"David said to Ahimelech, Is there not here under your hand spear or sword? For neither my sword nor my weapons did I take in my hand, because matter of king was urgent."},{"verse":9,"restored":"Priest said, Sword of Goliath the Philistine whom you struck in valley of Elah—look, it is wrapped in garment behind ephod. If you will take it for yourself, take it, for there is no other except it here. David said, There is none like it; give it to me."},{"verse":10,"restored":"David arose and fled that day from before Saul and came to Achish king of Gath."},{"verse":11,"restored":"Servants of Achish said to him, Is not this David king of land? Did they not answer about him in dances, saying, Saul struck his thousands and David his ten-thousands?"},{"verse":12,"restored":"David set these words in his heart and was very afraid before Achish king of Gath."},{"verse":13,"restored":"He changed his reason/behavior in their eyes, acted as one out of his senses in their hand, scratched marks on doors of gate, and let saliva run down upon his beard."},{"verse":14,"restored":"Achish said to his servants, Look, you see a man behaving madly. Why do you bring him to me?"},{"verse":15,"restored":"Do I lack madmen, that you brought this one to behave madly before me? Shall this one come into my house?"}],"translation_notes":["David deceives Ahimelech about a royal mission. The deception occurs under flight and fear but exposes the priestly community to lethal risk; survival context does not erase consequences.","The holy-bread discussion reflects ancient ritual purity and male military assumptions. It may not be used to shame sexuality, women, menstruation, bodies, or consensual relationships.","Ahimelech feeds a person in danger from restricted sacred food. Human need and hospitality stand within, not outside, holiness.","Doeg is identified as Edomite, but ethnicity does not explain his later violence. 'Edomite' must not become an ethnic slur or inherited moral category.","Goliath's sword becomes a survival weapon and a traumatic trophy. Sacred spaces should not normalize stockpiling weapons or turning past killing into devotional memory.","David flees to Gath, home region of Goliath. Refugees may cross enemy lines and use imperfect strategies to survive.","The phrase commonly rendered 'pretended madness' describes deliberately altered behavior. It must not mock psychosis, cognitive disability, neurodivergence, trauma responses, homelessness, or people who drool.","Achish's contemptuous words reflect stigma in the story; they are not Divine speech or ethical instruction.","David's fear is explicitly named. Fear does not cancel courage, faith, or human dignity.","Psalm superscriptions later connect this episode to prayer traditions, but those associations should not erase the chapter's deception, stigma, and danger."],"safety_note":"Do not use this chapter to shame mental illness, disability, drooling, altered behavior, ritual bodies, women, sexuality, refugees, or people who lie under coercive danger. David's survival strategy is not a comedy routine about 'crazy people.' Ahimelech's hospitality does not make him responsible for Saul's later massacre, and Doeg's ethnicity does not explain his choices."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 21,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel chapter 21, first-pass restored draft",
+    "review_note": "Reviewed for Nob sanctuary, David's deceptive mission claim, holy bread and purity, Doeg's presence and ethnicity, Goliath's sword, flight to Gath, fear, feigned altered behavior, saliva imagery, and mental-health/disability stigma."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "David came to Nob, to Ahimelech the priest. Ahimelech trembled to meet David and said to him, Why are you alone and no one with you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then came David to Nob to Ahimelech the priest: and Ahimelech was afraid at the meeting of David, and said unto him, Why art thou alone, and no man with thee?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "David said to Ahimelech the priest, King commanded me a matter and said to me, Let no one know anything of matter for which I send you and which I commanded you. I have appointed young men to a certain place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said unto Ahimelech the priest, The king hath commanded me a business, and hath said unto me, Let no man know any thing of the business whereabout I send thee, and what I have commanded thee: and I have appointed my servants to such and such a place."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Now what is under your hand? Give into my hand five loaves of bread, or whatever is found.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore what is under thine hand? give me five loaves of bread in mine hand, or what there is present."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Priest answered David and said, There is no ordinary bread under my hand, but there is holy bread, if young men have kept themselves from women.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "David answered priest and said, Indeed women have been withheld from us as yesterday and third day when I went out. Vessels/bodies of young men are holy, though journey is ordinary; how much more today shall it be holy in vessel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Priest gave him holy bread, because no bread was there except bread of Presence, removed from before YHWH to place hot bread on day it was taken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the priest gave him hallowed bread: for there was no bread there but the shewbread, that was taken from before the LORD, to put hot bread in the day when it was taken away."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "A man from servants of Saul was there that day, detained before YHWH. His name was Doeg the Edomite, chief of shepherds belonging to Saul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now a certain man of the servants of Saul was there that day, detained before the LORD; and his name was Doeg, an Edomite, the chiefest of the herdmen that belonged to Saul."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "David said to Ahimelech, Is there not here under your hand spear or sword? For neither my sword nor my weapons did I take in my hand, because matter of king was urgent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said unto Ahimelech, And is there not here under thine hand spear or sword? for I have neither brought my sword nor my weapons with me, because the king’s business required haste."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Priest said, Sword of Goliath the Philistine whom you struck in valley of Elah—look, it is wrapped in garment behind ephod. If you will take it for yourself, take it, for there is no other except it here. David said, There is none like it; give it to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest said, The sword of Goliath the Philistine, whom thou slewest in the valley of Elah, behold, it is here wrapped in a cloth behind the ephod: if thou wilt take that, take it: for there is no other save that here. And David said, There is none like that; give it me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "David arose and fled that day from before Saul and came to Achish king of Gath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David arose, and fled that day for fear of Saul, and went to Achish the king of Gath."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Servants of Achish said to him, Is not this David king of land? Did they not answer about him in dances, saying, Saul struck his thousands and David his ten-thousands?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "David set these words in his heart and was very afraid before Achish king of Gath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David laid up these words in his heart, and was sore afraid of Achish the king of Gath."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "He changed his reason/behavior in their eyes, acted as one out of his senses in their hand, scratched marks on doors of gate, and let saliva run down upon his beard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he changed his behaviour before them, and feigned himself mad in their hands, and scrabbled on the doors of the gate, and let his spittle fall down upon his beard."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Achish said to his servants, Look, you see a man behaving madly. Why do you bring him to me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Achish unto his servants, Lo, ye see the man is mad: wherefore then have ye brought him to me?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Do I lack madmen, that you brought this one to behave madly before me? Shall this one come into my house?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have I need of mad men, that ye have brought this fellow to play the mad man in my presence? shall this fellow come into my house?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "David deceives Ahimelech about a royal mission. The deception occurs under flight and fear but exposes the priestly community to lethal risk; survival context does not erase consequences.",
+    "The holy-bread discussion reflects ancient ritual purity and male military assumptions. It may not be used to shame sexuality, women, menstruation, bodies, or consensual relationships.",
+    "Ahimelech feeds a person in danger from restricted sacred food. Human need and hospitality stand within, not outside, holiness.",
+    "Doeg is identified as Edomite, but ethnicity does not explain his later violence. 'Edomite' must not become an ethnic slur or inherited moral category.",
+    "Goliath's sword becomes a survival weapon and a traumatic trophy. Sacred spaces should not normalize stockpiling weapons or turning past killing into devotional memory.",
+    "David flees to Gath, home region of Goliath. Refugees may cross enemy lines and use imperfect strategies to survive.",
+    "The phrase commonly rendered 'pretended madness' describes deliberately altered behavior. It must not mock psychosis, cognitive disability, neurodivergence, trauma responses, homelessness, or people who drool.",
+    "Achish's contemptuous words reflect stigma in the story; they are not Divine speech or ethical instruction.",
+    "David's fear is explicitly named. Fear does not cancel courage, faith, or human dignity.",
+    "Psalm superscriptions later connect this episode to prayer traditions, but those associations should not erase the chapter's deception, stigma, and danger."
+  ],
+  "safety_note": "Do not use this chapter to shame mental illness, disability, drooling, altered behavior, ritual bodies, women, sexuality, refugees, or people who lie under coercive danger. David's survival strategy is not a comedy routine about 'crazy people.' Ahimelech's hospitality does not make him responsible for Saul's later massacre, and Doeg's ethnicity does not explain his choices.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-11-of-15",
+    "tags": "partial-13-of-15",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-15",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

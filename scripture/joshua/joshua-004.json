@@ -1,1 +1,631 @@
-{"book":"Joshua","book_id":"joshua","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Joshua / Yehoshua twelve-stone memorial and Jordan-exit narrative, draft aligned later","review_note":"First-pass draft reviewed for twelve tribal stones, child-question catechesis, priestly exit, armed Transjordan contingent, Joshua's elevation, Gilgal memorial, Exodus comparison, and public-sign theology."},"verses":[{"verse":1,"restored":"It was, when all nation finished crossing Jordan, that YHWH spoke to Joshua, saying,"},{"verse":2,"restored":"Take for yourselves twelve men from people, one man from each tribe,"},{"verse":3,"restored":"and command them, saying, Lift up for yourselves from here, from midst of Jordan, from standing place of priests' feet, twelve stones; carry them across with you and set them down in lodging place where you lodge tonight."},{"verse":4,"restored":"Joshua called twelve men whom he appointed from children of Israel, one man from each tribe."},{"verse":5,"restored":"Joshua said to them, Cross before ark of YHWH your Divine into midst of Jordan, and lift up each man one stone upon his shoulder, according to number of tribes of children of Israel,"},{"verse":6,"restored":"so this may be a sign in your midst. When your children ask tomorrow, saying, What are these stones to you?"},{"verse":7,"restored":"then you shall say to them, Waters of Jordan were cut off before ark of covenant of YHWH; when it crossed Jordan, waters of Jordan were cut off. These stones shall be as memorial for children of Israel forever."},{"verse":8,"restored":"Children of Israel did so as Joshua commanded; they lifted twelve stones from midst of Jordan, as YHWH spoke to Joshua, according to number of tribes of children of Israel, carried them across to lodging place, and set them down there."},{"verse":9,"restored":"Joshua raised twelve stones in midst of Jordan, under standing place of feet of priests carrying ark of covenant, and they are there to this day."},{"verse":10,"restored":"Priests carrying ark stood in midst of Jordan until every word was completed that YHWH commanded Joshua to speak to people, according to all Moses commanded Joshua; and people hurried and crossed."},{"verse":11,"restored":"It was, when all people finished crossing, that ark of YHWH and priests crossed before people."},{"verse":12,"restored":"Sons of Reuben, sons of Gad, and half tribe of Manasseh crossed armed before children of Israel, as Moses spoke to them."},{"verse":13,"restored":"About forty thousand equipped for host crossed before YHWH for battle to plains of Jericho."},{"verse":14,"restored":"On that day YHWH made Joshua great in eyes of all Israel, and they feared/revered him as they feared/revered Moses all days of his life."},{"verse":15,"restored":"YHWH spoke to Joshua, saying,"},{"verse":16,"restored":"Command priests carrying ark of testimony that they come up from Jordan."},{"verse":17,"restored":"Joshua commanded priests, saying, Come up from Jordan."},{"verse":18,"restored":"It was, when priests carrying ark of covenant of YHWH came up from midst of Jordan and soles of priests' feet were drawn onto dry ground, that waters of Jordan returned to their place and went over all its banks as before."},{"verse":19,"restored":"People came up from Jordan on tenth day of first month and camped at Gilgal on eastern edge of Jericho."},{"verse":20,"restored":"Those twelve stones they took from Jordan Joshua raised at Gilgal."},{"verse":21,"restored":"He spoke to children of Israel, saying, When your children ask their fathers tomorrow, saying, What are these stones?"},{"verse":22,"restored":"you shall make your children know, saying, On dry ground Israel crossed this Jordan."},{"verse":23,"restored":"For YHWH your Divine dried waters of Jordan before you until you crossed, as YHWH your Divine did to Sea of Reeds, which he dried before us until we crossed,"},{"verse":24,"restored":"so all peoples of earth may know hand of YHWH, that it is strong, and so you may fear/revere YHWH your Divine all days."}],"translation_notes":["The memorial is deliberately intergenerational: stones exist to provoke children's questions rather than to silence them.","Two sets of twelve stones may be implied—one carried to Gilgal and one set in the river—though textual and archaeological interpretation remains debated.","The priests remain in the river until all people and all commanded actions are complete, preserving the theme that sacred responsibility stays with the vulnerable crossing.","The armed Transjordan contingent and forty-thousand figure belong to conquest mobilization and require numerical/textual audit.","Joshua's elevation and the people's fear/reverence mirror Moses, but public legitimacy must not become personality worship.","The Jordan crossing is compared to the Sea of Reeds, extending Exodus memory into conquest. Liberation memory must not be used to sanctify another people's dispossession.","Public memorials are ethically responsible only when they tell the truth about both the community's survival and the people endangered by its triumph."],"safety_note":"Do not use Joshua 4 to build nationalist monuments that erase victims, glorify military conquest, or turn reverence for leaders into unquestioning obedience. Center children's questions, truthful public memory, shared tribal witness, and sacred presence that remains until everyone crosses."}
+{
+  "book": "Joshua",
+  "book_id": "joshua",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Joshua / Yehoshua twelve-stone memorial and Jordan-exit narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for twelve tribal stones, child-question catechesis, priestly exit, armed Transjordan contingent, Joshua's elevation, Gilgal memorial, Exodus comparison, and public-sign theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "It was, when all nation finished crossing Jordan, that YHWH spoke to Joshua, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when all the people were clean passed over Jordan, that the LORD spake unto Joshua, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Take for yourselves twelve men from people, one man from each tribe,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take you twelve men out of the people, out of every tribe a man,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "and command them, saying, Lift up for yourselves from here, from midst of Jordan, from standing place of priests' feet, twelve stones; carry them across with you and set them down in lodging place where you lodge tonight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And command ye them, saying, Take you hence out of the midst of Jordan, out of the place where the priests’ feet stood firm, twelve stones, and ye shall carry them over with you, and leave them in the lodging place, where ye shall lodge this night."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Joshua called twelve men whom he appointed from children of Israel, one man from each tribe.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Joshua called the twelve men, whom he had prepared of the children of Israel, out of every tribe a man:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Joshua said to them, Cross before ark of YHWH your Divine into midst of Jordan, and lift up each man one stone upon his shoulder, according to number of tribes of children of Israel,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joshua said unto them, Pass over before the ark of the LORD your God into the midst of Jordan, and take you up every man of you a stone upon his shoulder, according unto the number of the tribes of the children of Israel:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "so this may be a sign in your midst. When your children ask tomorrow, saying, What are these stones to you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "That this may be a sign among you, that when your children ask their fathers in time to come, saying, What mean ye by these stones?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "then you shall say to them, Waters of Jordan were cut off before ark of covenant of YHWH; when it crossed Jordan, waters of Jordan were cut off. These stones shall be as memorial for children of Israel forever.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then ye shall answer them, That the waters of Jordan were cut off before the ark of the covenant of the LORD; when it passed over Jordan, the waters of Jordan were cut off: and these stones shall be for a memorial unto the children of Israel for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Children of Israel did so as Joshua commanded; they lifted twelve stones from midst of Jordan, as YHWH spoke to Joshua, according to number of tribes of children of Israel, carried them across to lodging place, and set them down there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel did so as Joshua commanded, and took up twelve stones out of the midst of Jordan, as the LORD spake unto Joshua, according to the number of the tribes of the children of Israel, and carried them over with them unto the place where they lodged, and laid them down there."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Joshua raised twelve stones in midst of Jordan, under standing place of feet of priests carrying ark of covenant, and they are there to this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joshua set up twelve stones in the midst of Jordan, in the place where the feet of the priests which bare the ark of the covenant stood: and they are there unto this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Priests carrying ark stood in midst of Jordan until every word was completed that YHWH commanded Joshua to speak to people, according to all Moses commanded Joshua; and people hurried and crossed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the priests which bare the ark stood in the midst of Jordan, until everything was finished that the LORD commanded Joshua to speak unto the people, according to all that Moses commanded Joshua: and the people hasted and passed over."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "It was, when all people finished crossing, that ark of YHWH and priests crossed before people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when all the people were clean passed over, that the ark of the LORD passed over, and the priests, in the presence of the people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Sons of Reuben, sons of Gad, and half tribe of Manasseh crossed armed before children of Israel, as Moses spoke to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Reuben, and the children of Gad, and half the tribe of Manasseh, passed over armed before the children of Israel, as Moses spake unto them:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "About forty thousand equipped for host crossed before YHWH for battle to plains of Jericho.",
+      "familiar": {
+        "source": "KJV",
+        "text": "About forty thousand prepared for war passed over before the LORD unto battle, to the plains of Jericho."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "On that day YHWH made Joshua great in eyes of all Israel, and they feared/revered him as they feared/revered Moses all days of his life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "On that day the LORD magnified Joshua in the sight of all Israel; and they feared him, as they feared Moses, all the days of his life."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "YHWH spoke to Joshua, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Joshua, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Command priests carrying ark of testimony that they come up from Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Command the priests that bear the ark of the testimony, that they come up out of Jordan."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Joshua commanded priests, saying, Come up from Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Joshua therefore commanded the priests, saying, Come ye up out of Jordan."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "It was, when priests carrying ark of covenant of YHWH came up from midst of Jordan and soles of priests' feet were drawn onto dry ground, that waters of Jordan returned to their place and went over all its banks as before.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when the priests that bare the ark of the covenant of the LORD were come up out of the midst of Jordan, and the soles of the priests’ feet were lifted up unto the dry land, that the waters of Jordan returned unto their place, and flowed over all his banks, as they did before."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "People came up from Jordan on tenth day of first month and camped at Gilgal on eastern edge of Jericho.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people came up out of Jordan on the tenth day of the first month, and encamped in Gilgal, in the east border of Jericho."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Those twelve stones they took from Jordan Joshua raised at Gilgal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And those twelve stones, which they took out of Jordan, did Joshua pitch in Gilgal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He spoke to children of Israel, saying, When your children ask their fathers tomorrow, saying, What are these stones?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake unto the children of Israel, saying, When your children shall ask their fathers in time to come, saying, What mean these stones?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "you shall make your children know, saying, On dry ground Israel crossed this Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then ye shall let your children know, saying, Israel came over this Jordan on dry land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "For YHWH your Divine dried waters of Jordan before you until you crossed, as YHWH your Divine did to Sea of Reeds, which he dried before us until we crossed,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD your God dried up the waters of Jordan from before you, until ye were passed over, as the LORD your God did to the Red sea, which he dried up from before us, until we were gone over:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "so all peoples of earth may know hand of YHWH, that it is strong, and so you may fear/revere YHWH your Divine all days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That all the people of the earth might know the hand of the LORD, that it is mighty: that ye might fear the LORD your God for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The memorial is deliberately intergenerational: stones exist to provoke children's questions rather than to silence them.",
+    "Two sets of twelve stones may be implied—one carried to Gilgal and one set in the river—though textual and archaeological interpretation remains debated.",
+    "The priests remain in the river until all people and all commanded actions are complete, preserving the theme that sacred responsibility stays with the vulnerable crossing.",
+    "The armed Transjordan contingent and forty-thousand figure belong to conquest mobilization and require numerical/textual audit.",
+    "Joshua's elevation and the people's fear/reverence mirror Moses, but public legitimacy must not become personality worship.",
+    "The Jordan crossing is compared to the Sea of Reeds, extending Exodus memory into conquest. Liberation memory must not be used to sanctify another people's dispossession.",
+    "Public memorials are ethically responsible only when they tell the truth about both the community's survival and the people endangered by its triumph."
+  ],
+  "safety_note": "Do not use Joshua 4 to build nationalist monuments that erase victims, glorify military conquest, or turn reverence for leaders into unquestioning obedience. Center children's questions, truthful public memory, shared tribal witness, and sacred presence that remains until everyone crosses.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-16-of-24",
+    "tags": "partial-16-of-24",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

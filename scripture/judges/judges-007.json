@@ -1,1 +1,471 @@
-{"book":"Judges","book_id":"judges","chapter":7,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Judges / Shoftim Gideon's reduced army and Midianite defeat narrative, draft aligned later","review_note":"First-pass draft reviewed for Jerubbaal/Gideon naming, fear-based troop release, water-lapping selection, dream and interpretation, jars/torches/trumpets, panic in Midianite camp, intertribal summons, Jordan fords, and Oreb/Zeeb execution."},"verses":[{"verse":1,"restored":"Jerubbaal, that is Gideon, and all people with him rose early and camped by spring of Harod; camp of Midian was north of him, from hill of Moreh in valley."},{"verse":2,"restored":"YHWH said to Gideon, People with you are too many for me to give Midian into their hand, lest Israel boast over me, saying, My hand saved me."},{"verse":3,"restored":"Now call in ears of people, saying, Whoever is fearful and trembling, let him return and depart from Mount Gilead. Twenty-two thousand from people returned, and ten thousand remained."},{"verse":4,"restored":"YHWH said to Gideon, Still people are too many; bring them down to water, and I will refine them for you there. It shall be, of whom I say to you, This one shall go with you, he shall go; and of whom I say to you, This one shall not go with you, he shall not go."},{"verse":5,"restored":"He brought people down to water, and YHWH said to Gideon, Everyone who laps water with his tongue as dog laps, set him apart, and everyone who bows on knees to drink."},{"verse":6,"restored":"Number of those lapping with hand to mouth was three hundred men; all rest of people bowed on knees to drink water."},{"verse":7,"restored":"YHWH said to Gideon, By three hundred men who lapped I will save you and give Midian into your hand; let all people go, each man to his place."},{"verse":8,"restored":"They took provisions of people in their hand and their trumpets; every man of Israel he sent away to his tents, but three hundred men he strengthened/held. Camp of Midian was beneath him in valley."},{"verse":9,"restored":"It was that night YHWH said to him, Rise, go down against camp, for I have given it into your hand."},{"verse":10,"restored":"But if you fear to go down, go down, you and Purah your servant, to camp."},{"verse":11,"restored":"You shall hear what they speak, and afterward your hands will be strengthened to go down against camp. He went down with Purah his servant to edge of armed men in camp."},{"verse":12,"restored":"Midian, Amalek, and all sons of east were lying in valley like locusts for multitude, and their camels were without number, as sand on shore of sea for multitude."},{"verse":13,"restored":"Gideon came, and look, a man was recounting dream to his companion. He said, Look, I dreamed a dream, and look, a loaf of barley bread was tumbling into camp of Midian; it came to tent, struck it, and it fell, turned it upward, and tent fell."},{"verse":14,"restored":"His companion answered and said, This is nothing except sword of Gideon son of Joash, man of Israel. Divine has given Midian and all camp into his hand."},{"verse":15,"restored":"It was, when Gideon heard recounting of dream and its interpretation, that he bowed down. He returned to camp of Israel and said, Rise, for YHWH has given camp of Midian into your hand."},{"verse":16,"restored":"He divided three hundred men into three companies, and gave trumpets in hand of all of them, and empty jars, with torches inside jars."},{"verse":17,"restored":"He said to them, Look at me and do likewise; and look, when I come to edge of camp, as I do, so you shall do."},{"verse":18,"restored":"When I blow trumpet, I and all who are with me, then you shall blow trumpets also around all camp and say, For YHWH and for Gideon!"},{"verse":19,"restored":"Gideon came, and hundred men with him, to edge of camp at beginning of middle watch, when they had just set watch. They blew trumpets and shattered jars that were in their hands."},{"verse":20,"restored":"Three companies blew trumpets and broke jars; they held torches in left hands and trumpets in right hands to blow, and cried, Sword for YHWH and for Gideon!"},{"verse":21,"restored":"They stood each man in his place around camp, and all camp ran, shouted, and fled."},{"verse":22,"restored":"Three hundred blew trumpets, and YHWH set sword of each man against his companion and against all camp; camp fled as far as Beth-shittah toward Zererah, as far as edge of Abel-meholah by Tabbath."},{"verse":23,"restored":"Men of Israel were called out from Naphtali, Asher, and all Manasseh, and they pursued after Midian."},{"verse":24,"restored":"Gideon sent messengers through all hill country of Ephraim, saying, Come down against Midian and capture waters before them as far as Beth-barah and Jordan. Every man of Ephraim was called out, and they captured waters as far as Beth-barah and Jordan."},{"verse":25,"restored":"They captured two princes of Midian, Oreb and Zeeb; they killed Oreb at rock of Oreb, and Zeeb they killed at winepress of Zeeb. They pursued Midian and brought heads of Oreb and Zeeb to Gideon across Jordan."}],"translation_notes":["The army reduction is framed as preventing Israel from claiming self-salvation; it is not a model for reckless under-resourcing or forcing vulnerable people into danger.","Those who are fearful are explicitly permitted to return. Fear is not shamed or punished.","The water-lapping test is opaque and has generated many interpretations; the text itself does not explain the selection morally or psychologically.","Gideon is still afraid after the fleece signs, and YHWH accommodates his fear through Purah and the overheard dream. This continues the chapter 6 pattern of reassurance rather than ridicule.","The barley loaf dream uses humble food imagery to symbolize the collapse of Midian's tent-power.","The night attack relies on psychological panic with trumpets, shattered jars, and torches; the enemy camp turns swords against itself.","The chapter ends with pursuit and decapitated enemy leaders. The victory may be narrated as deliverance, but the trophy-head scene remains violent and non-normative."],"safety_note":"Do not use Judges 7 to shame fear, romanticize tiny armies, manipulate people with dreams, glorify psychological warfare, or celebrate trophy violence. Center reassurance, humility against self-exaltation, and the refusal to make fear incompatible with calling."}
+{
+  "book": "Judges",
+  "book_id": "judges",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Judges / Shoftim Gideon's reduced army and Midianite defeat narrative, draft aligned later",
+    "review_note": "First-pass draft reviewed for Jerubbaal/Gideon naming, fear-based troop release, water-lapping selection, dream and interpretation, jars/torches/trumpets, panic in Midianite camp, intertribal summons, Jordan fords, and Oreb/Zeeb execution."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Jerubbaal, that is Gideon, and all people with him rose early and camped by spring of Harod; camp of Midian was north of him, from hill of Moreh in valley.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH said to Gideon, People with you are too many for me to give Midian into their hand, lest Israel boast over me, saying, My hand saved me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Gideon, The people that are with thee are too many for me to give the Midianites into their hands, lest Israel vaunt themselves against me, saying, Mine own hand hath saved me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Now call in ears of people, saying, Whoever is fearful and trembling, let him return and depart from Mount Gilead. Twenty-two thousand from people returned, and ten thousand remained.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore go to, proclaim in the ears of the people, saying, Whosoever is fearful and afraid, let him return and depart early from mount Gilead. And there returned of the people twenty and two thousand; and there remained ten thousand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "YHWH said to Gideon, Still people are too many; bring them down to water, and I will refine them for you there. It shall be, of whom I say to you, This one shall go with you, he shall go; and of whom I say to you, This one shall not go with you, he shall not go.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Gideon, The people are yet too many; bring them down unto the water, and I will try them for thee there: and it shall be, that of whom I say unto thee, This shall go with thee, the same shall go with thee; and of whomsoever I say unto thee, This shall not go with thee, the same shall not go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "He brought people down to water, and YHWH said to Gideon, Everyone who laps water with his tongue as dog laps, set him apart, and everyone who bows on knees to drink.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So he brought down the people unto the water: and the LORD said unto Gideon, Every one that lappeth of the water with his tongue, as a dog lappeth, him shalt thou set by himself; likewise every one that boweth down upon his knees to drink."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Number of those lapping with hand to mouth was three hundred men; all rest of people bowed on knees to drink water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "YHWH said to Gideon, By three hundred men who lapped I will save you and give Midian into your hand; let all people go, each man to his place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Gideon, By the three hundred men that lapped will I save you, and deliver the Midianites into thine hand: and let all the other people go every man unto his place."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They took provisions of people in their hand and their trumpets; every man of Israel he sent away to his tents, but three hundred men he strengthened/held. Camp of Midian was beneath him in valley.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the people took victuals in their hand, and their trumpets: and he sent all the rest of Israel every man unto his tent, and retained those three hundred men: and the host of Midian was beneath him in the valley."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "It was that night YHWH said to him, Rise, go down against camp, for I have given it into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass the same night, that the LORD said unto him, Arise, get thee down unto the host; for I have delivered it into thine hand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "But if you fear to go down, go down, you and Purah your servant, to camp.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if thou fear to go down, go thou with Phurah thy servant down to the host:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "You shall hear what they speak, and afterward your hands will be strengthened to go down against camp. He went down with Purah his servant to edge of armed men in camp.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt hear what they say; and afterward shall thine hands be strengthened to go down unto the host. Then went he down with Phurah his servant unto the outside of the armed men that were in the host."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Midian, Amalek, and all sons of east were lying in valley like locusts for multitude, and their camels were without number, as sand on shore of sea for multitude.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "amalek-reception-risk",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "modern-targeting-prohibited"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Gideon came, and look, a man was recounting dream to his companion. He said, Look, I dreamed a dream, and look, a loaf of barley bread was tumbling into camp of Midian; it came to tent, struck it, and it fell, turned it upward, and tent fell.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Gideon was come, behold, there was a man that told a dream unto his fellow, and said, Behold, I dreamed a dream, and, lo, a cake of barley bread tumbled into the host of Midian, and came unto a tent, and smote it that it fell, and overturned it, that the tent lay along."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "His companion answered and said, This is nothing except sword of Gideon son of Joash, man of Israel. Divine has given Midian and all camp into his hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his fellow answered and said, This is nothing else save the sword of Gideon the son of Joash, a man of Israel: for into his hand hath God delivered Midian, and all the host."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "It was, when Gideon heard recounting of dream and its interpretation, that he bowed down. He returned to camp of Israel and said, Rise, for YHWH has given camp of Midian into your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was so, when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the LORD hath delivered into your hand the host of Midian."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He divided three hundred men into three companies, and gave trumpets in hand of all of them, and empty jars, with torches inside jars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he divided the three hundred men into three companies, and he put a trumpet in every man’s hand, with empty pitchers, and lamps within the pitchers."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He said to them, Look at me and do likewise; and look, when I come to edge of camp, as I do, so you shall do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Look on me, and do likewise: and, behold, when I come to the outside of the camp, it shall be that, as I do, so shall ye do."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "When I blow trumpet, I and all who are with me, then you shall blow trumpets also around all camp and say, For YHWH and for Gideon!",
+      "familiar": {
+        "source": "KJV",
+        "text": "When I blow with a trumpet, I and all that are with me, then blow ye the trumpets also on every side of all the camp, and say, The sword of the LORD, and of Gideon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Gideon came, and hundred men with him, to edge of camp at beginning of middle watch, when they had just set watch. They blew trumpets and shattered jars that were in their hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Gideon, and the hundred men that were with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that were in their hands."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Three companies blew trumpets and broke jars; they held torches in left hands and trumpets in right hands to blow, and cried, Sword for YHWH and for Gideon!",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the LORD, and of Gideon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "They stood each man in his place around camp, and all camp ran, shouted, and fled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they stood every man in his place round about the camp; and all the host ran, and cried, and fled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Three hundred blew trumpets, and YHWH set sword of each man against his companion and against all camp; camp fled as far as Beth-shittah toward Zererah, as far as edge of Abel-meholah by Tabbath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the three hundred blew the trumpets, and the LORD set every man’s sword against his fellow, even throughout all the host: and the host fled to Bethshittah in Zererath, and to the border of Abelmeholah, unto Tabbath."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Men of Israel were called out from Naphtali, Asher, and all Manasseh, and they pursued after Midian.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Gideon sent messengers through all hill country of Ephraim, saying, Come down against Midian and capture waters before them as far as Beth-barah and Jordan. Every man of Ephraim was called out, and they captured waters as far as Beth-barah and Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Bethbarah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Bethbarah and Jordan."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "They captured two princes of Midian, Oreb and Zeeb; they killed Oreb at rock of Oreb, and Zeeb they killed at winepress of Zeeb. They pursued Midian and brought heads of Oreb and Zeeb to Gideon across Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The army reduction is framed as preventing Israel from claiming self-salvation; it is not a model for reckless under-resourcing or forcing vulnerable people into danger.",
+    "Those who are fearful are explicitly permitted to return. Fear is not shamed or punished.",
+    "The water-lapping test is opaque and has generated many interpretations; the text itself does not explain the selection morally or psychologically.",
+    "Gideon is still afraid after the fleece signs, and YHWH accommodates his fear through Purah and the overheard dream. This continues the chapter 6 pattern of reassurance rather than ridicule.",
+    "The barley loaf dream uses humble food imagery to symbolize the collapse of Midian's tent-power.",
+    "The night attack relies on psychological panic with trumpets, shattered jars, and torches; the enemy camp turns swords against itself.",
+    "The chapter ends with pursuit and decapitated enemy leaders. The victory may be narrated as deliverance, but the trophy-head scene remains violent and non-normative."
+  ],
+  "safety_note": "Do not use Judges 7 to shame fear, romanticize tiny armies, manipulate people with dreams, glorify psychological warfare, or celebrate trophy violence. Center reassurance, humility against self-exaltation, and the refusal to make fear incompatible with calling.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-25",
+    "tags": "partial-8-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

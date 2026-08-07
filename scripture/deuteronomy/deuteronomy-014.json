@@ -1,1 +1,511 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":14,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim mourning, food distinction, and tithe law, draft aligned later","review_note":"First-pass draft reviewed for mourning-body practices, clean/unclean land and water animals, birds, carrion, kid-in-milk prohibition, annual tithe pilgrimage, monetary conversion, Levite inclusion, and third-year tithe for vulnerable residents."},"verses":[{"verse":1,"restored":"Children are you to YHWH your Divine. You shall not cut yourselves or make baldness between your eyes for the dead."},{"verse":2,"restored":"For a holy people are you to YHWH your Divine, and YHWH chose you to be for him a treasured people from all peoples upon face of ground."},{"verse":3,"restored":"You shall not eat any abominable thing."},{"verse":4,"restored":"These are animals you may eat: ox, sheep, and goat,"},{"verse":5,"restored":"deer, gazelle, roebuck, wild goat, ibex, antelope, and mountain sheep."},{"verse":6,"restored":"Every animal dividing hoof, cleaving two clefts, and chewing cud among animals, it you may eat."},{"verse":7,"restored":"Yet these you shall not eat among those chewing cud or dividing cleft hoof: camel, hare, and rock badger, for they chew cud but do not divide hoof; unclean they are for you."},{"verse":8,"restored":"And pig, for it divides hoof but does not chew cud; unclean it is for you. From their flesh you shall not eat, and their carcass you shall not touch."},{"verse":9,"restored":"These you may eat from all in waters: everything having fins and scales you may eat."},{"verse":10,"restored":"Whatever has no fins and scales you shall not eat; unclean it is for you."},{"verse":11,"restored":"Every clean bird you may eat."},{"verse":12,"restored":"But these are those you shall not eat: eagle, vulture, black vulture,"},{"verse":13,"restored":"red kite, falcon, and kite according to its kind,"},{"verse":14,"restored":"every raven according to its kind,"},{"verse":15,"restored":"ostrich, owl, gull, and hawk according to its kind,"},{"verse":16,"restored":"little owl, great owl, white owl,"},{"verse":17,"restored":"pelican, carrion vulture, cormorant,"},{"verse":18,"restored":"stork, heron according to its kind, hoopoe, and bat."},{"verse":19,"restored":"Every winged swarming thing is unclean for you; they shall not be eaten."},{"verse":20,"restored":"Every clean winged creature you may eat."},{"verse":21,"restored":"You shall not eat anything that dies of itself. To sojourner within your gates you may give it and he may eat it, or you may sell it to foreigner, for a holy people are you to YHWH your Divine. You shall not boil a kid in milk of its mother."},{"verse":22,"restored":"You shall surely tithe all produce of your seed coming out of field year by year."},{"verse":23,"restored":"You shall eat before YHWH your Divine, in place he chooses to cause his name to dwell, tithe of grain, new wine, oil, and firstborn of herd and flock, so you may learn to fear/revere YHWH your Divine all days."},{"verse":24,"restored":"If way is too long for you, so you are not able to carry it, because place YHWH your Divine chooses to set his name there is too far from you, when YHWH your Divine blesses you,"},{"verse":25,"restored":"then you shall turn it into silver, bind silver in your hand, and go to place YHWH your Divine chooses."},{"verse":26,"restored":"You shall give silver for whatever your soul/life desires—for cattle, flock, wine, strong drink, or anything your soul/life asks—and you shall eat there before YHWH your Divine and rejoice, you and your household."},{"verse":27,"restored":"The Levite within your gates you shall not abandon, for he has no portion or inheritance with you."},{"verse":28,"restored":"At end of three years you shall bring out all tithe of your produce in that year and place it within your gates."},{"verse":29,"restored":"Then Levite, because he has no portion or inheritance with you, and sojourner, orphan, and widow within your gates shall come and eat and be satisfied, so YHWH your Divine may bless you in all work of your hand that you do."}],"translation_notes":["Mourning practices are regulated as identity markers; the law must not shame grief, hair loss, scars, cultural mourning, or people who self-injure and need care.","The food list belongs to Israel's dietary holiness tradition and later Jewish kashrut; it must not be mocked, superseded, or imposed on non-Jews.","Species identifications for several birds are uncertain and require lexical/zoological audit.","The rule concerning carrion distinguishes Israelite holiness practice from sojourner/foreigner food economy; it should not be used to demean immigrants.","The pilgrimage tithe includes practical monetary conversion and household rejoicing.","The third-year tithe turns agricultural wealth into local food security for Levite, immigrant, orphan, and widow."],"safety_note":"Do not use Deuteronomy 14 to stigmatize grieving bodies, shame eating practices, demean Jewish kashrut, or treat immigrants as inferior. Center holiness as disciplined identity and tithing as shared food, joy, and material provision for vulnerable neighbors."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 14,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim mourning, food distinction, and tithe law, draft aligned later",
+    "review_note": "First-pass draft reviewed for mourning-body practices, clean/unclean land and water animals, birds, carrion, kid-in-milk prohibition, annual tithe pilgrimage, monetary conversion, Levite inclusion, and third-year tithe for vulnerable residents."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Children are you to YHWH your Divine. You shall not cut yourselves or make baldness between your eyes for the dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "For a holy people are you to YHWH your Divine, and YHWH chose you to be for him a treasured people from all peoples upon face of ground.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "You shall not eat any abominable thing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not eat any abominable thing."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "These are animals you may eat: ox, sheep, and goat,",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "deer, gazelle, roebuck, wild goat, ibex, antelope, and mountain sheep.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Every animal dividing hoof, cleaving two clefts, and chewing cud among animals, it you may eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Yet these you shall not eat among those chewing cud or dividing cleft hoof: camel, hare, and rock badger, for they chew cud but do not divide hoof; unclean they are for you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And pig, for it divides hoof but does not chew cud; unclean it is for you. From their flesh you shall not eat, and their carcass you shall not touch.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "These you may eat from all in waters: everything having fins and scales you may eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Whatever has no fins and scales you shall not eat; unclean it is for you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Every clean bird you may eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of all clean birds ye shall eat."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But these are those you shall not eat: eagle, vulture, black vulture,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "red kite, falcon, and kite according to its kind,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the glede, and the kite, and the vulture after his kind,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "every raven according to its kind,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every raven after his kind,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "ostrich, owl, gull, and hawk according to its kind,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "little owl, great owl, white owl,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The little owl, and the great owl, and the swan,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "pelican, carrion vulture, cormorant,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the pelican, and the gier eagle, and the cormorant,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "stork, heron according to its kind, hoopoe, and bat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the stork, and the heron after her kind, and the lapwing, and the bat."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Every winged swarming thing is unclean for you; they shall not be eaten.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every creeping thing that flieth is unclean unto you: they shall not be eaten."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Every clean winged creature you may eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of all clean fowls ye may eat."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "You shall not eat anything that dies of itself. To sojourner within your gates you may give it and he may eat it, or you may sell it to foreigner, for a holy people are you to YHWH your Divine. You shall not boil a kid in milk of its mother.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "You shall surely tithe all produce of your seed coming out of field year by year.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "You shall eat before YHWH your Divine, in place he chooses to cause his name to dwell, tithe of grain, new wine, oil, and firstborn of herd and flock, so you may learn to fear/revere YHWH your Divine all days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "If way is too long for you, so you are not able to carry it, because place YHWH your Divine chooses to set his name there is too far from you, when YHWH your Divine blesses you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "then you shall turn it into silver, bind silver in your hand, and go to place YHWH your Divine chooses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "You shall give silver for whatever your soul/life desires—for cattle, flock, wine, strong drink, or anything your soul/life asks—and you shall eat there before YHWH your Divine and rejoice, you and your household.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "The Levite within your gates you shall not abandon, for he has no portion or inheritance with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "At end of three years you shall bring out all tithe of your produce in that year and place it within your gates.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Then Levite, because he has no portion or inheritance with you, and sojourner, orphan, and widow within your gates shall come and eat and be satisfied, so YHWH your Divine may bless you in all work of your hand that you do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Mourning practices are regulated as identity markers; the law must not shame grief, hair loss, scars, cultural mourning, or people who self-injure and need care.",
+    "The food list belongs to Israel's dietary holiness tradition and later Jewish kashrut; it must not be mocked, superseded, or imposed on non-Jews.",
+    "Species identifications for several birds are uncertain and require lexical/zoological audit.",
+    "The rule concerning carrion distinguishes Israelite holiness practice from sojourner/foreigner food economy; it should not be used to demean immigrants.",
+    "The pilgrimage tithe includes practical monetary conversion and household rejoicing.",
+    "The third-year tithe turns agricultural wealth into local food security for Levite, immigrant, orphan, and widow."
+  ],
+  "safety_note": "Do not use Deuteronomy 14 to stigmatize grieving bodies, shame eating practices, demean Jewish kashrut, or treat immigrants as inferior. Center holiness as disciplined identity and tithing as shared food, joy, and material provision for vulnerable neighbors.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-29",
+    "tags": "partial-4-of-29",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

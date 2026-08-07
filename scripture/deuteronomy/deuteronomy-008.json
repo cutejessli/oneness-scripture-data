@@ -1,1 +1,439 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim wilderness-memory, manna, good-land, and wealth-warning discourse, draft aligned later","review_note":"First-pass draft reviewed for wilderness humbling/testing, manna, not-by-bread-alone, parental discipline imagery, good-land catalogue, satisfaction and blessing, wealth/forgetting warning, and power-to-gain-wealth theology."},"verses":[{"verse":1,"restored":"All command I command you today you shall keep to do, so you may live and multiply and enter and possess land YHWH swore to your fathers."},{"verse":2,"restored":"You shall remember all way YHWH your Divine led you these forty years in wilderness, to humble you, test you, and know what was in your heart, whether you would keep his commands or not."},{"verse":3,"restored":"He humbled you and made you hunger and fed you manna, which you did not know and your fathers did not know, to make you know that not by bread alone does humanity live, but by everything going out from mouth of YHWH does humanity live."},{"verse":4,"restored":"Your garment did not wear out upon you, and your foot did not swell these forty years."},{"verse":5,"restored":"Know with your heart that as a man disciplines/instructs his son, YHWH your Divine disciplines/instructs you."},{"verse":6,"restored":"You shall keep commands of YHWH your Divine, to walk in his ways and fear/revere him."},{"verse":7,"restored":"For YHWH your Divine is bringing you into good land, land of streams of water, springs and deep waters going out in valley and mountain,"},{"verse":8,"restored":"land of wheat and barley, vine and fig and pomegranate, land of olive oil and honey/date syrup,"},{"verse":9,"restored":"land where you shall eat bread without scarcity, you shall lack nothing in it, land whose stones are iron and from whose mountains you may quarry copper."},{"verse":10,"restored":"You shall eat and be satisfied, and bless YHWH your Divine for good land he gave you."},{"verse":11,"restored":"Guard yourself lest you forget YHWH your Divine by not keeping his commands and judgments and statutes that I command you today,"},{"verse":12,"restored":"lest you eat and are satisfied and build good houses and dwell in them,"},{"verse":13,"restored":"and your cattle and flocks multiply, silver and gold multiply for you, and all you have multiplies,"},{"verse":14,"restored":"and your heart is lifted up and you forget YHWH your Divine who brought you out from land of Egypt, from house of slaves,"},{"verse":15,"restored":"who led you through great and fearful wilderness, with fiery serpent and scorpion and thirsty ground where there was no water, who brought water for you from flint rock,"},{"verse":16,"restored":"who fed you manna in wilderness that your fathers did not know, to humble you and test you, to do good to you in your latter end,"},{"verse":17,"restored":"and you say in your heart, My power and might of my hand made me this wealth."},{"verse":18,"restored":"You shall remember YHWH your Divine, for he is the one giving you power to make/gain wealth, in order to establish his covenant he swore to your fathers, as this day."},{"verse":19,"restored":"It shall be, if you surely forget YHWH your Divine and go after other gods and serve them and bow to them, I testify against you today that you shall surely perish."},{"verse":20,"restored":"Like nations YHWH causes to perish from before you, so you shall perish, because you did not listen to voice of YHWH your Divine."}],"translation_notes":["The wilderness is interpreted as humbling and testing, but this must not be generalized into a claim that every deprivation, abuse, or disaster is divinely imposed for character development.","'Not by bread alone' does not minimize material hunger; the same verse first says YHWH fed the people manna.","Parental-discipline imagery must never justify physical abuse or coercive religious discipline.","The good-land catalogue celebrates water, biodiversity, staple crops, fruit, minerals, satisfaction, and gratitude.","The central economic warning is against self-made mythology: wealth can lift the heart into forgetting slavery, dependence, community, and Divine gift.","Power to gain wealth is covenant responsibility, not prosperity-gospel proof of personal virtue."],"safety_note":"Do not use Deuteronomy 8 to romanticize hunger, excuse abuse, shame poverty, preach prosperity theology, or claim wealth proves Divine favor. Its enduring warning is that abundance becomes dangerous when people forget liberation, dependence, gratitude, and the labor supporting their comfort."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim wilderness-memory, manna, good-land, and wealth-warning discourse, draft aligned later",
+    "review_note": "First-pass draft reviewed for wilderness humbling/testing, manna, not-by-bread-alone, parental discipline imagery, good-land catalogue, satisfaction and blessing, wealth/forgetting warning, and power-to-gain-wealth theology."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "All command I command you today you shall keep to do, so you may live and multiply and enter and possess land YHWH swore to your fathers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the commandments which I command thee this day shall ye observe to do, that ye may live, and multiply, and go in and possess the land which the LORD sware unto your fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "You shall remember all way YHWH your Divine led you these forty years in wilderness, to humble you, test you, and know what was in your heart, whether you would keep his commands or not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt remember all the way which the LORD thy God led thee these forty years in the wilderness, to humble thee, and to prove thee, to know what was in thine heart, whether thou wouldest keep his commandments, or no."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He humbled you and made you hunger and fed you manna, which you did not know and your fathers did not know, to make you know that not by bread alone does humanity live, but by everything going out from mouth of YHWH does humanity live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he humbled thee, and suffered thee to hunger, and fed thee with manna, which thou knewest not, neither did thy fathers know; that he might make thee know that man doth not live by bread only, but by every word that proceedeth out of the mouth of the LORD doth man live."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Your garment did not wear out upon you, and your foot did not swell these forty years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thy raiment waxed not old upon thee, neither did thy foot swell, these forty years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Know with your heart that as a man disciplines/instructs his son, YHWH your Divine disciplines/instructs you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt also consider in thine heart, that, as a man chasteneth his son, so the LORD thy God chasteneth thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "You shall keep commands of YHWH your Divine, to walk in his ways and fear/revere him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore thou shalt keep the commandments of the LORD thy God, to walk in his ways, and to fear him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For YHWH your Divine is bringing you into good land, land of streams of water, springs and deep waters going out in valley and mountain,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD thy God bringeth thee into a good land, a land of brooks of water, of fountains and depths that spring out of valleys and hills;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "land of wheat and barley, vine and fig and pomegranate, land of olive oil and honey/date syrup,",
+      "familiar": {
+        "source": "KJV",
+        "text": "A land of wheat, and barley, and vines, and fig trees, and pomegranates; a land of oil olive, and honey;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "land where you shall eat bread without scarcity, you shall lack nothing in it, land whose stones are iron and from whose mountains you may quarry copper.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A land wherein thou shalt eat bread without scarceness, thou shalt not lack any thing in it; a land whose stones are iron, and out of whose hills thou mayest dig brass."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "You shall eat and be satisfied, and bless YHWH your Divine for good land he gave you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou hast eaten and art full, then thou shalt bless the LORD thy God for the good land which he hath given thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Guard yourself lest you forget YHWH your Divine by not keeping his commands and judgments and statutes that I command you today,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beware that thou forget not the LORD thy God, in not keeping his commandments, and his judgments, and his statutes, which I command thee this day:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "lest you eat and are satisfied and build good houses and dwell in them,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lest when thou hast eaten and art full, and hast built goodly houses, and dwelt therein;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "and your cattle and flocks multiply, silver and gold multiply for you, and all you have multiplies,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when thy herds and thy flocks multiply, and thy silver and thy gold is multiplied, and all that thou hast is multiplied;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "and your heart is lifted up and you forget YHWH your Divine who brought you out from land of Egypt, from house of slaves,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then thine heart be lifted up, and thou forget the LORD thy God, which brought thee forth out of the land of Egypt, from the house of bondage;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "who led you through great and fearful wilderness, with fiery serpent and scorpion and thirsty ground where there was no water, who brought water for you from flint rock,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who led thee through that great and terrible wilderness, wherein were fiery serpents, and scorpions, and drought, where there was no water; who brought thee forth water out of the rock of flint;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "who fed you manna in wilderness that your fathers did not know, to humble you and test you, to do good to you in your latter end,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who fed thee in the wilderness with manna, which thy fathers knew not, that he might humble thee, and that he might prove thee, to do thee good at thy latter end;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "and you say in your heart, My power and might of my hand made me this wealth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou say in thine heart, My power and the might of mine hand hath gotten me this wealth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "You shall remember YHWH your Divine, for he is the one giving you power to make/gain wealth, in order to establish his covenant he swore to your fathers, as this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt remember the LORD thy God: for it is he that giveth thee power to get wealth, that he may establish his covenant which he sware unto thy fathers, as it is this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "It shall be, if you surely forget YHWH your Divine and go after other gods and serve them and bow to them, I testify against you today that you shall surely perish.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, if thou do at all forget the LORD thy God, and walk after other gods, and serve them, and worship them, I testify against you this day that ye shall surely perish."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Like nations YHWH causes to perish from before you, so you shall perish, because you did not listen to voice of YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As the nations which the LORD destroyeth before your face, so shall ye perish; because ye would not be obedient unto the voice of the LORD your God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The wilderness is interpreted as humbling and testing, but this must not be generalized into a claim that every deprivation, abuse, or disaster is divinely imposed for character development.",
+    "'Not by bread alone' does not minimize material hunger; the same verse first says YHWH fed the people manna.",
+    "Parental-discipline imagery must never justify physical abuse or coercive religious discipline.",
+    "The good-land catalogue celebrates water, biodiversity, staple crops, fruit, minerals, satisfaction, and gratitude.",
+    "The central economic warning is against self-made mythology: wealth can lift the heart into forgetting slavery, dependence, community, and Divine gift.",
+    "Power to gain wealth is covenant responsibility, not prosperity-gospel proof of personal virtue."
+  ],
+  "safety_note": "Do not use Deuteronomy 8 to romanticize hunger, excuse abuse, shame poverty, preach prosperity theology, or claim wealth proves Divine favor. Its enduring warning is that abundance becomes dangerous when people forget liberation, dependence, gratitude, and the labor supporting their comfort.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-13-of-20",
+    "tags": "partial-3-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

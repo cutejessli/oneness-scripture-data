@@ -1,1 +1,407 @@
-{"book":"Judges","book_id":"judges","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Judges / Shoftim Samson harvest visit, foxes/jackals, field burning, retaliatory killing, Judah surrender, jawbone battle, thirst, and judgeship notice, draft aligned later","review_note":"First-pass draft reviewed for marital possession language, sister substitution, shualim animal term, arson damage, burning of Timnite woman and father, revenge chain, Judah's coerced surrender of Samson, jawbone wordplay and death number, water-place wording, and twenty-year notice."},"verses":[{"verse":1,"restored":"After days, in days of wheat harvest, Samson visited his wife with a young goat and said, I will go in to my wife, into chamber. But her father did not permit him to enter."},{"verse":2,"restored":"Her father said, Saying, I said that hating, you hated her, so I gave her to your companion. Is not her younger sister better than she? Please let her be for you instead of her."},{"verse":3,"restored":"Samson said to them, This time I am clean/free of blame from Philistines when I do evil with them."},{"verse":4,"restored":"Samson went and caught three hundred foxes/jackals. He took torches, turned tail to tail, and put one torch between two tails in middle."},{"verse":5,"restored":"He kindled fire in torches and sent them into standing grain of Philistines. He burned from stack to standing grain, and vineyard and olive grove."},{"verse":6,"restored":"Philistines said, Who did this? They said, Samson, son-in-law of Timnite, because he took his wife and gave her to his companion. Philistines went up and burned her and her father with fire."},{"verse":7,"restored":"Samson said to them, If you do such a thing, then I will take vengeance on you, and afterward I will stop."},{"verse":8,"restored":"He struck them leg upon thigh, a great blow. He went down and dwelt in cleft of rock of Etam."},{"verse":9,"restored":"Philistines went up, camped in Judah, and spread themselves at Lehi."},{"verse":10,"restored":"Man of Judah said, Why have you come up against us? They said, To bind Samson we have come up, to do to him as he did to us."},{"verse":11,"restored":"Three thousand men from Judah went down to cleft of rock of Etam and said to Samson, Do you not know that Philistines rule over us? What is this you have done to us? He said to them, As they did to me, so I did to them."},{"verse":12,"restored":"They said to him, To bind you we have come down, to give you into hand of Philistines. Samson said to them, Swear to me lest you yourselves strike me."},{"verse":13,"restored":"They said to him, saying, No; binding, we will bind you and give you into their hand, but putting to death, we will not put you to death. They bound him with two new ropes and brought him up from the rock."},{"verse":14,"restored":"He came as far as Lehi, and Philistines shouted to meet him. Spirit of YHWH rushed upon him, and ropes that were upon his arms became like flax that burned in fire, and his bonds melted from upon his hands."},{"verse":15,"restored":"He found a fresh jawbone of a donkey, stretched out his hand and took it, and struck with it a thousand men."},{"verse":16,"restored":"Samson said, With jawbone of donkey, a heap, two heaps; with jawbone of donkey I struck a thousand men."},{"verse":17,"restored":"When he finished speaking, he threw jawbone from his hand and called that place Ramath-lehi, Height of the Jawbone."},{"verse":18,"restored":"He became very thirsty and called to YHWH and said, You gave by hand of your servant this great salvation, and now shall I die by thirst and fall into hand of uncircumcised?"},{"verse":19,"restored":"Divine split open hollow that is at Lehi, and waters came out from it. He drank, his spirit returned, and he lived. Therefore its name was called En-hakkore, Spring of the Caller, which is at Lehi to this day."},{"verse":20,"restored":"He judged Israel in days of Philistines twenty years."}],"translation_notes":["The wife is still treated by father and husband as transferable possession. Her younger sister is proposed as a substitute and compared as 'better'; neither woman's consent is recorded.","Shualim may mean foxes or jackals. Jackals' pack behavior may fit the capture scene better, but the animal number and logistics remain folkloric or stylized.","Tying torches to animals and releasing them into fields depicts animal cruelty and agricultural arson. Grain, vineyards, and olive groves sustain whole communities, including people not responsible for the marriage conflict.","The Philistines burn the Timnite woman and her father—the very violence threatened in Judges 14. The text does not blame her; it exposes how patriarchal and collective retaliation consumes vulnerable people.","Samson repeatedly frames vengeance as limited—'afterward I will stop'—but retaliation generates another retaliation. Revenge does not close the cycle.","'Leg upon thigh' is an obscure idiom for a severe strike and should not be over-explained anatomically.","Judah acts under Philistine domination and hands Samson over to prevent wider attack. This is a coerced survival decision, not simple cowardice or ethnic betrayal.","The jawbone episode uses repeated lehi/hamor wordplay and an enormous death number. It is heroic folklore-shaped violence, not a reproducible spiritual model.","The Spirit formula does not authorize mass killing, improvised-weapon violence, or claims of invulnerability.","Samson's thirst makes his bodily vulnerability visible after his boast. The water-giving scene centers dependence and life rather than the kill count.","'Uncircumcised' remains ancient hostile boundary speech and cannot justify body shame or xenophobia."],"safety_note":"Do not glamorize arson, animal cruelty, mass killing, revenge, or improvised weapons. Do not blame Samson's wife for violence committed against her. The chapter's repeated measure-for-measure claims reveal escalating retaliation, not justice. Center civilians, food systems, animals, coerced communities, and the body that still needs water."}
+{
+  "book": "Judges",
+  "book_id": "judges",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Judges / Shoftim Samson harvest visit, foxes/jackals, field burning, retaliatory killing, Judah surrender, jawbone battle, thirst, and judgeship notice, draft aligned later",
+    "review_note": "First-pass draft reviewed for marital possession language, sister substitution, shualim animal term, arson damage, burning of Timnite woman and father, revenge chain, Judah's coerced surrender of Samson, jawbone wordplay and death number, water-place wording, and twenty-year notice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After days, in days of wheat harvest, Samson visited his wife with a young goat and said, I will go in to my wife, into chamber. But her father did not permit him to enter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But it came to pass within a while after, in the time of wheat harvest, that Samson visited his wife with a kid; and he said, I will go in to my wife into the chamber. But her father would not suffer him to go in."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Her father said, Saying, I said that hating, you hated her, so I gave her to your companion. Is not her younger sister better than she? Please let her be for you instead of her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And her father said, I verily thought that thou hadst utterly hated her; therefore I gave her to thy companion: is not her younger sister fairer than she? take her, I pray thee, instead of her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Samson said to them, This time I am clean/free of blame from Philistines when I do evil with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samson said concerning them, Now shall I be more blameless than the Philistines, though I do them a displeasure."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Samson went and caught three hundred foxes/jackals. He took torches, turned tail to tail, and put one torch between two tails in middle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samson went and caught three hundred foxes, and took firebrands, and turned tail to tail, and put a firebrand in the midst between two tails."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "He kindled fire in torches and sent them into standing grain of Philistines. He burned from stack to standing grain, and vineyard and olive grove.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had set the brands on fire, he let them go into the standing corn of the Philistines, and burnt up both the shocks, and also the standing corn, with the vineyards and olives."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Philistines said, Who did this? They said, Samson, son-in-law of Timnite, because he took his wife and gave her to his companion. Philistines went up and burned her and her father with fire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Samson said to them, If you do such a thing, then I will take vengeance on you, and afterward I will stop.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samson said unto them, Though ye have done this, yet will I be avenged of you, and after that I will cease."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He struck them leg upon thigh, a great blow. He went down and dwelt in cleft of rock of Etam.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he smote them hip and thigh with a great slaughter: and he went down and dwelt in the top of the rock Etam."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Philistines went up, camped in Judah, and spread themselves at Lehi.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Man of Judah said, Why have you come up against us? They said, To bind Samson we have come up, to do to him as he did to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Three thousand men from Judah went down to cleft of rock of Etam and said to Samson, Do you not know that Philistines rule over us? What is this you have done to us? He said to them, As they did to me, so I did to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "They said to him, To bind you we have come down, to give you into hand of Philistines. Samson said to them, Swear to me lest you yourselves strike me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "They said to him, saying, No; binding, we will bind you and give you into their hand, but putting to death, we will not put you to death. They bound him with two new ropes and brought him up from the rock.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He came as far as Lehi, and Philistines shouted to meet him. Spirit of YHWH rushed upon him, and ropes that were upon his arms became like flax that burned in fire, and his bonds melted from upon his hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the LORD came mightily upon him, and the cords that were upon his arms became as flax that was burnt with fire, and his bands loosed from off his hands."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He found a fresh jawbone of a donkey, stretched out his hand and took it, and struck with it a thousand men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he found a new jawbone of an ass, and put forth his hand, and took it, and slew a thousand men therewith."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Samson said, With jawbone of donkey, a heap, two heaps; with jawbone of donkey I struck a thousand men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samson said, With the jawbone of an ass, heaps upon heaps, with the jaw of an ass have I slain a thousand men."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "When he finished speaking, he threw jawbone from his hand and called that place Ramath-lehi, Height of the Jawbone.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when he had made an end of speaking, that he cast away the jawbone out of his hand, and called that place Ramathlehi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He became very thirsty and called to YHWH and said, You gave by hand of your servant this great salvation, and now shall I die by thirst and fall into hand of uncircumcised?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he was sore athirst, and called on the LORD, and said, Thou hast given this great deliverance into the hand of thy servant: and now shall I die for thirst, and fall into the hand of the uncircumcised?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Divine split open hollow that is at Lehi, and waters came out from it. He drank, his spirit returned, and he lived. Therefore its name was called En-hakkore, Spring of the Caller, which is at Lehi to this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God clave an hollow place that was in the jaw, and there came water thereout; and when he had drunk, his spirit came again, and he revived: wherefore he called the name thereof Enhakkore, which is in Lehi unto this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "He judged Israel in days of Philistines twenty years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he judged Israel in the days of the Philistines twenty years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The wife is still treated by father and husband as transferable possession. Her younger sister is proposed as a substitute and compared as 'better'; neither woman's consent is recorded.",
+    "Shualim may mean foxes or jackals. Jackals' pack behavior may fit the capture scene better, but the animal number and logistics remain folkloric or stylized.",
+    "Tying torches to animals and releasing them into fields depicts animal cruelty and agricultural arson. Grain, vineyards, and olive groves sustain whole communities, including people not responsible for the marriage conflict.",
+    "The Philistines burn the Timnite woman and her father—the very violence threatened in Judges 14. The text does not blame her; it exposes how patriarchal and collective retaliation consumes vulnerable people.",
+    "Samson repeatedly frames vengeance as limited—'afterward I will stop'—but retaliation generates another retaliation. Revenge does not close the cycle.",
+    "'Leg upon thigh' is an obscure idiom for a severe strike and should not be over-explained anatomically.",
+    "Judah acts under Philistine domination and hands Samson over to prevent wider attack. This is a coerced survival decision, not simple cowardice or ethnic betrayal.",
+    "The jawbone episode uses repeated lehi/hamor wordplay and an enormous death number. It is heroic folklore-shaped violence, not a reproducible spiritual model.",
+    "The Spirit formula does not authorize mass killing, improvised-weapon violence, or claims of invulnerability.",
+    "Samson's thirst makes his bodily vulnerability visible after his boast. The water-giving scene centers dependence and life rather than the kill count.",
+    "'Uncircumcised' remains ancient hostile boundary speech and cannot justify body shame or xenophobia."
+  ],
+  "safety_note": "Do not glamorize arson, animal cruelty, mass killing, revenge, or improvised weapons. Do not blame Samson's wife for violence committed against her. The chapter's repeated measure-for-measure claims reveal escalating retaliation, not justice. Center civilians, food systems, animals, coerced communities, and the body that still needs water.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-20",
+    "tags": "partial-17-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,633 @@
-{"book":"Joshua","book_id":"joshua","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Joshua / Yehoshua east- and west-Jordan defeated-kings list, draft aligned later","review_note":"First-pass draft reviewed for Sihon and Og territories, Moses/Joshua transition, western geography, thirty-one named kings, duplicated campaign memory, and list rhetoric that compresses peoples into conquered rulers."},"verses":[{"verse":1,"restored":"These are kings of land whom children of Israel struck and whose land they possessed across Jordan toward sunrise, from wadi Arnon to Mount Hermon and all Arabah eastward:"},{"verse":2,"restored":"Sihon king of Amorite, dwelling in Heshbon, ruling from Aroer on edge of wadi Arnon and middle of wadi, and half Gilead as far as wadi Jabbok, border of sons of Ammon,"},{"verse":3,"restored":"and Arabah as far as sea of Chinneroth eastward, and as far as sea of Arabah, Salt Sea, eastward by way of Beth-jeshimoth, and southward under slopes of Pisgah."},{"verse":4,"restored":"And territory of Og king of Bashan, from remnant of Rephaim, dwelling at Ashtaroth and at Edrei,"},{"verse":5,"restored":"and ruling at Mount Hermon, Salecah, and all Bashan as far as border of Geshurites and Maacathites, and half Gilead, border of Sihon king of Heshbon."},{"verse":6,"restored":"Moses servant of YHWH and children of Israel struck them, and Moses servant of YHWH gave it as possession to Reubenites, Gadites, and half tribe of Manasseh."},{"verse":7,"restored":"These are kings of land whom Joshua and children of Israel struck across Jordan westward, from Baal-gad in valley of Lebanon as far as Mount Halak rising toward Seir; Joshua gave it to tribes of Israel as possession according to their divisions,"},{"verse":8,"restored":"in hill country, Shephelah, Arabah, slopes, wilderness, and Negev: Hittite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite:"},{"verse":9,"restored":"king of Jericho, one; king of Ai, which is beside Bethel, one;"},{"verse":10,"restored":"king of Jerusalem, one; king of Hebron, one;"},{"verse":11,"restored":"king of Jarmuth, one; king of Lachish, one;"},{"verse":12,"restored":"king of Eglon, one; king of Gezer, one;"},{"verse":13,"restored":"king of Debir, one; king of Geder, one;"},{"verse":14,"restored":"king of Hormah, one; king of Arad, one;"},{"verse":15,"restored":"king of Libnah, one; king of Adullam, one;"},{"verse":16,"restored":"king of Makkedah, one; king of Bethel, one;"},{"verse":17,"restored":"king of Tappuah, one; king of Hepher, one;"},{"verse":18,"restored":"king of Aphek, one; king of Lasharon, one;"},{"verse":19,"restored":"king of Madon, one; king of Hazor, one;"},{"verse":20,"restored":"king of Shimron-meron, one; king of Achshaph, one;"},{"verse":21,"restored":"king of Taanach, one; king of Megiddo, one;"},{"verse":22,"restored":"king of Kedesh, one; king of Jokneam in Carmel, one;"},{"verse":23,"restored":"king of Dor in heights of Dor, one; king of Goiim in Gilgal, one;"},{"verse":24,"restored":"king of Tirzah, one. All kings: thirty-one."}],"translation_notes":["The chapter is an administrative victory list, not a fresh narrative. It compresses battles, cities, civilians, and political communities into named kings and counted outcomes.","The east-Jordan section links Moses' campaigns to Joshua's western campaigns, reinforcing succession and territorial continuity.","Several place identifications remain uncertain, including Lasharon and Goiim in Gilgal; textual witnesses and historical geography require audit.","The thirty-one total may function as a literary conquest summary and should not be treated as a simple archaeological inventory.","Some kings in the list are not individually narrated in chapters 6-11, suggesting condensed traditions, broader campaign memory, or compositional layering.","Counting rulers as defeated can make the dead population disappear from view. The list must be read alongside the no-survivor formulas that precede it.","The territorial register is ancient literary geography and cannot serve as a modern deed or border claim."],"safety_note":"Do not use Joshua 12 as a modern conquest ledger, territorial deed, nationalist scorecard, or proof that violence establishes moral ownership. Read the list critically as a victor's administrative memory that leaves civilians, losses, and displaced communities largely unnamed."}
+{
+  "book": "Joshua",
+  "book_id": "joshua",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Joshua / Yehoshua east- and west-Jordan defeated-kings list, draft aligned later",
+    "review_note": "First-pass draft reviewed for Sihon and Og territories, Moses/Joshua transition, western geography, thirty-one named kings, duplicated campaign memory, and list rhetoric that compresses peoples into conquered rulers."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "These are kings of land whom children of Israel struck and whose land they possessed across Jordan toward sunrise, from wadi Arnon to Mount Hermon and all Arabah eastward:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Sihon king of Amorite, dwelling in Heshbon, ruling from Aroer on edge of wadi Arnon and middle of wadi, and half Gilead as far as wadi Jabbok, border of sons of Ammon,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "and Arabah as far as sea of Chinneroth eastward, and as far as sea of Arabah, Salt Sea, eastward by way of Beth-jeshimoth, and southward under slopes of Pisgah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And territory of Og king of Bashan, from remnant of Rephaim, dwelling at Ashtaroth and at Edrei,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "and ruling at Mount Hermon, Salecah, and all Bashan as far as border of Geshurites and Maacathites, and half Gilead, border of Sihon king of Heshbon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Moses servant of YHWH and children of Israel struck them, and Moses servant of YHWH gave it as possession to Reubenites, Gadites, and half tribe of Manasseh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "These are kings of land whom Joshua and children of Israel struck across Jordan westward, from Baal-gad in valley of Lebanon as far as Mount Halak rising toward Seir; Joshua gave it to tribes of Israel as possession according to their divisions,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "in hill country, Shephelah, Arabah, slopes, wilderness, and Negev: Hittite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite:",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "king of Jericho, one; king of Ai, which is beside Bethel, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "king of Jerusalem, one; king of Hebron, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Jerusalem, one; the king of Hebron, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "king of Jarmuth, one; king of Lachish, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Jarmuth, one; the king of Lachish, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "king of Eglon, one; king of Gezer, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Eglon, one; the king of Gezer, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "king of Debir, one; king of Geder, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Debir, one; the king of Geder, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "king of Hormah, one; king of Arad, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Hormah, one; the king of Arad, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "king of Libnah, one; king of Adullam, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Libnah, one; the king of Adullam, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "king of Makkedah, one; king of Bethel, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Makkedah, one; the king of Bethel, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "king of Tappuah, one; king of Hepher, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Tappuah, one; the king of Hepher, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "king of Aphek, one; king of Lasharon, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Aphek, one; the king of Lasharon, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "king of Madon, one; king of Hazor, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Madon, one; the king of Hazor, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "king of Shimron-meron, one; king of Achshaph, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Shimronmeron, one; the king of Achshaph, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "king of Taanach, one; king of Megiddo, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Taanach, one; the king of Megiddo, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "king of Kedesh, one; king of Jokneam in Carmel, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "king of Dor in heights of Dor, one; king of Goiim in Gilgal, one;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "king of Tirzah, one. All kings: thirty-one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The king of Tirzah, one: all the kings thirty and one."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The chapter is an administrative victory list, not a fresh narrative. It compresses battles, cities, civilians, and political communities into named kings and counted outcomes.",
+    "The east-Jordan section links Moses' campaigns to Joshua's western campaigns, reinforcing succession and territorial continuity.",
+    "Several place identifications remain uncertain, including Lasharon and Goiim in Gilgal; textual witnesses and historical geography require audit.",
+    "The thirty-one total may function as a literary conquest summary and should not be treated as a simple archaeological inventory.",
+    "Some kings in the list are not individually narrated in chapters 6-11, suggesting condensed traditions, broader campaign memory, or compositional layering.",
+    "Counting rulers as defeated can make the dead population disappear from view. The list must be read alongside the no-survivor formulas that precede it.",
+    "The territorial register is ancient literary geography and cannot serve as a modern deed or border claim."
+  ],
+  "safety_note": "Do not use Joshua 12 as a modern conquest ledger, territorial deed, nationalist scorecard, or proof that violence establishes moral ownership. Read the list critically as a victor's administrative memory that leaves civilians, losses, and displaced communities largely unnamed.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-22-of-24",
+    "tags": "partial-22-of-24",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-23-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

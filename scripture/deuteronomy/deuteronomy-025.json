@@ -1,1 +1,336 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":25,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim flogging, working-animal, levirate, mutilation, weights, and Amalek law, draft aligned later","review_note":"First-pass draft reviewed for judicial flogging limit, human dignity, unmuzzled ox, levirate marriage and refusal ritual, woman's hand-cutting penalty, honest measures, and Amalek memory command."},"verses":[{"verse":1,"restored":"If there is dispute between men and they approach judgment, and judges judge them, they shall justify righteous one and condemn wicked one."},{"verse":2,"restored":"It shall be, if wicked one deserves striking, judge shall cause him to lie down and he shall be struck before him according to measure of his wickedness, by number."},{"verse":3,"restored":"Forty he may strike him, he shall not add, lest if he adds to strike him beyond these with many blows, your brother be degraded in your eyes."},{"verse":4,"restored":"You shall not muzzle ox while it threshes."},{"verse":5,"restored":"If brothers dwell together and one of them dies and has no son, wife of dead shall not become wife outside to a strange man; her brother-in-law shall go in to her and take her to himself as wife and perform brother-in-law duty to her."},{"verse":6,"restored":"It shall be, firstborn whom she bears shall rise upon name of his dead brother, so his name is not blotted out from Israel."},{"verse":7,"restored":"But if man does not desire to take his sister-in-law, then his sister-in-law shall go up to gate to elders and say, My brother-in-law refuses to raise up for his brother a name in Israel; he is unwilling to perform brother-in-law duty for me."},{"verse":8,"restored":"Elders of his city shall call him and speak to him; and if he stands and says, I do not desire to take her,"},{"verse":9,"restored":"then his sister-in-law shall draw near to him before eyes of elders, remove his sandal from upon his foot, spit before/in his face, and answer and say, Thus shall be done to man who does not build house of his brother."},{"verse":10,"restored":"His name shall be called in Israel, House of the Unsandaled One."},{"verse":11,"restored":"If men fight together, a man and his brother, and wife of one draws near to rescue her husband from hand of one striking him, and stretches out her hand and seizes his genitals,"},{"verse":12,"restored":"then you shall cut off her hand; your eye shall not pity."},{"verse":13,"restored":"There shall not be in your bag a stone and a stone, large and small."},{"verse":14,"restored":"There shall not be in your house an ephah and an ephah, large and small."},{"verse":15,"restored":"A complete and just stone/weight shall be for you; a complete and just ephah/measure shall be for you, so your days may lengthen upon ground YHWH your Divine gives you."},{"verse":16,"restored":"For an abomination to YHWH your Divine is everyone doing these, everyone doing injustice."},{"verse":17,"restored":"Remember what Amalek did to you on way when you came out from Egypt,"},{"verse":18,"restored":"how he met you on way and attacked your rear, all the weak ones behind you, while you were faint and weary; and he did not fear Divine."},{"verse":19,"restored":"It shall be, when YHWH your Divine gives you rest from all enemies around in land YHWH your Divine gives you as inheritance to possess, you shall blot out memory of Amalek from under heavens; you shall not forget."}],"translation_notes":["The maximum of forty lashes limits corporal punishment and explicitly protects the condemned person's status as brother, but modern justice should not reenact judicial flogging.","The unmuzzled-ox law recognizes that a working animal may eat from the labor it performs and supports broader labor and animal-welfare ethics.","Levirate marriage seeks lineage and economic continuity for a widow, but the woman's future and reproductive labor remain constrained by patriarchal kinship expectations.","The refusal ritual gives the widow a public voice and allows the man to decline, though at the cost of shame.","The hand-cutting penalty in verses 11-12 is a gendered mutilation law focused on male reproductive injury. It must never be enforced and must not override a person's right to defend another from violence.","Honest weights and measures make ordinary commerce a matter of justice before YHWH.","The Amalek command turns memory of an attack on exhausted stragglers into a mandate to erase a people. It must never be mapped onto any modern ethnic, national, religious, or political group."],"safety_note":"Do not use Deuteronomy 25 to justify flogging, mutilation, coerced marriage, reproductive control, public sexual humiliation, or genocide in the name of Amalek. Center limits on punishment, dignity even for the condemned, animal and worker welfare, public recourse for widows, and honest commerce."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 25,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim flogging, working-animal, levirate, mutilation, weights, and Amalek law, draft aligned later",
+    "review_note": "First-pass draft reviewed for judicial flogging limit, human dignity, unmuzzled ox, levirate marriage and refusal ritual, woman's hand-cutting penalty, honest measures, and Amalek memory command."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "If there is dispute between men and they approach judgment, and judges judge them, they shall justify righteous one and condemn wicked one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If there be a controversy between men, and they come unto judgment, that the judges may judge them; then they shall justify the righteous, and condemn the wicked."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "It shall be, if wicked one deserves striking, judge shall cause him to lie down and he shall be struck before him according to measure of his wickedness, by number.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, if the wicked man be worthy to be beaten, that the judge shall cause him to lie down, and to be beaten before his face, according to his fault, by a certain number."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Forty he may strike him, he shall not add, lest if he adds to strike him beyond these with many blows, your brother be degraded in your eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "You shall not muzzle ox while it threshes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not muzzle the ox when he treadeth out the corn."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "If brothers dwell together and one of them dies and has no son, wife of dead shall not become wife outside to a strange man; her brother-in-law shall go in to her and take her to himself as wife and perform brother-in-law duty to her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If brethren dwell together, and one of them die, and have no child, the wife of the dead shall not marry without unto a stranger: her husband’s brother shall go in unto her, and take her to him to wife, and perform the duty of an husband’s brother unto her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "It shall be, firstborn whom she bears shall rise upon name of his dead brother, so his name is not blotted out from Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, that the firstborn which she beareth shall succeed in the name of his brother which is dead, that his name be not put out of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But if man does not desire to take his sister-in-law, then his sister-in-law shall go up to gate to elders and say, My brother-in-law refuses to raise up for his brother a name in Israel; he is unwilling to perform brother-in-law duty for me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the man like not to take his brother’s wife, then let his brother’s wife go up to the gate unto the elders, and say, My husband’s brother refuseth to raise up unto his brother a name in Israel, he will not perform the duty of my husband’s brother."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Elders of his city shall call him and speak to him; and if he stands and says, I do not desire to take her,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "then his sister-in-law shall draw near to him before eyes of elders, remove his sandal from upon his foot, spit before/in his face, and answer and say, Thus shall be done to man who does not build house of his brother.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall his brother’s wife come unto him in the presence of the elders, and loose his shoe from off his foot, and spit in his face, and shall answer and say, So shall it be done unto that man that will not build up his brother’s house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "His name shall be called in Israel, House of the Unsandaled One.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his name shall be called in Israel, The house of him that hath his shoe loosed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "If men fight together, a man and his brother, and wife of one draws near to rescue her husband from hand of one striking him, and stretches out her hand and seizes his genitals,",
+      "familiar": {
+        "source": "KJV",
+        "text": "When men strive together one with another, and the wife of the one draweth near for to deliver her husband out of the hand of him that smiteth him, and putteth forth her hand, and taketh him by the secrets:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "then you shall cut off her hand; your eye shall not pity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then thou shalt cut off her hand, thine eye shall not pity her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "There shall not be in your bag a stone and a stone, large and small.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not have in thy bag divers weights, a great and a small."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "There shall not be in your house an ephah and an ephah, large and small.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not have in thine house divers measures, a great and a small."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "A complete and just stone/weight shall be for you; a complete and just ephah/measure shall be for you, so your days may lengthen upon ground YHWH your Divine gives you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the LORD thy God giveth thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For an abomination to YHWH your Divine is everyone doing these, everyone doing injustice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For all that do such things, and all that do unrighteously, are an abomination unto the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Remember what Amalek did to you on way when you came out from Egypt,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember what Amalek did unto thee by the way, when ye were come forth out of Egypt;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "amalek-reception-risk"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "modern-targeting-prohibited"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "how he met you on way and attacked your rear, all the weak ones behind you, while you were faint and weary; and he did not fear Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "It shall be, when YHWH your Divine gives you rest from all enemies around in land YHWH your Divine gives you as inheritance to possess, you shall blot out memory of Amalek from under heavens; you shall not forget.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore it shall be, when the LORD thy God hath given thee rest from all thine enemies round about, in the land which the LORD thy God giveth thee for an inheritance to possess it, that thou shalt blot out the remembrance of Amalek from under heaven; thou shalt not forget it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "amalek-reception-risk"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "modern-targeting-prohibited"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The maximum of forty lashes limits corporal punishment and explicitly protects the condemned person's status as brother, but modern justice should not reenact judicial flogging.",
+    "The unmuzzled-ox law recognizes that a working animal may eat from the labor it performs and supports broader labor and animal-welfare ethics.",
+    "Levirate marriage seeks lineage and economic continuity for a widow, but the woman's future and reproductive labor remain constrained by patriarchal kinship expectations.",
+    "The refusal ritual gives the widow a public voice and allows the man to decline, though at the cost of shame.",
+    "The hand-cutting penalty in verses 11-12 is a gendered mutilation law focused on male reproductive injury. It must never be enforced and must not override a person's right to defend another from violence.",
+    "Honest weights and measures make ordinary commerce a matter of justice before YHWH.",
+    "The Amalek command turns memory of an attack on exhausted stragglers into a mandate to erase a people. It must never be mapped onto any modern ethnic, national, religious, or political group."
+  ],
+  "safety_note": "Do not use Deuteronomy 25 to justify flogging, mutilation, coerced marriage, reproductive control, public sexual humiliation, or genocide in the name of Amalek. Center limits on punishment, dignity even for the condemned, animal and worker welfare, public recourse for widows, and honest commerce.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-19",
+    "tags": "partial-7-of-19",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-19",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

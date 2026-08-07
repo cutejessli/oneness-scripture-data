@@ -1,1 +1,483 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":13,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel 13, first-pass restored draft aligned later","review_note":"Reviewed for damaged regnal formula, Jonathan/Saul credit, troop and chariot numbers, civilian hiding, Gilgal timing, unauthorized offering interpretation, dynasty rejection, heart-language misuse, Philistine metallurgy control, and under-resourcing safeguards."},"verses":[{"verse":1,"restored":"Saul was a son of a year in his reigning, and he reigned two years over Israel; the Hebrew numbers are damaged or incomplete."},{"verse":2,"restored":"Saul chose for himself three thousand from Israel: two thousand were with Saul at Michmash and hill country of Bethel, and one thousand were with Jonathan at Gibeah of Benjamin. He sent rest of people away, each to tent."},{"verse":3,"restored":"Jonathan struck garrison of Philistines that was at Geba, and Philistines heard. Saul blew trumpet throughout land, saying, Let Hebrews hear."},{"verse":4,"restored":"All Israel heard it said, Saul has struck garrison of Philistines, and Israel has also become odious to Philistines. People were summoned after Saul to Gilgal."},{"verse":5,"restored":"Philistines assembled to fight with Israel: thirty thousand chariots according to Hebrew text, six thousand horsemen, and people like sand upon shore in multitude. They went up and camped at Michmash, east of Beth-aven."},{"verse":6,"restored":"Men of Israel saw they were in distress, for people were hard pressed. People hid themselves in caves, thickets, rocks, pits, and cisterns."},{"verse":7,"restored":"Hebrews crossed Jordan to land of Gad and Gilead. Saul was still at Gilgal, and all people following him trembled."},{"verse":8,"restored":"He waited seven days, according to appointed time Samuel had set, but Samuel did not come to Gilgal, and people scattered from him."},{"verse":9,"restored":"Saul said, Bring near to me ascending offering and peace offerings. He offered ascending offering."},{"verse":10,"restored":"It happened as he finished offering ascending offering, look, Samuel came. Saul went out to meet him and bless/greet him."},{"verse":11,"restored":"Samuel said, What have you done? Saul said, Because I saw people scattering from me, you did not come within appointed days, and Philistines were assembling at Michmash,"},{"verse":12,"restored":"I said, Now Philistines will come down against me at Gilgal, and face of YHWH I have not entreated. So I compelled myself and offered ascending offering."},{"verse":13,"restored":"Samuel said to Saul, You have acted foolishly. You have not kept commandment of YHWH your Divine that he commanded you, for now YHWH would have established your kingdom over Israel to age."},{"verse":14,"restored":"But now your kingdom shall not endure. YHWH has sought for himself a man according to his heart, and YHWH has commanded him as leader over his people, because you did not keep what YHWH commanded you."},{"verse":15,"restored":"Samuel arose and went up from Gilgal to Gibeah of Benjamin. Saul mustered people found with him, about six hundred men."},{"verse":16,"restored":"Saul, Jonathan his son, and people found with them stayed in Geba of Benjamin, while Philistines camped at Michmash."},{"verse":17,"restored":"Destroying parties came out from camp of Philistines in three companies. One company turned toward Ophrah, toward land of Shual;"},{"verse":18,"restored":"one company turned toward Beth-horon; and one company turned toward border overlooking valley of Zeboim toward wilderness."},{"verse":19,"restored":"No smith was found in all land of Israel, for Philistines said, Lest Hebrews make sword or spear."},{"verse":20,"restored":"All Israel went down to Philistines, each to sharpen his plowshare, mattock, axe, and sickle."},{"verse":21,"restored":"The charge was a pim for plowshares and mattocks, and a third of shekel for sharpening axes and setting goads, according to difficult Hebrew."},{"verse":22,"restored":"So it happened on day of battle that neither sword nor spear was found in hand of any people with Saul and Jonathan, but they were found with Saul and Jonathan his son."},{"verse":23,"restored":"A Philistine outpost went out toward pass of Michmash."}],"translation_notes":["Verse 1 is textually damaged; confident age and reign-length claims exceed the preserved Hebrew.","Jonathan initiates the attack, while public messaging credits Saul. The chapter exposes how royal narratives can absorb subordinates' actions.","Military figures, especially thirty thousand chariots, require witness and historical audit.","People hiding and crossing the Jordan are civilians and soldiers responding to overwhelming danger, not cowards.","Saul acts under panic, delay, troop desertion, and strategic threat. Context explains his decision without making office or fear exempt from accountability.","Samuel's condemnation has dynastic and theological force but must not be used to punish anxiety, imperfect ritual, or lay spiritual practice.","'A man according to his heart' concerns the sought leader's commission and cannot establish moral perfection or immunity for David.","Philistine control of metalwork is economic and military domination. Technology restriction and debt-like sharpening costs deepen dependency.","Israel's lack of weapons does not make under-equipped people spiritually superior or justify sending them into preventable danger."],"safety_note":"Do not weaponize Saul's panic to shame anxious people, condemn non-clergy for prayer or ritual, or demand obedience to absent leaders. Do not romanticize under-equipment, military escalation, or Jonathan's attack. Damaged numbers and difficult economic terms must remain marked as uncertain."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel 13, first-pass restored draft aligned later",
+    "review_note": "Reviewed for damaged regnal formula, Jonathan/Saul credit, troop and chariot numbers, civilian hiding, Gilgal timing, unauthorized offering interpretation, dynasty rejection, heart-language misuse, Philistine metallurgy control, and under-resourcing safeguards."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Saul was a son of a year in his reigning, and he reigned two years over Israel; the Hebrew numbers are damaged or incomplete.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saul reigned one year; and when he had reigned two years over Israel,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Saul chose for himself three thousand from Israel: two thousand were with Saul at Michmash and hill country of Bethel, and one thousand were with Jonathan at Gibeah of Benjamin. He sent rest of people away, each to tent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saul chose him three thousand men of Israel; whereof two thousand were with Saul in Michmash and in mount Bethel, and a thousand were with Jonathan in Gibeah of Benjamin: and the rest of the people he sent every man to his tent."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Jonathan struck garrison of Philistines that was at Geba, and Philistines heard. Saul blew trumpet throughout land, saying, Let Hebrews hear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, Let the Hebrews hear."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "All Israel heard it said, Saul has struck garrison of Philistines, and Israel has also become odious to Philistines. People were summoned after Saul to Gilgal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all Israel heard say that Saul had smitten a garrison of the Philistines, and that Israel also was had in abomination with the Philistines. And the people were called together after Saul to Gilgal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Philistines assembled to fight with Israel: thirty thousand chariots according to Hebrew text, six thousand horsemen, and people like sand upon shore in multitude. They went up and camped at Michmash, east of Beth-aven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Philistines gathered themselves together to fight with Israel, thirty thousand chariots, and six thousand horsemen, and people as the sand which is on the sea shore in multitude: and they came up, and pitched in Michmash, eastward from Bethaven."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Men of Israel saw they were in distress, for people were hard pressed. People hid themselves in caves, thickets, rocks, pits, and cisterns.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the men of Israel saw that they were in a strait, (for the people were distressed,) then the people did hide themselves in caves, and in thickets, and in rocks, and in high places, and in pits."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Hebrews crossed Jordan to land of Gad and Gilead. Saul was still at Gilgal, and all people following him trembled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And some of the Hebrews went over Jordan to the land of Gad and Gilead. As for Saul, he was yet in Gilgal, and all the people followed him trembling."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He waited seven days, according to appointed time Samuel had set, but Samuel did not come to Gilgal, and people scattered from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he tarried seven days, according to the set time that Samuel had appointed: but Samuel came not to Gilgal; and the people were scattered from him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Saul said, Bring near to me ascending offering and peace offerings. He offered ascending offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Saul said, Bring hither a burnt offering to me, and peace offerings. And he offered the burnt offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "peace offering",
+          "source": "shelamim",
+          "language": "Hebrew",
+          "glossary_id": "shelamim",
+          "transliteration": "shelamim"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "It happened as he finished offering ascending offering, look, Samuel came. Saul went out to meet him and bless/greet him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that as soon as he had made an end of offering the burnt offering, behold, Samuel came; and Saul went out to meet him, that he might salute him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Samuel said, What have you done? Saul said, Because I saw people scattering from me, you did not come within appointed days, and Philistines were assembling at Michmash,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said, What hast thou done? And Saul said, Because I saw that the people were scattered from me, and that thou camest not within the days appointed, and that the Philistines gathered themselves together at Michmash;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "I said, Now Philistines will come down against me at Gilgal, and face of YHWH I have not entreated. So I compelled myself and offered ascending offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore said I, The Philistines will come down now upon me to Gilgal, and I have not made supplication unto the LORD: I forced myself therefore, and offered a burnt offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Samuel said to Saul, You have acted foolishly. You have not kept commandment of YHWH your Divine that he commanded you, for now YHWH would have established your kingdom over Israel to age.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said to Saul, Thou hast done foolishly: thou hast not kept the commandment of the LORD thy God, which he commanded thee: for now would the LORD have established thy kingdom upon Israel for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "But now your kingdom shall not endure. YHWH has sought for himself a man according to his heart, and YHWH has commanded him as leader over his people, because you did not keep what YHWH commanded you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now thy kingdom shall not continue: the LORD hath sought him a man after his own heart, and the LORD hath commanded him to be captain over his people, because thou hast not kept that which the LORD commanded thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Samuel arose and went up from Gilgal to Gibeah of Benjamin. Saul mustered people found with him, about six hundred men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel arose, and gat him up from Gilgal unto Gibeah of Benjamin. And Saul numbered the people that were present with him, about six hundred men."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Saul, Jonathan his son, and people found with them stayed in Geba of Benjamin, while Philistines camped at Michmash.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Saul, and Jonathan his son, and the people that were present with them, abode in Gibeah of Benjamin: but the Philistines encamped in Michmash."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Destroying parties came out from camp of Philistines in three companies. One company turned toward Ophrah, toward land of Shual;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the spoilers came out of the camp of the Philistines in three companies: one company turned unto the way that leadeth to Ophrah, unto the land of Shual:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "one company turned toward Beth-horon; and one company turned toward border overlooking valley of Zeboim toward wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And another company turned the way to Bethhoron: and another company turned to the way of the border that looketh to the valley of Zeboim toward the wilderness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "No smith was found in all land of Israel, for Philistines said, Lest Hebrews make sword or spear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now there was no smith found throughout all the land of Israel: for the Philistines said, Lest the Hebrews make them swords or spears:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "All Israel went down to Philistines, each to sharpen his plowshare, mattock, axe, and sickle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But all the Israelites went down to the Philistines, to sharpen every man his share, and his coulter, and his axe, and his mattock."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "The charge was a pim for plowshares and mattocks, and a third of shekel for sharpening axes and setting goads, according to difficult Hebrew.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet they had a file for the mattocks, and for the coulters, and for the forks, and for the axes, and to sharpen the goads."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "music-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "So it happened on day of battle that neither sword nor spear was found in hand of any people with Saul and Jonathan, but they were found with Saul and Jonathan his son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So it came to pass in the day of battle, that there was neither sword nor spear found in the hand of any of the people that were with Saul and Jonathan: but with Saul and with Jonathan his son was there found."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "A Philistine outpost went out toward pass of Michmash.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the garrison of the Philistines went out to the passage of Michmash."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Verse 1 is textually damaged; confident age and reign-length claims exceed the preserved Hebrew.",
+    "Jonathan initiates the attack, while public messaging credits Saul. The chapter exposes how royal narratives can absorb subordinates' actions.",
+    "Military figures, especially thirty thousand chariots, require witness and historical audit.",
+    "People hiding and crossing the Jordan are civilians and soldiers responding to overwhelming danger, not cowards.",
+    "Saul acts under panic, delay, troop desertion, and strategic threat. Context explains his decision without making office or fear exempt from accountability.",
+    "Samuel's condemnation has dynastic and theological force but must not be used to punish anxiety, imperfect ritual, or lay spiritual practice.",
+    "'A man according to his heart' concerns the sought leader's commission and cannot establish moral perfection or immunity for David.",
+    "Philistine control of metalwork is economic and military domination. Technology restriction and debt-like sharpening costs deepen dependency.",
+    "Israel's lack of weapons does not make under-equipped people spiritually superior or justify sending them into preventable danger."
+  ],
+  "safety_note": "Do not weaponize Saul's panic to shame anxious people, condemn non-clergy for prayer or ritual, or demand obedience to absent leaders. Do not romanticize under-equipment, military escalation, or Jonathan's attack. Damaged numbers and difficult economic terms must remain marked as uncertain.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-23",
+    "tags": "partial-17-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

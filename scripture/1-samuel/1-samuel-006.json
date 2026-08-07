@@ -1,1 +1,599 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel 6 draft aligned to guilt offering, cow/cart test, ark return, Beth-shemesh offering and deaths, and Kiriath-jearim request; maximum textual audit required.","review_note":"First-pass draft reviewed for Hebrew-first naming, restored/mystical separation, narrative ambiguity, institutional power, vulnerable persons, violence, and misuse risks."},"verses":[{"verse":1,"restored":"Ark of YHWH was in field of Philistines seven months."},{"verse":2,"restored":"Philistines called for priests and diviners, saying, What shall we do with ark of YHWH? Make known to us with what we shall send it to its place."},{"verse":3,"restored":"They said, If you send away ark of God of Israel, do not send it empty, but returning, return to him a guilt offering. Then you may be healed, and it will be known to you why his hand does not turn aside from you."},{"verse":4,"restored":"They said, What guilt offering shall we return to him? They said, According to number of lords of Philistines: five golden tumors and five golden mice, for one plague is upon all of you and upon your lords."},{"verse":5,"restored":"You shall make images of your tumors and images of your mice that ruin land, and give glory to God of Israel. Perhaps he will lighten his hand from upon you, your gods, and your land."},{"verse":6,"restored":"Why should you make your hearts heavy as Egyptians and Pharaoh made their hearts heavy? Was it not after he dealt severely with them that they sent them away and they went?"},{"verse":7,"restored":"Now take and make one new cart, and two milk cows upon whom no yoke has gone up. Bind cows to cart, and return their calves home from behind them."},{"verse":8,"restored":"Take ark of YHWH and put it upon cart. Put vessels of gold that you return to him as guilt offering in box at its side, send it, and let it go."},{"verse":9,"restored":"Watch: if it goes up by way of its territory to Beth-shemesh, he has done to us this great evil. But if not, then we will know that it was not his hand that struck us; by chance it happened to us."},{"verse":10,"restored":"Humans did so. They took two milk cows, bound them to cart, and shut their calves in house."},{"verse":11,"restored":"They set ark of YHWH upon cart, and box with golden mice and images of their tumors."},{"verse":12,"restored":"Cows went straight on way toward Beth-shemesh. On one highway they went, lowing as they went, and did not turn right or left. Lords of Philistines walked after them as far as border of Beth-shemesh."},{"verse":13,"restored":"Beth-shemesh was reaping wheat harvest in valley. They lifted their eyes, saw ark, and rejoiced to see it."},{"verse":14,"restored":"Cart came into field of Joshua the Beth-shemite and stood there. A great stone was there. They split wood of cart and offered cows as an ascending offering to YHWH."},{"verse":15,"restored":"Levites took down ark of YHWH and box that was with it, in which were vessels of gold, and set them upon great stone. Humans of Beth-shemesh offered ascending offerings and sacrificed sacrifices on that day to YHWH."},{"verse":16,"restored":"Five lords of Philistines saw and returned to Ekron on that day."},{"verse":17,"restored":"These are golden tumors that Philistines returned as guilt offering to YHWH: for Ashdod one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one."},{"verse":18,"restored":"And golden mice were according to number of all cities of Philistines belonging to five lords, from fortified city to village of open country. Great stone upon which they rested ark of YHWH is witness to this day in field of Joshua the Beth-shemite."},{"verse":19,"restored":"He struck among humans of Beth-shemesh because they looked into/at ark of YHWH; he struck among people seventy humans. The people mourned because YHWH had struck people with a great striking."},{"verse":20,"restored":"Humans of Beth-shemesh said, Who is able to stand before YHWH, this holy God? And to whom shall he go up from upon us?"},{"verse":21,"restored":"They sent messengers to inhabitants of Kiriath-jearim, saying, Philistines have returned ark of YHWH. Come down and bring it up to yourselves."}],"translation_notes":["Philistine priests and diviners are portrayed as genuine advisers within their community. The text need not be read as permission to ridicule non-Israelite religious expertise.","Golden tumors and mice are mimetic guilt offerings. They represent acknowledged harm but are not magical medical treatment or a substitute for public health.","The Egypt comparison belongs to Israelite narrative memory and should not fuel anti-Egyptian racism or simplistic equations between ancient and modern peoples.","The test uses nursing cows separated from calves, then kills the cows as sacrifice. Animal distress is audible in the narrative and must not be romanticized or repeated.","Omens and chance language reflect ancient discernment. They do not provide a safe method for making high-stakes modern decisions.","Beth-shemesh harvesters rejoice, but handling of the ark leads to a difficult death report. Textual witnesses differ dramatically: the Masoretic wording is commonly read as seventy, while other traditions preserve much larger or differently structured numbers.","Verse 19's reason may be looking at or into the ark, and textual details require maximum audit. The deaths cannot be made ethically simple by invoking holiness.","Collective striking of a community must not justify collective punishment, sacred terror, or claims that accidental ritual mistakes deserve death.","The Beth-shemesh question arises from trauma and fear. Holiness should not be taught as Divine hostility toward ordinary human bodies.","Sending the ark to Kiriath-jearim again transfers responsibility; consent and capacity of receiving communities matter.","Gold offered after harm does not restore dead people, heal trauma automatically, or purchase immunity.","Philistine and Israelite communities both respond to uncertainty through religious interpretation; neither should be caricatured as primitive."],"safety_note":"Do not imitate animal-distressing omen tests, use gold as magical medicine, or justify collective death for ritual error. Do not ridicule Philistine religion or treat uncertain plague language as medical fact. The Beth-shemesh deaths and textual variants require humility, trauma awareness, and rejection of sacred-terror preaching."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel 6 draft aligned to guilt offering, cow/cart test, ark return, Beth-shemesh offering and deaths, and Kiriath-jearim request; maximum textual audit required.",
+    "review_note": "First-pass draft reviewed for Hebrew-first naming, restored/mystical separation, narrative ambiguity, institutional power, vulnerable persons, violence, and misuse risks."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Ark of YHWH was in field of Philistines seven months.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the ark of the LORD was in the country of the Philistines seven months."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Philistines called for priests and diviners, saying, What shall we do with ark of YHWH? Make known to us with what we shall send it to its place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Philistines called for the priests and the diviners, saying, What shall we do to the ark of the LORD? tell us wherewith we shall send it to his place."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "They said, If you send away ark of God of Israel, do not send it empty, but returning, return to him a guilt offering. Then you may be healed, and it will be known to you why his hand does not turn aside from you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, If ye send away the ark of the God of Israel, send it not empty; but in any wise return him a trespass offering: then ye shall be healed, and it shall be known to you why his hand is not removed from you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "They said, What guilt offering shall we return to him? They said, According to number of lords of Philistines: five golden tumors and five golden mice, for one plague is upon all of you and upon your lords.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they, What shall be the trespass offering which we shall return to him? They answered, Five golden emerods, and five golden mice, according to the number of the lords of the Philistines: for one plague was on you all, and on your lords."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "You shall make images of your tumors and images of your mice that ruin land, and give glory to God of Israel. Perhaps he will lighten his hand from upon you, your gods, and your land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore ye shall make images of your emerods, and images of your mice that mar the land; and ye shall give glory unto the God of Israel: peradventure he will lighten his hand from off you, and from off your gods, and from off your land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Why should you make your hearts heavy as Egyptians and Pharaoh made their hearts heavy? Was it not after he dealt severely with them that they sent them away and they went?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore then do ye harden your hearts, as the Egyptians and Pharaoh hardened their hearts? when he had wrought wonderfully among them, did they not let the people go, and they departed?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Now take and make one new cart, and two milk cows upon whom no yoke has gone up. Bind cows to cart, and return their calves home from behind them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore make a new cart, and take two milch kine, on which there hath come no yoke, and tie the kine to the cart, and bring their calves home from them:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Take ark of YHWH and put it upon cart. Put vessels of gold that you return to him as guilt offering in box at its side, send it, and let it go.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And take the ark of the LORD, and lay it upon the cart; and put the jewels of gold, which ye return him for a trespass offering, in a coffer by the side thereof; and send it away, that it may go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Watch: if it goes up by way of its territory to Beth-shemesh, he has done to us this great evil. But if not, then we will know that it was not his hand that struck us; by chance it happened to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And see, if it goeth up by the way of his own coast to Bethshemesh, then he hath done us this great evil: but if not, then we shall know that it is not his hand that smote us: it was a chance that happened to us."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Humans did so. They took two milk cows, bound them to cart, and shut their calves in house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men did so; and took two milch kine, and tied them to the cart, and shut up their calves at home:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "They set ark of YHWH upon cart, and box with golden mice and images of their tumors.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they laid the ark of the LORD upon the cart, and the coffer with the mice of gold and the images of their emerods."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Cows went straight on way toward Beth-shemesh. On one highway they went, lowing as they went, and did not turn right or left. Lords of Philistines walked after them as far as border of Beth-shemesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the kine took the straight way to the way of Bethshemesh, and went along the highway, lowing as they went, and turned not aside to the right hand or to the left; and the lords of the Philistines went after them unto the border of Bethshemesh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Beth-shemesh was reaping wheat harvest in valley. They lifted their eyes, saw ark, and rejoiced to see it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they of Bethshemesh were reaping their wheat harvest in the valley: and they lifted up their eyes, and saw the ark, and rejoiced to see it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Cart came into field of Joshua the Beth-shemite and stood there. A great stone was there. They split wood of cart and offered cows as an ascending offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the cart came into the field of Joshua, a Bethshemite, and stood there, where there was a great stone: and they clave the wood of the cart, and offered the kine a burnt offering unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Levites took down ark of YHWH and box that was with it, in which were vessels of gold, and set them upon great stone. Humans of Beth-shemesh offered ascending offerings and sacrificed sacrifices on that day to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levites took down the ark of the LORD, and the coffer that was with it, wherein the jewels of gold were, and put them on the great stone: and the men of Bethshemesh offered burnt offerings and sacrificed sacrifices the same day unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Five lords of Philistines saw and returned to Ekron on that day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the five lords of the Philistines had seen it, they returned to Ekron the same day."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "These are golden tumors that Philistines returned as guilt offering to YHWH: for Ashdod one, for Gaza one, for Ashkelon one, for Gath one, for Ekron one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are the golden emerods which the Philistines returned for a trespass offering unto the LORD; for Ashdod one, for Gaza one, for Askelon one, for Gath one, for Ekron one;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "And golden mice were according to number of all cities of Philistines belonging to five lords, from fortified city to village of open country. Great stone upon which they rested ark of YHWH is witness to this day in field of Joshua the Beth-shemite.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the golden mice, according to the number of all the cities of the Philistines belonging to the five lords, both of fenced cities, and of country villages, even unto the great stone of Abel, whereon they set down the ark of the LORD: which stone remaineth unto this day in the field of Joshua, the Bethshemite."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "He struck among humans of Beth-shemesh because they looked into/at ark of YHWH; he struck among people seventy humans. The people mourned because YHWH had struck people with a great striking.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he smote the men of Bethshemesh, because they had looked into the ark of the LORD, even he smote of the people fifty thousand and threescore and ten men: and the people lamented, because the LORD had smitten many of the people with a great slaughter."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Humans of Beth-shemesh said, Who is able to stand before YHWH, this holy God? And to whom shall he go up from upon us?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of Bethshemesh said, Who is able to stand before this holy LORD God? and to whom shall he go up from us?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They sent messengers to inhabitants of Kiriath-jearim, saying, Philistines have returned ark of YHWH. Come down and bring it up to yourselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they sent messengers to the inhabitants of Kirjathjearim, saying, The Philistines have brought again the ark of the LORD; come ye down, and fetch it up to you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Philistine priests and diviners are portrayed as genuine advisers within their community. The text need not be read as permission to ridicule non-Israelite religious expertise.",
+    "Golden tumors and mice are mimetic guilt offerings. They represent acknowledged harm but are not magical medical treatment or a substitute for public health.",
+    "The Egypt comparison belongs to Israelite narrative memory and should not fuel anti-Egyptian racism or simplistic equations between ancient and modern peoples.",
+    "The test uses nursing cows separated from calves, then kills the cows as sacrifice. Animal distress is audible in the narrative and must not be romanticized or repeated.",
+    "Omens and chance language reflect ancient discernment. They do not provide a safe method for making high-stakes modern decisions.",
+    "Beth-shemesh harvesters rejoice, but handling of the ark leads to a difficult death report. Textual witnesses differ dramatically: the Masoretic wording is commonly read as seventy, while other traditions preserve much larger or differently structured numbers.",
+    "Verse 19's reason may be looking at or into the ark, and textual details require maximum audit. The deaths cannot be made ethically simple by invoking holiness.",
+    "Collective striking of a community must not justify collective punishment, sacred terror, or claims that accidental ritual mistakes deserve death.",
+    "The Beth-shemesh question arises from trauma and fear. Holiness should not be taught as Divine hostility toward ordinary human bodies.",
+    "Sending the ark to Kiriath-jearim again transfers responsibility; consent and capacity of receiving communities matter.",
+    "Gold offered after harm does not restore dead people, heal trauma automatically, or purchase immunity.",
+    "Philistine and Israelite communities both respond to uncertainty through religious interpretation; neither should be caricatured as primitive."
+  ],
+  "safety_note": "Do not imitate animal-distressing omen tests, use gold as magical medicine, or justify collective death for ritual error. Do not ridicule Philistine religion or treat uncertain plague language as medical fact. The Beth-shemesh deaths and textual variants require humility, trauma awareness, and rejection of sacred-terror preaching.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-14-of-21",
+    "tags": "partial-16-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

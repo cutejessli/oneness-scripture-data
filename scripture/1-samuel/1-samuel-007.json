@@ -1,1 +1,455 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":7,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel 7 draft aligned to Kiriath-jearim custody, Israel's return, Mizpah, battle, Ebenezer, territorial recovery, peace, and Samuel's circuit; later source/witness audit required.","review_note":"First-pass draft reviewed for Hebrew-first naming, restored/mystical separation, narrative ambiguity, institutional power, vulnerable persons, violence, and misuse risks."},"verses":[{"verse":1,"restored":"Humans of Kiriath-jearim came and brought up ark of YHWH. They brought it to house of Abinadab on hill and consecrated Eleazar his son to keep ark of YHWH."},{"verse":2,"restored":"It happened from day ark rested at Kiriath-jearim that days multiplied and became twenty years. All house of Israel lamented/longed after YHWH."},{"verse":3,"restored":"Samuel said to all house of Israel, If with all your heart you are returning to YHWH, remove foreign gods and Ashtaroth from among you, establish your heart toward YHWH, and serve him alone; then he will rescue you from hand of Philistines."},{"verse":4,"restored":"Children of Israel removed Baals and Ashtaroth and served YHWH alone."},{"verse":5,"restored":"Samuel said, Gather all Israel at Mizpah, and I will pray for you to YHWH."},{"verse":6,"restored":"They gathered at Mizpah, drew water and poured it before YHWH, fasted on that day, and said there, We have sinned against YHWH. Samuel judged children of Israel at Mizpah."},{"verse":7,"restored":"Philistines heard that children of Israel had gathered at Mizpah, and lords of Philistines went up against Israel. Children of Israel heard and were afraid before Philistines."},{"verse":8,"restored":"Children of Israel said to Samuel, Do not be silent from crying out for us to YHWH our God, that he may deliver us from hand of Philistines."},{"verse":9,"restored":"Samuel took one sucking lamb and offered it whole as an ascending offering to YHWH. Samuel cried out to YHWH for Israel, and YHWH answered him."},{"verse":10,"restored":"As Samuel was offering ascending offering, Philistines drew near for battle against Israel. YHWH thundered with a great voice on that day against Philistines, confused them, and they were struck before Israel."},{"verse":11,"restored":"Humans of Israel went out from Mizpah, pursued Philistines, and struck them as far as below Beth-car."},{"verse":12,"restored":"Samuel took one stone and set it between Mizpah and Shen. He called its name Ebenezer, saying, Thus far YHWH has helped us."},{"verse":13,"restored":"Philistines were subdued and did not continue to enter border of Israel. Hand of YHWH was against Philistines all days of Samuel."},{"verse":14,"restored":"Cities that Philistines had taken from Israel returned to Israel, from Ekron as far as Gath, and Israel rescued their territory from hand of Philistines. There was peace between Israel and Amorites."},{"verse":15,"restored":"Samuel judged Israel all days of his life."},{"verse":16,"restored":"He went from year to year and made circuit to Bethel, Gilgal, and Mizpah, and judged Israel in all these places."},{"verse":17,"restored":"His return was to Ramah, for there was his house, and there he judged Israel. He built there an altar to YHWH."}],"translation_notes":["Kiriath-jearim receives and houses the ark for twenty years. Sacred custody is responsibility, not ownership of Divine presence.","Israel's lamenting or longing after YHWH conveys communal desire and grief, not ethnic purity.","Samuel's command to remove Baals and Ashtaroth belongs to Israel's covenant exclusivity. It may not authorize religious persecution, destruction of others' sacred property, coercive conversion, or antisemitic/supersessionist claims.","Public confession is communal practice, not permission to compel individual disclosure or stage humiliation.","Fasting and pouring water are ritual actions whose exact meanings require audit; they are not mandatory techniques for earning deliverance.","Philistine military action is reported without making all Philistines timeless enemies.","Samuel's intercession does not establish clergy as gatekeepers who can sell access to God.","The sucking lamb sacrifice reflects an ancient animal-offering system and should not be reenacted or sentimentalized.","Thunder and battle confusion are narrated as Divine aid, but the ensuing pursuit remains violence and cannot become a universal holy-war model.","Ebenezer means stone of help. Memorials should remember dependence and loss, not erase casualties or become territorial triumphalism.","Territorial recovery and peace with Amorites are both reported; peace is not lesser than military success.","Samuel's circuit shows distributed access to judgment, though the narrative does not audit whose voices were excluded.","Samuel builds an altar at Ramah; this should not override later centralization traditions or authorize private religious domination."],"safety_note":"Do not use covenant exclusivity to persecute other religions or destroy sacred objects. Do not glorify war, animal sacrifice, coerced confession, or territorial domination. Ebenezer remembers help, not ethnic superiority. Philistines and Amorites remain human communities, and peace is a central good."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel 7 draft aligned to Kiriath-jearim custody, Israel's return, Mizpah, battle, Ebenezer, territorial recovery, peace, and Samuel's circuit; later source/witness audit required.",
+    "review_note": "First-pass draft reviewed for Hebrew-first naming, restored/mystical separation, narrative ambiguity, institutional power, vulnerable persons, violence, and misuse risks."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Humans of Kiriath-jearim came and brought up ark of YHWH. They brought it to house of Abinadab on hill and consecrated Eleazar his son to keep ark of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of Kirjathjearim came, and fetched up the ark of the LORD, and brought it into the house of Abinadab in the hill, and sanctified Eleazar his son to keep the ark of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "It happened from day ark rested at Kiriath-jearim that days multiplied and became twenty years. All house of Israel lamented/longed after YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, while the ark abode in Kirjathjearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Samuel said to all house of Israel, If with all your heart you are returning to YHWH, remove foreign gods and Ashtaroth from among you, establish your heart toward YHWH, and serve him alone; then he will rescue you from hand of Philistines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel spake unto all the house of Israel, saying, If ye do return unto the LORD with all your hearts, then put away the strange gods and Ashtaroth from among you, and prepare your hearts unto the LORD, and serve him only: and he will deliver you out of the hand of the Philistines."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Children of Israel removed Baals and Ashtaroth and served YHWH alone.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the children of Israel did put away Baalim and Ashtaroth, and served the LORD only."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Samuel said, Gather all Israel at Mizpah, and I will pray for you to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said, Gather all Israel to Mizpeh, and I will pray for you unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "They gathered at Mizpah, drew water and poured it before YHWH, fasted on that day, and said there, We have sinned against YHWH. Samuel judged children of Israel at Mizpah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gathered together to Mizpeh, and drew water, and poured it out before the LORD, and fasted on that day, and said there, We have sinned against the LORD. And Samuel judged the children of Israel in Mizpeh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Philistines heard that children of Israel had gathered at Mizpah, and lords of Philistines went up against Israel. Children of Israel heard and were afraid before Philistines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Children of Israel said to Samuel, Do not be silent from crying out for us to YHWH our God, that he may deliver us from hand of Philistines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel said to Samuel, Cease not to cry unto the LORD our God for us, that he will save us out of the hand of the Philistines."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Samuel took one sucking lamb and offered it whole as an ascending offering to YHWH. Samuel cried out to YHWH for Israel, and YHWH answered him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel took a sucking lamb, and offered it for a burnt offering wholly unto the LORD: and Samuel cried unto the LORD for Israel; and the LORD heard him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "As Samuel was offering ascending offering, Philistines drew near for battle against Israel. YHWH thundered with a great voice on that day against Philistines, confused them, and they were struck before Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the LORD thundered with a great thunder on that day upon the Philistines, and discomfited them; and they were smitten before Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Humans of Israel went out from Mizpah, pursued Philistines, and struck them as far as below Beth-car.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the men of Israel went out of Mizpeh, and pursued the Philistines, and smote them, until they came under Bethcar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Samuel took one stone and set it between Mizpah and Shen. He called its name Ebenezer, saying, Thus far YHWH has helped us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Samuel took a stone, and set it between Mizpeh and Shen, and called the name of it Ebenezer, saying, Hitherto hath the LORD helped us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Philistines were subdued and did not continue to enter border of Israel. Hand of YHWH was against Philistines all days of Samuel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the LORD was against the Philistines all the days of Samuel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Cities that Philistines had taken from Israel returned to Israel, from Ekron as far as Gath, and Israel rescued their territory from hand of Philistines. There was peace between Israel and Amorites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Samuel judged Israel all days of his life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel judged Israel all the days of his life."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He went from year to year and made circuit to Bethel, Gilgal, and Mizpah, and judged Israel in all these places.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went from year to year in circuit to Bethel, and Gilgal, and Mizpeh, and judged Israel in all those places."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "His return was to Ramah, for there was his house, and there he judged Israel. He built there an altar to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And his return was to Ramah; for there was his house; and there he judged Israel; and there he built an altar unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Kiriath-jearim receives and houses the ark for twenty years. Sacred custody is responsibility, not ownership of Divine presence.",
+    "Israel's lamenting or longing after YHWH conveys communal desire and grief, not ethnic purity.",
+    "Samuel's command to remove Baals and Ashtaroth belongs to Israel's covenant exclusivity. It may not authorize religious persecution, destruction of others' sacred property, coercive conversion, or antisemitic/supersessionist claims.",
+    "Public confession is communal practice, not permission to compel individual disclosure or stage humiliation.",
+    "Fasting and pouring water are ritual actions whose exact meanings require audit; they are not mandatory techniques for earning deliverance.",
+    "Philistine military action is reported without making all Philistines timeless enemies.",
+    "Samuel's intercession does not establish clergy as gatekeepers who can sell access to God.",
+    "The sucking lamb sacrifice reflects an ancient animal-offering system and should not be reenacted or sentimentalized.",
+    "Thunder and battle confusion are narrated as Divine aid, but the ensuing pursuit remains violence and cannot become a universal holy-war model.",
+    "Ebenezer means stone of help. Memorials should remember dependence and loss, not erase casualties or become territorial triumphalism.",
+    "Territorial recovery and peace with Amorites are both reported; peace is not lesser than military success.",
+    "Samuel's circuit shows distributed access to judgment, though the narrative does not audit whose voices were excluded.",
+    "Samuel builds an altar at Ramah; this should not override later centralization traditions or authorize private religious domination."
+  ],
+  "safety_note": "Do not use covenant exclusivity to persecute other religions or destroy sacred objects. Do not glorify war, animal sacrifice, coerced confession, or territorial domination. Ebenezer remembers help, not ethnic superiority. Philistines and Amorites remain human communities, and peace is a central good.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-17",
+    "tags": "partial-13-of-17",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-17",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

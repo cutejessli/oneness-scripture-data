@@ -1,1 +1,696 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel 12, first-pass restored draft aligned later","review_note":"Reviewed for Samuel's public accountability, sons' corruption distinction, historical theology, Bedan variant, king-and-people parity, harvest storm, fear response, prayer duty, and anti-authoritarian safeguards."},"verses":[{"verse":1,"restored":"Samuel said to all Israel, Look, I have listened to your voice in all you said to me, and I have set a king over you."},{"verse":2,"restored":"Now look, king walks before you. I am old and gray, and look, my sons are with you. I have walked before you from my youth to this day."},{"verse":3,"restored":"Here I am. Answer against me before YHWH and before his anointed: Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I crushed? From whose hand have I taken a bribe to hide my eyes? I will restore it to you."},{"verse":4,"restored":"They said, You have not defrauded us, you have not crushed us, and you have not taken anything from hand of anyone."},{"verse":5,"restored":"He said to them, YHWH is witness against you, and his anointed is witness this day, that you have found nothing in my hand. They said, Witness."},{"verse":6,"restored":"Samuel said to people, YHWH is the one who appointed Moses and Aaron and brought your ancestors up from land of Egypt."},{"verse":7,"restored":"Now stand, and I will enter judgment with you before YHWH concerning all righteous acts of YHWH that he did with you and with your ancestors."},{"verse":8,"restored":"When Jacob came to Egypt and your ancestors cried to YHWH, YHWH sent Moses and Aaron, and they brought your ancestors out from Egypt and caused them to dwell in this place."},{"verse":9,"restored":"But they forgot YHWH their Divine, and he sold them into hand of Sisera commander of army of Hazor, into hand of Philistines, and into hand of king of Moab, and they fought against them."},{"verse":10,"restored":"They cried to YHWH and said, We have sinned, because we forsook YHWH and served Baals and Ashtaroth; now rescue us from hand of our enemies, and we will serve you."},{"verse":11,"restored":"YHWH sent Jerubbaal, Bedan, Jephthah, and Samuel, and rescued you from hand of enemies around you, and you dwelt securely."},{"verse":12,"restored":"When you saw Nahash king of children of Ammon coming against you, you said to me, No, but a king shall reign over us, though YHWH your Divine was your king."},{"verse":13,"restored":"Now look, king whom you chose and whom you asked for; look, YHWH has set a king over you."},{"verse":14,"restored":"If you fear YHWH, serve him, listen to his voice, and do not rebel against mouth of YHWH, then both you and king who reigns over you shall follow YHWH your Divine."},{"verse":15,"restored":"But if you do not listen to voice of YHWH and rebel against mouth of YHWH, hand of YHWH will be against you and against your ancestors/king, according to textual reading."},{"verse":16,"restored":"Now stand and see this great thing that YHWH will do before your eyes."},{"verse":17,"restored":"Is it not wheat harvest today? I will call to YHWH, and he will give thunder and rain, and you shall know and see that your evil is great, which you have done in eyes of YHWH by asking for a king."},{"verse":18,"restored":"Samuel called to YHWH, and YHWH gave thunder and rain that day. All people greatly feared YHWH and Samuel."},{"verse":19,"restored":"All people said to Samuel, Pray for your servants to YHWH your Divine, that we may not die, for we have added to all our sins the evil of asking for a king."},{"verse":20,"restored":"Samuel said to people, Do not fear. You have done all this evil; yet do not turn aside from following YHWH, and serve YHWH with all your heart."},{"verse":21,"restored":"Do not turn aside after empty things that cannot profit or rescue, because they are empty."},{"verse":22,"restored":"For YHWH will not abandon his people for sake of his great name, because YHWH was pleased to make you a people for himself."},{"verse":23,"restored":"Also as for me, far be it from me that I should sin against YHWH by ceasing to pray for you; I will instruct you in good and upright way."},{"verse":24,"restored":"Only fear YHWH and serve him in faithfulness with all your heart, for see what great things he has done with you."},{"verse":25,"restored":"But if doing evil you do evil, both you and your king will be swept away."}],"translation_notes":["Samuel publicly submits his conduct to questions about property seizure, fraud, oppression, bribery, and restitution. Religious leaders require material accountability.","The people's affirmation concerns Samuel, not his sons; chapter 8's corruption complaint remains valid.","The historical review uses ancient covenant theology and cannot justify victim-blaming oppressed communities.","Bedan in verse 11 is textually difficult; witnesses and traditions vary, often linking the name with Barak.","King and people are placed under the same ethical demand. Anointing does not place rulers above law or prophetic critique.","The wheat-harvest storm functions as a sign within the narrative but may not justify terrorizing communities with weather or claiming disasters prove political sin.","The people's fear of death is answered with 'Do not fear' and continued belonging, not expulsion.","Prayer and instruction continue after political disagreement; spiritual care must not be withheld as punishment.","The final warning addresses both ruler and people, blocking leader worship and collective exemption from responsibility."],"safety_note":"Do not use this chapter to shame democratic participation, sanctify monarchy, terrorize people with weather, or make disasters evidence of Divine political judgment. Leaders must answer questions about theft, oppression, bribery, and restitution. Religious care may not be withheld from communities that make disputed choices."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel 12, first-pass restored draft aligned later",
+    "review_note": "Reviewed for Samuel's public accountability, sons' corruption distinction, historical theology, Bedan variant, king-and-people parity, harvest storm, fear response, prayer duty, and anti-authoritarian safeguards."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Samuel said to all Israel, Look, I have listened to your voice in all you said to me, and I have set a king over you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said unto all Israel, Behold, I have hearkened unto your voice in all that ye said unto me, and have made a king over you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Now look, king walks before you. I am old and gray, and look, my sons are with you. I have walked before you from my youth to this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, behold, the king walketh before you: and I am old and grayheaded; and, behold, my sons are with you: and I have walked before you from my childhood unto this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Here I am. Answer against me before YHWH and before his anointed: Whose ox have I taken? Whose donkey have I taken? Whom have I defrauded? Whom have I crushed? From whose hand have I taken a bribe to hide my eyes? I will restore it to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, here I am: witness against me before the LORD, and before his anointed: whose ox have I taken? or whose ass have I taken? or whom have I defrauded? whom have I oppressed? or of whose hand have I received any bribe to blind mine eyes therewith? and I will restore it you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "They said, You have not defrauded us, you have not crushed us, and you have not taken anything from hand of anyone.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, Thou hast not defrauded us, nor oppressed us, neither hast thou taken ought of any man’s hand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "He said to them, YHWH is witness against you, and his anointed is witness this day, that you have found nothing in my hand. They said, Witness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, The LORD is witness against you, and his anointed is witness this day, that ye have not found ought in my hand. And they answered, He is witness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Samuel said to people, YHWH is the one who appointed Moses and Aaron and brought your ancestors up from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said unto the people, It is the LORD that advanced Moses and Aaron, and that brought your fathers up out of the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Now stand, and I will enter judgment with you before YHWH concerning all righteous acts of YHWH that he did with you and with your ancestors.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore stand still, that I may reason with you before the LORD of all the righteous acts of the LORD, which he did to you and to your fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "When Jacob came to Egypt and your ancestors cried to YHWH, YHWH sent Moses and Aaron, and they brought your ancestors out from Egypt and caused them to dwell in this place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Jacob was come into Egypt, and your fathers cried unto the LORD, then the LORD sent Moses and Aaron, which brought forth your fathers out of Egypt, and made them dwell in this place."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But they forgot YHWH their Divine, and he sold them into hand of Sisera commander of army of Hazor, into hand of Philistines, and into hand of king of Moab, and they fought against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they forgat the LORD their God, he sold them into the hand of Sisera, captain of the host of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "They cried to YHWH and said, We have sinned, because we forsook YHWH and served Baals and Ashtaroth; now rescue us from hand of our enemies, and we will serve you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they cried unto the LORD, and said, We have sinned, because we have forsaken the LORD, and have served Baalim and Ashtaroth: but now deliver us out of the hand of our enemies, and we will serve thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "YHWH sent Jerubbaal, Bedan, Jephthah, and Samuel, and rescued you from hand of enemies around you, and you dwelt securely.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD sent Jerubbaal, and Bedan, and Jephthah, and Samuel, and delivered you out of the hand of your enemies on every side, and ye dwelled safe."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "When you saw Nahash king of children of Ammon coming against you, you said to me, No, but a king shall reign over us, though YHWH your Divine was your king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when ye saw that Nahash the king of the children of Ammon came against you, ye said unto me, Nay; but a king shall reign over us: when the LORD your God was your king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Now look, king whom you chose and whom you asked for; look, YHWH has set a king over you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore behold the king whom ye have chosen, and whom ye have desired! and, behold, the LORD hath set a king over you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "If you fear YHWH, serve him, listen to his voice, and do not rebel against mouth of YHWH, then both you and king who reigns over you shall follow YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye will fear the LORD, and serve him, and obey his voice, and not rebel against the commandment of the LORD, then shall both ye and also the king that reigneth over you continue following the LORD your God:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "reign",
+          "source": "malakh",
+          "language": "Hebrew",
+          "glossary_id": "malakh",
+          "transliteration": "malakh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "But if you do not listen to voice of YHWH and rebel against mouth of YHWH, hand of YHWH will be against you and against your ancestors/king, according to textual reading.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye will not obey the voice of the LORD, but rebel against the commandment of the LORD, then shall the hand of the LORD be against you, as it was against your fathers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Now stand and see this great thing that YHWH will do before your eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore stand and see this great thing, which the LORD will do before your eyes."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Is it not wheat harvest today? I will call to YHWH, and he will give thunder and rain, and you shall know and see that your evil is great, which you have done in eyes of YHWH by asking for a king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Is it not wheat harvest to day? I will call unto the LORD, and he shall send thunder and rain; that ye may perceive and see that your wickedness is great, which ye have done in the sight of the LORD, in asking you a king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Samuel called to YHWH, and YHWH gave thunder and rain that day. All people greatly feared YHWH and Samuel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Samuel called unto the LORD; and the LORD sent thunder and rain that day: and all the people greatly feared the LORD and Samuel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "All people said to Samuel, Pray for your servants to YHWH your Divine, that we may not die, for we have added to all our sins the evil of asking for a king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the people said unto Samuel, Pray for thy servants unto the LORD thy God, that we die not: for we have added unto all our sins this evil, to ask us a king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Samuel said to people, Do not fear. You have done all this evil; yet do not turn aside from following YHWH, and serve YHWH with all your heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Samuel said unto the people, Fear not: ye have done all this wickedness: yet turn not aside from following the LORD, but serve the LORD with all your heart;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Do not turn aside after empty things that cannot profit or rescue, because they are empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And turn ye not aside: for then should ye go after vain things, which cannot profit nor deliver; for they are vain."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For YHWH will not abandon his people for sake of his great name, because YHWH was pleased to make you a people for himself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD will not forsake his people for his great name’s sake: because it hath pleased the LORD to make you his people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Also as for me, far be it from me that I should sin against YHWH by ceasing to pray for you; I will instruct you in good and upright way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover as for me, God forbid that I should sin against the LORD in ceasing to pray for you: but I will teach you the good and the right way:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Only fear YHWH and serve him in faithfulness with all your heart, for see what great things he has done with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only fear the LORD, and serve him in truth with all your heart: for consider how great things he hath done for you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But if doing evil you do evil, both you and your king will be swept away.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye shall still do wickedly, ye shall be consumed, both ye and your king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Samuel publicly submits his conduct to questions about property seizure, fraud, oppression, bribery, and restitution. Religious leaders require material accountability.",
+    "The people's affirmation concerns Samuel, not his sons; chapter 8's corruption complaint remains valid.",
+    "The historical review uses ancient covenant theology and cannot justify victim-blaming oppressed communities.",
+    "Bedan in verse 11 is textually difficult; witnesses and traditions vary, often linking the name with Barak.",
+    "King and people are placed under the same ethical demand. Anointing does not place rulers above law or prophetic critique.",
+    "The wheat-harvest storm functions as a sign within the narrative but may not justify terrorizing communities with weather or claiming disasters prove political sin.",
+    "The people's fear of death is answered with 'Do not fear' and continued belonging, not expulsion.",
+    "Prayer and instruction continue after political disagreement; spiritual care must not be withheld as punishment.",
+    "The final warning addresses both ruler and people, blocking leader worship and collective exemption from responsibility."
+  ],
+  "safety_note": "Do not use this chapter to shame democratic participation, sanctify monarchy, terrorize people with weather, or make disasters evidence of Divine political judgment. Leaders must answer questions about theft, oppression, bribery, and restitution. Religious care may not be withheld from communities that make disputed choices.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-23-of-25",
+    "tags": "partial-10-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

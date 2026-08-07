@@ -1,1 +1,488 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":15,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim debt-release, poverty, servant-release, and firstborn law, draft aligned later","review_note":"First-pass draft reviewed for seventh-year release, lending ethics, poverty contradiction, open-hand command, anti-hardheartedness warning, Hebrew servant liberation gifts, voluntary permanent service, and firstborn animal consecration."},"verses":[{"verse":1,"restored":"At end of seven years you shall make a release."},{"verse":2,"restored":"This is matter of release: every creditor shall release what he lent to his neighbor; he shall not press his neighbor or his brother, because release to YHWH has been proclaimed."},{"verse":3,"restored":"The foreigner you may press, but what is yours with your brother your hand shall release."},{"verse":4,"restored":"Yet there should be no poor among you, for YHWH will surely bless you in land YHWH your Divine gives you as inheritance to possess,"},{"verse":5,"restored":"if only you diligently listen to voice of YHWH your Divine, keeping to do all this command I command you today."},{"verse":6,"restored":"For YHWH your Divine will bless you as he spoke to you; you shall lend to many nations but shall not borrow, and rule over many nations but they shall not rule over you."},{"verse":7,"restored":"If there is among you a poor person, one of your brothers, within one of your gates in your land YHWH your Divine gives you, you shall not harden your heart or shut your hand from your poor brother."},{"verse":8,"restored":"But you shall surely open your hand to him and surely lend him enough for his lack, whatever is lacking to him."},{"verse":9,"restored":"Guard yourself lest there be a worthless word in your heart, saying, Seventh year, year of release, is near, and your eye is evil toward your poor brother and you give him nothing; he may cry to YHWH against you, and sin/misalignment will be in you."},{"verse":10,"restored":"You shall surely give to him, and your heart shall not be grieved when you give, because for this thing YHWH your Divine will bless you in all your work and in all undertaking of your hand."},{"verse":11,"restored":"For poor will not cease from midst of land; therefore I command you, saying, You shall surely open your hand to your brother, to your poor and needy in your land."},{"verse":12,"restored":"If your brother, a Hebrew man or Hebrew woman, is sold to you, he shall serve you six years, and in seventh year you shall send him free from you."},{"verse":13,"restored":"When you send him free from you, you shall not send him empty."},{"verse":14,"restored":"You shall surely furnish him from your flock, threshing floor, and winepress; from what YHWH your Divine blessed you, you shall give to him."},{"verse":15,"restored":"You shall remember you were a slave in land of Egypt and YHWH your Divine redeemed you; therefore I command you this thing today."},{"verse":16,"restored":"It shall be, if he says to you, I will not go out from you, because he loves you and your house, because it is good for him with you,"},{"verse":17,"restored":"then you shall take awl and put it through his ear into door, and he shall be your servant permanently; and also to your female servant you shall do likewise."},{"verse":18,"restored":"It shall not be hard in your eyes when you send him free from you, for double value of hired worker he served you six years; and YHWH your Divine will bless you in all you do."},{"verse":19,"restored":"Every firstborn male born in your herd and flock you shall sanctify to YHWH your Divine; you shall not work with firstborn of ox or shear firstborn of flock."},{"verse":20,"restored":"Before YHWH your Divine you shall eat it year by year in place YHWH chooses, you and your household."},{"verse":21,"restored":"If there is in it blemish—lame or blind, any bad blemish—you shall not sacrifice it to YHWH your Divine."},{"verse":22,"restored":"Within your gates you shall eat it; unclean and clean together, like gazelle and deer."},{"verse":23,"restored":"Only its blood you shall not eat; upon earth you shall pour it like water."}],"translation_notes":["The seventh-year release interrupts indefinite debt pressure within the covenant community.","Verse 4's vision that there need be no poor stands beside verse 11's realism that poverty persists; the tension intensifies rather than cancels the open-hand command.","The permission to press a foreigner reflects unequal ancient in-group/out-group economics and must not justify predatory lending or xenophobia.","The poor person's actual lack determines the response; giving is not limited to symbolic charity.","Hebrew servants, male and female, are released with productive assets because Exodus memory forbids liberation into destitution.","Permanent ear-piercing service remains an ancient dependency structure and must not be romanticized as consent free from economic pressure.","Disability language about sacrificial blemish concerns altar eligibility, not the worth of disabled humans or animals."],"safety_note":"Do not use Deuteronomy 15 to defend slavery, debt bondage, xenophobic finance, coerced service, or disability stigma. Center debt release, open-handed provision, liberation with resources, and the Exodus demand that freedom must be materially survivable."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 15,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim debt-release, poverty, servant-release, and firstborn law, draft aligned later",
+    "review_note": "First-pass draft reviewed for seventh-year release, lending ethics, poverty contradiction, open-hand command, anti-hardheartedness warning, Hebrew servant liberation gifts, voluntary permanent service, and firstborn animal consecration."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At end of seven years you shall make a release.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At the end of every seven years thou shalt make a release."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "This is matter of release: every creditor shall release what he lent to his neighbor; he shall not press his neighbor or his brother, because release to YHWH has been proclaimed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the LORD’s release."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "The foreigner you may press, but what is yours with your brother your hand shall release.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of a foreigner thou mayest exact it again: but that which is thine with thy brother thine hand shall release;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Yet there should be no poor among you, for YHWH will surely bless you in land YHWH your Divine gives you as inheritance to possess,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee for an inheritance to possess it:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "if only you diligently listen to voice of YHWH your Divine, keeping to do all this command I command you today.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "For YHWH your Divine will bless you as he spoke to you; you shall lend to many nations but shall not borrow, and rule over many nations but they shall not rule over you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If there is among you a poor person, one of your brothers, within one of your gates in your land YHWH your Divine gives you, you shall not harden your heart or shut your hand from your poor brother.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But you shall surely open your hand to him and surely lend him enough for his lack, whatever is lacking to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Guard yourself lest there be a worthless word in your heart, saying, Seventh year, year of release, is near, and your eye is evil toward your poor brother and you give him nothing; he may cry to YHWH against you, and sin/misalignment will be in you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "You shall surely give to him, and your heart shall not be grieved when you give, because for this thing YHWH your Divine will bless you in all your work and in all undertaking of your hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For poor will not cease from midst of land; therefore I command you, saying, You shall surely open your hand to your brother, to your poor and needy in your land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "If your brother, a Hebrew man or Hebrew woman, is sold to you, he shall serve you six years, and in seventh year you shall send him free from you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "When you send him free from you, you shall not send him empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when thou sendest him out free from thee, thou shalt not let him go away empty:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "You shall surely furnish him from your flock, threshing floor, and winepress; from what YHWH your Divine blessed you, you shall give to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the LORD thy God hath blessed thee thou shalt give unto him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "You shall remember you were a slave in land of Egypt and YHWH your Divine redeemed you; therefore I command you this thing today.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "It shall be, if he says to you, I will not go out from you, because he loves you and your house, because it is good for him with you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "then you shall take awl and put it through his ear into door, and he shall be your servant permanently; and also to your female servant you shall do likewise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "It shall not be hard in your eyes when you send him free from you, for double value of hired worker he served you six years; and YHWH your Divine will bless you in all you do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and the LORD thy God shall bless thee in all that thou doest."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Every firstborn male born in your herd and flock you shall sanctify to YHWH your Divine; you shall not work with firstborn of ox or shear firstborn of flock.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Before YHWH your Divine you shall eat it year by year in place YHWH chooses, you and your household.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "If there is in it blemish—lame or blind, any bad blemish—you shall not sacrifice it to YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Within your gates you shall eat it; unclean and clean together, like gazelle and deer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike, as the roebuck, and as the hart."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Only its blood you shall not eat; upon earth you shall pour it like water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The seventh-year release interrupts indefinite debt pressure within the covenant community.",
+    "Verse 4's vision that there need be no poor stands beside verse 11's realism that poverty persists; the tension intensifies rather than cancels the open-hand command.",
+    "The permission to press a foreigner reflects unequal ancient in-group/out-group economics and must not justify predatory lending or xenophobia.",
+    "The poor person's actual lack determines the response; giving is not limited to symbolic charity.",
+    "Hebrew servants, male and female, are released with productive assets because Exodus memory forbids liberation into destitution.",
+    "Permanent ear-piercing service remains an ancient dependency structure and must not be romanticized as consent free from economic pressure.",
+    "Disability language about sacrificial blemish concerns altar eligibility, not the worth of disabled humans or animals."
+  ],
+  "safety_note": "Do not use Deuteronomy 15 to defend slavery, debt bondage, xenophobic finance, coerced service, or disability stigma. Center debt release, open-handed provision, liberation with resources, and the Exodus demand that freedom must be materially survivable.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-13-of-23",
+    "tags": "partial-6-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

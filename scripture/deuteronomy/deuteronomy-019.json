@@ -1,1 +1,396 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":19,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim refuge-city, boundary, witness, and retaliation law, draft aligned later","review_note":"First-pass draft reviewed for three and expanded refuge cities, road preparation, accidental killing, blood-avenger limits, intentional murder removal, boundary stones, two-or-three-witness rule, false-witness investigation, and lex talionis."},"verses":[{"verse":1,"restored":"When YHWH your Divine cuts off nations whose land YHWH your Divine gives you, and you dispossess them and dwell in their cities and houses,"},{"verse":2,"restored":"you shall separate three cities for yourself in midst of your land YHWH your Divine gives you to possess."},{"verse":3,"restored":"You shall prepare road for yourself and divide territory of your land YHWH your Divine causes you to inherit into three parts, so every manslayer may flee there."},{"verse":4,"restored":"This is matter of manslayer who may flee there and live: one who strikes his neighbor without knowledge and did not hate him in time past."},{"verse":5,"restored":"As when a man goes with his neighbor into forest to cut wood, and his hand swings axe to cut tree, and iron slips from handle and strikes his neighbor so he dies; he may flee to one of these cities and live."},{"verse":6,"restored":"Lest blood-avenger pursue manslayer while his heart is hot, overtake him because way is long, and strike his soul/life, though judgment of death was not upon him, because he did not hate him in time past."},{"verse":7,"restored":"Therefore I command you, saying, Three cities you shall separate for yourself."},{"verse":8,"restored":"If YHWH your Divine enlarges your border as he swore to your fathers and gives you all land he spoke to give your fathers,"},{"verse":9,"restored":"when you keep all this command to do it, which I command you today, to love YHWH your Divine and walk in his ways all days, then you shall add three more cities for yourself besides these three,"},{"verse":10,"restored":"so innocent blood is not shed in midst of your land YHWH your Divine gives you as inheritance, and bloodguilt be upon you."},{"verse":11,"restored":"But if a man hates his neighbor and lies in wait for him and rises against him and strikes his soul/life so he dies, and flees to one of these cities,"},{"verse":12,"restored":"then elders of his city shall send and take him from there and give him into hand of blood-avenger, and he shall die."},{"verse":13,"restored":"Your eye shall not pity him; you shall purge blood of innocent from Israel, so it may be well with you."},{"verse":14,"restored":"You shall not move boundary marker of your neighbor, which former ones set in your inheritance that you inherit in land YHWH your Divine gives you to possess."},{"verse":15,"restored":"One witness shall not rise against a man concerning any iniquity or any sin/misalignment, in any sin he commits; by mouth of two witnesses or mouth of three witnesses a matter shall be established."},{"verse":16,"restored":"If a malicious witness rises against a man to answer against him concerning rebellion/wrongdoing,"},{"verse":17,"restored":"then two men who have dispute shall stand before YHWH, before priests and judges who are in those days."},{"verse":18,"restored":"Judges shall inquire diligently; and look, if witness is false, he answered falsely against his brother,"},{"verse":19,"restored":"then you shall do to him as he schemed to do to his brother; so you shall remove evil from your midst."},{"verse":20,"restored":"Those remaining shall hear and fear/revere and never again do according to this evil thing in your midst."},{"verse":21,"restored":"Your eye shall not pity: soul/life for soul/life, eye for eye, tooth for tooth, hand for hand, foot for foot."}],"translation_notes":["Refuge requires infrastructure: roads and geographically distributed cities are prepared so protection is actually reachable.","The axe-head example distinguishes tragic accident from hatred, ambush, and intent.","The blood-avenger system is constrained by refuge and adjudication but remains an ancient retaliatory institution, not a model for modern private vengeance.","Moving boundary stones is treated as theft of land and livelihood, not a minor technical offense.","No accusation may be established by one witness alone.","False-witness law requires diligent judicial investigation and imposes the intended penalty on a proven malicious accuser.","Lex talionis historically limits disproportionate retaliation; it must not be used to mandate mutilation, execution, or revenge today."],"safety_note":"Do not use Deuteronomy 19 to justify capital punishment, family vengeance, mutilation, retaliatory violence, or false accusations. Center accessible refuge, intent analysis, protected land boundaries, multiple witnesses, diligent investigation, and proportional restraint."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 19,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim refuge-city, boundary, witness, and retaliation law, draft aligned later",
+    "review_note": "First-pass draft reviewed for three and expanded refuge cities, road preparation, accidental killing, blood-avenger limits, intentional murder removal, boundary stones, two-or-three-witness rule, false-witness investigation, and lex talionis."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "When YHWH your Divine cuts off nations whose land YHWH your Divine gives you, and you dispossess them and dwell in their cities and houses,",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "you shall separate three cities for yourself in midst of your land YHWH your Divine gives you to possess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "You shall prepare road for yourself and divide territory of your land YHWH your Divine causes you to inherit into three parts, so every manslayer may flee there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "This is matter of manslayer who may flee there and live: one who strikes his neighbor without knowledge and did not hate him in time past.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "As when a man goes with his neighbor into forest to cut wood, and his hand swings axe to cut tree, and iron slips from handle and strikes his neighbor so he dies; he may flee to one of these cities and live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Lest blood-avenger pursue manslayer while his heart is hot, overtake him because way is long, and strike his soul/life, though judgment of death was not upon him, because he did not hate him in time past.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore I command you, saying, Three cities you shall separate for yourself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I command thee, saying, Thou shalt separate three cities for thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "If YHWH your Divine enlarges your border as he swore to your fathers and gives you all land he spoke to give your fathers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "when you keep all this command to do it, which I command you today, to love YHWH your Divine and walk in his ways all days, then you shall add three more cities for yourself besides these three,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "so innocent blood is not shed in midst of your land YHWH your Divine gives you as inheritance, and bloodguilt be upon you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But if a man hates his neighbor and lies in wait for him and rises against him and strikes his soul/life so he dies, and flees to one of these cities,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "then elders of his city shall send and take him from there and give him into hand of blood-avenger, and he shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Your eye shall not pity him; you shall purge blood of innocent from Israel, so it may be well with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "You shall not move boundary marker of your neighbor, which former ones set in your inheritance that you inherit in land YHWH your Divine gives you to possess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "One witness shall not rise against a man concerning any iniquity or any sin/misalignment, in any sin he commits; by mouth of two witnesses or mouth of three witnesses a matter shall be established.",
+      "familiar": {
+        "source": "KJV",
+        "text": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "If a malicious witness rises against a man to answer against him concerning rebellion/wrongdoing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a false witness rise up against any man to testify against him that which is wrong;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "then two men who have dispute shall stand before YHWH, before priests and judges who are in those days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Judges shall inquire diligently; and look, if witness is false, he answered falsely against his brother,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "then you shall do to him as he schemed to do to his brother; so you shall remove evil from your midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Those remaining shall hear and fear/revere and never again do according to this evil thing in your midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Your eye shall not pity: soul/life for soul/life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Refuge requires infrastructure: roads and geographically distributed cities are prepared so protection is actually reachable.",
+    "The axe-head example distinguishes tragic accident from hatred, ambush, and intent.",
+    "The blood-avenger system is constrained by refuge and adjudication but remains an ancient retaliatory institution, not a model for modern private vengeance.",
+    "Moving boundary stones is treated as theft of land and livelihood, not a minor technical offense.",
+    "No accusation may be established by one witness alone.",
+    "False-witness law requires diligent judicial investigation and imposes the intended penalty on a proven malicious accuser.",
+    "Lex talionis historically limits disproportionate retaliation; it must not be used to mandate mutilation, execution, or revenge today."
+  ],
+  "safety_note": "Do not use Deuteronomy 19 to justify capital punishment, family vengeance, mutilation, retaliatory violence, or false accusations. Center accessible refuge, intent analysis, protected land boundaries, multiple witnesses, diligent investigation, and proportional restraint.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-21",
+    "tags": "partial-2-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "pending-deep-backfill",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

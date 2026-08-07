@@ -1,1 +1,513 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":22,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim neighbor-duty, mixed-kind, sexual accusation, adultery, and assault law, draft aligned later","review_note":"First-pass draft reviewed for lost-property restoration, animal assistance, gendered clothing, bird-nest welfare, roof parapet, mixed seeds/animals/fibers, tassels, virginity accusation, adultery, city/field assault distinctions, seized unbetrothed woman, and father's-wife prohibition."},"verses":[{"verse":1,"restored":"You shall not see your brother's ox or sheep straying and hide yourself from them; you shall surely return them to your brother."},{"verse":2,"restored":"If your brother is not near you or you do not know him, you shall gather it into midst of your house, and it shall be with you until your brother seeks it; then you shall return it to him."},{"verse":3,"restored":"So you shall do with his donkey, and so with his garment, and so with every lost thing of your brother that is lost from him and you find; you may not hide yourself."},{"verse":4,"restored":"You shall not see your brother's donkey or ox fallen on road and hide yourself from them; you shall surely raise it with him."},{"verse":5,"restored":"An article/gear of a man shall not be upon a woman, and a man shall not put on garment of a woman, for everyone doing these is an abomination to YHWH your Divine."},{"verse":6,"restored":"If a bird's nest happens before you on way, in any tree or upon ground, with young ones or eggs, and mother is crouching upon young ones or eggs, you shall not take mother together with young."},{"verse":7,"restored":"You shall surely send mother away, and young you may take for yourself, so it may be well with you and you may lengthen days."},{"verse":8,"restored":"When you build a new house, you shall make a parapet for your roof, so you do not place bloodguilt in your house if one falling falls from it."},{"verse":9,"restored":"You shall not sow your vineyard with two kinds, lest fullness of seed you sow and produce of vineyard become consecrated/forfeited."},{"verse":10,"restored":"You shall not plow with ox and donkey together."},{"verse":11,"restored":"You shall not wear mixed fabric, wool and linen together."},{"verse":12,"restored":"Tassels you shall make for yourself upon four corners of your covering with which you cover yourself."},{"verse":13,"restored":"If a man takes a wife and goes in to her and hates her,"},{"verse":14,"restored":"and sets against her charges of deeds and brings out against her an evil name, saying, This woman I took, and I drew near to her and did not find for her signs of virginity,"},{"verse":15,"restored":"then father of young woman and her mother shall take and bring out signs of young woman's virginity to elders of city at gate."},{"verse":16,"restored":"Father of young woman shall say to elders, My daughter I gave to this man as wife, and he hates her."},{"verse":17,"restored":"Look, he set charges of deeds, saying, I did not find for your daughter signs of virginity; but these are signs of my daughter's virginity. And they shall spread garment before elders of city."},{"verse":18,"restored":"Elders of that city shall take man and discipline/flog him."},{"verse":19,"restored":"They shall fine him one hundred shekels of silver and give them to father of young woman, because he brought out an evil name against a virgin of Israel; she shall be his wife, and he may not send her away all his days."},{"verse":20,"restored":"But if this matter was true, signs of virginity were not found for young woman,"},{"verse":21,"restored":"then they shall bring young woman out to entrance of her father's house, and men of her city shall stone her with stones and she shall die, because she did disgraceful folly in Israel by prostituting herself in house of her father; so you shall remove evil from your midst."},{"verse":22,"restored":"If a man is found lying with wife of another man, both of them shall die, man who lay with woman and woman; so you shall remove evil from Israel."},{"verse":23,"restored":"If there is a young woman, a virgin betrothed to a man, and a man finds her in city and lies with her,"},{"verse":24,"restored":"then you shall bring both of them to gate of that city and stone them with stones and they shall die—the young woman because she did not cry out in city, and man because he humbled/violated wife of his neighbor; so you shall remove evil from your midst."},{"verse":25,"restored":"But if in field man finds young woman who is betrothed, and man takes hold of her and lies with her, then only man who lay with her shall die."},{"verse":26,"restored":"To young woman you shall do nothing; there is in young woman no sin/misalignment deserving death, for as when a man rises against his neighbor and murders his soul/life, so is this matter."},{"verse":27,"restored":"For in field he found her; betrothed young woman cried out, but there was no one to rescue her."},{"verse":28,"restored":"If a man finds a young woman, a virgin who is not betrothed, and seizes her and lies with her, and they are found,"},{"verse":29,"restored":"then man who lay with her shall give father of young woman fifty shekels of silver, and she shall become his wife because he humbled/violated her; he may not send her away all his days."},{"verse":30,"restored":"A man shall not take wife of his father, and he shall not uncover skirt/covering of his father."}],"translation_notes":["The opening laws define refusing to look away as a moral duty: lost property and fallen animals require active assistance.","Keli gever in verse 5 can mean a man's article, gear, implement, or clothing, while simlat ishah is a woman's garment. The verse belongs to ancient gendered dress/social boundaries and must not be weaponized against transgender, nonbinary, intersex, or gender-nonconforming people.","The bird-nest law limits taking the reproducing mother with offspring and has a long Jewish animal-welfare reception.","The roof parapet makes preventable building safety a matter of bloodguilt.","The virginity-evidence procedure reflects patriarchal honor culture. Bleeding or a cloth is not a scientifically valid test of sexual history, and no modern virginity testing is ethical.","Verse 24 wrongly treats failure to cry out in a city as evidence of consent. Trauma responses include freezing, silence, dissociation, coercion, and inability to call for help.","Verses 25-27 clearly recognize rape as violence analogous to murder and declare the woman innocent.","Verses 28-29 place a seized woman's future in payment to her father and permanent marriage to the violator, without her consent. This must never be enforced or defended as survivor protection."],"safety_note":"Never use Deuteronomy 22 to attack trans or gender-nonconforming people, perform virginity tests, blame survivors for not crying out, force a survivor to marry an assailant, execute people for consensual sex, or protect family honor over personal safety. Center neighbor aid, animal welfare, preventive building safety, survivor innocence, consent, and freedom from sexual coercion."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim neighbor-duty, mixed-kind, sexual accusation, adultery, and assault law, draft aligned later",
+    "review_note": "First-pass draft reviewed for lost-property restoration, animal assistance, gendered clothing, bird-nest welfare, roof parapet, mixed seeds/animals/fibers, tassels, virginity accusation, adultery, city/field assault distinctions, seized unbetrothed woman, and father's-wife prohibition."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "You shall not see your brother's ox or sheep straying and hide yourself from them; you shall surely return them to your brother.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not see thy brother’s ox or his sheep go astray, and hide thyself from them: thou shalt in any case bring them again unto thy brother."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "If your brother is not near you or you do not know him, you shall gather it into midst of your house, and it shall be with you until your brother seeks it; then you shall return it to him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy brother be not nigh unto thee, or if thou know him not, then thou shalt bring it unto thine own house, and it shall be with thee until thy brother seek after it, and thou shalt restore it to him again."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "So you shall do with his donkey, and so with his garment, and so with every lost thing of your brother that is lost from him and you find; you may not hide yourself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In like manner shalt thou do with his ass; and so shalt thou do with his raiment; and with all lost thing of thy brother’s, which he hath lost, and thou hast found, shalt thou do likewise: thou mayest not hide thyself."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "You shall not see your brother's donkey or ox fallen on road and hide yourself from them; you shall surely raise it with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not see thy brother’s ass or his ox fall down by the way, and hide thyself from them: thou shalt surely help him to lift them up again."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "An article/gear of a man shall not be upon a woman, and a man shall not put on garment of a woman, for everyone doing these is an abomination to YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman’s garment: for all that do so are abomination unto the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "If a bird's nest happens before you on way, in any tree or upon ground, with young ones or eggs, and mother is crouching upon young ones or eggs, you shall not take mother together with young.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a bird’s nest chance to be before thee in the way in any tree, or on the ground, whether they be young ones, or eggs, and the dam sitting upon the young, or upon the eggs, thou shalt not take the dam with the young:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "You shall surely send mother away, and young you may take for yourself, so it may be well with you and you may lengthen days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "When you build a new house, you shall make a parapet for your roof, so you do not place bloodguilt in your house if one falling falls from it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou buildest a new house, then thou shalt make a battlement for thy roof, that thou bring not blood upon thine house, if any man fall from thence."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "You shall not sow your vineyard with two kinds, lest fullness of seed you sow and produce of vineyard become consecrated/forfeited.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not sow thy vineyard with divers seeds: lest the fruit of thy seed which thou hast sown, and the fruit of thy vineyard, be defiled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "You shall not plow with ox and donkey together.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not plow with an ox and an ass together."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "You shall not wear mixed fabric, wool and linen together.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not wear a garment of divers sorts, as of woollen and linen together."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Tassels you shall make for yourself upon four corners of your covering with which you cover yourself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt make thee fringes upon the four quarters of thy vesture, wherewith thou coverest thyself."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "If a man takes a wife and goes in to her and hates her,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man take a wife, and go in unto her, and hate her,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "and sets against her charges of deeds and brings out against her an evil name, saying, This woman I took, and I drew near to her and did not find for her signs of virginity,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And give occasions of speech against her, and bring up an evil name upon her, and say, I took this woman, and when I came to her, I found her not a maid:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "then father of young woman and her mother shall take and bring out signs of young woman's virginity to elders of city at gate.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel’s virginity unto the elders of the city in the gate:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Father of young woman shall say to elders, My daughter I gave to this man as wife, and he hates her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the damsel’s father shall say unto the elders, I gave my daughter unto this man to wife, and he hateth her;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Look, he set charges of deeds, saying, I did not find for your daughter signs of virginity; but these are signs of my daughter's virginity. And they shall spread garment before elders of city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter’s virginity. And they shall spread the cloth before the elders of the city."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Elders of that city shall take man and discipline/flog him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the elders of that city shall take that man and chastise him;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "They shall fine him one hundred shekels of silver and give them to father of young woman, because he brought out an evil name against a virgin of Israel; she shall be his wife, and he may not send her away all his days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "But if this matter was true, signs of virginity were not found for young woman,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if this thing be true, and the tokens of virginity be not found for the damsel:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "then they shall bring young woman out to entrance of her father's house, and men of her city shall stone her with stones and she shall die, because she did disgraceful folly in Israel by prostituting herself in house of her father; so you shall remove evil from your midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then they shall bring out the damsel to the door of her father’s house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father’s house: so shalt thou put evil away from among you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "If a man is found lying with wife of another man, both of them shall die, man who lay with woman and woman; so you shall remove evil from Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "If there is a young woman, a virgin betrothed to a man, and a man finds her in city and lies with her,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a damsel that is a virgin be betrothed unto an husband, and a man find her in the city, and lie with her;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "then you shall bring both of them to gate of that city and stone them with stones and they shall die—the young woman because she did not cry out in city, and man because he humbled/violated wife of his neighbor; so you shall remove evil from your midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour’s wife: so thou shalt put away evil from among you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "But if in field man finds young woman who is betrothed, and man takes hold of her and lies with her, then only man who lay with her shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if a man find a betrothed damsel in the field, and the man force her, and lie with her: then the man only that lay with her shall die:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "To young woman you shall do nothing; there is in young woman no sin/misalignment deserving death, for as when a man rises against his neighbor and murders his soul/life, so is this matter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "For in field he found her; betrothed young woman cried out, but there was no one to rescue her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he found her in the field, and the betrothed damsel cried, and there was none to save her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "If a man finds a young woman, a virgin who is not betrothed, and seizes her and lies with her, and they are found,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man find a damsel that is a virgin, which is not betrothed, and lay hold on her, and lie with her, and they be found;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "then man who lay with her shall give father of young woman fifty shekels of silver, and she shall become his wife because he humbled/violated her; he may not send her away all his days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the man that lay with her shall give unto the damsel’s father fifty shekels of silver, and she shall be his wife; because he hath humbled her, he may not put her away all his days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "A man shall not take wife of his father, and he shall not uncover skirt/covering of his father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A man shall not take his father’s wife, nor discover his father’s skirt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The opening laws define refusing to look away as a moral duty: lost property and fallen animals require active assistance.",
+    "Keli gever in verse 5 can mean a man's article, gear, implement, or clothing, while simlat ishah is a woman's garment. The verse belongs to ancient gendered dress/social boundaries and must not be weaponized against transgender, nonbinary, intersex, or gender-nonconforming people.",
+    "The bird-nest law limits taking the reproducing mother with offspring and has a long Jewish animal-welfare reception.",
+    "The roof parapet makes preventable building safety a matter of bloodguilt.",
+    "The virginity-evidence procedure reflects patriarchal honor culture. Bleeding or a cloth is not a scientifically valid test of sexual history, and no modern virginity testing is ethical.",
+    "Verse 24 wrongly treats failure to cry out in a city as evidence of consent. Trauma responses include freezing, silence, dissociation, coercion, and inability to call for help.",
+    "Verses 25-27 clearly recognize rape as violence analogous to murder and declare the woman innocent.",
+    "Verses 28-29 place a seized woman's future in payment to her father and permanent marriage to the violator, without her consent. This must never be enforced or defended as survivor protection."
+  ],
+  "safety_note": "Never use Deuteronomy 22 to attack trans or gender-nonconforming people, perform virginity tests, blame survivors for not crying out, force a survivor to marry an assailant, execute people for consensual sex, or protect family honor over personal safety. Center neighbor aid, animal welfare, preventive building safety, survivor innocence, consent, and freedom from sexual coercion.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-30",
+    "tags": "partial-18-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-18-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

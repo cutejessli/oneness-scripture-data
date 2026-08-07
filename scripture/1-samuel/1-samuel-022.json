@@ -1,1 +1,592 @@
-{"book":"1 Samuel","book_id":"1-samuel","chapter":22,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew 1 Samuel chapter 22, first-pass restored draft","review_note":"Reviewed for cave refugee community, debt and distress, Moabite refuge, Saul's patronage/conspiracy speech, Ahimelech's defense, refusal of royal guards, Doeg's role and ethnicity, priest massacre, destruction of Nob including infants and animals, Abiathar's survival, and David's responsibility statement."},"verses":[{"verse":1,"restored":"David went from there and escaped to cave of Adullam. His brothers and all house of his father heard and went down to him there."},{"verse":2,"restored":"Every distressed person, everyone who had a creditor, and everyone bitter of life gathered to him, and he became commander over them. About four hundred men were with him."},{"verse":3,"restored":"David went from there to Mizpeh of Moab and said to king of Moab, Please let my father and my mother go out with you until I know what Divine will do for me."},{"verse":4,"restored":"He brought them before king of Moab, and they stayed with him all days David was in stronghold."},{"verse":5,"restored":"Gad the prophet said to David, Do not stay in stronghold. Go and enter land of Judah. David went and came to forest of Hereth."},{"verse":6,"restored":"Saul heard that David and men with him had been discovered. Saul was sitting in Gibeah under tamarisk on height, spear in his hand, and all his servants standing around him."},{"verse":7,"restored":"Saul said to servants standing around him, Hear, please, Benjaminites! Will son of Jesse give all of you fields and vineyards? Will he set all of you as commanders of thousands and commanders of hundreds?"},{"verse":8,"restored":"For all of you have conspired against me, and no one uncovers my ear when my son cuts covenant with son of Jesse. None of you grieves for me or uncovers my ear that my son has raised my servant against me as one lying in wait, as this day."},{"verse":9,"restored":"Doeg the Edomite, stationed over servants of Saul, answered and said, I saw son of Jesse coming to Nob, to Ahimelech son of Ahitub."},{"verse":10,"restored":"He inquired of YHWH for him, gave him provisions, and gave him sword of Goliath the Philistine."},{"verse":11,"restored":"King sent to call Ahimelech the priest son of Ahitub and all house of his father, priests who were in Nob. All of them came to king."},{"verse":12,"restored":"Saul said, Hear, please, son of Ahitub. He said, Here I am, my lord."},{"verse":13,"restored":"Saul said to him, Why have you conspired against me, you and son of Jesse, by giving him bread and sword and inquiring of Divine for him, so he rose against me as one lying in wait, as this day?"},{"verse":14,"restored":"Ahimelech answered king and said, Who among all your servants is as faithful as David, son-in-law of king, captain over your guard, and honored in your house?"},{"verse":15,"restored":"Did I begin that day to inquire of Divine for him? Far be it from me! Let not king place anything against his servant or against all house of my father, for your servant knew nothing of all this, small or great."},{"verse":16,"restored":"King said, Dying, you shall die, Ahimelech, you and all house of your father."},{"verse":17,"restored":"King said to runners stationed around him, Turn and put priests of YHWH to death, because their hand also is with David, and because they knew he was fleeing and did not uncover my ear. But servants of king were not willing to stretch out their hand to fall upon priests of YHWH."},{"verse":18,"restored":"King said to Doeg, You turn and fall upon priests. Doeg the Edomite turned and fell upon priests. He put to death that day eighty-five men bearing linen ephod."},{"verse":19,"restored":"Nob, city of priests, he struck by mouth of sword: man and woman, child and nursing infant, ox and donkey and sheep, by mouth of sword."},{"verse":20,"restored":"One son of Ahimelech son of Ahitub escaped, and his name was Abiathar. He fled after David."},{"verse":21,"restored":"Abiathar told David that Saul had killed priests of YHWH."},{"verse":22,"restored":"David said to Abiathar, I knew that day, because Doeg the Edomite was there, that telling, he would tell Saul. I have caused/occasioned death of every life of house of your father."},{"verse":23,"restored":"Stay with me; do not fear. For whoever seeks my life seeks your life, but with me you are under guard."}],"translation_notes":["The cave community gathers people in distress, debt, and bitterness. Poverty, indebtedness, displacement, and trauma do not make people criminal or disposable.","David becomes commander of a vulnerable armed group. Refugee leadership requires accountability and does not sanctify everything the group later does.","David seeks safety for his parents in Moab. Cross-border refuge and kinship ties complicate any simple enemy map.","Saul appeals to patronage, tribal loyalty, grievance, and conspiracy. Leaders often turn personal fear into accusations against whole networks.","Saul's repeated 'son of Jesse' rhetoric reduces David's identity and stokes factional contempt; it must not become a political slur.","Ahimelech gives a truthful defense based on David's known royal status. He is not responsible for David's deception or Saul's violence.","Saul orders an extrajudicial mass execution. The royal servants' refusal is morally significant: subordinates may refuse an unlawful command.","Doeg carries out the killing, but his Edomite identity does not cause it. Ethnicity must never be used to explain cruelty or condemn a people.","The eighty-five priests, women, men, children, nursing infants, and animals of Nob are victims of a state massacre. The text must not be sanitized as judgment or collateral damage.","David acknowledges causal responsibility in exposing the household, but Saul and Doeg remain responsible for choosing massacre. Survivor guilt must not absorb perpetrator guilt.","Abiathar is a survivor of family and community annihilation. His later role does not erase trauma or make survival evidence of special favor."],"safety_note":"Maximum safeguards: Nob is a clerical and civilian massacre ordered by Saul and carried out by Doeg. It must never be defended as national security, obedience, punishment for association, or acceptable collateral damage. Children, infants, animals, priests, and residents are not combatants. Doeg's ethnicity is irrelevant to moral blame. The servants' refusal to kill shows that unjust orders may and should be resisted. David's regret does not transfer Saul's and Doeg's guilt onto a survivor or refugee community."}
+{
+  "book": "1 Samuel",
+  "book_id": "1-samuel",
+  "chapter": 22,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew 1 Samuel chapter 22, first-pass restored draft",
+    "review_note": "Reviewed for cave refugee community, debt and distress, Moabite refuge, Saul's patronage/conspiracy speech, Ahimelech's defense, refusal of royal guards, Doeg's role and ethnicity, priest massacre, destruction of Nob including infants and animals, Abiathar's survival, and David's responsibility statement."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "David went from there and escaped to cave of Adullam. His brothers and all house of his father heard and went down to him there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father’s house heard it, they went down thither to him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Every distressed person, everyone who had a creditor, and everyone bitter of life gathered to him, and he became commander over them. About four hundred men were with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "David went from there to Mizpeh of Moab and said to king of Moab, Please let my father and my mother go out with you until I know what Divine will do for me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David went thence to Mizpeh of Moab: and he said unto the king of Moab, Let my father and my mother, I pray thee, come forth, and be with you, till I know what God will do for me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "He brought them before king of Moab, and they stayed with him all days David was in stronghold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Gad the prophet said to David, Do not stay in stronghold. Go and enter land of Judah. David went and came to forest of Hereth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the prophet Gad said unto David, Abide not in the hold; depart, and get thee into the land of Judah. Then David departed, and came into the forest of Hareth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Saul heard that David and men with him had been discovered. Saul was sitting in Gibeah under tamarisk on height, spear in his hand, and all his servants standing around him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Saul heard that David was discovered, and the men that were with him, (now Saul abode in Gibeah under a tree in Ramah, having his spear in his hand, and all his servants were standing about him;)"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Saul said to servants standing around him, Hear, please, Benjaminites! Will son of Jesse give all of you fields and vineyards? Will he set all of you as commanders of thousands and commanders of hundreds?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Saul said unto his servants that stood about him, Hear now, ye Benjamites; will the son of Jesse give every one of you fields and vineyards, and make you all captains of thousands, and captains of hundreds;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "For all of you have conspired against me, and no one uncovers my ear when my son cuts covenant with son of Jesse. None of you grieves for me or uncovers my ear that my son has raised my servant against me as one lying in wait, as this day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That all of you have conspired against me, and there is none that sheweth me that my son hath made a league with the son of Jesse, and there is none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Doeg the Edomite, stationed over servants of Saul, answered and said, I saw son of Jesse coming to Nob, to Ahimelech son of Ahitub.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then answered Doeg the Edomite, which was set over the servants of Saul, and said, I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "ancient-people",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "He inquired of YHWH for him, gave him provisions, and gave him sword of Goliath the Philistine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he enquired of the LORD for him, and gave him victuals, and gave him the sword of Goliath the Philistine."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "King sent to call Ahimelech the priest son of Ahitub and all house of his father, priests who were in Nob. All of them came to king.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father’s house, the priests that were in Nob: and they came all of them to the king."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Saul said, Hear, please, son of Ahitub. He said, Here I am, my lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Saul said, Hear now, thou son of Ahitub. And he answered, Here I am, my lord."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Saul said to him, Why have you conspired against me, you and son of Jesse, by giving him bread and sword and inquiring of Divine for him, so he rose against me as one lying in wait, as this day?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Saul said unto him, Why have ye conspired against me, thou and the son of Jesse, in that thou hast given him bread, and a sword, and hast enquired of God for him, that he should rise against me, to lie in wait, as at this day?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Ahimelech answered king and said, Who among all your servants is as faithful as David, son-in-law of king, captain over your guard, and honored in your house?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Ahimelech answered the king, and said, And who is so faithful among all thy servants as David, which is the king’s son in law, and goeth at thy bidding, and is honourable in thine house?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Did I begin that day to inquire of Divine for him? Far be it from me! Let not king place anything against his servant or against all house of my father, for your servant knew nothing of all this, small or great.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Did I then begin to enquire of God for him? be it far from me: let not the king impute any thing unto his servant, nor to all the house of my father: for thy servant knew nothing of all this, less or more."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "King said, Dying, you shall die, Ahimelech, you and all house of your father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father’s house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "King said to runners stationed around him, Turn and put priests of YHWH to death, because their hand also is with David, and because they knew he was fleeing and did not uncover my ear. But servants of king were not willing to stretch out their hand to fall upon priests of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king said unto the footmen that stood about him, Turn, and slay the priests of the LORD: because their hand also is with David, and because they knew when he fled, and did not shew it to me. But the servants of the king would not put forth their hand to fall upon the priests of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "King said to Doeg, You turn and fall upon priests. Doeg the Edomite turned and fell upon priests. He put to death that day eighty-five men bearing linen ephod.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king said to Doeg, Turn thou, and fall upon the priests. And Doeg the Edomite turned, and he fell upon the priests, and slew on that day fourscore and five persons that did wear a linen ephod."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "religious-authority",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Nob, city of priests, he struck by mouth of sword: man and woman, child and nursing infant, ox and donkey and sheep, by mouth of sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Nob, the city of the priests, smote he with the edge of the sword, both men and women, children and sucklings, and oxen, and asses, and sheep, with the edge of the sword."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "gender-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "One son of Ahimelech son of Ahitub escaped, and his name was Abiathar. He fled after David.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of the sons of Ahimelech the son of Ahitub, named Abiathar, escaped, and fled after David."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Abiathar told David that Saul had killed priests of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Abiathar shewed David that Saul had slain the LORD’s priests."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "David said to Abiathar, I knew that day, because Doeg the Edomite was there, that telling, he would tell Saul. I have caused/occasioned death of every life of house of your father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And David said unto Abiathar, I knew it that day, when Doeg the Edomite was there, that he would surely tell Saul: I have occasioned the death of all the persons of thy father’s house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Stay with me; do not fear. For whoever seeks my life seeks your life, but with me you are under guard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Abide thou with me, fear not: for he that seeketh my life seeketh thy life: but with me thou shalt be in safeguard."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The cave community gathers people in distress, debt, and bitterness. Poverty, indebtedness, displacement, and trauma do not make people criminal or disposable.",
+    "David becomes commander of a vulnerable armed group. Refugee leadership requires accountability and does not sanctify everything the group later does.",
+    "David seeks safety for his parents in Moab. Cross-border refuge and kinship ties complicate any simple enemy map.",
+    "Saul appeals to patronage, tribal loyalty, grievance, and conspiracy. Leaders often turn personal fear into accusations against whole networks.",
+    "Saul's repeated 'son of Jesse' rhetoric reduces David's identity and stokes factional contempt; it must not become a political slur.",
+    "Ahimelech gives a truthful defense based on David's known royal status. He is not responsible for David's deception or Saul's violence.",
+    "Saul orders an extrajudicial mass execution. The royal servants' refusal is morally significant: subordinates may refuse an unlawful command.",
+    "Doeg carries out the killing, but his Edomite identity does not cause it. Ethnicity must never be used to explain cruelty or condemn a people.",
+    "The eighty-five priests, women, men, children, nursing infants, and animals of Nob are victims of a state massacre. The text must not be sanitized as judgment or collateral damage.",
+    "David acknowledges causal responsibility in exposing the household, but Saul and Doeg remain responsible for choosing massacre. Survivor guilt must not absorb perpetrator guilt.",
+    "Abiathar is a survivor of family and community annihilation. His later role does not erase trauma or make survival evidence of special favor."
+  ],
+  "safety_note": "Maximum safeguards: Nob is a clerical and civilian massacre ordered by Saul and carried out by Doeg. It must never be defended as national security, obedience, punishment for association, or acceptable collateral damage. Children, infants, animals, priests, and residents are not combatants. Doeg's ethnicity is irrelevant to moral blame. The servants' refusal to kill shows that unjust orders may and should be resisted. David's regret does not transfer Saul's and Doeg's guilt onto a survivor or refugee community.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-13-of-23",
+    "tags": "partial-21-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-18-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

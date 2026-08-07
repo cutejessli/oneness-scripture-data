@@ -1,1 +1,695 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim Decalogue retelling and Horeb mediation discourse, draft aligned later","review_note":"First-pass draft reviewed for present-generation covenant, Ten Words, Sabbath liberation rationale, parental honor, prohibitions, coveting, fire/voice revelation, people's fear, Moses' mediation, and command to walk without turning."},"verses":[{"verse":1,"restored":"Moses called to all Israel and said to them: Hear, Israel, statutes and judgments I speak in your ears today; learn them and keep to do them."},{"verse":2,"restored":"YHWH our Divine cut a covenant with us at Horeb."},{"verse":3,"restored":"Not with our fathers alone did YHWH cut this covenant, but with us, we who are here today, all of us alive."},{"verse":4,"restored":"Face to face YHWH spoke with you at mountain from midst of fire."},{"verse":5,"restored":"I stood between YHWH and you at that time to declare to you word of YHWH, for you feared because of fire and did not go up mountain, saying:"},{"verse":6,"restored":"I am YHWH your Divine, who brought you out from land of Egypt, from house of slaves."},{"verse":7,"restored":"You shall have no other gods before my face."},{"verse":8,"restored":"You shall not make for yourself carved image, any likeness of what is in heavens above or earth beneath or waters under earth."},{"verse":9,"restored":"You shall not bow to them or serve them, for I YHWH your Divine am a jealous Divine, visiting iniquity of fathers upon children to third and fourth of those hating me,"},{"verse":10,"restored":"but doing covenant loyalty to thousands of those loving me and keeping my commands."},{"verse":11,"restored":"You shall not lift up name of YHWH your Divine for emptiness, for YHWH will not hold guiltless one who lifts his name for emptiness."},{"verse":12,"restored":"Keep Sabbath day to sanctify it, as YHWH your Divine commanded you."},{"verse":13,"restored":"Six days you shall serve and do all your work,"},{"verse":14,"restored":"but seventh day is Sabbath to YHWH your Divine. You shall do no work—you, your son, your daughter, your male servant, your female servant, your ox, your donkey, any beast, or your sojourner within your gates—so your male servant and female servant may rest like you."},{"verse":15,"restored":"Remember you were a slave in land of Egypt, and YHWH your Divine brought you out from there with strong hand and outstretched arm; therefore YHWH your Divine commanded you to make Sabbath day."},{"verse":16,"restored":"Honor your father and your mother, as YHWH your Divine commanded you, so your days may lengthen and it may be well with you upon ground YHWH your Divine is giving you."},{"verse":17,"restored":"You shall not murder."},{"verse":18,"restored":"You shall not commit adultery."},{"verse":19,"restored":"You shall not steal."},{"verse":20,"restored":"You shall not answer against your neighbor as false witness."},{"verse":21,"restored":"You shall not covet your neighbor's wife, and you shall not desire your neighbor's house, field, male servant, female servant, ox, donkey, or anything belonging to your neighbor."},{"verse":22,"restored":"These words YHWH spoke to all your assembly at mountain from midst of fire, cloud, and thick gloom, with a great voice, and he added no more; he wrote them on two tablets of stone and gave them to me."},{"verse":23,"restored":"When you heard voice from midst of darkness while mountain burned with fire, you came near to me, all heads of your tribes and elders."},{"verse":24,"restored":"You said, Look, YHWH our Divine has shown us his glory and greatness, and his voice we heard from midst of fire. This day we saw that Divine speaks with human and he lives."},{"verse":25,"restored":"Now why should we die? For this great fire will consume us. If we continue to hear voice of YHWH our Divine anymore, we shall die."},{"verse":26,"restored":"For who of all flesh has heard voice of living Divine speaking from midst of fire as we have and lived?"},{"verse":27,"restored":"You draw near and hear all YHWH our Divine says, and you shall speak to us all YHWH our Divine speaks to you; we will hear and do."},{"verse":28,"restored":"YHWH heard voice of your words when you spoke to me, and YHWH said to me, I have heard voice of words of this people that they spoke to you; they have done well in all they spoke."},{"verse":29,"restored":"Who would give that this heart of theirs were in them to fear/revere me and keep all my commands all days, so it might be well with them and their children forever?"},{"verse":30,"restored":"Go say to them, Return to your tents."},{"verse":31,"restored":"But you stand here with me, and I will speak to you all command, statutes, and judgments you shall teach them, that they may do them in land I give them to possess."},{"verse":32,"restored":"You shall keep to do as YHWH your Divine commanded you; you shall not turn aside right or left."},{"verse":33,"restored":"In all way YHWH your Divine commanded you, you shall walk, so you may live and it may be well with you and you may lengthen days in land you shall possess."}],"translation_notes":["Deuteronomy presents the Horeb covenant as directly present to the living generation, making memory participatory rather than merely ancestral.","The Sabbath rationale centers liberation: servants, animals, and sojourners rest because Israel remembers slavery.","Visiting ancestral iniquity language must not be used to blame children for abuse, illness, disability, or family trauma; the text contrasts limited consequence with expansive covenant loyalty.","Parental honor never requires submission to abuse or concealment of harm.","The coveting list reflects an ancient household economy in which wife and servants appear within possessions; this structure must not define modern personhood.","The people's request for mediation is affirmed, while Moses remains a teacher rather than replacement for direct covenant responsibility."],"safety_note":"Do not use Deuteronomy 5 to justify inherited guilt, abusive parental control, ownership of spouses or servants, religious coercion, or antisemitic claims that Torah is merely oppressive law. Center liberation, universal rest within the household, truth, non-murder, and covenant responsibility."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim Decalogue retelling and Horeb mediation discourse, draft aligned later",
+    "review_note": "First-pass draft reviewed for present-generation covenant, Ten Words, Sabbath liberation rationale, parental honor, prohibitions, coveting, fire/voice revelation, people's fear, Moses' mediation, and command to walk without turning."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Moses called to all Israel and said to them: Hear, Israel, statutes and judgments I speak in your ears today; learn them and keep to do them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH our Divine cut a covenant with us at Horeb.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD our God made a covenant with us in Horeb."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Not with our fathers alone did YHWH cut this covenant, but with us, we who are here today, all of us alive.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD made not this covenant with our fathers, but with us, even us, who are all of us here alive this day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Face to face YHWH spoke with you at mountain from midst of fire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD talked with you face to face in the mount out of the midst of the fire,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "I stood between YHWH and you at that time to declare to you word of YHWH, for you feared because of fire and did not go up mountain, saying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "(I stood between the LORD and you at that time, to shew you the word of the LORD: for ye were afraid by reason of the fire, and went not up into the mount;) saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "I am YHWH your Divine, who brought you out from land of Egypt, from house of slaves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I am the LORD thy God, which brought thee out of the land of Egypt, from the house of bondage."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "You shall have no other gods before my face.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt have none other gods before me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "You shall not make for yourself carved image, any likeness of what is in heavens above or earth beneath or waters under earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not make thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the waters beneath the earth:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "You shall not bow to them or serve them, for I YHWH your Divine am a jealous Divine, visiting iniquity of fathers upon children to third and fourth of those hating me,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not bow down thyself unto them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "but doing covenant loyalty to thousands of those loving me and keeping my commands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And shewing mercy unto thousands of them that love me and keep my commandments."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "You shall not lift up name of YHWH your Divine for emptiness, for YHWH will not hold guiltless one who lifts his name for emptiness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not take the name of the LORD thy God in vain: for the LORD will not hold him guiltless that taketh his name in vain."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Keep Sabbath day to sanctify it, as YHWH your Divine commanded you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Keep the sabbath day to sanctify it, as the LORD thy God hath commanded thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Six days you shall serve and do all your work,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Six days thou shalt labour, and do all thy work:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "but seventh day is Sabbath to YHWH your Divine. You shall do no work—you, your son, your daughter, your male servant, your female servant, your ox, your donkey, any beast, or your sojourner within your gates—so your male servant and female servant may rest like you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, nor thy manservant, nor thy maidservant, nor thine ox, nor thine ass, nor any of thy cattle, nor thy stranger that is within thy gates; that thy manservant and thy maidservant may rest as well as thou."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "labor-power",
+        "foreigner-migrant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit",
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Remember you were a slave in land of Egypt, and YHWH your Divine brought you out from there with strong hand and outstretched arm; therefore YHWH your Divine commanded you to make Sabbath day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And remember that thou wast a servant in the land of Egypt, and that the LORD thy God brought thee out thence through a mighty hand and by a stretched out arm: therefore the LORD thy God commanded thee to keep the sabbath day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Honor your father and your mother, as YHWH your Divine commanded you, so your days may lengthen and it may be well with you upon ground YHWH your Divine is giving you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Honour thy father and thy mother, as the LORD thy God hath commanded thee; that thy days may be prolonged, and that it may go well with thee, in the land which the LORD thy God giveth thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You shall not murder.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not kill."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "You shall not commit adultery.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shalt thou commit adultery."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "You shall not steal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shalt thou steal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "You shall not answer against your neighbor as false witness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shalt thou bear false witness against thy neighbour."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "You shall not covet your neighbor's wife, and you shall not desire your neighbor's house, field, male servant, female servant, ox, donkey, or anything belonging to your neighbor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shalt thou desire thy neighbour’s wife, neither shalt thou covet thy neighbour’s house, his field, or his manservant, or his maidservant, his ox, or his ass, or any thing that is thy neighbour’s."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "These words YHWH spoke to all your assembly at mountain from midst of fire, cloud, and thick gloom, with a great voice, and he added no more; he wrote them on two tablets of stone and gave them to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These words the LORD spake unto all your assembly in the mount out of the midst of the fire, of the cloud, and of the thick darkness, with a great voice: and he added no more. And he wrote them in two tables of stone, and delivered them unto me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "When you heard voice from midst of darkness while mountain burned with fire, you came near to me, all heads of your tribes and elders.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "You said, Look, YHWH our Divine has shown us his glory and greatness, and his voice we heard from midst of fire. This day we saw that Divine speaks with human and he lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye said, Behold, the LORD our God hath shewed us his glory and his greatness, and we have heard his voice out of the midst of the fire: we have seen this day that God doth talk with man, and he liveth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Now why should we die? For this great fire will consume us. If we continue to hear voice of YHWH our Divine anymore, we shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore why should we die? for this great fire will consume us: if we hear the voice of the LORD our God any more, then we shall die."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "For who of all flesh has heard voice of living Divine speaking from midst of fire as we have and lived?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For who is there of all flesh, that hath heard the voice of the living God speaking out of the midst of the fire, as we have, and lived?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "You draw near and hear all YHWH our Divine says, and you shall speak to us all YHWH our Divine speaks to you; we will hear and do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go thou near, and hear all that the LORD our God shall say: and speak thou unto us all that the LORD our God shall speak unto thee; and we will hear it, and do it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "YHWH heard voice of your words when you spoke to me, and YHWH said to me, I have heard voice of words of this people that they spoke to you; they have done well in all they spoke.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD heard the voice of your words, when ye spake unto me; and the LORD said unto me, I have heard the voice of the words of this people, which they have spoken unto thee: they have well said all that they have spoken."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Who would give that this heart of theirs were in them to fear/revere me and keep all my commands all days, so it might be well with them and their children forever?",
+      "familiar": {
+        "source": "KJV",
+        "text": "O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Go say to them, Return to your tents.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go say to them, Get you into your tents again."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "But you stand here with me, and I will speak to you all command, statutes, and judgments you shall teach them, that they may do them in land I give them to possess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as for thee, stand thou here by me, and I will speak unto thee all the commandments, and the statutes, and the judgments, which thou shalt teach them, that they may do them in the land which I give them to possess it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "You shall keep to do as YHWH your Divine commanded you; you shall not turn aside right or left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall observe to do therefore as the LORD your God hath commanded you: ye shall not turn aside to the right hand or to the left."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "In all way YHWH your Divine commanded you, you shall walk, so you may live and it may be well with you and you may lengthen days in land you shall possess.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall walk in all the ways which the LORD your God hath commanded you, that ye may live, and that it may be well with you, and that ye may prolong your days in the land which ye shall possess."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Deuteronomy presents the Horeb covenant as directly present to the living generation, making memory participatory rather than merely ancestral.",
+    "The Sabbath rationale centers liberation: servants, animals, and sojourners rest because Israel remembers slavery.",
+    "Visiting ancestral iniquity language must not be used to blame children for abuse, illness, disability, or family trauma; the text contrasts limited consequence with expansive covenant loyalty.",
+    "Parental honor never requires submission to abuse or concealment of harm.",
+    "The coveting list reflects an ancient household economy in which wife and servants appear within possessions; this structure must not define modern personhood.",
+    "The people's request for mediation is affirmed, while Moses remains a teacher rather than replacement for direct covenant responsibility."
+  ],
+  "safety_note": "Do not use Deuteronomy 5 to justify inherited guilt, abusive parental control, ownership of spouses or servants, religious coercion, or antisemitic claims that Torah is merely oppressive law. Center liberation, universal rest within the household, truth, non-murder, and covenant responsibility.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-20-of-33",
+    "tags": "partial-10-of-33",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-33",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

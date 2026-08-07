@@ -1,1 +1,444 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":24,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim divorce, pledge, kidnapping, wage, individual-liability, and gleaning law, draft aligned later","review_note":"First-pass draft reviewed for divorce certificate and remarriage restriction, newlywed exemption, millstone and garment pledges, kidnapping, skin-disease instruction, wage payment, individual responsibility, and gleaning for vulnerable residents."},"verses":[{"verse":1,"restored":"If a man takes a woman and becomes her husband, and it is that she finds no favor in his eyes because he found in her nakedness/indecency of a thing, and he writes for her a scroll of cutting-off/divorce, puts it in her hand, and sends her from his house,"},{"verse":2,"restored":"and she goes out from his house and goes and becomes wife of another man,"},{"verse":3,"restored":"and latter husband hates her and writes for her a scroll of cutting-off, puts it in her hand, and sends her from his house, or latter husband who took her as wife dies,"},{"verse":4,"restored":"then her first husband who sent her away may not return to take her to become his wife after she has been made unclean, for that is an abomination before YHWH; you shall not cause land to sin that YHWH your Divine gives you as inheritance."},{"verse":5,"restored":"When a man takes a new wife, he shall not go out with host, and no matter shall pass upon him; free he shall be for his house one year, and he shall gladden wife whom he took."},{"verse":6,"restored":"One shall not take a handmill or upper millstone as pledge, for he takes a soul/life as pledge."},{"verse":7,"restored":"If a man is found stealing a soul/person from his brothers, children of Israel, and he treats him as merchandise or sells him, then that thief shall die; so you shall remove evil from your midst."},{"verse":8,"restored":"Guard yourself concerning affliction of scale-disease, to keep greatly and do according to all Levitical priests instruct you; as I commanded them, you shall keep to do."},{"verse":9,"restored":"Remember what YHWH your Divine did to Miriam on way when you came out from Egypt."},{"verse":10,"restored":"When you lend your brother any loan, you shall not enter his house to take his pledge."},{"verse":11,"restored":"Outside you shall stand, and man to whom you lend shall bring pledge out to you."},{"verse":12,"restored":"If he is poor man, you shall not lie down with his pledge."},{"verse":13,"restored":"You shall surely return pledge to him when sun goes down, so he may lie in his garment and bless you; and it shall be righteousness for you before YHWH your Divine."},{"verse":14,"restored":"You shall not oppress a hired worker who is poor and needy, from your brothers or from your sojourner who is in your land within your gates."},{"verse":15,"restored":"In his day you shall give his wage, and sun shall not go down upon it, for he is poor and sets his soul/life upon it; lest he cry against you to YHWH and sin/misalignment be in you."},{"verse":16,"restored":"Fathers shall not be put to death for children, and children shall not be put to death for fathers; each man shall be put to death for his own sin/misalignment."},{"verse":17,"restored":"You shall not bend judgment of sojourner or orphan, and you shall not take garment of widow as pledge."},{"verse":18,"restored":"You shall remember you were a slave in Egypt and YHWH your Divine redeemed you from there; therefore I command you to do this thing."},{"verse":19,"restored":"When you reap your harvest in field and forget a sheaf in field, you shall not return to take it; it shall be for sojourner, orphan, and widow, so YHWH your Divine may bless you in all work of your hands."},{"verse":20,"restored":"When you beat your olive tree, you shall not go over branches after yourself; it shall be for sojourner, orphan, and widow."},{"verse":21,"restored":"When you gather grapes of your vineyard, you shall not glean after yourself; it shall be for sojourner, orphan, and widow."},{"verse":22,"restored":"You shall remember you were a slave in land of Egypt; therefore I command you to do this thing."}],"translation_notes":["The divorce law assumes male-initiated divorce and gives the woman a written document, but it does not establish equal marital agency. The phrase ervat davar is debated and should not be converted into unrestricted fault-finding.","The remarriage prohibition regulates the first husband's claim after a subsequent marriage; it must not stigmatize divorced or remarried people.","The newlywed exemption protects time for a new household and obligates the husband to bring joy to his wife.","Taking a millstone is forbidden because it seizes the debtor's means of making food and therefore takes life as collateral.","Kidnapping a person for exploitation or sale is condemned, though broader slavery remains elsewhere in the legal corpus.","Scale-disease language is ritual/medical tradition and must not stigmatize skin conditions or blame illness on wrongdoing.","Same-day wages recognize that workers' lives depend upon prompt payment.","Individual-liability law rejects execution of relatives for another person's offense.","Gleaning deliberately leaves productive value in field, olive tree, and vineyard for immigrant, orphan, and widow."],"safety_note":"Do not use Deuteronomy 24 to shame divorced people, trap anyone in unsafe marriage, exploit workers, seize essential household tools, kidnap or traffic people, stigmatize illness, punish families for another person's conduct, or deny immigrants and widows justice. Center prompt wages, protected collateral, individual responsibility, and food left deliberately for vulnerable neighbors."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 24,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim divorce, pledge, kidnapping, wage, individual-liability, and gleaning law, draft aligned later",
+    "review_note": "First-pass draft reviewed for divorce certificate and remarriage restriction, newlywed exemption, millstone and garment pledges, kidnapping, skin-disease instruction, wage payment, individual responsibility, and gleaning for vulnerable residents."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "If a man takes a woman and becomes her husband, and it is that she finds no favor in his eyes because he found in her nakedness/indecency of a thing, and he writes for her a scroll of cutting-off/divorce, puts it in her hand, and sends her from his house,",
+      "familiar": {
+        "source": "KJV",
+        "text": "When a man hath taken a wife, and married her, and it come to pass that she find no favour in his eyes, because he hath found some uncleanness in her: then let him write her a bill of divorcement, and give it in her hand, and send her out of his house."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "and she goes out from his house and goes and becomes wife of another man,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when she is departed out of his house, she may go and be another man’s wife."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "and latter husband hates her and writes for her a scroll of cutting-off, puts it in her hand, and sends her from his house, or latter husband who took her as wife dies,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the latter husband hate her, and write her a bill of divorcement, and giveth it in her hand, and sendeth her out of his house; or if the latter husband die, which took her to be his wife;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "then her first husband who sent her away may not return to take her to become his wife after she has been made unclean, for that is an abomination before YHWH; you shall not cause land to sin that YHWH your Divine gives you as inheritance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Her former husband, which sent her away, may not take her again to be his wife, after that she is defiled; for that is abomination before the LORD: and thou shalt not cause the land to sin, which the LORD thy God giveth thee for an inheritance."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "When a man takes a new wife, he shall not go out with host, and no matter shall pass upon him; free he shall be for his house one year, and he shall gladden wife whom he took.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When a man hath taken a new wife, he shall not go out to war, neither shall he be charged with any business: but he shall be free at home one year, and shall cheer up his wife which he hath taken."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "One shall not take a handmill or upper millstone as pledge, for he takes a soul/life as pledge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "No man shall take the nether or the upper millstone to pledge: for he taketh a man’s life to pledge."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If a man is found stealing a soul/person from his brothers, children of Israel, and he treats him as merchandise or sells him, then that thief shall die; so you shall remove evil from your midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man be found stealing any of his brethren of the children of Israel, and maketh merchandise of him, or selleth him; then that thief shall die; and thou shalt put evil away from among you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Guard yourself concerning affliction of scale-disease, to keep greatly and do according to all Levitical priests instruct you; as I commanded them, you shall keep to do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed in the plague of leprosy, that thou observe diligently, and do according to all that the priests the Levites shall teach you: as I commanded them, so ye shall observe to do."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Remember what YHWH your Divine did to Miriam on way when you came out from Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember what the LORD thy God did unto Miriam by the way, after that ye were come forth out of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When you lend your brother any loan, you shall not enter his house to take his pledge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou dost lend thy brother any thing, thou shalt not go into his house to fetch his pledge."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Outside you shall stand, and man to whom you lend shall bring pledge out to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt stand abroad, and the man to whom thou dost lend shall bring out the pledge abroad unto thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "If he is poor man, you shall not lie down with his pledge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if the man be poor, thou shalt not sleep with his pledge:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "You shall surely return pledge to him when sun goes down, so he may lie in his garment and bless you; and it shall be righteousness for you before YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In any case thou shalt deliver him the pledge again when the sun goeth down, that he may sleep in his own raiment, and bless thee: and it shall be righteousness unto thee before the LORD thy God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "You shall not oppress a hired worker who is poor and needy, from your brothers or from your sojourner who is in your land within your gates.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not oppress an hired servant that is poor and needy, whether he be of thy brethren, or of thy strangers that are in thy land within thy gates:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "In his day you shall give his wage, and sun shall not go down upon it, for he is poor and sets his soul/life upon it; lest he cry against you to YHWH and sin/misalignment be in you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At his day thou shalt give him his hire, neither shall the sun go down upon it; for he is poor, and setteth his heart upon it: lest he cry against thee unto the LORD, and it be sin unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Fathers shall not be put to death for children, and children shall not be put to death for fathers; each man shall be put to death for his own sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fathers shall not be put to death for the children, neither shall the children be put to death for the fathers: every man shall be put to death for his own sin."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "You shall not bend judgment of sojourner or orphan, and you shall not take garment of widow as pledge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt not pervert the judgment of the stranger, nor of the fatherless; nor take a widow’s raiment to pledge:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "You shall remember you were a slave in Egypt and YHWH your Divine redeemed you from there; therefore I command you to do this thing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt remember that thou wast a bondman in Egypt, and the LORD thy God redeemed thee thence: therefore I command thee to do this thing."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "When you reap your harvest in field and forget a sheaf in field, you shall not return to take it; it shall be for sojourner, orphan, and widow, so YHWH your Divine may bless you in all work of your hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou cuttest down thine harvest in thy field, and hast forgot a sheaf in the field, thou shalt not go again to fetch it: it shall be for the stranger, for the fatherless, and for the widow: that the LORD thy God may bless thee in all the work of thine hands."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "When you beat your olive tree, you shall not go over branches after yourself; it shall be for sojourner, orphan, and widow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou beatest thine olive tree, thou shalt not go over the boughs again: it shall be for the stranger, for the fatherless, and for the widow."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "When you gather grapes of your vineyard, you shall not glean after yourself; it shall be for sojourner, orphan, and widow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou gatherest the grapes of thy vineyard, thou shalt not glean it afterward: it shall be for the stranger, for the fatherless, and for the widow."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "You shall remember you were a slave in land of Egypt; therefore I command you to do this thing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt remember that thou wast a bondman in the land of Egypt: therefore I command thee to do this thing."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The divorce law assumes male-initiated divorce and gives the woman a written document, but it does not establish equal marital agency. The phrase ervat davar is debated and should not be converted into unrestricted fault-finding.",
+    "The remarriage prohibition regulates the first husband's claim after a subsequent marriage; it must not stigmatize divorced or remarried people.",
+    "The newlywed exemption protects time for a new household and obligates the husband to bring joy to his wife.",
+    "Taking a millstone is forbidden because it seizes the debtor's means of making food and therefore takes life as collateral.",
+    "Kidnapping a person for exploitation or sale is condemned, though broader slavery remains elsewhere in the legal corpus.",
+    "Scale-disease language is ritual/medical tradition and must not stigmatize skin conditions or blame illness on wrongdoing.",
+    "Same-day wages recognize that workers' lives depend upon prompt payment.",
+    "Individual-liability law rejects execution of relatives for another person's offense.",
+    "Gleaning deliberately leaves productive value in field, olive tree, and vineyard for immigrant, orphan, and widow."
+  ],
+  "safety_note": "Do not use Deuteronomy 24 to shame divorced people, trap anyone in unsafe marriage, exploit workers, seize essential household tools, kidnap or traffic people, stigmatize illness, punish families for another person's conduct, or deny immigrants and widows justice. Center prompt wages, protected collateral, individual responsibility, and food left deliberately for vulnerable neighbors.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-22",
+    "tags": "partial-15-of-22",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-15-of-22",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

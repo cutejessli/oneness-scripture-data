@@ -1,1 +1,429 @@
-{"book":"Deuteronomy","book_id":"deuteronomy","chapter":20,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Deuteronomy / Devarim warfare, exemptions, siege, and fruit-tree law, draft aligned later","review_note":"First-pass draft reviewed for priestly battle address, fear, house/vineyard/betrothal exemptions, fainthearted release, peace offer and forced labor, total-destruction commands, siege limits, fruit-tree protection, and anti-war safeguards."},"verses":[{"verse":1,"restored":"When you go out to battle against your enemies and see horse and chariot, a people more numerous than you, you shall not fear them, for YHWH your Divine is with you, who brought you up from land of Egypt."},{"verse":2,"restored":"It shall be, when you draw near to battle, priest shall approach and speak to people."},{"verse":3,"restored":"He shall say to them, Hear, Israel: You draw near today to battle against your enemies. Let not your heart soften; do not fear, panic, or tremble before them."},{"verse":4,"restored":"For YHWH your Divine is the one going with you to fight for you against your enemies, to save you."},{"verse":5,"restored":"Officers shall speak to people, saying, Who is the man who built a new house and has not dedicated it? Let him go and return to his house, lest he die in battle and another man dedicate it."},{"verse":6,"restored":"Who is the man who planted a vineyard and has not begun to enjoy it? Let him go and return to his house, lest he die in battle and another man begin to enjoy it."},{"verse":7,"restored":"Who is the man who betrothed a woman and has not taken her? Let him go and return to his house, lest he die in battle and another man take her."},{"verse":8,"restored":"Officers shall continue to speak to people and say, Who is the man fearful and soft of heart? Let him go and return to his house, so heart of his brothers does not melt like his heart."},{"verse":9,"restored":"When officers finish speaking to people, they shall appoint commanders of hosts at head of people."},{"verse":10,"restored":"When you draw near to a city to fight against it, you shall call to it for peace."},{"verse":11,"restored":"It shall be, if it answers you peace and opens to you, then all people found in it shall become forced labor for you and serve you."},{"verse":12,"restored":"But if it does not make peace with you and makes war with you, then you shall besiege it."},{"verse":13,"restored":"YHWH your Divine will give it into your hand, and you shall strike every male in it with edge of sword."},{"verse":14,"restored":"Only women, little ones, livestock, and all in city, all its spoil, you may plunder for yourself; you shall eat spoil of your enemies YHWH your Divine gives you."},{"verse":15,"restored":"Thus you shall do to all cities very far from you, which are not from cities of these nations here."},{"verse":16,"restored":"But from cities of these peoples YHWH your Divine gives you as inheritance, you shall not let any breath live."},{"verse":17,"restored":"You shall surely devote them to destruction: Hittite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite, as YHWH your Divine commanded you,"},{"verse":18,"restored":"so they do not teach you to do according to all their abominations they did for their gods, and you sin/misalign against YHWH your Divine."},{"verse":19,"restored":"When you besiege a city many days to fight against it and capture it, you shall not destroy its trees by wielding axe against them, for from them you may eat, and you shall not cut them down. For is tree of field a human, to enter before you in siege?"},{"verse":20,"restored":"Only a tree you know is not a tree for food, it you may destroy and cut down, and build siegeworks against city making war with you until it falls."}],"translation_notes":["The chapter contains both restraints on warfare and severe permissions for domination and extermination.","House, vineyard, betrothal, and fear exemptions protect unfinished civilian life and allow the fainthearted to leave without punishment.","The peace offer still imposes forced labor and therefore is not peace by modern standards.","Women and children are treated as plunder in distant-city warfare; this must be named as dehumanizing and never normalized.","Verses 16-17 command total destruction of local peoples and are categorically rejected as models for modern conduct.","Fruit trees are protected during siege because they sustain future life; the rhetorical question distinguishes life-giving ecology from military targets.","The fruit-tree principle does not redeem or sanitize the surrounding war system."],"safety_note":"Never use Deuteronomy 20 to justify holy war, genocide, forced labor, enslavement, captive-taking, sexual violence, plunder, or environmental destruction. Preserve its exemptions and fruit-tree restraint while categorically refusing the chapter's coercive and exterminatory permissions."}
+{
+  "book": "Deuteronomy",
+  "book_id": "deuteronomy",
+  "chapter": 20,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Deuteronomy / Devarim warfare, exemptions, siege, and fruit-tree law, draft aligned later",
+    "review_note": "First-pass draft reviewed for priestly battle address, fear, house/vineyard/betrothal exemptions, fainthearted release, peace offer and forced labor, total-destruction commands, siege limits, fruit-tree protection, and anti-war safeguards."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "When you go out to battle against your enemies and see horse and chariot, a people more numerous than you, you shall not fear them, for YHWH your Divine is with you, who brought you up from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "It shall be, when you draw near to battle, priest shall approach and speak to people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He shall say to them, Hear, Israel: You draw near today to battle against your enemies. Let not your heart soften; do not fear, panic, or tremble before them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For YHWH your Divine is the one going with you to fight for you against your enemies, to save you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Officers shall speak to people, saying, Who is the man who built a new house and has not dedicated it? Let him go and return to his house, lest he die in battle and another man dedicate it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Who is the man who planted a vineyard and has not begun to enjoy it? Let him go and return to his house, lest he die in battle and another man begin to enjoy it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Who is the man who betrothed a woman and has not taken her? Let him go and return to his house, lest he die in battle and another man take her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Officers shall continue to speak to people and say, Who is the man fearful and soft of heart? Let him go and return to his house, so heart of his brothers does not melt like his heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "When officers finish speaking to people, they shall appoint commanders of hosts at head of people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When you draw near to a city to fight against it, you shall call to it for peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "It shall be, if it answers you peace and opens to you, then all people found in it shall become forced labor for you and serve you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "But if it does not make peace with you and makes war with you, then you shall besiege it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "YHWH your Divine will give it into your hand, and you shall strike every male in it with edge of sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Only women, little ones, livestock, and all in city, all its spoil, you may plunder for yourself; you shall eat spoil of your enemies YHWH your Divine gives you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Thus you shall do to all cities very far from you, which are not from cities of these nations here.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But from cities of these peoples YHWH your Divine gives you as inheritance, you shall not let any breath live.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "You shall surely devote them to destruction: Hittite, Amorite, Canaanite, Perizzite, Hivite, and Jebusite, as YHWH your Divine commanded you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "so they do not teach you to do according to all their abominations they did for their gods, and you sin/misalign against YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "When you besiege a city many days to fight against it and capture it, you shall not destroy its trees by wielding axe against them, for from them you may eat, and you shall not cut them down. For is tree of field a human, to enter before you in siege?",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Only a tree you know is not a tree for food, it you may destroy and cut down, and build siegeworks against city making war with you until it falls.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The chapter contains both restraints on warfare and severe permissions for domination and extermination.",
+    "House, vineyard, betrothal, and fear exemptions protect unfinished civilian life and allow the fainthearted to leave without punishment.",
+    "The peace offer still imposes forced labor and therefore is not peace by modern standards.",
+    "Women and children are treated as plunder in distant-city warfare; this must be named as dehumanizing and never normalized.",
+    "Verses 16-17 command total destruction of local peoples and are categorically rejected as models for modern conduct.",
+    "Fruit trees are protected during siege because they sustain future life; the rhetorical question distinguishes life-giving ecology from military targets.",
+    "The fruit-tree principle does not redeem or sanitize the surrounding war system."
+  ],
+  "safety_note": "Never use Deuteronomy 20 to justify holy war, genocide, forced labor, enslavement, captive-taking, sexual violence, plunder, or environmental destruction. Preserve its exemptions and fruit-tree restraint while categorically refusing the chapter's coercive and exterminatory permissions.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-20",
+    "tags": "partial-11-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}
