@@ -1,0 +1,33 @@
+name: Backfill rich scripture layers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/backfill-rich-layers.mjs"
+      - ".github/workflows/backfill-rich-layers.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  backfill:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Backfill 1 Chronicles 1
+        run: node scripts/backfill-rich-layers.mjs --book=1-chronicles --chapter=1
+      - name: Commit backfill
+        run: |
+          if git diff --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripture/1-chronicles/1-chronicles-001.json
+          git commit -m "Backfill rich layers for 1 Chronicles 1"
+          git push
