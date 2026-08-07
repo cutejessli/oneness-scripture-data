@@ -1,1 +1,335 @@
-{"book":"Revelation","book_id":"revelation","chapter":17,"audit_status":{"status":"source-audited-draft","source_base":"Greek Revelation text tradition with Babylon/Rome/empire symbolism; draft aligned later","review_note":"Compact complete draft reviewed for woman/Babylon, beast, kings, Lamb victory, waters/peoples, empire self-destruction."},"verses":[{"verse":1,"restored":"One of seven messengers with seven bowls came and spoke with me, saying: Come, I will show you judgment of the great prostitute seated upon many waters,"},{"verse":2,"restored":"with whom kings of earth practiced sexual misuse, and those dwelling on earth were made drunk from wine of her misuse."},{"verse":3,"restored":"He carried me in Spirit into wilderness, and I saw a woman sitting on scarlet beast full of blasphemous names, having seven heads and ten horns."},{"verse":4,"restored":"The woman was clothed in purple and scarlet, gilded with gold, precious stone, and pearls, having golden cup in hand full of abominations and impurities of her misuse."},{"verse":5,"restored":"On her forehead a name written, mystery: Babylon the Great, mother of prostitutes and abominations of earth."},{"verse":6,"restored":"I saw the woman drunk from blood/life of holy ones and from blood/life of witnesses of Jesus. Seeing her, I marveled with great marvel."},{"verse":7,"restored":"The messenger said to me: Why marvel? I will tell you mystery of woman and beast carrying her, having seven heads and ten horns."},{"verse":8,"restored":"The beast you saw was and is not and is about to ascend from abyss and go into ruin; earth-dwellers whose names are not written on scroll of life from foundation of world will marvel seeing beast that was and is not and will be present."},{"verse":9,"restored":"Here is mind having wisdom: the seven heads are seven mountains where the woman sits, and they are seven kings."},{"verse":10,"restored":"Five fell, one is, another has not yet come; when he comes, he must remain a little."},{"verse":11,"restored":"The beast that was and is not is also eighth and is from the seven, and goes into ruin."},{"verse":12,"restored":"The ten horns you saw are ten kings who have not yet received reign, but receive authority as kings one hour with beast."},{"verse":13,"restored":"These have one mind and give their power and authority to beast."},{"verse":14,"restored":"These will war with Lamb, and Lamb will conquer them, because he is Lord of lords and King of kings, and those with him are called and chosen and trustworthy."},{"verse":15,"restored":"He says to me: The waters you saw, where prostitute sits, are peoples and crowds and nations and tongues."},{"verse":16,"restored":"The ten horns you saw, and the beast, these will hate the prostitute, make her desolate and naked, consume her flesh, and burn her with fire."},{"verse":17,"restored":"For the Divine gave into their hearts to do his purpose, and to do one purpose, and to give their reign to beast until words of Divine are completed."},{"verse":18,"restored":"The woman you saw is the great city having reign over kings of earth."}],"translation_notes":["Babylon is empire-city/system imagery, strongly associated with Rome in first-century symbolic register; do not use as arbitrary modern label.","Sexual imagery symbolizes imperial seduction, idolatrous economy, and exploitative power; do not misogynistically weaponize woman imagery.","The beast and kings turning on Babylon reveals empire self-devouring."],"safety_note":"Do not use 'prostitute/Babylon' imagery to demean women or sex workers. The symbol critiques exploitative empire and luxury built on blood/life of witnesses."}
+{
+  "book": "Revelation",
+  "book_id": "revelation",
+  "chapter": 17,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Revelation text tradition with Babylon/Rome/empire symbolism; draft aligned later",
+    "review_note": "Compact complete draft reviewed for woman/Babylon, beast, kings, Lamb victory, waters/peoples, empire self-destruction."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "One of seven messengers with seven bowls came and spoke with me, saying: Come, I will show you judgment of the great prostitute seated upon many waters,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came one of the seven angels which had the seven vials, and talked with me, saying unto me, Come hither; I will shew unto thee the judgment of the great whore that sitteth upon many waters:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "with whom kings of earth practiced sexual misuse, and those dwelling on earth were made drunk from wine of her misuse.",
+      "familiar": {
+        "source": "KJV",
+        "text": "With whom the kings of the earth have committed fornication, and the inhabitants of the earth have been made drunk with the wine of her fornication."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He carried me in Spirit into wilderness, and I saw a woman sitting on scarlet beast full of blasphemous names, having seven heads and ten horns.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So he carried me away in the spirit into the wilderness: and I saw a woman sit upon a scarlet coloured beast, full of names of blasphemy, having seven heads and ten horns."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "spirit"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "The woman was clothed in purple and scarlet, gilded with gold, precious stone, and pearls, having golden cup in hand full of abominations and impurities of her misuse.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the woman was arrayed in purple and scarlet colour, and decked with gold and precious stones and pearls, having a golden cup in her hand full of abominations and filthiness of her fornication:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "On her forehead a name written, mystery: Babylon the Great, mother of prostitutes and abominations of earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And upon her forehead was a name written, MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS AND ABOMINATIONS OF THE EARTH."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "I saw the woman drunk from blood/life of holy ones and from blood/life of witnesses of Jesus. Seeing her, I marveled with great marvel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I saw the woman drunken with the blood of the saints, and with the blood of the martyrs of Jesus: and when I saw her, I wondered with great admiration."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "The messenger said to me: Why marvel? I will tell you mystery of woman and beast carrying her, having seven heads and ten horns.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the angel said unto me, Wherefore didst thou marvel? I will tell thee the mystery of the woman, and of the beast that carrieth her, which hath the seven heads and ten horns."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "The beast you saw was and is not and is about to ascend from abyss and go into ruin; earth-dwellers whose names are not written on scroll of life from foundation of world will marvel seeing beast that was and is not and will be present.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The beast that thou sawest was, and is not; and shall ascend out of the bottomless pit, and go into perdition: and they that dwell on the earth shall wonder, whose names were not written in the book of life from the foundation of the world, when they behold the beast that was, and is not, and yet is."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Here is mind having wisdom: the seven heads are seven mountains where the woman sits, and they are seven kings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And here is the mind which hath wisdom. The seven heads are seven mountains, on which the woman sitteth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Five fell, one is, another has not yet come; when he comes, he must remain a little.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are seven kings: five are fallen, and one is, and the other is not yet come; and when he cometh, he must continue a short space."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The beast that was and is not is also eighth and is from the seven, and goes into ruin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the beast that was, and is not, even he is the eighth, and is of the seven, and goeth into perdition."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The ten horns you saw are ten kings who have not yet received reign, but receive authority as kings one hour with beast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the ten horns which thou sawest are ten kings, which have received no kingdom as yet; but receive power as kings one hour with the beast."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "These have one mind and give their power and authority to beast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These have one mind, and shall give their power and strength unto the beast."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "These will war with Lamb, and Lamb will conquer them, because he is Lord of lords and King of kings, and those with him are called and chosen and trustworthy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These shall make war with the Lamb, and the Lamb shall overcome them: for he is Lord of lords, and King of kings: and they that are with him are called, and chosen, and faithful."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "trust-faith",
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He says to me: The waters you saw, where prostitute sits, are peoples and crowds and nations and tongues.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he saith unto me, The waters which thou sawest, where the whore sitteth, are peoples, and multitudes, and nations, and tongues."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "The ten horns you saw, and the beast, these will hate the prostitute, make her desolate and naked, consume her flesh, and burn her with fire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the ten horns which thou sawest upon the beast, these shall hate the whore, and shall make her desolate and naked, and shall eat her flesh, and burn her with fire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For the Divine gave into their hearts to do his purpose, and to do one purpose, and to give their reign to beast until words of Divine are completed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For God hath put in their hearts to fulfil his will, and to agree, and give their kingdom unto the beast, until the words of God shall be fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The woman you saw is the great city having reign over kings of earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the woman which thou sawest is that great city, which reigneth over the kings of the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Babylon is empire-city/system imagery, strongly associated with Rome in first-century symbolic register; do not use as arbitrary modern label.",
+    "Sexual imagery symbolizes imperial seduction, idolatrous economy, and exploitative power; do not misogynistically weaponize woman imagery.",
+    "The beast and kings turning on Babylon reveals empire self-devouring."
+  ],
+  "safety_note": "Do not use 'prostitute/Babylon' imagery to demean women or sex workers. The symbol critiques exploitative empire and luxury built on blood/life of witnesses.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-1-of-18",
+    "tags": "partial-12-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

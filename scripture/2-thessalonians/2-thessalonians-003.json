@@ -1,1 +1,338 @@
-{"book":"2 Thessalonians","book_id":"2-thessalonians","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for prayer, Lord's faithfulness, disorderly idleness, apostolic example, not enemy but admonish as sibling, final peace/grace."},"verses":[{"verse":1,"restored":"Finally, siblings, pray concerning us, that the word of the Lord may run and be glorified, just as also with you,"},{"verse":2,"restored":"and that we may be rescued from out-of-place and harmful humans; for not all have the trust."},{"verse":3,"restored":"But trustworthy is the Lord, who will establish you and guard you from the harmful one."},{"verse":4,"restored":"And we have confidence in the Lord concerning you, that what we command you, you are doing and will do."},{"verse":5,"restored":"May the Lord direct your hearts into the love of the Divine and into the endurance of Messiah."},{"verse":6,"restored":"Now we command you, siblings, in the name of our Lord Jesus Messiah, to withdraw from every sibling walking disorderly and not according to the tradition that they received from us."},{"verse":7,"restored":"For you yourselves know how it is necessary to imitate us, because we were not disorderly among you,"},{"verse":8,"restored":"nor did we eat bread from anyone free of charge, but in labor and toil night and day we worked so as not to burden any of you."},{"verse":9,"restored":"Not because we do not have authority, but so that we might give ourselves as a pattern to you, for you to imitate us."},{"verse":10,"restored":"For even when we were with you, we commanded you this: if anyone is not willing to work, neither let that one eat."},{"verse":11,"restored":"For we hear some among you are walking disorderly, not working but working around/busying themselves in others' matters."},{"verse":12,"restored":"Now such ones we command and appeal in Lord Jesus Messiah, that with quietness working, they eat their own bread."},{"verse":13,"restored":"But you, siblings, do not grow weary doing the beautiful/good."},{"verse":14,"restored":"And if anyone does not obey our word through the letter, mark this one; do not mix together with that one, so that one may be turned/shamed toward correction."},{"verse":15,"restored":"Yet do not consider that one as enemy, but admonish as sibling."},{"verse":16,"restored":"Now may the Lord of peace himself give you peace through all, in every way. The Lord be with all of you."},{"verse":17,"restored":"The greeting by my hand, Paul's, which is a sign in every letter; thus I write."},{"verse":18,"restored":"The grace of our Lord Jesus Messiah be with all of you."}],"translation_notes":["The work/idleness instruction addresses disorderly refusal and meddling in this community context; it should not be weaponized against the poor, disabled, exploited, or those unable to work.","Verse 15 is crucial: do not regard the disciplined person as enemy, but admonish as sibling.","Final peace and grace include all of you, preserving the restorative frame." ]}
+{
+  "book": "2 Thessalonians",
+  "book_id": "2-thessalonians",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for prayer, Lord's faithfulness, disorderly idleness, apostolic example, not enemy but admonish as sibling, final peace/grace."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Finally, siblings, pray concerning us, that the word of the Lord may run and be glorified, just as also with you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Finally, brethren, pray for us, that the word of the Lord may have free course, and be glorified, even as it is with you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "and that we may be rescued from out-of-place and harmful humans; for not all have the trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that we may be delivered from unreasonable and wicked men: for all men have not faith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But trustworthy is the Lord, who will establish you and guard you from the harmful one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the Lord is faithful, who shall stablish you, and keep you from evil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And we have confidence in the Lord concerning you, that what we command you, you are doing and will do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we have confidence in the Lord touching you, that ye both do and will do the things which we command you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "May the Lord direct your hearts into the love of the Divine and into the endurance of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord direct your hearts into the love of God, and into the patient waiting for Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Now we command you, siblings, in the name of our Lord Jesus Messiah, to withdraw from every sibling walking disorderly and not according to the tradition that they received from us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For you yourselves know how it is necessary to imitate us, because we were not disorderly among you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "nor did we eat bread from anyone free of charge, but in labor and toil night and day we worked so as not to burden any of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither did we eat any man’s bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Not because we do not have authority, but so that we might give ourselves as a pattern to you, for you to imitate us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not because we have not power, but to make ourselves an ensample unto you to follow us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For even when we were with you, we commanded you this: if anyone is not willing to work, neither let that one eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For even when we were with you, this we commanded you, that if any would not work, neither should he eat."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For we hear some among you are walking disorderly, not working but working around/busying themselves in others' matters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we hear that there are some which walk among you disorderly, working not at all, but are busybodies."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Now such ones we command and appeal in Lord Jesus Messiah, that with quietness working, they eat their own bread.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "But you, siblings, do not grow weary doing the beautiful/good.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye, brethren, be not weary in well doing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And if anyone does not obey our word through the letter, mark this one; do not mix together with that one, so that one may be turned/shamed toward correction.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Yet do not consider that one as enemy, but admonish as sibling.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet count him not as an enemy, but admonish him as a brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Now may the Lord of peace himself give you peace through all, in every way. The Lord be with all of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the Lord of peace himself give you peace always by all means. The Lord be with you all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "The greeting by my hand, Paul's, which is a sign in every letter; thus I write.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The salutation of Paul with mine own hand, which is the token in every epistle: so I write."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The grace of our Lord Jesus Messiah be with all of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The work/idleness instruction addresses disorderly refusal and meddling in this community context; it should not be weaponized against the poor, disabled, exploited, or those unable to work.",
+    "Verse 15 is crucial: do not regard the disciplined person as enemy, but admonish as sibling.",
+    "Final peace and grace include all of you, preserving the restorative frame."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-18",
+    "tags": "partial-3-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

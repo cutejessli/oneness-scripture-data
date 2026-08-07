@@ -1,29 +1,428 @@
 {
-  "book":"Genesis","book_id":"genesis","chapter":40,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Reviewed for cupbearer/baker imprisonment, dreams, Joseph's interpretation claim, three-day wordplay, restoration/execution outcomes, and forgotten Joseph."},
-  "verses":[
-    {"verse":1,"restored":"After these things, the cupbearer of the king of Egypt and the baker sinned against their lord, the king of Egypt.","tags":["egypt","cupbearer","baker"]},
-    {"verse":2,"restored":"Pharaoh was angry with his two officers, the chief cupbearer and the chief baker.","tags":["pharaoh","anger"]},
-    {"verse":3,"restored":"He put them in custody in the house of the captain of the guard, in the prison, the place where Joseph was confined.","tags":["prison","joseph"]},
-    {"verse":4,"restored":"The captain of the guard appointed Joseph with them, and he served them; they were in custody for days.","tags":["joseph","service"]},
-    {"verse":5,"restored":"The two of them dreamed a dream, each his own dream in one night, each dream with its own interpretation.","tags":["dreams","interpretation"]},
-    {"verse":6,"restored":"Joseph came to them in the morning and saw them, and look, they were troubled.","tags":["joseph","discernment"]},
-    {"verse":7,"restored":"He asked Pharaoh’s officers who were with him in custody, Why are your faces sad today?","tags":["faces","sadness"]},
-    {"verse":8,"restored":"They said to him, We have dreamed a dream, and there is no interpreter for it. Joseph said to them, Do not interpretations belong to the Divine? Please recount it to me.","tags":["dreams","divine","interpretation"]},
-    {"verse":9,"restored":"The chief cupbearer recounted his dream to Joseph and said to him, In my dream, look, a vine was before me.","tags":["cupbearer","vine"]},
-    {"verse":10,"restored":"On the vine were three branches; as it budded, its blossoms came up, and its clusters ripened into grapes.","tags":["vine","three"]},
-    {"verse":11,"restored":"Pharaoh’s cup was in my hand. I took the grapes, pressed them into Pharaoh’s cup, and gave the cup into Pharaoh’s hand.","tags":["cup","pharaoh"]},
-    {"verse":12,"restored":"Joseph said to him, This is its interpretation: the three branches are three days.","tags":["interpretation","three-days"]},
-    {"verse":13,"restored":"Within three days Pharaoh will lift up your head and restore you to your office, and you will give Pharaoh’s cup into his hand as before.","tags":["restoration","head"]},
-    {"verse":14,"restored":"Only remember me with you when it goes well for you, and please do covenant-kindness with me; mention me to Pharaoh and bring me out of this house.","tags":["remember","chesed","joseph"]},
-    {"verse":15,"restored":"For I was surely stolen from the land of the Hebrews, and here also I have done nothing that they should put me into the pit.","tags":["stolen","hebrews","pit"]},
-    {"verse":16,"restored":"When the chief baker saw that the interpretation was good, he said to Joseph, I also was in my dream, and look, three baskets of white bread were on my head.","tags":["baker","dream"]},
-    {"verse":17,"restored":"In the upper basket were all kinds of baked food for Pharaoh, but the birds were eating them from the basket on my head.","tags":["birds","basket"]},
-    {"verse":18,"restored":"Joseph answered and said, This is its interpretation: the three baskets are three days.","tags":["interpretation","three-days"]},
-    {"verse":19,"restored":"Within three days Pharaoh will lift your head from upon you and hang you on a tree, and the birds will eat your flesh from upon you.","tags":["judgment","head","tree"]},
-    {"verse":20,"restored":"On the third day, Pharaoh’s birthday, he made a feast for all his servants and lifted up the head of the chief cupbearer and the head of the chief baker among his servants.","tags":["third-day","feast","pharaoh"]},
-    {"verse":21,"restored":"He restored the chief cupbearer to his cupbearing, and he placed the cup in Pharaoh’s hand.","tags":["restoration","cupbearer"]},
-    {"verse":22,"restored":"But the chief baker he hanged, as Joseph had interpreted to them.","tags":["baker","interpretation"]},
-    {"verse":23,"restored":"Yet the chief cupbearer did not remember Joseph; he forgot him.","tags":["forgotten","joseph"]}
-  ]
+  "book": "Genesis",
+  "book_id": "genesis",
+  "chapter": 40,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Reviewed for cupbearer/baker imprisonment, dreams, Joseph's interpretation claim, three-day wordplay, restoration/execution outcomes, and forgotten Joseph."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "After these things, the cupbearer of the king of Egypt and the baker sinned against their lord, the king of Egypt.",
+      "tags": [
+        "egypt",
+        "cupbearer",
+        "baker",
+        "kingship-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Pharaoh was angry with his two officers, the chief cupbearer and the chief baker.",
+      "tags": [
+        "pharaoh",
+        "anger"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh was wroth against two of his officers, against the chief of the butlers, and against the chief of the bakers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He put them in custody in the house of the captain of the guard, in the prison, the place where Joseph was confined.",
+      "tags": [
+        "prison",
+        "joseph",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put them in ward in the house of the captain of the guard, into the prison, the place where Joseph was bound."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The captain of the guard appointed Joseph with them, and he served them; they were in custody for days.",
+      "tags": [
+        "joseph",
+        "service"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The two of them dreamed a dream, each his own dream in one night, each dream with its own interpretation.",
+      "tags": [
+        "dreams",
+        "interpretation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Joseph came to them in the morning and saw them, and look, they were troubled.",
+      "tags": [
+        "joseph",
+        "discernment"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He asked Pharaoh’s officers who were with him in custody, Why are your faces sad today?",
+      "tags": [
+        "faces",
+        "sadness"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he asked Pharaoh’s officers that were with him in the ward of his lord’s house, saying, Wherefore look ye so sadly to day?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They said to him, We have dreamed a dream, and there is no interpreter for it. Joseph said to them, Do not interpretations belong to the Divine? Please recount it to me.",
+      "tags": [
+        "dreams",
+        "divine",
+        "interpretation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The chief cupbearer recounted his dream to Joseph and said to him, In my dream, look, a vine was before me.",
+      "tags": [
+        "cupbearer",
+        "vine"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the chief butler told his dream to Joseph, and said to him, In my dream, behold, a vine was before me;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "On the vine were three branches; as it budded, its blossoms came up, and its clusters ripened into grapes.",
+      "tags": [
+        "vine",
+        "three"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the vine were three branches: and it was as though it budded, and her blossoms shot forth; and the clusters thereof brought forth ripe grapes:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Pharaoh’s cup was in my hand. I took the grapes, pressed them into Pharaoh’s cup, and gave the cup into Pharaoh’s hand.",
+      "tags": [
+        "cup",
+        "pharaoh"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh’s cup was in my hand: and I took the grapes, and pressed them into Pharaoh’s cup, and I gave the cup into Pharaoh’s hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Joseph said to him, This is its interpretation: the three branches are three days.",
+      "tags": [
+        "interpretation",
+        "three-days"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joseph said unto him, This is the interpretation of it: The three branches are three days:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Within three days Pharaoh will lift up your head and restore you to your office, and you will give Pharaoh’s cup into his hand as before.",
+      "tags": [
+        "restoration",
+        "head"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet within three days shall Pharaoh lift up thine head, and restore thee unto thy place: and thou shalt deliver Pharaoh’s cup into his hand, after the former manner when thou wast his butler."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Only remember me with you when it goes well for you, and please do covenant-kindness with me; mention me to Pharaoh and bring me out of this house.",
+      "tags": [
+        "remember",
+        "chesed",
+        "joseph"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But think on me when it shall be well with thee, and shew kindness, I pray thee, unto me, and make mention of me unto Pharaoh, and bring me out of this house:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "For I was surely stolen from the land of the Hebrews, and here also I have done nothing that they should put me into the pit.",
+      "tags": [
+        "stolen",
+        "hebrews",
+        "pit"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "For indeed I was stolen away out of the land of the Hebrews: and here also have I done nothing that they should put me into the dungeon."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "When the chief baker saw that the interpretation was good, he said to Joseph, I also was in my dream, and look, three baskets of white bread were on my head.",
+      "tags": [
+        "baker",
+        "dream"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When the chief baker saw that the interpretation was good, he said unto Joseph, I also was in my dream, and, behold, I had three white baskets on my head:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "In the upper basket were all kinds of baked food for Pharaoh, but the birds were eating them from the basket on my head.",
+      "tags": [
+        "birds",
+        "basket"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Joseph answered and said, This is its interpretation: the three baskets are three days.",
+      "tags": [
+        "interpretation",
+        "three-days"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Joseph answered and said, This is the interpretation thereof: The three baskets are three days:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Within three days Pharaoh will lift your head from upon you and hang you on a tree, and the birds will eat your flesh from upon you.",
+      "tags": [
+        "judgment",
+        "head",
+        "tree"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "On the third day, Pharaoh’s birthday, he made a feast for all his servants and lifted up the head of the chief cupbearer and the head of the chief baker among his servants.",
+      "tags": [
+        "third-day",
+        "feast",
+        "pharaoh",
+        "labor-power"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass the third day, which was Pharaoh’s birthday, that he made a feast unto all his servants: and he lifted up the head of the chief butler and of the chief baker among his servants."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "He restored the chief cupbearer to his cupbearing, and he placed the cup in Pharaoh’s hand.",
+      "tags": [
+        "restoration",
+        "cupbearer"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he restored the chief butler unto his butlership again; and he gave the cup into Pharaoh’s hand:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But the chief baker he hanged, as Joseph had interpreted to them.",
+      "tags": [
+        "baker",
+        "interpretation"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "But he hanged the chief baker: as Joseph had interpreted to them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Yet the chief cupbearer did not remember Joseph; he forgot him.",
+      "tags": [
+        "forgotten",
+        "joseph"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet did not the chief butler remember Joseph, but forgat him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-23",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
 }

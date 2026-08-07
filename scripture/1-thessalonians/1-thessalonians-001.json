@@ -1,1 +1,259 @@
-{"book":"1 Thessalonians","book_id":"1-thessalonians","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for thanksgiving, work of trust, labor of love, endurance of hope, imitation, turning from idols, waiting for the Son."},"verses":[{"verse":1,"restored":"Paul and Silvanus and Timothy, to the assembly of Thessalonians in Divine Father and Lord Jesus Messiah: grace to you and peace."},{"verse":2,"restored":"We give thanks to the Divine always concerning all of you, making remembrance in our prayers,"},{"verse":3,"restored":"unceasingly remembering your work of trust, labor of love, and endurance of hope in our Lord Jesus Messiah before our Divine and Father,"},{"verse":4,"restored":"knowing, siblings beloved by the Divine, your choosing,"},{"verse":5,"restored":"because our good news did not come to you in word only, but also in power and in holy Spirit and in much full assurance, just as you know what sort we became among you for your sake."},{"verse":6,"restored":"And you became imitators of us and of the Lord, receiving the word in much pressure with joy of holy Spirit,"},{"verse":7,"restored":"so that you became a pattern to all those trusting in Macedonia and in Achaia."},{"verse":8,"restored":"For from you the word of the Lord has sounded out, not only in Macedonia and Achaia, but in every place your trust toward the Divine has gone out, so that we have no need to say anything."},{"verse":9,"restored":"For they themselves report concerning us what sort of entrance we had toward you, and how you turned to the Divine from idols, to serve a living and true Divine,"},{"verse":10,"restored":"and to wait for his Son from the heavens, whom he raised from the dead, Jesus, the One rescuing us from the coming wrath."}],"translation_notes":["The triad in 1:3 is preserved: work of trust, labor of love, endurance of hope.","Pressure and joy in holy Spirit should both remain visible; this is not triumphalism but resilient reception." ]}
+{
+  "book": "1 Thessalonians",
+  "book_id": "1-thessalonians",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for thanksgiving, work of trust, labor of love, endurance of hope, imitation, turning from idols, waiting for the Son."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul and Silvanus and Timothy, to the assembly of Thessalonians in Divine Father and Lord Jesus Messiah: grace to you and peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        },
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "We give thanks to the Divine always concerning all of you, making remembrance in our prayers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "We give thanks to God always for you all, making mention of you in our prayers;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "unceasingly remembering your work of trust, labor of love, and endurance of hope in our Lord Jesus Messiah before our Divine and Father,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remembering without ceasing your work of faith, and labour of love, and patience of hope in our Lord Jesus Christ, in the sight of God and our Father;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "knowing, siblings beloved by the Divine, your choosing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing, brethren beloved, your election of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "because our good news did not come to you in word only, but also in power and in holy Spirit and in much full assurance, just as you know what sort we became among you for your sake.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For our gospel came not unto you in word only, but also in power, and in the Holy Ghost, and in much assurance; as ye know what manner of men we were among you for your sake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And you became imitators of us and of the Lord, receiving the word in much pressure with joy of holy Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye became followers of us, and of the Lord, having received the word in much affliction, with joy of the Holy Ghost:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "so that you became a pattern to all those trusting in Macedonia and in Achaia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that ye were ensamples to all that believe in Macedonia and Achaia."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "For from you the word of the Lord has sounded out, not only in Macedonia and Achaia, but in every place your trust toward the Divine has gone out, so that we have no need to say anything.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For from you sounded out the word of the Lord not only in Macedonia and Achaia, but also in every place your faith to God-ward is spread abroad; so that we need not to speak any thing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For they themselves report concerning us what sort of entrance we had toward you, and how you turned to the Divine from idols, to serve a living and true Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they themselves shew of us what manner of entering in we had unto you, and how ye turned to God from idols to serve the living and true God;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "and to wait for his Son from the heavens, whom he raised from the dead, Jesus, the One rescuing us from the coming wrath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to wait for his Son from heaven, whom he raised from the dead, even Jesus, which delivered us from the wrath to come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The triad in 1:3 is preserved: work of trust, labor of love, endurance of hope.",
+    "Pressure and joy in holy Spirit should both remain visible; this is not triumphalism but resilient reception."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-10",
+    "tags": "partial-7-of-10",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-10",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

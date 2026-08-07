@@ -1,1 +1,520 @@
-{"book":"James","book_id":"james","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek James text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for favoritism, poor/rich reversal, royal law, mercy over judgment, trust and works, Abraham/Rahab examples."},"verses":[{"verse":1,"restored":"My siblings, do not hold the trust of our Lord Jesus Messiah of glory with favoritism."},{"verse":2,"restored":"For if a gold-ringed man in shining clothing enters your gathering, and a poor one in dirty clothing also enters,"},{"verse":3,"restored":"and you look upon the one wearing shining clothing and say, You sit here beautifully, and to the poor one you say, You stand there or Sit under my footstool,"},{"verse":4,"restored":"have you not made distinctions among yourselves and become judges with harmful reasonings?"},{"verse":5,"restored":"Listen, my beloved siblings: did not the Divine choose the poor in the world to be rich in trust and heirs of the reign that he promised to those loving him?"},{"verse":6,"restored":"But you dishonored the poor. Do not the rich oppress you and drag you into courts?"},{"verse":7,"restored":"Do they not blaspheme the beautiful/good name called over you?"},{"verse":8,"restored":"If indeed you fulfill royal Law according to the Scripture, You shall love your neighbor as yourself, you do beautifully/well."},{"verse":9,"restored":"But if you show favoritism, you work sin/misalignment, being exposed by the Law as transgressors."},{"verse":10,"restored":"For whoever keeps the whole Law but stumbles in one thing has become accountable for all."},{"verse":11,"restored":"For the One who said, Do not commit adultery, also said, Do not murder. If you do not commit adultery but murder, you have become transgressor of Law."},{"verse":12,"restored":"So speak and so do as those about to be judged through Law of freedom."},{"verse":13,"restored":"For judgment is without mercy to the one not doing mercy; mercy boasts over judgment."},{"verse":14,"restored":"What benefit, my siblings, if someone says one has trust but does not have works? Is the trust able to save/heal that one?"},{"verse":15,"restored":"If a sibling is naked and lacking daily food,"},{"verse":16,"restored":"and one of you says to them, Go in peace, be warmed and filled, but you do not give the things needful for the body, what benefit?"},{"verse":17,"restored":"So also trust, if it does not have works, is dead by itself."},{"verse":18,"restored":"But someone will say, You have trust, and I have works. Show me your trust apart from works, and I will show you trust by my works."},{"verse":19,"restored":"You trust that Divine is one; you do beautifully. Even the daimons trust and shudder."},{"verse":20,"restored":"But do you want to know, empty human, that trust apart from works is inactive?"},{"verse":21,"restored":"Was not Abraham our father made righteous/just by works, offering Isaac his son upon the altar?"},{"verse":22,"restored":"You see that trust was working together with his works, and by the works the trust was completed."},{"verse":23,"restored":"And the Scripture was fulfilled saying, Abraham trusted the Divine, and it was counted to him as righteousness/justice, and he was called friend of the Divine."},{"verse":24,"restored":"You see that a human is made righteous/just by works and not by trust alone."},{"verse":25,"restored":"And likewise also Rahab the sex worker, was she not made righteous/just by works, having welcomed the messengers and sent them out by another way?"},{"verse":26,"restored":"For just as the body apart from spirit/breath is dead, so also trust apart from works is dead."}],"translation_notes":["James 2 is anti-favoritism and materially concrete: bodily need cannot be answered by words alone.","Trust and works are not abstract theological opponents here; living trust is completed in embodied action.","Rahab is named without sanitizing her status; her agency and hospitality are honored." ]}
+{
+  "book": "James",
+  "book_id": "james",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek James text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for favoritism, poor/rich reversal, royal law, mercy over judgment, trust and works, Abraham/Rahab examples."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "My siblings, do not hold the trust of our Lord Jesus Messiah of glory with favoritism.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My brethren, have not the faith of our Lord Jesus Christ, the Lord of glory, with respect of persons."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "For if a gold-ringed man in shining clothing enters your gathering, and a poor one in dirty clothing also enters,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if there come unto your assembly a man with a gold ring, in goodly apparel, and there come in also a poor man in vile raiment;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "and you look upon the one wearing shining clothing and say, You sit here beautifully, and to the poor one you say, You stand there or Sit under my footstool,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "have you not made distinctions among yourselves and become judges with harmful reasonings?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Are ye not then partial in yourselves, and are become judges of evil thoughts?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Listen, my beloved siblings: did not the Divine choose the poor in the world to be rich in trust and heirs of the reign that he promised to those loving him?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hearken, my beloved brethren, Hath not God chosen the poor of this world rich in faith, and heirs of the kingdom which he hath promised to them that love him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "trust-faith",
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But you dishonored the poor. Do not the rich oppress you and drag you into courts?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Do they not blaspheme the beautiful/good name called over you?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do not they blaspheme that worthy name by the which ye are called?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "If indeed you fulfill royal Law according to the Scripture, You shall love your neighbor as yourself, you do beautifully/well.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But if you show favoritism, you work sin/misalignment, being exposed by the Law as transgressors.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For whoever keeps the whole Law but stumbles in one thing has become accountable for all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For the One who said, Do not commit adultery, also said, Do not murder. If you do not commit adultery but murder, you have become transgressor of Law.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "So speak and so do as those about to be judged through Law of freedom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So speak ye, and so do, as they that shall be judged by the law of liberty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "For judgment is without mercy to the one not doing mercy; mercy boasts over judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "What benefit, my siblings, if someone says one has trust but does not have works? Is the trust able to save/heal that one?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What doth it profit, my brethren, though a man say he hath faith, and have not works? can faith save him?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "If a sibling is naked and lacking daily food,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a brother or sister be naked, and destitute of daily food,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "and one of you says to them, Go in peace, be warmed and filled, but you do not give the things needful for the body, what benefit?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "So also trust, if it does not have works, is dead by itself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so faith, if it hath not works, is dead, being alone."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But someone will say, You have trust, and I have works. Show me your trust apart from works, and I will show you trust by my works.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, a man may say, Thou hast faith, and I have works: shew me thy faith without thy works, and I will shew thee my faith by my works."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "You trust that Divine is one; you do beautifully. Even the daimons trust and shudder.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou believest that there is one God; thou doest well: the devils also believe, and tremble."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But do you want to know, empty human, that trust apart from works is inactive?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But wilt thou know, O vain man, that faith without works is dead?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Was not Abraham our father made righteous/just by works, offering Isaac his son upon the altar?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Was not Abraham our father justified by works, when he had offered Isaac his son upon the altar?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "You see that trust was working together with his works, and by the works the trust was completed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Seest thou how faith wrought with his works, and by works was faith made perfect?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "And the Scripture was fulfilled saying, Abraham trusted the Divine, and it was counted to him as righteousness/justice, and he was called friend of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the scripture was fulfilled which saith, Abraham believed God, and it was imputed unto him for righteousness: and he was called the Friend of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "You see that a human is made righteous/just by works and not by trust alone.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye see then how that by works a man is justified, and not by faith only."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And likewise also Rahab the sex worker, was she not made righteous/just by works, having welcomed the messengers and sent them out by another way?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise also was not Rahab the harlot justified by works, when she had received the messengers, and had sent them out another way?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "For just as the body apart from spirit/breath is dead, so also trust apart from works is dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For as the body without the spirit is dead, so faith without works is dead also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "James 2 is anti-favoritism and materially concrete: bodily need cannot be answered by words alone.",
+    "Trust and works are not abstract theological opponents here; living trust is completed in embodied action.",
+    "Rahab is named without sanitizing her status; her agency and hospitality are honored."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-11-of-26",
+    "tags": "partial-18-of-26",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-26",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

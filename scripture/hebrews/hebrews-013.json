@@ -1,1 +1,444 @@
-{"book":"Hebrews","book_id":"hebrews","chapter":13,"audit_status":{"status":"source-audited-draft","source_base":"Greek Hebrews text tradition; draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for brotherly love, hospitality, prisoners, marriage, money, leaders, outside camp, sacrifice of praise, final blessing."},"verses":[{"verse":1,"restored":"Let sibling-love remain."},{"verse":2,"restored":"Do not forget hospitality, for through this some unknowingly hosted messengers."},{"verse":3,"restored":"Remember prisoners as bound with them, and those mistreated, since you yourselves also are in body."},{"verse":4,"restored":"Let marriage be honored among all, and the bed undefiled; for sexually immoral/misusing and adulterers the Divine will judge."},{"verse":5,"restored":"Let your way be without love of silver/money, being content with present things; for he has said: I will never leave you nor forsake you."},{"verse":6,"restored":"So we say with boldness: Lord is my helper; I will not fear. What will a human do to me?"},{"verse":7,"restored":"Remember your leaders, who spoke to you the word of the Divine; considering the outcome of their way, imitate the trust."},{"verse":8,"restored":"Jesus Messiah yesterday and today, the same also into the ages."},{"verse":9,"restored":"Do not be carried away by various and strange teachings; for it is beautiful/good for heart to be confirmed by grace, not foods, by which those walking were not benefited."},{"verse":10,"restored":"We have an altar from which those serving the tent have no authority to eat."},{"verse":11,"restored":"For bodies of those animals whose blood is brought into the holy places by the high priest concerning sin/misalignment are burned outside the camp."},{"verse":12,"restored":"Therefore Jesus also, so that he might sanctify the people through his own blood/life, suffered outside the gate."},{"verse":13,"restored":"So then let us go out to him outside the camp, bearing his reproach."},{"verse":14,"restored":"For here we do not have a remaining city, but we seek the one coming."},{"verse":15,"restored":"Through him, therefore, let us continually offer sacrifice of praise to the Divine, that is, fruit of lips confessing his name."},{"verse":16,"restored":"But do not forget doing good and sharing, for with such sacrifices the Divine is pleased."},{"verse":17,"restored":"Trust your leaders and yield, for they keep watch over your souls/lives as those who will give account, so that they may do this with joy and not groaning, for this would be unprofitable for you."},{"verse":18,"restored":"Pray concerning us, for we are persuaded that we have a beautiful/good conscience, desiring to conduct ourselves beautifully in all things."},{"verse":19,"restored":"And more abundantly I appeal to do this, so that I may be restored to you sooner."},{"verse":20,"restored":"Now the Divine of peace, the One leading up from dead ones the great Shepherd of the sheep, in blood/life of age-long covenant, our Lord Jesus,"},{"verse":21,"restored":"may he equip you in every beautiful/good thing to do his will, doing in us what is pleasing before him through Jesus Messiah, to whom be glory into the ages of the ages. Amen."},{"verse":22,"restored":"But I appeal to you, siblings, bear with the word of encouragement, for indeed I wrote to you briefly."},{"verse":23,"restored":"Know that our sibling Timothy has been released, with whom, if he comes soon, I will see you."},{"verse":24,"restored":"Greet all your leaders and all the holy ones. Those from Italy greet you."},{"verse":25,"restored":"Grace be with all of you."}],"translation_notes":["Hospitality and prisoner-solidarity are embodied ethics: remember them as bound with them, since you are in body.","Leadership yielding is accountable and mutual; leaders give account and may not dominate.","Outside the camp is solidarity with reproach and exclusion, not contempt for Israel's camp imagery."],"safety_note":"Hebrews 13:17 must not be used for authoritarian control. Leaders are accountable watchers, and the whole chapter frames ethics through sibling-love, hospitality, prisoner solidarity, doing good, sharing, and grace."}
+{
+  "book": "Hebrews",
+  "book_id": "hebrews",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Hebrews text tradition; draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for brotherly love, hospitality, prisoners, marriage, money, leaders, outside camp, sacrifice of praise, final blessing."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Let sibling-love remain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let brotherly love continue."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Do not forget hospitality, for through this some unknowingly hosted messengers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be not forgetful to entertain strangers: for thereby some have entertained angels unawares."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Remember prisoners as bound with them, and those mistreated, since you yourselves also are in body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Let marriage be honored among all, and the bed undefiled; for sexually immoral/misusing and adulterers the Divine will judge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let your way be without love of silver/money, being content with present things; for he has said: I will never leave you nor forsake you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "So we say with boldness: Lord is my helper; I will not fear. What will a human do to me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Remember your leaders, who spoke to you the word of the Divine; considering the outcome of their way, imitate the trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Jesus Messiah yesterday and today, the same also into the ages.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Jesus Christ the same yesterday, and to day, and for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Do not be carried away by various and strange teachings; for it is beautiful/good for heart to be confirmed by grace, not foods, by which those walking were not benefited.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "We have an altar from which those serving the tent have no authority to eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We have an altar, whereof they have no right to eat which serve the tabernacle."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For bodies of those animals whose blood is brought into the holy places by the high priest concerning sin/misalignment are burned outside the camp.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Therefore Jesus also, so that he might sanctify the people through his own blood/life, suffered outside the gate.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore Jesus also, that he might sanctify the people with his own blood, suffered without the gate."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "So then let us go out to him outside the camp, bearing his reproach.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let us go forth therefore unto him without the camp, bearing his reproach."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For here we do not have a remaining city, but we seek the one coming.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For here have we no continuing city, but we seek one to come."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Through him, therefore, let us continually offer sacrifice of praise to the Divine, that is, fruit of lips confessing his name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "By him therefore let us offer the sacrifice of praise to God continually, that is, the fruit of our lips giving thanks to his name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But do not forget doing good and sharing, for with such sacrifices the Divine is pleased.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But to do good and to communicate forget not: for with such sacrifices God is well pleased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Trust your leaders and yield, for they keep watch over your souls/lives as those who will give account, so that they may do this with joy and not groaning, for this would be unprofitable for you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Pray concerning us, for we are persuaded that we have a beautiful/good conscience, desiring to conduct ourselves beautifully in all things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Pray for us: for we trust we have a good conscience, in all things willing to live honestly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And more abundantly I appeal to do this, so that I may be restored to you sooner.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I beseech you the rather to do this, that I may be restored to you the sooner."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Now the Divine of peace, the One leading up from dead ones the great Shepherd of the sheep, in blood/life of age-long covenant, our Lord Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the God of peace, that brought again from the dead our Lord Jesus, that great shepherd of the sheep, through the blood of the everlasting covenant,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "may he equip you in every beautiful/good thing to do his will, doing in us what is pleasing before him through Jesus Messiah, to whom be glory into the ages of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Make you perfect in every good work to do his will, working in you that which is wellpleasing in his sight, through Jesus Christ; to whom be glory for ever and ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "But I appeal to you, siblings, bear with the word of encouragement, for indeed I wrote to you briefly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I beseech you, brethren, suffer the word of exhortation: for I have written a letter unto you in few words."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Know that our sibling Timothy has been released, with whom, if he comes soon, I will see you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Greet all your leaders and all the holy ones. Those from Italy greet you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute all them that have the rule over you, and all the saints. They of Italy salute you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Grace be with all of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Hospitality and prisoner-solidarity are embodied ethics: remember them as bound with them, since you are in body.",
+    "Leadership yielding is accountable and mutual; leaders give account and may not dominate.",
+    "Outside the camp is solidarity with reproach and exclusion, not contempt for Israel's camp imagery."
+  ],
+  "safety_note": "Hebrews 13:17 must not be used for authoritarian control. Leaders are accountable watchers, and the whole chapter frames ethics through sibling-love, hospitality, prisoner solidarity, doing good, sharing, and grace.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-25",
+    "tags": "partial-6-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

@@ -1,1 +1,564 @@
-{"book":"1 Peter","book_id":"1-peter","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Peter text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for diaspora/exile, living hope, tested trust, prophets, holiness, imperishable seed."},"verses":[{"verse":1,"restored":"Peter, apostle of Jesus Messiah, to chosen sojourners of dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,"},{"verse":2,"restored":"according to foreknowledge of Divine Father, in sanctification of Spirit, into obedience and sprinkling of blood of Jesus Messiah: grace to you and peace be multiplied."},{"verse":3,"restored":"Blessed be the Divine and Father of our Lord Jesus Messiah, who according to his great mercy gave us new birth into living hope through resurrection of Jesus Messiah from dead ones,"},{"verse":4,"restored":"into an inheritance incorruptible and undefiled and unfading, kept in heavens for you,"},{"verse":5,"restored":"who by power of Divine are guarded through trust into salvation/healing ready to be unveiled in last season."},{"verse":6,"restored":"In this you rejoice, though now for a little, if necessary, being grieved in various tests/trials,"},{"verse":7,"restored":"so that the tested genuineness of your trust, more precious than gold that perishes though tested by fire, may be found into praise and glory and honor at unveiling of Jesus Messiah."},{"verse":8,"restored":"Whom not having seen, you love; in whom now not seeing yet trusting, you rejoice with joy unspeakable and glorified,"},{"verse":9,"restored":"receiving the outcome of your trust, salvation/healing of souls/lives."},{"verse":10,"restored":"Concerning this salvation/healing, prophets sought and searched carefully, those prophesying about the grace toward you,"},{"verse":11,"restored":"searching into what person or what season the Spirit of Messiah in them was making clear, testifying beforehand the sufferings into Messiah and the glories after these."},{"verse":12,"restored":"To them it was unveiled that not to themselves but to you they were serving these things, now announced through those bringing good news to you by holy Spirit sent from heaven, things into which messengers long to look."},{"verse":13,"restored":"Therefore, girding up the loins of your mind, being sober, hope completely upon the grace being brought to you at unveiling of Jesus Messiah."},{"verse":14,"restored":"As children of obedience, not being conformed to the former desires in your ignorance,"},{"verse":15,"restored":"but according to the Holy One who called you, become holy yourselves in all conduct,"},{"verse":16,"restored":"because it is written: You shall be holy, because I am holy."},{"verse":17,"restored":"And if you call upon Father the One judging impartially according to each one's work, conduct yourselves in reverent fear during the time of your sojourn,"},{"verse":18,"restored":"knowing that you were released not by perishable things, silver or gold, from your futile ancestral conduct,"},{"verse":19,"restored":"but by precious blood as of lamb unblemished and spotless, Messiah,"},{"verse":20,"restored":"foreknown before foundation of world, but made manifest at last of the times because of you,"},{"verse":21,"restored":"who through him trust in Divine, the One raising him from dead ones and giving him glory, so that your trust and hope are into Divine."},{"verse":22,"restored":"Having purified your souls/lives in obedience to truth into unhypocritical sibling-love, love one another earnestly from heart,"},{"verse":23,"restored":"having been born anew not from perishable seed but imperishable, through living and remaining word of Divine."},{"verse":24,"restored":"For all flesh is like grass and all its glory like flower of grass; the grass withered and the flower fell,"},{"verse":25,"restored":"but the word of Lord remains into the age. And this is the word good-newsed to you."}],"translation_notes":["Diaspora/sojourner identity is preserved; it is not anti-Jewish but uses exile imagery for the addressed communities.","Suffering/testing is acknowledged without being glorified as an end in itself.","Hope, holiness, and sibling-love are the chapter's ethical center." ]}
+{
+  "book": "1 Peter",
+  "book_id": "1-peter",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Peter text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for diaspora/exile, living hope, tested trust, prophets, holiness, imperishable seed."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Peter, apostle of Jesus Messiah, to chosen sojourners of dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Peter, an apostle of Jesus Christ, to the strangers scattered throughout Pontus, Galatia, Cappadocia, Asia, and Bithynia,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity",
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "according to foreknowledge of Divine Father, in sanctification of Spirit, into obedience and sprinkling of blood of Jesus Messiah: grace to you and peace be multiplied.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Elect according to the foreknowledge of God the Father, through sanctification of the Spirit, unto obedience and sprinkling of the blood of Jesus Christ: Grace unto you, and peace, be multiplied."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Blessed be the Divine and Father of our Lord Jesus Messiah, who according to his great mercy gave us new birth into living hope through resurrection of Jesus Messiah from dead ones,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "into an inheritance incorruptible and undefiled and unfading, kept in heavens for you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "To an inheritance incorruptible, and undefiled, and that fadeth not away, reserved in heaven for you,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "who by power of Divine are guarded through trust into salvation/healing ready to be unveiled in last season.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who are kept by the power of God through faith unto salvation ready to be revealed in the last time."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "In this you rejoice, though now for a little, if necessary, being grieved in various tests/trials,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "so that the tested genuineness of your trust, more precious than gold that perishes though tested by fire, may be found into praise and glory and honor at unveiling of Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Whom not having seen, you love; in whom now not seeing yet trusting, you rejoice with joy unspeakable and glorified,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "receiving the outcome of your trust, salvation/healing of souls/lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Receiving the end of your faith, even the salvation of your souls."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Concerning this salvation/healing, prophets sought and searched carefully, those prophesying about the grace toward you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "searching into what person or what season the Spirit of Messiah in them was making clear, testifying beforehand the sufferings into Messiah and the glories after these.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "To them it was unveiled that not to themselves but to you they were serving these things, now announced through those bringing good news to you by holy Spirit sent from heaven, things into which messengers long to look.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Therefore, girding up the loins of your mind, being sober, hope completely upon the grace being brought to you at unveiling of Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore gird up the loins of your mind, be sober, and hope to the end for the grace that is to be brought unto you at the revelation of Jesus Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "As children of obedience, not being conformed to the former desires in your ignorance,",
+      "familiar": {
+        "source": "KJV",
+        "text": "As obedient children, not fashioning yourselves according to the former lusts in your ignorance:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "but according to the Holy One who called you, become holy yourselves in all conduct,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as he which hath called you is holy, so be ye holy in all manner of conversation;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "because it is written: You shall be holy, because I am holy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because it is written, Be ye holy; for I am holy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And if you call upon Father the One judging impartially according to each one's work, conduct yourselves in reverent fear during the time of your sojourn,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if ye call on the Father, who without respect of persons judgeth according to every man’s work, pass the time of your sojourning here in fear:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "knowing that you were released not by perishable things, silver or gold, from your futile ancestral conduct,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "but by precious blood as of lamb unblemished and spotless, Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But with the precious blood of Christ, as of a lamb without blemish and without spot:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "foreknown before foundation of world, but made manifest at last of the times because of you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who verily was foreordained before the foundation of the world, but was manifest in these last times for you,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "who through him trust in Divine, the One raising him from dead ones and giving him glory, so that your trust and hope are into Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who by him do believe in God, that raised him up from the dead, and gave him glory; that your faith and hope might be in God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Having purified your souls/lives in obedience to truth into unhypocritical sibling-love, love one another earnestly from heart,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "having been born anew not from perishable seed but imperishable, through living and remaining word of Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For all flesh is like grass and all its glory like flower of grass; the grass withered and the flower fell,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "but the word of Lord remains into the age. And this is the word good-newsed to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the word of the Lord endureth for ever. And this is the word which by the gospel is preached unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Diaspora/sojourner identity is preserved; it is not anti-Jewish but uses exile imagery for the addressed communities.",
+    "Suffering/testing is acknowledged without being glorified as an end in itself.",
+    "Hope, holiness, and sibling-love are the chapter's ethical center."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-14-of-25",
+    "tags": "partial-12-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

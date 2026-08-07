@@ -1,1 +1,287 @@
-{"book":"Revelation","book_id":"revelation","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Greek Revelation text tradition; draft aligned later","review_note":"Compact draft reviewed for first six seals as symbolic exposure of conquest, conflict, scarcity, death, martyr-cry, cosmic disruption."},"verses":[{"verse":1,"restored":"And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying like thunder: Come."},{"verse":2,"restored":"And I saw a white horse, and the one sitting on it had a bow; a crown was given to him, and he went out conquering and to conquer."},{"verse":3,"restored":"When he opened the second seal, I heard the second living creature saying: Come."},{"verse":4,"restored":"And another horse, fiery red, went out; to the one sitting on it was given to take peace from the earth so that they would slaughter one another, and a great sword was given."},{"verse":5,"restored":"When he opened the third seal, I heard the third living creature saying: Come. And I saw a black horse, and the one sitting had scales in his hand."},{"verse":6,"restored":"And I heard as a voice among the four living creatures saying: A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not harm the oil and wine."},{"verse":7,"restored":"When he opened the fourth seal, I heard the voice of the fourth living creature saying: Come."},{"verse":8,"restored":"And I saw a pale-green horse, and the one sitting upon it had name Death, and Hades followed; authority was given over a fourth of earth, to kill by sword, famine, death, and beasts of earth."},{"verse":9,"restored":"When he opened the fifth seal, I saw under the altar the souls/lives of those slain because of word of Divine and witness they held."},{"verse":10,"restored":"They cried with great voice: Until when, holy and true Master, do you not judge and avenge our blood/life from those dwelling on earth?"},{"verse":11,"restored":"And to each was given a white robe, and they were told to rest a little longer, until the number of their fellow servants and siblings should be completed."},{"verse":12,"restored":"And I saw when he opened the sixth seal: a great shaking happened, sun became black as sackcloth, and whole moon became like blood."},{"verse":13,"restored":"And stars of heaven fell to earth as fig tree casts unripe figs when shaken by great wind."},{"verse":14,"restored":"Heaven was split like scroll being rolled, and every mountain and island were moved from their places."},{"verse":15,"restored":"Kings of earth and great ones and commanders and rich and strong, and every enslaved and free one, hid themselves in caves and rocks of mountains,"},{"verse":16,"restored":"saying to mountains and rocks: Fall on us and hide us from face of the One sitting on throne and from wrath of the Lamb,"},{"verse":17,"restored":"because the great day of their wrath came, and who is able to stand?"}],"translation_notes":["The seals unveil consequences of imperial conquest: conflict, scarcity, death, martyr-cry, cosmic upheaval.","Wrath of the Lamb is paradoxical apocalyptic justice, not personal vengeance fantasy.","Do not map riders directly onto modern persons or events."],"safety_note":"Read the horsemen symbolically as exposure of destructive systems; do not use them for fearmongering or target predictions."}
+{
+  "book": "Revelation",
+  "book_id": "revelation",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Revelation text tradition; draft aligned later",
+    "review_note": "Compact draft reviewed for first six seals as symbolic exposure of conquest, conflict, scarcity, death, martyr-cry, cosmic disruption."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And I saw when the Lamb opened one of the seven seals, and I heard one of the four living creatures saying like thunder: Come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I saw when the Lamb opened one of the seals, and I heard, as it were the noise of thunder, one of the four beasts saying, Come and see."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And I saw a white horse, and the one sitting on it had a bow; a crown was given to him, and he went out conquering and to conquer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I saw, and behold a white horse: and he that sat on him had a bow; and a crown was given unto him: and he went forth conquering, and to conquer."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "When he opened the second seal, I heard the second living creature saying: Come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had opened the second seal, I heard the second beast say, Come and see."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And another horse, fiery red, went out; to the one sitting on it was given to take peace from the earth so that they would slaughter one another, and a great sword was given.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there went out another horse that was red: and power was given to him that sat thereon to take peace from the earth, and that they should kill one another: and there was given unto him a great sword."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "When he opened the third seal, I heard the third living creature saying: Come. And I saw a black horse, and the one sitting had scales in his hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had opened the third seal, I heard the third beast say, Come and see. And I beheld, and lo a black horse; and he that sat on him had a pair of balances in his hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And I heard as a voice among the four living creatures saying: A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not harm the oil and wine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I heard a voice in the midst of the four beasts say, A measure of wheat for a penny, and three measures of barley for a penny; and see thou hurt not the oil and the wine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "When he opened the fourth seal, I heard the voice of the fourth living creature saying: Come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had opened the fourth seal, I heard the voice of the fourth beast say, Come and see."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And I saw a pale-green horse, and the one sitting upon it had name Death, and Hades followed; authority was given over a fourth of earth, to kill by sword, famine, death, and beasts of earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I looked, and behold a pale horse: and his name that sat on him was Death, and Hell followed with him. And power was given unto them over the fourth part of the earth, to kill with sword, and with hunger, and with death, and with the beasts of the earth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "When he opened the fifth seal, I saw under the altar the souls/lives of those slain because of word of Divine and witness they held.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he had opened the fifth seal, I saw under the altar the souls of them that were slain for the word of God, and for the testimony which they held:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "They cried with great voice: Until when, holy and true Master, do you not judge and avenge our blood/life from those dwelling on earth?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And to each was given a white robe, and they were told to rest a little longer, until the number of their fellow servants and siblings should be completed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "And I saw when he opened the sixth seal: a great shaking happened, sun became black as sackcloth, and whole moon became like blood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I beheld when he had opened the sixth seal, and, lo, there was a great earthquake; and the sun became black as sackcloth of hair, and the moon became as blood;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And stars of heaven fell to earth as fig tree casts unripe figs when shaken by great wind.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Heaven was split like scroll being rolled, and every mountain and island were moved from their places.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Kings of earth and great ones and commanders and rich and strong, and every enslaved and free one, hid themselves in caves and rocks of mountains,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "labor-power",
+        "economic-justice"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "saying to mountains and rocks: Fall on us and hide us from face of the One sitting on throne and from wrath of the Lamb,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And said to the mountains and rocks, Fall on us, and hide us from the face of him that sitteth on the throne, and from the wrath of the Lamb:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "because the great day of their wrath came, and who is able to stand?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the great day of his wrath is come; and who shall be able to stand?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The seals unveil consequences of imperial conquest: conflict, scarcity, death, martyr-cry, cosmic upheaval.",
+    "Wrath of the Lamb is paradoxical apocalyptic justice, not personal vengeance fantasy.",
+    "Do not map riders directly onto modern persons or events."
+  ],
+  "safety_note": "Read the horsemen symbolically as exposure of destructive systems; do not use them for fearmongering or target predictions.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "partial-7-of-17",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-17",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

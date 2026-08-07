@@ -1,1 +1,430 @@
-{"book":"James","book_id":"james","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek James text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for trials/testing, wisdom, double-mindedness, rich/poor reversal, desire/sin/death chain, implanted word, doers, pure religion."},"verses":[{"verse":1,"restored":"James, servant of Divine and of Lord Jesus Messiah, to the twelve tribes in the dispersion: rejoice."},{"verse":2,"restored":"Count it all joy, my siblings, whenever you fall into various tests/trials,"},{"verse":3,"restored":"knowing that the testing of your trust produces endurance."},{"verse":4,"restored":"And let endurance have complete work, so that you may be complete and whole, lacking in nothing."},{"verse":5,"restored":"But if any of you lacks wisdom, let one ask from the Divine, who gives to all generously and without reproach, and it will be given."},{"verse":6,"restored":"But let one ask in trust, doubting nothing, for the doubting one is like a wave of sea driven and tossed by wind."},{"verse":7,"restored":"For let not that human suppose that one will receive anything from the Lord,"},{"verse":8,"restored":"a double-souled human, unstable in all one's ways."},{"verse":9,"restored":"Let the lowly sibling boast in one's height,"},{"verse":10,"restored":"and the rich one in one's lowliness, because like flower of grass one will pass away."},{"verse":11,"restored":"For the sun rises with scorching heat and dries the grass, and its flower falls, and the beauty of its face perishes; so also the rich one will fade in one's journeys."},{"verse":12,"restored":"Blessed is the human who endures testing, because having become approved, one will receive the crown of life that he promised to those loving him."},{"verse":13,"restored":"Let no one being tested say, I am tested by the Divine; for the Divine is untested by harmful things and tests no one with harm."},{"verse":14,"restored":"But each one is tested by one's own desire, being drawn out and enticed."},{"verse":15,"restored":"Then desire, having conceived, gives birth to sin/misalignment; and sin/misalignment, having been completed, brings forth death."},{"verse":16,"restored":"Do not be deceived, my beloved siblings."},{"verse":17,"restored":"Every good giving and every complete gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning."},{"verse":18,"restored":"Having willed, he gave us birth by word of truth, so that we might be a kind of firstfruit of his creatures."},{"verse":19,"restored":"Know this, my beloved siblings: let every human be swift to hear, slow to speak, slow to anger,"},{"verse":20,"restored":"for human anger does not produce the righteousness/justice of the Divine."},{"verse":21,"restored":"Therefore putting away all filth and overflow of harmfulness, receive in gentleness the implanted word able to save/heal your souls/lives."},{"verse":22,"restored":"But become doers of word, and not hearers only, deceiving yourselves."},{"verse":23,"restored":"For if anyone is hearer of word and not doer, this one is like a human observing the face of one's birth in a mirror."},{"verse":24,"restored":"For one observes oneself and goes away and immediately forgets what sort one was."},{"verse":25,"restored":"But the one looking into complete Law, the Law of freedom, and remaining, not becoming forgetful hearer but doer of work, this one will be blessed in one's doing."},{"verse":26,"restored":"If anyone thinks oneself reverent while not bridling one's tongue but deceiving one's heart, this one's reverence is empty."},{"verse":27,"restored":"Pure and undefiled reverence before the Divine and Father is this: to visit orphans and widows in their pressure, and to keep oneself unstained from the world."}],"translation_notes":["James is wisdom-parenesis: tests produce endurance but suffering is not romanticized.","Human anger does not produce Divine justice.","Pure religion is concrete care for vulnerable people plus integrity, not ritual performance alone." ]}
+{
+  "book": "James",
+  "book_id": "james",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek James text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for trials/testing, wisdom, double-mindedness, rich/poor reversal, desire/sin/death chain, implanted word, doers, pure religion."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "James, servant of Divine and of Lord Jesus Messiah, to the twelve tribes in the dispersion: rejoice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "James, a servant of God and of the Lord Jesus Christ, to the twelve tribes which are scattered abroad, greeting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Count it all joy, my siblings, whenever you fall into various tests/trials,",
+      "familiar": {
+        "source": "KJV",
+        "text": "My brethren, count it all joy when ye fall into divers temptations;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "knowing that the testing of your trust produces endurance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing this, that the trying of your faith worketh patience."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And let endurance have complete work, so that you may be complete and whole, lacking in nothing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let patience have her perfect work, that ye may be perfect and entire, wanting nothing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But if any of you lacks wisdom, let one ask from the Divine, who gives to all generously and without reproach, and it will be given.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any of you lack wisdom, let him ask of God, that giveth to all men liberally, and upbraideth not; and it shall be given him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But let one ask in trust, doubting nothing, for the doubting one is like a wave of sea driven and tossed by wind.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For let not that human suppose that one will receive anything from the Lord,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For let not that man think that he shall receive any thing of the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "a double-souled human, unstable in all one's ways.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A double minded man is unstable in all his ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Let the lowly sibling boast in one's height,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the brother of low degree rejoice in that he is exalted:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "and the rich one in one's lowliness, because like flower of grass one will pass away.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the rich, in that he is made low: because as the flower of the grass he shall pass away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For the sun rises with scorching heat and dries the grass, and its flower falls, and the beauty of its face perishes; so also the rich one will fade in one's journeys.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the sun is no sooner risen with a burning heat, but it withereth the grass, and the flower thereof falleth, and the grace of the fashion of it perisheth: so also shall the rich man fade away in his ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Blessed is the human who endures testing, because having become approved, one will receive the crown of life that he promised to those loving him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Let no one being tested say, I am tested by the Divine; for the Divine is untested by harmful things and tests no one with harm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But each one is tested by one's own desire, being drawn out and enticed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But every man is tempted, when he is drawn away of his own lust, and enticed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Then desire, having conceived, gives birth to sin/misalignment; and sin/misalignment, having been completed, brings forth death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then when lust hath conceived, it bringeth forth sin: and sin, when it is finished, bringeth forth death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Do not be deceived, my beloved siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do not err, my beloved brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Every good giving and every complete gift is from above, coming down from the Father of lights, with whom there is no variation or shadow of turning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Having willed, he gave us birth by word of truth, so that we might be a kind of firstfruit of his creatures.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of his own will begat he us with the word of truth, that we should be a kind of firstfruits of his creatures."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Know this, my beloved siblings: let every human be swift to hear, slow to speak, slow to anger,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "for human anger does not produce the righteousness/justice of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the wrath of man worketh not the righteousness of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Therefore putting away all filth and overflow of harmfulness, receive in gentleness the implanted word able to save/heal your souls/lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But become doers of word, and not hearers only, deceiving yourselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But be ye doers of the word, and not hearers only, deceiving your own selves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For if anyone is hearer of word and not doer, this one is like a human observing the face of one's birth in a mirror.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if any be a hearer of the word, and not a doer, he is like unto a man beholding his natural face in a glass:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For one observes oneself and goes away and immediately forgets what sort one was.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But the one looking into complete Law, the Law of freedom, and remaining, not becoming forgetful hearer but doer of work, this one will be blessed in one's doing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But whoso looketh into the perfect law of liberty, and continueth therein, he being not a forgetful hearer, but a doer of the work, this man shall be blessed in his deed."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "If anyone thinks oneself reverent while not bridling one's tongue but deceiving one's heart, this one's reverence is empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man among you seem to be religious, and bridleth not his tongue, but deceiveth his own heart, this man’s religion is vain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Pure and undefiled reverence before the Divine and Father is this: to visit orphans and widows in their pressure, and to keep oneself unstained from the world.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Pure religion and undefiled before God and the Father is this, To visit the fatherless and widows in their affliction, and to keep himself unspotted from the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "James is wisdom-parenesis: tests produce endurance but suffering is not romanticized.",
+    "Human anger does not produce Divine justice.",
+    "Pure religion is concrete care for vulnerable people plus integrity, not ritual performance alone."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-27",
+    "tags": "partial-8-of-27",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-27",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

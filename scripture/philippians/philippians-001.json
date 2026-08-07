@@ -1,1 +1,721 @@
-{"book":"Philippians","book_id":"philippians","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek Philippians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for partnership, affection, imprisonment, advance of good news, life/death in Messiah, worthy citizenship."},"verses":[{"verse":1,"restored":"Paul and Timothy, servants of Messiah Jesus, to all the holy ones in Messiah Jesus who are in Philippi, with overseers and servants/deacons:"},{"verse":2,"restored":"Grace to you and peace from Divine our Father and Lord Jesus Messiah."},{"verse":3,"restored":"I give thanks to my Divine upon every remembrance of you,"},{"verse":4,"restored":"always in every petition of mine on behalf of all of you, making the petition with joy,"},{"verse":5,"restored":"because of your partnership/fellowship in the good news from the first day until now,"},{"verse":6,"restored":"having been persuaded of this very thing: that the One who began in you a good work will complete it until the day of Messiah Jesus."},{"verse":7,"restored":"It is right for me to think this on behalf of all of you, because I have you in my heart, both in my chains and in the defense and confirmation of the good news, all of you being co-sharers with me of grace."},{"verse":8,"restored":"For the Divine is my witness, how I long for all of you in the inward affections of Messiah Jesus."},{"verse":9,"restored":"And this I pray: that your love may abound still more and more in knowledge and all discernment,"},{"verse":10,"restored":"so that you may test the things that differ/excel, so that you may be sincere and without stumbling into the day of Messiah,"},{"verse":11,"restored":"having been filled with fruit of righteousness/justice through Jesus Messiah, into glory and praise of the Divine."},{"verse":12,"restored":"Now I want you to know, siblings, that the things concerning me have come rather into advance of the good news,"},{"verse":13,"restored":"so that my chains in Messiah have become manifest in the whole praetorium and to all the rest,"},{"verse":14,"restored":"and most of the siblings, having been persuaded in the Lord by my chains, dare more abundantly to speak the word without fear."},{"verse":15,"restored":"Some indeed proclaim Messiah also because of envy and rivalry, but some also because of good pleasure."},{"verse":16,"restored":"These out of love, knowing that I am appointed for defense of the good news;"},{"verse":17,"restored":"but those from selfish ambition proclaim Messiah not purely, thinking to raise pressure for my chains."},{"verse":18,"restored":"What then? Only that in every way, whether by pretext or truth, Messiah is proclaimed; and in this I rejoice. Yes, and I will rejoice,"},{"verse":19,"restored":"for I know that this will turn out for my salvation/healing through your petition and the supply of the Spirit of Jesus Messiah,"},{"verse":20,"restored":"according to my eager expectation and hope, that in nothing I will be ashamed, but with all boldness, as always, even now Messiah will be magnified in my body, whether through life or through death."},{"verse":21,"restored":"For to me, to live is Messiah, and to die is gain."},{"verse":22,"restored":"But if to live in flesh, this is fruitful work for me; and what I will choose, I do not make known."},{"verse":23,"restored":"I am held together from the two: having the desire to depart and be with Messiah, for this is much more better,"},{"verse":24,"restored":"but to remain in the flesh is more necessary because of you."},{"verse":25,"restored":"And having been persuaded of this, I know that I will remain and stay with all of you for your progress and joy in the trust,"},{"verse":26,"restored":"so that your boast may abound in Messiah Jesus in me, through my presence again with you."},{"verse":27,"restored":"Only conduct yourselves as citizens worthily of the good news of Messiah, so that whether coming and seeing you or being absent, I may hear the things concerning you: that you stand firm in one Spirit, with one soul/life striving together for the trust of the good news,"},{"verse":28,"restored":"and not being frightened in anything by those opposing, which is a sign to them of destruction, but of your salvation/healing, and this from the Divine."},{"verse":29,"restored":"Because to you it was graciously given on behalf of Messiah, not only to trust in him but also to suffer on behalf of him,"},{"verse":30,"restored":"having the same struggle such as you saw in me and now hear in me."}],"translation_notes":["Koinonia is rendered partnership/fellowship to preserve Philippians' shared-mission tone.","Politeuesthe in 1:27 is rendered conduct yourselves as citizens, anticipating the letter's heavenly citizenship theme.","Paul's body is not dismissed: Messiah is magnified in my body, whether through life or death." ]}
+{
+  "book": "Philippians",
+  "book_id": "philippians",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Philippians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for partnership, affection, imprisonment, advance of good news, life/death in Messiah, worthy citizenship."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul and Timothy, servants of Messiah Jesus, to all the holy ones in Messiah Jesus who are in Philippi, with overseers and servants/deacons:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul and Timotheus, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Grace to you and peace from Divine our Father and Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace be unto you, and peace, from God our Father, and from the Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "I give thanks to my Divine upon every remembrance of you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I thank my God upon every remembrance of you,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "always in every petition of mine on behalf of all of you, making the petition with joy,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Always in every prayer of mine for you all making request with joy,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "because of your partnership/fellowship in the good news from the first day until now,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For your fellowship in the gospel from the first day until now;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "having been persuaded of this very thing: that the One who began in you a good work will complete it until the day of Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "It is right for me to think this on behalf of all of you, because I have you in my heart, both in my chains and in the defense and confirmation of the good news, all of you being co-sharers with me of grace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "For the Divine is my witness, how I long for all of you in the inward affections of Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For God is my record, how greatly I long after you all in the bowels of Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "And this I pray: that your love may abound still more and more in knowledge and all discernment,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this I pray, that your love may abound yet more and more in knowledge and in all judgment;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "so that you may test the things that differ/excel, so that you may be sincere and without stumbling into the day of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "having been filled with fruit of righteousness/justice through Jesus Messiah, into glory and praise of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Being filled with the fruits of righteousness, which are by Jesus Christ, unto the glory and praise of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Now I want you to know, siblings, that the things concerning me have come rather into advance of the good news,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I would ye should understand, brethren, that the things which happened unto me have fallen out rather unto the furtherance of the gospel;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "so that my chains in Messiah have become manifest in the whole praetorium and to all the rest,",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that my bonds in Christ are manifest in all the palace, and in all other places;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "and most of the siblings, having been persuaded in the Lord by my chains, dare more abundantly to speak the word without fear.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Some indeed proclaim Messiah also because of envy and rivalry, but some also because of good pleasure.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Some indeed preach Christ even of envy and strife; and some also of good will:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "These out of love, knowing that I am appointed for defense of the good news;",
+      "familiar": {
+        "source": "KJV",
+        "text": "The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "but those from selfish ambition proclaim Messiah not purely, thinking to raise pressure for my chains.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the other of love, knowing that I am set for the defence of the gospel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "What then? Only that in every way, whether by pretext or truth, Messiah is proclaimed; and in this I rejoice. Yes, and I will rejoice,",
+      "familiar": {
+        "source": "KJV",
+        "text": "What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "for I know that this will turn out for my salvation/healing through your petition and the supply of the Spirit of Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I know that this shall turn to my salvation through your prayer, and the supply of the Spirit of Jesus Christ,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "according to my eager expectation and hope, that in nothing I will be ashamed, but with all boldness, as always, even now Messiah will be magnified in my body, whether through life or through death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "According to my earnest expectation and my hope, that in nothing I shall be ashamed, but that with all boldness, as always, so now also Christ shall be magnified in my body, whether it be by life, or by death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "For to me, to live is Messiah, and to die is gain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For to me to live is Christ, and to die is gain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "But if to live in flesh, this is fruitful work for me; and what I will choose, I do not make known.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if I live in the flesh, this is the fruit of my labour: yet what I shall choose I wot not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "I am held together from the two: having the desire to depart and be with Messiah, for this is much more better,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I am in a strait betwixt two, having a desire to depart, and to be with Christ; which is far better:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "but to remain in the flesh is more necessary because of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless to abide in the flesh is more needful for you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And having been persuaded of this, I know that I will remain and stay with all of you for your progress and joy in the trust,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "so that your boast may abound in Messiah Jesus in me, through my presence again with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Only conduct yourselves as citizens worthily of the good news of Messiah, so that whether coming and seeing you or being absent, I may hear the things concerning you: that you stand firm in one Spirit, with one soul/life striving together for the trust of the good news,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only let your conversation be as it becometh the gospel of Christ: that whether I come and see you, or else be absent, I may hear of your affairs, that ye stand fast in one spirit, with one mind striving together for the faith of the gospel;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "and not being frightened in anything by those opposing, which is a sign to them of destruction, but of your salvation/healing, and this from the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in nothing terrified by your adversaries: which is to them an evident token of perdition, but to you of salvation, and that of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Because to you it was graciously given on behalf of Messiah, not only to trust in him but also to suffer on behalf of him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "having the same struggle such as you saw in me and now hear in me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Having the same conflict which ye saw in me, and now hear to be in me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Koinonia is rendered partnership/fellowship to preserve Philippians' shared-mission tone.",
+    "Politeuesthe in 1:27 is rendered conduct yourselves as citizens, anticipating the letter's heavenly citizenship theme.",
+    "Paul's body is not dismissed: Messiah is magnified in my body, whether through life or death."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-23-of-30",
+    "tags": "partial-9-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-17-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

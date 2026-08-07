@@ -1,1 +1,347 @@
-{"book":"Hebrews","book_id":"hebrews","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek Hebrews text tradition with Psalm 95 citation; draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for Jesus/Moses, house imagery, Psalm 95 warning, unbelief, mutual exhortation."},"verses":[{"verse":1,"restored":"Therefore, holy siblings, partners of heavenly calling, consider the apostle and high priest of our confession, Jesus,"},{"verse":2,"restored":"trustworthy to the One who made/appointed him, as also Moses was in all his house."},{"verse":3,"restored":"For this one has been considered worthy of more glory than Moses, as the builder of a house has more honor than the house."},{"verse":4,"restored":"For every house is built by someone, but the One building all things is Divine."},{"verse":5,"restored":"And Moses was trustworthy in all his house as servant, into witness of things to be spoken,"},{"verse":6,"restored":"but Messiah as Son over his house, whose house we are, if indeed we hold fast the boldness and boast of hope."},{"verse":7,"restored":"Therefore, just as holy Spirit says: Today, if you hear his voice,"},{"verse":8,"restored":"do not harden your hearts as in the rebellion, according to day of testing in the wilderness,"},{"verse":9,"restored":"where your ancestors tested by trial and saw my works forty years."},{"verse":10,"restored":"Therefore I was displeased with that generation and said: They always wander in the heart, and they did not know my ways."},{"verse":11,"restored":"As I swore in my anger: They shall not enter into my rest."},{"verse":12,"restored":"Watch, siblings, lest there be in any of you a harmful heart of untrust, in standing away from living Divine."},{"verse":13,"restored":"But encourage one another each day, as long as it is called Today, so that none of you may be hardened by deceit of sin/misalignment."},{"verse":14,"restored":"For we have become partners of Messiah, if indeed we hold the beginning of our confidence firm until completion,"},{"verse":15,"restored":"while it is said: Today, if you hear his voice, do not harden your hearts as in the rebellion."},{"verse":16,"restored":"For who, having heard, rebelled? Was it not all those who came out of Egypt through Moses?"},{"verse":17,"restored":"And with whom was he displeased forty years? Was it not with those who sinned/misaligned, whose bodies fell in the wilderness?"},{"verse":18,"restored":"And to whom did he swear that they would not enter his rest, if not to those who disobeyed?"},{"verse":19,"restored":"And we see that they were not able to enter because of untrust."}],"translation_notes":["Moses is honored as trustworthy servant; Hebrews' comparison must not become anti-Moses or anti-Jewish.","Psalm 95's Today is a living summons; mutual encouragement prevents hardening.","Unbelief/untrust is relational refusal, not intellectual doubt punished as such."],"safety_note":"Warning passages should be handled pastorally: they call for communal encouragement and responsiveness, not terror-based control."}
+{
+  "book": "Hebrews",
+  "book_id": "hebrews",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Hebrews text tradition with Psalm 95 citation; draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for Jesus/Moses, house imagery, Psalm 95 warning, unbelief, mutual exhortation."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore, holy siblings, partners of heavenly calling, consider the apostle and high priest of our confession, Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, holy brethren, partakers of the heavenly calling, consider the Apostle and High Priest of our profession, Christ Jesus;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "trustworthy to the One who made/appointed him, as also Moses was in all his house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who was faithful to him that appointed him, as also Moses was faithful in all his house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For this one has been considered worthy of more glory than Moses, as the builder of a house has more honor than the house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this man was counted worthy of more glory than Moses, inasmuch as he who hath builded the house hath more honour than the house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For every house is built by someone, but the One building all things is Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For every house is builded by some man; but he that built all things is God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And Moses was trustworthy in all his house as servant, into witness of things to be spoken,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses verily was faithful in all his house, as a servant, for a testimony of those things which were to be spoken after;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "but Messiah as Son over his house, whose house we are, if indeed we hold fast the boldness and boast of hope.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Christ as a son over his own house; whose house are we, if we hold fast the confidence and the rejoicing of the hope firm unto the end."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore, just as holy Spirit says: Today, if you hear his voice,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "do not harden your hearts as in the rebellion, according to day of testing in the wilderness,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "where your ancestors tested by trial and saw my works forty years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When your fathers tempted me, proved me, and saw my works forty years."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Therefore I was displeased with that generation and said: They always wander in the heart, and they did not know my ways.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "As I swore in my anger: They shall not enter into my rest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So I sware in my wrath, They shall not enter into my rest.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Watch, siblings, lest there be in any of you a harmful heart of untrust, in standing away from living Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take heed, brethren, lest there be in any of you an evil heart of unbelief, in departing from the living God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But encourage one another each day, as long as it is called Today, so that none of you may be hardened by deceit of sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But exhort one another daily, while it is called To day; lest any of you be hardened through the deceitfulness of sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For we have become partners of Messiah, if indeed we hold the beginning of our confidence firm until completion,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "while it is said: Today, if you hear his voice, do not harden your hearts as in the rebellion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For who, having heard, rebelled? Was it not all those who came out of Egypt through Moses?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And with whom was he displeased forty years? Was it not with those who sinned/misaligned, whose bodies fell in the wilderness?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And to whom did he swear that they would not enter his rest, if not to those who disobeyed?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to whom sware he that they should not enter into his rest, but to them that believed not?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And we see that they were not able to enter because of untrust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So we see that they could not enter in because of unbelief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Moses is honored as trustworthy servant; Hebrews' comparison must not become anti-Moses or anti-Jewish.",
+    "Psalm 95's Today is a living summons; mutual encouragement prevents hardening.",
+    "Unbelief/untrust is relational refusal, not intellectual doubt punished as such."
+  ],
+  "safety_note": "Warning passages should be handled pastorally: they call for communal encouragement and responsiveness, not terror-based control.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-19",
+    "tags": "partial-7-of-19",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-19",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

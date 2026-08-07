@@ -1,1 +1,298 @@
-{"book":"1 Thessalonians","book_id":"1-thessalonians","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for Timothy mission, afflictions/pressure, concern over testing, encouragement, prayer for reunion, love increase, holiness."},"verses":[{"verse":1,"restored":"Therefore, no longer enduring it, we thought it good to be left behind in Athens alone."},{"verse":2,"restored":"And we sent Timothy, our sibling and coworker of the Divine in the good news of Messiah, to establish and encourage you concerning your trust,"},{"verse":3,"restored":"so that no one be shaken in these pressures; for you yourselves know that we are appointed for this."},{"verse":4,"restored":"For even when we were with you, we told you beforehand that we were about to be pressured, just as also it happened and you know."},{"verse":5,"restored":"Because of this, I also, no longer enduring it, sent to know your trust, lest somehow the testing one had tested you and our labor had become empty."},{"verse":6,"restored":"But now Timothy, having come to us from you and having announced good news to us of your trust and love, and that you have good remembrance of us always, longing to see us just as we also long to see you,"},{"verse":7,"restored":"because of this, siblings, we were comforted/encouraged over you in all our necessity and pressure through your trust."},{"verse":8,"restored":"Because now we live, if you stand firm in the Lord."},{"verse":9,"restored":"For what thanksgiving are we able to repay to the Divine concerning you, for all the joy with which we rejoice because of you before our Divine,"},{"verse":10,"restored":"night and day praying beyond measure to see your face and to complete what is lacking in your trust?"},{"verse":11,"restored":"Now may our Divine and Father himself, and our Lord Jesus, direct our way to you."},{"verse":12,"restored":"And may the Lord make you increase and abound in love toward one another and toward all, just as also we toward you,"},{"verse":13,"restored":"so as to establish your hearts blameless in holiness before our Divine and Father at the presence/arrival of our Lord Jesus with all his holy ones."}],"translation_notes":["Thlipsis is rendered pressure to preserve the social and spiritual intensity of affliction without romanticizing suffering.","The testing language is kept without overdeveloping later demonology; the focus remains on the community's trust standing under pressure.","The closing prayer ties love-abounding to holiness, not moralism detached from relationship." ]}
+{
+  "book": "1 Thessalonians",
+  "book_id": "1-thessalonians",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for Timothy mission, afflictions/pressure, concern over testing, encouragement, prayer for reunion, love increase, holiness."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore, no longer enduring it, we thought it good to be left behind in Athens alone.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore when we could no longer forbear, we thought it good to be left at Athens alone;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And we sent Timothy, our sibling and coworker of the Divine in the good news of Messiah, to establish and encourage you concerning your trust,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And sent Timotheus, our brother, and minister of God, and our fellowlabourer in the gospel of Christ, to establish you, and to comfort you concerning your faith:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "so that no one be shaken in these pressures; for you yourselves know that we are appointed for this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That no man should be moved by these afflictions: for yourselves know that we are appointed thereunto."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For even when we were with you, we told you beforehand that we were about to be pressured, just as also it happened and you know.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For verily, when we were with you, we told you before that we should suffer tribulation; even as it came to pass, and ye know."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Because of this, I also, no longer enduring it, sent to know your trust, lest somehow the testing one had tested you and our labor had become empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause, when I could no longer forbear, I sent to know your faith, lest by some means the tempter have tempted you, and our labour be in vain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But now Timothy, having come to us from you and having announced good news to us of your trust and love, and that you have good remembrance of us always, longing to see us just as we also long to see you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now when Timotheus came from you unto us, and brought us good tidings of your faith and charity, and that ye have good remembrance of us always, desiring greatly to see us, as we also to see you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "because of this, siblings, we were comforted/encouraged over you in all our necessity and pressure through your trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore, brethren, we were comforted over you in all our affliction and distress by your faith:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Because now we live, if you stand firm in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For now we live, if ye stand fast in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For what thanksgiving are we able to repay to the Divine concerning you, for all the joy with which we rejoice because of you before our Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For what thanks can we render to God again for you, for all the joy wherewith we joy for your sakes before our God;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "night and day praying beyond measure to see your face and to complete what is lacking in your trust?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Night and day praying exceedingly that we might see your face, and might perfect that which is lacking in your faith?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Now may our Divine and Father himself, and our Lord Jesus, direct our way to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now God himself and our Father, and our Lord Jesus Christ, direct our way unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And may the Lord make you increase and abound in love toward one another and toward all, just as also we toward you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord make you to increase and abound in love one toward another, and toward all men, even as we do toward you:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "so as to establish your hearts blameless in holiness before our Divine and Father at the presence/arrival of our Lord Jesus with all his holy ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To the end he may stablish your hearts unblameable in holiness before God, even our Father, at the coming of our Lord Jesus Christ with all his saints."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Thlipsis is rendered pressure to preserve the social and spiritual intensity of affliction without romanticizing suffering.",
+    "The testing language is kept without overdeveloping later demonology; the focus remains on the community's trust standing under pressure.",
+    "The closing prayer ties love-abounding to holiness, not moralism detached from relationship."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-13",
+    "tags": "partial-6-of-13",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-13",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

@@ -1,1 +1,483 @@
-{"book":"1 John","book_id":"1-john","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 John text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for advocate, commandment, love/hate sibling, world-desire, antichrist language, anointing, remaining."},"verses":[{"verse":1,"restored":"My little children, I write these things to you so that you may not sin/misalign. And if anyone does sin/misalign, we have an advocate with the Father, Jesus Messiah righteous/just."},{"verse":2,"restored":"And he is atoning mercy concerning our sins/misalignments, and not concerning ours only but also concerning whole world."},{"verse":3,"restored":"And by this we know that we have known him: if we keep his commands."},{"verse":4,"restored":"The one saying, I have known him, and not keeping his commands, is a liar, and truth is not in this one."},{"verse":5,"restored":"But whoever keeps his word, truly in this one the love of the Divine has been completed. By this we know that we are in him."},{"verse":6,"restored":"The one saying to remain in him ought also to walk just as that one walked."},{"verse":7,"restored":"Beloved, I write not a new command to you but an old command that you had from beginning; the old command is the word that you heard."},{"verse":8,"restored":"Again I write a new command to you, which is true in him and in you, because darkness is passing away and the true light already shines."},{"verse":9,"restored":"The one saying to be in the light and hating one's sibling is in darkness until now."},{"verse":10,"restored":"The one loving one's sibling remains in the light, and there is no stumbling in that one."},{"verse":11,"restored":"But the one hating one's sibling is in darkness and walks in darkness and does not know where one goes, because darkness blinded one's eyes."},{"verse":12,"restored":"I write to you, little children, because the sins/misalignments have been released/forgiven you through his name."},{"verse":13,"restored":"I write to you, fathers, because you have known the One from beginning. I write to you, young ones, because you have overcome the harmful one."},{"verse":14,"restored":"I wrote to you, children, because you have known the Father. I wrote to you, fathers, because you have known the One from beginning. I wrote to you, young ones, because you are strong, and the word of the Divine remains in you, and you have overcome the harmful one."},{"verse":15,"restored":"Do not love the world-system nor the things in the world-system. If anyone loves the world-system, the love of the Father is not in that one."},{"verse":16,"restored":"Because everything in the world-system—the desire of the flesh, the desire of the eyes, and the boastfulness of life— is not from the Father but from the world-system."},{"verse":17,"restored":"And the world-system is passing away, and its desire; but the one doing the will of the Divine remains into the age."},{"verse":18,"restored":"Little children, it is last hour; and just as you heard that antichrist/opposing-Messiah comes, even now many opposing-Messiah figures have come; from this we know that it is last hour."},{"verse":19,"restored":"They went out from us, but they were not of us; for if they had been of us, they would have remained with us; but it happened so that they might be manifest, that they all are not of us."},{"verse":20,"restored":"And you have an anointing from the Holy One, and you all know."},{"verse":21,"restored":"I did not write to you because you do not know the truth, but because you know it, and because every lie is not from truth."},{"verse":22,"restored":"Who is the liar except the one denying that Jesus is the Messiah? This is the antichrist/opposing-Messiah, the one denying the Father and the Son."},{"verse":23,"restored":"Everyone denying the Son does not have the Father either; the one confessing the Son has the Father also."},{"verse":24,"restored":"As for you, what you heard from beginning, let it remain in you. If what you heard from beginning remains in you, you also will remain in the Son and in the Father."},{"verse":25,"restored":"And this is the promise that he promised us: age-long life."},{"verse":26,"restored":"These things I wrote to you concerning those leading you astray."},{"verse":27,"restored":"And as for you, the anointing that you received from him remains in you, and you have no need that anyone teach you; but as his anointing teaches you concerning all things, and is true and is not lie, and just as it taught you, remain in him."},{"verse":28,"restored":"And now, little children, remain in him, so that if he is manifested we may have boldness and not be shamed from him at his presence/arrival."},{"verse":29,"restored":"If you know that he is righteous/just, you know that everyone doing righteousness/justice has been born from him."}],"translation_notes":["Antichrist language is rendered opposing-Messiah and must not be used as paranoia or target-mapping.","World-system is used for kosmos where it means disordered desire-system, not creation itself.","Remaining/abiding is central: meno as relational continuity in Father/Son/truth/anointing." ]}
+{
+  "book": "1 John",
+  "book_id": "1-john",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 John text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for advocate, commandment, love/hate sibling, world-desire, antichrist language, anointing, remaining."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "My little children, I write these things to you so that you may not sin/misalign. And if anyone does sin/misalign, we have an advocate with the Father, Jesus Messiah righteous/just.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My little children, these things write I unto you, that ye sin not. And if any man sin, we have an advocate with the Father, Jesus Christ the righteous:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "And he is atoning mercy concerning our sins/misalignments, and not concerning ours only but also concerning whole world.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he is the propitiation for our sins: and not for ours only, but also for the sins of the whole world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And by this we know that we have known him: if we keep his commands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hereby we do know that we know him, if we keep his commandments."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The one saying, I have known him, and not keeping his commands, is a liar, and truth is not in this one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that saith, I know him, and keepeth not his commandments, is a liar, and the truth is not in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But whoever keeps his word, truly in this one the love of the Divine has been completed. By this we know that we are in him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "The one saying to remain in him ought also to walk just as that one walked.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that saith he abideth in him ought himself also so to walk, even as he walked."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Beloved, I write not a new command to you but an old command that you had from beginning; the old command is the word that you heard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Again I write a new command to you, which is true in him and in you, because darkness is passing away and the true light already shines.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The one saying to be in the light and hating one's sibling is in darkness until now.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that saith he is in the light, and hateth his brother, is in darkness even until now."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The one loving one's sibling remains in the light, and there is no stumbling in that one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that loveth his brother abideth in the light, and there is none occasion of stumbling in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But the one hating one's sibling is in darkness and walks in darkness and does not know where one goes, because darkness blinded one's eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that hateth his brother is in darkness, and walketh in darkness, and knoweth not whither he goeth, because that darkness hath blinded his eyes."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "I write to you, little children, because the sins/misalignments have been released/forgiven you through his name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I write unto you, little children, because your sins are forgiven you for his name’s sake."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I write to you, fathers, because you have known the One from beginning. I write to you, young ones, because you have overcome the harmful one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "I wrote to you, children, because you have known the Father. I wrote to you, fathers, because you have known the One from beginning. I wrote to you, young ones, because you are strong, and the word of the Divine remains in you, and you have overcome the harmful one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Do not love the world-system nor the things in the world-system. If anyone loves the world-system, the love of the Father is not in that one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Because everything in the world-system—the desire of the flesh, the desire of the eyes, and the boastfulness of life— is not from the Father but from the world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And the world-system is passing away, and its desire; but the one doing the will of the Divine remains into the age.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Little children, it is last hour; and just as you heard that antichrist/opposing-Messiah comes, even now many opposing-Messiah figures have come; from this we know that it is last hour.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "They went out from us, but they were not of us; for if they had been of us, they would have remained with us; but it happened so that they might be manifest, that they all are not of us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And you have an anointing from the Holy One, and you all know.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye have an unction from the Holy One, and ye know all things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "I did not write to you because you do not know the truth, but because you know it, and because every lie is not from truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Who is the liar except the one denying that Jesus is the Messiah? This is the antichrist/opposing-Messiah, the one denying the Father and the Son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is a liar but he that denieth that Jesus is the Christ? He is antichrist, that denieth the Father and the Son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Everyone denying the Son does not have the Father either; the one confessing the Son has the Father also.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever denieth the Son, the same hath not the Father: he that acknowledgeth the Son hath the Father also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "As for you, what you heard from beginning, let it remain in you. If what you heard from beginning remains in you, you also will remain in the Son and in the Father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "And this is the promise that he promised us: age-long life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the promise that he hath promised us, even eternal life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "These things I wrote to you concerning those leading you astray.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These things have I written unto you concerning them that seduce you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And as for you, the anointing that you received from him remains in you, and you have no need that anyone teach you; but as his anointing teaches you concerning all things, and is true and is not lie, and just as it taught you, remain in him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "And now, little children, remain in him, so that if he is manifested we may have boldness and not be shamed from him at his presence/arrival.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now, little children, abide in him; that, when he shall appear, we may have confidence, and not be ashamed before him at his coming."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "If you know that he is righteous/just, you know that everyone doing righteousness/justice has been born from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye know that he is righteous, ye know that every one that doeth righteousness is born of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Antichrist language is rendered opposing-Messiah and must not be used as paranoia or target-mapping.",
+    "World-system is used for kosmos where it means disordered desire-system, not creation itself.",
+    "Remaining/abiding is central: meno as relational continuity in Father/Son/truth/anointing."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-29",
+    "tags": "partial-11-of-29",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

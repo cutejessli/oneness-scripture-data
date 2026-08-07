@@ -1,1 +1,287 @@
-{"book":"James","book_id":"james","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek James text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for desires/conflict, friendship with world, humility, judging, planning, arrogance."},"verses":[{"verse":1,"restored":"From where are wars and from where fights among you? Are they not from here, from your pleasures/desires warring in your members?"},{"verse":2,"restored":"You desire and do not have; you murder and envy and cannot obtain; you fight and war. You do not have because you do not ask."},{"verse":3,"restored":"You ask and do not receive because you ask wrongly, so that you may spend it in your pleasures."},{"verse":4,"restored":"Adulterous ones, do you not know that friendship with the world is hostility toward the Divine? Therefore whoever wills to be friend of the world is made enemy of the Divine."},{"verse":5,"restored":"Or do you suppose Scripture speaks emptily? The Spirit he made dwell in us yearns with jealousy."},{"verse":6,"restored":"But he gives greater grace; therefore it says, The Divine opposes arrogant ones but gives grace to humble ones."},{"verse":7,"restored":"Therefore be arranged under the Divine; resist the adversarial one, and he will flee from you."},{"verse":8,"restored":"Draw near to the Divine, and he will draw near to you. Cleanse hands, sinners/misaligned ones, and purify hearts, double-souled ones."},{"verse":9,"restored":"Lament and mourn and weep; let your laughter be turned into mourning and your joy into heaviness."},{"verse":10,"restored":"Be humbled before the Lord, and he will lift you."},{"verse":11,"restored":"Do not speak against one another, siblings. The one speaking against a sibling or judging one's sibling speaks against Law and judges Law; but if you judge Law, you are not doer of Law but judge."},{"verse":12,"restored":"One is Lawgiver and Judge, the One able to save/heal and destroy; but who are you, the one judging the neighbor?"},{"verse":13,"restored":"Come now, those saying, Today or tomorrow we will go into this city and spend a year there and trade and make gain,"},{"verse":14,"restored":"you who do not know what tomorrow brings. What is your life? For you are vapor appearing for a little and then disappearing."},{"verse":15,"restored":"Instead you ought to say, If the Lord wills, we will both live and do this or that."},{"verse":16,"restored":"But now you boast in your arrogant pretensions; all such boasting is harmful."},{"verse":17,"restored":"Therefore to the one knowing to do beautiful/good and not doing it, to that one it is sin/misalignment."}],"translation_notes":["Conflict is traced to disordered desire and grasping, not to embodied desire as inherently evil.","Humility and repentance are restorative movements, not shame as identity.","Planning critique targets arrogant self-certainty, not responsible preparation." ]}
+{
+  "book": "James",
+  "book_id": "james",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek James text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for desires/conflict, friendship with world, humility, judging, planning, arrogance."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "From where are wars and from where fights among you? Are they not from here, from your pleasures/desires warring in your members?",
+      "familiar": {
+        "source": "KJV",
+        "text": "From whence come wars and fightings among you? come they not hence, even of your lusts that war in your members?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "You desire and do not have; you murder and envy and cannot obtain; you fight and war. You do not have because you do not ask.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye lust, and have not: ye kill, and desire to have, and cannot obtain: ye fight and war, yet ye have not, because ye ask not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "You ask and do not receive because you ask wrongly, so that you may spend it in your pleasures.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye ask, and receive not, because ye ask amiss, that ye may consume it upon your lusts."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Adulterous ones, do you not know that friendship with the world is hostility toward the Divine? Therefore whoever wills to be friend of the world is made enemy of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye adulterers and adulteresses, know ye not that the friendship of the world is enmity with God? whosoever therefore will be a friend of the world is the enemy of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Or do you suppose Scripture speaks emptily? The Spirit he made dwell in us yearns with jealousy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do ye think that the scripture saith in vain, The spirit that dwelleth in us lusteth to envy?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "But he gives greater grace; therefore it says, The Divine opposes arrogant ones but gives grace to humble ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he giveth more grace. Wherefore he saith, God resisteth the proud, but giveth grace unto the humble."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Therefore be arranged under the Divine; resist the adversarial one, and he will flee from you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Submit yourselves therefore to God. Resist the devil, and he will flee from you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Draw near to the Divine, and he will draw near to you. Cleanse hands, sinners/misaligned ones, and purify hearts, double-souled ones.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Draw nigh to God, and he will draw nigh to you. Cleanse your hands, ye sinners; and purify your hearts, ye double minded."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Lament and mourn and weep; let your laughter be turned into mourning and your joy into heaviness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be afflicted, and mourn, and weep: let your laughter be turned to mourning, and your joy to heaviness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Be humbled before the Lord, and he will lift you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Humble yourselves in the sight of the Lord, and he shall lift you up."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Do not speak against one another, siblings. The one speaking against a sibling or judging one's sibling speaks against Law and judges Law; but if you judge Law, you are not doer of Law but judge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak not evil one of another, brethren. He that speaketh evil of his brother, and judgeth his brother, speaketh evil of the law, and judgeth the law: but if thou judge the law, thou art not a doer of the law, but a judge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "One is Lawgiver and Judge, the One able to save/heal and destroy; but who are you, the one judging the neighbor?",
+      "familiar": {
+        "source": "KJV",
+        "text": "There is one lawgiver, who is able to save and to destroy: who art thou that judgest another?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Come now, those saying, Today or tomorrow we will go into this city and spend a year there and trade and make gain,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go to now, ye that say, To day or to morrow we will go into such a city, and continue there a year, and buy and sell, and get gain:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "you who do not know what tomorrow brings. What is your life? For you are vapor appearing for a little and then disappearing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereas ye know not what shall be on the morrow. For what is your life? It is even a vapour, that appeareth for a little time, and then vanisheth away."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Instead you ought to say, If the Lord wills, we will both live and do this or that.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For that ye ought to say, If the Lord will, we shall live, and do this, or that."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "But now you boast in your arrogant pretensions; all such boasting is harmful.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But now ye rejoice in your boastings: all such rejoicing is evil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Therefore to the one knowing to do beautiful/good and not doing it, to that one it is sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore to him that knoweth to do good, and doeth it not, to him it is sin."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Conflict is traced to disordered desire and grasping, not to embodied desire as inherently evil.",
+    "Humility and repentance are restorative movements, not shame as identity.",
+    "Planning critique targets arrogant self-certainty, not responsible preparation."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-17",
+    "tags": "partial-4-of-17",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-17",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

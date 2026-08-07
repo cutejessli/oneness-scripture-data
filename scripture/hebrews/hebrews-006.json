@@ -1,1 +1,352 @@
-{"book":"Hebrews","book_id":"hebrews","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Greek Hebrews text tradition; draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for mature foundation, severe warning, better things, Abraham promise, oath, anchor of soul."},"verses":[{"verse":1,"restored":"Therefore, leaving the beginning word of Messiah, let us be carried toward maturity, not again laying foundation of turning from dead works and trust toward Divine,"},{"verse":2,"restored":"teaching of washings, laying on of hands, resurrection of dead ones, and age-long judgment."},{"verse":3,"restored":"And this we will do, if the Divine permits."},{"verse":4,"restored":"For it is impossible for those once enlightened, tasting the heavenly gift, becoming partners of holy Spirit,"},{"verse":5,"restored":"and tasting beautiful/good word of Divine and powers of coming age,"},{"verse":6,"restored":"and falling away, to renew again into turning, since they are re-crucifying for themselves the Son of the Divine and exposing him to public shame."},{"verse":7,"restored":"For earth drinking rain often coming upon it and bringing forth useful plant for those through whom it is cultivated shares blessing from the Divine."},{"verse":8,"restored":"But bearing thorns and thistles is disapproved and near curse, whose end is burning."},{"verse":9,"restored":"But concerning you, beloved, we have been persuaded of better things, things holding to salvation/healing, even if we speak this way."},{"verse":10,"restored":"For the Divine is not unjust to forget your work and the love you showed toward his name, having served the holy ones and still serving."},{"verse":11,"restored":"But we desire each of you to show the same eagerness toward full assurance of hope until completion,"},{"verse":12,"restored":"so that you may not become sluggish, but imitators of those through trust and patience inheriting the promises."},{"verse":13,"restored":"For when the Divine promised Abraham, since he had no one greater by whom to swear, he swore by himself,"},{"verse":14,"restored":"saying: Surely blessing I will bless you, and multiplying I will multiply you."},{"verse":15,"restored":"And so, having patiently endured, he obtained the promise."},{"verse":16,"restored":"For humans swear by the greater, and for them oath is end of every dispute as confirmation."},{"verse":17,"restored":"In this, the Divine, desiring more abundantly to show to heirs of promise the unchangeable nature of his purpose, mediated with oath,"},{"verse":18,"restored":"so that through two unchangeable things, in which it is impossible for Divine to lie, we who fled for refuge might have strong encouragement to seize the hope set before us."},{"verse":19,"restored":"We have this as anchor of soul/life, secure and firm and entering inside the veil,"},{"verse":20,"restored":"where Jesus entered as forerunner on our behalf, having become high priest into the age according to order of Melchizedek."}],"translation_notes":["Hebrews 6 warning is severe but immediately followed by confidence in better things and Divine remembrance of love-service.","Anchor imagery is central: hope enters inside the veil through Jesus as forerunner.","Abraham promise/oath continuity should not be read as replacement of Israel but as trust in Divine promise."],"safety_note":"Do not use Hebrews 6 to terrorize tender consciences. The text warns against catastrophic abandonment while assuring the beloved community that their love-service is remembered by a just Divine."}
+{
+  "book": "Hebrews",
+  "book_id": "hebrews",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Hebrews text tradition; draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for mature foundation, severe warning, better things, Abraham promise, oath, anchor of soul."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore, leaving the beginning word of Messiah, let us be carried toward maturity, not again laying foundation of turning from dead works and trust toward Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore leaving the principles of the doctrine of Christ, let us go on unto perfection; not laying again the foundation of repentance from dead works, and of faith toward God,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "teaching of washings, laying on of hands, resurrection of dead ones, and age-long judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the doctrine of baptisms, and of laying on of hands, and of resurrection of the dead, and of eternal judgment."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And this we will do, if the Divine permits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this will we do, if God permit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For it is impossible for those once enlightened, tasting the heavenly gift, becoming partners of holy Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is impossible for those who were once enlightened, and have tasted of the heavenly gift, and were made partakers of the Holy Ghost,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "and tasting beautiful/good word of Divine and powers of coming age,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And have tasted the good word of God, and the powers of the world to come,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "and falling away, to renew again into turning, since they are re-crucifying for themselves the Son of the Divine and exposing him to public shame.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For earth drinking rain often coming upon it and bringing forth useful plant for those through whom it is cultivated shares blessing from the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But bearing thorns and thistles is disapproved and near curse, whose end is burning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But that which beareth thorns and briers is rejected, and is nigh unto cursing; whose end is to be burned."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But concerning you, beloved, we have been persuaded of better things, things holding to salvation/healing, even if we speak this way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For the Divine is not unjust to forget your work and the love you showed toward his name, having served the holy ones and still serving.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But we desire each of you to show the same eagerness toward full assurance of hope until completion,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "so that you may not become sluggish, but imitators of those through trust and patience inheriting the promises.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye be not slothful, but followers of them who through faith and patience inherit the promises."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "For when the Divine promised Abraham, since he had no one greater by whom to swear, he swore by himself,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For when God made promise to Abraham, because he could swear by no greater, he sware by himself,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "saying: Surely blessing I will bless you, and multiplying I will multiply you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, Surely blessing I will bless thee, and multiplying I will multiply thee."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And so, having patiently endured, he obtained the promise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And so, after he had patiently endured, he obtained the promise."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For humans swear by the greater, and for them oath is end of every dispute as confirmation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For men verily swear by the greater: and an oath for confirmation is to them an end of all strife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "In this, the Divine, desiring more abundantly to show to heirs of promise the unchangeable nature of his purpose, mediated with oath,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherein God, willing more abundantly to shew unto the heirs of promise the immutability of his counsel, confirmed it by an oath:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "so that through two unchangeable things, in which it is impossible for Divine to lie, we who fled for refuge might have strong encouragement to seize the hope set before us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "We have this as anchor of soul/life, secure and firm and entering inside the veil,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which hope we have as an anchor of the soul, both sure and stedfast, and which entereth into that within the veil;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "where Jesus entered as forerunner on our behalf, having become high priest into the age according to order of Melchizedek.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whither the forerunner is for us entered, even Jesus, made an high priest for ever after the order of Melchisedec."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Hebrews 6 warning is severe but immediately followed by confidence in better things and Divine remembrance of love-service.",
+    "Anchor imagery is central: hope enters inside the veil through Jesus as forerunner.",
+    "Abraham promise/oath continuity should not be read as replacement of Israel but as trust in Divine promise."
+  ],
+  "safety_note": "Do not use Hebrews 6 to terrorize tender consciences. The text warns against catastrophic abandonment while assuring the beloved community that their love-service is remembered by a just Divine.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-20",
+    "tags": "partial-7-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

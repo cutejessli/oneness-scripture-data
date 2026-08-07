@@ -1,1 +1,390 @@
-{"book":"1 Thessalonians","book_id":"1-thessalonians","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for apostolic tenderness, non-flattery, shared lives, word received as Divine word, persecution parallels, longing. Variant/reception-history caution required for 2:14-16."},"verses":[{"verse":1,"restored":"For you yourselves know, siblings, our entrance toward you, that it has not become empty."},{"verse":2,"restored":"But after suffering and being dishonored in Philippi, as you know, we became bold in our Divine to speak the good news of the Divine to you in much struggle."},{"verse":3,"restored":"For our appeal is not from error, nor from uncleanness, nor in deceit."},{"verse":4,"restored":"But as we have been approved by the Divine to be entrusted with the good news, so we speak, not as pleasing humans, but the Divine who tests our hearts."},{"verse":5,"restored":"For we never came with flattering speech, as you know, nor with a pretext for greed; the Divine is witness."},{"verse":6,"restored":"Nor were we seeking glory from humans, neither from you nor from others, though we could have been weighty as apostles of Messiah."},{"verse":7,"restored":"But we became gentle in your midst, as a nursing mother cherishes her own children."},{"verse":8,"restored":"So longing for you, we were pleased to share with you not only the good news of the Divine, but also our own souls/lives, because you became beloved to us."},{"verse":9,"restored":"For you remember, siblings, our labor and toil; working night and day so as not to burden any of you, we proclaimed to you the good news of the Divine."},{"verse":10,"restored":"You are witnesses, and the Divine, how devoutly and righteously/justly and blamelessly we became toward you who trust."},{"verse":11,"restored":"Just as you know how, as a father with his own children, we appealed to each one of you and encouraged and testified,"},{"verse":12,"restored":"so that you walk worthily of the Divine, who calls you into his own reign and glory."},{"verse":13,"restored":"And because of this we also give thanks to the Divine unceasingly, that receiving from us a word of hearing of the Divine, you accepted it not as human word but, just as it truly is, word of the Divine, which also works in you who trust."},{"verse":14,"restored":"For you, siblings, became imitators of the assemblies of the Divine in Judea that are in Messiah Jesus, because you also suffered the same things from your own country-people as they did from certain Judean opponents,"},{"verse":15,"restored":"the same hostile pattern connected in the text with violence against the Lord Jesus, the prophets, and us, and with resistance to Divine pleasure and human good,"},{"verse":16,"restored":"hindering speech to the nations so that they may be saved/healed, thus filling up misalignment; but judgment has come upon that pattern to completion."},{"verse":17,"restored":"But we, siblings, having been separated from you for a short season, in face not in heart, were more abundantly eager with great desire to see your face."},{"verse":18,"restored":"Therefore we wanted to come to you—I Paul, both once and twice—and the adversarial one hindered us."},{"verse":19,"restored":"For what is our hope or joy or crown of boasting? Is it not even you, before our Lord Jesus at his presence/arrival?"},{"verse":20,"restored":"For you are our glory and joy."}],"safety_note":"1 Thessalonians 2:14-16 has a deeply dangerous reception history and must not be used as a timeless condemnation of Jewish people. The restored draft keeps the conflict located in a specific hostile pattern within an intra-Jewish/early Jesus-movement setting and flags the passage for second-pass textual and reception-history audit."}
+{
+  "book": "1 Thessalonians",
+  "book_id": "1-thessalonians",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for apostolic tenderness, non-flattery, shared lives, word received as Divine word, persecution parallels, longing. Variant/reception-history caution required for 2:14-16."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "For you yourselves know, siblings, our entrance toward you, that it has not become empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For yourselves, brethren, know our entrance in unto you, that it was not in vain:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "But after suffering and being dishonored in Philippi, as you know, we became bold in our Divine to speak the good news of the Divine to you in much struggle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But even after that we had suffered before, and were shamefully entreated, as ye know, at Philippi, we were bold in our God to speak unto you the gospel of God with much contention."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For our appeal is not from error, nor from uncleanness, nor in deceit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For our exhortation was not of deceit, nor of uncleanness, nor in guile:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But as we have been approved by the Divine to be entrusted with the good news, so we speak, not as pleasing humans, but the Divine who tests our hearts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as we were allowed of God to be put in trust with the gospel, even so we speak; not as pleasing men, but God, which trieth our hearts."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For we never came with flattering speech, as you know, nor with a pretext for greed; the Divine is witness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For neither at any time used we flattering words, as ye know, nor a cloke of covetousness; God is witness:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Nor were we seeking glory from humans, neither from you nor from others, though we could have been weighty as apostles of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nor of men sought we glory, neither of you, nor yet of others, when we might have been burdensome, as the apostles of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "But we became gentle in your midst, as a nursing mother cherishes her own children.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we were gentle among you, even as a nurse cherisheth her children:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "So longing for you, we were pleased to share with you not only the good news of the Divine, but also our own souls/lives, because you became beloved to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So being affectionately desirous of you, we were willing to have imparted unto you, not the gospel of God only, but also our own souls, because ye were dear unto us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For you remember, siblings, our labor and toil; working night and day so as not to burden any of you, we proclaimed to you the good news of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye remember, brethren, our labour and travail: for labouring night and day, because we would not be chargeable unto any of you, we preached unto you the gospel of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "You are witnesses, and the Divine, how devoutly and righteously/justly and blamelessly we became toward you who trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are witnesses, and God also, how holily and justly and unblameably we behaved ourselves among you that believe:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Just as you know how, as a father with his own children, we appealed to each one of you and encouraged and testified,",
+      "familiar": {
+        "source": "KJV",
+        "text": "As ye know how we exhorted and comforted and charged every one of you, as a father doth his children,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "so that you walk worthily of the Divine, who calls you into his own reign and glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye would walk worthy of God, who hath called you unto his kingdom and glory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And because of this we also give thanks to the Divine unceasingly, that receiving from us a word of hearing of the Divine, you accepted it not as human word but, just as it truly is, word of the Divine, which also works in you who trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause also thank we God without ceasing, because, when ye received the word of God which ye heard of us, ye received it not as the word of men, but as it is in truth, the word of God, which effectually worketh also in you that believe."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For you, siblings, became imitators of the assemblies of the Divine in Judea that are in Messiah Jesus, because you also suffered the same things from your own country-people as they did from certain Judean opponents,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye, brethren, became followers of the churches of God which in Judaea are in Christ Jesus: for ye also have suffered like things of your own countrymen, even as they have of the Jews:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "the same hostile pattern connected in the text with violence against the Lord Jesus, the prophets, and us, and with resistance to Divine pleasure and human good,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who both killed the Lord Jesus, and their own prophets, and have persecuted us; and they please not God, and are contrary to all men:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "hindering speech to the nations so that they may be saved/healed, thus filling up misalignment; but judgment has come upon that pattern to completion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forbidding us to speak to the Gentiles that they might be saved, to fill up their sins alway: for the wrath is come upon them to the uttermost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "But we, siblings, having been separated from you for a short season, in face not in heart, were more abundantly eager with great desire to see your face.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we, brethren, being taken from you for a short time in presence, not in heart, endeavoured the more abundantly to see your face with great desire."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Therefore we wanted to come to you—I Paul, both once and twice—and the adversarial one hindered us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore we would have come unto you, even I Paul, once and again; but Satan hindered us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For what is our hope or joy or crown of boasting? Is it not even you, before our Lord Jesus at his presence/arrival?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For what is our hope, or joy, or crown of rejoicing? Are not even ye in the presence of our Lord Jesus Christ at his coming?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For you are our glory and joy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For ye are our glory and joy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "safety_note": "1 Thessalonians 2:14-16 has a deeply dangerous reception history and must not be used as a timeless condemnation of Jewish people. The restored draft keeps the conflict located in a specific hostile pattern within an intra-Jewish/early Jesus-movement setting and flags the passage for second-pass textual and reception-history audit.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-8-of-20",
+    "tags": "partial-11-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

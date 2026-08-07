@@ -1,1 +1,633 @@
-{"book":"Ephesians","book_id":"ephesians","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek Ephesians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for worthy walk, one body/Spirit/Lord/trust/baptism/Divine, gifts, body maturity, old/new human, truth in love."},"verses":[{"verse":1,"restored":"Therefore I, the prisoner in the Lord, appeal to you to walk worthily of the calling with which you were called,"},{"verse":2,"restored":"with all humility and gentleness, with patience, bearing with one another in love,"},{"verse":3,"restored":"being eager to keep the oneness of the Spirit in the bond of peace."},{"verse":4,"restored":"One body and one Spirit, just as also you were called in one hope of your calling;"},{"verse":5,"restored":"one Lord, one trust, one baptism;"},{"verse":6,"restored":"one Divine and Father of all, the One over all and through all and in all."},{"verse":7,"restored":"But to each one of us grace was given according to the measure of the gift of Messiah."},{"verse":8,"restored":"Therefore it says: Having ascended on high, he led captivity captive; he gave gifts to humans."},{"verse":9,"restored":"Now this, he ascended, what is it except that he also descended into the lower parts of the earth?"},{"verse":10,"restored":"The One who descended is also the One who ascended far above all the heavens, so that he might fill all things."},{"verse":11,"restored":"And he gave some as apostles, some prophets, some announcers of good news, some shepherds and teachers,"},{"verse":12,"restored":"toward the equipping/restoration of the holy ones, into work of service, into building up the body of Messiah,"},{"verse":13,"restored":"until we all arrive into the oneness of the trust and of the knowledge of the Son of the Divine, into mature/complete humanity, into measure of stature of the fullness of Messiah,"},{"verse":14,"restored":"so that we may no longer be infants, tossed by waves and carried around by every wind of teaching, by human trickery, by craftiness toward the schemes of error,"},{"verse":15,"restored":"but truthing in love, we may grow up in all things into him who is the head, Messiah,"},{"verse":16,"restored":"from whom the whole body, joined and held together through every supporting ligament, according to working in measure of each single part, makes the growth of the body into building itself up in love."},{"verse":17,"restored":"Therefore this I say and testify in the Lord: no longer walk as the nations also walk, in futility of their mind,"},{"verse":18,"restored":"having been darkened in understanding, alienated from the life of the Divine because of the ignorance being in them, because of the hardness of their heart,"},{"verse":19,"restored":"who, having become callous, handed themselves over to shameless excess, into practice of every uncleanness in greed."},{"verse":20,"restored":"But you did not learn Messiah this way,"},{"verse":21,"restored":"if indeed you heard him and were taught in him, just as truth is in Jesus,"},{"verse":22,"restored":"to put away, according to the former conduct, the old human, being corrupted according to desires of deceit,"},{"verse":23,"restored":"and to be renewed in the spirit of your mind,"},{"verse":24,"restored":"and to put on the new human, created according to the Divine in righteousness/justice and holiness of truth."},{"verse":25,"restored":"Therefore, having put away falsehood, speak truth each one with one's neighbor, because we are members of one another."},{"verse":26,"restored":"Be angry and do not sin/misalign; do not let the sun set upon your provocation,"},{"verse":27,"restored":"nor give place/opportunity to the adversarial one."},{"verse":28,"restored":"Let the one stealing steal no longer, but rather labor, working with one's own hands the good, so that one may have to share with the one having need."},{"verse":29,"restored":"Let no rotten word go out from your mouth, but only what is good for building up as need requires, so that it may give grace to those hearing."},{"verse":30,"restored":"And do not grieve the holy Spirit of the Divine, in whom you were sealed into the day of redemption/release."},{"verse":31,"restored":"Let all bitterness and fury and anger and shouting and slander be taken away from you, with all harmfulness."},{"verse":32,"restored":"Become kind to one another, tenderhearted, graciously forgiving each other, just as also the Divine in Messiah graciously forgave you."}],"translation_notes":["Truthing in love preserves the verbal force of aletheuontes in 4:15: truth is practiced relationally, not merely possessed as correctness.","New human language is communal and ethical, not a rejection of embodied life." ]}
+{
+  "book": "Ephesians",
+  "book_id": "ephesians",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Ephesians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for worthy walk, one body/Spirit/Lord/trust/baptism/Divine, gifts, body maturity, old/new human, truth in love."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore I, the prisoner in the Lord, appeal to you to walk worthily of the calling with which you were called,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "with all humility and gentleness, with patience, bearing with one another in love,",
+      "familiar": {
+        "source": "KJV",
+        "text": "With all lowliness and meekness, with longsuffering, forbearing one another in love;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "being eager to keep the oneness of the Spirit in the bond of peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Endeavouring to keep the unity of the Spirit in the bond of peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "One body and one Spirit, just as also you were called in one hope of your calling;",
+      "familiar": {
+        "source": "KJV",
+        "text": "There is one body, and one Spirit, even as ye are called in one hope of your calling;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "one Lord, one trust, one baptism;",
+      "familiar": {
+        "source": "KJV",
+        "text": "One Lord, one faith, one baptism,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "one Divine and Father of all, the One over all and through all and in all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "One God and Father of all, who is above all, and through all, and in you all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But to each one of us grace was given according to the measure of the gift of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But unto every one of us is given grace according to the measure of the gift of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore it says: Having ascended on high, he led captivity captive; he gave gifts to humans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore he saith, When he ascended up on high, he led captivity captive, and gave gifts unto men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Now this, he ascended, what is it except that he also descended into the lower parts of the earth?",
+      "familiar": {
+        "source": "KJV",
+        "text": "(Now that he ascended, what is it but that he also descended first into the lower parts of the earth?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The One who descended is also the One who ascended far above all the heavens, so that he might fill all things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that descended is the same also that ascended up far above all heavens, that he might fill all things.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And he gave some as apostles, some prophets, some announcers of good news, some shepherds and teachers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he gave some, apostles; and some, prophets; and some, evangelists; and some, pastors and teachers;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "toward the equipping/restoration of the holy ones, into work of service, into building up the body of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the perfecting of the saints, for the work of the ministry, for the edifying of the body of Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "until we all arrive into the oneness of the trust and of the knowledge of the Son of the Divine, into mature/complete humanity, into measure of stature of the fullness of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "so that we may no longer be infants, tossed by waves and carried around by every wind of teaching, by human trickery, by craftiness toward the schemes of error,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "but truthing in love, we may grow up in all things into him who is the head, Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But speaking the truth in love, may grow up into him in all things, which is the head, even Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "from whom the whole body, joined and held together through every supporting ligament, according to working in measure of each single part, makes the growth of the body into building itself up in love.",
+      "familiar": {
+        "source": "KJV",
+        "text": "From whom the whole body fitly joined together and compacted by that which every joint supplieth, according to the effectual working in the measure of every part, maketh increase of the body unto the edifying of itself in love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Therefore this I say and testify in the Lord: no longer walk as the nations also walk, in futility of their mind,",
+      "familiar": {
+        "source": "KJV",
+        "text": "This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "having been darkened in understanding, alienated from the life of the Divine because of the ignorance being in them, because of the hardness of their heart,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "who, having become callous, handed themselves over to shameless excess, into practice of every uncleanness in greed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But you did not learn Messiah this way,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye have not so learned Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "if indeed you heard him and were taught in him, just as truth is in Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "to put away, according to the former conduct, the old human, being corrupted according to desires of deceit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "and to be renewed in the spirit of your mind,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And be renewed in the spirit of your mind;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "and to put on the new human, created according to the Divine in righteousness/justice and holiness of truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Therefore, having put away falsehood, speak truth each one with one's neighbor, because we are members of one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Be angry and do not sin/misalign; do not let the sun set upon your provocation,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be ye angry, and sin not: let not the sun go down upon your wrath:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "nor give place/opportunity to the adversarial one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither give place to the devil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Let the one stealing steal no longer, but rather labor, working with one's own hands the good, so that one may have to share with the one having need.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let him that stole steal no more: but rather let him labour, working with his hands the thing which is good, that he may have to give to him that needeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Let no rotten word go out from your mouth, but only what is good for building up as need requires, so that it may give grace to those hearing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let no corrupt communication proceed out of your mouth, but that which is good to the use of edifying, that it may minister grace unto the hearers."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "And do not grieve the holy Spirit of the Divine, in whom you were sealed into the day of redemption/release.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Let all bitterness and fury and anger and shouting and slander be taken away from you, with all harmfulness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Become kind to one another, tenderhearted, graciously forgiving each other, just as also the Divine in Messiah graciously forgave you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ’s sake hath forgiven you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Truthing in love preserves the verbal force of aletheuontes in 4:15: truth is practiced relationally, not merely possessed as correctness.",
+    "New human language is communal and ethical, not a rejection of embodied life."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-15-of-32",
+    "tags": "partial-12-of-32",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

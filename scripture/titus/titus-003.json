@@ -1,1 +1,297 @@
-{"book":"Titus","book_id":"titus","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek Titus text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for civic posture, kindness and renewal, heirs, good works, foolish disputes, divisive person, final greetings."},"verses":[{"verse":1,"restored":"Remind them to be arranged under rulers and authorities, to obey, to be ready for every beautiful/good work,"},{"verse":2,"restored":"to blaspheme/slander no one, to be non-quarrelsome, gentle, showing all meekness toward all humans."},{"verse":3,"restored":"For we also were once foolish, disobedient, led astray, enslaved to various desires and pleasures, passing life in harmfulness and envy, hated and hating one another."},{"verse":4,"restored":"But when the kindness and love-for-humanity of our Savior/Healer Divine appeared,"},{"verse":5,"restored":"not from works in righteousness/justice that we did, but according to his mercy, he saved/healed us through washing of rebirth and renewal of holy Spirit,"},{"verse":6,"restored":"which he poured out upon us richly through Jesus Messiah our Savior/Healer,"},{"verse":7,"restored":"so that, having been made righteous/just by his grace, we might become heirs according to hope of age-long life."},{"verse":8,"restored":"Trustworthy is the saying; and concerning these things I desire you to insist, so that those having trusted the Divine may be careful to stand before beautiful/good works. These things are beautiful/good and beneficial to humans."},{"verse":9,"restored":"But avoid foolish inquiries and genealogies and strifes and fights about Law, for they are unbeneficial and empty."},{"verse":10,"restored":"A divisive human, after one and a second admonition, refuse,"},{"verse":11,"restored":"knowing that such a one has been turned out of alignment and is sinning/missing the mark, being self-condemned."},{"verse":12,"restored":"When I send Artemas to you or Tychicus, be eager to come to me at Nicopolis, for there I have decided to winter."},{"verse":13,"restored":"Diligently send forward Zenas the lawyer and Apollos, so that nothing may be lacking to them."},{"verse":14,"restored":"And let our people also learn to stand before beautiful/good works for necessary needs, so that they may not be unfruitful."},{"verse":15,"restored":"All those with me greet you. Greet those loving us in trust. Grace be with all of you."}],"translation_notes":["Civic submission language must be bounded by good works, gentleness, and non-slander; it is not absolute obedience to injustice.","Regeneration/renewal is mercy and Spirit language, not self-achievement.","Good works are repeatedly framed as beneficial, necessary, and fruitful." ]}
+{
+  "book": "Titus",
+  "book_id": "titus",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Titus text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for civic posture, kindness and renewal, heirs, good works, foolish disputes, divisive person, final greetings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Remind them to be arranged under rulers and authorities, to obey, to be ready for every beautiful/good work,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "to blaspheme/slander no one, to be non-quarrelsome, gentle, showing all meekness toward all humans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "To speak evil of no man, to be no brawlers, but gentle, shewing all meekness unto all men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For we also were once foolish, disobedient, led astray, enslaved to various desires and pleasures, passing life in harmfulness and envy, hated and hating one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we ourselves also were sometimes foolish, disobedient, deceived, serving divers lusts and pleasures, living in malice and envy, hateful, and hating one another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "But when the kindness and love-for-humanity of our Savior/Healer Divine appeared,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But after that the kindness and love of God our Saviour toward man appeared,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "not from works in righteousness/justice that we did, but according to his mercy, he saved/healed us through washing of rebirth and renewal of holy Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not by works of righteousness which we have done, but according to his mercy he saved us, by the washing of regeneration, and renewing of the Holy Ghost;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "which he poured out upon us richly through Jesus Messiah our Savior/Healer,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which he shed on us abundantly through Jesus Christ our Saviour;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "economic-justice",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "so that, having been made righteous/just by his grace, we might become heirs according to hope of age-long life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That being justified by his grace, we should be made heirs according to the hope of eternal life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Trustworthy is the saying; and concerning these things I desire you to insist, so that those having trusted the Divine may be careful to stand before beautiful/good works. These things are beautiful/good and beneficial to humans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But avoid foolish inquiries and genealogies and strifes and fights about Law, for they are unbeneficial and empty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "A divisive human, after one and a second admonition, refuse,",
+      "familiar": {
+        "source": "KJV",
+        "text": "A man that is an heretick after the first and second admonition reject;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "knowing that such a one has been turned out of alignment and is sinning/missing the mark, being self-condemned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing that he that is such is subverted, and sinneth, being condemned of himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "When I send Artemas to you or Tychicus, be eager to come to me at Nicopolis, for there I have decided to winter.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When I shall send Artemas unto thee, or Tychicus, be diligent to come unto me to Nicopolis: for I have determined there to winter."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Diligently send forward Zenas the lawyer and Apollos, so that nothing may be lacking to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Bring Zenas the lawyer and Apollos on their journey diligently, that nothing be wanting unto them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And let our people also learn to stand before beautiful/good works for necessary needs, so that they may not be unfruitful.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And let ours also learn to maintain good works for necessary uses, that they be not unfruitful."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "All those with me greet you. Greet those loving us in trust. Grace be with all of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Civic submission language must be bounded by good works, gentleness, and non-slander; it is not absolute obedience to injustice.",
+    "Regeneration/renewal is mercy and Spirit language, not self-achievement.",
+    "Good works are repeatedly framed as beneficial, necessary, and fruitful."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-15",
+    "tags": "partial-6-of-15",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-2-of-15",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

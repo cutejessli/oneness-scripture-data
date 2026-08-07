@@ -1,1 +1,295 @@
-{"book":"2 John","book_id":"2-john","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 John text tradition, draft aligned to public-domain comparison layer later","review_note":"Complete one-chapter draft reviewed for elder/elect lady, truth and love, commandment, discernment, hospitality boundaries."},"verses":[{"verse":1,"restored":"The elder to the chosen lady and her children, whom I love in truth, and not I only but also all those knowing the truth,"},{"verse":2,"restored":"because of the truth remaining in us and being with us into the age."},{"verse":3,"restored":"Grace, mercy, peace will be with us from Divine Father and from Jesus Messiah, the Son of the Father, in truth and love."},{"verse":4,"restored":"I rejoiced greatly because I have found some of your children walking in truth, just as command we received from the Father."},{"verse":5,"restored":"And now I ask you, lady, not as writing to you a new command but one we had from beginning: that we love one another."},{"verse":6,"restored":"And this is love: that we walk according to his commands. This is the command, just as you heard from beginning, so that you may walk in it."},{"verse":7,"restored":"Because many misleading teachers went out into the world-system, those not confessing Jesus Messiah coming in flesh; this is the misleading and opposing-Messiah pattern."},{"verse":8,"restored":"Look to yourselves, so that you may not lose what we worked for, but may receive full reward."},{"verse":9,"restored":"Everyone going ahead and not remaining in the teaching of Messiah does not have the Divine; the one remaining in the teaching has both the Father and the Son."},{"verse":10,"restored":"If anyone comes to you and does not bring this teaching, do not receive this one into house, and do not say to this one greeting."},{"verse":11,"restored":"For the one saying greeting to this one participates in that one's harmful works."},{"verse":12,"restored":"Having many things to write to you, I did not intend through paper and ink, but I hope to come to you and speak mouth to mouth, so that our joy may be made full."},{"verse":13,"restored":"The children of your chosen sister greet you."}],"translation_notes":["Chosen lady may be a woman leader/host or a personified assembly; ambiguity is preserved.","Truth and love are inseparable; boundaries in hospitality concern harmful teaching, not fear of outsiders.","Opposing-Messiah language must not be used as paranoia or modern target-mapping." ]}
+{
+  "book": "2 John",
+  "book_id": "2-john",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 John text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Complete one-chapter draft reviewed for elder/elect lady, truth and love, commandment, discernment, hospitality boundaries."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The elder to the chosen lady and her children, whom I love in truth, and not I only but also all those knowing the truth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "love",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "because of the truth remaining in us and being with us into the age.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the truth’s sake, which dwelleth in us, and shall be with us for ever."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Grace, mercy, peace will be with us from Divine Father and from Jesus Messiah, the Son of the Father, in truth and love.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "love",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "I rejoiced greatly because I have found some of your children walking in truth, just as command we received from the Father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And now I ask you, lady, not as writing to you a new command but one we had from beginning: that we love one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now I beseech thee, lady, not as though I wrote a new commandment unto thee, but that which we had from the beginning, that we love one another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And this is love: that we walk according to his commands. This is the command, just as you heard from beginning, so that you may walk in it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Because many misleading teachers went out into the world-system, those not confessing Jesus Messiah coming in flesh; this is the misleading and opposing-Messiah pattern.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Look to yourselves, so that you may not lose what we worked for, but may receive full reward.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Everyone going ahead and not remaining in the teaching of Messiah does not have the Divine; the one remaining in the teaching has both the Father and the Son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever transgresseth, and abideth not in the doctrine of Christ, hath not God. He that abideth in the doctrine of Christ, he hath both the Father and the Son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "If anyone comes to you and does not bring this teaching, do not receive this one into house, and do not say to this one greeting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If there come any unto you, and bring not this doctrine, receive him not into your house, neither bid him God speed:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For the one saying greeting to this one participates in that one's harmful works.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that biddeth him God speed is partaker of his evil deeds."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Having many things to write to you, I did not intend through paper and ink, but I hope to come to you and speak mouth to mouth, so that our joy may be made full.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Having many things to write unto you, I would not write with paper and ink: but I trust to come unto you, and speak face to face, that our joy may be full."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The children of your chosen sister greet you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of thy elect sister greet thee. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Chosen lady may be a woman leader/host or a personified assembly; ambiguity is preserved.",
+    "Truth and love are inseparable; boundaries in hospitality concern harmful teaching, not fear of outsiders.",
+    "Opposing-Messiah language must not be used as paranoia or modern target-mapping."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-13",
+    "tags": "partial-8-of-13",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-13",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

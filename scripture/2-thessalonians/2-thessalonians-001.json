@@ -1,1 +1,295 @@
-{"book":"2 Thessalonians","book_id":"2-thessalonians","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for thanksgiving, growing trust/love, endurance under pressure, just judgment, relief, revelation of Lord Jesus, being made worthy of calling."},"verses":[{"verse":1,"restored":"Paul and Silvanus and Timothy, to the assembly of Thessalonians in Divine our Father and Lord Jesus Messiah:"},{"verse":2,"restored":"Grace to you and peace from Divine Father and Lord Jesus Messiah."},{"verse":3,"restored":"We ought always to give thanks to the Divine concerning you, siblings, as is fitting, because your trust is growing exceedingly and the love of each one of you all toward one another is increasing."},{"verse":4,"restored":"So that we ourselves boast in you among the assemblies of the Divine for your endurance and trust in all your pursuits/persecutions and pressures that you are bearing."},{"verse":5,"restored":"This is evidence of the righteous/just judgment of the Divine, so that you may be counted worthy of the reign of the Divine, for which you also suffer."},{"verse":6,"restored":"Since indeed it is righteous/just with the Divine to repay pressure to those pressuring you,"},{"verse":7,"restored":"and relief to you who are pressured, with us, at the unveiling of the Lord Jesus from heaven with messengers of his power,"},{"verse":8,"restored":"in flaming fire, giving justice concerning those not knowing the Divine and those not obeying the good news of our Lord Jesus."},{"verse":9,"restored":"These will pay a penalty of age-long ruin away from the face/presence of the Lord and from the glory of his strength,"},{"verse":10,"restored":"when he comes to be glorified in his holy ones and marveled at among all those who trusted, because our witness to you was trusted, in that day."},{"verse":11,"restored":"For this also we always pray concerning you, that our Divine may make you worthy of the calling and fulfill every good pleasure of goodness and work of trust in power,"},{"verse":12,"restored":"so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our Divine and Lord Jesus Messiah."}],"translation_notes":["Judgment imagery is preserved as apocalyptic justice for oppressed believers, not permission for human vengeance.","Aionios is rendered age-long where appropriate to preserve the age-related semantic range.","The chapter's pastoral purpose is endurance, relief, and worthiness of calling under pressure." ]}
+{
+  "book": "2 Thessalonians",
+  "book_id": "2-thessalonians",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for thanksgiving, growing trust/love, endurance under pressure, just judgment, relief, revelation of Lord Jesus, being made worthy of calling."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul and Silvanus and Timothy, to the assembly of Thessalonians in Divine our Father and Lord Jesus Messiah:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Grace to you and peace from Divine Father and Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace unto you, and peace, from God our Father and the Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "We ought always to give thanks to the Divine concerning you, siblings, as is fitting, because your trust is growing exceedingly and the love of each one of you all toward one another is increasing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "So that we ourselves boast in you among the assemblies of the Divine for your endurance and trust in all your pursuits/persecutions and pressures that you are bearing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "This is evidence of the righteous/just judgment of the Divine, so that you may be counted worthy of the reign of the Divine, for which you also suffer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which is a manifest token of the righteous judgment of God, that ye may be counted worthy of the kingdom of God, for which ye also suffer:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Since indeed it is righteous/just with the Divine to repay pressure to those pressuring you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Seeing it is a righteous thing with God to recompense tribulation to them that trouble you;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and relief to you who are pressured, with us, at the unveiling of the Lord Jesus from heaven with messengers of his power,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to you who are troubled rest with us, when the Lord Jesus shall be revealed from heaven with his mighty angels,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "in flaming fire, giving justice concerning those not knowing the Divine and those not obeying the good news of our Lord Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In flaming fire taking vengeance on them that know not God, and that obey not the gospel of our Lord Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "These will pay a penalty of age-long ruin away from the face/presence of the Lord and from the glory of his strength,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall be punished with everlasting destruction from the presence of the Lord, and from the glory of his power;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "when he comes to be glorified in his holy ones and marveled at among all those who trusted, because our witness to you was trusted, in that day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For this also we always pray concerning you, that our Divine may make you worthy of the calling and fulfill every good pleasure of goodness and work of trust in power,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our Divine and Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Judgment imagery is preserved as apocalyptic justice for oppressed believers, not permission for human vengeance.",
+    "Aionios is rendered age-long where appropriate to preserve the age-related semantic range.",
+    "The chapter's pastoral purpose is endurance, relief, and worthiness of calling under pressure."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-12",
+    "tags": "partial-6-of-12",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-12",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

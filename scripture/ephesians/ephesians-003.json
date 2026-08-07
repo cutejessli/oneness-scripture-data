@@ -1,1 +1,514 @@
-{"book":"Ephesians","book_id":"ephesians","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek Ephesians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for mystery of nations as co-heirs, stewardship of grace, manifold wisdom to powers, rooted in love, fullness of Divine."},"verses":[{"verse":1,"restored":"Because of this I, Paul, the prisoner of Messiah Jesus on behalf of you, the nations—"},{"verse":2,"restored":"if indeed you heard of the stewardship/administration of the grace of the Divine given to me for you,"},{"verse":3,"restored":"that according to unveiling the mystery was made known to me, just as I wrote before in brief,"},{"verse":4,"restored":"by which, reading, you are able to perceive my insight in the mystery of Messiah,"},{"verse":5,"restored":"which in other generations was not made known to the children of humans as now it has been unveiled to his holy apostles and prophets in Spirit:"},{"verse":6,"restored":"that the nations are co-heirs and co-body and co-sharers of the promise in Messiah Jesus through the good news,"},{"verse":7,"restored":"of which I became servant according to the gift of the grace of the Divine given to me according to the working of his power."},{"verse":8,"restored":"To me, the least of all holy ones, this grace was given: to announce to the nations the unsearchable riches of Messiah,"},{"verse":9,"restored":"and to illuminate all as to what is the stewardship/administration of the mystery hidden from the ages in the Divine who created all things,"},{"verse":10,"restored":"so that now, through the assembly, the many-sided wisdom of the Divine might be made known to the rulers and authorities in the heavenlies,"},{"verse":11,"restored":"according to the purpose of the ages which he made in Messiah Jesus our Lord,"},{"verse":12,"restored":"in whom we have boldness and access in confidence through his trust/faithfulness."},{"verse":13,"restored":"Therefore I ask you not to lose heart in my pressures on behalf of you, which is your glory."},{"verse":14,"restored":"Because of this I bend my knees toward the Father,"},{"verse":15,"restored":"from whom every family/fatherhood in heavens and upon earth is named,"},{"verse":16,"restored":"so that he may give you, according to the riches of his glory, to be strengthened with power through his Spirit in the inner human,"},{"verse":17,"restored":"for Messiah to dwell through trust in your hearts, having been rooted and founded in love,"},{"verse":18,"restored":"so that you may be fully strong to comprehend with all the holy ones what is the breadth and length and height and depth,"},{"verse":19,"restored":"and to know the love of Messiah surpassing knowledge, so that you may be filled into all the fullness of the Divine."},{"verse":20,"restored":"Now to the One able to do beyond all things, beyond measure of what we ask or perceive, according to the power working in us,"},{"verse":21,"restored":"to him be glory in the assembly and in Messiah Jesus into all generations of the age of the ages. Amen."}],"translation_notes":["Syn- compounds in 3:6 are preserved as co-heirs, co-body, co-sharers to highlight radical shared belonging of nations in Messiah.","Many-sided wisdom in 3:10 preserves polypoikilos, the manifold/multicolored wisdom of the Divine made known through the assembly.","Fullness of Divine in 3:19 is the mystical high point of the prayer." ]}
+{
+  "book": "Ephesians",
+  "book_id": "ephesians",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Ephesians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for mystery of nations as co-heirs, stewardship of grace, manifold wisdom to powers, rooted in love, fullness of Divine."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Because of this I, Paul, the prisoner of Messiah Jesus on behalf of you, the nations—",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause I Paul, the prisoner of Jesus Christ for you Gentiles,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "migrant-dignity",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "if indeed you heard of the stewardship/administration of the grace of the Divine given to me for you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If ye have heard of the dispensation of the grace of God which is given me to you-ward:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "that according to unveiling the mystery was made known to me, just as I wrote before in brief,",
+      "familiar": {
+        "source": "KJV",
+        "text": "How that by revelation he made known unto me the mystery; (as I wrote afore in few words,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "by which, reading, you are able to perceive my insight in the mystery of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "which in other generations was not made known to the children of humans as now it has been unveiled to his holy apostles and prophets in Spirit:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which in other ages was not made known unto the sons of men, as it is now revealed unto his holy apostles and prophets by the Spirit;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "spirit",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "that the nations are co-heirs and co-body and co-sharers of the promise in Messiah Jesus through the good news,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "of which I became servant according to the gift of the grace of the Divine given to me according to the working of his power.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereof I was made a minister, according to the gift of the grace of God given unto me by the effectual working of his power."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "To me, the least of all holy ones, this grace was given: to announce to the nations the unsearchable riches of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto me, who am less than the least of all saints, is this grace given, that I should preach among the Gentiles the unsearchable riches of Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant",
+        "economic-justice"
+      ],
+      "editorial_flags": [
+        "migrant-dignity",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "and to illuminate all as to what is the stewardship/administration of the mystery hidden from the ages in the Divine who created all things,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to make all men see what is the fellowship of the mystery, which from the beginning of the world hath been hid in God, who created all things by Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "so that now, through the assembly, the many-sided wisdom of the Divine might be made known to the rulers and authorities in the heavenlies,",
+      "familiar": {
+        "source": "KJV",
+        "text": "To the intent that now unto the principalities and powers in heavenly places might be known by the church the manifold wisdom of God,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "according to the purpose of the ages which he made in Messiah Jesus our Lord,",
+      "familiar": {
+        "source": "KJV",
+        "text": "According to the eternal purpose which he purposed in Christ Jesus our Lord:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "in whom we have boldness and access in confidence through his trust/faithfulness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In whom we have boldness and access with confidence by the faith of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Therefore I ask you not to lose heart in my pressures on behalf of you, which is your glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I desire that ye faint not at my tribulations for you, which is your glory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Because of this I bend my knees toward the Father,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this cause I bow my knees unto the Father of our Lord Jesus Christ,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "from whom every family/fatherhood in heavens and upon earth is named,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of whom the whole family in heaven and earth is named,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "so that he may give you, according to the riches of his glory, to be strengthened with power through his Spirit in the inner human,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That he would grant you, according to the riches of his glory, to be strengthened with might by his Spirit in the inner man;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "economic-justice"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "for Messiah to dwell through trust in your hearts, having been rooted and founded in love,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That Christ may dwell in your hearts by faith; that ye, being rooted and grounded in love,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "so that you may be fully strong to comprehend with all the holy ones what is the breadth and length and height and depth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "May be able to comprehend with all saints what is the breadth, and length, and depth, and height;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "and to know the love of Messiah surpassing knowledge, so that you may be filled into all the fullness of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Now to the One able to do beyond all things, beyond measure of what we ask or perceive, according to the power working in us,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now unto him that is able to do exceeding abundantly above all that we ask or think, according to the power that worketh in us,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "to him be glory in the assembly and in Messiah Jesus into all generations of the age of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Syn- compounds in 3:6 are preserved as co-heirs, co-body, co-sharers to highlight radical shared belonging of nations in Messiah.",
+    "Many-sided wisdom in 3:10 preserves polypoikilos, the manifold/multicolored wisdom of the Divine made known through the assembly.",
+    "Fullness of Divine in 3:19 is the mystical high point of the prayer."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-14-of-21",
+    "tags": "partial-11-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

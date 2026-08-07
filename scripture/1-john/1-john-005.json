@@ -1,1 +1,414 @@
-{"book":"1 John","book_id":"1-john","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 John text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for trust/love/commands, overcoming, water/blood/Spirit witness, life in Son, confidence, sin leading/not leading to death, idols. Comma Johanneum variant flagged."},"verses":[{"verse":1,"restored":"Everyone trusting that Jesus is the Messiah has been born from the Divine, and everyone loving the One who begot loves the one begotten from him."},{"verse":2,"restored":"In this we know that we love the children of the Divine: whenever we love the Divine and do his commands."},{"verse":3,"restored":"For this is the love of the Divine, that we keep his commands; and his commands are not heavy."},{"verse":4,"restored":"Because everyone born from the Divine overcomes the world-system; and this is the victory that overcame the world-system: our trust."},{"verse":5,"restored":"And who is the one overcoming the world-system except the one trusting that Jesus is the Son of the Divine?"},{"verse":6,"restored":"This is the One coming through water and blood, Jesus Messiah; not in the water only, but in the water and in the blood. And the Spirit is the One testifying, because the Spirit is truth."},{"verse":7,"restored":"For there are three testifying:"},{"verse":8,"restored":"the Spirit and the water and the blood, and the three are into the one."},{"verse":9,"restored":"If we receive human witness, the witness of the Divine is greater, because this is the witness of the Divine, that he has testified concerning his Son."},{"verse":10,"restored":"The one trusting in the Son of the Divine has the witness in oneself; the one not trusting the Divine has made him liar, because one has not trusted in the witness that the Divine has testified concerning his Son."},{"verse":11,"restored":"And this is the witness: that the Divine gave us age-long life, and this life is in his Son."},{"verse":12,"restored":"The one having the Son has the life; the one not having the Son of the Divine does not have the life."},{"verse":13,"restored":"These things I wrote to you so that you may know that you have age-long life, to those trusting in the name of the Son of the Divine."},{"verse":14,"restored":"And this is the boldness that we have toward him: that if we ask anything according to his will, he hears us."},{"verse":15,"restored":"And if we know that he hears us, whatever we ask, we know that we have the requests that we have asked from him."},{"verse":16,"restored":"If anyone sees one's sibling sinning/misaligning a sin/misalignment not toward death, one will ask, and he will give life to that one, to those sinning/misaligning not toward death. There is sin/misalignment toward death; concerning that I do not say that one should ask."},{"verse":17,"restored":"Every injustice/unrighteousness is sin/misalignment, and there is sin/misalignment not toward death."},{"verse":18,"restored":"We know that everyone born from the Divine does not keep sinning/misaligning, but the One born from the Divine keeps that one, and the harmful one does not touch that one."},{"verse":19,"restored":"We know that we are from the Divine, and the whole world-system lies in the harmful one."},{"verse":20,"restored":"And we know that the Son of the Divine has come and has given us understanding, so that we may know the True One; and we are in the True One, in his Son Jesus Messiah. This is the true Divine and age-long life."},{"verse":21,"restored":"Little children, guard yourselves from idols."}],"translation_notes":["The later Comma Johanneum is not included in the restored text; verses 7-8 follow the shorter Greek witness: Spirit, water, blood.","Commands are not heavy because they are love-shaped, not domination-shaped.","Sin toward death is left deliberately cautious and not overdefined." ]}
+{
+  "book": "1 John",
+  "book_id": "1-john",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 John text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for trust/love/commands, overcoming, water/blood/Spirit witness, life in Son, confidence, sin leading/not leading to death, idols. Comma Johanneum variant flagged."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Everyone trusting that Jesus is the Messiah has been born from the Divine, and everyone loving the One who begot loves the one begotten from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever believeth that Jesus is the Christ is born of God: and every one that loveth him that begat loveth him also that is begotten of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "In this we know that we love the children of the Divine: whenever we love the Divine and do his commands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "By this we know that we love the children of God, when we love God, and keep his commandments."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For this is the love of the Divine, that we keep his commands; and his commands are not heavy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this is the love of God, that we keep his commandments: and his commandments are not grievous."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Because everyone born from the Divine overcomes the world-system; and this is the victory that overcame the world-system: our trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And who is the one overcoming the world-system except the one trusting that Jesus is the Son of the Divine?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "This is the One coming through water and blood, Jesus Messiah; not in the water only, but in the water and in the blood. And the Spirit is the One testifying, because the Spirit is truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is he that came by water and blood, even Jesus Christ; not by water only, but by water and blood. And it is the Spirit that beareth witness, because the Spirit is truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For there are three testifying:",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "the Spirit and the water and the blood, and the three are into the one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "If we receive human witness, the witness of the Divine is greater, because this is the witness of the Divine, that he has testified concerning his Son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The one trusting in the Son of the Divine has the witness in oneself; the one not trusting the Divine has made him liar, because one has not trusted in the witness that the Divine has testified concerning his Son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And this is the witness: that the Divine gave us age-long life, and this life is in his Son.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the record, that God hath given to us eternal life, and this life is in his Son."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "The one having the Son has the life; the one not having the Son of the Divine does not have the life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that hath the Son hath life; and he that hath not the Son of God hath not life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "These things I wrote to you so that you may know that you have age-long life, to those trusting in the name of the Son of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And this is the boldness that we have toward him: that if we ask anything according to his will, he hears us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And if we know that he hears us, whatever we ask, we know that we have the requests that we have asked from him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if we know that he hear us, whatsoever we ask, we know that we have the petitions that we desired of him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "If anyone sees one's sibling sinning/misaligning a sin/misalignment not toward death, one will ask, and he will give life to that one, to those sinning/misaligning not toward death. There is sin/misalignment toward death; concerning that I do not say that one should ask.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If any man see his brother sin a sin which is not unto death, he shall ask, and he shall give him life for them that sin not unto death. There is a sin unto death: I do not say that he shall pray for it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Every injustice/unrighteousness is sin/misalignment, and there is sin/misalignment not toward death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All unrighteousness is sin: and there is a sin not unto death."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "We know that everyone born from the Divine does not keep sinning/misaligning, but the One born from the Divine keeps that one, and the harmful one does not touch that one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We know that whosoever is born of God sinneth not; but he that is begotten of God keepeth himself, and that wicked one toucheth him not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "We know that we are from the Divine, and the whole world-system lies in the harmful one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we know that we are of God, and the whole world lieth in wickedness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "And we know that the Son of the Divine has come and has given us understanding, so that we may know the True One; and we are in the True One, in his Son Jesus Messiah. This is the true Divine and age-long life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Little children, guard yourselves from idols.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Little children, keep yourselves from idols. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The later Comma Johanneum is not included in the restored text; verses 7-8 follow the shorter Greek witness: Spirit, water, blood.",
+    "Commands are not heavy because they are love-shaped, not domination-shaped.",
+    "Sin toward death is left deliberately cautious and not overdefined."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-21",
+    "tags": "partial-16-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

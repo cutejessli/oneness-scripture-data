@@ -1,1 +1,281 @@
-{"book":"James","book_id":"james","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek James text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for teachers, tongue, blessing/cursing, wisdom from above, peace-making."},"verses":[{"verse":1,"restored":"Let not many become teachers, my siblings, knowing that we will receive greater judgment."},{"verse":2,"restored":"For we all stumble in many ways. If anyone does not stumble in word, this one is a complete human, able also to bridle the whole body."},{"verse":3,"restored":"If we put bits into horses' mouths so they obey us, we also turn about their whole body."},{"verse":4,"restored":"Look also at ships, being so great and driven by hard winds, yet turned by a very small rudder wherever the impulse of the pilot wills."},{"verse":5,"restored":"So also the tongue is a small member and boasts great things. Look how small a fire kindles how large a forest."},{"verse":6,"restored":"And the tongue is fire, the world of injustice among our members; it stains the whole body and sets the wheel of birth aflame, being itself set aflame by Gehenna."},{"verse":7,"restored":"For every nature of beasts and birds, reptiles and sea creatures, is tamed and has been tamed by human nature,"},{"verse":8,"restored":"but the tongue no human is able to tame, a restless harmful thing, full of death-bringing poison."},{"verse":9,"restored":"With it we bless the Lord and Father, and with it we curse humans who have come to be according to likeness of Divine."},{"verse":10,"restored":"From the same mouth comes blessing and curse. My siblings, these things must not be so."},{"verse":11,"restored":"Does a spring pour forth from the same opening the sweet and the bitter?"},{"verse":12,"restored":"Can a fig tree, my siblings, make olives, or a vine figs? Neither can salt water make sweet."},{"verse":13,"restored":"Who is wise and understanding among you? Let one show by beautiful conduct one's works in gentleness of wisdom."},{"verse":14,"restored":"But if you have bitter jealousy and selfish ambition in your heart, do not boast and lie against the truth."},{"verse":15,"restored":"This wisdom is not coming down from above, but earthly, soul-level, disruptive."},{"verse":16,"restored":"For where jealousy and selfish ambition are, there is disorder and every harmful practice."},{"verse":17,"restored":"But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and beautiful/good fruits, impartial, unhypocritical."},{"verse":18,"restored":"And fruit of righteousness/justice is sown in peace by those making peace."}],"translation_notes":["Speech ethics are central: humans bear Divine likeness and must not be cursed.","Wisdom from above is measurable by peace, gentleness, mercy, impartiality, and good fruit.","Gehenna is retained as Jewish apocalyptic image rather than flattened into later hell systems." ]}
+{
+  "book": "James",
+  "book_id": "james",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek James text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for teachers, tongue, blessing/cursing, wisdom from above, peace-making."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Let not many become teachers, my siblings, knowing that we will receive greater judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My brethren, be not many masters, knowing that we shall receive the greater condemnation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For we all stumble in many ways. If anyone does not stumble in word, this one is a complete human, able also to bridle the whole body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in many things we offend all. If any man offend not in word, the same is a perfect man, and able also to bridle the whole body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "If we put bits into horses' mouths so they obey us, we also turn about their whole body.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, we put bits in the horses’ mouths, that they may obey us; and we turn about their whole body."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Look also at ships, being so great and driven by hard winds, yet turned by a very small rudder wherever the impulse of the pilot wills.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "So also the tongue is a small member and boasts great things. Look how small a fire kindles how large a forest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so the tongue is a little member, and boasteth great things. Behold, how great a matter a little fire kindleth!"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And the tongue is fire, the world of injustice among our members; it stains the whole body and sets the wheel of birth aflame, being itself set aflame by Gehenna.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the tongue is a fire, a world of iniquity: so is the tongue among our members, that it defileth the whole body, and setteth on fire the course of nature; and it is set on fire of hell."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For every nature of beasts and birds, reptiles and sea creatures, is tamed and has been tamed by human nature,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "but the tongue no human is able to tame, a restless harmful thing, full of death-bringing poison.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the tongue can no man tame; it is an unruly evil, full of deadly poison."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage",
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "With it we bless the Lord and Father, and with it we curse humans who have come to be according to likeness of Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therewith bless we God, even the Father; and therewith curse we men, which are made after the similitude of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "From the same mouth comes blessing and curse. My siblings, these things must not be so.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Out of the same mouth proceedeth blessing and cursing. My brethren, these things ought not so to be."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Does a spring pour forth from the same opening the sweet and the bitter?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Doth a fountain send forth at the same place sweet water and bitter?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Can a fig tree, my siblings, make olives, or a vine figs? Neither can salt water make sweet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Can the fig tree, my brethren, bear olive berries? either a vine, figs? so can no fountain both yield salt water and fresh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Who is wise and understanding among you? Let one show by beautiful conduct one's works in gentleness of wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is a wise man and endued with knowledge among you? let him shew out of a good conversation his works with meekness of wisdom."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But if you have bitter jealousy and selfish ambition in your heart, do not boast and lie against the truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if ye have bitter envying and strife in your hearts, glory not, and lie not against the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "This wisdom is not coming down from above, but earthly, soul-level, disruptive.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This wisdom descendeth not from above, but is earthly, sensual, devilish."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For where jealousy and selfish ambition are, there is disorder and every harmful practice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For where envying and strife is, there is confusion and every evil work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But the wisdom from above is first pure, then peaceable, gentle, open to reason, full of mercy and beautiful/good fruits, impartial, unhypocritical.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the wisdom that is from above is first pure, then peaceable, gentle, and easy to be intreated, full of mercy and good fruits, without partiality, and without hypocrisy."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And fruit of righteousness/justice is sown in peace by those making peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fruit of righteousness is sown in peace of them that make peace."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Speech ethics are central: humans bear Divine likeness and must not be cursed.",
+    "Wisdom from above is measurable by peace, gentleness, mercy, impartiality, and good fruit.",
+    "Gehenna is retained as Jewish apocalyptic image rather than flattened into later hell systems."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "partial-4-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-1-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

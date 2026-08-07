@@ -1,36 +1,569 @@
 {
-  "book":"Genesis","book_id":"genesis","chapter":38,
-  "audit_status":{"status":"source-audited-draft","source_base":"Masoretic Hebrew tradition","review_note":"Reviewed for Judah's descent, Tamar, levirate duty, pledge/recognition motif, Judah's confession, and Perez/Zerah birth. Sensitive material is rendered restrainedly for app use."},
-  "verses":[
-    {"verse":1,"restored":"At that time Judah went down from his brothers and turned aside to a man of Adullam named Hirah.","tags":["judah","adullam"]},
-    {"verse":2,"restored":"Judah saw there the daughter of a Canaanite man named Shua; he took her and came to her.","tags":["judah","canaan"]},
-    {"verse":3,"restored":"She conceived and bore a son, and he called his name Er.","tags":["er","birth"]},
-    {"verse":4,"restored":"She conceived again and bore a son, and she called his name Onan.","tags":["onan","birth"]},
-    {"verse":5,"restored":"She bore still another son and called his name Shelah; Judah was at Chezib when she bore him.","tags":["shelah","birth"]},
-    {"verse":6,"restored":"Judah took a woman for Er his firstborn, and her name was Tamar.","tags":["tamar","er"]},
-    {"verse":7,"restored":"Er, Judah’s firstborn, was evil in the eyes of the Eternal, and the Eternal put him to death.","tags":["er","judgment"]},
-    {"verse":8,"restored":"Judah said to Onan, Go to your brother’s woman and perform the brother-in-law duty, and raise up seed for your brother.","tags":["onan","levirate","seed"]},
-    {"verse":9,"restored":"Onan knew the seed would not be his, so when he went to his brother’s woman he wasted it, so as not to give seed to his brother.","tags":["onan","seed"]},
-    {"verse":10,"restored":"What he did was evil in the eyes of the Eternal, and he put him to death also.","tags":["onan","judgment"]},
-    {"verse":11,"restored":"Judah said to Tamar his daughter-in-law, Remain a widow in your father’s house until Shelah my son grows up, for he said, Lest he also die like his brothers. So Tamar went and dwelled in her father’s house.","tags":["tamar","widow","shelah"]},
-    {"verse":12,"restored":"Many days passed, and the daughter of Shua, Judah’s woman, died. After Judah was comforted, he went up to his sheep shearers at Timnah, he and Hirah his Adullamite friend.","tags":["judah","timnah"]},
-    {"verse":13,"restored":"Tamar was told, Look, your father-in-law is going up to Timnah to shear his sheep.","tags":["tamar","timnah"]},
-    {"verse":14,"restored":"She removed her widow’s garments, covered herself with a veil, wrapped herself, and sat at the entrance of Enaim, which is on the road to Timnah, because she saw that Shelah had grown and she had not been given to him as a woman.","tags":["tamar","shelah","veil"]},
-    {"verse":15,"restored":"Judah saw her and thought she was a prostitute, because she had covered her face.","tags":["judah","tamar"]},
-    {"verse":16,"restored":"He turned aside to her by the road and said, Please let me come to you, for he did not know she was his daughter-in-law. She said, What will you give me, that you may come to me?","tags":["judah","tamar","recognition"]},
-    {"verse":17,"restored":"He said, I will send a young goat from the flock. She said, Will you give a pledge until you send it?","tags":["pledge","goat"]},
-    {"verse":18,"restored":"He said, What pledge shall I give you? She said, Your seal, your cord, and your staff that is in your hand. He gave them to her and came to her, and she conceived by him.","tags":["pledge","tamar","judah"]},
-    {"verse":19,"restored":"She rose and went away, removed her veil from upon her, and put on her widow’s garments.","tags":["tamar","widow"]},
-    {"verse":20,"restored":"Judah sent the young goat by the hand of his Adullamite friend to take the pledge from the woman’s hand, but he did not find her.","tags":["judah","pledge"]},
-    {"verse":21,"restored":"He asked the men of her place, Where is the shrine-woman who was at Enaim by the road? They said, No shrine-woman has been here.","tags":["enquiry","enayim"]},
-    {"verse":22,"restored":"He returned to Judah and said, I did not find her; also the men of the place said, No shrine-woman has been here.","tags":["hirah","judah"]},
-    {"verse":23,"restored":"Judah said, Let her keep them, lest we become contemptible. Look, I sent this young goat, but you did not find her.","tags":["judah","pledge"]},
-    {"verse":24,"restored":"About three months later Judah was told, Tamar your daughter-in-law has played the prostitute, and also look, she is pregnant. Judah said, Bring her out, and let her be burned.","tags":["tamar","judah","judgment"]},
-    {"verse":25,"restored":"As she was being brought out, she sent to her father-in-law, saying, By the man to whom these belong, I am pregnant. She said, Recognize, please, whose seal, cords, and staff these are.","tags":["recognition","tamar","pledge"]},
-    {"verse":26,"restored":"Judah recognized them and said, She is more righteous than I, because I did not give her to Shelah my son. And he did not know her again.","tags":["judah","tamar","righteousness"]},
-    {"verse":27,"restored":"When the time came for her to give birth, look, twins were in her womb.","tags":["twins","birth"]},
-    {"verse":28,"restored":"As she was giving birth, one put out a hand, and the midwife tied a scarlet thread on his hand, saying, This one came out first.","tags":["birth","scarlet"]},
-    {"verse":29,"restored":"But as he drew back his hand, look, his brother came out. She said, What a breach you have made for yourself! So his name was called Perez.","tags":["perez","breach"]},
-    {"verse":30,"restored":"Afterward his brother came out, who had the scarlet thread on his hand, and his name was called Zerah.","tags":["zerah","birth"]}
-  ]
+  "book": "Genesis",
+  "book_id": "genesis",
+  "chapter": 38,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Masoretic Hebrew tradition",
+    "review_note": "Reviewed for Judah's descent, Tamar, levirate duty, pledge/recognition motif, Judah's confession, and Perez/Zerah birth. Sensitive material is rendered restrainedly for app use."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "At that time Judah went down from his brothers and turned aside to a man of Adullam named Hirah.",
+      "tags": [
+        "judah",
+        "adullam"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass at that time, that Judah went down from his brethren, and turned in to a certain Adullamite, whose name was Hirah."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Judah saw there the daughter of a Canaanite man named Shua; he took her and came to her.",
+      "tags": [
+        "judah",
+        "canaan",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah saw there a daughter of a certain Canaanite, whose name was Shuah; and he took her, and went in unto her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "She conceived and bore a son, and he called his name Er.",
+      "tags": [
+        "er",
+        "birth",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she conceived, and bare a son; and he called his name Er."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "She conceived again and bore a son, and she called his name Onan.",
+      "tags": [
+        "onan",
+        "birth",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she conceived again, and bare a son; and she called his name Onan."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "She bore still another son and called his name Shelah; Judah was at Chezib when she bore him.",
+      "tags": [
+        "shelah",
+        "birth",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she yet again conceived, and bare a son; and called his name Shelah: and he was at Chezib, when she bare him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Judah took a woman for Er his firstborn, and her name was Tamar.",
+      "tags": [
+        "tamar",
+        "er",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah took a wife for Er his firstborn, whose name was Tamar."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Er, Judah’s firstborn, was evil in the eyes of the Eternal, and the Eternal put him to death.",
+      "tags": [
+        "er",
+        "judgment",
+        "violence-death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Er, Judah’s firstborn, was wicked in the sight of the LORD; and the LORD slew him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Judah said to Onan, Go to your brother’s woman and perform the brother-in-law duty, and raise up seed for your brother.",
+      "tags": [
+        "onan",
+        "levirate",
+        "seed",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah said unto Onan, Go in unto thy brother’s wife, and marry her, and raise up seed to thy brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Onan knew the seed would not be his, so when he went to his brother’s woman he wasted it, so as not to give seed to his brother.",
+      "tags": [
+        "onan",
+        "seed",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Onan knew that the seed should not be his; and it came to pass, when he went in unto his brother’s wife, that he spilled it on the ground, lest that he should give seed to his brother."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "What he did was evil in the eyes of the Eternal, and he put him to death also.",
+      "tags": [
+        "onan",
+        "judgment",
+        "violence-death"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And the thing which he did displeased the LORD: wherefore he slew him also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Judah said to Tamar his daughter-in-law, Remain a widow in your father’s house until Shelah my son grows up, for he said, Lest he also die like his brothers. So Tamar went and dwelled in her father’s house.",
+      "tags": [
+        "tamar",
+        "widow",
+        "shelah",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said Judah to Tamar his daughter in law, Remain a widow at thy father’s house, till Shelah my son be grown: for he said, Lest peradventure he die also, as his brethren did. And Tamar went and dwelt in her father’s house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Many days passed, and the daughter of Shua, Judah’s woman, died. After Judah was comforted, he went up to his sheep shearers at Timnah, he and Hirah his Adullamite friend.",
+      "tags": [
+        "judah",
+        "timnah",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And in process of time the daughter of Shuah Judah’s wife died; and Judah was comforted, and went up unto his sheepshearers to Timnath, he and his friend Hirah the Adullamite."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Tamar was told, Look, your father-in-law is going up to Timnah to shear his sheep.",
+      "tags": [
+        "tamar",
+        "timnah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it was told Tamar, saying, Behold thy father in law goeth up to Timnath to shear his sheep."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "She removed her widow’s garments, covered herself with a veil, wrapped herself, and sat at the entrance of Enaim, which is on the road to Timnah, because she saw that Shelah had grown and she had not been given to him as a woman.",
+      "tags": [
+        "tamar",
+        "shelah",
+        "veil",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she put her widow’s garments off from her, and covered her with a vail, and wrapped herself, and sat in an open place, which is by the way to Timnath; for she saw that Shelah was grown, and she was not given unto him to wife."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Judah saw her and thought she was a prostitute, because she had covered her face.",
+      "tags": [
+        "judah",
+        "tamar"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When Judah saw her, he thought her to be an harlot; because she had covered her face."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He turned aside to her by the road and said, Please let me come to you, for he did not know she was his daughter-in-law. She said, What will you give me, that you may come to me?",
+      "tags": [
+        "judah",
+        "tamar",
+        "recognition",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he turned unto her by the way, and said, Go to, I pray thee, let me come in unto thee; (for he knew not that she was his daughter in law.) And she said, What wilt thou give me, that thou mayest come in unto me?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He said, I will send a young goat from the flock. She said, Will you give a pledge until you send it?",
+      "tags": [
+        "pledge",
+        "goat"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, I will send thee a kid from the flock. And she said, Wilt thou give me a pledge, till thou send it?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He said, What pledge shall I give you? She said, Your seal, your cord, and your staff that is in your hand. He gave them to her and came to her, and she conceived by him.",
+      "tags": [
+        "pledge",
+        "tamar",
+        "judah"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, What pledge shall I give thee? And she said, Thy signet, and thy bracelets, and thy staff that is in thine hand. And he gave it her, and came in unto her, and she conceived by him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "She rose and went away, removed her veil from upon her, and put on her widow’s garments.",
+      "tags": [
+        "tamar",
+        "widow",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And she arose, and went away, and laid by her vail from her, and put on the garments of her widowhood."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Judah sent the young goat by the hand of his Adullamite friend to take the pledge from the woman’s hand, but he did not find her.",
+      "tags": [
+        "judah",
+        "pledge",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah sent the kid by the hand of his friend the Adullamite, to receive his pledge from the woman’s hand: but he found her not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "He asked the men of her place, Where is the shrine-woman who was at Enaim by the road? They said, No shrine-woman has been here.",
+      "tags": [
+        "enquiry",
+        "enayim",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "He returned to Judah and said, I did not find her; also the men of the place said, No shrine-woman has been here.",
+      "tags": [
+        "hirah",
+        "judah",
+        "women-gender"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Judah said, Let her keep them, lest we become contemptible. Look, I sent this young goat, but you did not find her.",
+      "tags": [
+        "judah",
+        "pledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah said, Let her take it to her, lest we be shamed: behold, I sent this kid, and thou hast not found her."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "About three months later Judah was told, Tamar your daughter-in-law has played the prostitute, and also look, she is pregnant. Judah said, Bring her out, and let her be burned.",
+      "tags": [
+        "tamar",
+        "judah",
+        "judgment",
+        "women-gender",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass about three months after, that it was told Judah, saying, Tamar thy daughter in law hath played the harlot; and also, behold, she is with child by whoredom. And Judah said, Bring her forth, and let her be burnt."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "As she was being brought out, she sent to her father-in-law, saying, By the man to whom these belong, I am pregnant. She said, Recognize, please, whose seal, cords, and staff these are.",
+      "tags": [
+        "recognition",
+        "tamar",
+        "pledge"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "When she was brought forth, she sent to her father in law, saying, By the man, whose these are, am I with child: and she said, Discern, I pray thee, whose are these, the signet, and bracelets, and staff."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Judah recognized them and said, She is more righteous than I, because I did not give her to Shelah my son. And he did not know her again.",
+      "tags": [
+        "judah",
+        "tamar",
+        "righteousness",
+        "family-lineage"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah acknowledged them, and said, She hath been more righteous than I; because that I gave her not to Shelah my son. And he knew her again no more."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "When the time came for her to give birth, look, twins were in her womb.",
+      "tags": [
+        "twins",
+        "birth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the time of her travail, that, behold, twins were in her womb."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "As she was giving birth, one put out a hand, and the midwife tied a scarlet thread on his hand, saying, This one came out first.",
+      "tags": [
+        "birth",
+        "scarlet"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when she travailed, that the one put out his hand: and the midwife took and bound upon his hand a scarlet thread, saying, This came out first."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "But as he drew back his hand, look, his brother came out. She said, What a breach you have made for yourself! So his name was called Perez.",
+      "tags": [
+        "perez",
+        "breach"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as he drew back his hand, that, behold, his brother came out: and she said, How hast thou broken forth? this breach be upon thee: therefore his name was called Pharez."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Afterward his brother came out, who had the scarlet thread on his hand, and his name was called Zerah.",
+      "tags": [
+        "zerah",
+        "birth"
+      ],
+      "familiar": {
+        "source": "KJV",
+        "text": "And afterward came out his brother, that had the scarlet thread upon his hand: and his name was called Zarah."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "editorial_flags": []
+    }
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "pending-deep-backfill",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Hebrew",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
 }

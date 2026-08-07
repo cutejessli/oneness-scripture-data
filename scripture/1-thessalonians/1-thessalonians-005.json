@@ -1,1 +1,504 @@
-{"book":"1 Thessalonians","book_id":"1-thessalonians","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for day of Lord, sober watchfulness, armor as faith/love/hope, community practices, testing prophecy, whole sanctification, final grace."},"verses":[{"verse":1,"restored":"Now concerning the times and the seasons, siblings, you have no need to be written to."},{"verse":2,"restored":"For you yourselves know accurately that the day of the Lord comes unexpectedly, like a visitor in night."},{"verse":3,"restored":"When people say, Peace and security, then sudden reckoning comes upon them, like birth-pain, and it cannot simply be avoided."},{"verse":4,"restored":"But you, siblings, are not in darkness, so that the day should overtake you unexpectedly."},{"verse":5,"restored":"For you all are children of light and children of day; we are not of night nor of darkness."},{"verse":6,"restored":"So then let us not sleep as the rest do, but let us keep awake and be sober."},{"verse":7,"restored":"For those sleeping sleep at night, and those becoming intoxicated are intoxicated at night."},{"verse":8,"restored":"But we, being of day, let us be sober, having put on breastplate of trust and love, and helmet of hope of salvation/healing."},{"verse":9,"restored":"Because the Divine did not appoint us for condemnation, but for obtaining salvation/healing through our Lord Jesus Messiah,"},{"verse":10,"restored":"who died for us, so that whether we are awake or asleep, we may live together with him."},{"verse":11,"restored":"Therefore comfort/encourage one another and build up one another, just as also you are doing."},{"verse":12,"restored":"But we ask you, siblings, to know those laboring among you and standing before you in the Lord and admonishing you,"},{"verse":13,"restored":"and to esteem them beyond measure in love because of their work. Be at peace among yourselves."},{"verse":14,"restored":"And we appeal to you, siblings: admonish the disorderly, encourage the fainthearted, hold close the weak, be patient toward all."},{"verse":15,"restored":"See that no one repays harmfulness for harmfulness to anyone, but always pursue the good toward one another and toward all."},{"verse":16,"restored":"Rejoice always."},{"verse":17,"restored":"Pray without ceasing."},{"verse":18,"restored":"In everything give thanks, for this is the will of the Divine in Messiah Jesus for you."},{"verse":19,"restored":"Do not quench the Spirit."},{"verse":20,"restored":"Do not despise prophecies,"},{"verse":21,"restored":"but test all things; hold fast the beautiful/good."},{"verse":22,"restored":"Hold away from every form of harmfulness."},{"verse":23,"restored":"Now may the Divine of peace himself sanctify you wholly, and may your whole spirit and soul/life and body be kept blameless at the presence/arrival of our Lord Jesus Messiah."},{"verse":24,"restored":"Trustworthy is the One calling you, who also will do it."},{"verse":25,"restored":"Siblings, pray also for us."},{"verse":26,"restored":"Greet all the siblings with a holy kiss."},{"verse":27,"restored":"I adjure you by the Lord that the letter be read to all the siblings."},{"verse":28,"restored":"The grace of our Lord Jesus Messiah be with you."}],"translation_notes":["Armor imagery is sober resilience: breastplate of trust/love and helmet of hope, not aggression toward people.","Spirit, soul/life, and body in 5:23 protects whole-person sanctification rather than body rejection.","Community instructions are practical peace practices: encourage, hold close, be patient, pursue good, test prophecy, do not quench Spirit." ]}
+{
+  "book": "1 Thessalonians",
+  "book_id": "1-thessalonians",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Thessalonians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for day of Lord, sober watchfulness, armor as faith/love/hope, community practices, testing prophecy, whole sanctification, final grace."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now concerning the times and the seasons, siblings, you have no need to be written to.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But of the times and the seasons, brethren, ye have no need that I write unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For you yourselves know accurately that the day of the Lord comes unexpectedly, like a visitor in night.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For yourselves know perfectly that the day of the Lord so cometh as a thief in the night."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "When people say, Peace and security, then sudden reckoning comes upon them, like birth-pain, and it cannot simply be avoided.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "But you, siblings, are not in darkness, so that the day should overtake you unexpectedly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye, brethren, are not in darkness, that that day should overtake you as a thief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For you all are children of light and children of day; we are not of night nor of darkness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "So then let us not sleep as the rest do, but let us keep awake and be sober.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore let us not sleep, as do others; but let us watch and be sober."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For those sleeping sleep at night, and those becoming intoxicated are intoxicated at night.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they that sleep sleep in the night; and they that be drunken are drunken in the night."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But we, being of day, let us be sober, having put on breastplate of trust and love, and helmet of hope of salvation/healing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let us, who are of the day, be sober, putting on the breastplate of faith and love; and for an helmet, the hope of salvation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Because the Divine did not appoint us for condemnation, but for obtaining salvation/healing through our Lord Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For God hath not appointed us to wrath, but to obtain salvation by our Lord Jesus Christ,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "who died for us, so that whether we are awake or asleep, we may live together with him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who died for us, that, whether we wake or sleep, we should live together with him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Therefore comfort/encourage one another and build up one another, just as also you are doing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore comfort yourselves together, and edify one another, even as also ye do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But we ask you, siblings, to know those laboring among you and standing before you in the Lord and admonishing you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we beseech you, brethren, to know them which labour among you, and are over you in the Lord, and admonish you;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "and to esteem them beyond measure in love because of their work. Be at peace among yourselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to esteem them very highly in love for their work’s sake. And be at peace among yourselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And we appeal to you, siblings: admonish the disorderly, encourage the fainthearted, hold close the weak, be patient toward all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now we exhort you, brethren, warn them that are unruly, comfort the feebleminded, support the weak, be patient toward all men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "See that no one repays harmfulness for harmfulness to anyone, but always pursue the good toward one another and toward all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "See that none render evil for evil unto any man; but ever follow that which is good, both among yourselves, and to all men."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Rejoice always.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Rejoice evermore."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Pray without ceasing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Pray without ceasing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "In everything give thanks, for this is the will of the Divine in Messiah Jesus for you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In every thing give thanks: for this is the will of God in Christ Jesus concerning you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Do not quench the Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Quench not the Spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Do not despise prophecies,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Despise not prophesyings."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "but test all things; hold fast the beautiful/good.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Prove all things; hold fast that which is good."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Hold away from every form of harmfulness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Abstain from all appearance of evil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Now may the Divine of peace himself sanctify you wholly, and may your whole spirit and soul/life and body be kept blameless at the presence/arrival of our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the very God of peace sanctify you wholly; and I pray God your whole spirit and soul and body be preserved blameless unto the coming of our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Trustworthy is the One calling you, who also will do it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Faithful is he that calleth you, who also will do it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Siblings, pray also for us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Brethren, pray for us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Greet all the siblings with a holy kiss.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Greet all the brethren with an holy kiss."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "I adjure you by the Lord that the letter be read to all the siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I charge you by the Lord that this epistle be read unto all the holy brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The grace of our Lord Jesus Messiah be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The grace of our Lord Jesus Christ be with you. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Armor imagery is sober resilience: breastplate of trust/love and helmet of hope, not aggression toward people.",
+    "Spirit, soul/life, and body in 5:23 protects whole-person sanctification rather than body rejection.",
+    "Community instructions are practical peace practices: encourage, hold close, be patient, pursue good, test prophecy, do not quench Spirit."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-28",
+    "tags": "partial-8-of-28",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-28",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

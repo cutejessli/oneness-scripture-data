@@ -1,1 +1,425 @@
-{"book":"Philippians","book_id":"philippians","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek Philippians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for rejoicing, peace beyond mind, worthy thought, contentment, partnership/gift, final greetings."},"verses":[{"verse":1,"restored":"So then, my beloved and longed-for siblings, my joy and crown, stand firm thus in the Lord, beloved."},{"verse":2,"restored":"I appeal to Euodia and I appeal to Syntyche to think the same in the Lord."},{"verse":3,"restored":"Yes, I ask you also, true yokefellow, help these women, who struggled together with me in the good news, with Clement also and the rest of my coworkers, whose names are in book of life."},{"verse":4,"restored":"Rejoice in the Lord always; again I will say, rejoice."},{"verse":5,"restored":"Let your gentleness/reasonableness be known to all humans. The Lord is near."},{"verse":6,"restored":"Be anxious about nothing, but in everything by prayer and petition with thanksgiving let your requests be made known to the Divine."},{"verse":7,"restored":"And the peace of the Divine, surpassing every mind, will guard your hearts and your thoughts in Messiah Jesus."},{"verse":8,"restored":"Finally, siblings, whatever is true, whatever honorable, whatever righteous/just, whatever pure, whatever lovely, whatever well-spoken, if any excellence and if any praise, calculate these things."},{"verse":9,"restored":"What you also learned and received and heard and saw in me, practice these things; and the Divine of peace will be with you."},{"verse":10,"restored":"But I rejoiced in the Lord greatly that now at last you revived thinking on my behalf; indeed you were thinking, but lacked opportunity."},{"verse":11,"restored":"Not that I speak according to lack, for I learned to be self-sufficient/content in whatever I am."},{"verse":12,"restored":"I know how to be humbled, and I know how to abound; in each and every thing I have been initiated, both to be filled and to hunger, both to abound and to lack."},{"verse":13,"restored":"I have strength for all things in the One empowering me."},{"verse":14,"restored":"Nevertheless, you did beautifully/well sharing together with my pressure."},{"verse":15,"restored":"And you Philippians also know that in the beginning of the good news, when I went out from Macedonia, no assembly partnered with me in account of giving and receiving except you only,"},{"verse":16,"restored":"because even in Thessalonica, more than once you sent into my need."},{"verse":17,"restored":"Not that I seek the gift, but I seek the fruit increasing into your account."},{"verse":18,"restored":"But I have received all and abound; I have been filled, having received from Epaphroditus the things from you, a fragrant aroma, acceptable sacrifice, pleasing to the Divine."},{"verse":19,"restored":"And my Divine will fill every need of yours according to his riches in glory in Messiah Jesus."},{"verse":20,"restored":"Now to our Divine and Father be glory into the ages of the ages. Amen."},{"verse":21,"restored":"Greet every holy one in Messiah Jesus. The siblings with me greet you."},{"verse":22,"restored":"All the holy ones greet you, especially those from Caesar's household."},{"verse":23,"restored":"The grace of the Lord Jesus Messiah be with your spirit."}],"translation_notes":["Philippians 4:13 is contentment-under-conditions language, not triumphalist success formula.","Euodia and Syntyche are honored as women who struggled together with Paul in the good news; the appeal is reconciliation, not diminishment." ]}
+{
+  "book": "Philippians",
+  "book_id": "philippians",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Philippians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for rejoicing, peace beyond mind, worthy thought, contentment, partnership/gift, final greetings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "So then, my beloved and longed-for siblings, my joy and crown, stand firm thus in the Lord, beloved.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore, my brethren dearly beloved and longed for, my joy and crown, so stand fast in the Lord, my dearly beloved."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "I appeal to Euodia and I appeal to Syntyche to think the same in the Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I beseech Euodias, and beseech Syntyche, that they be of the same mind in the Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Yes, I ask you also, true yokefellow, help these women, who struggled together with me in the good news, with Clement also and the rest of my coworkers, whose names are in book of life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I intreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Rejoice in the Lord always; again I will say, rejoice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Rejoice in the Lord alway: and again I say, Rejoice."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let your gentleness/reasonableness be known to all humans. The Lord is near.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let your moderation be known unto all men. The Lord is at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Be anxious about nothing, but in everything by prayer and petition with thanksgiving let your requests be made known to the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "And the peace of the Divine, surpassing every mind, will guard your hearts and your thoughts in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Finally, siblings, whatever is true, whatever honorable, whatever righteous/just, whatever pure, whatever lovely, whatever well-spoken, if any excellence and if any praise, calculate these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "What you also learned and received and heard and saw in me, practice these things; and the Divine of peace will be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "But I rejoiced in the Lord greatly that now at last you revived thinking on my behalf; indeed you were thinking, but lacked opportunity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Not that I speak according to lack, for I learned to be self-sufficient/content in whatever I am.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I know how to be humbled, and I know how to abound; in each and every thing I have been initiated, both to be filled and to hunger, both to abound and to lack.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I know both how to be abased, and I know how to abound: every where and in all things I am instructed both to be full and to be hungry, both to abound and to suffer need."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I have strength for all things in the One empowering me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I can do all things through Christ which strengtheneth me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Nevertheless, you did beautifully/well sharing together with my pressure.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding ye have well done, that ye did communicate with my affliction."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And you Philippians also know that in the beginning of the good news, when I went out from Macedonia, no assembly partnered with me in account of giving and receiving except you only,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        },
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "because even in Thessalonica, more than once you sent into my need.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For even in Thessalonica ye sent once and again unto my necessity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Not that I seek the gift, but I seek the fruit increasing into your account.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not because I desire a gift: but I desire fruit that may abound to your account."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "But I have received all and abound; I have been filled, having received from Epaphroditus the things from you, a fragrant aroma, acceptable sacrifice, pleasing to the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have all, and abound: I am full, having received of Epaphroditus the things which were sent from you, an odour of a sweet smell, a sacrifice acceptable, wellpleasing to God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And my Divine will fill every need of yours according to his riches in glory in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "economic-justice"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Now to our Divine and Father be glory into the ages of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now unto God and our Father be glory for ever and ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Greet every holy one in Messiah Jesus. The siblings with me greet you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute every saint in Christ Jesus. The brethren which are with me greet you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "All the holy ones greet you, especially those from Caesar's household.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the saints salute you, chiefly they that are of Caesar’s household."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "The grace of the Lord Jesus Messiah be with your spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The grace of our Lord Jesus Christ be with you all. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Philippians 4:13 is contentment-under-conditions language, not triumphalist success formula.",
+    "Euodia and Syntyche are honored as women who struggled together with Paul in the good news; the appeal is reconciliation, not diminishment."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-23",
+    "tags": "partial-6-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-5-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

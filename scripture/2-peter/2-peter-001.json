@@ -1,1 +1,424 @@
-{"book":"2 Peter","book_id":"2-peter","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 Peter text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for divine power, participation in divine nature, virtue chain, eyewitness of majesty, prophetic word."},"verses":[{"verse":1,"restored":"Simon Peter, servant and apostle of Jesus Messiah, to those receiving equally precious trust with us in righteousness/justice of our Divine and Savior Jesus Messiah:"},{"verse":2,"restored":"Grace to you and peace be multiplied in knowledge of the Divine and of Jesus our Lord."},{"verse":3,"restored":"As his divine power has granted to us all things toward life and reverence/godliness, through knowledge of the One calling us by his own glory and excellence,"},{"verse":4,"restored":"through which he has granted to us precious and very great promises, so that through these you may become partners of divine nature, escaping the corruption in the world by desire."},{"verse":5,"restored":"And for this very reason, bringing in all eagerness, supply in your trust excellence, and in excellence knowledge,"},{"verse":6,"restored":"and in knowledge self-control, and in self-control endurance, and in endurance reverence/godliness,"},{"verse":7,"restored":"and in reverence/godliness sibling-love, and in sibling-love love."},{"verse":8,"restored":"For these things being present and increasing in you make you neither idle nor unfruitful into knowledge of our Lord Jesus Messiah."},{"verse":9,"restored":"For the one in whom these things are not present is blind, being nearsighted, having received forgetfulness of cleansing of former sins/misalignments."},{"verse":10,"restored":"Therefore, siblings, be more eager to make firm your calling and choosing, for doing these things you will certainly not stumble."},{"verse":11,"restored":"For so the entrance into the age-long reign of our Lord and Savior Jesus Messiah will be richly supplied to you."},{"verse":12,"restored":"Therefore I will always be ready to remind you concerning these things, though you know and have been established in the present truth."},{"verse":13,"restored":"But I consider it righteous/just, as long as I am in this tent/body, to awaken you by reminder,"},{"verse":14,"restored":"knowing that the putting off of my tent/body is soon, as also our Lord Jesus Messiah made clear to me."},{"verse":15,"restored":"And I will be eager that at every time after my departure you may have remembrance of these things."},{"verse":16,"restored":"For we did not follow cleverly devised myths when making known to you the power and presence/arrival of our Lord Jesus Messiah, but became eyewitnesses of that one's majesty."},{"verse":17,"restored":"For receiving from Divine Father honor and glory, a voice such as this was borne to him by the magnificent glory: This is my beloved Son, in whom I am well pleased."},{"verse":18,"restored":"And this voice we heard borne from heaven, being with him on the holy mountain."},{"verse":19,"restored":"And we have the prophetic word more firm, to which you do beautifully to pay attention as to a lamp shining in a dark place, until day dawns and morning star rises in your hearts."},{"verse":20,"restored":"Knowing this first, that no prophecy of Scripture comes from one's own release/interpretation,"},{"verse":21,"restored":"for prophecy was not ever brought by human will, but humans spoke from Divine being carried by holy Spirit."}],"translation_notes":["Partners of divine nature preserves the participatory mystical language without collapsing Creator/creature distinction.","Virtue chain culminates in love.","Transfiguration witness grounds the prophetic word as lamp until morning star rises in hearts." ]}
+{
+  "book": "2 Peter",
+  "book_id": "2-peter",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 Peter text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for divine power, participation in divine nature, virtue chain, eyewitness of majesty, prophetic word."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Simon Peter, servant and apostle of Jesus Messiah, to those receiving equally precious trust with us in righteousness/justice of our Divine and Savior Jesus Messiah:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Simon Peter, a servant and an apostle of Jesus Christ, to them that have obtained like precious faith with us through the righteousness of God and our Saviour Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "labor-power",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Grace to you and peace be multiplied in knowledge of the Divine and of Jesus our Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Grace and peace be multiplied unto you through the knowledge of God, and of Jesus our Lord,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "As his divine power has granted to us all things toward life and reverence/godliness, through knowledge of the One calling us by his own glory and excellence,",
+      "familiar": {
+        "source": "KJV",
+        "text": "According as his divine power hath given unto us all things that pertain unto life and godliness, through the knowledge of him that hath called us to glory and virtue:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "through which he has granted to us precious and very great promises, so that through these you may become partners of divine nature, escaping the corruption in the world by desire.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereby are given unto us exceeding great and precious promises: that by these ye might be partakers of the divine nature, having escaped the corruption that is in the world through lust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And for this very reason, bringing in all eagerness, supply in your trust excellence, and in excellence knowledge,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And beside this, giving all diligence, add to your faith virtue; and to virtue knowledge;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "and in knowledge self-control, and in self-control endurance, and in endurance reverence/godliness,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to knowledge temperance; and to temperance patience; and to patience godliness;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and in reverence/godliness sibling-love, and in sibling-love love.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And to godliness brotherly kindness; and to brotherly kindness charity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "For these things being present and increasing in you make you neither idle nor unfruitful into knowledge of our Lord Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if these things be in you, and abound, they make you that ye shall neither be barren nor unfruitful in the knowledge of our Lord Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For the one in whom these things are not present is blind, being nearsighted, having received forgetfulness of cleansing of former sins/misalignments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he that lacketh these things is blind, and cannot see afar off, and hath forgotten that he was purged from his old sins."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Therefore, siblings, be more eager to make firm your calling and choosing, for doing these things you will certainly not stumble.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the rather, brethren, give diligence to make your calling and election sure: for if ye do these things, ye shall never fall:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For so the entrance into the age-long reign of our Lord and Savior Jesus Messiah will be richly supplied to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For so an entrance shall be ministered unto you abundantly into the everlasting kingdom of our Lord and Saviour Jesus Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "economic-justice"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Therefore I will always be ready to remind you concerning these things, though you know and have been established in the present truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore I will not be negligent to put you always in remembrance of these things, though ye know them, and be established in the present truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But I consider it righteous/just, as long as I am in this tent/body, to awaken you by reminder,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, I think it meet, as long as I am in this tabernacle, to stir you up by putting you in remembrance;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "knowing that the putting off of my tent/body is soon, as also our Lord Jesus Messiah made clear to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing that shortly I must put off this my tabernacle, even as our Lord Jesus Christ hath shewed me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And I will be eager that at every time after my departure you may have remembrance of these things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover I will endeavour that ye may be able after my decease to have these things always in remembrance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For we did not follow cleverly devised myths when making known to you the power and presence/arrival of our Lord Jesus Messiah, but became eyewitnesses of that one's majesty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we have not followed cunningly devised fables, when we made known unto you the power and coming of our Lord Jesus Christ, but were eyewitnesses of his majesty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "For receiving from Divine Father honor and glory, a voice such as this was borne to him by the magnificent glory: This is my beloved Son, in whom I am well pleased.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he received from God the Father honour and glory, when there came such a voice to him from the excellent glory, This is my beloved Son, in whom I am well pleased."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And this voice we heard borne from heaven, being with him on the holy mountain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this voice which came from heaven we heard, when we were with him in the holy mount."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And we have the prophetic word more firm, to which you do beautifully to pay attention as to a lamp shining in a dark place, until day dawns and morning star rises in your hearts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We have also a more sure word of prophecy; whereunto ye do well that ye take heed, as unto a light that shineth in a dark place, until the day dawn, and the day star arise in your hearts:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Knowing this first, that no prophecy of Scripture comes from one's own release/interpretation,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing this first, that no prophecy of the scripture is of any private interpretation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "for prophecy was not ever brought by human will, but humans spoke from Divine being carried by holy Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the prophecy came not in old time by the will of man: but holy men of God spake as they were moved by the Holy Ghost."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Partners of divine nature preserves the participatory mystical language without collapsing Creator/creature distinction.",
+    "Virtue chain culminates in love.",
+    "Transfiguration witness grounds the prophetic word as lamp until morning star rises in hearts."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-21",
+    "tags": "partial-8-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

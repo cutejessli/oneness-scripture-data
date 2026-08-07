@@ -1,1 +1,489 @@
-{"book":"Hebrews","book_id":"hebrews","chapter":9,"audit_status":{"status":"source-audited-draft","source_base":"Greek Hebrews text tradition with tabernacle/covenant cultic language; draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for first tent, holy places, conscience, blood/covenant, once-for-all offering, appearing."},"verses":[{"verse":1,"restored":"Now even the first had regulations of service and the earthly holy place."},{"verse":2,"restored":"For a tent was prepared, the first, in which were lampstand and table and setting forth of loaves, which is called Holy Place."},{"verse":3,"restored":"But after the second veil, a tent called Holy of Holies,"},{"verse":4,"restored":"having golden altar of incense and ark of covenant covered all around with gold, in which were golden jar having manna, Aaron's rod that budded, and tablets of covenant,"},{"verse":5,"restored":"and above it cherubim of glory overshadowing the mercy-seat; concerning these things it is not now to speak in detail."},{"verse":6,"restored":"These things being thus prepared, into the first tent the priests go continually, completing the services,"},{"verse":7,"restored":"but into the second only the high priest once a year, not without blood, which he offers for himself and for ignorances of the people."},{"verse":8,"restored":"The holy Spirit making this clear: that the way of the holy places had not yet been manifested while the first tent still had standing,"},{"verse":9,"restored":"which is a parable for the present season, according to which gifts and sacrifices are offered, not able according to conscience to complete the one serving,"},{"verse":10,"restored":"only upon foods and drinks and various washings, regulations of flesh imposed until a season of setting things straight."},{"verse":11,"restored":"But Messiah, having come as high priest of the good things that have come, through the greater and more complete tent not made by hands, that is, not of this creation,"},{"verse":12,"restored":"nor through blood of goats and calves but through his own blood/life, entered once for all into the holy places, having found age-long release/redemption."},{"verse":13,"restored":"For if blood of goats and bulls and ashes of heifer sprinkling those made common sanctifies toward fleshly purity,"},{"verse":14,"restored":"how much more will the blood/life of Messiah, who through age-long Spirit offered himself blameless to the Divine, cleanse our conscience from dead works to serve living Divine?"},{"verse":15,"restored":"And because of this he is mediator of new covenant, so that, death having happened for release of transgressions under the first covenant, those called may receive promise of age-long inheritance."},{"verse":16,"restored":"For where a covenant/testament is, it is necessary for death of the covenant-maker to be borne."},{"verse":17,"restored":"For covenant/testament is firm over dead ones, since it is never strong while the covenant-maker lives."},{"verse":18,"restored":"Therefore not even the first was inaugurated without blood."},{"verse":19,"restored":"For every command according to Law having been spoken by Moses to all the people, taking blood of calves and goats with water and scarlet wool and hyssop, he sprinkled both the scroll itself and all the people,"},{"verse":20,"restored":"saying: This is the blood of the covenant that the Divine commanded toward you."},{"verse":21,"restored":"And likewise he sprinkled with blood both the tent and all the vessels of service."},{"verse":22,"restored":"And almost all things are cleansed in blood according to Law, and apart from blood-shedding release does not happen."},{"verse":23,"restored":"Therefore it was necessary for copies of things in heavens to be cleansed by these, but the heavenly things themselves by better sacrifices than these."},{"verse":24,"restored":"For Messiah did not enter holy places made by hands, antitypes of true things, but into heaven itself, now to be manifested before the face of the Divine on our behalf,"},{"verse":25,"restored":"nor so that he might offer himself many times, as the high priest enters holy places year by year with blood of another,"},{"verse":26,"restored":"since then he would have had to suffer many times from foundation of world; but now once at completion of ages he has been manifested for setting aside sin/misalignment through his sacrifice."},{"verse":27,"restored":"And just as it is laid up for humans once to die, and after this judgment,"},{"verse":28,"restored":"so Messiah also, having been offered once to bear sins/misalignments of many, will appear second time apart from sin/misalignment to those eagerly awaiting him, into salvation/healing."}],"translation_notes":["Blood is rendered blood/life where sacrificial life-force is in view, avoiding gore-focused readings.","Conscience cleansing is central: service of living Divine replaces dead works.","Covenant/testament double sense in vv.16-17 is preserved."],"safety_note":"Cultic contrast must not become contempt for Jewish temple practice. Hebrews interprets access, conscience, and Messiah's heavenly priesthood through tabernacle imagery."}
+{
+  "book": "Hebrews",
+  "book_id": "hebrews",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Hebrews text tradition with tabernacle/covenant cultic language; draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for first tent, holy places, conscience, blood/covenant, once-for-all offering, appearing."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now even the first had regulations of service and the earthly holy place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then verily the first covenant had also ordinances of divine service, and a worldly sanctuary."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For a tent was prepared, the first, in which were lampstand and table and setting forth of loaves, which is called Holy Place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But after the second veil, a tent called Holy of Holies,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after the second veil, the tabernacle which is called the Holiest of all;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "having golden altar of incense and ark of covenant covered all around with gold, in which were golden jar having manna, Aaron's rod that budded, and tablets of covenant,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron’s rod that budded, and the tables of the covenant;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "and above it cherubim of glory overshadowing the mercy-seat; concerning these things it is not now to speak in detail.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "These things being thus prepared, into the first tent the priests go continually, completing the services,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "but into the second only the high priest once a year, not without blood, which he offers for himself and for ignorances of the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But into the second went the high priest alone once every year, not without blood, which he offered for himself, and for the errors of the people:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The holy Spirit making this clear: that the way of the holy places had not yet been manifested while the first tent still had standing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Holy Ghost this signifying, that the way into the holiest of all was not yet made manifest, while as the first tabernacle was yet standing:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "sacred-community",
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "which is a parable for the present season, according to which gifts and sacrifices are offered, not able according to conscience to complete the one serving,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which was a figure for the time then present, in which were offered both gifts and sacrifices, that could not make him that did the service perfect, as pertaining to the conscience;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "only upon foods and drinks and various washings, regulations of flesh imposed until a season of setting things straight.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "But Messiah, having come as high priest of the good things that have come, through the greater and more complete tent not made by hands, that is, not of this creation,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Christ being come an high priest of good things to come, by a greater and more perfect tabernacle, not made with hands, that is to say, not of this building;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "nor through blood of goats and calves but through his own blood/life, entered once for all into the holy places, having found age-long release/redemption.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither by the blood of goats and calves, but by his own blood he entered in once into the holy place, having obtained eternal redemption for us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "For if blood of goats and bulls and ashes of heifer sprinkling those made common sanctifies toward fleshly purity,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "how much more will the blood/life of Messiah, who through age-long Spirit offered himself blameless to the Divine, cleanse our conscience from dead works to serve living Divine?",
+      "familiar": {
+        "source": "KJV",
+        "text": "How much more shall the blood of Christ, who through the eternal Spirit offered himself without spot to God, purge your conscience from dead works to serve the living God?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And because of this he is mediator of new covenant, so that, death having happened for release of transgressions under the first covenant, those called may receive promise of age-long inheritance.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And for this cause he is the mediator of the new testament, that by means of death, for the redemption of the transgressions that were under the first testament, they which are called might receive the promise of eternal inheritance."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For where a covenant/testament is, it is necessary for death of the covenant-maker to be borne.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For where a testament is, there must also of necessity be the death of the testator."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "For covenant/testament is firm over dead ones, since it is never strong while the covenant-maker lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Therefore not even the first was inaugurated without blood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereupon neither the first testament was dedicated without blood."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For every command according to Law having been spoken by Moses to all the people, taking blood of calves and goats with water and scarlet wool and hyssop, he sprinkled both the scroll itself and all the people,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "saying: This is the blood of the covenant that the Divine commanded toward you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Saying, This is the blood of the testament which God hath enjoined unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And likewise he sprinkled with blood both the tent and all the vessels of service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he sprinkled with blood both the tabernacle, and all the vessels of the ministry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "And almost all things are cleansed in blood according to Law, and apart from blood-shedding release does not happen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And almost all things are by the law purged with blood; and without shedding of blood is no remission."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Therefore it was necessary for copies of things in heavens to be cleansed by these, but the heavenly things themselves by better sacrifices than these.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "For Messiah did not enter holy places made by hands, antitypes of true things, but into heaven itself, now to be manifested before the face of the Divine on our behalf,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Christ is not entered into the holy places made with hands, which are the figures of the true; but into heaven itself, now to appear in the presence of God for us:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "nor so that he might offer himself many times, as the high priest enters holy places year by year with blood of another,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nor yet that he should offer himself often, as the high priest entereth into the holy place every year with blood of others;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "since then he would have had to suffer many times from foundation of world; but now once at completion of ages he has been manifested for setting aside sin/misalignment through his sacrifice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For then must he often have suffered since the foundation of the world: but now once in the end of the world hath he appeared to put away sin by the sacrifice of himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "And just as it is laid up for humans once to die, and after this judgment,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as it is appointed unto men once to die, but after this the judgment:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "so Messiah also, having been offered once to bear sins/misalignments of many, will appear second time apart from sin/misalignment to those eagerly awaiting him, into salvation/healing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So Christ was once offered to bear the sins of many; and unto them that look for him shall he appear the second time without sin unto salvation."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Blood is rendered blood/life where sacrificial life-force is in view, avoiding gore-focused readings.",
+    "Conscience cleansing is central: service of living Divine replaces dead works.",
+    "Covenant/testament double sense in vv.16-17 is preserved."
+  ],
+  "safety_note": "Cultic contrast must not become contempt for Jewish temple practice. Hebrews interprets access, conscience, and Messiah's heavenly priesthood through tabernacle imagery.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-28",
+    "tags": "partial-15-of-28",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-28",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

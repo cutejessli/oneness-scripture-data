@@ -1,1 +1,282 @@
-{"book":"3 John","book_id":"3-john","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 3 John text tradition, draft aligned to public-domain comparison layer later","review_note":"Complete one-chapter draft reviewed for Gaius, truth-walking, hospitality, Diotrephes domination, Demetrius witness."},"verses":[{"verse":1,"restored":"The elder to beloved Gaius, whom I love in truth."},{"verse":2,"restored":"Beloved, concerning all things I pray that you prosper and be healthy, just as your soul/life prospers."},{"verse":3,"restored":"For I rejoiced greatly when siblings came and testified to your truth, just as you walk in truth."},{"verse":4,"restored":"I have no greater joy than these things: that I hear my children walking in truth."},{"verse":5,"restored":"Beloved, you do trustworthily whatever you work for the siblings, and this for strangers,"},{"verse":6,"restored":"who testified to your love before the assembly. You will do beautifully/well sending them forward in a manner worthy of the Divine."},{"verse":7,"restored":"For on behalf of the Name they went out, taking nothing from the nations."},{"verse":8,"restored":"Therefore we ought to receive such ones, so that we may become coworkers with the truth."},{"verse":9,"restored":"I wrote something to the assembly, but Diotrephes, the one loving to be first among them, does not receive us."},{"verse":10,"restored":"Because of this, if I come, I will bring to remembrance his works that he does, talking nonsense against us with harmful words; and not content with these, he neither receives the siblings himself, and those wanting to he hinders and casts out of the assembly."},{"verse":11,"restored":"Beloved, do not imitate the harmful but the good. The one doing good is from the Divine; the one doing harm has not seen the Divine."},{"verse":12,"restored":"Demetrius has been testified to by all and by the truth itself; and we also testify, and you know that our testimony is true."},{"verse":13,"restored":"I had many things to write to you, but I do not wish to write to you through ink and reed."},{"verse":14,"restored":"But I hope to see you immediately, and we will speak mouth to mouth. Peace to you. The friends greet you. Greet the friends by name."}],"translation_notes":["Diotrephes is an anti-domination example: loving to be first, refusing accountability, blocking hospitality, and casting people out.","Hospitality is active partnership with truth.","Gaius' health/soul blessing should not be turned into prosperity formula." ]}
+{
+  "book": "3 John",
+  "book_id": "3-john",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 3 John text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Complete one-chapter draft reviewed for Gaius, truth-walking, hospitality, Diotrephes domination, Demetrius witness."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The elder to beloved Gaius, whom I love in truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The elder unto the wellbeloved Gaius, whom I love in the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "love"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Beloved, concerning all things I pray that you prosper and be healthy, just as your soul/life prospers.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For I rejoiced greatly when siblings came and testified to your truth, just as you walk in truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I rejoiced greatly, when the brethren came and testified of the truth that is in thee, even as thou walkest in the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I have no greater joy than these things: that I hear my children walking in truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have no greater joy than to hear that my children walk in truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Beloved, you do trustworthily whatever you work for the siblings, and this for strangers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, thou doest faithfully whatsoever thou doest to the brethren, and to strangers;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "who testified to your love before the assembly. You will do beautifully/well sending them forward in a manner worthy of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community",
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For on behalf of the Name they went out, taking nothing from the nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because that for his name’s sake they went forth, taking nothing of the Gentiles."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore we ought to receive such ones, so that we may become coworkers with the truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We therefore ought to receive such, that we might be fellowhelpers to the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "I wrote something to the assembly, but Diotrephes, the one loving to be first among them, does not receive us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I wrote unto the church: but Diotrephes, who loveth to have the preeminence among them, receiveth us not."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Because of this, if I come, I will bring to remembrance his works that he does, talking nonsense against us with harmful words; and not content with these, he neither receives the siblings himself, and those wanting to he hinders and casts out of the assembly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, if I come, I will remember his deeds which he doeth, prating against us with malicious words: and not content therewith, neither doth he himself receive the brethren, and forbiddeth them that would, and casteth them out of the church."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Beloved, do not imitate the harmful but the good. The one doing good is from the Divine; the one doing harm has not seen the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, follow not that which is evil, but that which is good. He that doeth good is of God: but he that doeth evil hath not seen God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Demetrius has been testified to by all and by the truth itself; and we also testify, and you know that our testimony is true.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I had many things to write to you, but I do not wish to write to you through ink and reed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I had many things to write, but I will not with ink and pen write unto thee:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But I hope to see you immediately, and we will speak mouth to mouth. Peace to you. The friends greet you. Greet the friends by name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I trust I shall shortly see thee, and we shall speak face to face. Peace be to thee. Our friends salute thee. Greet the friends by name."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Diotrephes is an anti-domination example: loving to be first, refusing accountability, blocking hospitality, and casting people out.",
+    "Hospitality is active partnership with truth.",
+    "Gaius' health/soul blessing should not be turned into prosperity formula."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-14",
+    "tags": "partial-8-of-14",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-14",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

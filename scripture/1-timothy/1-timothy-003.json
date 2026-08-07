@@ -1,1 +1,337 @@
-{"book":"1 Timothy","book_id":"1-timothy","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for overseers, servants/deacons, women/wives ambiguity, household conduct, mystery of godliness."},"verses":[{"verse":1,"restored":"Trustworthy is the saying: if anyone reaches toward oversight, one desires a beautiful/good work."},{"verse":2,"restored":"Therefore the overseer must be above reproach, husband of one wife, sober, sound-minded, respectable, hospitable, skilled in teaching,"},{"verse":3,"restored":"not given to wine, not violent but gentle, not quarrelsome, not lover of silver,"},{"verse":4,"restored":"leading one's own household beautifully/well, having children in submission with all dignity,"},{"verse":5,"restored":"but if someone does not know how to lead one's own household, how will one care for the assembly of the Divine?"},{"verse":6,"restored":"not newly planted, lest being puffed up one fall into judgment of the adversarial one."},{"verse":7,"restored":"But it is also necessary to have a beautiful/good witness from those outside, so that one may not fall into reproach and snare of the adversarial one."},{"verse":8,"restored":"Servants/deacons likewise: dignified, not double-tongued, not given to much wine, not greedy for shameful gain,"},{"verse":9,"restored":"holding the mystery of the trust in a pure conscience."},{"verse":10,"restored":"And let these also be tested first; then let them serve if they are blameless."},{"verse":11,"restored":"Women likewise, dignified, not slanderous, sober, trustworthy in all things."},{"verse":12,"restored":"Let servants/deacons be husbands of one wife, leading children and their own households beautifully/well."},{"verse":13,"restored":"For those who have served beautifully/well acquire a beautiful/good standing for themselves and much boldness in trust that is in Messiah Jesus."},{"verse":14,"restored":"These things I write to you, hoping to come to you soon,"},{"verse":15,"restored":"but if I delay, so that you may know how it is necessary to conduct oneself in the household of the Divine, which is assembly of living Divine, pillar and support of the truth."},{"verse":16,"restored":"And confessedly great is the mystery of reverence/godliness: Who was manifested in flesh, made righteous/justified in Spirit, seen by messengers, proclaimed among nations, trusted in world, taken up in glory."}],"translation_notes":["Episkope is oversight and episkopos overseer; the emphasis is character and care, not status hierarchy.","Diakonoi is servants/deacons. Verse 11 may refer to women deacons or wives; ambiguity is preserved as women likewise.","Mystery of godliness in 3:16 is likely hymnic/confessional; manifested in flesh is preserved without over-specifying textual variants in this first pass." ]}
+{
+  "book": "1 Timothy",
+  "book_id": "1-timothy",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for overseers, servants/deacons, women/wives ambiguity, household conduct, mystery of godliness."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Trustworthy is the saying: if anyone reaches toward oversight, one desires a beautiful/good work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is a true saying, If a man desire the office of a bishop, he desireth a good work."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Therefore the overseer must be above reproach, husband of one wife, sober, sound-minded, respectable, hospitable, skilled in teaching,",
+      "familiar": {
+        "source": "KJV",
+        "text": "A bishop then must be blameless, the husband of one wife, vigilant, sober, of good behaviour, given to hospitality, apt to teach;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "gender-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "not given to wine, not violent but gentle, not quarrelsome, not lover of silver,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not given to wine, no striker, not greedy of filthy lucre; but patient, not a brawler, not covetous;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "leading one's own household beautifully/well, having children in submission with all dignity,",
+      "familiar": {
+        "source": "KJV",
+        "text": "One that ruleth well his own house, having his children in subjection with all gravity;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "but if someone does not know how to lead one's own household, how will one care for the assembly of the Divine?",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For if a man know not how to rule his own house, how shall he take care of the church of God?)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "not newly planted, lest being puffed up one fall into judgment of the adversarial one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not a novice, lest being lifted up with pride he fall into the condemnation of the devil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But it is also necessary to have a beautiful/good witness from those outside, so that one may not fall into reproach and snare of the adversarial one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover he must have a good report of them which are without; lest he fall into reproach and the snare of the devil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Servants/deacons likewise: dignified, not double-tongued, not given to much wine, not greedy for shameful gain,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "holding the mystery of the trust in a pure conscience.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Holding the mystery of the faith in a pure conscience."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And let these also be tested first; then let them serve if they are blameless.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And let these also first be proved; then let them use the office of a deacon, being found blameless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Women likewise, dignified, not slanderous, sober, trustworthy in all things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even so must their wives be grave, not slanderers, sober, faithful in all things."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Let servants/deacons be husbands of one wife, leading children and their own households beautifully/well.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the deacons be the husbands of one wife, ruling their children and their own houses well."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "labor-power",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "For those who have served beautifully/well acquire a beautiful/good standing for themselves and much boldness in trust that is in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "These things I write to you, hoping to come to you soon,",
+      "familiar": {
+        "source": "KJV",
+        "text": "These things write I unto thee, hoping to come unto thee shortly:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "but if I delay, so that you may know how it is necessary to conduct oneself in the household of the Divine, which is assembly of living Divine, pillar and support of the truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if I tarry long, that thou mayest know how thou oughtest to behave thyself in the house of God, which is the church of the living God, the pillar and ground of the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And confessedly great is the mystery of reverence/godliness: Who was manifested in flesh, made righteous/justified in Spirit, seen by messengers, proclaimed among nations, trusted in world, taken up in glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant",
+        "spirit",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Episkope is oversight and episkopos overseer; the emphasis is character and care, not status hierarchy.",
+    "Diakonoi is servants/deacons. Verse 11 may refer to women deacons or wives; ambiguity is preserved as women likewise.",
+    "Mystery of godliness in 3:16 is likely hymnic/confessional; manifested in flesh is preserved without over-specifying textual variants in this first pass."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-5-of-16",
+    "tags": "partial-11-of-16",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-16",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

@@ -1,1 +1,390 @@
-{"book":"2 Timothy","book_id":"2-timothy","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek 2 Timothy text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for final charge, preach/proclaim, itching ears, poured out, good fight, abandonment, rescue, greetings."},"verses":[{"verse":1,"restored":"I solemnly testify before the Divine and Messiah Jesus, the One about to judge living and dead, and by his appearing and his reign:"},{"verse":2,"restored":"proclaim the word; stand ready in season and out of season; reprove, rebuke, encourage, with all patience and teaching."},{"verse":3,"restored":"For there will be a season when they will not endure healthy teaching, but according to their own desires they will heap up teachers for themselves, itching in hearing,"},{"verse":4,"restored":"and indeed they will turn hearing away from the truth and will turn aside to myths."},{"verse":5,"restored":"But you be sober in all things, endure hardship, do work of one announcing good news, fulfill your service."},{"verse":6,"restored":"For I am already being poured out, and the season of my departure has stood near."},{"verse":7,"restored":"I have struggled the beautiful/good struggle; I have completed the course; I have kept the trust."},{"verse":8,"restored":"From now on the crown of righteousness/justice is stored up for me, which the Lord, the righteous/just judge, will repay to me in that day, and not only to me but also to all those having loved his appearing."},{"verse":9,"restored":"Be eager to come to me quickly,"},{"verse":10,"restored":"for Demas, having loved the present age, abandoned me and went to Thessalonica; Crescens to Galatia, Titus to Dalmatia."},{"verse":11,"restored":"Luke alone is with me. Taking Mark, bring him with you, for he is useful to me for service."},{"verse":12,"restored":"But Tychicus I sent to Ephesus."},{"verse":13,"restored":"The cloak that I left in Troas with Carpus, bring when you come, and the scrolls, especially the parchments."},{"verse":14,"restored":"Alexander the metalworker did many harmful things to me; the Lord will repay him according to his works."},{"verse":15,"restored":"You also guard yourself from him, for he greatly opposed our words."},{"verse":16,"restored":"At my first defense no one came alongside me, but all abandoned me; may it not be counted against them."},{"verse":17,"restored":"But the Lord stood by me and empowered me, so that through me the proclamation might be fulfilled and all the nations might hear; and I was rescued from lion's mouth."},{"verse":18,"restored":"The Lord will rescue me from every harmful work and save/heal me into his heavenly reign; to him be glory into the ages of the ages. Amen."},{"verse":19,"restored":"Greet Prisca and Aquila and the household of Onesiphorus."},{"verse":20,"restored":"Erastus remained in Corinth, but Trophimus I left sick in Miletus."},{"verse":21,"restored":"Be eager to come before winter. Eubulus greets you, and Pudens and Linus and Claudia and all the siblings."},{"verse":22,"restored":"The Lord be with your spirit. Grace be with you."}],"translation_notes":["Final charge is proclamation with patience and teaching, not domination.","The crown of righteousness/justice is linked to faithful endurance and longing for appearing.","Paul's prayer that abandonment not be counted against them preserves mercy even in loneliness." ]}
+{
+  "book": "2 Timothy",
+  "book_id": "2-timothy",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 2 Timothy text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for final charge, preach/proclaim, itching ears, poured out, good fight, abandonment, rescue, greetings."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "I solemnly testify before the Divine and Messiah Jesus, the One about to judge living and dead, and by his appearing and his reign:",
+      "familiar": {
+        "source": "KJV",
+        "text": "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "proclaim the word; stand ready in season and out of season; reprove, rebuke, encourage, with all patience and teaching.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For there will be a season when they will not endure healthy teaching, but according to their own desires they will heap up teachers for themselves, itching in hearing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "and indeed they will turn hearing away from the truth and will turn aside to myths.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall turn away their ears from the truth, and shall be turned unto fables."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But you be sober in all things, endure hardship, do work of one announcing good news, fulfill your service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "For I am already being poured out, and the season of my departure has stood near.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I am now ready to be offered, and the time of my departure is at hand."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I have struggled the beautiful/good struggle; I have completed the course; I have kept the trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have fought a good fight, I have finished my course, I have kept the faith:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "From now on the crown of righteousness/justice is stored up for me, which the Lord, the righteous/just judge, will repay to me in that day, and not only to me but also to all those having loved his appearing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Be eager to come to me quickly,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do thy diligence to come shortly unto me:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "for Demas, having loved the present age, abandoned me and went to Thessalonica; Crescens to Galatia, Titus to Dalmatia.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Luke alone is with me. Taking Mark, bring him with you, for he is useful to me for service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But Tychicus I sent to Ephesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Tychicus have I sent to Ephesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The cloak that I left in Troas with Carpus, bring when you come, and the scrolls, especially the parchments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Alexander the metalworker did many harmful things to me; the Lord will repay him according to his works.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Alexander the coppersmith did me much evil: the Lord reward him according to his works:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "You also guard yourself from him, for he greatly opposed our words.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of whom be thou ware also; for he hath greatly withstood our words."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "At my first defense no one came alongside me, but all abandoned me; may it not be counted against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "But the Lord stood by me and empowered me, so that through me the proclamation might be fulfilled and all the nations might hear; and I was rescued from lion's mouth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The Lord will rescue me from every harmful work and save/heal me into his heavenly reign; to him be glory into the ages of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Greet Prisca and Aquila and the household of Onesiphorus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute Prisca and Aquila, and the household of Onesiphorus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Erastus remained in Corinth, but Trophimus I left sick in Miletus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Erastus abode at Corinth: but Trophimus have I left at Miletum sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Be eager to come before winter. Eubulus greets you, and Pudens and Linus and Claudia and all the siblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "The Lord be with your spirit. Grace be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Final charge is proclamation with patience and teaching, not domination.",
+    "The crown of righteousness/justice is linked to faithful endurance and longing for appearing.",
+    "Paul's prayer that abandonment not be counted against them preserves mercy even in loneliness."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-22",
+    "tags": "partial-10-of-22",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-22",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

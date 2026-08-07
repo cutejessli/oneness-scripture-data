@@ -1,1 +1,489 @@
-{"book":"1 Timothy","book_id":"1-timothy","chapter":1,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for false teaching, Law use, mercy, trustworthy saying, conscience, Hymenaeus/Alexander. Pastoral Epistles require second-pass source/authorship and reception-history audit."},"verses":[{"verse":1,"restored":"Paul, apostle of Messiah Jesus according to command of Divine our Savior/Healer and Messiah Jesus our hope,"},{"verse":2,"restored":"to Timothy, genuine child in trust: grace, mercy, peace from Divine Father and Messiah Jesus our Lord."},{"verse":3,"restored":"Just as I appealed to you to remain in Ephesus when I was going into Macedonia, so that you might instruct certain ones not to teach differently,"},{"verse":4,"restored":"nor to pay attention to myths and endless genealogies, which produce speculations rather than stewardship/administration of the Divine that is in trust."},{"verse":5,"restored":"But the aim of the instruction is love from a pure heart and a good conscience and unhypocritical trust."},{"verse":6,"restored":"Some, having missed these things, turned aside into empty talk,"},{"verse":7,"restored":"wishing to be teachers of Law, not understanding either what they say or concerning what they insist."},{"verse":8,"restored":"But we know that the Law is beautiful/good if one uses it lawfully,"},{"verse":9,"restored":"knowing this: that Law is not laid down for a righteous/just one but for lawless and disorderly ones, irreverent and sinners/misaligned, unholy and profane, those striking parents, murderers,"},{"verse":10,"restored":"sexually immoral/misusing, those exploiting males sexually, enslavers/kidnappers, liars, perjurers, and if anything else is opposed to healthy teaching,"},{"verse":11,"restored":"according to the good news of the glory of the blessed Divine, with which I was entrusted."},{"verse":12,"restored":"I have gratitude to the One empowering me, Messiah Jesus our Lord, because he considered me trustworthy, appointing me to service,"},{"verse":13,"restored":"though formerly being a blasphemer and pursuer/persecutor and violent-insolent one; but I was shown mercy, because I acted ignorantly in untrust."},{"verse":14,"restored":"And the grace of our Lord overflowed with trust and love that are in Messiah Jesus."},{"verse":15,"restored":"Trustworthy is the saying and worthy of full welcome: Messiah Jesus came into the world to save/heal sinners/misaligned ones, of whom I am foremost."},{"verse":16,"restored":"But because of this I was shown mercy, so that in me, foremost, Messiah Jesus might show all patience, as a pattern for those about to trust upon him into age-long life."},{"verse":17,"restored":"Now to the King of the ages, incorruptible, invisible, only Divine, honor and glory into the ages of the ages. Amen."},{"verse":18,"restored":"This instruction I place before you, child Timothy, according to the prophecies previously made concerning you, so that by them you may wage the beautiful/good warfare,"},{"verse":19,"restored":"having trust and good conscience, which some have rejected and suffered shipwreck concerning the trust."},{"verse":20,"restored":"Among whom are Hymenaeus and Alexander, whom I handed over to the adversarial one so that they may be trained not to blaspheme."}],"translation_notes":["The aim of instruction is love, not control. This frames the chapter's polemic against speculative teaching.","Vice-list terms in 1:10 require care; arsenokoitai is rendered those exploiting males sexually, not as a blanket category for loving queer relationships.","Handed over language in 1:20 is disciplinary/restorative training language, not permission for cruelty." ]}
+{
+  "book": "1 Timothy",
+  "book_id": "1-timothy",
+  "chapter": 1,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for false teaching, Law use, mercy, trustworthy saying, conscience, Hymenaeus/Alexander. Pastoral Epistles require second-pass source/authorship and reception-history audit."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Paul, apostle of Messiah Jesus according to command of Divine our Savior/Healer and Messiah Jesus our hope,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Paul, an apostle of Jesus Christ by the commandment of God our Saviour, and Lord Jesus Christ, which is our hope;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "to Timothy, genuine child in trust: grace, mercy, peace from Divine Father and Messiah Jesus our Lord.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto Timothy, my own son in the faith: Grace, mercy, and peace, from God our Father and Jesus Christ our Lord."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Just as I appealed to you to remain in Ephesus when I was going into Macedonia, so that you might instruct certain ones not to teach differently,",
+      "familiar": {
+        "source": "KJV",
+        "text": "As I besought thee to abide still at Ephesus, when I went into Macedonia, that thou mightest charge some that they teach no other doctrine,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "nor to pay attention to myths and endless genealogies, which produce speculations rather than stewardship/administration of the Divine that is in trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither give heed to fables and endless genealogies, which minister questions, rather than godly edifying which is in faith: so do."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But the aim of the instruction is love from a pure heart and a good conscience and unhypocritical trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now the end of the commandment is charity out of a pure heart, and of a good conscience, and of faith unfeigned:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Some, having missed these things, turned aside into empty talk,",
+      "familiar": {
+        "source": "KJV",
+        "text": "From which some having swerved have turned aside unto vain jangling;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "wishing to be teachers of Law, not understanding either what they say or concerning what they insist.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But we know that the Law is beautiful/good if one uses it lawfully,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But we know that the law is good, if a man use it lawfully;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "knowing this: that Law is not laid down for a righteous/just one but for lawless and disorderly ones, irreverent and sinners/misaligned, unholy and profane, those striking parents, murderers,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Knowing this, that the law is not made for a righteous man, but for the lawless and disobedient, for the ungodly and for sinners, for unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "sexually immoral/misusing, those exploiting males sexually, enslavers/kidnappers, liars, perjurers, and if anything else is opposed to healthy teaching,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For whoremongers, for them that defile themselves with mankind, for menstealers, for liars, for perjured persons, and if there be any other thing that is contrary to sound doctrine;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "according to the good news of the glory of the blessed Divine, with which I was entrusted.",
+      "familiar": {
+        "source": "KJV",
+        "text": "According to the glorious gospel of the blessed God, which was committed to my trust."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I have gratitude to the One empowering me, Messiah Jesus our Lord, because he considered me trustworthy, appointing me to service,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I thank Christ Jesus our Lord, who hath enabled me, for that he counted me faithful, putting me into the ministry;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "though formerly being a blasphemer and pursuer/persecutor and violent-insolent one; but I was shown mercy, because I acted ignorantly in untrust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who was before a blasphemer, and a persecutor, and injurious: but I obtained mercy, because I did it ignorantly in unbelief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And the grace of our Lord overflowed with trust and love that are in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the grace of our Lord was exceeding abundant with faith and love which is in Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        },
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Trustworthy is the saying and worthy of full welcome: Messiah Jesus came into the world to save/heal sinners/misaligned ones, of whom I am foremost.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is a faithful saying, and worthy of all acceptation, that Christ Jesus came into the world to save sinners; of whom I am chief."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "trust-faith",
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "But because of this I was shown mercy, so that in me, foremost, Messiah Jesus might show all patience, as a pattern for those about to trust upon him into age-long life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Howbeit for this cause I obtained mercy, that in me first Jesus Christ might shew forth all longsuffering, for a pattern to them which should hereafter believe on him to life everlasting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Now to the King of the ages, incorruptible, invisible, only Divine, honor and glory into the ages of the ages. Amen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now unto the King eternal, immortal, invisible, the only wise God, be honour and glory for ever and ever. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "This instruction I place before you, child Timothy, according to the prophecies previously made concerning you, so that by them you may wage the beautiful/good warfare,",
+      "familiar": {
+        "source": "KJV",
+        "text": "This charge I commit unto thee, son Timothy, according to the prophecies which went before on thee, that thou by them mightest war a good warfare;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage",
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "having trust and good conscience, which some have rejected and suffered shipwreck concerning the trust.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Among whom are Hymenaeus and Alexander, whom I handed over to the adversarial one so that they may be trained not to blaspheme.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The aim of instruction is love, not control. This frames the chapter's polemic against speculative teaching.",
+    "Vice-list terms in 1:10 require care; arsenokoitai is rendered those exploiting males sexually, not as a blanket category for loving queer relationships.",
+    "Handed over language in 1:20 is disciplinary/restorative training language, not permission for cruelty."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-11-of-20",
+    "tags": "partial-15-of-20",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-20",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

@@ -1,1 +1,348 @@
-{"book":"Colossians","book_id":"colossians","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek Colossians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for masters, prayer, mystery, wise speech, Tychicus/Onesimus, greetings, Archippus, final grace."},"verses":[{"verse":1,"restored":"Masters, provide what is righteous/just and equal/fair to enslaved ones, knowing that you also have a Master in heaven."},{"verse":2,"restored":"Persevere in prayer, keeping awake in it with thanksgiving,"},{"verse":3,"restored":"praying at the same time also concerning us, that the Divine may open to us a door of the word, to speak the mystery of Messiah, because of which I have also been bound,"},{"verse":4,"restored":"so that I may make it manifest, as it is necessary for me to speak."},{"verse":5,"restored":"Walk in wisdom toward those outside, redeeming the season."},{"verse":6,"restored":"Let your word always be in grace, seasoned with salt, to know how it is necessary for you to answer each one."},{"verse":7,"restored":"Tychicus, the beloved sibling and trustworthy servant and fellow enslaved one in the Lord, will make known to you all the things concerning me."},{"verse":8,"restored":"I sent him to you for this very thing, so that you may know the things concerning us and that he may comfort/encourage your hearts,"},{"verse":9,"restored":"with Onesimus, the trustworthy and beloved sibling, who is from you. They will make known to you all the things here."},{"verse":10,"restored":"Aristarchus my fellow prisoner greets you, and Mark, the cousin of Barnabas, concerning whom you received commands; if he comes to you, receive him,"},{"verse":11,"restored":"and Jesus called Justus. These are from the circumcision, only these coworkers into the reign of the Divine, who became comfort/encouragement to me."},{"verse":12,"restored":"Epaphras, who is from you, servant of Messiah Jesus, greets you, always struggling on your behalf in prayers, so that you may stand mature/complete and fully assured in all will of the Divine."},{"verse":13,"restored":"For I bear witness to him that he has much labor for you and those in Laodicea and those in Hierapolis."},{"verse":14,"restored":"Luke, the beloved physician, greets you, and Demas."},{"verse":15,"restored":"Greet the siblings in Laodicea, and Nympha and the assembly in her house."},{"verse":16,"restored":"And when the letter has been read among you, make it also be read in the assembly of Laodiceans, and that you also read the one from Laodicea."},{"verse":17,"restored":"And say to Archippus: See the service/ministry that you received in the Lord, so that you may fulfill it."},{"verse":18,"restored":"The greeting by my hand, Paul's. Remember my chains. Grace be with you."}],"translation_notes":["Colossians 4:1 continues the household code but sharply relativizes master power under the heavenly Master and calls for justice/equality.","Onesimus is named trustworthy and beloved sibling; this should be handled with dignity and in connection to Philemon.","Nympha's house-assembly is preserved as a likely woman-hosted assembly." ]}
+{
+  "book": "Colossians",
+  "book_id": "colossians",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Colossians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for masters, prayer, mystery, wise speech, Tychicus/Onesimus, greetings, Archippus, final grace."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Masters, provide what is righteous/just and equal/fair to enslaved ones, knowing that you also have a Master in heaven.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Persevere in prayer, keeping awake in it with thanksgiving,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Continue in prayer, and watch in the same with thanksgiving;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "praying at the same time also concerning us, that the Divine may open to us a door of the word, to speak the mystery of Messiah, because of which I have also been bound,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Withal praying also for us, that God would open unto us a door of utterance, to speak the mystery of Christ, for which I am also in bonds:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "so that I may make it manifest, as it is necessary for me to speak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I may make it manifest, as I ought to speak."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Walk in wisdom toward those outside, redeeming the season.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Walk in wisdom toward them that are without, redeeming the time."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Let your word always be in grace, seasoned with salt, to know how it is necessary for you to answer each one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Tychicus, the beloved sibling and trustworthy servant and fellow enslaved one in the Lord, will make known to you all the things concerning me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All my state shall Tychicus declare unto you, who is a beloved brother, and a faithful minister and fellowservant in the Lord:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "I sent him to you for this very thing, so that you may know the things concerning us and that he may comfort/encourage your hearts,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whom I have sent unto you for the same purpose, that he might know your estate, and comfort your hearts;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "with Onesimus, the trustworthy and beloved sibling, who is from you. They will make known to you all the things here.",
+      "familiar": {
+        "source": "KJV",
+        "text": "With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Aristarchus my fellow prisoner greets you, and Mark, the cousin of Barnabas, concerning whom you received commands; if he comes to you, receive him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Aristarchus my fellowprisoner saluteth you, and Marcus, sister’s son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "and Jesus called Justus. These are from the circumcision, only these coworkers into the reign of the Divine, who became comfort/encouragement to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Epaphras, who is from you, servant of Messiah Jesus, greets you, always struggling on your behalf in prayers, so that you may stand mature/complete and fully assured in all will of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Epaphras, who is one of you, a servant of Christ, saluteth you, always labouring fervently for you in prayers, that ye may stand perfect and complete in all the will of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "For I bear witness to him that he has much labor for you and those in Laodicea and those in Hierapolis.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I bear him record, that he hath a great zeal for you, and them that are in Laodicea, and them in Hierapolis."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Luke, the beloved physician, greets you, and Demas.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Luke, the beloved physician, and Demas, greet you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Greet the siblings in Laodicea, and Nympha and the assembly in her house.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salute the brethren which are in Laodicea, and Nymphas, and the church which is in his house."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And when the letter has been read among you, make it also be read in the assembly of Laodiceans, and that you also read the one from Laodicea.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And say to Archippus: See the service/ministry that you received in the Lord, so that you may fulfill it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And say to Archippus, Take heed to the ministry which thou hast received in the Lord, that thou fulfil it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The greeting by my hand, Paul's. Remember my chains. Grace be with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The salutation by the hand of me Paul. Remember my bonds. Grace be with you. Amen."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Colossians 4:1 continues the household code but sharply relativizes master power under the heavenly Master and calls for justice/equality.",
+    "Onesimus is named trustworthy and beloved sibling; this should be handled with dignity and in connection to Philemon.",
+    "Nympha's house-assembly is preserved as a likely woman-hosted assembly."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-18",
+    "tags": "partial-10-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

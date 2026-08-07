@@ -1,1 +1,302 @@
-{"book":"1 Timothy","book_id":"1-timothy","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for prayer for all, one mediator, modesty, women learning/teaching passage, Adam/Eve argument. Requires second-pass source, syntax, and reception-history audit."},"verses":[{"verse":1,"restored":"First of all, then, I appeal that petitions, prayers, intercessions, thanksgivings be made for all humans,"},{"verse":2,"restored":"for kings and all those being in high position, so that we may lead a tranquil and quiet life in all reverence and dignity."},{"verse":3,"restored":"This is beautiful/good and acceptable before Divine our Savior/Healer,"},{"verse":4,"restored":"who wills all humans to be saved/healed and to come into knowledge of truth."},{"verse":5,"restored":"For there is one Divine and one mediator of Divine and humans, human Messiah Jesus,"},{"verse":6,"restored":"the One giving himself as ransom/release-price for all, the witness in its own seasons."},{"verse":7,"restored":"Into this I was appointed herald and apostle, I speak truth, I do not lie, teacher of nations in trust and truth."},{"verse":8,"restored":"Therefore I desire the men in every place to pray, lifting holy hands without anger and argument."},{"verse":9,"restored":"Likewise also women, in respectable arrangement, with modesty and soundness of mind, to adorn themselves not with braided hair and gold or pearls or costly clothing,"},{"verse":10,"restored":"but with what is fitting for women professing reverence for the Divine: through good works."},{"verse":11,"restored":"Let a woman learn in quietness, in all teachability/orderly submission."},{"verse":12,"restored":"But I do not permit a woman to teach or to domineer over a man, but to be in quietness."},{"verse":13,"restored":"For Adam was formed first, then Eve."},{"verse":14,"restored":"And Adam was not deceived, but the woman, having been deceived, has come into transgression."},{"verse":15,"restored":"But she will be saved/healed through the childbearing, if they remain in trust and love and holiness with soundness of mind."}],"safety_note":"1 Timothy 2:11-15 is variant-sensitive in interpretation and highly dangerous in reception history. The draft preserves the text while noting that authentein is rare and can mean domineer/usurp rather than ordinary teaching authority. This passage must not be used to silence women broadly without second-pass Greek syntax, historical-context, and reception-history audit, especially because women pray/prophesy and serve as coworkers elsewhere in the Pauline corpus."}
+{
+  "book": "1 Timothy",
+  "book_id": "1-timothy",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Timothy text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for prayer for all, one mediator, modesty, women learning/teaching passage, Adam/Eve argument. Requires second-pass source, syntax, and reception-history audit."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "First of all, then, I appeal that petitions, prayers, intercessions, thanksgivings be made for all humans,",
+      "familiar": {
+        "source": "KJV",
+        "text": "I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "for kings and all those being in high position, so that we may lead a tranquil and quiet life in all reverence and dignity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For kings, and for all that are in authority; that we may lead a quiet and peaceable life in all godliness and honesty."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "kingship-power"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "This is beautiful/good and acceptable before Divine our Savior/Healer,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For this is good and acceptable in the sight of God our Saviour;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "who wills all humans to be saved/healed and to come into knowledge of truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who will have all men to be saved, and to come unto the knowledge of the truth."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For there is one Divine and one mediator of Divine and humans, human Messiah Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "the One giving himself as ransom/release-price for all, the witness in its own seasons.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who gave himself a ransom for all, to be testified in due time."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Into this I was appointed herald and apostle, I speak truth, I do not lie, teacher of nations in trust and truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whereunto I am ordained a preacher, and an apostle, (I speak the truth in Christ, and lie not;) a teacher of the Gentiles in faith and verity."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "foreigner-migrant",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "migrant-dignity",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Therefore I desire the men in every place to pray, lifting holy hands without anger and argument.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will therefore that men pray every where, lifting up holy hands, without wrath and doubting."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Likewise also women, in respectable arrangement, with modesty and soundness of mind, to adorn themselves not with braided hair and gold or pearls or costly clothing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "In like manner also, that women adorn themselves in modest apparel, with shamefacedness and sobriety; not with broided hair, or gold, or pearls, or costly array;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "but with what is fitting for women professing reverence for the Divine: through good works.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But (which becometh women professing godliness) with good works."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Let a woman learn in quietness, in all teachability/orderly submission.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the woman learn in silence with all subjection."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "But I do not permit a woman to teach or to domineer over a man, but to be in quietness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I suffer not a woman to teach, nor to usurp authority over the man, but to be in silence."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "For Adam was formed first, then Eve.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Adam was first formed, then Eve."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And Adam was not deceived, but the woman, having been deceived, has come into transgression.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Adam was not deceived, but the woman being deceived was in the transgression."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "But she will be saved/healed through the childbearing, if they remain in trust and love and holiness with soundness of mind.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith",
+        "family-lineage",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "safety_note": "1 Timothy 2:11-15 is variant-sensitive in interpretation and highly dangerous in reception history. The draft preserves the text while noting that authentein is rare and can mean domineer/usurp rather than ordinary teaching authority. This passage must not be used to silence women broadly without second-pass Greek syntax, historical-context, and reception-history audit, especially because women pray/prophesy and serve as coworkers elsewhere in the Pauline corpus.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-3-of-15",
+    "tags": "partial-11-of-15",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-15",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

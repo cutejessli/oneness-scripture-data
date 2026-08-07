@@ -1,1 +1,452 @@
-{"book":"Colossians","book_id":"colossians","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek Colossians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for fullness, philosophy/elemental powers, circumcision of Messiah, handwriting canceled, powers disarmed, food/festival judgment, ascetic severity."},"verses":[{"verse":1,"restored":"For I want you to know how great a struggle I have for you and those in Laodicea and as many as have not seen my face in flesh,"},{"verse":2,"restored":"so that their hearts may be comforted/encouraged, being knit together in love and into all riches of the full assurance of understanding, into knowledge of the mystery of the Divine, Messiah,"},{"verse":3,"restored":"in whom are hidden all the treasures of wisdom and knowledge."},{"verse":4,"restored":"I say this so that no one may deceive you with persuasive speech."},{"verse":5,"restored":"For even if I am absent in flesh, yet in spirit I am with you, rejoicing and seeing your order and the firmness of your trust in Messiah."},{"verse":6,"restored":"Therefore, as you received Messiah Jesus the Lord, walk in him,"},{"verse":7,"restored":"having been rooted and being built up in him and being confirmed in the trust, just as you were taught, abounding in thanksgiving."},{"verse":8,"restored":"Watch lest anyone take you captive through philosophy and empty deceit, according to human tradition, according to the elemental powers/principles of the world, and not according to Messiah."},{"verse":9,"restored":"Because in him all the fullness of deity dwells bodily,"},{"verse":10,"restored":"and you have been filled in him, who is head of every ruler and authority."},{"verse":11,"restored":"In him also you were circumcised with a circumcision not made by hands, in the stripping off of the body of flesh, in the circumcision of Messiah,"},{"verse":12,"restored":"having been buried with him in baptism, in whom also you were raised together through trust in the working of the Divine who raised him from the dead."},{"verse":13,"restored":"And you, being dead in trespasses and the uncircumcision of your flesh, he made alive together with him, graciously forgiving us all trespasses,"},{"verse":14,"restored":"having wiped out the handwriting against us in decrees that was opposed to us; he has taken it from the midst, nailing it to the cross."},{"verse":15,"restored":"Having stripped the rulers and authorities, he made a public display of them, triumphing over them in it."},{"verse":16,"restored":"Therefore let no one judge you in food or drink or in respect of festival or new moon or Sabbaths,"},{"verse":17,"restored":"which are shadow of the things coming, but the body/substance belongs to Messiah."},{"verse":18,"restored":"Let no one disqualify you, delighting in humility and worship of messengers, entering into things one has seen, being puffed up without cause by the mind of one's flesh,"},{"verse":19,"restored":"and not holding fast the head, from whom the whole body, through joints and ligaments being supplied and knit together, grows with the growth of the Divine."},{"verse":20,"restored":"If you died with Messiah from the elemental powers/principles of the world, why, as living in the world, do you submit to decrees:"},{"verse":21,"restored":"Do not handle, nor taste, nor touch,"},{"verse":22,"restored":"which are all into decay by use, according to human commandments and teachings?"},{"verse":23,"restored":"These indeed have a word of wisdom in self-made religion and humility and severity to body, but are not of any value against fullness/satisfaction of the flesh."}],"translation_notes":["Fullness of deity dwells bodily protects embodied fullness, not escape from embodiment.","Elemental powers/principles and human decrees are the concern, not embodied Jewish practice as such.","The food/festival/Sabbath passage should not be used as contempt for Jewish observance; the polemic concerns judgment/disqualification in this Colossian context." ]}
+{
+  "book": "Colossians",
+  "book_id": "colossians",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Colossians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for fullness, philosophy/elemental powers, circumcision of Messiah, handwriting canceled, powers disarmed, food/festival judgment, ascetic severity."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "For I want you to know how great a struggle I have for you and those in Laodicea and as many as have not seen my face in flesh,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I would that ye knew what great conflict I have for you, and for them at Laodicea, and for as many as have not seen my face in the flesh;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "so that their hearts may be comforted/encouraged, being knit together in love and into all riches of the full assurance of understanding, into knowledge of the mystery of the Divine, Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "economic-justice"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "in whom are hidden all the treasures of wisdom and knowledge.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In whom are hid all the treasures of wisdom and knowledge."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I say this so that no one may deceive you with persuasive speech.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this I say, lest any man should beguile you with enticing words."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For even if I am absent in flesh, yet in spirit I am with you, rejoicing and seeing your order and the firmness of your trust in Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Therefore, as you received Messiah Jesus the Lord, walk in him,",
+      "familiar": {
+        "source": "KJV",
+        "text": "As ye have therefore received Christ Jesus the Lord, so walk ye in him:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "having been rooted and being built up in him and being confirmed in the trust, just as you were taught, abounding in thanksgiving.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Rooted and built up in him, and stablished in the faith, as ye have been taught, abounding therein with thanksgiving."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Watch lest anyone take you captive through philosophy and empty deceit, according to human tradition, according to the elemental powers/principles of the world, and not according to Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beware lest any man spoil you through philosophy and vain deceit, after the tradition of men, after the rudiments of the world, and not after Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Because in him all the fullness of deity dwells bodily,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in him dwelleth all the fulness of the Godhead bodily."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "and you have been filled in him, who is head of every ruler and authority.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And ye are complete in him, which is the head of all principality and power:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "In him also you were circumcised with a circumcision not made by hands, in the stripping off of the body of flesh, in the circumcision of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "having been buried with him in baptism, in whom also you were raised together through trust in the working of the Divine who raised him from the dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And you, being dead in trespasses and the uncircumcision of your flesh, he made alive together with him, graciously forgiving us all trespasses,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And you, being dead in your sins and the uncircumcision of your flesh, hath he quickened together with him, having forgiven you all trespasses;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "having wiped out the handwriting against us in decrees that was opposed to us; he has taken it from the midst, nailing it to the cross.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blotting out the handwriting of ordinances that was against us, which was contrary to us, and took it out of the way, nailing it to his cross;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Having stripped the rulers and authorities, he made a public display of them, triumphing over them in it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And having spoiled principalities and powers, he made a shew of them openly, triumphing over them in it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Therefore let no one judge you in food or drink or in respect of festival or new moon or Sabbaths,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let no man therefore judge you in meat, or in drink, or in respect of an holyday, or of the new moon, or of the sabbath days:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "which are shadow of the things coming, but the body/substance belongs to Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which are a shadow of things to come; but the body is of Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Let no one disqualify you, delighting in humility and worship of messengers, entering into things one has seen, being puffed up without cause by the mind of one's flesh,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let no man beguile you of your reward in a voluntary humility and worshipping of angels, intruding into those things which he hath not seen, vainly puffed up by his fleshly mind,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "and not holding fast the head, from whom the whole body, through joints and ligaments being supplied and knit together, grows with the growth of the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And not holding the Head, from which all the body by joints and bands having nourishment ministered, and knit together, increaseth with the increase of God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "If you died with Messiah from the elemental powers/principles of the world, why, as living in the world, do you submit to decrees:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Do not handle, nor taste, nor touch,",
+      "familiar": {
+        "source": "KJV",
+        "text": "(Touch not; taste not; handle not;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "which are all into decay by use, according to human commandments and teachings?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which all are to perish with the using;) after the commandments and doctrines of men?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "These indeed have a word of wisdom in self-made religion and humility and severity to body, but are not of any value against fullness/satisfaction of the flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which things have indeed a shew of wisdom in will worship, and humility, and neglecting of the body; not in any honour to the satisfying of the flesh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Fullness of deity dwells bodily protects embodied fullness, not escape from embodiment.",
+    "Elemental powers/principles and human decrees are the concern, not embodied Jewish practice as such.",
+    "The food/festival/Sabbath passage should not be used as contempt for Jewish observance; the polemic concerns judgment/disqualification in this Colossian context."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-23",
+    "tags": "partial-4-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

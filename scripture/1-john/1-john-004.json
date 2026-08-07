@@ -1,1 +1,518 @@
-{"book":"1 John","book_id":"1-john","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 John text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for testing spirits, confession of Jesus, love from Divine, God is love, perfected love casting out fear."},"verses":[{"verse":1,"restored":"Beloved, do not trust every spirit, but test the spirits whether they are from the Divine, because many false prophets have gone out into the world-system."},{"verse":2,"restored":"By this you know the Spirit of the Divine: every spirit that confesses Jesus Messiah having come in flesh is from the Divine,"},{"verse":3,"restored":"and every spirit that does not confess Jesus is not from the Divine; and this is the opposing-Messiah spirit, which you have heard is coming and now already is in the world-system."},{"verse":4,"restored":"You are from the Divine, little children, and have overcome them, because greater is the One in you than the one in the world-system."},{"verse":5,"restored":"They are from the world-system; because of this they speak from the world-system, and the world-system hears them."},{"verse":6,"restored":"We are from the Divine. The one knowing the Divine hears us; whoever is not from the Divine does not hear us. From this we know the Spirit of truth and the spirit of wandering."},{"verse":7,"restored":"Beloved, let us love one another, because love is from the Divine, and everyone loving has been born from the Divine and knows the Divine."},{"verse":8,"restored":"The one not loving did not know the Divine, because the Divine is love."},{"verse":9,"restored":"In this the love of the Divine was manifested among us: that the Divine sent his only/beloved Son into the world-system so that we might live through him."},{"verse":10,"restored":"In this is love: not that we loved the Divine, but that he loved us and sent his Son as atoning mercy concerning our sins/misalignments."},{"verse":11,"restored":"Beloved, if the Divine so loved us, we also ought to love one another."},{"verse":12,"restored":"No one has ever seen the Divine. If we love one another, the Divine remains in us and his love is completed in us."},{"verse":13,"restored":"In this we know that we remain in him and he in us, because he has given us from his Spirit."},{"verse":14,"restored":"And we have seen and testify that the Father has sent the Son as Savior/Healer of the world-system."},{"verse":15,"restored":"Whoever confesses that Jesus is the Son of the Divine, the Divine remains in that one and that one in the Divine."},{"verse":16,"restored":"And we have known and trusted the love that the Divine has in us. The Divine is love, and the one remaining in love remains in the Divine, and the Divine remains in that one."},{"verse":17,"restored":"In this love has been completed with us, so that we may have boldness in the day of judgment, because just as that one is, so also are we in this world-system."},{"verse":18,"restored":"There is no fear in love, but complete love casts fear outside, because fear has punishment; the one fearing has not been completed in love."},{"verse":19,"restored":"We love because he first loved us."},{"verse":20,"restored":"If anyone says, I love the Divine, and hates one's sibling, one is a liar; for the one not loving the sibling whom one has seen is not able to love the Divine whom one has not seen."},{"verse":21,"restored":"And this command we have from him: that the one loving the Divine also love one's sibling."}],"translation_notes":["Testing spirits is discernment, not paranoia; confession of Jesus come in flesh preserves embodied Messiah.","God is love is central and must govern the chapter's discernment language.","Perfect love casts out fear is a major pastoral safeguard." ]}
+{
+  "book": "1 John",
+  "book_id": "1-john",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 John text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for testing spirits, confession of Jesus, love from Divine, God is love, perfected love casting out fear."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Beloved, do not trust every spirit, but test the spirits whether they are from the Divine, because many false prophets have gone out into the world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, believe not every spirit, but try the spirits whether they are of God: because many false prophets are gone out into the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "spirit",
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "By this you know the Spirit of the Divine: every spirit that confesses Jesus Messiah having come in flesh is from the Divine,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hereby know ye the Spirit of God: Every spirit that confesseth that Jesus Christ is come in the flesh is of God:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "and every spirit that does not confess Jesus is not from the Divine; and this is the opposing-Messiah spirit, which you have heard is coming and now already is in the world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every spirit that confesseth not that Jesus Christ is come in the flesh is not of God: and this is that spirit of antichrist, whereof ye have heard that it should come; and even now already is it in the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "You are from the Divine, little children, and have overcome them, because greater is the One in you than the one in the world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They are from the world-system; because of this they speak from the world-system, and the world-system hears them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They are of the world: therefore speak they of the world, and the world heareth them."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "We are from the Divine. The one knowing the Divine hears us; whoever is not from the Divine does not hear us. From this we know the Spirit of truth and the spirit of wandering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We are of God: he that knoweth God heareth us; he that is not of God heareth not us. Hereby know we the spirit of truth, and the spirit of error."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Beloved, let us love one another, because love is from the Divine, and everyone loving has been born from the Divine and knows the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The one not loving did not know the Divine, because the Divine is love.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that loveth not knoweth not God; for God is love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "In this the love of the Divine was manifested among us: that the Divine sent his only/beloved Son into the world-system so that we might live through him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In this was manifested the love of God toward us, because that God sent his only begotten Son into the world, that we might live through him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "In this is love: not that we loved the Divine, but that he loved us and sent his Son as atoning mercy concerning our sins/misalignments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Herein is love, not that we loved God, but that he loved us, and sent his Son to be the propitiation for our sins."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Beloved, if the Divine so loved us, we also ought to love one another.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beloved, if God so loved us, we ought also to love one another."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "No one has ever seen the Divine. If we love one another, the Divine remains in us and his love is completed in us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "No man hath seen God at any time. If we love one another, God dwelleth in us, and his love is perfected in us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "In this we know that we remain in him and he in us, because he has given us from his Spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hereby know we that we dwell in him, and he in us, because he hath given us of his Spirit."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And we have seen and testify that the Father has sent the Son as Savior/Healer of the world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we have seen and do testify that the Father sent the Son to be the Saviour of the world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage",
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Whoever confesses that Jesus is the Son of the Divine, the Divine remains in that one and that one in the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever shall confess that Jesus is the Son of God, God dwelleth in him, and he in God."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And we have known and trusted the love that the Divine has in us. The Divine is love, and the one remaining in love remains in the Divine, and the Divine remains in that one.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And we have known and believed the love that God hath to us. God is love; and he that dwelleth in love dwelleth in God, and God in him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love",
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "In this love has been completed with us, so that we may have boldness in the day of judgment, because just as that one is, so also are we in this world-system.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Herein is our love made perfect, that we may have boldness in the day of judgment: because as he is, so are we in this world."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "There is no fear in love, but complete love casts fear outside, because fear has punishment; the one fearing has not been completed in love.",
+      "familiar": {
+        "source": "KJV",
+        "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "We love because he first loved us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We love him, because he first loved us."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "If anyone says, I love the Divine, and hates one's sibling, one is a liar; for the one not loving the sibling whom one has seen is not able to love the Divine whom one has not seen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "And this command we have from him: that the one loving the Divine also love one's sibling.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this commandment have we from him, That he who loveth God love his brother also."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Testing spirits is discernment, not paranoia; confession of Jesus come in flesh preserves embodied Messiah.",
+    "God is love is central and must govern the chapter's discernment language.",
+    "Perfect love casts out fear is a major pastoral safeguard."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-17-of-21",
+    "tags": "partial-20-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

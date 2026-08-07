@@ -1,1 +1,414 @@
-{"book":"1 Peter","book_id":"1-peter","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek 1 Peter text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact draft reviewed for wives/husbands, inner adornment, good conscience, suffering for good, spirits in prison, baptism."},"verses":[{"verse":1,"restored":"Likewise wives, be arranged under your own husbands, so that even if some disobey the word, they may be won without word through the conduct of wives,"},{"verse":2,"restored":"observing your pure conduct in reverence."},{"verse":3,"restored":"Let your adornment not be outward braiding of hair and wearing of gold or putting on garments,"},{"verse":4,"restored":"but the hidden human of the heart, in the incorruptible of gentle and quiet spirit, which is very precious before the Divine."},{"verse":5,"restored":"For so once also the holy women hoping in the Divine adorned themselves, being arranged under their own husbands,"},{"verse":6,"restored":"as Sarah obeyed Abraham, calling him lord; whose children you became, doing good and not fearing any terror."},{"verse":7,"restored":"Husbands likewise, living together according to knowledge, giving honor to the feminine as weaker vessel, as also co-heirs of grace of life, so that your prayers may not be hindered."},{"verse":8,"restored":"Finally, all be of one mind, sympathetic, sibling-loving, tenderhearted, humble-minded,"},{"verse":9,"restored":"not repaying harm for harm or reviling for reviling, but instead blessing, because into this you were called, so that you may inherit blessing."},{"verse":10,"restored":"For the one willing to love life and see good days, let one stop the tongue from harm and lips from speaking deceit,"},{"verse":11,"restored":"let one turn away from harm and do good; let one seek peace and pursue it."},{"verse":12,"restored":"Because eyes of Lord are upon righteous/just ones and his ears toward their prayer, but face of Lord is against those doing harm."},{"verse":13,"restored":"And who is the one harming you if you become zealous for the good?"},{"verse":14,"restored":"But even if you should suffer because of righteousness/justice, blessed are you. Do not fear their fear, nor be troubled."},{"verse":15,"restored":"But set apart Messiah as Lord in your hearts, always ready for defense to everyone asking you a word concerning the hope in you, yet with gentleness and reverence,"},{"verse":16,"restored":"having a good conscience, so that in what you are spoken against, those reviling your beautiful conduct in Messiah may be put to shame."},{"verse":17,"restored":"For it is better, if the will of Divine should will, to suffer doing good than doing harm."},{"verse":18,"restored":"Because Messiah also suffered once concerning sins/misalignments, righteous/just on behalf of unrighteous/unjust, so that he might bring you to the Divine, put to death in flesh but made alive in Spirit,"},{"verse":19,"restored":"in which also he went and proclaimed to the spirits in prison,"},{"verse":20,"restored":"who formerly disobeyed, when the patience of the Divine waited in days of Noah, while ark was being prepared, in which few, that is eight souls/lives, were brought safely through water."},{"verse":21,"restored":"Which also now as corresponding pattern saves/heals you: baptism, not putting away dirt of flesh, but appeal/pledge of good conscience toward Divine, through resurrection of Jesus Messiah,"},{"verse":22,"restored":"who is at right hand of Divine, having gone into heaven, messengers and authorities and powers being arranged under him."}],"safety_note":"1 Peter 3:1-7 must not be used to sanctify patriarchy, coercion, or domestic abuse. The passage is held within the wider command to do good without fear, husbands honoring wives as co-heirs of grace of life, and prayers being hindered by dishonor. Reception-history audit required.","translation_notes":["Apologia is defense/explanation of hope with gentleness and reverence, not combative apologetics.","Spirits in prison and baptism correspondence require second-pass audit; ambiguity is preserved." ]}
+{
+  "book": "1 Peter",
+  "book_id": "1-peter",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek 1 Peter text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact draft reviewed for wives/husbands, inner adornment, good conscience, suffering for good, spirits in prison, baptism."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Likewise wives, be arranged under your own husbands, so that even if some disobey the word, they may be won without word through the conduct of wives,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise, ye wives, be in subjection to your own husbands; that, if any obey not the word, they also may without the word be won by the conversation of the wives;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "observing your pure conduct in reverence.",
+      "familiar": {
+        "source": "KJV",
+        "text": "While they behold your chaste conversation coupled with fear."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Let your adornment not be outward braiding of hair and wearing of gold or putting on garments,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose adorning let it not be that outward adorning of plaiting the hair, and of wearing of gold, or of putting on of apparel;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "but the hidden human of the heart, in the incorruptible of gentle and quiet spirit, which is very precious before the Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let it be the hidden man of the heart, in that which is not corruptible, even the ornament of a meek and quiet spirit, which is in the sight of God of great price."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For so once also the holy women hoping in the Divine adorned themselves, being arranged under their own husbands,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For after this manner in the old time the holy women also, who trusted in God, adorned themselves, being in subjection unto their own husbands:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "as Sarah obeyed Abraham, calling him lord; whose children you became, doing good and not fearing any terror.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Even as Sara obeyed Abraham, calling him lord: whose daughters ye are, as long as ye do well, and are not afraid with any amazement."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Husbands likewise, living together according to knowledge, giving honor to the feminine as weaker vessel, as also co-heirs of grace of life, so that your prayers may not be hindered.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise, ye husbands, dwell with them according to knowledge, giving honour unto the wife, as unto the weaker vessel, and as being heirs together of the grace of life; that your prayers be not hindered."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "grace",
+          "source": "charis",
+          "language": "Greek",
+          "glossary_id": "charis",
+          "transliteration": "charis"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Finally, all be of one mind, sympathetic, sibling-loving, tenderhearted, humble-minded,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Finally, be ye all of one mind, having compassion one of another, love as brethren, be pitiful, be courteous:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "not repaying harm for harm or reviling for reviling, but instead blessing, because into this you were called, so that you may inherit blessing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not rendering evil for evil, or railing for railing: but contrariwise blessing; knowing that ye are thereunto called, that ye should inherit a blessing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For the one willing to love life and see good days, let one stop the tongue from harm and lips from speaking deceit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "let one turn away from harm and do good; let one seek peace and pursue it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let him eschew evil, and do good; let him seek peace, and ensue it."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Because eyes of Lord are upon righteous/just ones and his ears toward their prayer, but face of Lord is against those doing harm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the eyes of the Lord are over the righteous, and his ears are open unto their prayers: but the face of the Lord is against them that do evil."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And who is the one harming you if you become zealous for the good?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And who is he that will harm you, if ye be followers of that which is good?"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But even if you should suffer because of righteousness/justice, blessed are you. Do not fear their fear, nor be troubled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But and if ye suffer for righteousness’ sake, happy are ye: and be not afraid of their terror, neither be troubled;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But set apart Messiah as Lord in your hearts, always ready for defense to everyone asking you a word concerning the hope in you, yet with gentleness and reverence,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But sanctify the Lord God in your hearts: and be ready always to give an answer to every man that asketh you a reason of the hope that is in you with meekness and fear:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "having a good conscience, so that in what you are spoken against, those reviling your beautiful conduct in Messiah may be put to shame.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Having a good conscience; that, whereas they speak evil of you, as of evildoers, they may be ashamed that falsely accuse your good conversation in Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "For it is better, if the will of Divine should will, to suffer doing good than doing harm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is better, if the will of God be so, that ye suffer for well doing, than for evil doing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Because Messiah also suffered once concerning sins/misalignments, righteous/just on behalf of unrighteous/unjust, so that he might bring you to the Divine, put to death in flesh but made alive in Spirit,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "in which also he went and proclaimed to the spirits in prison,",
+      "familiar": {
+        "source": "KJV",
+        "text": "By which also he went and preached unto the spirits in prison;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "who formerly disobeyed, when the patience of the Divine waited in days of Noah, while ark was being prepared, in which few, that is eight souls/lives, were brought safely through water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which sometime were disobedient, when once the longsuffering of God waited in the days of Noah, while the ark was a preparing, wherein few, that is, eight souls were saved by water."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Which also now as corresponding pattern saves/heals you: baptism, not putting away dirt of flesh, but appeal/pledge of good conscience toward Divine, through resurrection of Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The like figure whereunto even baptism doth also now save us (not the putting away of the filth of the flesh, but the answer of a good conscience toward God,) by the resurrection of Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "who is at right hand of Divine, having gone into heaven, messengers and authorities and powers being arranged under him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who is gone into heaven, and is on the right hand of God; angels and authorities and powers being made subject unto him."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "safety_note": "1 Peter 3:1-7 must not be used to sanctify patriarchy, coercion, or domestic abuse. The passage is held within the wider command to do good without fear, husbands honoring wives as co-heirs of grace of life, and prayers being hindered by dishonor. Reception-history audit required.",
+  "translation_notes": [
+    "Apologia is defense/explanation of hope with gentleness and reverence, not combative apologetics.",
+    "Spirits in prison and baptism correspondence require second-pass audit; ambiguity is preserved."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-22",
+    "tags": "partial-8-of-22",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-22",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

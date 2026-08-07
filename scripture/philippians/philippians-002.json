@@ -1,1 +1,561 @@
-{"book":"Philippians","book_id":"philippians","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Greek Philippians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for unity/humility, Messiah hymn, working out salvation, shining as lights, Timothy/Epaphroditus."},"verses":[{"verse":1,"restored":"Therefore if there is any encouragement in Messiah, if any comfort of love, if any fellowship/participation of Spirit, if any inward affections and compassions,"},{"verse":2,"restored":"complete my joy: that you think the same, having the same love, joined in soul/life, thinking the one thing,"},{"verse":3,"restored":"nothing according to selfish ambition or empty glory, but in humility counting one another as surpassing yourselves,"},{"verse":4,"restored":"not looking each to one's own things, but each also to the things of others."},{"verse":5,"restored":"Let this mind be in you which also was in Messiah Jesus,"},{"verse":6,"restored":"who, existing in form of the Divine, did not regard equality with the Divine as something to be seized/exploited,"},{"verse":7,"restored":"but emptied himself, taking form of servant, coming to be in likeness of humans; and being found in shape as human,"},{"verse":8,"restored":"he humbled himself, becoming obedient until death, even death of a cross."},{"verse":9,"restored":"Therefore also the Divine highly exalted him and graced him with the name above every name,"},{"verse":10,"restored":"so that at the name of Jesus every knee should bend, of heavenly and earthly and under-earthly ones,"},{"verse":11,"restored":"and every tongue should confess that Jesus Messiah is Lord, into glory of Divine Father."},{"verse":12,"restored":"So then, my beloved, just as you always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation/healing with fear/reverence and trembling,"},{"verse":13,"restored":"for the Divine is the One working in you both to will and to work for his good pleasure."},{"verse":14,"restored":"Do all things without grumblings and arguments,"},{"verse":15,"restored":"so that you may become blameless and innocent, children of the Divine without blemish in the midst of a crooked and distorted generation, among whom you shine as lights in the world,"},{"verse":16,"restored":"holding fast the word of life, into my boast for the day of Messiah, that I did not run in vain nor labor in vain."},{"verse":17,"restored":"But even if I am being poured out as drink offering upon the sacrifice and service of your trust, I rejoice and rejoice together with all of you."},{"verse":18,"restored":"And in the same way you also rejoice and rejoice together with me."},{"verse":19,"restored":"But I hope in Lord Jesus to send Timothy to you soon, so that I also may be of good soul/life, knowing the things concerning you."},{"verse":20,"restored":"For I have no one equal-souled who will genuinely care for the things concerning you."},{"verse":21,"restored":"For all seek their own things, not the things of Jesus Messiah."},{"verse":22,"restored":"But you know his tested character, that as child with father he served with me in the good news."},{"verse":23,"restored":"Therefore I hope to send this one immediately, whenever I see the things concerning me."},{"verse":24,"restored":"And I have been persuaded in the Lord that I myself also will come soon."},{"verse":25,"restored":"But I considered it necessary to send to you Epaphroditus, my sibling and coworker and fellow soldier, your apostle/messenger and servant of my need,"},{"verse":26,"restored":"since he was longing for all of you and distressed because you heard that he was sick."},{"verse":27,"restored":"For indeed he was sick, near death; but the Divine showed mercy to him, and not to him only but also to me, lest I should have grief upon grief."},{"verse":28,"restored":"Therefore I sent him more eagerly, so that seeing him again you may rejoice and I may be less grieved."},{"verse":29,"restored":"Receive him therefore in the Lord with all joy, and hold such ones in honor,"},{"verse":30,"restored":"because through the work of Messiah he came near to death, risking his soul/life, so that he might fill up what was lacking in your service toward me."}],"translation_notes":["The Messiah hymn centers non-exploitative Divine form: equality with Divine is not seized but expressed through self-emptying service.","Work out salvation/healing is held together with Divine working within; this is participation, not self-salvation." ]}
+{
+  "book": "Philippians",
+  "book_id": "philippians",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Philippians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for unity/humility, Messiah hymn, working out salvation, shining as lights, Timothy/Epaphroditus."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Therefore if there is any encouragement in Messiah, if any comfort of love, if any fellowship/participation of Spirit, if any inward affections and compassions,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        },
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "spirit",
+        "love"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "complete my joy: that you think the same, having the same love, joined in soul/life, thinking the one thing,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "love",
+          "source": "agape",
+          "language": "Greek",
+          "glossary_id": "agape",
+          "transliteration": "agape"
+        }
+      ],
+      "tags": [
+        "love"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "nothing according to selfish ambition or empty glory, but in humility counting one another as surpassing yourselves,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let nothing be done through strife or vainglory; but in lowliness of mind let each esteem other better than themselves."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "not looking each to one's own things, but each also to the things of others.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Look not every man on his own things, but every man also on the things of others."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let this mind be in you which also was in Messiah Jesus,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let this mind be in you, which was also in Christ Jesus:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "who, existing in form of the Divine, did not regard equality with the Divine as something to be seized/exploited,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who, being in the form of God, thought it not robbery to be equal with God:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "but emptied himself, taking form of servant, coming to be in likeness of humans; and being found in shape as human,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But made himself of no reputation, and took upon him the form of a servant, and was made in the likeness of men:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "he humbled himself, becoming obedient until death, even death of a cross.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And being found in fashion as a man, he humbled himself, and became obedient unto death, even the death of the cross."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Therefore also the Divine highly exalted him and graced him with the name above every name,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore God also hath highly exalted him, and given him a name which is above every name:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "so that at the name of Jesus every knee should bend, of heavenly and earthly and under-earthly ones,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "and every tongue should confess that Jesus Messiah is Lord, into glory of Divine Father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "So then, my beloved, just as you always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation/healing with fear/reverence and trembling,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "for the Divine is the One working in you both to will and to work for his good pleasure.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For it is God which worketh in you both to will and to do of his good pleasure."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Do all things without grumblings and arguments,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do all things without murmurings and disputings:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "so that you may become blameless and innocent, children of the Divine without blemish in the midst of a crooked and distorted generation, among whom you shine as lights in the world,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "holding fast the word of life, into my boast for the day of Messiah, that I did not run in vain nor labor in vain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Holding forth the word of life; that I may rejoice in the day of Christ, that I have not run in vain, neither laboured in vain."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "But even if I am being poured out as drink offering upon the sacrifice and service of your trust, I rejoice and rejoice together with all of you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And in the same way you also rejoice and rejoice together with me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the same cause also do ye joy, and rejoice with me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "But I hope in Lord Jesus to send Timothy to you soon, so that I also may be of good soul/life, knowing the things concerning you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I trust in the Lord Jesus to send Timotheus shortly unto you, that I also may be of good comfort, when I know your state."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For I have no one equal-souled who will genuinely care for the things concerning you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I have no man likeminded, who will naturally care for your state."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For all seek their own things, not the things of Jesus Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For all seek their own, not the things which are Jesus Christ’s."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "But you know his tested character, that as child with father he served with me in the good news.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "good news",
+          "source": "euangelion",
+          "language": "Greek",
+          "glossary_id": "euangelion",
+          "transliteration": "euangelion"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Therefore I hope to send this one immediately, whenever I see the things concerning me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Him therefore I hope to send presently, so soon as I shall see how it will go with me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "And I have been persuaded in the Lord that I myself also will come soon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I trust in the Lord that I also myself shall come shortly."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "But I considered it necessary to send to you Epaphroditus, my sibling and coworker and fellow soldier, your apostle/messenger and servant of my need,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet I supposed it necessary to send to you Epaphroditus, my brother, and companion in labour, and fellowsoldier, but your messenger, and he that ministered to my wants."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "religious-authority",
+        "labor-power"
+      ],
+      "editorial_flags": [
+        "labor-power-audit",
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "since he was longing for all of you and distressed because you heard that he was sick.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "For indeed he was sick, near death; but the Divine showed mercy to him, and not to him only but also to me, lest I should have grief upon grief.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For indeed he was sick nigh unto death: but God had mercy on him; and not on him only, but on me also, lest I should have sorrow upon sorrow."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "healing-disability",
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Therefore I sent him more eagerly, so that seeing him again you may rejoice and I may be less grieved.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Receive him therefore in the Lord with all joy, and hold such ones in honor,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Receive him therefore in the Lord with all gladness; and hold such in reputation:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "because through the work of Messiah he came near to death, risking his soul/life, so that he might fill up what was lacking in your service toward me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The Messiah hymn centers non-exploitative Divine form: equality with Divine is not seized but expressed through self-emptying service.",
+    "Work out salvation/healing is held together with Divine working within; this is participation, not self-salvation."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-30",
+    "tags": "partial-12-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}

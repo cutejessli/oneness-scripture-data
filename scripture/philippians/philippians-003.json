@@ -1,1 +1,423 @@
-{"book":"Philippians","book_id":"philippians","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Greek Philippians text tradition, draft aligned to public-domain comparison layer later","review_note":"Compact complete draft reviewed for warning, confidence in flesh, loss/gain, knowing Messiah, righteousness from trust, pressing toward goal, heavenly citizenship."},"verses":[{"verse":1,"restored":"Finally, my siblings, rejoice in the Lord. To write the same things to you is not troublesome for me, and for you it is safe."},{"verse":2,"restored":"Watch the dogs; watch the harmful workers; watch the mutilation."},{"verse":3,"restored":"For we are the circumcision, the ones serving by Spirit of the Divine and boasting in Messiah Jesus and not having confidence in flesh,"},{"verse":4,"restored":"though I myself have confidence even in flesh. If any other thinks to have confidence in flesh, I more:"},{"verse":5,"restored":"circumcised on the eighth day, from the race of Israel, tribe of Benjamin, Hebrew of Hebrews; according to Law, Pharisee;"},{"verse":6,"restored":"according to zeal, pursuing/persecuting the assembly; according to righteousness/justice in Law, having become blameless."},{"verse":7,"restored":"But whatever things were gains to me, these I have considered loss because of Messiah."},{"verse":8,"restored":"Indeed therefore I also consider all things to be loss because of the surpassing value of the knowledge of Messiah Jesus my Lord, because of whom I lost all things and consider them refuse, so that I may gain Messiah"},{"verse":9,"restored":"and be found in him, not having my own righteousness/justice from Law, but that through trust/faithfulness of Messiah, the righteousness/justice from the Divine upon trust,"},{"verse":10,"restored":"to know him and the power of his resurrection and the fellowship/participation of his sufferings, being conformed to his death,"},{"verse":11,"restored":"if somehow I may arrive into the resurrection from the dead."},{"verse":12,"restored":"Not that I already received or already have been made complete, but I pursue, if indeed I may take hold of that for which I also was taken hold of by Messiah Jesus."},{"verse":13,"restored":"Siblings, I do not calculate myself to have taken hold; but one thing: forgetting the things behind and stretching forward to the things ahead,"},{"verse":14,"restored":"I pursue toward the goal for the prize of the upward calling of the Divine in Messiah Jesus."},{"verse":15,"restored":"Therefore, as many as are mature/complete, let us think this; and if in anything you think otherwise, this also the Divine will unveil to you."},{"verse":16,"restored":"Only, to what we have reached, walk in line by the same."},{"verse":17,"restored":"Become co-imitators of me, siblings, and watch those walking this way, just as you have us as pattern."},{"verse":18,"restored":"For many walk, of whom I often told you and now tell you weeping, as enemies of the cross of Messiah,"},{"verse":19,"restored":"whose completion is destruction, whose god is the belly, and whose glory is in their shame, those thinking earthly things."},{"verse":20,"restored":"For our citizenship exists in heavens, from where also we eagerly await a savior/healer, Lord Jesus Messiah,"},{"verse":21,"restored":"who will transform the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself."}],"translation_notes":["Paul's sharp warning in 3:2 targets rival confidence-in-flesh pressure, not Jewish identity as contempt. His own Jewish credentials are named as real but relativized in Messiah.","Righteousness/justice through trust/faithfulness of Messiah preserves pistis Christou ambiguity.","The body is transformed, not discarded; 3:21 is embodied hope." ]}
+{
+  "book": "Philippians",
+  "book_id": "philippians",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Greek Philippians text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "Compact complete draft reviewed for warning, confidence in flesh, loss/gain, knowing Messiah, righteousness from trust, pressing toward goal, heavenly citizenship."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Finally, my siblings, rejoice in the Lord. To write the same things to you is not troublesome for me, and for you it is safe.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Finally, my brethren, rejoice in the Lord. To write the same things to you, to me indeed is not grievous, but for you it is safe."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Watch the dogs; watch the harmful workers; watch the mutilation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Beware of dogs, beware of evil workers, beware of the concision."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For we are the circumcision, the ones serving by Spirit of the Divine and boasting in Messiah Jesus and not having confidence in flesh,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "Spirit",
+          "source": "pneuma",
+          "language": "Greek",
+          "glossary_id": "pneuma",
+          "transliteration": "pneuma"
+        }
+      ],
+      "tags": [
+        "spirit"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "though I myself have confidence even in flesh. If any other thinks to have confidence in flesh, I more:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Though I might also have confidence in the flesh. If any other man thinketh that he hath whereof he might trust in the flesh, I more:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "circumcised on the eighth day, from the race of Israel, tribe of Benjamin, Hebrew of Hebrews; according to Law, Pharisee;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Circumcised the eighth day, of the stock of Israel, of the tribe of Benjamin, an Hebrew of the Hebrews; as touching the law, a Pharisee;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "according to zeal, pursuing/persecuting the assembly; according to righteousness/justice in Law, having become blameless.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Concerning zeal, persecuting the church; touching the righteousness which is in the law, blameless."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "assembly",
+          "source": "ekklesia",
+          "language": "Greek",
+          "glossary_id": "ekklesia",
+          "transliteration": "ekklesia"
+        }
+      ],
+      "tags": [
+        "sacred-community"
+      ],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "But whatever things were gains to me, these I have considered loss because of Messiah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But what things were gain to me, those I counted loss for Christ."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Indeed therefore I also consider all things to be loss because of the surpassing value of the knowledge of Messiah Jesus my Lord, because of whom I lost all things and consider them refuse, so that I may gain Messiah",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea doubtless, and I count all things but loss for the excellency of the knowledge of Christ Jesus my Lord: for whom I have suffered the loss of all things, and do count them but dung, that I may win Christ,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "and be found in him, not having my own righteousness/justice from Law, but that through trust/faithfulness of Messiah, the righteousness/justice from the Divine upon trust,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And be found in him, not having mine own righteousness, which is of the law, but that which is through the faith of Christ, the righteousness which is of God by faith:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        },
+        {
+          "display": "faith/trust",
+          "source": "pistis",
+          "language": "Greek",
+          "glossary_id": "pistis",
+          "transliteration": "pistis"
+        }
+      ],
+      "tags": [
+        "trust-faith"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "to know him and the power of his resurrection and the fellowship/participation of his sufferings, being conformed to his death,",
+      "familiar": {
+        "source": "KJV",
+        "text": "That I may know him, and the power of his resurrection, and the fellowship of his sufferings, being made conformable unto his death;"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [
+        "violence-death"
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "if somehow I may arrive into the resurrection from the dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If by any means I might attain unto the resurrection of the dead."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Not that I already received or already have been made complete, but I pursue, if indeed I may take hold of that for which I also was taken hold of by Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not as though I had already attained, either were already perfect: but I follow after, if that I may apprehend that for which also I am apprehended of Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Siblings, I do not calculate myself to have taken hold; but one thing: forgetting the things behind and stretching forward to the things ahead,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Brethren, I count not myself to have apprehended: but this one thing I do, forgetting those things which are behind, and reaching forth unto those things which are before,"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "I pursue toward the goal for the prize of the upward calling of the Divine in Messiah Jesus.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I press toward the mark for the prize of the high calling of God in Christ Jesus."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Therefore, as many as are mature/complete, let us think this; and if in anything you think otherwise, this also the Divine will unveil to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Only, to what we have reached, walk in line by the same.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless, whereto we have already attained, let us walk by the same rule, let us mind the same thing."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Become co-imitators of me, siblings, and watch those walking this way, just as you have us as pattern.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Brethren, be followers together of me, and mark them which walk so as ye have us for an ensample."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For many walk, of whom I often told you and now tell you weeping, as enemies of the cross of Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "(For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "whose completion is destruction, whose god is the belly, and whose glory is in their shame, those thinking earthly things.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whose end is destruction, whose God is their belly, and whose glory is in their shame, who mind earthly things.)"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "For our citizenship exists in heavens, from where also we eagerly await a savior/healer, Lord Jesus Messiah,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For our conversation is in heaven; from whence also we look for the Saviour, the Lord Jesus Christ:"
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [
+        {
+          "display": "Messiah",
+          "source": "Christos",
+          "language": "Greek",
+          "glossary_id": "christos",
+          "transliteration": "Christos"
+        }
+      ],
+      "tags": [
+        "healing-disability"
+      ],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "who will transform the body of our humiliation to be conformed to the body of his glory, according to the working by which he is able even to subject all things to himself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall change our vile body, that it may be fashioned like unto his glorious body, according to the working whereby he is able even to subdue all things unto himself."
+      },
+      "notes": [],
+      "cross_references": [],
+      "terms": [],
+      "tags": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Paul's sharp warning in 3:2 targets rival confidence-in-flesh pressure, not Jewish identity as contempt. His own Jewish credentials are named as real but relativized in Messiah.",
+    "Righteousness/justice through trust/faithfulness of Messiah preserves pistis Christou ambiguity.",
+    "The body is transformed, not discarded; 3:21 is embodied hope."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-9-of-21",
+    "tags": "partial-5-of-21",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-21",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "source_language": "Greek",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 6
+  }
+}
