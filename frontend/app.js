@@ -18,8 +18,6 @@ const els = {
   prevChapterBottom: document.querySelector("#prevChapterBottom"),
   nextChapterBottom: document.querySelector("#nextChapterBottom"),
   layerButtons: [...document.querySelectorAll("[data-layer]")],
-  welcome: document.querySelector("#welcome"),
-  startReading: document.querySelector("#startReading"),
   chapterView: document.querySelector("#chapterView"),
   statusStrip: document.querySelector("#statusStrip"),
   verseList: document.querySelector("#verseList"),
@@ -177,7 +175,6 @@ async function loadChapter() {
 }
 
 function showLoadingState() {
-  els.welcome.hidden = true;
   els.errorCard.hidden = true;
   els.chapterView.hidden = false;
   els.controlBar.hidden = false;
@@ -202,7 +199,6 @@ function renderChapter() {
   els.chapterTitle.textContent = `${state.book.name} ${state.chapter}`;
   els.sectionLabel.textContent = `${state.book.testament} · ${state.book.section}`;
   els.controlBar.hidden = false;
-  els.welcome.hidden = true;
   els.errorCard.hidden = true;
   els.chapterView.hidden = false;
 
@@ -266,7 +262,6 @@ function escapeHtml(value) {
 
 function showError(error) {
   els.chapterView.hidden = true;
-  els.welcome.hidden = true;
   els.errorCard.hidden = false;
   els.errorMessage.textContent = `The repository returned: ${error.message}.`;
 }
@@ -295,10 +290,6 @@ function setupEvents() {
     state.layer = button.dataset.layer;
     loadChapter();
   }));
-  els.startReading.addEventListener("click", () => {
-    const first = state.manifest.books.find((book) => book.restoredCount > 0);
-    if (first) selectBook(first);
-  });
   els.retryButton.addEventListener("click", loadChapter);
   els.themeToggle.addEventListener("click", () => {
     const current = document.documentElement.dataset.theme || "light";
@@ -320,8 +311,10 @@ async function init() {
 
     const hash = parseHash();
     if (hash.layer) state.layer = hash.layer;
-    const book = state.manifest.books.find((item) => item.id === hash.book && item.restoredCount > 0);
-    if (book) await selectBook(book, hash.chapter);
+    const requestedBook = state.manifest.books.find((item) => item.id === hash.book && item.restoredCount > 0);
+    const firstLiveBook = state.manifest.books.find((item) => item.restoredCount > 0);
+    const book = requestedBook || firstLiveBook;
+    if (book) await selectBook(book, requestedBook ? hash.chapter : null);
   } catch (error) {
     els.libraryStats.textContent = "Library unavailable";
     showError(error);
