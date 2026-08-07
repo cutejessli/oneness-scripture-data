@@ -37,13 +37,11 @@ jobs:
           mkdir -p /tmp/modern-usfm
           curl -L --fail --retry 3 https://ebible.org/Scriptures/engbsb_usfm.zip -o /tmp/bsb_usfm.zip
           unzip -q /tmp/bsb_usfm.zip -d /tmp/modern-usfm
-          # BSB USFM is distributed with .SFM filenames; normalize the extension for the importer.
           find /tmp/modern-usfm -type f -iname '*.sfm' -print0 | while IFS= read -r -d '' file; do
             mv "$file" "${file%.*}.usfm"
           done
-          find /tmp/modern-usfm -type f -iname '*.usfm' | head
 
-      - name: Prepare Open Scriptures Hebrew Bible in English versification
+      - name: Prepare pointed WLC in English and source versification
         run: |
           sudo apt-get update -qq
           sudo apt-get install -y -qq libalgorithm-diff-perl libjson-perl libxml-libxml-perl libclone-perl libhash-merge-perl
@@ -82,77 +80,266 @@ jobs:
           for (const [name, chapters] of Object.entries(data)) normalized[names[name] || name] = chapters;
           fs.writeFileSync('/tmp/morphhb/hebrew.json', JSON.stringify(normalized));
           NODE
+
+          # Also preserve the source/WLC chapter numbering for chapters where the restored draft uses it.
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('morphhbXML-to-JSON.pl')
+          s = p.read_text().replace("my $remapVerses = 'true';", "my $remapVerses = 0;")
+          p.write_text(s)
+          PY
+          perl morphhbXML-to-JSON.pl
+          node - <<'NODE'
+          const fs = require('fs');
+          const data = require('/tmp/morphhb/index.js');
+          const names = {
+            'I Samuel':'1 Samuel', 'II Samuel':'2 Samuel',
+            'I Kings':'1 Kings', 'II Kings':'2 Kings',
+            'I Chronicles':'1 Chronicles', 'II Chronicles':'2 Chronicles'
+          };
+          const normalized = {};
+          for (const [name, chapters] of Object.entries(data)) normalized[names[name] || name] = chapters;
+          fs.writeFileSync('/tmp/morphhb/hebrew-source.json', JSON.stringify(normalized));
+          NODE
           test -s hebrew.json
+          test -s hebrew-source.json
 
-      - name: Prepare SBL Greek New Testament token data
-        run: git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/sblgnt
+      - name: Prepare Greek reference sources
+        run: |
+          # MorphGNT supplies convenient tokenization for the baseline pass.
+          git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/morphgnt
+          # The official current SBLGNT repository is authoritative for the displayed Greek text.
+          git clone --depth 1 https://github.com/Faithlife/SBLGNT.git /tmp/sblgnt-official
 
-      - name: Backfill BSB and original-language layers
+      - name: Backfill and reconcile reference layers
         env:
           WEB_USFM_DIR: /tmp/modern-usfm
           OSHB_JSON: /tmp/morphhb/hebrew.json
-          MORPHGNT_DIR: /tmp/sblgnt
+          MORPHGNT_DIR: /tmp/morphgnt
         run: |
           node scripts/backfill-reference-layers.mjs
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           import path from 'node:path';
-          for (const d of fs.readdirSync('scripture', {withFileTypes:true}).filter(d=>d.isDirectory())) {
-            const id = d.name;
-            const dir = path.join('scripture', id);
-            for (const name of fs.readdirSync(dir).filter(n => new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
-              const p = path.join(dir,name);
-              const doc = JSON.parse(fs.readFileSync(p,'utf8'));
-              for (const v of doc.verses || []) {
-                if (v.modern?.text) {
-                  v.modern.source = 'BSB';
-                  v.modern.edition = 'Berean Standard Bible, current 3rd Printing';
-                }
-              }
-              doc.reference_layers ||= {};
-              doc.reference_layers.modern = {
-                source: 'Berean Standard Bible',
-                edition: 'Current 3rd Printing; eBible source files dated June 2026',
-                license: 'Public Domain',
-                provenance: 'eBible.org engbsb USFM distribution from BSB Publishing, LLC'
-              };
-              if (doc.verses?.every(v => v.modern?.text)) doc.layer_status.modern_comparison = 'complete-BSB';
-              fs.writeFileSync(p, JSON.stringify(doc,null,2)+'\n');
+
+          const scriptureRoot = 'scripture';
+          const bsbEdition = 'Berean Standard Bible, current 3rd Printing';
+
+          const ntFileMap = {
+            Matt:'matthew', Mark:'mark', Luke:'luke', John:'john', Acts:'acts', Rom:'romans',
+            '1Cor':'1-corinthians', '2Cor':'2-corinthians', Gal:'galatians', Eph:'ephesians',
+            Phil:'philippians', Col:'colossians', '1Thess':'1-thessalonians', '2Thess':'2-thessalonians',
+            '1Tim':'1-timothy', '2Tim':'2-timothy', Titus:'titus', Phlm:'philemon', Heb:'hebrews',
+            Jas:'james', '1Pet':'1-peter', '2Pet':'2-peter', '1John':'1-john', '2John':'2-john',
+            '3John':'3-john', Jude:'jude', Rev:'revelation'
+          };
+
+          const greek = new Map();
+          const greekDir = '/tmp/sblgnt-official/data/sblgnt/text';
+          for (const file of fs.readdirSync(greekDir).filter(n => n.endsWith('.txt'))) {
+            const stem = file.replace(/\.txt$/, '');
+            const book = ntFileMap[stem];
+            if (!book) continue;
+            const lines = fs.readFileSync(path.join(greekDir,file),'utf8').split(/\r?\n/);
+            for (const line of lines) {
+              const m = line.match(/^\S+\s+(\d+):(\d+)\t(.+)$/);
+              if (!m) continue;
+              greek.set(`${book}:${Number(m[1])}:${Number(m[2])}`, m[3].trim());
             }
           }
-          const reportPath = 'metadata/reference-layer-report.json';
-          if (fs.existsSync(reportPath)) {
-            const report = JSON.parse(fs.readFileSync(reportPath,'utf8'));
-            report.sources.modern = 'Berean Standard Bible, current 3rd Printing (Public Domain; eBible June 2026 distribution)';
-            fs.writeFileSync(reportPath, JSON.stringify(report,null,2)+'\n');
+
+          const cleanUsfm = (s) => String(s || '')
+            .replace(/\\f\s[\s\S]*?\\f\*/g, ' ')
+            .replace(/\\x\s[\s\S]*?\\x\*/g, ' ')
+            .replace(/\\w\s([^|\\]+)(?:\|[^\\]*)?\\w\*/g, '$1')
+            .replace(/\\(?:add|nd|wj|qt|it|bd|em|sc|sup|bk|k|tl|dc|sig|sls|pn|ord)\s?/g, '')
+            .replace(/\\(?:add|nd|wj|qt|it|bd|em|sc|sup|bk|k|tl|dc|sig|sls|pn|ord)\*/g, '')
+            .replace(/\\[a-z0-9-]+\*?/gi, ' ')
+            .replace(/\s+/g, ' ').trim();
+
+          const bsbDeut = new Map();
+          const deuFile = (() => {
+            const stack = ['/tmp/modern-usfm'];
+            while (stack.length) {
+              const dir = stack.pop();
+              for (const e of fs.readdirSync(dir,{withFileTypes:true})) {
+                const p = path.join(dir,e.name);
+                if (e.isDirectory()) stack.push(p);
+                else if (/DEU.*\.usfm$/i.test(e.name)) return p;
+              }
+            }
+            return null;
+          })();
+          if (!deuFile) throw new Error('Could not locate BSB Deuteronomy USFM');
+          {
+            let chapter = 0;
+            for (const line of fs.readFileSync(deuFile,'utf8').split(/\r?\n/)) {
+              const c = line.match(/^\\c\s+(\d+)/); if (c) { chapter=Number(c[1]); continue; }
+              const v = line.match(/^\\v\s+(\d+)(?:[-–]\d+)?\s*(.*)$/);
+              if (v) bsbDeut.set(`${chapter}:${Number(v[1])}`, cleanUsfm(v[2]));
+            }
           }
+
+          const sourceHebrew = JSON.parse(fs.readFileSync('/tmp/morphhb/hebrew-source.json','utf8'));
+          const sourceVerseText = (bookName, chapter, verse) => {
+            const words = sourceHebrew?.[bookName]?.[chapter-1]?.[verse-1];
+            if (!Array.isArray(words)) return '';
+            return words.map(w => Array.isArray(w) ? String(w[0] || '').replace(/\//g,'') : '').filter(Boolean).join(' ')
+              .replace(/\s+([׃־])/g,'$1').replace(/\s+/g,' ').trim();
+          };
+
+          const modernTraditionalOmissions = new Set([
+            'acts:8:37','acts:15:34','acts:24:7','acts:28:29','john:5:4','luke:17:36','luke:23:17',
+            'mark:7:16','mark:9:44','mark:9:46','mark:11:26','mark:15:28','matthew:17:21',
+            'matthew:18:11','matthew:23:14','romans:16:24'
+          ]);
+          const sblTraditionalOmissions = new Set([
+            'acts:8:37','acts:15:34','acts:24:7','acts:28:29','john:5:4','luke:17:36','luke:23:17',
+            'mark:7:16','mark:9:44','mark:9:46','mark:11:26','mark:15:28','matthew:17:21',
+            'matthew:18:11','matthew:23:14'
+          ]);
+
+          for (const d of fs.readdirSync(scriptureRoot,{withFileTypes:true}).filter(d=>d.isDirectory())) {
+            const id=d.name, dir=path.join(scriptureRoot,id);
+            for (const name of fs.readdirSync(dir).filter(n=>new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
+              const p=path.join(dir,name);
+              const doc=JSON.parse(fs.readFileSync(p,'utf8'));
+
+              for (const v of doc.verses || []) {
+                const ref=`${id}:${doc.chapter}:${v.verse}`;
+                if (v.modern?.text) {
+                  v.modern.source='BSB';
+                  v.modern.edition=bsbEdition;
+                } else if (modernTraditionalOmissions.has(ref)) {
+                  v.modern={
+                    source:'BSB', edition:bsbEdition, text:'',
+                    status:'not-present-as-separate-verse',
+                    note:'The BSB follows modern critical-text practice here and does not print this traditional verse number as a separate verse.'
+                  };
+                }
+
+                const g=greek.get(ref);
+                if (g) {
+                  v.original={source:'SBLGNT',language:'Greek',text:g,edition:'SBLGNT v1.2 / current official source'};
+                } else if (sblTraditionalOmissions.has(ref)) {
+                  v.original={
+                    source:'SBLGNT',language:'Greek',text:'',status:'not-in-base-text',
+                    note:'This traditional verse number is not present as a separate verse in the SBLGNT base text; preserve as a textual-witness issue.'
+                  };
+                }
+              }
+
+              // 2 Corinthians 13 uses a different critical-Greek verse division near the close.
+              if (id==='2-corinthians' && doc.chapter===13) {
+                const v12=doc.verses.find(v=>v.verse===12);
+                const v13=doc.verses.find(v=>v.verse===13);
+                const v14=doc.verses.find(v=>v.verse===14);
+                const g12=greek.get('2-corinthians:13:12');
+                const g13=greek.get('2-corinthians:13:13');
+                if (g12 && v12) v12.original={source:'SBLGNT',language:'Greek',text:g12,verse_bridge:'SBLGNT 13:12 covers English 13:12–13'};
+                if (g12 && v13) v13.original={source:'SBLGNT',language:'Greek',text:g12,verse_bridge:'SBLGNT 13:12 covers English 13:12–13'};
+                if (g13 && v14) v14.original={source:'SBLGNT',language:'Greek',text:g13,verse_bridge:'English 13:14 = SBLGNT 13:13'};
+              }
+
+              // Acts 19:41 is included in SBLGNT 19:40 rather than separately numbered.
+              if (id==='acts' && doc.chapter===19) {
+                const g40=greek.get('acts:19:40');
+                const v40=doc.verses.find(v=>v.verse===40);
+                const v41=doc.verses.find(v=>v.verse===41);
+                if (g40 && v40) v40.original={source:'SBLGNT',language:'Greek',text:g40,verse_bridge:'SBLGNT 19:40 covers English 19:40–41'};
+                if (g40 && v41) v41.original={source:'SBLGNT',language:'Greek',text:g40,verse_bridge:'SBLGNT 19:40 covers English 19:40–41'};
+              }
+
+              // The official SBLGNT base-text files used here end Romans at 16:24.
+              if (id==='romans' && doc.chapter===16) {
+                for (const n of [25,26,27]) {
+                  const v=doc.verses.find(v=>v.verse===n);
+                  if (v && !v.original?.text) v.original={
+                    source:'SBLGNT',language:'Greek',text:'',status:'not-in-SBLGNT-base-file',
+                    note:'No separately numbered base-text verse occurs here in the official SBLGNT text file used. Preserve this as a textual-location/witness issue rather than inventing Greek text.'
+                  };
+                }
+              }
+
+              // This restored chapter follows WLC/Hebrew numbering: English Deut 12:32 = Hebrew Deut 13:1.
+              if (id==='deuteronomy' && doc.chapter===13 && doc.verses.length===19) {
+                for (const v of doc.verses) {
+                  const sourceText=sourceVerseText('Deuteronomy',13,v.verse);
+                  if (sourceText) v.original={
+                    source:'WLC/OSHB',language:'Hebrew',text:sourceText,
+                    versification:'WLC/Hebrew',note:'Aligned to the restored chapter’s WLC/Hebrew verse numbering.'
+                  };
+                  const englishRef=v.verse===1 ? '12:32' : `13:${v.verse-1}`;
+                  const modernText=bsbDeut.get(englishRef);
+                  if (modernText) v.modern={
+                    source:'BSB',edition:bsbEdition,text:modernText,
+                    versification_alignment:`BSB Deuteronomy ${englishRef}`
+                  };
+                }
+              }
+
+              doc.reference_layers ||= {};
+              doc.reference_layers.modern={
+                source:'Berean Standard Bible',
+                edition:'Current 3rd Printing; eBible source files dated June 2026',
+                license:'Public Domain',
+                provenance:'eBible.org engbsb USFM distribution from BSB Publishing, LLC'
+              };
+              doc.reference_layers.original_hebrew={
+                source:'Westminster Leningrad Codex via Open Scriptures Hebrew Bible',
+                text_license:'Public Domain',morphology_license:'CC BY 4.0',
+                attribution:'Open Scriptures Hebrew Bible Project'
+              };
+              doc.reference_layers.original_greek={
+                source:'SBL Greek New Testament',edition:'official current source / v1.2 repository',
+                license:'CC BY 4.0',attribution:'Society of Biblical Literature and Logos/Faithlife'
+              };
+
+              const modernComplete=(doc.verses||[]).every(v=>v.modern && (v.modern.text || v.modern.status));
+              const originalComplete=(doc.verses||[]).every(v=>v.original && (v.original.text || v.original.status));
+              doc.layer_status ||= {};
+              if (modernComplete) doc.layer_status.modern_comparison='complete-BSB-with-textual-status';
+              if (originalComplete) doc.layer_status.original_language='complete-open-source-with-verse-status';
+              fs.writeFileSync(p,JSON.stringify(doc,null,2)+'\n');
+            }
+          }
+
+          const reportPath='metadata/reference-layer-report.json';
+          const report=fs.existsSync(reportPath)?JSON.parse(fs.readFileSync(reportPath,'utf8')):{};
+          report.generatedAt=new Date().toISOString();
+          report.sources={
+            modern:'Berean Standard Bible, current 3rd Printing (Public Domain; eBible June 2026 distribution)',
+            hebrew:'Pointed Westminster Leningrad Codex via Open Scriptures Hebrew Bible (WLC Public Domain; morphology CC BY 4.0)',
+            greek:'Official current SBLGNT source repository, CC BY 4.0'
+          };
+          report.policy='A verse may carry a textual/versification status instead of fabricated text when the reference edition has no separately numbered base-text verse.';
+          fs.writeFileSync(reportPath,JSON.stringify(report,null,2)+'\n');
           NODE
 
-      - name: Validate and identify any reference gaps
+      - name: Validate reference coverage and textual statuses
         run: |
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           import path from 'node:path';
-          let chapters=0, verses=0;
-          const missingModern=[];
-          const missingOriginal=[];
-          for (const d of fs.readdirSync('scripture', {withFileTypes:true}).filter(d=>d.isDirectory())) {
-            const id=d.name, dir=path.join('scripture',id);
+          let chapters=0,verses=0,statusModern=0,statusOriginal=0;
+          const badModern=[],badOriginal=[];
+          for (const d of fs.readdirSync('scripture',{withFileTypes:true}).filter(d=>d.isDirectory())) {
+            const id=d.name,dir=path.join('scripture',id);
             for (const name of fs.readdirSync(dir).filter(n=>new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
-              const doc=JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
-              chapters++;
+              const doc=JSON.parse(fs.readFileSync(path.join(dir,name),'utf8')); chapters++;
               for (const v of doc.verses||[]) {
-                verses++;
-                const ref=`${id} ${doc.chapter}:${v.verse}`;
-                if(!v.modern?.text) missingModern.push(ref);
-                if(!v.original?.text) missingOriginal.push(ref);
+                verses++; const ref=`${id} ${doc.chapter}:${v.verse}`;
+                if (!v.modern || (!v.modern.text && !v.modern.status)) badModern.push(ref);
+                else if (!v.modern.text) statusModern++;
+                if (!v.original || (!v.original.text && !v.original.status)) badOriginal.push(ref);
+                else if (!v.original.text) statusOriginal++;
               }
             }
           }
-          console.log({chapters,verses,missingModernCount:missingModern.length,missingOriginalCount:missingOriginal.length});
-          if(missingModern.length) console.log('Missing modern:', missingModern.join(', '));
-          if(missingOriginal.length) console.log('Missing original:', missingOriginal.join(', '));
-          if(missingModern.length || missingOriginal.length) throw new Error('Reference-layer alignment gaps remain');
+          console.log({chapters,verses,statusModern,statusOriginal,badModern:badModern.length,badOriginal:badOriginal.length});
+          if (badModern.length) console.log('Unresolved modern:',badModern.join(', '));
+          if (badOriginal.length) console.log('Unresolved original:',badOriginal.join(', '));
+          if (badModern.length || badOriginal.length) throw new Error('Unresolved reference-layer gaps remain');
           NODE
 
       - name: Commit reference layers
