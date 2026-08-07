@@ -129,12 +129,63 @@ jobs:
       - run: git pull --ff-only origin main
       - name: Validate all newly generated books
         run: node scripts/validate-generated-canon.mjs --books="2-chronicles,ezra,nehemiah,esther,psalms,proverbs,ecclesiastes,song-of-songs,isaiah,jeremiah,lamentations,ezekiel,daniel,hosea,joel,amos,obadiah,jonah,micah,nahum,habakkuk,zephaniah,haggai,zechariah,malachi"
-      - name: Rebuild final library index
+      - name: Rebuild and assert complete 66-book corpus
         run: |
           node scripts/build-library-index.mjs
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          const index = JSON.parse(fs.readFileSync('metadata/library-index.json', 'utf8'));
+          const s = index.stats || {};
+          const expected = { canonBooks: 66, booksLive: 66, restoredChaptersLive: 1189, mysticalChaptersLive: 1189 };
+          for (const [key, value] of Object.entries(expected)) {
+            if (s[key] !== value) throw new Error(`Final corpus assertion failed: ${key} expected ${value}, got ${s[key]}`);
+          }
+          console.log('Complete corpus confirmed: 66 books / 1,189 restored / 1,189 mystical.');
+          NODE
+      - name: Restore automatic library-index rebuilding
+        run: |
+          cat > .github/workflows/rebuild-library-index.yml <<'YAML'
+          name: Rebuild scripture library index
+
+          on:
+            push:
+              branches: [main]
+              paths:
+                - "scripture/**"
+                - "metadata/*-progress.json"
+                - "scripts/build-library-index.mjs"
+            workflow_dispatch:
+
+          permissions:
+            contents: write
+
+          jobs:
+            rebuild:
+              runs-on: ubuntu-latest
+              steps:
+                - uses: actions/checkout@v4
+                - uses: actions/setup-node@v4
+                  with:
+                    node-version: "22"
+                - name: Build live library manifest
+                  run: node scripts/build-library-index.mjs
+                - name: Commit manifest when changed
+                  run: |
+                    if git diff --quiet -- metadata/library-index.json; then
+                      echo "Manifest is already current."
+                      exit 0
+                    fi
+                    git config user.name "github-actions[bot]"
+                    git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+                    git add metadata/library-index.json
+                    git commit -m "Refresh scripture library index"
+                    git push
+          YAML
+      - name: Commit final manifest and restored automation
+        run: |
           if git diff --quiet; then exit 0; fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add metadata/library-index.json
-          git commit -m "Finalize complete Oneness Scripture library index"
+          git add metadata/library-index.json .github/workflows/rebuild-library-index.yml
+          git commit -m "Finalize complete Oneness Scripture corpus"
           git push
