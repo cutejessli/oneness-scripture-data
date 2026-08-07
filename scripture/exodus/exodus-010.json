@@ -1,1 +1,647 @@
-{"book":"Exodus","book_id":"exodus","chapter":10,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for locusts, Pharaoh's servants' protest, partial release bargaining, darkness, and final rupture."},"verses":[{"verse":1,"restored":"YHWH said to Moses, Come to Pharaoh, for I have made his heart heavy and heart of his servants, so that I may set these signs of mine in his midst,"},{"verse":2,"restored":"and so that you may recount in ears of your child and your child's child how I dealt with Egypt and my signs that I set among them, and you shall know that I am YHWH."},{"verse":3,"restored":"Moses and Aaron came to Pharaoh and said to him, Thus says YHWH, Divine of Hebrews: Until when will you refuse to humble yourself before me? Send my people away, so they may serve/worship me."},{"verse":4,"restored":"For if you refuse to send my people, look, tomorrow I bring locusts into your border."},{"verse":5,"restored":"They will cover eye of land so no one can see the land, and they will eat remnant left to you from hail, and eat every tree sprouting for you from the field."},{"verse":6,"restored":"They will fill your houses, houses of all your servants, and houses of all Egypt, which your fathers and fathers of your fathers did not see from day they were on ground until this day. He turned and went out from Pharaoh."},{"verse":7,"restored":"Pharaoh's servants said to him, Until when will this one be a snare to us? Send the men, so they may serve/worship YHWH their Divine. Do you not yet know that Egypt is ruined?"},{"verse":8,"restored":"Moses and Aaron were brought back to Pharaoh, and he said to them, Go, serve/worship YHWH your Divine. Who and who are going?"},{"verse":9,"restored":"Moses said, With our young and our old we will go; with our sons and daughters, with our flock and herd we will go, because we have festival to YHWH."},{"verse":10,"restored":"He said to them, May YHWH be with you if I send you and your little ones. See, harm is before your faces."},{"verse":11,"restored":"Not so. Go now, the men, and serve/worship YHWH, for that is what you seek. And they were driven out from Pharaoh's face."},{"verse":12,"restored":"YHWH said to Moses, Stretch your hand over land of Egypt for locusts, and they shall go up over land of Egypt and eat every plant of land, all that hail left."},{"verse":13,"restored":"Moses stretched his staff over land of Egypt, and YHWH drove east wind through the land all that day and all night; morning came, and east wind carried the locusts."},{"verse":14,"restored":"The locusts went up over all land of Egypt and rested in all border of Egypt, very heavy. Before them there had not been such locust, and after them there will not be so."},{"verse":15,"restored":"They covered eye of all land, and land became dark; they ate every plant of land and all fruit of trees left by hail, and no green thing remained on tree or plant of field in all land of Egypt."},{"verse":16,"restored":"Pharaoh hurried to call Moses and Aaron and said, I have sinned/misaligned against YHWH your Divine and against you."},{"verse":17,"restored":"Now please lift my sin/misalignment just this once, and plead to YHWH your Divine, that he remove from me only this death."},{"verse":18,"restored":"He went out from Pharaoh and pleaded to YHWH."},{"verse":19,"restored":"YHWH turned a very strong west wind, and it lifted the locusts and drove them into Sea of Reeds; not one locust remained in all border of Egypt."},{"verse":20,"restored":"But YHWH strengthened/hardened Pharaoh's heart, and he did not send the children of Israel."},{"verse":21,"restored":"YHWH said to Moses, Stretch your hand toward heavens, and there will be darkness over land of Egypt, and darkness may be felt."},{"verse":22,"restored":"Moses stretched his hand toward heavens, and thick darkness was in all land of Egypt three days."},{"verse":23,"restored":"They did not see each man his brother, and no one rose from under himself three days; but for all children of Israel there was light in their dwellings."},{"verse":24,"restored":"Pharaoh called to Moses and said, Go, serve/worship YHWH; only your flock and herd shall stay. Even your little ones may go with you."},{"verse":25,"restored":"Moses said, You yourself must also give into our hand sacrifices and burnt offerings, and we will make them for YHWH our Divine."},{"verse":26,"restored":"And also our livestock shall go with us; not a hoof shall remain, for from it we must take to serve/worship YHWH our Divine, and we do not know with what we must serve/worship YHWH until we come there."},{"verse":27,"restored":"YHWH strengthened/hardened Pharaoh's heart, and he was not willing to send them."},{"verse":28,"restored":"Pharaoh said to him, Go from me. Guard yourself; do not see my face again, for in day you see my face you shall die."},{"verse":29,"restored":"Moses said, As you have spoken: I will not see your face again."}],"translation_notes":["The signs become intergenerational memory: tell your child and child's child.","Pharaoh's servants now protest Pharaoh's refusal; this again blocks ethnic flattening.","Pharaoh repeatedly bargains for partial liberation: men only, then people without livestock. Moses insists total release for worship-service."],"safety_note":"Locust and darkness signs should be read within the liberation confrontation. Do not celebrate ecological devastation; note the text's own concern that Egypt is ruined by Pharaoh's refusal."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 10,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for locusts, Pharaoh's servants' protest, partial release bargaining, darkness, and final rupture."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, Come to Pharaoh, for I have made his heart heavy and heart of his servants, so that I may set these signs of mine in his midst,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Go in unto Pharaoh: for I have hardened his heart, and the heart of his servants, that I might shew these my signs before him:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "and so that you may recount in ears of your child and your child's child how I dealt with Egypt and my signs that I set among them, and you shall know that I am YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that thou mayest tell in the ears of thy son, and of thy son’s son, what things I have wrought in Egypt, and my signs which I have done among them; that ye may know how that I am the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Moses and Aaron came to Pharaoh and said to him, Thus says YHWH, Divine of Hebrews: Until when will you refuse to humble yourself before me? Send my people away, so they may serve/worship me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron came in unto Pharaoh, and said unto him, Thus saith the LORD God of the Hebrews, How long wilt thou refuse to humble thyself before me? let my people go, that they may serve me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "For if you refuse to send my people, look, tomorrow I bring locusts into your border.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Else, if thou refuse to let my people go, behold, to morrow will I bring the locusts into thy coast:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They will cover eye of land so no one can see the land, and they will eat remnant left to you from hail, and eat every tree sprouting for you from the field.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "They will fill your houses, houses of all your servants, and houses of all Egypt, which your fathers and fathers of your fathers did not see from day they were on ground until this day. He turned and went out from Pharaoh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers’ fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Pharaoh's servants said to him, Until when will this one be a snare to us? Send the men, so they may serve/worship YHWH their Divine. Do you not yet know that Egypt is ruined?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh’s servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the LORD their God: knowest thou not yet that Egypt is destroyed?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Moses and Aaron were brought back to Pharaoh, and he said to them, Go, serve/worship YHWH your Divine. Who and who are going?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the LORD your God: but who are they that shall go?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Moses said, With our young and our old we will go; with our sons and daughters, with our flock and herd we will go, because we have festival to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "He said to them, May YHWH be with you if I send you and your little ones. See, harm is before your faces.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, Let the LORD be so with you, as I will let you go, and your little ones: look to it; for evil is before you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Not so. Go now, the men, and serve/worship YHWH, for that is what you seek. And they were driven out from Pharaoh's face.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Not so: go now ye that are men, and serve the LORD; for that ye did desire. And they were driven out from Pharaoh’s presence."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "YHWH said to Moses, Stretch your hand over land of Egypt for locusts, and they shall go up over land of Egypt and eat every plant of land, all that hail left.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Stretch out thine hand over the land of Egypt for the locusts, that they may come up upon the land of Egypt, and eat every herb of the land, even all that the hail hath left."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Moses stretched his staff over land of Egypt, and YHWH drove east wind through the land all that day and all night; morning came, and east wind carried the locusts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses stretched forth his rod over the land of Egypt, and the LORD brought an east wind upon the land all that day, and all that night; and when it was morning, the east wind brought the locusts."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The locusts went up over all land of Egypt and rested in all border of Egypt, very heavy. Before them there had not been such locust, and after them there will not be so.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous were they; before them there were no such locusts as they, neither after them shall be such."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "They covered eye of all land, and land became dark; they ate every plant of land and all fruit of trees left by hail, and no green thing remained on tree or plant of field in all land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Pharaoh hurried to call Moses and Aaron and said, I have sinned/misaligned against YHWH your Divine and against you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Pharaoh called for Moses and Aaron in haste; and he said, I have sinned against the LORD your God, and against you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Now please lift my sin/misalignment just this once, and plead to YHWH your Divine, that he remove from me only this death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore forgive, I pray thee, my sin only this once, and intreat the LORD your God, that he may take away from me this death only."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "He went out from Pharaoh and pleaded to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he went out from Pharaoh, and intreated the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "YHWH turned a very strong west wind, and it lifted the locusts and drove them into Sea of Reeds; not one locust remained in all border of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD turned a mighty strong west wind, which took away the locusts, and cast them into the Red sea; there remained not one locust in all the coasts of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But YHWH strengthened/hardened Pharaoh's heart, and he did not send the children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "YHWH said to Moses, Stretch your hand toward heavens, and there will be darkness over land of Egypt, and darkness may be felt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Stretch out thine hand toward heaven, that there may be darkness over the land of Egypt, even darkness which may be felt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Moses stretched his hand toward heavens, and thick darkness was in all land of Egypt three days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses stretched forth his hand toward heaven; and there was a thick darkness in all the land of Egypt three days:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They did not see each man his brother, and no one rose from under himself three days; but for all children of Israel there was light in their dwellings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Pharaoh called to Moses and said, Go, serve/worship YHWH; only your flock and herd shall stay. Even your little ones may go with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh called unto Moses, and said, Go ye, serve the LORD; only let your flocks and your herds be stayed: let your little ones also go with you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Moses said, You yourself must also give into our hand sacrifices and burnt offerings, and we will make them for YHWH our Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the LORD our God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "And also our livestock shall go with us; not a hoof shall remain, for from it we must take to serve/worship YHWH our Divine, and we do not know with what we must serve/worship YHWH until we come there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the LORD our God; and we know not with what we must serve the LORD, until we come thither."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "YHWH strengthened/hardened Pharaoh's heart, and he was not willing to send them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the LORD hardened Pharaoh’s heart, and he would not let them go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Pharaoh said to him, Go from me. Guard yourself; do not see my face again, for in day you see my face you shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh said unto him, Get thee from me, take heed to thyself, see my face no more; for in that day thou seest my face thou shalt die."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Moses said, As you have spoken: I will not see your face again.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Thou hast spoken well, I will see thy face again no more."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The signs become intergenerational memory: tell your child and child's child.",
+    "Pharaoh's servants now protest Pharaoh's refusal; this again blocks ethnic flattening.",
+    "Pharaoh repeatedly bargains for partial liberation: men only, then people without livestock. Moses insists total release for worship-service."
+  ],
+  "safety_note": "Locust and darkness signs should be read within the liberation confrontation. Do not celebrate ecological devastation; note the text's own concern that Egypt is ruined by Pharaoh's refusal.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-20-of-29",
+    "tags": "partial-11-of-29",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-29",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

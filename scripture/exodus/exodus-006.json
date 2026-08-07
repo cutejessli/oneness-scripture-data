@@ -1,1 +1,675 @@
-{"book":"Exodus","book_id":"exodus","chapter":6,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for YHWH covenant reassurance, fourfold liberation verbs, genealogy of Moses/Aaron, and renewed commission."},"verses":[{"verse":1,"restored":"YHWH said to Moses, Now you shall see what I will do to Pharaoh; for by strong hand he will send them, and by strong hand he will drive them from his land."},{"verse":2,"restored":"Divine spoke to Moses and said to him, I am YHWH."},{"verse":3,"restored":"I appeared to Abraham, to Isaac, and to Jacob as El Shaddai, but by my name YHWH I was not known to them."},{"verse":4,"restored":"And also I established my covenant with them, to give them land of Canaan, land of their sojournings in which they sojourned."},{"verse":5,"restored":"And also I have heard the groaning of the children of Israel, whom Egypt is making serve, and I remembered my covenant."},{"verse":6,"restored":"Therefore say to the children of Israel: I am YHWH, and I will bring you out from under burdens of Egypt, and I will rescue you from their service, and I will redeem you with outstretched arm and with great judgments."},{"verse":7,"restored":"I will take you to myself as people, and I will be to you as Divine; and you shall know that I am YHWH your Divine, the One bringing you out from under burdens of Egypt."},{"verse":8,"restored":"I will bring you into the land that I lifted my hand to give to Abraham, Isaac, and Jacob, and I will give it to you as possession. I am YHWH."},{"verse":9,"restored":"Moses spoke thus to the children of Israel, but they did not listen to Moses because of shortness of spirit/breath and hard service."},{"verse":10,"restored":"YHWH spoke to Moses, saying,"},{"verse":11,"restored":"Come, speak to Pharaoh king of Egypt, that he send the children of Israel from his land."},{"verse":12,"restored":"Moses spoke before YHWH, saying, Look, the children of Israel did not listen to me; how then will Pharaoh listen to me, and I am uncircumcised of lips?"},{"verse":13,"restored":"YHWH spoke to Moses and Aaron and commanded them concerning the children of Israel and concerning Pharaoh king of Egypt, to bring the children of Israel out from land of Egypt."},{"verse":14,"restored":"These are heads of their fathers' houses: sons of Reuben firstborn of Israel: Hanoch and Pallu, Hezron and Carmi; these are clans of Reuben."},{"verse":15,"restored":"Sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul son of a Canaanite woman; these are clans of Simeon."},{"verse":16,"restored":"These are names of sons of Levi according to their generations: Gershon, Kohath, and Merari; years of life of Levi were one hundred thirty-seven years."},{"verse":17,"restored":"Sons of Gershon: Libni and Shimei, according to their clans."},{"verse":18,"restored":"Sons of Kohath: Amram, Izhar, Hebron, and Uzziel; years of life of Kohath were one hundred thirty-three years."},{"verse":19,"restored":"Sons of Merari: Mahli and Mushi. These are clans of Levi according to their generations."},{"verse":20,"restored":"Amram took Jochebed his father's sister for himself as wife, and she bore to him Aaron and Moses; years of life of Amram were one hundred thirty-seven years."},{"verse":21,"restored":"Sons of Izhar: Korah, Nepheg, and Zichri."},{"verse":22,"restored":"Sons of Uzziel: Mishael, Elzaphan, and Sithri."},{"verse":23,"restored":"Aaron took Elisheba daughter of Amminadab, sister of Nahshon, for himself as wife, and she bore to him Nadab and Abihu, Eleazar and Ithamar."},{"verse":24,"restored":"Sons of Korah: Assir, Elkanah, and Abiasaph; these are clans of Korahites."},{"verse":25,"restored":"Eleazar son of Aaron took for himself one of daughters of Putiel as wife, and she bore to him Phinehas. These are heads of fathers of Levites according to their clans."},{"verse":26,"restored":"This is Aaron and Moses to whom YHWH said, Bring out the children of Israel from land of Egypt according to their hosts."},{"verse":27,"restored":"These are the ones speaking to Pharaoh king of Egypt to bring out the children of Israel from Egypt; this is Moses and Aaron."},{"verse":28,"restored":"It happened on day YHWH spoke to Moses in land of Egypt,"},{"verse":29,"restored":"YHWH spoke to Moses, saying, I am YHWH. Speak to Pharaoh king of Egypt all that I speak to you."},{"verse":30,"restored":"Moses said before YHWH, Look, I am uncircumcised of lips; how will Pharaoh listen to me?"}],"translation_notes":["YHWH identity is tied to liberation verbs: bring out, rescue, redeem, take as people, be Divine.","Shortness of spirit/breath explains why oppressed people cannot yet receive promise; this is trauma-aware, not blame.","Uncircumcised of lips extends Moses' speech objection; preserve without shaming.","Genealogy interrupts narrative to root Moses/Aaron in Levi and named kinship."],"safety_note":"Do not blame Israel for not listening; the text gives the reason: crushed breath/spirit and hard service. Trauma and exhaustion impede reception."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 6,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for YHWH covenant reassurance, fourfold liberation verbs, genealogy of Moses/Aaron, and renewed commission."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, Now you shall see what I will do to Pharaoh; for by strong hand he will send them, and by strong hand he will drive them from his land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Divine spoke to Moses and said to him, I am YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God spake unto Moses, and said unto him, I am the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I appeared to Abraham, to Isaac, and to Jacob as El Shaddai, but by my name YHWH I was not known to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And also I established my covenant with them, to give them land of Canaan, land of their sojournings in which they sojourned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And also I have heard the groaning of the children of Israel, whom Egypt is making serve, and I remembered my covenant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Therefore say to the children of Israel: I am YHWH, and I will bring you out from under burdens of Egypt, and I will rescue you from their service, and I will redeem you with outstretched arm and with great judgments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "I will take you to myself as people, and I will be to you as Divine; and you shall know that I am YHWH your Divine, the One bringing you out from under burdens of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the LORD your God, which bringeth you out from under the burdens of the Egyptians."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "I will bring you into the land that I lifted my hand to give to Abraham, Isaac, and Jacob, and I will give it to you as possession. I am YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Moses spoke thus to the children of Israel, but they did not listen to Moses because of shortness of spirit/breath and hard service.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Come, speak to Pharaoh king of Egypt, that he send the children of Israel from his land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Moses spoke before YHWH, saying, Look, the children of Israel did not listen to me; how then will Pharaoh listen to me, and I am uncircumcised of lips?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "YHWH spoke to Moses and Aaron and commanded them concerning the children of Israel and concerning Pharaoh king of Egypt, to bring the children of Israel out from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "These are heads of their fathers' houses: sons of Reuben firstborn of Israel: Hanoch and Pallu, Hezron and Carmi; these are clans of Reuben.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These be the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul son of a Canaanite woman; these are clans of Simeon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "These are names of sons of Levi according to their generations: Gershon, Kohath, and Merari; years of life of Levi were one hundred thirty-seven years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Sons of Gershon: Libni and Shimei, according to their clans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sons of Gershon; Libni, and Shimi, according to their families."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Sons of Kohath: Amram, Izhar, Hebron, and Uzziel; years of life of Kohath were one hundred thirty-three years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Sons of Merari: Mahli and Mushi. These are clans of Levi according to their generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Amram took Jochebed his father's sister for himself as wife, and she bore to him Aaron and Moses; years of life of Amram were one hundred thirty-seven years.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Sons of Izhar: Korah, Nepheg, and Zichri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Izhar; Korah, and Nepheg, and Zichri."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Sons of Uzziel: Mishael, Elzaphan, and Sithri.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Uzziel; Mishael, and Elzaphan, and Zithri."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Aaron took Elisheba daughter of Amminadab, sister of Nahshon, for himself as wife, and she bore to him Nadab and Abihu, Eleazar and Ithamar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Sons of Korah: Assir, Elkanah, and Abiasaph; these are clans of Korahites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Eleazar son of Aaron took for himself one of daughters of Putiel as wife, and she bore to him Phinehas. These are heads of fathers of Levites according to their clans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Eleazar Aaron’s son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "This is Aaron and Moses to whom YHWH said, Bring out the children of Israel from land of Egypt according to their hosts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "These are the ones speaking to Pharaoh king of Egypt to bring out the children of Israel from Egypt; this is Moses and Aaron.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "It happened on day YHWH spoke to Moses in land of Egypt,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass on the day when the LORD spake unto Moses in the land of Egypt,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "YHWH spoke to Moses, saying, I am YHWH. Speak to Pharaoh king of Egypt all that I speak to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That the LORD spake unto Moses, saying, I am the LORD: speak thou unto Pharaoh king of Egypt all that I say unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Moses said before YHWH, Look, I am uncircumcised of lips; how will Pharaoh listen to me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "YHWH identity is tied to liberation verbs: bring out, rescue, redeem, take as people, be Divine.",
+    "Shortness of spirit/breath explains why oppressed people cannot yet receive promise; this is trauma-aware, not blame.",
+    "Uncircumcised of lips extends Moses' speech objection; preserve without shaming.",
+    "Genealogy interrupts narrative to root Moses/Aaron in Levi and named kinship."
+  ],
+  "safety_note": "Do not blame Israel for not listening; the text gives the reason: crushed breath/spirit and hard service. Trauma and exhaustion impede reception.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-19-of-30",
+    "tags": "partial-22-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

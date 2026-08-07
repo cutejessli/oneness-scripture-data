@@ -1,1 +1,629 @@
-{"book":"Exodus","book_id":"exodus","chapter":4,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for Moses' signs, speech objection, Aaron, return to Egypt, firstborn language, difficult circumcision episode, and initial belief/worship."},"verses":[{"verse":1,"restored":"Moses answered and said, But look, they will not trust me and will not listen to my voice, for they will say, YHWH has not appeared to you."},{"verse":2,"restored":"YHWH said to him, What is that in your hand? He said, A staff."},{"verse":3,"restored":"He said, Throw it to the ground. He threw it to the ground, and it became a serpent, and Moses fled from before it."},{"verse":4,"restored":"YHWH said to Moses, Stretch out your hand and grasp it by the tail. He stretched out his hand and held it, and it became a staff in his palm."},{"verse":5,"restored":"So that they may trust that YHWH, Divine of their fathers, Divine of Abraham, Divine of Isaac, and Divine of Jacob, has appeared to you."},{"verse":6,"restored":"YHWH said further to him, Please put your hand into your bosom. He put his hand into his bosom, and brought it out, and look, his hand was afflicted like snow."},{"verse":7,"restored":"He said, Return your hand to your bosom. He returned his hand to his bosom and brought it out from his bosom, and look, it returned like his flesh."},{"verse":8,"restored":"And it shall be, if they do not trust you or listen to voice of first sign, they may trust voice of later sign."},{"verse":9,"restored":"And it shall be, if they do not trust even these two signs or listen to your voice, then take from waters of Nile and pour on dry land; the waters you take from Nile will become blood/life on dry land."},{"verse":10,"restored":"Moses said to YHWH, Please, my Lord, I am not a man of words, neither yesterday nor before nor since you spoke to your servant, for I am heavy of mouth and heavy of tongue."},{"verse":11,"restored":"YHWH said to him, Who set a mouth for human? Or who makes mute, deaf, seeing, or blind? Is it not I, YHWH?"},{"verse":12,"restored":"Now go, and I myself will be with your mouth and teach you what you shall speak."},{"verse":13,"restored":"He said, Please, my Lord, send by hand of whom you will send."},{"verse":14,"restored":"The anger of YHWH burned against Moses, and he said, Is there not Aaron your brother, the Levite? I know that speaking, he can speak. And also look, he is coming out to meet you; he will see you and rejoice in his heart."},{"verse":15,"restored":"You shall speak to him and put the words in his mouth. I myself will be with your mouth and with his mouth, and I will teach you what you shall do."},{"verse":16,"restored":"He shall speak for you to the people; he will be for you as mouth, and you will be for him as Divine."},{"verse":17,"restored":"And this staff you shall take in your hand, with which you shall do the signs."},{"verse":18,"restored":"Moses went and returned to Jethro his father-in-law and said to him, Please let me go and return to my brothers who are in Egypt and see whether they are still alive. Jethro said to Moses, Go in peace."},{"verse":19,"restored":"YHWH said to Moses in Midian, Go, return to Egypt, for all the men seeking your life are dead."},{"verse":20,"restored":"Moses took his wife and sons, set them on the donkey, and returned to land of Egypt; and Moses took staff of the Divine in his hand."},{"verse":21,"restored":"YHWH said to Moses, When you go to return to Egypt, see all the wonders that I put in your hand, and do them before Pharaoh; but I will strengthen/harden his heart, and he will not send the people."},{"verse":22,"restored":"You shall say to Pharaoh, Thus says YHWH: Israel is my son, my firstborn."},{"verse":23,"restored":"And I said to you, Send my son so he may serve/worship me; but you refused to send him. Look, I am about to kill your son, your firstborn."},{"verse":24,"restored":"And it happened on the way, at the lodging place, that YHWH met him and sought to put him to death."},{"verse":25,"restored":"Zipporah took a flint, cut the foreskin of her son, touched his feet, and said, Surely a bridegroom of bloods you are to me."},{"verse":26,"restored":"And he let him alone. Then she said, Bridegroom of bloods, because of circumcisions."},{"verse":27,"restored":"YHWH said to Aaron, Go to meet Moses in wilderness. He went and met him at mountain of Divine and kissed him."},{"verse":28,"restored":"Moses told Aaron all words of YHWH with which he had sent him, and all signs he had commanded him."},{"verse":29,"restored":"Moses and Aaron went and gathered all elders of children of Israel."},{"verse":30,"restored":"Aaron spoke all words that YHWH had spoken to Moses, and he did the signs before eyes of the people."},{"verse":31,"restored":"The people trusted, and they heard that YHWH had visited the children of Israel and had seen their affliction; they bowed low and worshiped."}],"translation_notes":["Moses' speech objection is preserved without mocking disability; Divine response is presence with mouth and Aaron as support.","Hardening language begins here and requires careful tracking across Exodus; rendered strengthen/harden where Hebrew hazaq/kaved/qashah distinctions need later audit.","Israel firstborn language frames the confrontation with Pharaoh's firstborn policy from chapter 1.","Zipporah's circumcision episode is difficult and anciently obscure; preserve ambiguity and avoid overconfident interpretation."],"safety_note":"Exodus 4 contains dangerous and obscure death/circumcision material. Treat it as source-preserved, not as a ritual template. Do not use speech/disability material to shame Moses; the narrative provides Aaron as accommodation and partnership."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for Moses' signs, speech objection, Aaron, return to Egypt, firstborn language, difficult circumcision episode, and initial belief/worship."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Moses answered and said, But look, they will not trust me and will not listen to my voice, for they will say, YHWH has not appeared to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH said to him, What is that in your hand? He said, A staff.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto him, What is that in thine hand? And he said, A rod."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He said, Throw it to the ground. He threw it to the ground, and it became a serpent, and Moses fled from before it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "YHWH said to Moses, Stretch out your hand and grasp it by the tail. He stretched out his hand and held it, and it became a staff in his palm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "So that they may trust that YHWH, Divine of their fathers, Divine of Abraham, Divine of Isaac, and Divine of Jacob, has appeared to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "YHWH said further to him, Please put your hand into your bosom. He put his hand into his bosom, and brought it out, and look, his hand was afflicted like snow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He said, Return your hand to your bosom. He returned his hand to his bosom and brought it out from his bosom, and look, it returned like his flesh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And it shall be, if they do not trust you or listen to voice of first sign, they may trust voice of later sign.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "And it shall be, if they do not trust even these two signs or listen to your voice, then take from waters of Nile and pour on dry land; the waters you take from Nile will become blood/life on dry land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Moses said to YHWH, Please, my Lord, I am not a man of words, neither yesterday nor before nor since you spoke to your servant, for I am heavy of mouth and heavy of tongue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto the LORD, O my LORD, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "YHWH said to him, Who set a mouth for human? Or who makes mute, deaf, seeing, or blind? Is it not I, YHWH?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Now go, and I myself will be with your mouth and teach you what you shall speak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He said, Please, my Lord, send by hand of whom you will send.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, O my LORD, send, I pray thee, by the hand of him whom thou wilt send."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The anger of YHWH burned against Moses, and he said, Is there not Aaron your brother, the Levite? I know that speaking, he can speak. And also look, he is coming out to meet you; he will see you and rejoice in his heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "You shall speak to him and put the words in his mouth. I myself will be with your mouth and with his mouth, and I will teach you what you shall do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He shall speak for you to the people; he will be for you as mouth, and you will be for him as Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "And this staff you shall take in your hand, with which you shall do the signs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Moses went and returned to Jethro his father-in-law and said to him, Please let me go and return to my brothers who are in Egypt and see whether they are still alive. Jethro said to Moses, Go in peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "YHWH said to Moses in Midian, Go, return to Egypt, for all the men seeking your life are dead.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Moses took his wife and sons, set them on the donkey, and returned to land of Egypt; and Moses took staff of the Divine in his hand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "the Divine",
+          "source": "Elohim",
+          "language": "Hebrew",
+          "glossary_id": "elohim",
+          "transliteration": "Elohim"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "YHWH said to Moses, When you go to return to Egypt, see all the wonders that I put in your hand, and do them before Pharaoh; but I will strengthen/harden his heart, and he will not send the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "You shall say to Pharaoh, Thus says YHWH: Israel is my son, my firstborn.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel is my son, even my firstborn:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "And I said to you, Send my son so he may serve/worship me; but you refused to send him. Look, I am about to kill your son, your firstborn.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "And it happened on the way, at the lodging place, that YHWH met him and sought to put him to death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass by the way in the inn, that the LORD met him, and sought to kill him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Zipporah took a flint, cut the foreskin of her son, touched his feet, and said, Surely a bridegroom of bloods you are to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "And he let him alone. Then she said, Bridegroom of bloods, because of circumcisions.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So he let him go: then she said, A bloody husband thou art, because of the circumcision."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "YHWH said to Aaron, Go to meet Moses in wilderness. He went and met him at mountain of Divine and kissed him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Moses told Aaron all words of YHWH with which he had sent him, and all signs he had commanded him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Moses and Aaron went and gathered all elders of children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron went and gathered together all the elders of the children of Israel:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Aaron spoke all words that YHWH had spoken to Moses, and he did the signs before eyes of the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "The people trusted, and they heard that YHWH had visited the children of Israel and had seen their affliction; they bowed low and worshiped.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Moses' speech objection is preserved without mocking disability; Divine response is presence with mouth and Aaron as support.",
+    "Hardening language begins here and requires careful tracking across Exodus; rendered strengthen/harden where Hebrew hazaq/kaved/qashah distinctions need later audit.",
+    "Israel firstborn language frames the confrontation with Pharaoh's firstborn policy from chapter 1.",
+    "Zipporah's circumcision episode is difficult and anciently obscure; preserve ambiguity and avoid overconfident interpretation."
+  ],
+  "safety_note": "Exodus 4 contains dangerous and obscure death/circumcision material. Treat it as source-preserved, not as a ritual template. Do not use speech/disability material to shame Moses; the narrative provides Aaron as accommodation and partnership.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-17-of-31",
+    "tags": "partial-8-of-31",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-31",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,677 @@
-{"book":"Exodus","book_id":"exodus","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for frogs, gnats/lice, swarm, Pharaoh's partial concessions, distinction of Goshen, and hardening."},"verses":[{"verse":1,"restored":"YHWH said to Moses, Come to Pharaoh, and say to him, Thus says YHWH: Send my people away, so they may serve/worship me."},{"verse":2,"restored":"But if you refuse to send, look, I myself will strike all your border with frogs."},{"verse":3,"restored":"The Nile will swarm with frogs; they will go up and come into your house, your bedroom, your bed, house of your servants, among your people, into your ovens and kneading bowls."},{"verse":4,"restored":"Upon you, upon your people, and upon all your servants the frogs will go up."},{"verse":5,"restored":"YHWH said to Moses, Say to Aaron, Stretch your hand with your staff over rivers, canals, and pools, and bring up frogs upon land of Egypt."},{"verse":6,"restored":"Aaron stretched his hand over waters of Egypt, and frogs came up and covered land of Egypt."},{"verse":7,"restored":"The magicians did so with their secret arts and brought up frogs upon land of Egypt."},{"verse":8,"restored":"Pharaoh called Moses and Aaron and said, Plead with YHWH to remove frogs from me and from my people, and I will send the people, so they may sacrifice to YHWH."},{"verse":9,"restored":"Moses said to Pharaoh, Have honor over me: for when shall I plead for you, your servants, and your people, to cut off frogs from you and your houses, only in Nile they will remain?"},{"verse":10,"restored":"He said, Tomorrow. Moses said, According to your word, so that you may know there is none like YHWH our Divine."},{"verse":11,"restored":"The frogs shall turn aside from you, from your houses, from your servants, and from your people; only in Nile they shall remain."},{"verse":12,"restored":"Moses and Aaron went out from Pharaoh, and Moses cried to YHWH concerning the frogs he had set upon Pharaoh."},{"verse":13,"restored":"YHWH did according to word of Moses; frogs died from houses, courtyards, and fields."},{"verse":14,"restored":"They piled them in heaps and heaps, and the land stank."},{"verse":15,"restored":"But Pharaoh saw there was relief, and he made his heart heavy and did not listen to them, as YHWH had spoken."},{"verse":16,"restored":"YHWH said to Moses, Say to Aaron, Stretch your staff and strike dust of earth, and it shall become gnats/lice in all land of Egypt."},{"verse":17,"restored":"They did so; Aaron stretched his hand with his staff and struck dust of earth, and gnats/lice were on human and beast; all dust of earth became gnats/lice in all land of Egypt."},{"verse":18,"restored":"The magicians did so with their secret arts to bring out gnats/lice, but they were not able. And gnats/lice were on human and beast."},{"verse":19,"restored":"The magicians said to Pharaoh, This is finger of Divine. But Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken."},{"verse":20,"restored":"YHWH said to Moses, Rise early in morning and stand before Pharaoh; look, he goes out to the water. Say to him, Thus says YHWH: Send my people away, so they may serve/worship me."},{"verse":21,"restored":"For if you do not send my people away, look, I send swarm upon you, your servants, your people, and your houses; houses of Egypt will be full of swarm, and even ground on which they are."},{"verse":22,"restored":"But on that day I will set apart land of Goshen, where my people stand, so no swarm will be there, so that you may know that I, YHWH, am in midst of land."},{"verse":23,"restored":"I will place distinction between my people and your people; tomorrow this sign will happen."},{"verse":24,"restored":"YHWH did so; a heavy swarm came into house of Pharaoh and house of his servants and in all land of Egypt; the land was ruined because of swarm."},{"verse":25,"restored":"Pharaoh called Moses and Aaron and said, Go, sacrifice to your Divine in the land."},{"verse":26,"restored":"Moses said, It is not established/right to do so, for we will sacrifice to YHWH our Divine what is abomination to Egypt. Look, if we sacrifice what is abomination to Egypt before their eyes, will they not stone us?"},{"verse":27,"restored":"A three-day journey into wilderness we will go, and we will sacrifice to YHWH our Divine, as he says to us."},{"verse":28,"restored":"Pharaoh said, I myself will send you, and you shall sacrifice to YHWH your Divine in wilderness; only do not go very far. Plead for me."},{"verse":29,"restored":"Moses said, Look, I go out from you and will plead to YHWH, and the swarm will turn aside from Pharaoh, his servants, and his people tomorrow; only let Pharaoh not act deceitfully again by not sending the people to sacrifice to YHWH."},{"verse":30,"restored":"Moses went out from Pharaoh and pleaded to YHWH."},{"verse":31,"restored":"YHWH did according to word of Moses and turned aside the swarm from Pharaoh, his servants, and his people; not one remained."},{"verse":32,"restored":"But Pharaoh made his heart heavy this time also, and he did not send the people."}],"translation_notes":["Frog and insect signs continue creation-disruption imagery.","Magicians recognize 'finger of Divine' when imitation fails.","Goshen distinction introduces protected-space motif.","Pharaoh's concessions remain control tactics: worship in land, do not go far, plead for me."],"safety_note":"The signs confront Pharaoh's repeated refusal and control tactics. Do not read them as Divine cruelty detached from liberation context."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for frogs, gnats/lice, swarm, Pharaoh's partial concessions, distinction of Goshen, and hardening."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, Come to Pharaoh, and say to him, Thus says YHWH: Send my people away, so they may serve/worship me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, Go unto Pharaoh, and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "But if you refuse to send, look, I myself will strike all your border with frogs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thou refuse to let them go, behold, I will smite all thy borders with frogs:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "The Nile will swarm with frogs; they will go up and come into your house, your bedroom, your bed, house of your servants, among your people, into your ovens and kneading bowls.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Upon you, upon your people, and upon all your servants the frogs will go up.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the frogs shall come up both on thee, and upon thy people, and upon all thy servants."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "YHWH said to Moses, Say to Aaron, Stretch your hand with your staff over rivers, canals, and pools, and bring up frogs upon land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, Say unto Aaron, Stretch forth thine hand with thy rod over the streams, over the rivers, and over the ponds, and cause frogs to come up upon the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Aaron stretched his hand over waters of Egypt, and frogs came up and covered land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron stretched out his hand over the waters of Egypt; and the frogs came up, and covered the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "The magicians did so with their secret arts and brought up frogs upon land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Pharaoh called Moses and Aaron and said, Plead with YHWH to remove frogs from me and from my people, and I will send the people, so they may sacrifice to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Pharaoh called for Moses and Aaron, and said, Intreat the LORD, that he may take away the frogs from me, and from my people; and I will let the people go, that they may do sacrifice unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Moses said to Pharaoh, Have honor over me: for when shall I plead for you, your servants, and your people, to cut off frogs from you and your houses, only in Nile they will remain?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto Pharaoh, Glory over me: when shall I intreat for thee, and for thy servants, and for thy people, to destroy the frogs from thee and thy houses, that they may remain in the river only?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "He said, Tomorrow. Moses said, According to your word, so that you may know there is none like YHWH our Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said, To morrow. And he said, Be it according to thy word: that thou mayest know that there is none like unto the LORD our God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The frogs shall turn aside from you, from your houses, from your servants, and from your people; only in Nile they shall remain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Moses and Aaron went out from Pharaoh, and Moses cried to YHWH concerning the frogs he had set upon Pharaoh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron went out from Pharaoh: and Moses cried unto the LORD because of the frogs which he had brought against Pharaoh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "YHWH did according to word of Moses; frogs died from houses, courtyards, and fields.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD did according to the word of Moses; and the frogs died out of the houses, out of the villages, and out of the fields."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "They piled them in heaps and heaps, and the land stank.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gathered them together upon heaps: and the land stank."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But Pharaoh saw there was relief, and he made his heart heavy and did not listen to them, as YHWH had spoken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But when Pharaoh saw that there was respite, he hardened his heart, and hearkened not unto them; as the LORD had said."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "YHWH said to Moses, Say to Aaron, Stretch your staff and strike dust of earth, and it shall become gnats/lice in all land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Say unto Aaron, Stretch out thy rod, and smite the dust of the land, that it may become lice throughout all the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "They did so; Aaron stretched his hand with his staff and struck dust of earth, and gnats/lice were on human and beast; all dust of earth became gnats/lice in all land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "The magicians did so with their secret arts to bring out gnats/lice, but they were not able. And gnats/lice were on human and beast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The magicians said to Pharaoh, This is finger of Divine. But Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh’s heart was hardened, and he hearkened not unto them; as the LORD had said."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "YHWH said to Moses, Rise early in morning and stand before Pharaoh; look, he goes out to the water. Say to him, Thus says YHWH: Send my people away, so they may serve/worship me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh; lo, he cometh forth to the water; and say unto him, Thus saith the LORD, Let my people go, that they may serve me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "For if you do not send my people away, look, I send swarm upon you, your servants, your people, and your houses; houses of Egypt will be full of swarm, and even ground on which they are.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Else, if thou wilt not let my people go, behold, I will send swarms of flies upon thee, and upon thy servants, and upon thy people, and into thy houses: and the houses of the Egyptians shall be full of swarms of flies, and also the ground whereon they are."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "But on that day I will set apart land of Goshen, where my people stand, so no swarm will be there, so that you may know that I, YHWH, am in midst of land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will sever in that day the land of Goshen, in which my people dwell, that no swarms of flies shall be there; to the end thou mayest know that I am the LORD in the midst of the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "I will place distinction between my people and your people; tomorrow this sign will happen.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will put a division between my people and thy people: to morrow shall this sign be."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "YHWH did so; a heavy swarm came into house of Pharaoh and house of his servants and in all land of Egypt; the land was ruined because of swarm.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD did so; and there came a grievous swarm of flies into the house of Pharaoh, and into his servants’ houses, and into all the land of Egypt: the land was corrupted by reason of the swarm of flies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Pharaoh called Moses and Aaron and said, Go, sacrifice to your Divine in the land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh called for Moses and for Aaron, and said, Go ye, sacrifice to your God in the land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Moses said, It is not established/right to do so, for we will sacrifice to YHWH our Divine what is abomination to Egypt. Look, if we sacrifice what is abomination to Egypt before their eyes, will they not stone us?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the LORD our God: lo, shall we sacrifice the abomination of the Egyptians before their eyes, and will they not stone us?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "A three-day journey into wilderness we will go, and we will sacrifice to YHWH our Divine, as he says to us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "We will go three days’ journey into the wilderness, and sacrifice to the LORD our God, as he shall command us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "Pharaoh said, I myself will send you, and you shall sacrifice to YHWH your Divine in wilderness; only do not go very far. Plead for me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh said, I will let you go, that ye may sacrifice to the LORD your God in the wilderness; only ye shall not go very far away: intreat for me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Moses said, Look, I go out from you and will plead to YHWH, and the swarm will turn aside from Pharaoh, his servants, and his people tomorrow; only let Pharaoh not act deceitfully again by not sending the people to sacrifice to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Behold, I go out from thee, and I will intreat the LORD that the swarms of flies may depart from Pharaoh, from his servants, and from his people, to morrow: but let not Pharaoh deal deceitfully any more in not letting the people go to sacrifice to the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Moses went out from Pharaoh and pleaded to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses went out from Pharaoh, and intreated the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "YHWH did according to word of Moses and turned aside the swarm from Pharaoh, his servants, and his people; not one remained.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD did according to the word of Moses; and he removed the swarms of flies from Pharaoh, from his servants, and from his people; there remained not one."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "But Pharaoh made his heart heavy this time also, and he did not send the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh hardened his heart at this time also, neither would he let the people go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Frog and insect signs continue creation-disruption imagery.",
+    "Magicians recognize 'finger of Divine' when imitation fails.",
+    "Goshen distinction introduces protected-space motif.",
+    "Pharaoh's concessions remain control tactics: worship in land, do not go far, plead for me."
+  ],
+  "safety_note": "The signs confront Pharaoh's repeated refusal and control tactics. Do not read them as Divine cruelty detached from liberation context.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-19-of-32",
+    "tags": "partial-14-of-32",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-14-of-32",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

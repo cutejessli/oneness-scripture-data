@@ -1,1 +1,501 @@
-{"book":"Leviticus","book_id":"leviticus","chapter":3,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Leviticus / Vayiqra peace/well-being offering text tradition, draft aligned later","review_note":"First-pass draft reviewed for sacrifice of peace/well-being, herd/flock/goat options, fat portions, blood/life, and fat/blood prohibition."},"verses":[{"verse":1,"restored":"If his offering is sacrifice of peace/well-being, if from herd he brings near, whether male or female, complete one he shall bring near before YHWH."},{"verse":2,"restored":"He shall lay his hand on head of his offering and slaughter it at entrance of tent of meeting; sons of Aaron, the priests, shall throw blood/life against altar all around."},{"verse":3,"restored":"He shall bring near from sacrifice of peace/well-being a fire-offering to YHWH: fat covering inward parts and all fat upon inward parts,"},{"verse":4,"restored":"two kidneys and fat on them that is by loins, and lobe upon liver; with kidneys he shall remove it."},{"verse":5,"restored":"Sons of Aaron shall turn it into smoke on altar upon burnt offering that is on wood on fire; fire-offering, soothing scent to YHWH."},{"verse":6,"restored":"If his offering for sacrifice of peace/well-being to YHWH is from flock, male or female, complete one he shall bring near."},{"verse":7,"restored":"If he brings near a lamb as his offering, he shall bring it near before YHWH."},{"verse":8,"restored":"He shall lay his hand on head of his offering and slaughter it before tent of meeting; sons of Aaron shall throw its blood/life against altar all around."},{"verse":9,"restored":"He shall bring near from sacrifice of peace/well-being a fire-offering to YHWH: its fat, whole fat tail removed close to backbone, fat covering inward parts, all fat on inward parts,"},{"verse":10,"restored":"two kidneys and fat on them by loins, and lobe upon liver; with kidneys he shall remove it."},{"verse":11,"restored":"The priest shall turn it into smoke on altar; food of fire-offering to YHWH."},{"verse":12,"restored":"If his offering is goat, he shall bring it near before YHWH."},{"verse":13,"restored":"He shall lay his hand on its head and slaughter it before tent of meeting; sons of Aaron shall throw its blood/life against altar all around."},{"verse":14,"restored":"He shall bring near from it his offering, fire-offering to YHWH: fat covering inward parts and all fat on inward parts,"},{"verse":15,"restored":"two kidneys and fat on them by loins, and lobe upon liver; with kidneys he shall remove it."},{"verse":16,"restored":"The priest shall turn them into smoke on altar; food of fire-offering for soothing scent. All fat is YHWH's."},{"verse":17,"restored":"Age-long statute throughout your generations in all your dwellings: all fat and all blood/life you shall not eat."}],"translation_notes":["Shelamim is peace/well-being/wholeness offering, likely shared meal logic in broader context.","Male or female animals may be brought for this offering, unlike some other categories.","Fat portions belong to YHWH in this ritual grammar; blood/life is not eaten.","Blood/life prohibition should be read as reverence for life, not disgust toward bodies."],"safety_note":"Do not turn fat/blood prohibitions into body-shame. In this ritual system, fat and blood/life are reserved to YHWH as symbols of abundance and life."}
+{
+  "book": "Leviticus",
+  "book_id": "leviticus",
+  "chapter": 3,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Leviticus / Vayiqra peace/well-being offering text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for sacrifice of peace/well-being, herd/flock/goat options, fat portions, blood/life, and fat/blood prohibition."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "If his offering is sacrifice of peace/well-being, if from herd he brings near, whether male or female, complete one he shall bring near before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if his oblation be a sacrifice of peace offering, if he offer it of the herd; whether it be a male or female, he shall offer it without blemish before the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "He shall lay his hand on head of his offering and slaughter it at entrance of tent of meeting; sons of Aaron, the priests, shall throw blood/life against altar all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall lay his hand upon the head of his offering, and kill it at the door of the tabernacle of the congregation: and Aaron’s sons the priests shall sprinkle the blood upon the altar round about."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He shall bring near from sacrifice of peace/well-being a fire-offering to YHWH: fat covering inward parts and all fat upon inward parts,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "two kidneys and fat on them that is by loins, and lobe upon liver; with kidneys he shall remove it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the two kidneys, and the fat that is on them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Sons of Aaron shall turn it into smoke on altar upon burnt offering that is on wood on fire; fire-offering, soothing scent to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron’s sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "If his offering for sacrifice of peace/well-being to YHWH is from flock, male or female, complete one he shall bring near.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if his offering for a sacrifice of peace offering unto the LORD be of the flock; male or female, he shall offer it without blemish."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "If he brings near a lamb as his offering, he shall bring it near before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If he offer a lamb for his offering, then shall he offer it before the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "He shall lay his hand on head of his offering and slaughter it before tent of meeting; sons of Aaron shall throw its blood/life against altar all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall lay his hand upon the head of his offering, and kill it before the tabernacle of the congregation: and Aaron’s sons shall sprinkle the blood thereof round about upon the altar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "He shall bring near from sacrifice of peace/well-being a fire-offering to YHWH: its fat, whole fat tail removed close to backbone, fat covering inward parts, all fat on inward parts,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall offer of the sacrifice of the peace offering an offering made by fire unto the LORD; the fat thereof, and the whole rump, it shall he take off hard by the backbone; and the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "two kidneys and fat on them by loins, and lobe upon liver; with kidneys he shall remove it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The priest shall turn it into smoke on altar; food of fire-offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest shall burn it upon the altar: it is the food of the offering made by fire unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "If his offering is goat, he shall bring it near before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if his offering be a goat, then he shall offer it before the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He shall lay his hand on its head and slaughter it before tent of meeting; sons of Aaron shall throw its blood/life against altar all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He shall bring near from it his offering, fire-offering to YHWH: fat covering inward parts and all fat on inward parts,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall offer thereof his offering, even an offering made by fire unto the LORD; the fat that covereth the inwards, and all the fat that is upon the inwards,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "two kidneys and fat on them by loins, and lobe upon liver; with kidneys he shall remove it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the two kidneys, and the fat that is upon them, which is by the flanks, and the caul above the liver, with the kidneys, it shall he take away."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "The priest shall turn them into smoke on altar; food of fire-offering for soothing scent. All fat is YHWH's.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest shall burn them upon the altar: it is the food of the offering made by fire for a sweet savour: all the fat is the LORD’s."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Age-long statute throughout your generations in all your dwellings: all fat and all blood/life you shall not eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It shall be a perpetual statute for your generations throughout all your dwellings, that ye eat neither fat nor blood."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Shelamim is peace/well-being/wholeness offering, likely shared meal logic in broader context.",
+    "Male or female animals may be brought for this offering, unlike some other categories.",
+    "Fat portions belong to YHWH in this ritual grammar; blood/life is not eaten.",
+    "Blood/life prohibition should be read as reverence for life, not disgust toward bodies."
+  ],
+  "safety_note": "Do not turn fat/blood prohibitions into body-shame. In this ritual system, fat and blood/life are reserved to YHWH as symbols of abundance and life.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-17",
+    "tags": "partial-13-of-17",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-8-of-17",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

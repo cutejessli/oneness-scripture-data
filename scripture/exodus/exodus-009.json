@@ -1,1 +1,736 @@
-{"book":"Exodus","book_id":"exodus","chapter":9,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for livestock pestilence, boils, hail, Goshen distinction, Pharaoh's confession and renewed hardening."},"verses":[{"verse":1,"restored":"YHWH said to Moses, Come to Pharaoh and speak to him: Thus says YHWH, Divine of Hebrews: Send my people away, so they may serve/worship me."},{"verse":2,"restored":"For if you refuse to send and still hold them,"},{"verse":3,"restored":"look, hand of YHWH will be upon your livestock in field, upon horses, donkeys, camels, herd, and flock, a very heavy pestilence."},{"verse":4,"restored":"YHWH will make distinction between livestock of Israel and livestock of Egypt, and nothing shall die from all belonging to children of Israel."},{"verse":5,"restored":"YHWH set an appointed time, saying, Tomorrow YHWH will do this thing in the land."},{"verse":6,"restored":"YHWH did this thing next day, and all livestock of Egypt died, but from livestock of children of Israel not one died."},{"verse":7,"restored":"Pharaoh sent, and look, not even one from livestock of Israel had died; but heart of Pharaoh was heavy, and he did not send the people."},{"verse":8,"restored":"YHWH said to Moses and Aaron, Take for yourselves handfuls of soot from kiln, and Moses shall throw it toward heavens before eyes of Pharaoh."},{"verse":9,"restored":"It shall become dust over all land of Egypt, and it shall become boils breaking out in sores on human and beast in all land of Egypt."},{"verse":10,"restored":"They took soot from kiln and stood before Pharaoh, and Moses threw it toward heavens, and it became boils breaking out in sores on human and beast."},{"verse":11,"restored":"The magicians could not stand before Moses because of boils, for boils were on magicians and on all Egypt."},{"verse":12,"restored":"YHWH strengthened/hardened heart of Pharaoh, and he did not listen to them, as YHWH had spoken to Moses."},{"verse":13,"restored":"YHWH said to Moses, Rise early in morning and stand before Pharaoh, and say to him: Thus says YHWH, Divine of Hebrews: Send my people away, so they may serve/worship me."},{"verse":14,"restored":"For this time I am sending all my plagues to your heart, and against your servants and your people, so that you may know there is none like me in all earth."},{"verse":15,"restored":"For now I could have stretched my hand and struck you and your people with pestilence, and you would be cut off from earth."},{"verse":16,"restored":"But for this I have made you stand: to show you my power and so my name may be recounted in all earth."},{"verse":17,"restored":"Still you exalt yourself against my people, not sending them away."},{"verse":18,"restored":"Look, tomorrow about this time I will rain very heavy hail, such as has not been in Egypt from day it was founded until now."},{"verse":19,"restored":"Now send, bring your livestock and all you have in field into safety. Every human and beast found in field and not brought into house—the hail shall come down upon them, and they shall die."},{"verse":20,"restored":"The one fearing/revering word of YHWH among servants of Pharaoh made his servants and livestock flee into houses."},{"verse":21,"restored":"But the one who did not set heart to word of YHWH left servants and livestock in field."},{"verse":22,"restored":"YHWH said to Moses, Stretch your hand toward heavens, so there may be hail in all land of Egypt, upon human, beast, and every plant of field in land of Egypt."},{"verse":23,"restored":"Moses stretched his staff toward heavens, and YHWH gave thunder and hail, and fire went earthward; YHWH rained hail upon land of Egypt."},{"verse":24,"restored":"There was hail and fire flashing within hail, very heavy, such as had not been in all land of Egypt since it became a nation."},{"verse":25,"restored":"The hail struck in all land of Egypt all that was in field, from human to beast; hail struck every plant of field and shattered every tree of field."},{"verse":26,"restored":"Only in land of Goshen, where children of Israel were, there was no hail."},{"verse":27,"restored":"Pharaoh sent and called Moses and Aaron and said to them, I have sinned/misaligned this time. YHWH is righteous/just, and I and my people are wicked."},{"verse":28,"restored":"Plead to YHWH, for enough of Divine thunders and hail; I will send you away, and you shall no longer stay."},{"verse":29,"restored":"Moses said to him, As I go out from city, I will spread my palms to YHWH; thunder will cease, and hail will be no more, so you may know earth belongs to YHWH."},{"verse":30,"restored":"But as for you and your servants, I know you do not yet fear/revere YHWH Divine."},{"verse":31,"restored":"The flax and barley were struck, for barley was in ear and flax in bud."},{"verse":32,"restored":"But wheat and spelt were not struck, for they are late."},{"verse":33,"restored":"Moses went out from Pharaoh, from city, and spread his palms to YHWH; thunder and hail ceased, and rain was not poured on earth."},{"verse":34,"restored":"Pharaoh saw that rain, hail, and thunder ceased; he sinned/misaligned again and made his heart heavy, he and his servants."},{"verse":35,"restored":"Heart of Pharaoh was strong/hardened, and he did not send the children of Israel, as YHWH had spoken by hand of Moses."}],"translation_notes":["The hail warning allows Egyptians/servants who fear YHWH's word to seek shelter; this prevents ethnic flattening.","Pharaoh's confession is real speech but not yet deep turning; relief again leads to renewed hardening.","Earth belongs to YHWH is the theological claim against Pharaoh's control."],"safety_note":"The signs are not anti-Egyptian ethnicity. Some of Pharaoh's own servants heed YHWH's word and protect life. The target remains hardened oppressive power."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for livestock pestilence, boils, hail, Goshen distinction, Pharaoh's confession and renewed hardening."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, Come to Pharaoh and speak to him: Thus says YHWH, Divine of Hebrews: Send my people away, so they may serve/worship me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For if you refuse to send and still hold them,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For if thou refuse to let them go, and wilt hold them still,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "look, hand of YHWH will be upon your livestock in field, upon horses, donkeys, camels, herd, and flock, a very heavy pestilence.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "YHWH will make distinction between livestock of Israel and livestock of Egypt, and nothing shall die from all belonging to children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "YHWH set an appointed time, saying, Tomorrow YHWH will do this thing in the land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "YHWH did this thing next day, and all livestock of Egypt died, but from livestock of children of Israel not one died.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Pharaoh sent, and look, not even one from livestock of Israel had died; but heart of Pharaoh was heavy, and he did not send the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "YHWH said to Moses and Aaron, Take for yourselves handfuls of soot from kiln, and Moses shall throw it toward heavens before eyes of Pharaoh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "It shall become dust over all land of Egypt, and it shall become boils breaking out in sores on human and beast in all land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "They took soot from kiln and stood before Pharaoh, and Moses threw it toward heavens, and it became boils breaking out in sores on human and beast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "The magicians could not stand before Moses because of boils, for boils were on magicians and on all Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "YHWH strengthened/hardened heart of Pharaoh, and he did not listen to them, as YHWH had spoken to Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "YHWH said to Moses, Rise early in morning and stand before Pharaoh, and say to him: Thus says YHWH, Divine of Hebrews: Send my people away, so they may serve/worship me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For this time I am sending all my plagues to your heart, and against your servants and your people, so that you may know there is none like me in all earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "For now I could have stretched my hand and struck you and your people with pestilence, and you would be cut off from earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "But for this I have made you stand: to show you my power and so my name may be recounted in all earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Still you exalt yourself against my people, not sending them away.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As yet exaltest thou thyself against my people, that thou wilt not let them go?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Look, tomorrow about this time I will rain very heavy hail, such as has not been in Egypt from day it was founded until now.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Now send, bring your livestock and all you have in field into safety. Every human and beast found in field and not brought into house—the hail shall come down upon them, and they shall die.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "The one fearing/revering word of YHWH among servants of Pharaoh made his servants and livestock flee into houses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "But the one who did not set heart to word of YHWH left servants and livestock in field.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that regarded not the word of the LORD left his servants and his cattle in the field."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "YHWH said to Moses, Stretch your hand toward heavens, so there may be hail in all land of Egypt, upon human, beast, and every plant of field in land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Moses stretched his staff toward heavens, and YHWH gave thunder and hail, and fire went earthward; YHWH rained hail upon land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "There was hail and fire flashing within hail, very heavy, such as had not been in all land of Egypt since it became a nation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "The hail struck in all land of Egypt all that was in field, from human to beast; hail struck every plant of field and shattered every tree of field.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 26,
+      "restored": "Only in land of Goshen, where children of Israel were, there was no hail.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only in the land of Goshen, where the children of Israel were, was there no hail."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "Pharaoh sent and called Moses and Aaron and said to them, I have sinned/misaligned this time. YHWH is righteous/just, and I and my people are wicked.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Plead to YHWH, for enough of Divine thunders and hail; I will send you away, and you shall no longer stay.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Moses said to him, As I go out from city, I will spread my palms to YHWH; thunder will cease, and hail will be no more, so you may know earth belongs to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "But as for you and your servants, I know you do not yet fear/revere YHWH Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as for thee and thy servants, I know that ye will not yet fear the LORD God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 31,
+      "restored": "The flax and barley were struck, for barley was in ear and flax in bud.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "But wheat and spelt were not struck, for they are late.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the wheat and the rie were not smitten: for they were not grown up."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "Moses went out from Pharaoh, from city, and spread his palms to YHWH; thunder and hail ceased, and rain was not poured on earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Pharaoh saw that rain, hail, and thunder ceased; he sinned/misaligned again and made his heart heavy, he and his servants.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 35,
+      "restored": "Heart of Pharaoh was strong/hardened, and he did not send the children of Israel, as YHWH had spoken by hand of Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The hail warning allows Egyptians/servants who fear YHWH's word to seek shelter; this prevents ethnic flattening.",
+    "Pharaoh's confession is real speech but not yet deep turning; relief again leads to renewed hardening.",
+    "Earth belongs to YHWH is the theological claim against Pharaoh's control."
+  ],
+  "safety_note": "The signs are not anti-Egyptian ethnicity. Some of Pharaoh's own servants heed YHWH's word and protect life. The target remains hardened oppressive power.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-21-of-35",
+    "tags": "partial-13-of-35",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-15-of-35",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

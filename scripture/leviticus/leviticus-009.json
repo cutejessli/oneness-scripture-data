@@ -1,1 +1,674 @@
-{"book":"Leviticus","book_id":"leviticus","chapter":9,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Leviticus / Vayiqra priestly inauguration text tradition, draft aligned later","review_note":"First-pass draft reviewed for eighth-day priestly offerings, congregation offerings, Aaron's first service, blessing, glory appearing, and fire from before YHWH."},"verses":[{"verse":1,"restored":"It happened on eighth day: Moses called Aaron and his sons and elders of Israel."},{"verse":2,"restored":"He said to Aaron, Take for yourself calf, son of herd, for sin/misalignment offering, and ram for burnt offering, complete ones, and bring near before YHWH."},{"verse":3,"restored":"To children of Israel you shall speak, saying, Take male goat for sin/misalignment offering, and calf and lamb, sons of a year, complete ones, for burnt offering,"},{"verse":4,"restored":"and ox and ram for peace/well-being offerings, to sacrifice before YHWH, and grain offering mixed with oil, for today YHWH appears to you."},{"verse":5,"restored":"They took what Moses commanded to front of tent of meeting, and all congregation drew near and stood before YHWH."},{"verse":6,"restored":"Moses said, This is the matter YHWH commanded you to do, and glory of YHWH shall appear to you."},{"verse":7,"restored":"Moses said to Aaron, Draw near to altar and make your sin/misalignment offering and burnt offering, and make atonement/covering for yourself and for people; make offering of people and make atonement/covering for them, as YHWH commanded."},{"verse":8,"restored":"Aaron drew near to altar and slaughtered calf of sin/misalignment offering that was for himself."},{"verse":9,"restored":"Sons of Aaron brought blood/life to him; he dipped his finger in blood/life and put it on horns of altar, and poured blood/life at base of altar."},{"verse":10,"restored":"Fat, kidneys, and lobe from liver from sin/misalignment offering he turned into smoke on altar, as YHWH commanded Moses."},{"verse":11,"restored":"Flesh and skin he burned with fire outside camp."},{"verse":12,"restored":"He slaughtered burnt offering, and sons of Aaron handed blood/life to him, and he threw it against altar all around."},{"verse":13,"restored":"Burnt offering they handed to him in its pieces and head, and he turned into smoke on altar."},{"verse":14,"restored":"He washed inward parts and legs and turned them into smoke upon burnt offering on altar."},{"verse":15,"restored":"He brought near people's offering, took goat of sin/misalignment offering that was for people, slaughtered it, and offered it for sin/misalignment like first."},{"verse":16,"restored":"He brought near burnt offering and did it according to judgment."},{"verse":17,"restored":"He brought near grain offering, filled his palm from it, and turned it into smoke on altar, apart from burnt offering of morning."},{"verse":18,"restored":"He slaughtered ox and ram, sacrifice of peace/well-being that was for people; sons of Aaron handed blood/life to him, and he threw it against altar all around."},{"verse":19,"restored":"Fat portions from ox and from ram: fat tail, covering, kidneys, and lobe of liver,"},{"verse":20,"restored":"they placed fat portions upon breasts, and he turned fat portions into smoke on altar."},{"verse":21,"restored":"Breasts and right thigh Aaron waved as wave offering before YHWH, as Moses commanded."},{"verse":22,"restored":"Aaron lifted his hands toward people and blessed them; he came down from making sin/misalignment offering, burnt offering, and peace/well-being offerings."},{"verse":23,"restored":"Moses and Aaron came into tent of meeting; they went out and blessed the people, and glory of YHWH appeared to all the people."},{"verse":24,"restored":"Fire came out from before YHWH and consumed burnt offering and fat portions upon altar; all the people saw, shouted, and fell on their faces."}],"translation_notes":["Eighth day follows seven-day ordination and marks priestly service beginning.","Aaron makes covering for himself before the people, preserving accountability of priesthood.","Glory appears after commanded ritual order and blessing.","Fire from before YHWH consumes the offering as acceptance/presence; this sets context for chapter 10's unauthorized fire."],"safety_note":"The appearance of glory is tied to blessing and commanded service. Do not turn priestly mediation into spiritual superiority; Aaron first needs covering for himself."}
+{
+  "book": "Leviticus",
+  "book_id": "leviticus",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Leviticus / Vayiqra priestly inauguration text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for eighth-day priestly offerings, congregation offerings, Aaron's first service, blessing, glory appearing, and fire from before YHWH."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "It happened on eighth day: Moses called Aaron and his sons and elders of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass on the eighth day, that Moses called Aaron and his sons, and the elders of Israel;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He said to Aaron, Take for yourself calf, son of herd, for sin/misalignment offering, and ram for burnt offering, complete ones, and bring near before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "To children of Israel you shall speak, saying, Take male goat for sin/misalignment offering, and calf and lamb, sons of a year, complete ones, for burnt offering,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And unto the children of Israel thou shalt speak, saying, Take ye a kid of the goats for a sin offering; and a calf and a lamb, both of the first year, without blemish, for a burnt offering;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "and ox and ram for peace/well-being offerings, to sacrifice before YHWH, and grain offering mixed with oil, for today YHWH appears to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also a bullock and a ram for peace offerings, to sacrifice before the LORD; and a meat offering mingled with oil: for to day the LORD will appear unto you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "They took what Moses commanded to front of tent of meeting, and all congregation drew near and stood before YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought that which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Moses said, This is the matter YHWH commanded you to do, and glory of YHWH shall appear to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, This is the thing which the LORD commanded that ye should do: and the glory of the LORD shall appear unto you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Moses said to Aaron, Draw near to altar and make your sin/misalignment offering and burnt offering, and make atonement/covering for yourself and for people; make offering of people and make atonement/covering for them, as YHWH commanded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto Aaron, Go unto the altar, and offer thy sin offering, and thy burnt offering, and make an atonement for thyself, and for the people: and offer the offering of the people, and make an atonement for them; as the LORD commanded."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Aaron drew near to altar and slaughtered calf of sin/misalignment offering that was for himself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Aaron therefore went unto the altar, and slew the calf of the sin offering, which was for himself."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Sons of Aaron brought blood/life to him; he dipped his finger in blood/life and put it on horns of altar, and poured blood/life at base of altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the bottom of the altar:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Fat, kidneys, and lobe from liver from sin/misalignment offering he turned into smoke on altar, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the fat, and the kidneys, and the caul above the liver of the sin offering, he burnt upon the altar; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Flesh and skin he burned with fire outside camp.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the flesh and the hide he burnt with fire without the camp."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "He slaughtered burnt offering, and sons of Aaron handed blood/life to him, and he threw it against altar all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he slew the burnt offering; and Aaron’s sons presented unto him the blood, which he sprinkled round about upon the altar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Burnt offering they handed to him in its pieces and head, and he turned into smoke on altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt them upon the altar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "He washed inward parts and legs and turned them into smoke upon burnt offering on altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he did wash the inwards and the legs, and burnt them upon the burnt offering on the altar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He brought near people's offering, took goat of sin/misalignment offering that was for people, slaughtered it, and offered it for sin/misalignment like first.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought the people’s offering, and took the goat, which was the sin offering for the people, and slew it, and offered it for sin, as the first."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "He brought near burnt offering and did it according to judgment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought the burnt offering, and offered it according to the manner."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He brought near grain offering, filled his palm from it, and turned it into smoke on altar, apart from burnt offering of morning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought the meat offering, and took an handful thereof, and burnt it upon the altar, beside the burnt sacrifice of the morning."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "He slaughtered ox and ram, sacrifice of peace/well-being that was for people; sons of Aaron handed blood/life to him, and he threw it against altar all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron’s sons presented unto him the blood, which he sprinkled upon the altar round about,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Fat portions from ox and from ram: fat tail, covering, kidneys, and lobe of liver,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "they placed fat portions upon breasts, and he turned fat portions into smoke on altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they put the fat upon the breasts, and he burnt the fat upon the altar:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Breasts and right thigh Aaron waved as wave offering before YHWH, as Moses commanded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the breasts and the right shoulder Aaron waved for a wave offering before the LORD; as Moses commanded."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Aaron lifted his hands toward people and blessed them; he came down from making sin/misalignment offering, burnt offering, and peace/well-being offerings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron lifted up his hand toward the people, and blessed them, and came down from offering of the sin offering, and the burnt offering, and peace offerings."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "Moses and Aaron came into tent of meeting; they went out and blessed the people, and glory of YHWH appeared to all the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the LORD appeared unto all the people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Fire came out from before YHWH and consumed burnt offering and fat portions upon altar; all the people saw, shouted, and fell on their faces.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there came a fire out from before the LORD, and consumed upon the altar the burnt offering and the fat: which when all the people saw, they shouted, and fell on their faces."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Eighth day follows seven-day ordination and marks priestly service beginning.",
+    "Aaron makes covering for himself before the people, preserving accountability of priesthood.",
+    "Glory appears after commanded ritual order and blessing.",
+    "Fire from before YHWH consumes the offering as acceptance/presence; this sets context for chapter 10's unauthorized fire."
+  ],
+  "safety_note": "The appearance of glory is tied to blessing and commanded service. Do not turn priestly mediation into spiritual superiority; Aaron first needs covering for himself.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-18-of-24",
+    "tags": "partial-19-of-24",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-13-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

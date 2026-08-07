@@ -1,1 +1,533 @@
-{"book":"Leviticus","book_id":"leviticus","chapter":2,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Leviticus / Vayiqra grain offering text tradition, draft aligned later","review_note":"First-pass draft reviewed for grain/minhah offering, oil, frankincense, memorial portion, priestly portion, no leaven/honey, salt of covenant, firstfruits."},"verses":[{"verse":1,"restored":"When a soul/life brings near grain offering to YHWH, his offering shall be fine flour; he shall pour oil upon it and put frankincense upon it."},{"verse":2,"restored":"He shall bring it to sons of Aaron, the priests; he shall grasp from there full handful from its fine flour and oil with all its frankincense, and priest shall turn its memorial portion into smoke on altar, fire-offering, soothing scent to YHWH."},{"verse":3,"restored":"The remainder of grain offering belongs to Aaron and his sons, Holy of Holies from fire-offerings of YHWH."},{"verse":4,"restored":"When you bring near offering of grain offering baked in oven, it shall be unleavened cakes of fine flour mixed with oil or unleavened wafers spread with oil."},{"verse":5,"restored":"If your offering is grain offering on griddle, it shall be fine flour mixed with oil, unleavened."},{"verse":6,"restored":"Break it into pieces and pour oil upon it; it is grain offering."},{"verse":7,"restored":"If your offering is grain offering in pan, it shall be made of fine flour with oil."},{"verse":8,"restored":"You shall bring grain offering that is made of these to YHWH; it shall be brought near to priest, and he shall bring it to altar."},{"verse":9,"restored":"The priest shall lift from grain offering its memorial portion and turn it into smoke on altar, fire-offering, soothing scent to YHWH."},{"verse":10,"restored":"The remainder of grain offering belongs to Aaron and his sons, Holy of Holies from fire-offerings of YHWH."},{"verse":11,"restored":"Every grain offering you bring near to YHWH shall not be made leavened, for any leaven or any honey you shall not turn into smoke as fire-offering to YHWH."},{"verse":12,"restored":"As offering of firstfruits you may bring them near to YHWH, but they shall not go up on altar for soothing scent."},{"verse":13,"restored":"Every offering of your grain offering you shall season with salt; you shall not let salt of covenant of your Divine be lacking from your grain offering. With all your offerings you shall bring near salt."},{"verse":14,"restored":"If you bring near grain offering of firstfruits to YHWH, fresh ears roasted with fire, crushed grain of fresh grain, you shall bring near as grain offering of your firstfruits."},{"verse":15,"restored":"You shall put oil upon it and place frankincense upon it; it is grain offering."},{"verse":16,"restored":"The priest shall turn its memorial portion into smoke, from its crushed grain and from its oil, with all its frankincense; fire-offering to YHWH."}],"translation_notes":["Minhah/grain offering is non-animal offering and should be kept visible as valid near-bringing.","Memorial portion/azkarah rises while remainder feeds priests; offering includes shared provision.","Salt of covenant preserves durability/faithfulness symbolism.","Leaven/honey restriction is ritual-specific and not a blanket negative theology of sweetness or fermentation."],"safety_note":"Leviticus 2 prevents reducing sacrifice to animal blood. Grain, oil, fragrance, salt, and firstfruits are also holy modes of drawing near."}
+{
+  "book": "Leviticus",
+  "book_id": "leviticus",
+  "chapter": 2,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Leviticus / Vayiqra grain offering text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for grain/minhah offering, oil, frankincense, memorial portion, priestly portion, no leaven/honey, salt of covenant, firstfruits."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "When a soul/life brings near grain offering to YHWH, his offering shall be fine flour; he shall pour oil upon it and put frankincense upon it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He shall bring it to sons of Aaron, the priests; he shall grasp from there full handful from its fine flour and oil with all its frankincense, and priest shall turn its memorial portion into smoke on altar, fire-offering, soothing scent to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "The remainder of grain offering belongs to Aaron and his sons, Holy of Holies from fire-offerings of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "When you bring near offering of grain offering baked in oven, it shall be unleavened cakes of fine flour mixed with oil or unleavened wafers spread with oil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "If your offering is grain offering on griddle, it shall be fine flour mixed with oil, unleavened.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Break it into pieces and pour oil upon it; it is grain offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "If your offering is grain offering in pan, it shall be made of fine flour with oil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "You shall bring grain offering that is made of these to YHWH; it shall be brought near to priest, and he shall bring it to altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The priest shall lift from grain offering its memorial portion and turn it into smoke on altar, fire-offering, soothing scent to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "The remainder of grain offering belongs to Aaron and his sons, Holy of Holies from fire-offerings of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Every grain offering you bring near to YHWH shall not be made leavened, for any leaven or any honey you shall not turn into smoke as fire-offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "As offering of firstfruits you may bring them near to YHWH, but they shall not go up on altar for soothing scent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Every offering of your grain offering you shall season with salt; you shall not let salt of covenant of your Divine be lacking from your grain offering. With all your offerings you shall bring near salt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "If you bring near grain offering of firstfruits to YHWH, fresh ears roasted with fire, crushed grain of fresh grain, you shall bring near as grain offering of your firstfruits.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "You shall put oil upon it and place frankincense upon it; it is grain offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "The priest shall turn its memorial portion into smoke, from its crushed grain and from its oil, with all its frankincense; fire-offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Minhah/grain offering is non-animal offering and should be kept visible as valid near-bringing.",
+    "Memorial portion/azkarah rises while remainder feeds priests; offering includes shared provision.",
+    "Salt of covenant preserves durability/faithfulness symbolism.",
+    "Leaven/honey restriction is ritual-specific and not a blanket negative theology of sweetness or fermentation."
+  ],
+  "safety_note": "Leviticus 2 prevents reducing sacrifice to animal blood. Grain, oil, fragrance, salt, and firstfruits are also holy modes of drawing near.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "present-all-verses",
+    "tags": "present-all-verses",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-16",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

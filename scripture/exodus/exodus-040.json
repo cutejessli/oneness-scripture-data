@@ -1,1 +1,776 @@
-{"book":"Exodus","book_id":"exodus","chapter":40,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot tabernacle completion text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for tabernacle erection, anointing, priestly washing/clothing, completion formula, cloud/glory filling dwelling, and journey guidance."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"On first day of first month you shall raise dwelling-place of tent of meeting."},{"verse":3,"restored":"Put there ark of testimony, and screen ark with veil."},{"verse":4,"restored":"Bring in table and arrange its arrangement; bring in lampstand and raise its lamps."},{"verse":5,"restored":"Set gold altar for incense before ark of testimony, and put screen of entrance for dwelling-place."},{"verse":6,"restored":"Set altar of burnt offering before entrance of dwelling-place of tent of meeting."},{"verse":7,"restored":"Set basin between tent of meeting and altar, and put water there."},{"verse":8,"restored":"Set court around, and put screen of gate of court."},{"verse":9,"restored":"Take anointing oil and anoint dwelling-place and all that is in it; sanctify it and all its vessels, and it shall be holy."},{"verse":10,"restored":"Anoint altar of burnt offering and all its vessels; sanctify altar, and altar shall be Holy of Holies."},{"verse":11,"restored":"Anoint basin and its stand, and sanctify it."},{"verse":12,"restored":"Bring Aaron and his sons near to entrance of tent of meeting, and wash them with water."},{"verse":13,"restored":"Clothe Aaron with holy garments, anoint him, and sanctify him, so he may serve as priest to me."},{"verse":14,"restored":"Bring his sons near and clothe them with tunics."},{"verse":15,"restored":"Anoint them as you anointed their father, so they may serve as priests to me; their anointing shall be for them for age-long priesthood throughout generations."},{"verse":16,"restored":"Moses did according to all that YHWH commanded him; so he did."},{"verse":17,"restored":"It happened in first month in second year, on first of month, dwelling-place was raised."},{"verse":18,"restored":"Moses raised dwelling-place, set its bases, put its frames, put its bars, and raised its pillars."},{"verse":19,"restored":"He spread tent over dwelling-place and put covering of tent over it above, as YHWH commanded Moses."},{"verse":20,"restored":"He took and put testimony into ark, set poles on ark, and put cover upon ark above."},{"verse":21,"restored":"He brought ark into dwelling-place, put veil of screen, and screened ark of testimony, as YHWH commanded Moses."},{"verse":22,"restored":"He put table in tent of meeting, on north side of dwelling-place, outside veil."},{"verse":23,"restored":"He arranged upon it arrangement of bread before YHWH, as YHWH commanded Moses."},{"verse":24,"restored":"He put lampstand in tent of meeting opposite table, on south side of dwelling-place."},{"verse":25,"restored":"He raised lamps before YHWH, as YHWH commanded Moses."},{"verse":26,"restored":"He put gold altar in tent of meeting before veil."},{"verse":27,"restored":"He burned fragrant incense upon it, as YHWH commanded Moses."},{"verse":28,"restored":"He put screen of entrance for dwelling-place."},{"verse":29,"restored":"Altar of burnt offering he put at entrance of dwelling-place of tent of meeting, and offered upon it burnt offering and grain offering, as YHWH commanded Moses."},{"verse":30,"restored":"He put basin between tent of meeting and altar, and put water there for washing."},{"verse":31,"restored":"Moses and Aaron and his sons washed from it their hands and feet."},{"verse":32,"restored":"When they entered tent of meeting and when they approached altar, they washed, as YHWH commanded Moses."},{"verse":33,"restored":"He raised court around dwelling-place and altar, and put screen of gate of court. So Moses completed the work."},{"verse":34,"restored":"Then cloud covered tent of meeting, and glory of YHWH filled dwelling-place."},{"verse":35,"restored":"Moses was not able to enter tent of meeting, because cloud dwelt upon it, and glory of YHWH filled dwelling-place."},{"verse":36,"restored":"When cloud was lifted from over dwelling-place, children of Israel would journey in all their journeys."},{"verse":37,"restored":"But if cloud was not lifted, they would not journey until day it was lifted."},{"verse":38,"restored":"For cloud of YHWH was upon dwelling-place by day, and fire was in it by night, before eyes of all house of Israel in all their journeys."}],"translation_notes":["Exodus ends with mishkan raised and glory filling it: the liberation goal of YHWH dwelling in the midst is achieved.","Repeated 'as YHWH commanded Moses' marks faithful completion after calf rupture and renewal.","Moses cannot enter once glory fills dwelling; presence is gracious but overwhelming.","Cloud/fire from Exodus 13 now rests on the completed dwelling and guides all journeys."],"safety_note":"The book ends with presence and guidance, not conquest or domination. Divine glory fills the portable dwelling and leads the liberated people through all journeys."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 40,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot tabernacle completion text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for tabernacle erection, anointing, priestly washing/clothing, completion formula, cloud/glory filling dwelling, and journey guidance."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "On first day of first month you shall raise dwelling-place of tent of meeting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "On the first day of the first month shalt thou set up the tabernacle of the tent of the congregation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Put there ark of testimony, and screen ark with veil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt put therein the ark of the testimony, and cover the ark with the vail."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Bring in table and arrange its arrangement; bring in lampstand and raise its lamps.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring in the table, and set in order the things that are to be set in order upon it; and thou shalt bring in the candlestick, and light the lamps thereof."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Set gold altar for incense before ark of testimony, and put screen of entrance for dwelling-place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt set the altar of gold for the incense before the ark of the testimony, and put the hanging of the door to the tabernacle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Set altar of burnt offering before entrance of dwelling-place of tent of meeting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt set the altar of the burnt offering before the door of the tabernacle of the tent of the congregation."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Set basin between tent of meeting and altar, and put water there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt set the laver between the tent of the congregation and the altar, and shalt put water therein."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Set court around, and put screen of gate of court.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt set up the court round about, and hang up the hanging at the court gate."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Take anointing oil and anoint dwelling-place and all that is in it; sanctify it and all its vessels, and it shall be holy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt take the anointing oil, and anoint the tabernacle, and all that is therein, and shalt hallow it, and all the vessels thereof: and it shall be holy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Anoint altar of burnt offering and all its vessels; sanctify altar, and altar shall be Holy of Holies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt anoint the altar of the burnt offering, and all his vessels, and sanctify the altar: and it shall be an altar most holy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Anoint basin and its stand, and sanctify it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt anoint the laver and his foot, and sanctify it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Bring Aaron and his sons near to entrance of tent of meeting, and wash them with water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring Aaron and his sons unto the door of the tabernacle of the congregation, and wash them with water."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Clothe Aaron with holy garments, anoint him, and sanctify him, so he may serve as priest to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt put upon Aaron the holy garments, and anoint him, and sanctify him; that he may minister unto me in the priest’s office."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Bring his sons near and clothe them with tunics.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring his sons, and clothe them with coats:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Anoint them as you anointed their father, so they may serve as priests to me; their anointing shall be for them for age-long priesthood throughout generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt anoint them, as thou didst anoint their father, that they may minister unto me in the priest’s office: for their anointing shall surely be an everlasting priesthood throughout their generations."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "anointed",
+          "source": "mashiach",
+          "language": "Hebrew",
+          "glossary_id": "mashiach",
+          "transliteration": "mashiach"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Moses did according to all that YHWH commanded him; so he did.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus did Moses: according to all that the LORD commanded him, so did he."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "It happened in first month in second year, on first of month, dwelling-place was raised.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass in the first month in the second year, on the first day of the month, that the tabernacle was reared up."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Moses raised dwelling-place, set its bases, put its frames, put its bars, and raised its pillars.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses reared up the tabernacle, and fastened his sockets, and set up the boards thereof, and put in the bars thereof, and reared up his pillars."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "He spread tent over dwelling-place and put covering of tent over it above, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spread abroad the tent over the tabernacle, and put the covering of the tent above upon it; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "He took and put testimony into ark, set poles on ark, and put cover upon ark above.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took and put the testimony into the ark, and set the staves on the ark, and put the mercy seat above upon the ark:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He brought ark into dwelling-place, put veil of screen, and screened ark of testimony, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought the ark into the tabernacle, and set up the vail of the covering, and covered the ark of the testimony; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "He put table in tent of meeting, on north side of dwelling-place, outside veil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put the table in the tent of the congregation, upon the side of the tabernacle northward, without the vail."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "He arranged upon it arrangement of bread before YHWH, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set the bread in order upon it before the LORD; as the LORD had commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "He put lampstand in tent of meeting opposite table, on south side of dwelling-place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put the candlestick in the tent of the congregation, over against the table, on the side of the tabernacle southward."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "He raised lamps before YHWH, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he lighted the lamps before the LORD; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "He put gold altar in tent of meeting before veil.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put the golden altar in the tent of the congregation before the vail:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "He burned fragrant incense upon it, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he burnt sweet incense thereon; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 28,
+      "restored": "He put screen of entrance for dwelling-place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set up the hanging at the door of the tabernacle."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Altar of burnt offering he put at entrance of dwelling-place of tent of meeting, and offered upon it burnt offering and grain offering, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he put the altar of burnt offering by the door of the tabernacle of the tent of the congregation, and offered upon it the burnt offering and the meat offering; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "He put basin between tent of meeting and altar, and put water there for washing.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he set the laver between the tent of the congregation and the altar, and put water there, to wash withal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "Moses and Aaron and his sons washed from it their hands and feet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron and his sons washed their hands and their feet thereat:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "When they entered tent of meeting and when they approached altar, they washed, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "He raised court around dwelling-place and altar, and put screen of gate of court. So Moses completed the work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he reared up the court round about the tabernacle and the altar, and set up the hanging of the court gate. So Moses finished the work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "Then cloud covered tent of meeting, and glory of YHWH filled dwelling-place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Moses was not able to enter tent of meeting, because cloud dwelt upon it, and glory of YHWH filled dwelling-place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses was not able to enter into the tent of the congregation, because the cloud abode thereon, and the glory of the LORD filled the tabernacle."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "When cloud was lifted from over dwelling-place, children of Israel would journey in all their journeys.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 37,
+      "restored": "But if cloud was not lifted, they would not journey until day it was lifted.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if the cloud were not taken up, then they journeyed not till the day that it was taken up."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "For cloud of YHWH was upon dwelling-place by day, and fire was in it by night, before eyes of all house of Israel in all their journeys.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the cloud of the LORD was upon the tabernacle by day, and fire was on it by night, in the sight of all the house of Israel, throughout all their journeys."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Exodus ends with mishkan raised and glory filling it: the liberation goal of YHWH dwelling in the midst is achieved.",
+    "Repeated 'as YHWH commanded Moses' marks faithful completion after calf rupture and renewal.",
+    "Moses cannot enter once glory fills dwelling; presence is gracious but overwhelming.",
+    "Cloud/fire from Exodus 13 now rests on the completed dwelling and guides all journeys."
+  ],
+  "safety_note": "The book ends with presence and guidance, not conquest or domination. Divine glory fills the portable dwelling and leads the liberated people through all journeys.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-19-of-38",
+    "tags": "partial-18-of-38",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-38",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

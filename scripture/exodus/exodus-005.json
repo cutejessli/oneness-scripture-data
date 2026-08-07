@@ -1,1 +1,433 @@
-{"book":"Exodus","book_id":"exodus","chapter":5,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for first Pharaoh confrontation, wilderness service request, intensified brick labor, Israelite foremen, and Moses' lament."},"verses":[{"verse":1,"restored":"Afterward Moses and Aaron came and said to Pharaoh, Thus says YHWH, Divine of Israel: Send my people away, so they may hold festival to me in the wilderness."},{"verse":2,"restored":"Pharaoh said, Who is YHWH, that I should listen to his voice to send Israel away? I do not know YHWH, and also Israel I will not send."},{"verse":3,"restored":"They said, Divine of the Hebrews has met with us. Please let us go a three-day journey in wilderness and sacrifice to YHWH our Divine, lest he strike us with pestilence or sword."},{"verse":4,"restored":"The king of Egypt said to them, Moses and Aaron, why do you loosen the people from their works? Go to your burdens."},{"verse":5,"restored":"Pharaoh said, Look, the people of the land are now many, and you would make them rest from their burdens."},{"verse":6,"restored":"That day Pharaoh commanded the taskmasters over the people and their foremen, saying,"},{"verse":7,"restored":"You shall no longer give straw to the people to make bricks as yesterday and before; let them go and gather straw for themselves."},{"verse":8,"restored":"But the quota of bricks that they made yesterday and before you shall place upon them; you shall not reduce from it, for they are idle. Therefore they cry out, saying, Let us go, let us sacrifice to our Divine."},{"verse":9,"restored":"Let the service be heavy upon the men, and let them work at it, and let them not pay attention to words of falsehood."},{"verse":10,"restored":"The taskmasters of the people and their foremen went out and said to the people, Thus says Pharaoh: I am not giving you straw."},{"verse":11,"restored":"You yourselves go, get straw for yourselves wherever you may find it, but none of your service will be reduced."},{"verse":12,"restored":"So the people scattered through all land of Egypt to gather stubble for straw."},{"verse":13,"restored":"The taskmasters pressed, saying, Complete your works, the matter of a day in its day, as when there was straw."},{"verse":14,"restored":"The foremen of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten, saying, Why have you not completed your prescribed amount of bricks yesterday and today, as yesterday and before?"},{"verse":15,"restored":"The foremen of the children of Israel came and cried to Pharaoh, saying, Why do you do thus to your servants?"},{"verse":16,"restored":"Straw is not given to your servants, and they say to us, Make bricks. Look, your servants are beaten, but fault is with your people."},{"verse":17,"restored":"He said, Idle, you are idle. Therefore you say, Let us go sacrifice to YHWH."},{"verse":18,"restored":"Now go, serve; straw will not be given to you, but the quota of bricks you shall give."},{"verse":19,"restored":"The foremen of the children of Israel saw themselves in harm, saying, You shall not reduce from your bricks, the matter of a day in its day."},{"verse":20,"restored":"They met Moses and Aaron standing to meet them as they came out from Pharaoh."},{"verse":21,"restored":"They said to them, May YHWH see you and judge, because you made our smell stink in eyes of Pharaoh and in eyes of his servants, to give sword in their hand to kill us."},{"verse":22,"restored":"Moses returned to YHWH and said, My Lord, why have you brought harm to this people? Why then did you send me?"},{"verse":23,"restored":"Since I came to Pharaoh to speak in your name, he has done harm to this people, and rescuing, you have not rescued your people."}],"translation_notes":["Pharaoh responds to liberation-worship by intensifying avodah/service into heavier bondage.","Rest from burdens is treated by Pharaoh as threat; Sabbath/liberation themes are already implied.","Moses' lament is preserved honestly; the first act of obedience makes oppression worse before deliverance unfolds."],"safety_note":"The chapter exposes how oppressive power reacts to liberation demands by increasing workload and blaming the oppressed. Do not spiritualize this away from material labor conditions."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for first Pharaoh confrontation, wilderness service request, intensified brick labor, Israelite foremen, and Moses' lament."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Afterward Moses and Aaron came and said to Pharaoh, Thus says YHWH, Divine of Israel: Send my people away, so they may hold festival to me in the wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And afterward Moses and Aaron went in, and told Pharaoh, Thus saith the LORD God of Israel, Let my people go, that they may hold a feast unto me in the wilderness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Pharaoh said, Who is YHWH, that I should listen to his voice to send Israel away? I do not know YHWH, and also Israel I will not send.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh said, Who is the LORD, that I should obey his voice to let Israel go? I know not the LORD, neither will I let Israel go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "They said, Divine of the Hebrews has met with us. Please let us go a three-day journey in wilderness and sacrifice to YHWH our Divine, lest he strike us with pestilence or sword.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said, The God of the Hebrews hath met with us: let us go, we pray thee, three days’ journey into the desert, and sacrifice unto the LORD our God; lest he fall upon us with pestilence, or with the sword."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "The king of Egypt said to them, Moses and Aaron, why do you loosen the people from their works? Go to your burdens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the king of Egypt said unto them, Wherefore do ye, Moses and Aaron, let the people from their works? get you unto your burdens."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Pharaoh said, Look, the people of the land are now many, and you would make them rest from their burdens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh said, Behold, the people of the land now are many, and ye make them rest from their burdens."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "That day Pharaoh commanded the taskmasters over the people and their foremen, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh commanded the same day the taskmasters of the people, and their officers, saying,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "You shall no longer give straw to the people to make bricks as yesterday and before; let them go and gather straw for themselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall no more give the people straw to make brick, as heretofore: let them go and gather straw for themselves."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But the quota of bricks that they made yesterday and before you shall place upon them; you shall not reduce from it, for they are idle. Therefore they cry out, saying, Let us go, let us sacrifice to our Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the tale of the bricks, which they did make heretofore, ye shall lay upon them; ye shall not diminish ought thereof: for they be idle; therefore they cry, saying, Let us go and sacrifice to our God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Let the service be heavy upon the men, and let them work at it, and let them not pay attention to words of falsehood.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let there more work be laid upon the men, that they may labour therein; and let them not regard vain words."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "The taskmasters of the people and their foremen went out and said to the people, Thus says Pharaoh: I am not giving you straw.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the taskmasters of the people went out, and their officers, and they spake to the people, saying, Thus saith Pharaoh, I will not give you straw."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "You yourselves go, get straw for yourselves wherever you may find it, but none of your service will be reduced.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go ye, get you straw where ye can find it: yet not ought of your work shall be diminished."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "So the people scattered through all land of Egypt to gather stubble for straw.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the people were scattered abroad throughout all the land of Egypt to gather stubble instead of straw."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "The taskmasters pressed, saying, Complete your works, the matter of a day in its day, as when there was straw.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the taskmasters hasted them, saying, Fulfil your works, your daily tasks, as when there was straw."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The foremen of the children of Israel, whom Pharaoh's taskmasters had set over them, were beaten, saying, Why have you not completed your prescribed amount of bricks yesterday and today, as yesterday and before?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the officers of the children of Israel, which Pharaoh’s taskmasters had set over them, were beaten, and demanded, Wherefore have ye not fulfilled your task in making brick both yesterday and to day, as heretofore?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "The foremen of the children of Israel came and cried to Pharaoh, saying, Why do you do thus to your servants?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then the officers of the children of Israel came and cried unto Pharaoh, saying, Wherefore dealest thou thus with thy servants?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Straw is not given to your servants, and they say to us, Make bricks. Look, your servants are beaten, but fault is with your people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "There is no straw given unto thy servants, and they say to us, Make brick: and, behold, thy servants are beaten; but the fault is in thine own people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "He said, Idle, you are idle. Therefore you say, Let us go sacrifice to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he said, Ye are idle, ye are idle: therefore ye say, Let us go and do sacrifice to the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "Now go, serve; straw will not be given to you, but the quota of bricks you shall give.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Go therefore now, and work; for there shall no straw be given you, yet shall ye deliver the tale of bricks."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "The foremen of the children of Israel saw themselves in harm, saying, You shall not reduce from your bricks, the matter of a day in its day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the officers of the children of Israel did see that they were in evil case, after it was said, Ye shall not minish ought from your bricks of your daily task."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "They met Moses and Aaron standing to meet them as they came out from Pharaoh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they met Moses and Aaron, who stood in the way, as they came forth from Pharaoh:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They said to them, May YHWH see you and judge, because you made our smell stink in eyes of Pharaoh and in eyes of his servants, to give sword in their hand to kill us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they said unto them, The LORD look upon you, and judge; because ye have made our savour to be abhorred in the eyes of Pharaoh, and in the eyes of his servants, to put a sword in their hand to slay us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Moses returned to YHWH and said, My Lord, why have you brought harm to this people? Why then did you send me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses returned unto the LORD, and said, LORD, wherefore hast thou so evil entreated this people? why is it that thou hast sent me?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Since I came to Pharaoh to speak in your name, he has done harm to this people, and rescuing, you have not rescued your people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For since I came to Pharaoh to speak in thy name, he hath done evil to this people; neither hast thou delivered thy people at all."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Pharaoh responds to liberation-worship by intensifying avodah/service into heavier bondage.",
+    "Rest from burdens is treated by Pharaoh as threat; Sabbath/liberation themes are already implied.",
+    "Moses' lament is preserved honestly; the first act of obedience makes oppression worse before deliverance unfolds."
+  ],
+  "safety_note": "The chapter exposes how oppressive power reacts to liberation demands by increasing workload and blaming the oppressed. Do not spiritualize this away from material labor conditions.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-23",
+    "tags": "partial-9-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

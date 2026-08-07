@@ -1,1 +1,711 @@
-{"book":"Numbers","book_id":"numbers","chapter":8,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Numbers / Bemidbar lampstand and Levite cleansing text tradition, draft aligned later","review_note":"First-pass draft reviewed for lampstand lighting, Levite cleansing, wave-presentation, firstborn substitution, service ages, and withdrawal from heavy service. Anti-ageism, anti-shame, and service-without-superiority safeguards required."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"Speak to Aaron and say to him: When you make lamps go up, toward face/front of lampstand seven lamps shall give light."},{"verse":3,"restored":"Aaron did so; toward face/front of lampstand he made its lamps give light, as YHWH commanded Moses."},{"verse":4,"restored":"This was workmanship of lampstand: hammered work of gold, from its base to its blossom, hammered work; according to pattern YHWH showed Moses, so he made lampstand."},{"verse":5,"restored":"YHWH spoke to Moses, saying,"},{"verse":6,"restored":"Take Levites from midst of children of Israel and cleanse them."},{"verse":7,"restored":"Thus you shall do to them to cleanse them: sprinkle purification water upon them; let them pass razor over all their flesh, wash their garments, and cleanse themselves."},{"verse":8,"restored":"They shall take one young bull with its grain offering, fine flour mixed with oil; and a second young bull you shall take for sin/purification offering."},{"verse":9,"restored":"You shall bring Levites before tent of meeting and assemble whole congregation of children of Israel."},{"verse":10,"restored":"You shall bring Levites before YHWH, and children of Israel shall lay their hands upon Levites."},{"verse":11,"restored":"Aaron shall wave/present Levites as wave offering before YHWH from children of Israel, and they shall be for serving service of YHWH."},{"verse":12,"restored":"Levites shall lay their hands upon heads of bulls; make one as sin/purification offering and one as burnt offering to YHWH, to make atonement/covering for Levites."},{"verse":13,"restored":"You shall stand Levites before Aaron and his sons and wave/present them as wave offering to YHWH."},{"verse":14,"restored":"You shall separate Levites from midst of children of Israel, and Levites shall be mine."},{"verse":15,"restored":"Afterward Levites shall enter to serve tent of meeting; you shall cleanse them and wave/present them as wave offering."},{"verse":16,"restored":"For given, given they are to me from midst of children of Israel; in place of every one opening womb, every firstborn from children of Israel, I have taken them for myself."},{"verse":17,"restored":"For mine is every firstborn among children of Israel, among human and among beast; on day I struck every firstborn in land of Egypt I sanctified them for myself."},{"verse":18,"restored":"I took Levites in place of every firstborn among children of Israel."},{"verse":19,"restored":"I gave Levites as given ones to Aaron and his sons from midst of children of Israel, to serve service of children of Israel in tent of meeting and to make atonement/covering for children of Israel, so no plague shall be among children of Israel when children of Israel draw near to holy place."},{"verse":20,"restored":"Moses and Aaron and all congregation of children of Israel did to Levites according to all YHWH commanded Moses concerning Levites; so children of Israel did to them."},{"verse":21,"restored":"Levites purified themselves from sin/misalignment and washed their garments; Aaron waved/presented them as wave offering before YHWH, and Aaron made atonement/covering for them to cleanse them."},{"verse":22,"restored":"Afterward Levites entered to serve their service in tent of meeting before Aaron and his sons; as YHWH commanded Moses concerning Levites, so they did to them."},{"verse":23,"restored":"YHWH spoke to Moses, saying,"},{"verse":24,"restored":"This is what belongs to Levites: from twenty-five years old and upward he shall enter to serve service in work of tent of meeting."},{"verse":25,"restored":"From fifty years old he shall return from host of service and shall serve no longer."},{"verse":26,"restored":"He may minister with his brothers in tent of meeting to keep charge, but work/burden he shall not do. Thus you shall do to Levites concerning their charges."}],"translation_notes":["Lampstand light faces inward/frontward, emphasizing ordered illumination before service begins.","Levites are presented by the whole congregation, showing communal participation in their vocation.","Firstborn substitution continues Numbers 3 and is ritual representation, not a hierarchy of human value.","The age boundary concerns physically demanding tabernacle work. At fifty, Levites are not discarded: they continue assisting and keeping charge without heavy burden.","Cleansing language is ritual preparation, not body shame or moral disgust."],"safety_note":"Do not use Numbers 8 to rank clergy above others, shame bodies, or treat older workers as useless. The chapter distinguishes heavy labor from continued experienced service and protects the community through shared, accountable vocation."}
+{
+  "book": "Numbers",
+  "book_id": "numbers",
+  "chapter": 8,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Numbers / Bemidbar lampstand and Levite cleansing text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for lampstand lighting, Levite cleansing, wave-presentation, firstborn substitution, service ages, and withdrawal from heavy service. Anti-ageism, anti-shame, and service-without-superiority safeguards required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Speak to Aaron and say to him: When you make lamps go up, toward face/front of lampstand seven lamps shall give light.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak unto Aaron, and say unto him, When thou lightest the lamps, the seven lamps shall give light over against the candlestick."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Aaron did so; toward face/front of lampstand he made its lamps give light, as YHWH commanded Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron did so; he lighted the lamps thereof over against the candlestick, as the LORD commanded Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "This was workmanship of lampstand: hammered work of gold, from its base to its blossom, hammered work; according to pattern YHWH showed Moses, so he made lampstand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And this work of the candlestick was of beaten gold, unto the shaft thereof, unto the flowers thereof, was beaten work: according unto the pattern which the LORD had shewed Moses, so he made the candlestick."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Take Levites from midst of children of Israel and cleanse them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take the Levites from among the children of Israel, and cleanse them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Thus you shall do to them to cleanse them: sprinkle purification water upon them; let them pass razor over all their flesh, wash their garments, and cleanse themselves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "They shall take one young bull with its grain offering, fine flour mixed with oil; and a second young bull you shall take for sin/purification offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then let them take a young bullock with his meat offering, even fine flour mingled with oil, and another young bullock shalt thou take for a sin offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "You shall bring Levites before tent of meeting and assemble whole congregation of children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring the Levites before the tabernacle of the congregation: and thou shalt gather the whole assembly of the children of Israel together:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "You shall bring Levites before YHWH, and children of Israel shall lay their hands upon Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt bring the Levites before the LORD: and the children of Israel shall put their hands upon the Levites:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Aaron shall wave/present Levites as wave offering before YHWH from children of Israel, and they shall be for serving service of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron shall offer the Levites before the LORD for an offering of the children of Israel, that they may execute the service of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Levites shall lay their hands upon heads of bulls; make one as sin/purification offering and one as burnt offering to YHWH, to make atonement/covering for Levites.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the LORD, to make an atonement for the Levites."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "You shall stand Levites before Aaron and his sons and wave/present them as wave offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt set the Levites before Aaron, and before his sons, and offer them for an offering unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "You shall separate Levites from midst of children of Israel, and Levites shall be mine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus shalt thou separate the Levites from among the children of Israel: and the Levites shall be mine."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Afterward Levites shall enter to serve tent of meeting; you shall cleanse them and wave/present them as wave offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For given, given they are to me from midst of children of Israel; in place of every one opening womb, every firstborn from children of Israel, I have taken them for myself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they are wholly given unto me from among the children of Israel; instead of such as open every womb, even instead of the firstborn of all the children of Israel, have I taken them unto me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "For mine is every firstborn among children of Israel, among human and among beast; on day I struck every firstborn in land of Egypt I sanctified them for myself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For all the firstborn of the children of Israel are mine, both man and beast: on the day that I smote every firstborn in the land of Egypt I sanctified them for myself."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "I took Levites in place of every firstborn among children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I have taken the Levites for all the firstborn of the children of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "I gave Levites as given ones to Aaron and his sons from midst of children of Israel, to serve service of children of Israel in tent of meeting and to make atonement/covering for children of Israel, so no plague shall be among children of Israel when children of Israel draw near to holy place.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I have given the Levites as a gift to Aaron and to his sons from among the children of Israel, to do the service of the children of Israel in the tabernacle of the congregation, and to make an atonement for the children of Israel: that there be no plague among the children of Israel, when the children of Israel come nigh unto the sanctuary."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacred-space",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Moses and Aaron and all congregation of children of Israel did to Levites according to all YHWH commanded Moses concerning Levites; so children of Israel did to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the LORD commanded Moses concerning the Levites, so did the children of Israel unto them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "Levites purified themselves from sin/misalignment and washed their garments; Aaron waved/presented them as wave offering before YHWH, and Aaron made atonement/covering for them to cleanse them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the LORD; and Aaron made an atonement for them to cleanse them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Afterward Levites entered to serve their service in tent of meeting before Aaron and his sons; as YHWH commanded Moses concerning Levites, so they did to them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the LORD had commanded Moses concerning the Levites, so did they unto them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "This is what belongs to Levites: from twenty-five years old and upward he shall enter to serve service in work of tent of meeting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "From fifty years old he shall return from host of service and shall serve no longer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "He may minister with his brothers in tent of meeting to keep charge, but work/burden he shall not do. Thus you shall do to Levites concerning their charges.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Levite",
+          "source": "Levi",
+          "language": "Hebrew",
+          "glossary_id": "levi",
+          "transliteration": "Levi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Lampstand light faces inward/frontward, emphasizing ordered illumination before service begins.",
+    "Levites are presented by the whole congregation, showing communal participation in their vocation.",
+    "Firstborn substitution continues Numbers 3 and is ritual representation, not a hierarchy of human value.",
+    "The age boundary concerns physically demanding tabernacle work. At fifty, Levites are not discarded: they continue assisting and keeping charge without heavy burden.",
+    "Cleansing language is ritual preparation, not body shame or moral disgust."
+  ],
+  "safety_note": "Do not use Numbers 8 to rank clergy above others, shame bodies, or treat older workers as useless. The chapter distinguishes heavy labor from continued experienced service and protects the community through shared, accountable vocation.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-21-of-26",
+    "tags": "partial-18-of-26",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-11-of-26",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

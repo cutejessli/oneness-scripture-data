@@ -1,1 +1,494 @@
-{"book":"Numbers","book_id":"numbers","chapter":9,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Numbers / Bemidbar Passover and cloud-guidance text tradition, draft aligned later","review_note":"First-pass draft reviewed for wilderness Passover, delayed observance for corpse-unclean or distant traveler, sojourner inclusion, cloud/fire presence, and movement/rest by YHWH's command."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses in wilderness of Sinai, in first month of second year after they came out from land of Egypt, saying,"},{"verse":2,"restored":"Children of Israel shall make Passover at its appointed time."},{"verse":3,"restored":"On fourteenth day of this month, between evenings, you shall make it at its appointed time; according to all its statutes and all its judgments you shall make it."},{"verse":4,"restored":"Moses spoke to children of Israel to make Passover."},{"verse":5,"restored":"They made Passover in first month, on fourteenth day of month between evenings, in wilderness of Sinai; according to all YHWH commanded Moses, so children of Israel did."},{"verse":6,"restored":"There were men who were unclean by dead soul/life of a human and could not make Passover on that day; they came near before Moses and Aaron on that day."},{"verse":7,"restored":"Those men said to him, We are unclean by dead soul/life of a human. Why should we be diminished, not bringing offering of YHWH at its appointed time among children of Israel?"},{"verse":8,"restored":"Moses said to them, Stand and let me hear what YHWH commands concerning you."},{"verse":9,"restored":"YHWH spoke to Moses, saying,"},{"verse":10,"restored":"Speak to children of Israel, saying: Any man among you or your generations who is unclean by dead soul/life or is on a distant journey, he shall still make Passover to YHWH."},{"verse":11,"restored":"In second month, on fourteenth day between evenings, they shall make it; with unleavened bread and bitter herbs they shall eat it."},{"verse":12,"restored":"They shall leave none of it until morning and shall not break a bone in it; according to every statute of Passover they shall make it."},{"verse":13,"restored":"But the man who is clean and is not on a journey and refrains from making Passover, that soul/life shall be cut off from its people, because offering of YHWH he did not bring at its appointed time; that man shall bear his sin/misalignment."},{"verse":14,"restored":"When a sojourner sojourns with you and makes Passover to YHWH, according to statute of Passover and according to its judgment so he shall do; one statute shall be for you, for sojourner and native of land."},{"verse":15,"restored":"On day dwelling-place was raised, cloud covered dwelling-place, tent of testimony; in evening it was over dwelling-place like appearance of fire until morning."},{"verse":16,"restored":"So it was continually: cloud covered it, and appearance of fire by night."},{"verse":17,"restored":"Whenever cloud was lifted from over tent, afterward children of Israel set out; and in place where cloud settled, there children of Israel camped."},{"verse":18,"restored":"At mouth/command of YHWH children of Israel set out, and at mouth/command of YHWH they camped; all days cloud settled over dwelling-place they camped."},{"verse":19,"restored":"When cloud prolonged over dwelling-place many days, children of Israel kept charge of YHWH and did not set out."},{"verse":20,"restored":"Sometimes cloud was few days over dwelling-place; at mouth/command of YHWH they camped, and at mouth/command of YHWH they set out."},{"verse":21,"restored":"Sometimes cloud was from evening until morning, and cloud lifted in morning and they set out; or by day and by night, when cloud lifted they set out."},{"verse":22,"restored":"Whether two days or a month or many days, when cloud prolonged over dwelling-place, settling upon it, children of Israel camped and did not set out; when it lifted they set out."},{"verse":23,"restored":"At mouth/command of YHWH they camped and at mouth/command of YHWH they set out; they kept charge of YHWH, at mouth/command of YHWH by hand of Moses."}],"translation_notes":["The delayed Passover creates an accommodation rather than permanent exclusion for people made ritually unclean by caring for the dead or prevented by travel.","The affected men speak up, Moses pauses, and new instruction is sought—an important model of responsive law.","Sojourner and native share one Passover statute; this must not become xenophobic gatekeeping.","Cloud and fire guide both movement and waiting. Divine guidance includes staying put, not constant productivity.","'At the mouth of YHWH' is preserved as command/guidance language."],"safety_note":"Do not use Numbers 9 to shame mourners, travelers, disabled people, or those unable to meet a sacred date. The chapter itself creates a second opportunity and treats responsive accommodation as covenant faithfulness."}
+{
+  "book": "Numbers",
+  "book_id": "numbers",
+  "chapter": 9,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Numbers / Bemidbar Passover and cloud-guidance text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for wilderness Passover, delayed observance for corpse-unclean or distant traveler, sojourner inclusion, cloud/fire presence, and movement/rest by YHWH's command."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses in wilderness of Sinai, in first month of second year after they came out from land of Egypt, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses in the wilderness of Sinai, in the first month of the second year after they were come out of the land of Egypt, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Children of Israel shall make Passover at its appointed time.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the children of Israel also keep the passover at his appointed season."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "On fourteenth day of this month, between evenings, you shall make it at its appointed time; according to all its statutes and all its judgments you shall make it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the fourteenth day of this month, at even, ye shall keep it in his appointed season: according to all the rites of it, and according to all the ceremonies thereof, shall ye keep it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Moses spoke to children of Israel to make Passover.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses spake unto the children of Israel, that they should keep the passover."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "They made Passover in first month, on fourteenth day of month between evenings, in wilderness of Sinai; according to all YHWH commanded Moses, so children of Israel did.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they kept the passover on the fourteenth day of the first month at even in the wilderness of Sinai: according to all that the LORD commanded Moses, so did the children of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "There were men who were unclean by dead soul/life of a human and could not make Passover on that day; they came near before Moses and Aaron on that day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there were certain men, who were defiled by the dead body of a man, that they could not keep the passover on that day: and they came before Moses and before Aaron on that day:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Those men said to him, We are unclean by dead soul/life of a human. Why should we be diminished, not bringing offering of YHWH at its appointed time among children of Israel?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And those men said unto him, We are defiled by the dead body of a man: wherefore are we kept back, that we may not offer an offering of the LORD in his appointed season among the children of Israel?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Moses said to them, Stand and let me hear what YHWH commands concerning you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto them, Stand still, and I will hear what the LORD will command concerning you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Speak to children of Israel, saying: Any man among you or your generations who is unclean by dead soul/life or is on a distant journey, he shall still make Passover to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak unto the children of Israel, saying, If any man of you or of your posterity shall be unclean by reason of a dead body, or be in a journey afar off, yet he shall keep the passover unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "In second month, on fourteenth day between evenings, they shall make it; with unleavened bread and bitter herbs they shall eat it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fourteenth day of the second month at even they shall keep it, and eat it with unleavened bread and bitter herbs."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "They shall leave none of it until morning and shall not break a bone in it; according to every statute of Passover they shall make it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall leave none of it unto the morning, nor break any bone of it: according to all the ordinances of the passover they shall keep it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "But the man who is clean and is not on a journey and refrains from making Passover, that soul/life shall be cut off from its people, because offering of YHWH he did not bring at its appointed time; that man shall bear his sin/misalignment.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the man that is clean, and is not in a journey, and forbeareth to keep the passover, even the same soul shall be cut off from among his people: because he brought not the offering of the LORD in his appointed season, that man shall bear his sin."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "When a sojourner sojourns with you and makes Passover to YHWH, according to statute of Passover and according to its judgment so he shall do; one statute shall be for you, for sojourner and native of land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if a stranger shall sojourn among you, and will keep the passover unto the LORD; according to the ordinance of the passover, and according to the manner thereof, so shall he do: ye shall have one ordinance, both for the stranger, and for him that was born in the land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "On day dwelling-place was raised, cloud covered dwelling-place, tent of testimony; in evening it was over dwelling-place like appearance of fire until morning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And on the day that the tabernacle was reared up the cloud covered the tabernacle, namely, the tent of the testimony: and at even there was upon the tabernacle as it were the appearance of fire, until the morning."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "So it was continually: cloud covered it, and appearance of fire by night.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So it was alway: the cloud covered it by day, and the appearance of fire by night."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "Whenever cloud was lifted from over tent, afterward children of Israel set out; and in place where cloud settled, there children of Israel camped.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the cloud was taken up from the tabernacle, then after that the children of Israel journeyed: and in the place where the cloud abode, there the children of Israel pitched their tents."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "At mouth/command of YHWH children of Israel set out, and at mouth/command of YHWH they camped; all days cloud settled over dwelling-place they camped.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At the commandment of the LORD the children of Israel journeyed, and at the commandment of the LORD they pitched: as long as the cloud abode upon the tabernacle they rested in their tents."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "When cloud prolonged over dwelling-place many days, children of Israel kept charge of YHWH and did not set out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the cloud tarried long upon the tabernacle many days, then the children of Israel kept the charge of the LORD, and journeyed not."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "Sometimes cloud was few days over dwelling-place; at mouth/command of YHWH they camped, and at mouth/command of YHWH they set out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And so it was, when the cloud was a few days upon the tabernacle; according to the commandment of the LORD they abode in their tents, and according to the commandment of the LORD they journeyed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Sometimes cloud was from evening until morning, and cloud lifted in morning and they set out; or by day and by night, when cloud lifted they set out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And so it was, when the cloud abode from even unto the morning, and that the cloud was taken up in the morning, then they journeyed: whether it was by day or by night that the cloud was taken up, they journeyed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Whether two days or a month or many days, when cloud prolonged over dwelling-place, settling upon it, children of Israel camped and did not set out; when it lifted they set out.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Or whether it were two days, or a month, or a year, that the cloud tarried upon the tabernacle, remaining thereon, the children of Israel abode in their tents, and journeyed not: but when it was taken up, they journeyed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 23,
+      "restored": "At mouth/command of YHWH they camped and at mouth/command of YHWH they set out; they kept charge of YHWH, at mouth/command of YHWH by hand of Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "At the commandment of the LORD they rested in the tents, and at the commandment of the LORD they journeyed: they kept the charge of the LORD, at the commandment of the LORD by the hand of Moses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The delayed Passover creates an accommodation rather than permanent exclusion for people made ritually unclean by caring for the dead or prevented by travel.",
+    "The affected men speak up, Moses pauses, and new instruction is sought—an important model of responsive law.",
+    "Sojourner and native share one Passover statute; this must not become xenophobic gatekeeping.",
+    "Cloud and fire guide both movement and waiting. Divine guidance includes staying put, not constant productivity.",
+    "'At the mouth of YHWH' is preserved as command/guidance language."
+  ],
+  "safety_note": "Do not use Numbers 9 to shame mourners, travelers, disabled people, or those unable to meet a sacred date. The chapter itself creates a second opportunity and treats responsive accommodation as covenant faithfulness.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-23",
+    "tags": "partial-11-of-23",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-23",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,320 @@
-{"book":"Numbers","book_id":"numbers","chapter":30,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Numbers / Bemidbar vow and oath text tradition, draft aligned later","review_note":"First-pass draft reviewed for binding male vows, daughters in fathers' houses, married women's vows, widowed/divorced women's autonomy, husband/father nullification, silence as confirmation, and transferred liability. Strong anti-patriarchy, anti-coercion, and medical-safety safeguards required."},"verses":[{"verse":1,"restored":"Moses spoke to heads of tribes of children of Israel, saying: This is the word that YHWH commanded."},{"verse":2,"restored":"When a man vows a vow to YHWH or swears an oath to bind a binding obligation upon his soul/life, he shall not profane/break his word; according to all going out from his mouth he shall do."},{"verse":3,"restored":"When a woman vows a vow to YHWH and binds an obligation in house of her father in her youth,"},{"verse":4,"restored":"and her father hears her vow and her obligation with which she bound her soul/life, and her father is silent toward her, then all her vows shall stand, and every obligation with which she bound her soul/life shall stand."},{"verse":5,"restored":"But if her father restrains her on day he hears, none of her vows or obligations with which she bound her soul/life shall stand; and YHWH will forgive her, because her father restrained her."},{"verse":6,"restored":"If she becomes a man's while her vows are upon her, or a rash utterance of her lips by which she bound her soul/life,"},{"verse":7,"restored":"and her husband hears on day he hears and is silent toward her, then her vows shall stand and her obligations with which she bound her soul/life shall stand."},{"verse":8,"restored":"But if on day her husband hears he restrains her, he nullifies her vow that is upon her and rash utterance of her lips by which she bound her soul/life; and YHWH will forgive her."},{"verse":9,"restored":"But vow of widow or divorced woman—everything by which she has bound her soul/life—shall stand upon her."},{"verse":10,"restored":"If in house of her husband she vowed or bound an obligation upon her soul/life with an oath,"},{"verse":11,"restored":"and her husband heard and was silent toward her and did not restrain her, then all her vows shall stand and every obligation with which she bound her soul/life shall stand."},{"verse":12,"restored":"But if her husband surely nullifies them on day he hears them, then whatever went out from her lips concerning her vows or obligation of her soul/life shall not stand; her husband nullified them, and YHWH will forgive her."},{"verse":13,"restored":"Every vow and every binding oath to humble/afflict the soul/life, her husband may establish it or her husband may nullify it."},{"verse":14,"restored":"But if her husband is completely silent toward her from day to day, then he establishes all her vows or all her obligations that are upon her; he establishes them because he was silent toward her on day he heard."},{"verse":15,"restored":"If he nullifies them after he has heard, then he shall bear her iniquity."},{"verse":16,"restored":"These are statutes that YHWH commanded Moses between a man and his wife, between a father and his daughter in her youth in house of her father."}],"translation_notes":["The chapter treats spoken vows as serious obligations and distinguishes deliberate commitment from rash utterance.","Its gender structure is explicitly patriarchal: fathers and husbands can nullify certain women's vows, while men's vows receive no equivalent female review. This asymmetry must be preserved for critique rather than harmonized away.","Widowed and divorced women are treated as responsible for their own vows, demonstrating that the control mechanism is household status rather than an alleged incapacity of women.","Silence on the day of hearing confirms the vow; delayed nullification transfers liability to the husband.","Vows to humble/afflict the self must not be used to require self-harm, medically unsafe fasting, financial ruin, or coercive religious performance.","Verse numbering differs between some Hebrew and English traditions because the opening statement may be attached to the preceding chapter."],"safety_note":"Do not use Numbers 30 to control women's speech, finances, bodies, relationships, religious commitments, or medical decisions. Do not coerce vows or unsafe ascetic practices. The source preserves an ancient patriarchal household law; modern ethical reception must center equal agency, informed consent, and freedom from coercion."}
+{
+  "book": "Numbers",
+  "book_id": "numbers",
+  "chapter": 30,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Numbers / Bemidbar vow and oath text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for binding male vows, daughters in fathers' houses, married women's vows, widowed/divorced women's autonomy, husband/father nullification, silence as confirmation, and transferred liability. Strong anti-patriarchy, anti-coercion, and medical-safety safeguards required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Moses spoke to heads of tribes of children of Israel, saying: This is the word that YHWH commanded.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses spake unto the heads of the tribes concerning the children of Israel, saying, This is the thing which the LORD hath commanded."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "When a man vows a vow to YHWH or swears an oath to bind a binding obligation upon his soul/life, he shall not profane/break his word; according to all going out from his mouth he shall do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a man vow a vow unto the LORD, or swear an oath to bind his soul with a bond; he shall not break his word, he shall do according to all that proceedeth out of his mouth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "When a woman vows a vow to YHWH and binds an obligation in house of her father in her youth,",
+      "familiar": {
+        "source": "KJV",
+        "text": "If a woman also vow a vow unto the LORD, and bind herself by a bond, being in her father’s house in her youth;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "and her father hears her vow and her obligation with which she bound her soul/life, and her father is silent toward her, then all her vows shall stand, and every obligation with which she bound her soul/life shall stand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And her father hear her vow, and her bond wherewith she hath bound her soul, and her father shall hold his peace at her: then all her vows shall stand, and every bond wherewith she hath bound her soul shall stand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But if her father restrains her on day he hears, none of her vows or obligations with which she bound her soul/life shall stand; and YHWH will forgive her, because her father restrained her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if her father disallow her in the day that he heareth; not any of her vows, or of her bonds wherewith she hath bound her soul, shall stand: and the LORD shall forgive her, because her father disallowed her."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "If she becomes a man's while her vows are upon her, or a rash utterance of her lips by which she bound her soul/life,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if she had at all an husband, when she vowed, or uttered ought out of her lips, wherewith she bound her soul;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "and her husband hears on day he hears and is silent toward her, then her vows shall stand and her obligations with which she bound her soul/life shall stand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And her husband heard it, and held his peace at her in the day that he heard it: then her vows shall stand, and her bonds wherewith she bound her soul shall stand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But if on day her husband hears he restrains her, he nullifies her vow that is upon her and rash utterance of her lips by which she bound her soul/life; and YHWH will forgive her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if her husband disallowed her on the day that he heard it; then he shall make her vow which she vowed, and that which she uttered with her lips, wherewith she bound her soul, of none effect: and the LORD shall forgive her."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "But vow of widow or divorced woman—everything by which she has bound her soul/life—shall stand upon her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But every vow of a widow, and of her that is divorced, wherewith they have bound their souls, shall stand against her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "If in house of her husband she vowed or bound an obligation upon her soul/life with an oath,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if she vowed in her husband’s house, or bound her soul by a bond with an oath;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "and her husband heard and was silent toward her and did not restrain her, then all her vows shall stand and every obligation with which she bound her soul/life shall stand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And her husband heard it, and held his peace at her, and disallowed her not: then all her vows shall stand, and every bond wherewith she bound her soul shall stand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But if her husband surely nullifies them on day he hears them, then whatever went out from her lips concerning her vows or obligation of her soul/life shall not stand; her husband nullified them, and YHWH will forgive her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if her husband hath utterly made them void on the day he heard them; then whatsoever proceeded out of her lips concerning her vows, or concerning the bond of her soul, shall not stand: her husband hath made them void; and the LORD shall forgive her."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Every vow and every binding oath to humble/afflict the soul/life, her husband may establish it or her husband may nullify it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Every vow, and every binding oath to afflict the soul, her husband may establish it, or her husband may make it void."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But if her husband is completely silent toward her from day to day, then he establishes all her vows or all her obligations that are upon her; he establishes them because he was silent toward her on day he heard.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if her husband altogether hold his peace at her from day to day; then he establisheth all her vows, or all her bonds, which are upon her: he confirmeth them, because he held his peace at her in the day that he heard them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "If he nullifies them after he has heard, then he shall bear her iniquity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if he shall any ways make them void after that he hath heard them; then he shall bear her iniquity."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "These are statutes that YHWH commanded Moses between a man and his wife, between a father and his daughter in her youth in house of her father.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are the statutes, which the LORD commanded Moses, between a man and his wife, between the father and his daughter, being yet in her youth in her father’s house."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "The chapter treats spoken vows as serious obligations and distinguishes deliberate commitment from rash utterance.",
+    "Its gender structure is explicitly patriarchal: fathers and husbands can nullify certain women's vows, while men's vows receive no equivalent female review. This asymmetry must be preserved for critique rather than harmonized away.",
+    "Widowed and divorced women are treated as responsible for their own vows, demonstrating that the control mechanism is household status rather than an alleged incapacity of women.",
+    "Silence on the day of hearing confirms the vow; delayed nullification transfers liability to the husband.",
+    "Vows to humble/afflict the self must not be used to require self-harm, medically unsafe fasting, financial ruin, or coercive religious performance.",
+    "Verse numbering differs between some Hebrew and English traditions because the opening statement may be attached to the preceding chapter."
+  ],
+  "safety_note": "Do not use Numbers 30 to control women's speech, finances, bodies, relationships, religious commitments, or medical decisions. Do not coerce vows or unsafe ascetic practices. The source preserves an ancient patriarchal household law; modern ethical reception must center equal agency, informed consent, and freedom from coercion.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-7-of-16",
+    "tags": "partial-4-of-16",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-16",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

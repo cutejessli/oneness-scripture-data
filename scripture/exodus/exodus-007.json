@@ -1,1 +1,539 @@
-{"book":"Exodus","book_id":"exodus","chapter":7,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for Moses/Aaron roles, Pharaoh hardening, staff-serpent sign, Nile blood sign, magicians, and Pharaoh's refusal."},"verses":[{"verse":1,"restored":"YHWH said to Moses, See, I have made you as Divine to Pharaoh, and Aaron your brother shall be your prophet."},{"verse":2,"restored":"You shall speak all that I command you, and Aaron your brother shall speak to Pharaoh, that he send the children of Israel from his land."},{"verse":3,"restored":"But I myself will harden Pharaoh's heart, and I will multiply my signs and wonders in land of Egypt."},{"verse":4,"restored":"Pharaoh will not listen to you, and I will put my hand upon Egypt and bring out my hosts, my people children of Israel, from land of Egypt by great judgments."},{"verse":5,"restored":"Egypt shall know that I am YHWH when I stretch out my hand over Egypt and bring out the children of Israel from their midst."},{"verse":6,"restored":"Moses and Aaron did so; as YHWH commanded them, so they did."},{"verse":7,"restored":"Moses was eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh."},{"verse":8,"restored":"YHWH said to Moses and Aaron, saying,"},{"verse":9,"restored":"When Pharaoh speaks to you, saying, Give for yourselves a wonder, then you shall say to Aaron, Take your staff and throw it before Pharaoh; it will become a serpent/dragon."},{"verse":10,"restored":"Moses and Aaron came to Pharaoh and did so, as YHWH commanded; Aaron threw his staff before Pharaoh and his servants, and it became a serpent/dragon."},{"verse":11,"restored":"Pharaoh also called the wise men and sorcerers, and they also, the magicians of Egypt, did so with their secret arts."},{"verse":12,"restored":"Each threw down his staff, and they became serpents/dragons; but Aaron's staff swallowed their staffs."},{"verse":13,"restored":"Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken."},{"verse":14,"restored":"YHWH said to Moses, Pharaoh's heart is heavy; he refuses to send the people."},{"verse":15,"restored":"Go to Pharaoh in the morning; look, he goes out to the water. Stand to meet him on bank of Nile, and take in your hand the staff that turned into serpent."},{"verse":16,"restored":"Say to him, YHWH, Divine of Hebrews, sent me to you, saying, Send my people so they may serve/worship me in wilderness; and look, you have not listened until now."},{"verse":17,"restored":"Thus says YHWH: By this you shall know that I am YHWH. Look, I strike with staff that is in my hand upon waters in Nile, and they shall turn to blood/life."},{"verse":18,"restored":"The fish in Nile shall die, and Nile shall stink, and Egypt will be weary of drinking water from Nile."},{"verse":19,"restored":"YHWH said to Moses, Say to Aaron, Take your staff and stretch your hand over waters of Egypt, over their rivers, canals, pools, and every gathering of their waters, and they shall become blood/life; there shall be blood/life in all land of Egypt, even in wood and stone vessels."},{"verse":20,"restored":"Moses and Aaron did so, as YHWH commanded. He lifted staff and struck waters in Nile before eyes of Pharaoh and eyes of his servants, and all waters in Nile turned to blood/life."},{"verse":21,"restored":"The fish in Nile died, and Nile stank, and Egypt could not drink water from Nile; and blood/life was in all land of Egypt."},{"verse":22,"restored":"But magicians of Egypt did so with their secret arts, and Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken."},{"verse":23,"restored":"Pharaoh turned and went into his house, and did not set his heart even to this."},{"verse":24,"restored":"All Egypt dug around Nile for water to drink, for they could not drink from waters of Nile."},{"verse":25,"restored":"Seven days were fulfilled after YHWH struck the Nile."}],"translation_notes":["Tannin may be serpent/dragon; preserve mythic and Egyptian-symbolic resonance without overclaiming.","Hardening terms begin to alternate: here heavy/strong language should be tracked carefully in second-pass lexical audit.","Nile judgment confronts the river as imperial life-source after Pharaoh used it for death in chapter 1."],"safety_note":"The sign targets Pharaoh's oppressive refusal and Egypt's imperial system, not Egyptians as an ethnicity. Ecological harm in the signs should be read as apocalyptic/legal confrontation with oppression, not as celebration of suffering."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 7,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for Moses/Aaron roles, Pharaoh hardening, staff-serpent sign, Nile blood sign, magicians, and Pharaoh's refusal."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, See, I have made you as Divine to Pharaoh, and Aaron your brother shall be your prophet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, See, I have made thee a god to Pharaoh: and Aaron thy brother shall be thy prophet."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "prophet",
+          "source": "navi",
+          "language": "Hebrew",
+          "glossary_id": "navi",
+          "transliteration": "navi"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "spiritual-authority-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "You shall speak all that I command you, and Aaron your brother shall speak to Pharaoh, that he send the children of Israel from his land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt speak all that I command thee: and Aaron thy brother shall speak unto Pharaoh, that he send the children of Israel out of his land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "But I myself will harden Pharaoh's heart, and I will multiply my signs and wonders in land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I will harden Pharaoh’s heart, and multiply my signs and my wonders in the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Pharaoh will not listen to you, and I will put my hand upon Egypt and bring out my hosts, my people children of Israel, from land of Egypt by great judgments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Pharaoh shall not hearken unto you, that I may lay my hand upon Egypt, and bring forth mine armies, and my people the children of Israel, out of the land of Egypt by great judgments."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Egypt shall know that I am YHWH when I stretch out my hand over Egypt and bring out the children of Israel from their midst.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the Egyptians shall know that I am the LORD, when I stretch forth mine hand upon Egypt, and bring out the children of Israel from among them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Moses and Aaron did so; as YHWH commanded them, so they did.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron did as the LORD commanded them, so did they."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Moses was eighty years old, and Aaron eighty-three years old, when they spoke to Pharaoh.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses was fourscore years old, and Aaron fourscore and three years old, when they spake unto Pharaoh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "YHWH said to Moses and Aaron, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses and unto Aaron, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "When Pharaoh speaks to you, saying, Give for yourselves a wonder, then you shall say to Aaron, Take your staff and throw it before Pharaoh; it will become a serpent/dragon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Moses and Aaron came to Pharaoh and did so, as YHWH commanded; Aaron threw his staff before Pharaoh and his servants, and it became a serpent/dragon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron went in unto Pharaoh, and they did so as the LORD had commanded: and Aaron cast down his rod before Pharaoh, and before his servants, and it became a serpent."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Pharaoh also called the wise men and sorcerers, and they also, the magicians of Egypt, did so with their secret arts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Each threw down his staff, and they became serpents/dragons; but Aaron's staff swallowed their staffs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For they cast down every man his rod, and they became serpents: but Aaron’s rod swallowed up their rods."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he hardened Pharaoh’s heart, that he hearkened not unto them; as the LORD had said."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "YHWH said to Moses, Pharaoh's heart is heavy; he refuses to send the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Pharaoh’s heart is hardened, he refuseth to let the people go."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Go to Pharaoh in the morning; look, he goes out to the water. Stand to meet him on bank of Nile, and take in your hand the staff that turned into serpent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Get thee unto Pharaoh in the morning; lo, he goeth out unto the water; and thou shalt stand by the river’s brink against he come; and the rod which was turned to a serpent shalt thou take in thine hand."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Say to him, YHWH, Divine of Hebrews, sent me to you, saying, Send my people so they may serve/worship me in wilderness; and look, you have not listened until now.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt say unto him, The LORD God of the Hebrews hath sent me unto thee, saying, Let my people go, that they may serve me in the wilderness: and, behold, hitherto thou wouldest not hear."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Thus says YHWH: By this you shall know that I am YHWH. Look, I strike with staff that is in my hand upon waters in Nile, and they shall turn to blood/life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thus saith the LORD, In this thou shalt know that I am the LORD: behold, I will smite with the rod that is in mine hand upon the waters which are in the river, and they shall be turned to blood."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "The fish in Nile shall die, and Nile shall stink, and Egypt will be weary of drinking water from Nile.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "YHWH said to Moses, Say to Aaron, Take your staff and stretch your hand over waters of Egypt, over their rivers, canals, pools, and every gathering of their waters, and they shall become blood/life; there shall be blood/life in all land of Egypt, even in wood and stone vessels.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, Say unto Aaron, Take thy rod, and stretch out thine hand upon the waters of Egypt, upon their streams, upon their rivers, and upon their ponds, and upon all their pools of water, that they may become blood; and that there may be blood throughout all the land of Egypt, both in vessels of wood, and in vessels of stone."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Moses and Aaron did so, as YHWH commanded. He lifted staff and struck waters in Nile before eyes of Pharaoh and eyes of his servants, and all waters in Nile turned to blood/life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron did so, as the LORD commanded; and he lifted up the rod, and smote the waters that were in the river, in the sight of Pharaoh, and in the sight of his servants; and all the waters that were in the river were turned to blood."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "The fish in Nile died, and Nile stank, and Egypt could not drink water from Nile; and blood/life was in all land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "But magicians of Egypt did so with their secret arts, and Pharaoh's heart was strong/hardened, and he did not listen to them, as YHWH had spoken.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the magicians of Egypt did so with their enchantments: and Pharaoh’s heart was hardened, neither did he hearken unto them; as the LORD had said."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "Pharaoh turned and went into his house, and did not set his heart even to this.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Pharaoh turned and went into his house, neither did he set his heart to this also."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "All Egypt dug around Nile for water to drink, for they could not drink from waters of Nile.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Seven days were fulfilled after YHWH struck the Nile.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And seven days were fulfilled, after that the LORD had smitten the river."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Tannin may be serpent/dragon; preserve mythic and Egyptian-symbolic resonance without overclaiming.",
+    "Hardening terms begin to alternate: here heavy/strong language should be tracked carefully in second-pass lexical audit.",
+    "Nile judgment confronts the river as imperial life-source after Pharaoh used it for death in chapter 1."
+  ],
+  "safety_note": "The sign targets Pharaoh's oppressive refusal and Egypt's imperial system, not Egyptians as an ethnicity. Ecological harm in the signs should be read as apocalyptic/legal confrontation with oppression, not as celebration of suffering.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-15-of-25",
+    "tags": "partial-7-of-25",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-25",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

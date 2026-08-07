@@ -1,1 +1,509 @@
-{"book":"Leviticus","book_id":"leviticus","chapter":21,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Leviticus / Vayiqra priestly holiness boundary text tradition, draft aligned later","review_note":"First-pass draft reviewed for priestly corpse contact, mourning restrictions, priestly marriage boundaries, daughter penalty material, high priest restrictions, bodily-wholeness restrictions for altar approach. Strong disability-justice and anti-shame safeguards required."},"verses":[{"verse":1,"restored":"YHWH said to Moses, Speak to the priests, sons of Aaron, and say to them: None shall make himself unclean for a dead person among his people,"},{"verse":2,"restored":"except for his flesh/kin near to him: for his mother, father, son, daughter, brother,"},{"verse":3,"restored":"and for his virgin sister near to him, who has had no man, for her he may make himself unclean."},{"verse":4,"restored":"He shall not make himself unclean as husband/master among his people, to profane himself."},{"verse":5,"restored":"They shall not make baldness on their heads, and edge of their beard they shall not shave off, and in their flesh they shall not cut cuts."},{"verse":6,"restored":"Holy they shall be to their Divine, and they shall not profane name of their Divine, for fire-offerings of YHWH, bread/food of their Divine, they bring near; therefore they shall be holy."},{"verse":7,"restored":"A woman who is a prostitute or profaned they shall not take, and a woman divorced from her husband they shall not take, for he is holy to his Divine."},{"verse":8,"restored":"You shall sanctify him, for bread/food of your Divine he brings near; holy he shall be to you, for holy am I, YHWH who sanctifies you."},{"verse":9,"restored":"Daughter of any priest, if she profanes herself by prostitution, she profanes her father; in fire she shall be burned."},{"verse":10,"restored":"The priest greater than his brothers, upon whose head anointing oil was poured and whose hand was filled to wear garments, shall not loosen hair of his head and shall not tear his garments."},{"verse":11,"restored":"To any dead souls/lives he shall not come; for his father and mother he shall not make himself unclean."},{"verse":12,"restored":"From sanctuary he shall not go out, and he shall not profane sanctuary of his Divine, for crown of anointing oil of his Divine is upon him. I am YHWH."},{"verse":13,"restored":"He shall take a woman in her virginity."},{"verse":14,"restored":"Widow, divorced woman, profaned woman, prostitute—these he shall not take; but virgin from his peoples he shall take as wife."},{"verse":15,"restored":"He shall not profane his seed among his peoples, for I am YHWH who sanctifies him."},{"verse":16,"restored":"YHWH spoke to Moses, saying,"},{"verse":17,"restored":"Speak to Aaron, saying: A man from your seed throughout their generations in whom there is a bodily blemish shall not draw near to bring near bread/food of his Divine."},{"verse":18,"restored":"For any man in whom there is bodily blemish shall not draw near: a blind man, or lame, or disfigured, or over-extended limb,"},{"verse":19,"restored":"or man in whom there is broken foot or broken hand,"},{"verse":20,"restored":"or hunchback, or dwarf, or defect in his eye, or scab, or skin eruption, or crushed testicle."},{"verse":21,"restored":"Any man from seed of Aaron the priest in whom there is bodily blemish shall not come near to bring near fire-offerings of YHWH; bodily blemish is in him; bread/food of his Divine he shall not come near to bring."},{"verse":22,"restored":"Bread/food of his Divine from Holy of Holies and from holy things he may eat."},{"verse":23,"restored":"But to veil he shall not come, and to altar he shall not draw near, for bodily blemish is in him, so that he not profane my sanctuaries; for I am YHWH who sanctifies them."},{"verse":24,"restored":"Moses spoke to Aaron and to his sons and to all children of Israel."}],"translation_notes":["Priestly corpse-contact and mourning restrictions are role-specific holiness boundaries, not general contempt for grief or family love.","Severe penalty against priest's daughter in v.9 is dangerous reception material and requires explicit anti-violence, anti-misogyny audit.","Bodily-wholeness restrictions in vv.16-23 are ancient priestly altar-boundary rules and must not be interpreted as reduced human worth, disability shame, or Divine dislike of disabled bodies.","Verse 22 is crucial: priests with bodily blemish may eat holy food; exclusion is from altar/veil service, not from covenant belonging or holy provision.","Language of blemish should be handled as ritual-wholeness category, not moral defect or personal failure."],"safety_note":"Do not weaponize Leviticus 21 against disabled people, women, divorced people, sex workers, grieving families, or anyone's body. This is ancient priestly ritual-boundary material; it must be read with disability justice, anti-misogyny, anti-violence, and anti-shame safeguards."}
+{
+  "book": "Leviticus",
+  "book_id": "leviticus",
+  "chapter": 21,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Leviticus / Vayiqra priestly holiness boundary text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for priestly corpse contact, mourning restrictions, priestly marriage boundaries, daughter penalty material, high priest restrictions, bodily-wholeness restrictions for altar approach. Strong disability-justice and anti-shame safeguards required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, Speak to the priests, sons of Aaron, and say to them: None shall make himself unclean for a dead person among his people,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "except for his flesh/kin near to him: for his mother, father, son, daughter, brother,",
+      "familiar": {
+        "source": "KJV",
+        "text": "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "and for his virgin sister near to him, who has had no man, for her he may make himself unclean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He shall not make himself unclean as husband/master among his people, to profane himself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But he shall not defile himself, being a chief man among his people, to profane himself."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "They shall not make baldness on their heads, and edge of their beard they shall not shave off, and in their flesh they shall not cut cuts.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Holy they shall be to their Divine, and they shall not profane name of their Divine, for fire-offerings of YHWH, bread/food of their Divine, they bring near; therefore they shall be holy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "A woman who is a prostitute or profaned they shall not take, and a woman divorced from her husband they shall not take, for he is holy to his Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "You shall sanctify him, for bread/food of your Divine he brings near; holy he shall be to you, for holy am I, YHWH who sanctifies you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Daughter of any priest, if she profanes herself by prostitution, she profanes her father; in fire she shall be burned.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "The priest greater than his brothers, upon whose head anointing oil was poured and whose hand was filled to wear garments, shall not loosen hair of his head and shall not tear his garments.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "To any dead souls/lives he shall not come; for his father and mother he shall not make himself unclean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "From sanctuary he shall not go out, and he shall not profane sanctuary of his Divine, for crown of anointing oil of his Divine is upon him. I am YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "He shall take a woman in her virginity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he shall take a wife in her virginity."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "Widow, divorced woman, profaned woman, prostitute—these he shall not take; but virgin from his peoples he shall take as wife.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "He shall not profane his seed among his peoples, for I am YHWH who sanctifies him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Neither shall he profane his seed among his people: for I the LORD do sanctify him."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Speak to Aaron, saying: A man from your seed throughout their generations in whom there is a bodily blemish shall not draw near to bring near bread/food of his Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "For any man in whom there is bodily blemish shall not draw near: a blind man, or lame, or disfigured, or over-extended limb,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "disability-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "or man in whom there is broken foot or broken hand,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Or a man that is brokenfooted, or brokenhanded,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "or hunchback, or dwarf, or defect in his eye, or scab, or skin eruption, or crushed testicle.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Any man from seed of Aaron the priest in whom there is bodily blemish shall not come near to bring near fire-offerings of YHWH; bodily blemish is in him; bread/food of his Divine he shall not come near to bring.",
+      "familiar": {
+        "source": "KJV",
+        "text": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "Bread/food of his Divine from Holy of Holies and from holy things he may eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall eat the bread of his God, both of the most holy, and of the holy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "But to veil he shall not come, and to altar he shall not draw near, for bodily blemish is in him, so that he not profane my sanctuaries; for I am YHWH who sanctifies them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Moses spoke to Aaron and to his sons and to all children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Priestly corpse-contact and mourning restrictions are role-specific holiness boundaries, not general contempt for grief or family love.",
+    "Severe penalty against priest's daughter in v.9 is dangerous reception material and requires explicit anti-violence, anti-misogyny audit.",
+    "Bodily-wholeness restrictions in vv.16-23 are ancient priestly altar-boundary rules and must not be interpreted as reduced human worth, disability shame, or Divine dislike of disabled bodies.",
+    "Verse 22 is crucial: priests with bodily blemish may eat holy food; exclusion is from altar/veil service, not from covenant belonging or holy provision.",
+    "Language of blemish should be handled as ritual-wholeness category, not moral defect or personal failure."
+  ],
+  "safety_note": "Do not weaponize Leviticus 21 against disabled people, women, divorced people, sex workers, grieving families, or anyone's body. This is ancient priestly ritual-boundary material; it must be read with disability justice, anti-misogyny, anti-violence, and anti-shame safeguards.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-10-of-24",
+    "tags": "partial-13-of-24",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-9-of-24",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

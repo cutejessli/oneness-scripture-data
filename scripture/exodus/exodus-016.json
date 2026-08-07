@@ -1,1 +1,690 @@
-{"book":"Exodus","book_id":"exodus","chapter":16,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for wilderness grumbling, manna/quail, daily portion, Sabbath rhythm, omer memorial."},"verses":[{"verse":1,"restored":"They journeyed from Elim, and all congregation of children of Israel came to wilderness of Sin, between Elim and Sinai, on fifteenth day of second month after their going out from land of Egypt."},{"verse":2,"restored":"All congregation of children of Israel grumbled against Moses and Aaron in the wilderness."},{"verse":3,"restored":"Children of Israel said to them, If only we had died by hand of YHWH in land of Egypt, when we sat by pots of flesh and ate bread to fullness; for you brought us out to this wilderness to kill all this assembly with hunger."},{"verse":4,"restored":"YHWH said to Moses, Look, I am raining bread for you from heavens; the people shall go out and gather a day's matter in its day, so I may test them whether they walk in my Torah/instruction or not."},{"verse":5,"restored":"On sixth day, when they prepare what they bring in, it shall be double what they gather day by day."},{"verse":6,"restored":"Moses and Aaron said to all children of Israel, Evening, then you shall know that YHWH brought you out from land of Egypt."},{"verse":7,"restored":"And morning, then you shall see glory of YHWH, because he hears your grumblings against YHWH. And what are we, that you grumble against us?"},{"verse":8,"restored":"Moses said, When YHWH gives you flesh in evening to eat and bread in morning to fullness, because YHWH hears your grumblings that you grumble against him; what are we? Your grumblings are not against us but against YHWH."},{"verse":9,"restored":"Moses said to Aaron, Say to all congregation of children of Israel, Draw near before YHWH, for he has heard your grumblings."},{"verse":10,"restored":"As Aaron spoke to all congregation of children of Israel, they turned toward wilderness, and look, glory of YHWH appeared in cloud."},{"verse":11,"restored":"YHWH spoke to Moses, saying,"},{"verse":12,"restored":"I have heard grumblings of children of Israel. Speak to them, saying, Between the evenings you shall eat flesh, and in morning you shall be satisfied with bread; and you shall know that I am YHWH your Divine."},{"verse":13,"restored":"It happened in evening that quail came up and covered the camp, and in morning there was layer of dew around the camp."},{"verse":14,"restored":"The layer of dew went up, and look, upon face of wilderness, a fine flaky thing, fine like frost on earth."},{"verse":15,"restored":"Children of Israel saw and said each to one's brother, What is it? For they did not know what it was. Moses said to them, It is bread that YHWH has given you to eat."},{"verse":16,"restored":"This is the word that YHWH commanded: Gather from it, each according to one's eating, an omer per head, according to number of your souls/lives; each shall take for those in one's tent."},{"verse":17,"restored":"Children of Israel did so, and they gathered, some more and some less."},{"verse":18,"restored":"They measured by omer; the one gathering much had no excess, and the one gathering little had no lack. Each gathered according to one's eating."},{"verse":19,"restored":"Moses said to them, Let no one leave any of it until morning."},{"verse":20,"restored":"But they did not listen to Moses; some left from it until morning, and it bred worms and stank. Moses was angry with them."},{"verse":21,"restored":"They gathered it morning by morning, each according to one's eating; when sun grew hot, it melted."},{"verse":22,"restored":"On sixth day they gathered double bread, two omers for one; all leaders of congregation came and told Moses."},{"verse":23,"restored":"He said to them, This is what YHWH spoke: Tomorrow is Sabbath-rest, holy Sabbath to YHWH. Bake what you bake and boil what you boil, and all surplus set aside for yourselves to keep until morning."},{"verse":24,"restored":"They set it aside until morning, as Moses commanded, and it did not stink, and worm was not in it."},{"verse":25,"restored":"Moses said, Eat it today, for today is Sabbath to YHWH; today you will not find it in field."},{"verse":26,"restored":"Six days you shall gather it, but on seventh day, Sabbath, there will be none in it."},{"verse":27,"restored":"It happened on seventh day some of the people went out to gather, but they did not find."},{"verse":28,"restored":"YHWH said to Moses, How long do you refuse to keep my commands and my Torah/instructions?"},{"verse":29,"restored":"See, because YHWH has given you Sabbath, therefore on sixth day he gives you bread of two days; sit each under oneself; let no one go out from one's place on seventh day."},{"verse":30,"restored":"So the people rested on seventh day."},{"verse":31,"restored":"House of Israel called its name manna; it was like coriander seed, white, and its taste like wafers with honey."},{"verse":32,"restored":"Moses said, This is the word YHWH commanded: Fill an omer from it to keep throughout your generations, so they may see the bread with which I fed you in wilderness when I brought you out from land of Egypt."},{"verse":33,"restored":"Moses said to Aaron, Take one jar and put there a full omer of manna, and place it before YHWH to keep throughout your generations."},{"verse":34,"restored":"As YHWH commanded Moses, Aaron placed it before the testimony to keep."},{"verse":35,"restored":"Children of Israel ate the manna forty years, until they came to inhabited land; they ate the manna until they came to border of land of Canaan."},{"verse":36,"restored":"Now an omer is a tenth of an ephah."}],"translation_notes":["Manna asks 'what is it?' and trains daily dependence rather than hoarding.","The omer equality line is central: much had no excess, little had no lack.","Sabbath appears as gift before Sinai law code: rest is liberation practice."],"safety_note":"Do not frame grumbling as simple moral failure; hunger and wilderness insecurity are real. The chapter forms trust through provision, equality, and Sabbath rest."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 16,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for wilderness grumbling, manna/quail, daily portion, Sabbath rhythm, omer memorial."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "They journeyed from Elim, and all congregation of children of Israel came to wilderness of Sin, between Elim and Sinai, on fifteenth day of second month after their going out from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "All congregation of children of Israel grumbled against Moses and Aaron in the wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Children of Israel said to them, If only we had died by hand of YHWH in land of Egypt, when we sat by pots of flesh and ate bread to fullness; for you brought us out to this wilderness to kill all this assembly with hunger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel said unto them, Would to God we had died by the hand of the LORD in the land of Egypt, when we sat by the flesh pots, and when we did eat bread to the full; for ye have brought us forth into this wilderness, to kill this whole assembly with hunger."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "YHWH said to Moses, Look, I am raining bread for you from heavens; the people shall go out and gather a day's matter in its day, so I may test them whether they walk in my Torah/instruction or not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said the LORD unto Moses, Behold, I will rain bread from heaven for you; and the people shall go out and gather a certain rate every day, that I may prove them, whether they will walk in my law, or no."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "On sixth day, when they prepare what they bring in, it shall be double what they gather day by day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Moses and Aaron said to all children of Israel, Evening, then you shall know that YHWH brought you out from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the LORD hath brought you out from the land of Egypt:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "And morning, then you shall see glory of YHWH, because he hears your grumblings against YHWH. And what are we, that you grumble against us?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the morning, then ye shall see the glory of the LORD; for that he heareth your murmurings against the LORD: and what are we, that ye murmur against us?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Moses said, When YHWH gives you flesh in evening to eat and bread in morning to fullness, because YHWH hears your grumblings that you grumble against him; what are we? Your grumblings are not against us but against YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, This shall be, when the LORD shall give you in the evening flesh to eat, and in the morning bread to the full; for that the LORD heareth your murmurings which ye murmur against him: and what are we? your murmurings are not against us, but against the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Moses said to Aaron, Say to all congregation of children of Israel, Draw near before YHWH, for he has heard your grumblings.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses spake unto Aaron, Say unto all the congregation of the children of Israel, Come near before the LORD: for he hath heard your murmurings."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "As Aaron spoke to all congregation of children of Israel, they turned toward wilderness, and look, glory of YHWH appeared in cloud.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the LORD appeared in the cloud."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "I have heard grumblings of children of Israel. Speak to them, saying, Between the evenings you shall eat flesh, and in morning you shall be satisfied with bread; and you shall know that I am YHWH your Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the LORD your God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "It happened in evening that quail came up and covered the camp, and in morning there was layer of dew around the camp.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that at even the quails came up, and covered the camp: and in the morning the dew lay round about the host."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The layer of dew went up, and look, upon face of wilderness, a fine flaky thing, fine like frost on earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the dew that lay was gone up, behold, upon the face of the wilderness there lay a small round thing, as small as the hoar frost on the ground."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Children of Israel saw and said each to one's brother, What is it? For they did not know what it was. Moses said to them, It is bread that YHWH has given you to eat.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the LORD hath given you to eat."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "This is the word that YHWH commanded: Gather from it, each according to one's eating, an omer per head, according to number of your souls/lives; each shall take for those in one's tent.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This is the thing which the LORD hath commanded, Gather of it every man according to his eating, an omer for every man, according to the number of your persons; take ye every man for them which are in his tents."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Children of Israel did so, and they gathered, some more and some less.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel did so, and gathered, some more, some less."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "They measured by omer; the one gathering much had no excess, and the one gathering little had no lack. Each gathered according to one's eating.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Moses said to them, Let no one leave any of it until morning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Let no man leave of it till the morning."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "But they did not listen to Moses; some left from it until morning, and it bred worms and stank. Moses was angry with them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They gathered it morning by morning, each according to one's eating; when sun grew hot, it melted.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "On sixth day they gathered double bread, two omers for one; all leaders of congregation came and told Moses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "He said to them, This is what YHWH spoke: Tomorrow is Sabbath-rest, holy Sabbath to YHWH. Bake what you bake and boil what you boil, and all surplus set aside for yourselves to keep until morning.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto them, This is that which the LORD hath said, To morrow is the rest of the holy sabbath unto the LORD: bake that which ye will bake to day, and seethe that ye will seethe; and that which remaineth over lay up for you to be kept until the morning."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "They set it aside until morning, as Moses commanded, and it did not stink, and worm was not in it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Moses said, Eat it today, for today is Sabbath to YHWH; today you will not find it in field.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Eat that to day; for to day is a sabbath unto the LORD: to day ye shall not find it in the field."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Six days you shall gather it, but on seventh day, Sabbath, there will be none in it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "It happened on seventh day some of the people went out to gather, but they did not find.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "YHWH said to Moses, How long do you refuse to keep my commands and my Torah/instructions?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, How long refuse ye to keep my commandments and my laws?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "See, because YHWH has given you Sabbath, therefore on sixth day he gives you bread of two days; sit each under oneself; let no one go out from one's place on seventh day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "See, for that the LORD hath given you the sabbath, therefore he giveth you on the sixth day the bread of two days; abide ye every man in his place, let no man go out of his place on the seventh day."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "So the people rested on seventh day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the people rested on the seventh day."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "House of Israel called its name manna; it was like coriander seed, white, and its taste like wafers with honey.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "Moses said, This is the word YHWH commanded: Fill an omer from it to keep throughout your generations, so they may see the bread with which I fed you in wilderness when I brought you out from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, This is the thing which the LORD commandeth, Fill an omer of it to be kept for your generations; that they may see the bread wherewith I have fed you in the wilderness, when I brought you forth from the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Moses said to Aaron, Take one jar and put there a full omer of manna, and place it before YHWH to keep throughout your generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto Aaron, Take a pot, and put an omer full of manna therein, and lay it up before the LORD, to be kept for your generations."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 34,
+      "restored": "As YHWH commanded Moses, Aaron placed it before the testimony to keep.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As the LORD commanded Moses, so Aaron laid it up before the Testimony, to be kept."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Children of Israel ate the manna forty years, until they came to inhabited land; they ate the manna until they came to border of land of Canaan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 36,
+      "restored": "Now an omer is a tenth of an ephah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now an omer is the tenth part of an ephah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Manna asks 'what is it?' and trains daily dependence rather than hoarding.",
+    "The omer equality line is central: much had no excess, little had no lack.",
+    "Sabbath appears as gift before Sinai law code: rest is liberation practice."
+  ],
+  "safety_note": "Do not frame grumbling as simple moral failure; hunger and wilderness insecurity are real. The chapter forms trust through provision, equality, and Sabbath rest.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-18-of-36",
+    "tags": "partial-10-of-36",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-36",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

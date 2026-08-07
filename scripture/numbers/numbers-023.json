@@ -1,1 +1,621 @@
-{"book":"Numbers","book_id":"numbers","chapter":23,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Numbers / Bemidbar Balaam blessing-oracle text tradition, draft aligned later","review_note":"First-pass draft reviewed for seven-altars ritual, first and second oracles, inability to curse the blessed, Israel's distinctness, poetic innocence language, Exodus strength, anti-divination claim, and lion imagery."},"verses":[{"verse":1,"restored":"Balaam said to Balak, Build for me here seven altars and prepare for me here seven bulls and seven rams."},{"verse":2,"restored":"Balak did as Balaam spoke, and Balak and Balaam offered a bull and a ram on each altar."},{"verse":3,"restored":"Balaam said to Balak, Station yourself by your burnt offering, and I will go; perhaps YHWH will meet me. Whatever he shows me I will tell you. And he went to a bare height."},{"verse":4,"restored":"Divine met Balaam, and he said to him, I have arranged seven altars and offered a bull and a ram on each altar."},{"verse":5,"restored":"YHWH put a word in Balaam's mouth and said, Return to Balak, and thus you shall speak."},{"verse":6,"restored":"He returned to him, and look, he was standing by his burnt offering, he and all leaders of Moab."},{"verse":7,"restored":"He took up his oracle and said: From Aram Balak brought me, king of Moab from mountains of east: Come, curse Jacob for me; come, denounce Israel."},{"verse":8,"restored":"How shall I curse whom El has not cursed? How shall I denounce whom YHWH has not denounced?"},{"verse":9,"restored":"For from top of rocks I see him, and from hills I behold him. Look, a people dwelling apart, and among nations it does not reckon itself."},{"verse":10,"restored":"Who has counted dust of Jacob or numbered fourth part of Israel? Let my soul/life die death of upright, and let my end be like his."},{"verse":11,"restored":"Balak said to Balaam, What have you done to me? To curse my enemies I took you, and look, you have surely blessed."},{"verse":12,"restored":"He answered and said, Must I not keep to speak what YHWH puts in my mouth?"},{"verse":13,"restored":"Balak said to him, Please go with me to another place from which you may see him. Only his edge you shall see, and all of him you shall not see; curse him for me from there."},{"verse":14,"restored":"He took him to field of Zophim/Watchers, to top of Pisgah; he built seven altars and offered a bull and a ram on each altar."},{"verse":15,"restored":"Balaam said to Balak, Station yourself here by your burnt offering, while I meet YHWH yonder."},{"verse":16,"restored":"YHWH met Balaam, put a word in his mouth, and said, Return to Balak, and thus you shall speak."},{"verse":17,"restored":"He came to him, and look, he was standing by his burnt offering, and leaders of Moab with him. Balak said to him, What has YHWH spoken?"},{"verse":18,"restored":"He took up his oracle and said: Rise, Balak, and hear; give ear to me, son of Zippor."},{"verse":19,"restored":"El is not a man that he should lie, nor a human son that he should change his mind. Has he said and will he not do? Has he spoken and will he not establish?"},{"verse":20,"restored":"Look, to bless I have received; he has blessed, and I cannot turn it back."},{"verse":21,"restored":"He has not beheld iniquity in Jacob, nor seen trouble in Israel. YHWH his Divine is with him, and shout of a king is among him."},{"verse":22,"restored":"El brings them out from Egypt; like horns/strength of wild ox is he for him."},{"verse":23,"restored":"For there is no enchantment against Jacob and no divination against Israel. At the proper time it is said to Jacob and to Israel what El has done."},{"verse":24,"restored":"Look, a people rises like lioness and lifts itself like lion; it does not lie down until it eats prey and drinks blood of slain."},{"verse":25,"restored":"Balak said to Balaam, Neither curse it at all nor bless it at all."},{"verse":26,"restored":"Balaam answered and said to Balak, Did I not speak to you, saying, All that YHWH speaks, that I shall do?"},{"verse":27,"restored":"Balak said to Balaam, Please come, I will take you to another place. Perhaps it will be right in eyes of Divine that you curse it for me from there."},{"verse":28,"restored":"Balak took Balaam to top of Peor, overlooking face of Jeshimon/wasteland."},{"verse":29,"restored":"Balaam said to Balak, Build for me here seven altars and prepare for me here seven bulls and seven rams."},{"verse":30,"restored":"Balak did as Balaam said, and offered a bull and a ram on each altar."}],"translation_notes":["Balaam's oracles transform a commissioned curse into blessing; royal payment and repeated ritual cannot purchase a different word.","'Dwelling apart' is poetic description of distinct identity in this oracle, not a timeless command for ethnic isolation, segregation, or supremacy.","Verse 21's claim that no iniquity is seen is covenant-poetic language in context, not a claim that Israel or its leaders are morally flawless.","The text rejects enchantment and divination as effective against the blessed people; it is not a manual for counter-magic.","Wild-ox and lion imagery expresses ancient strength and victory rhetoric and must not authorize modern violence or dehumanization.","Balak repeatedly changes Balaam's viewpoint in hopes of controlling the outcome, while the blessing remains resistant to manipulation."],"safety_note":"Do not use Numbers 23 to promote ethnic supremacy, segregation, magical warfare, antisemitic curse traditions, or nationalist violence. The core movement is the failure of paid power to turn a people into the object of a curse."}
+{
+  "book": "Numbers",
+  "book_id": "numbers",
+  "chapter": 23,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Numbers / Bemidbar Balaam blessing-oracle text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for seven-altars ritual, first and second oracles, inability to curse the blessed, Israel's distinctness, poetic innocence language, Exodus strength, anti-divination claim, and lion imagery."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Balaam said to Balak, Build for me here seven altars and prepare for me here seven bulls and seven rams.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven oxen and seven rams."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Balak did as Balaam spoke, and Balak and Balaam offered a bull and a ram on each altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Balaam said to Balak, Station yourself by your burnt offering, and I will go; perhaps YHWH will meet me. Whatever he shows me I will tell you. And he went to a bare height.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balaam said unto Balak, Stand by thy burnt offering, and I will go: peradventure the LORD will come to meet me: and whatsoever he sheweth me I will tell thee. And he went to an high place."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Divine met Balaam, and he said to him, I have arranged seven altars and offered a bull and a ram on each altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "YHWH put a word in Balaam's mouth and said, Return to Balak, and thus you shall speak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD put a word in Balaam’s mouth, and said, Return unto Balak, and thus thou shalt speak."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "He returned to him, and look, he was standing by his burnt offering, he and all leaders of Moab.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He took up his oracle and said: From Aram Balak brought me, king of Moab from mountains of east: Come, curse Jacob for me; come, denounce Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took up his parable, and said, Balak the king of Moab hath brought me from Aram, out of the mountains of the east, saying, Come, curse me Jacob, and come, defy Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "How shall I curse whom El has not cursed? How shall I denounce whom YHWH has not denounced?",
+      "familiar": {
+        "source": "KJV",
+        "text": "How shall I curse, whom God hath not cursed? or how shall I defy, whom the LORD hath not defied?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "For from top of rocks I see him, and from hills I behold him. Look, a people dwelling apart, and among nations it does not reckon itself.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For from the top of the rocks I see him, and from the hills I behold him: lo, the people shall dwell alone, and shall not be reckoned among the nations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Who has counted dust of Jacob or numbered fourth part of Israel? Let my soul/life die death of upright, and let my end be like his.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who can count the dust of Jacob, and the number of the fourth part of Israel? Let me die the death of the righteous, and let my last end be like his!"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "census"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Balak said to Balaam, What have you done to me? To curse my enemies I took you, and look, you have surely blessed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak said unto Balaam, What hast thou done unto me? I took thee to curse mine enemies, and, behold, thou hast blessed them altogether."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "He answered and said, Must I not keep to speak what YHWH puts in my mouth?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he answered and said, Must I not take heed to speak that which the LORD hath put in my mouth?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Balak said to him, Please go with me to another place from which you may see him. Only his edge you shall see, and all of him you shall not see; curse him for me from there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak said unto him, Come, I pray thee, with me unto another place, from whence thou mayest see them: thou shalt see but the utmost part of them, and shalt not see them all: and curse me them from thence."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "He took him to field of Zophim/Watchers, to top of Pisgah; he built seven altars and offered a bull and a ram on each altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Balaam said to Balak, Station yourself here by your burnt offering, while I meet YHWH yonder.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he said unto Balak, Stand here by thy burnt offering, while I meet the LORD yonder."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "YHWH met Balaam, put a word in his mouth, and said, Return to Balak, and thus you shall speak.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD met Balaam, and put a word in his mouth, and said, Go again unto Balak, and say thus."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He came to him, and look, he was standing by his burnt offering, and leaders of Moab with him. Balak said to him, What has YHWH spoken?",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the LORD spoken?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "He took up his oracle and said: Rise, Balak, and hear; give ear to me, son of Zippor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he took up his parable, and said, Rise up, Balak, and hear; hearken unto me, thou son of Zippor:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "El is not a man that he should lie, nor a human son that he should change his mind. Has he said and will he not do? Has he spoken and will he not establish?",
+      "familiar": {
+        "source": "KJV",
+        "text": "God is not a man, that he should lie; neither the son of man, that he should repent: hath he said, and shall he not do it? or hath he spoken, and shall he not make it good?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Look, to bless I have received; he has blessed, and I cannot turn it back.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I have received commandment to bless: and he hath blessed; and I cannot reverse it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "He has not beheld iniquity in Jacob, nor seen trouble in Israel. YHWH his Divine is with him, and shout of a king is among him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He hath not beheld iniquity in Jacob, neither hath he seen perverseness in Israel: the LORD his God is with him, and the shout of a king is among them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "king",
+          "source": "melekh",
+          "language": "Hebrew",
+          "glossary_id": "melekh",
+          "transliteration": "melekh"
+        }
+      ],
+      "tags": [
+        "kingship-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "El brings them out from Egypt; like horns/strength of wild ox is he for him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God brought them out of Egypt; he hath as it were the strength of an unicorn."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "For there is no enchantment against Jacob and no divination against Israel. At the proper time it is said to Jacob and to Israel what El has done.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely there is no enchantment against Jacob, neither is there any divination against Israel: according to this time it shall be said of Jacob and of Israel, What hath God wrought!"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "Look, a people rises like lioness and lifts itself like lion; it does not lie down until it eats prey and drinks blood of slain.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, the people shall rise up as a great lion, and lift up himself as a young lion: he shall not lie down until he eat of the prey, and drink the blood of the slain."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "Balak said to Balaam, Neither curse it at all nor bless it at all.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak said unto Balaam, Neither curse them at all, nor bless them at all."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Balaam answered and said to Balak, Did I not speak to you, saying, All that YHWH speaks, that I shall do?",
+      "familiar": {
+        "source": "KJV",
+        "text": "But Balaam answered and said unto Balak, Told not I thee, saying, All that the LORD speaketh, that I must do?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "Balak said to Balaam, Please come, I will take you to another place. Perhaps it will be right in eyes of Divine that you curse it for me from there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak said unto Balaam, Come, I pray thee, I will bring thee unto another place; peradventure it will please God that thou mayest curse me them from thence."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Balak took Balaam to top of Peor, overlooking face of Jeshimon/wasteland.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak brought Balaam unto the top of Peor, that looketh toward Jeshimon."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Balaam said to Balak, Build for me here seven altars and prepare for me here seven bulls and seven rams.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balaam said unto Balak, Build me here seven altars, and prepare me here seven bullocks and seven rams."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Balak did as Balaam said, and offered a bull and a ram on each altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Balak did as Balaam had said, and offered a bullock and a ram on every altar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Balaam's oracles transform a commissioned curse into blessing; royal payment and repeated ritual cannot purchase a different word.",
+    "'Dwelling apart' is poetic description of distinct identity in this oracle, not a timeless command for ethnic isolation, segregation, or supremacy.",
+    "Verse 21's claim that no iniquity is seen is covenant-poetic language in context, not a claim that Israel or its leaders are morally flawless.",
+    "The text rejects enchantment and divination as effective against the blessed people; it is not a manual for counter-magic.",
+    "Wild-ox and lion imagery expresses ancient strength and victory rhetoric and must not authorize modern violence or dehumanization.",
+    "Balak repeatedly changes Balaam's viewpoint in hopes of controlling the outcome, while the blessing remains resistant to manipulation."
+  ],
+  "safety_note": "Do not use Numbers 23 to promote ethnic supremacy, segregation, magical warfare, antisemitic curse traditions, or nationalist violence. The core movement is the failure of paid power to turn a people into the object of a curse.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-11-of-30",
+    "tags": "partial-14-of-30",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-7-of-30",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,249 @@
-{"book":"Exodus","book_id":"exodus","chapter":11,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for final plague announcement, favor, firstborn judgment, distinction, and Moses' anger."},"verses":[{"verse":1,"restored":"YHWH said to Moses, One more plague I will bring upon Pharaoh and upon Egypt; after this he will send you from here. When he sends, driving, he will drive you all from here."},{"verse":2,"restored":"Speak now in ears of the people, and let each man ask from his companion and each woman from her companion objects of silver and objects of gold."},{"verse":3,"restored":"YHWH gave the people favor in eyes of Egypt. Also the man Moses was very great in land of Egypt, in eyes of Pharaoh's servants and in eyes of the people."},{"verse":4,"restored":"Moses said, Thus says YHWH: About midnight I am going out in midst of Egypt."},{"verse":5,"restored":"Every firstborn in land of Egypt shall die, from firstborn of Pharaoh sitting on his throne to firstborn of female servant who is behind the millstones, and every firstborn of beast."},{"verse":6,"restored":"There shall be a great cry in all land of Egypt, such as there has not been and such as will not be again."},{"verse":7,"restored":"But against all children of Israel, not a dog shall sharpen its tongue, against human or beast, so that you may know YHWH makes distinction between Egypt and Israel."},{"verse":8,"restored":"All these your servants shall come down to me and bow to me, saying, Go out, you and all the people at your feet; and after that I will go out. And he went out from Pharaoh in burning anger."},{"verse":9,"restored":"YHWH said to Moses, Pharaoh will not listen to you, so that my wonders may multiply in land of Egypt."},{"verse":10,"restored":"Moses and Aaron did all these wonders before Pharaoh, and YHWH strengthened/hardened Pharaoh's heart, and he did not send the children of Israel from his land."}],"translation_notes":["This chapter announces the firstborn judgment in direct reversal of Pharaoh's firstborn death policy from Exodus 1.","Favor in eyes of Egypt complicates ethnic reading: Egyptians can regard Israel/Moses favorably even while Pharaoh resists.","Moses' burning anger is preserved as moral outrage before systemic death."],"safety_note":"The firstborn judgment is ethically severe and must be kept within the narrative frame of Pharaoh's own death-dealing policy and repeated hardening. Do not detach it into general violence theology or anti-Egyptian contempt."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 11,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for final plague announcement, favor, firstborn judgment, distinction, and Moses' anger."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH said to Moses, One more plague I will bring upon Pharaoh and upon Egypt; after this he will send you from here. When he sends, driving, he will drive you all from here.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Yet will I bring one plague more upon Pharaoh, and upon Egypt; afterwards he will let you go hence: when he shall let you go, he shall surely thrust you out hence altogether."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Speak now in ears of the people, and let each man ask from his companion and each woman from her companion objects of silver and objects of gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak now in the ears of the people, and let every man borrow of his neighbour, and every woman of her neighbour, jewels of silver, and jewels of gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "YHWH gave the people favor in eyes of Egypt. Also the man Moses was very great in land of Egypt, in eyes of Pharaoh's servants and in eyes of the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD gave the people favour in the sight of the Egyptians. Moreover the man Moses was very great in the land of Egypt, in the sight of Pharaoh’s servants, and in the sight of the people."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Moses said, Thus says YHWH: About midnight I am going out in midst of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said, Thus saith the LORD, About midnight will I go out into the midst of Egypt:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Every firstborn in land of Egypt shall die, from firstborn of Pharaoh sitting on his throne to firstborn of female servant who is behind the millstones, and every firstborn of beast.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all the firstborn in the land of Egypt shall die, from the first born of Pharaoh that sitteth upon his throne, even unto the firstborn of the maidservant that is behind the mill; and all the firstborn of beasts."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "kingship-power",
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "leader-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "There shall be a great cry in all land of Egypt, such as there has not been and such as will not be again.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there shall be a great cry throughout all the land of Egypt, such as there was none like it, nor shall be like it any more."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But against all children of Israel, not a dog shall sharpen its tongue, against human or beast, so that you may know YHWH makes distinction between Egypt and Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But against any of the children of Israel shall not a dog move his tongue, against man or beast: that ye may know how that the LORD doth put a difference between the Egyptians and Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "music-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "All these your servants shall come down to me and bow to me, saying, Go out, you and all the people at your feet; and after that I will go out. And he went out from Pharaoh in burning anger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "YHWH said to Moses, Pharaoh will not listen to you, so that my wonders may multiply in land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Pharaoh shall not hearken unto you; that my wonders may be multiplied in the land of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Moses and Aaron did all these wonders before Pharaoh, and YHWH strengthened/hardened Pharaoh's heart, and he did not send the children of Israel from his land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses and Aaron did all these wonders before Pharaoh: and the LORD hardened Pharaoh’s heart, so that he would not let the children of Israel go out of his land."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter announces the firstborn judgment in direct reversal of Pharaoh's firstborn death policy from Exodus 1.",
+    "Favor in eyes of Egypt complicates ethnic reading: Egyptians can regard Israel/Moses favorably even while Pharaoh resists.",
+    "Moses' burning anger is preserved as moral outrage before systemic death."
+  ],
+  "safety_note": "The firstborn judgment is ethically severe and must be kept within the narrative frame of Pharaoh's own death-dealing policy and repeated hardening. Do not detach it into general violence theology or anti-Egyptian contempt.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-6-of-10",
+    "tags": "partial-6-of-10",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-10",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

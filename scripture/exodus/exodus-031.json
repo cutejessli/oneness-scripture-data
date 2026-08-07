@@ -1,1 +1,397 @@
-{"book":"Exodus","book_id":"exodus","chapter":31,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot artisan and Sabbath instruction text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for Bezalel/Oholiab, Spirit-filled craft, wise-hearted artisans, Sabbath sign, and tablets."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"See, I have called by name Bezalel son of Uri son of Hur, of tribe of Judah."},{"verse":3,"restored":"I have filled him with Spirit of Divine, in wisdom, understanding, knowledge, and every craft,"},{"verse":4,"restored":"to devise designs, to work in gold, silver, and bronze,"},{"verse":5,"restored":"in cutting stone for setting and carving wood, to work in every craft."},{"verse":6,"restored":"And I, look, I have given with him Oholiab son of Ahisamach, of tribe of Dan, and in heart of every wise-hearted one I have given wisdom; they shall make all that I commanded you:"},{"verse":7,"restored":"tent of meeting, ark of testimony, cover that is upon it, and all vessels of tent,"},{"verse":8,"restored":"table and its vessels, pure lampstand and all its vessels, incense altar,"},{"verse":9,"restored":"altar of burnt offering and all its vessels, basin and its stand,"},{"verse":10,"restored":"woven garments, holy garments for Aaron the priest, garments of his sons to serve as priests,"},{"verse":11,"restored":"anointing oil and fragrant incense for holy place; according to all I commanded you, they shall do."},{"verse":12,"restored":"YHWH said to Moses, saying,"},{"verse":13,"restored":"And you, speak to children of Israel, saying: Surely my Sabbaths you shall keep, for it is sign between me and you throughout your generations, to know that I, YHWH, sanctify you."},{"verse":14,"restored":"You shall keep the Sabbath, for it is holy to you; one profaning it shall surely be put to death, for everyone doing work in it, that soul/life shall be cut off from midst of its people."},{"verse":15,"restored":"Six days work shall be done, but seventh day is Sabbath of Sabbath-rest, holy to YHWH; everyone doing work on Sabbath day shall surely be put to death."},{"verse":16,"restored":"Children of Israel shall keep the Sabbath, to make/do the Sabbath throughout their generations as age-long covenant."},{"verse":17,"restored":"It is sign between me and children of Israel into the age; for in six days YHWH made heavens and earth, and on seventh day he ceased and was refreshed."},{"verse":18,"restored":"When he finished speaking with him on Mount Sinai, he gave to Moses two tablets of testimony, tablets of stone, written by finger of Divine."}],"translation_notes":["Bezalel and Oholiab are called by name; artistry is Spirit-filled wisdom, understanding, knowledge, and craft.","Wise-hearted artisans receive wisdom for making sacred space; craft is not secondary to theology.","Sabbath closes the tabernacle instruction block: even sacred work stops for holy rest.","Severe Sabbath penalties are source-preserved and require ethical/reception audit; do not use for coercive modern practice.","Finger of Divine links tablets to direct Divine inscription."],"safety_note":"Sabbath is covenant sign and liberation-rest; severe penalty language belongs to ancient covenant enforcement and must not be used for modern violence or coercion. Spirit-filled craft and rest are the governing theological themes here."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 31,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot artisan and Sabbath instruction text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for Bezalel/Oholiab, Spirit-filled craft, wise-hearted artisans, Sabbath sign, and tablets."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "See, I have called by name Bezalel son of Uri son of Hur, of tribe of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "See, I have called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "I have filled him with Spirit of Divine, in wisdom, understanding, knowledge, and every craft,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I have filled him with the spirit of God, in wisdom, and in understanding, and in knowledge, and in all manner of workmanship,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "spirit",
+          "source": "ruach",
+          "language": "Hebrew",
+          "glossary_id": "ruach",
+          "transliteration": "ruach"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "to devise designs, to work in gold, silver, and bronze,",
+      "familiar": {
+        "source": "KJV",
+        "text": "To devise cunning works, to work in gold, and in silver, and in brass,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "in cutting stone for setting and carving wood, to work in every craft.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in cutting of stones, to set them, and in carving of timber, to work in all manner of workmanship."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And I, look, I have given with him Oholiab son of Ahisamach, of tribe of Dan, and in heart of every wise-hearted one I have given wisdom; they shall make all that I commanded you:",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I, behold, I have given with him Aholiab, the son of Ahisamach, of the tribe of Dan: and in the hearts of all that are wise hearted I have put wisdom, that they may make all that I have commanded thee;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "lev",
+          "language": "Hebrew",
+          "glossary_id": "lev",
+          "transliteration": "lev"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "tent of meeting, ark of testimony, cover that is upon it, and all vessels of tent,",
+      "familiar": {
+        "source": "KJV",
+        "text": "The tabernacle of the congregation, and the ark of the testimony, and the mercy seat that is thereupon, and all the furniture of the tabernacle,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "table and its vessels, pure lampstand and all its vessels, incense altar,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the table and his furniture, and the pure candlestick with all his furniture, and the altar of incense,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "altar of burnt offering and all its vessels, basin and its stand,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the altar of burnt offering with all his furniture, and the laver and his foot,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "woven garments, holy garments for Aaron the priest, garments of his sons to serve as priests,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the cloths of service, and the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "anointing oil and fragrant incense for holy place; according to all I commanded you, they shall do.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the anointing oil, and sweet incense for the holy place: according to all that I have commanded thee shall they do."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "YHWH said to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "And you, speak to children of Israel, saying: Surely my Sabbaths you shall keep, for it is sign between me and you throughout your generations, to know that I, YHWH, sanctify you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the LORD that doth sanctify you."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "You shall keep the Sabbath, for it is holy to you; one profaning it shall surely be put to death, for everyone doing work in it, that soul/life shall be cut off from midst of its people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "Six days work shall be done, but seventh day is Sabbath of Sabbath-rest, holy to YHWH; everyone doing work on Sabbath day shall surely be put to death.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Six days may work be done; but in the seventh is the sabbath of rest, holy to the LORD: whosoever doeth any work in the sabbath day, he shall surely be put to death."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Children of Israel shall keep the Sabbath, to make/do the Sabbath throughout their generations as age-long covenant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "covenant",
+          "source": "berit",
+          "language": "Hebrew",
+          "glossary_id": "berit",
+          "transliteration": "berit"
+        }
+      ],
+      "tags": [
+        "covenant",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "It is sign between me and children of Israel into the age; for in six days YHWH made heavens and earth, and on seventh day he ceased and was refreshed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "It is a sign between me and the children of Israel for ever: for in six days the LORD made heaven and earth, and on the seventh day he rested, and was refreshed."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "When he finished speaking with him on Mount Sinai, he gave to Moses two tablets of testimony, tablets of stone, written by finger of Divine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he gave unto Moses, when he had made an end of communing with him upon mount Sinai, two tables of testimony, tables of stone, written with the finger of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Bezalel and Oholiab are called by name; artistry is Spirit-filled wisdom, understanding, knowledge, and craft.",
+    "Wise-hearted artisans receive wisdom for making sacred space; craft is not secondary to theology.",
+    "Sabbath closes the tabernacle instruction block: even sacred work stops for holy rest.",
+    "Severe Sabbath penalties are source-preserved and require ethical/reception audit; do not use for coercive modern practice.",
+    "Finger of Divine links tablets to direct Divine inscription."
+  ],
+  "safety_note": "Sabbath is covenant sign and liberation-rest; severe penalty language belongs to ancient covenant enforcement and must not be used for modern violence or coercion. Spirit-filled craft and rest are the governing theological themes here.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-11-of-18",
+    "tags": "partial-10-of-18",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-4-of-18",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

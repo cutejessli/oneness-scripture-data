@@ -1,1 +1,537 @@
-{"book":"Numbers","book_id":"numbers","chapter":13,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Numbers / Bemidbar scouting-of-Canaan text tradition, draft aligned later","review_note":"First-pass draft reviewed for scout commission, tribal representatives, renaming of Hoshea/Joshua, land and produce report, fortified cities, Caleb's minority report, and fear rhetoric about Anakim/Nephilim. Strong anti-colonial, anti-racist, and anti-dehumanization safeguards required."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"Send for yourself men, and let them scout land of Canaan, which I am giving to children of Israel; one man, one man from each tribe of his fathers you shall send, every one a leader among them."},{"verse":3,"restored":"Moses sent them from wilderness of Paran at mouth/command of YHWH; all of them were men, heads of children of Israel."},{"verse":4,"restored":"These were their names: from tribe of Reuben, Shammua son of Zaccur;"},{"verse":5,"restored":"from tribe of Simeon, Shaphat son of Hori;"},{"verse":6,"restored":"from tribe of Judah, Caleb son of Jephunneh;"},{"verse":7,"restored":"from tribe of Issachar, Igal son of Joseph;"},{"verse":8,"restored":"from tribe of Ephraim, Hoshea son of Nun;"},{"verse":9,"restored":"from tribe of Benjamin, Palti son of Raphu;"},{"verse":10,"restored":"from tribe of Zebulun, Gaddiel son of Sodi;"},{"verse":11,"restored":"from tribe of Joseph, from tribe of Manasseh, Gaddi son of Susi;"},{"verse":12,"restored":"from tribe of Dan, Ammiel son of Gemalli;"},{"verse":13,"restored":"from tribe of Asher, Sethur son of Michael;"},{"verse":14,"restored":"from tribe of Naphtali, Nahbi son of Vophsi;"},{"verse":15,"restored":"from tribe of Gad, Geuel son of Machi."},{"verse":16,"restored":"These are names of men Moses sent to scout land; Moses called Hoshea son of Nun, Joshua/Yehoshua."},{"verse":17,"restored":"Moses sent them to scout land of Canaan and said to them, Go up this way through Negev and go up into hill country."},{"verse":18,"restored":"See what land is, and people dwelling upon it, whether strong or weak, whether few or many;"},{"verse":19,"restored":"and what land is in which they dwell, whether good or bad; and what cities are in which they dwell, whether camps or fortifications;"},{"verse":20,"restored":"and what land is, whether fat or lean, whether there are trees in it or not. Strengthen yourselves and take from fruit of land. Now days were days of first-ripe grapes."},{"verse":21,"restored":"They went up and scouted land from wilderness of Zin to Rehob, toward entrance of Hamath."},{"verse":22,"restored":"They went up through Negev and came to Hebron, and there were Ahiman, Sheshai, and Talmai, descendants of Anak. Hebron had been built seven years before Zoan in Egypt."},{"verse":23,"restored":"They came to wadi of Eshcol and cut from there a branch with one cluster of grapes, and they carried it on a pole by two, with pomegranates and figs."},{"verse":24,"restored":"That place was called wadi Eshcol/Cluster because of cluster children of Israel cut from there."},{"verse":25,"restored":"They returned from scouting land at end of forty days."},{"verse":26,"restored":"They went and came to Moses and Aaron and all congregation of children of Israel, to wilderness of Paran at Kadesh; they brought back word to them and all congregation and showed them fruit of land."},{"verse":27,"restored":"They recounted to him and said, We came to land where you sent us; indeed it flows with milk and honey, and this is its fruit."},{"verse":28,"restored":"Nevertheless, people dwelling in land are strong, cities fortified and very great; moreover descendants of Anak we saw there."},{"verse":29,"restored":"Amalek dwells in land of Negev; Hittite, Jebusite, and Amorite dwell in hill country; and Canaanite dwells by sea and along side of Jordan."},{"verse":30,"restored":"Caleb quieted people before Moses and said, Surely we should go up and possess it, for surely we are able to prevail over it."},{"verse":31,"restored":"But men who went up with him said, We are not able to go up against people, for they are stronger than we."},{"verse":32,"restored":"They brought out an evil report of land that they had scouted to children of Israel, saying, Land through which we passed to scout it is a land eating its inhabitants, and all people whom we saw in its midst are men of great measure."},{"verse":33,"restored":"There we saw Nephilim—sons of Anak are from Nephilim—and we were in our own eyes like grasshoppers, and so we were in their eyes."}],"translation_notes":["The scouting mission belongs to an ancient conquest narrative. It must not be used to justify modern colonization, ethnic cleansing, land seizure, or displacement.","The inhabitants are named peoples with homes and cities; they must not be flattened into obstacles or racialized monsters.","Verse 16 preserves Hoshea's renaming as Joshua/Yehoshua.","The report moves from observable facts—fruit, population, fortifications—to fear-laden interpretation.","Nephilim and Anakim language is ancient giant/legendary-warrior rhetoric and requires lexical and reception-history audit.","'We were like grasshoppers' is the scouts' self-perception and projected assumption about others, not an objective statement of human worth."],"safety_note":"Do not use Numbers 13 to sanctify conquest, colonial expansion, racism, forced displacement, or dehumanization of indigenous peoples. Preserve the ancient narrative while distinguishing observation from fear-amplified rhetoric and refusing modern territorial weaponization."}
+{
+  "book": "Numbers",
+  "book_id": "numbers",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Numbers / Bemidbar scouting-of-Canaan text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for scout commission, tribal representatives, renaming of Hoshea/Joshua, land and produce report, fortified cities, Caleb's minority report, and fear rhetoric about Anakim/Nephilim. Strong anti-colonial, anti-racist, and anti-dehumanization safeguards required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Send for yourself men, and let them scout land of Canaan, which I am giving to children of Israel; one man, one man from each tribe of his fathers you shall send, every one a leader among them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Send thou men, that they may search the land of Canaan, which I give unto the children of Israel: of every tribe of their fathers shall ye send a man, every one a ruler among them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Moses sent them from wilderness of Paran at mouth/command of YHWH; all of them were men, heads of children of Israel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses by the commandment of the LORD sent them from the wilderness of Paran: all those men were heads of the children of Israel."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "These were their names: from tribe of Reuben, Shammua son of Zaccur;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And these were their names: of the tribe of Reuben, Shammua the son of Zaccur."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "from tribe of Simeon, Shaphat son of Hori;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Simeon, Shaphat the son of Hori."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "from tribe of Judah, Caleb son of Jephunneh;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Judah, Caleb the son of Jephunneh."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "from tribe of Issachar, Igal son of Joseph;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Issachar, Igal the son of Joseph."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "from tribe of Ephraim, Hoshea son of Nun;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Ephraim, Oshea the son of Nun."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "from tribe of Benjamin, Palti son of Raphu;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Benjamin, Palti the son of Raphu."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "from tribe of Zebulun, Gaddiel son of Sodi;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Zebulun, Gaddiel the son of Sodi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "from tribe of Joseph, from tribe of Manasseh, Gaddi son of Susi;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "from tribe of Dan, Ammiel son of Gemalli;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Dan, Ammiel the son of Gemalli."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "from tribe of Asher, Sethur son of Michael;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Asher, Sethur the son of Michael."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "from tribe of Naphtali, Nahbi son of Vophsi;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Naphtali, Nahbi the son of Vophsi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "from tribe of Gad, Geuel son of Machi.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of the tribe of Gad, Geuel the son of Machi."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "These are names of men Moses sent to scout land; Moses called Hoshea son of Nun, Joshua/Yehoshua.",
+      "familiar": {
+        "source": "KJV",
+        "text": "These are the names of the men which Moses sent to spy out the land. And Moses called Oshea the son of Nun Jehoshua."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Moses sent them to scout land of Canaan and said to them, Go up this way through Negev and go up into hill country.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses sent them to spy out the land of Canaan, and said unto them, Get you up this way southward, and go up into the mountain:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "See what land is, and people dwelling upon it, whether strong or weak, whether few or many;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And see the land, what it is; and the people that dwelleth therein, whether they be strong or weak, few or many;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "and what land is in which they dwell, whether good or bad; and what cities are in which they dwell, whether camps or fortifications;",
+      "familiar": {
+        "source": "KJV",
+        "text": "And what the land is that they dwell in, whether it be good or bad; and what cities they be that they dwell in, whether in tents, or in strong holds;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "and what land is, whether fat or lean, whether there are trees in it or not. Strengthen yourselves and take from fruit of land. Now days were days of first-ripe grapes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And what the land is, whether it be fat or lean, whether there be wood therein, or not. And be ye of good courage, and bring of the fruit of the land. Now the time was the time of the firstripe grapes."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "They went up and scouted land from wilderness of Zin to Rehob, toward entrance of Hamath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "They went up through Negev and came to Hebron, and there were Ahiman, Sheshai, and Talmai, descendants of Anak. Hebron had been built seven years before Zoan in Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "They came to wadi of Eshcol and cut from there a branch with one cluster of grapes, and they carried it on a pole by two, with pomegranates and figs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "That place was called wadi Eshcol/Cluster because of cluster children of Israel cut from there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The place was called the brook Eshcol, because of the cluster of grapes which the children of Israel cut down from thence."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 25,
+      "restored": "They returned from scouting land at end of forty days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they returned from searching of the land after forty days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "They went and came to Moses and Aaron and all congregation of children of Israel, to wilderness of Paran at Kadesh; they brought back word to them and all congregation and showed them fruit of land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 27,
+      "restored": "They recounted to him and said, We came to land where you sent us; indeed it flows with milk and honey, and this is its fruit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "Nevertheless, people dwelling in land are strong, cities fortified and very great; moreover descendants of Anak we saw there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 29,
+      "restored": "Amalek dwells in land of Negev; Hittite, Jebusite, and Amorite dwell in hill country; and Canaanite dwells by sea and along side of Jordan.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "amalek-reception-risk"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "modern-targeting-prohibited",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 30,
+      "restored": "Caleb quieted people before Moses and said, Surely we should go up and possess it, for surely we are able to prevail over it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Caleb stilled the people before Moses, and said, Let us go up at once, and possess it; for we are well able to overcome it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "But men who went up with him said, We are not able to go up against people, for they are stronger than we.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the men that went up with him said, We be not able to go up against the people; for they are stronger than we."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 32,
+      "restored": "They brought out an evil report of land that they had scouted to children of Israel, saying, Land through which we passed to scout it is a land eating its inhabitants, and all people whom we saw in its midst are men of great measure.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 33,
+      "restored": "There we saw Nephilim—sons of Anak are from Nephilim—and we were in our own eyes like grasshoppers, and so we were in their eyes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "The scouting mission belongs to an ancient conquest narrative. It must not be used to justify modern colonization, ethnic cleansing, land seizure, or displacement.",
+    "The inhabitants are named peoples with homes and cities; they must not be flattened into obstacles or racialized monsters.",
+    "Verse 16 preserves Hoshea's renaming as Joshua/Yehoshua.",
+    "The report moves from observable facts—fruit, population, fortifications—to fear-laden interpretation.",
+    "Nephilim and Anakim language is ancient giant/legendary-warrior rhetoric and requires lexical and reception-history audit.",
+    "'We were like grasshoppers' is the scouts' self-perception and projected assumption about others, not an objective statement of human worth."
+  ],
+  "safety_note": "Do not use Numbers 13 to sanctify conquest, colonial expansion, racism, forced displacement, or dehumanization of indigenous peoples. Preserve the ancient narrative while distinguishing observation from fear-amplified rhetoric and refusing modern territorial weaponization.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-2-of-33",
+    "tags": "partial-20-of-33",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-6-of-33",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

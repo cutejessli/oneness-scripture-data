@@ -1,1 +1,760 @@
-{"book":"Exodus","book_id":"exodus","chapter":30,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot sanctuary instruction text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for incense altar, ransom/census silver, bronze basin, anointing oil, incense blend, holiness restrictions."},"verses":[{"verse":1,"restored":"You shall make altar for burning incense; of acacia wood you shall make it."},{"verse":2,"restored":"A cubit its length and a cubit its width, square it shall be, and two cubits its height; its horns from it."},{"verse":3,"restored":"Overlay it with pure gold, its top, sides all around, and horns; make for it gold molding all around."},{"verse":4,"restored":"Two gold rings make for it under molding on two sides; make on two sides, as housings for poles to carry it."},{"verse":5,"restored":"Make poles of acacia wood and overlay them with gold."},{"verse":6,"restored":"Put it before veil that is over ark of testimony, before cover over testimony, where I meet with you."},{"verse":7,"restored":"Aaron shall burn on it fragrant incense morning by morning; when he dresses lamps, he shall burn it."},{"verse":8,"restored":"And when Aaron raises lamps between evenings, he shall burn it, continual incense before YHWH throughout generations."},{"verse":9,"restored":"You shall not offer upon it strange incense, burnt offering, grain offering, and drink offering you shall not pour on it."},{"verse":10,"restored":"Aaron shall make atonement on its horns once in year with blood/life of sin/misalignment offering of atonements; once in year he shall make atonement upon it throughout generations. Holy of Holies it is to YHWH."},{"verse":11,"restored":"YHWH spoke to Moses, saying,"},{"verse":12,"restored":"When you lift head of children of Israel according to their counted ones, each shall give ransom/covering of one's soul/life to YHWH when counting them, so no plague be among them when counting."},{"verse":13,"restored":"This they shall give, everyone passing over to counted ones: half shekel by shekel of sanctuary, twenty gerahs the shekel; half shekel as contribution to YHWH."},{"verse":14,"restored":"Everyone passing over to counted ones, from son of twenty years and upward, shall give contribution of YHWH."},{"verse":15,"restored":"The rich shall not increase and poor shall not diminish from half shekel, to give contribution of YHWH to make atonement over your souls/lives."},{"verse":16,"restored":"Take silver of atonements from children of Israel and give it for service of tent of meeting; it shall be for children of Israel as memorial before YHWH, to make atonement over your souls/lives."},{"verse":17,"restored":"YHWH spoke to Moses, saying,"},{"verse":18,"restored":"Make bronze basin and bronze stand for washing; put it between tent of meeting and altar, and put water there."},{"verse":19,"restored":"Aaron and his sons shall wash from it their hands and their feet."},{"verse":20,"restored":"When they enter tent of meeting, they shall wash with water so they do not die; or when they approach altar to minister, to turn smoke of fire-offering to YHWH."},{"verse":21,"restored":"They shall wash their hands and feet so they do not die; it shall be age-long statute for them, for him and his seed throughout generations."},{"verse":22,"restored":"YHWH spoke to Moses, saying,"},{"verse":23,"restored":"You take for yourself chief spices: flowing myrrh five hundred, fragrant cinnamon half of it, two hundred fifty, fragrant cane two hundred fifty,"},{"verse":24,"restored":"cassia five hundred by sanctuary shekel, and olive oil a hin."},{"verse":25,"restored":"Make it holy anointing oil, perfume mixture, work of perfumer; holy anointing oil it shall be."},{"verse":26,"restored":"Anoint with it tent of meeting and ark of testimony,"},{"verse":27,"restored":"table and all its vessels, lampstand and its vessels, incense altar,"},{"verse":28,"restored":"altar of burnt offering and all its vessels, basin and its stand."},{"verse":29,"restored":"Sanctify them, and they shall be Holy of Holies; all touching them shall be holy."},{"verse":30,"restored":"Aaron and his sons you shall anoint, and sanctify them to serve as priests to me."},{"verse":31,"restored":"To children of Israel speak, saying, Holy anointing oil this shall be to me throughout your generations."},{"verse":32,"restored":"Upon flesh of human it shall not be poured, and by its composition you shall not make like it; holy it is, holy it shall be to you."},{"verse":33,"restored":"Whoever mixes like it or puts from it on stranger shall be cut off from one's people."},{"verse":34,"restored":"YHWH said to Moses, Take for yourself fragrant spices: stacte, onycha, galbanum, fragrant spices with pure frankincense; equal part to equal part shall it be."},{"verse":35,"restored":"Make it incense, perfume mixture, work of perfumer, salted, pure, holy."},{"verse":36,"restored":"Beat some of it very fine, and put some before testimony in tent of meeting where I meet with you; Holy of Holies it shall be to you."},{"verse":37,"restored":"The incense you make, by its composition you shall not make for yourselves; holy to YHWH it shall be to you."},{"verse":38,"restored":"Whoever makes like it to smell it shall be cut off from one's people."}],"translation_notes":["Incense altar is tied to lamp tending morning/evening: fragrance and light rhythms are linked.","Census silver is equal for rich and poor; life-value before YHWH is not scaled by wealth.","Basin washing marks priestly approach with bodily preparation and ritual safety.","Anointing oil/incense restrictions protect holy mixtures from ordinary/private appropriation."],"safety_note":"Do not use census/ransom language to imply richer lives are worth more; the text explicitly forbids rich increasing or poor decreasing the half-shekel."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 30,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot sanctuary instruction text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for incense altar, ransom/census silver, bronze basin, anointing oil, incense blend, holiness restrictions."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "You shall make altar for burning incense; of acacia wood you shall make it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt make an altar to burn incense upon: of shittim wood shalt thou make it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "A cubit its length and a cubit its width, square it shall be, and two cubits its height; its horns from it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A cubit shall be the length thereof, and a cubit the breadth thereof; foursquare shall it be: and two cubits shall be the height thereof: the horns thereof shall be of the same."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Overlay it with pure gold, its top, sides all around, and horns; make for it gold molding all around.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt overlay it with pure gold, the top thereof, and the sides thereof round about, and the horns thereof; and thou shalt make unto it a crown of gold round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Two gold rings make for it under molding on two sides; make on two sides, as housings for poles to carry it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Make poles of acacia wood and overlay them with gold.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt make the staves of shittim wood, and overlay them with gold."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Put it before veil that is over ark of testimony, before cover over testimony, where I meet with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt put it before the vail that is by the ark of the testimony, before the mercy seat that is over the testimony, where I will meet with thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Aaron shall burn on it fragrant incense morning by morning; when he dresses lamps, he shall burn it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron shall burn thereon sweet incense every morning: when he dresseth the lamps, he shall burn incense upon it."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And when Aaron raises lamps between evenings, he shall burn it, continual incense before YHWH throughout generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when Aaron lighteth the lamps at even, he shall burn incense upon it, a perpetual incense before the LORD throughout your generations."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "You shall not offer upon it strange incense, burnt offering, grain offering, and drink offering you shall not pour on it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye shall offer no strange incense thereon, nor burnt sacrifice, nor meat offering; neither shall ye pour drink offering thereon."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Aaron shall make atonement on its horns once in year with blood/life of sin/misalignment offering of atonements; once in year he shall make atonement upon it throughout generations. Holy of Holies it is to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Aaron shall make an atonement upon the horns of it once in a year with the blood of the sin offering of atonements: once in the year shall he make atonement upon it throughout your generations: it is most holy unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "When you lift head of children of Israel according to their counted ones, each shall give ransom/covering of one's soul/life to YHWH when counting them, so no plague be among them when counting.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the LORD, when thou numberest them; that there be no plague among them, when thou numberest them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "This they shall give, everyone passing over to counted ones: half shekel by shekel of sanctuary, twenty gerahs the shekel; half shekel as contribution to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This they shall give, every one that passeth among them that are numbered, half a shekel after the shekel of the sanctuary: (a shekel is twenty gerahs:) an half shekel shall be the offering of the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Everyone passing over to counted ones, from son of twenty years and upward, shall give contribution of YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Every one that passeth among them that are numbered, from twenty years old and above, shall give an offering unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "The rich shall not increase and poor shall not diminish from half shekel, to give contribution of YHWH to make atonement over your souls/lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the LORD, to make an atonement for your souls."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Take silver of atonements from children of Israel and give it for service of tent of meeting; it shall be for children of Israel as memorial before YHWH, to make atonement over your souls/lives.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt take the atonement money of the children of Israel, and shalt appoint it for the service of the tabernacle of the congregation; that it may be a memorial unto the children of Israel before the LORD, to make an atonement for your souls."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Make bronze basin and bronze stand for washing; put it between tent of meeting and altar, and put water there.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt also make a laver of brass, and his foot also of brass, to wash withal: and thou shalt put it between the tabernacle of the congregation and the altar, and thou shalt put water therein."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Aaron and his sons shall wash from it their hands and their feet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For Aaron and his sons shall wash their hands and their feet thereat:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "When they enter tent of meeting, they shall wash with water so they do not die; or when they approach altar to minister, to turn smoke of fire-offering to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the LORD:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 21,
+      "restored": "They shall wash their hands and feet so they do not die; it shall be age-long statute for them, for him and his seed throughout generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "You take for yourself chief spices: flowing myrrh five hundred, fragrant cinnamon half of it, two hundred fifty, fragrant cane two hundred fifty,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Take thou also unto thee principal spices, of pure myrrh five hundred shekels, and of sweet cinnamon half so much, even two hundred and fifty shekels, and of sweet calamus two hundred and fifty shekels,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "cassia five hundred by sanctuary shekel, and olive oil a hin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of cassia five hundred shekels, after the shekel of the sanctuary, and of oil olive an hin:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Make it holy anointing oil, perfume mixture, work of perfumer; holy anointing oil it shall be.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt make it an oil of holy ointment, an ointment compound after the art of the apothecary: it shall be an holy anointing oil."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "Anoint with it tent of meeting and ark of testimony,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt anoint the tabernacle of the congregation therewith, and the ark of the testimony,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "ark",
+          "source": "aron",
+          "language": "Hebrew",
+          "glossary_id": "aron",
+          "transliteration": "aron"
+        }
+      ],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "table and all its vessels, lampstand and its vessels, incense altar,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the table and all his vessels, and the candlestick and his vessels, and the altar of incense,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "altar of burnt offering and all its vessels, basin and its stand.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the altar of burnt offering with all his vessels, and the laver and his foot."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "sacrifice-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 29,
+      "restored": "Sanctify them, and they shall be Holy of Holies; all touching them shall be holy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt sanctify them, that they may be most holy: whatsoever toucheth them shall be holy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 30,
+      "restored": "Aaron and his sons you shall anoint, and sanctify them to serve as priests to me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt anoint Aaron and his sons, and consecrate them, that they may minister unto me in the priest’s office."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 31,
+      "restored": "To children of Israel speak, saying, Holy anointing oil this shall be to me throughout your generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt speak unto the children of Israel, saying, This shall be an holy anointing oil unto me throughout your generations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 32,
+      "restored": "Upon flesh of human it shall not be poured, and by its composition you shall not make like it; holy it is, holy it shall be to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Upon man’s flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 33,
+      "restored": "Whoever mixes like it or puts from it on stranger shall be cut off from one's people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever compoundeth any like it, or whosoever putteth any of it upon a stranger, shall even be cut off from his people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "foreigner-migrant"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "migrant-dignity"
+      ]
+    },
+    {
+      "verse": 34,
+      "restored": "YHWH said to Moses, Take for yourself fragrant spices: stacte, onycha, galbanum, fragrant spices with pure frankincense; equal part to equal part shall it be.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD said unto Moses, Take unto thee sweet spices, stacte, and onycha, and galbanum; these sweet spices with pure frankincense: of each shall there be a like weight:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 35,
+      "restored": "Make it incense, perfume mixture, work of perfumer, salted, pure, holy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt make it a perfume, a confection after the art of the apothecary, tempered together, pure and holy:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 36,
+      "restored": "Beat some of it very fine, and put some before testimony in tent of meeting where I meet with you; Holy of Holies it shall be to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt beat some of it very small, and put of it before the testimony in the tabernacle of the congregation, where I will meet with thee: it shall be unto you most holy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 37,
+      "restored": "The incense you make, by its composition you shall not make for yourselves; holy to YHWH it shall be to you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And as for the perfume which thou shalt make, ye shall not make to yourselves according to the composition thereof: it shall be unto thee holy for the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 38,
+      "restored": "Whoever makes like it to smell it shall be cut off from one's people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Whosoever shall make like unto that, to smell thereto, shall even be cut off from his people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "Incense altar is tied to lamp tending morning/evening: fragrance and light rhythms are linked.",
+    "Census silver is equal for rich and poor; life-value before YHWH is not scaled by wealth.",
+    "Basin washing marks priestly approach with bodily preparation and ritual safety.",
+    "Anointing oil/incense restrictions protect holy mixtures from ordinary/private appropriation."
+  ],
+  "safety_note": "Do not use census/ransom language to imply richer lives are worth more; the text explicitly forbids rich increasing or poor decreasing the half-shekel.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-18-of-38",
+    "tags": "partial-18-of-38",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-10-of-38",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

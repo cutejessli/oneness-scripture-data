@@ -1,1 +1,469 @@
-{"book":"Exodus","book_id":"exodus","chapter":13,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later","review_note":"First-pass draft reviewed for consecration of firstborn, unleavened bread memorial, teaching children, route by wilderness, Joseph's bones, pillar of cloud/fire."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"Consecrate to me every firstborn, opening every womb among children of Israel, among human and among beast; it is mine."},{"verse":3,"restored":"Moses said to the people, Remember this day on which you went out from Egypt, from house of servants/slaves, for by strength of hand YHWH brought you out from this; and no leavened bread shall be eaten."},{"verse":4,"restored":"Today you are going out, in month of Aviv."},{"verse":5,"restored":"And it shall be when YHWH brings you into land of Canaanite, Hittite, Amorite, Hivite, and Jebusite, which he swore to your fathers to give you, a land flowing with milk and honey, that you shall serve this service in this month."},{"verse":6,"restored":"Seven days you shall eat unleavened bread, and on seventh day festival to YHWH."},{"verse":7,"restored":"Unleavened bread shall be eaten seven days; no leavened bread shall be seen with you, and no leaven shall be seen with you in all your border."},{"verse":8,"restored":"You shall tell your child on that day, saying, It is because of what YHWH did for me when I came out from Egypt."},{"verse":9,"restored":"It shall be for you as sign upon your hand and as memorial between your eyes, so that Torah/instruction of YHWH may be in your mouth, for with strong hand YHWH brought you out from Egypt."},{"verse":10,"restored":"You shall keep this statute at its appointed time from days to days."},{"verse":11,"restored":"And it shall be when YHWH brings you into land of Canaanite, as he swore to you and your fathers, and gives it to you,"},{"verse":12,"restored":"you shall make pass over to YHWH every opener of womb, and every opener of young among beasts that belongs to you; the males are YHWH's."},{"verse":13,"restored":"Every firstborn donkey you shall redeem with lamb; and if you do not redeem, you shall break its neck. Every firstborn of human among your sons you shall redeem."},{"verse":14,"restored":"And it shall be when your child asks you tomorrow, saying, What is this? you shall say to him, By strength of hand YHWH brought us out from Egypt, from house of servants/slaves."},{"verse":15,"restored":"And it happened, when Pharaoh was hard against sending us, YHWH killed every firstborn in land of Egypt, from firstborn of human to firstborn of beast; therefore I sacrifice to YHWH every opener of womb, the males, and every firstborn of my sons I redeem."},{"verse":16,"restored":"It shall be as sign upon your hand and as bands between your eyes, for by strength of hand YHWH brought us out from Egypt."},{"verse":17,"restored":"When Pharaoh sent the people, Divine did not lead them by way of land of Philistines, though it was near, for Divine said, Lest the people change mind when they see war and return to Egypt."},{"verse":18,"restored":"So Divine turned the people by way of wilderness toward Sea of Reeds; and children of Israel went up armed/arrayed from land of Egypt."},{"verse":19,"restored":"Moses took bones of Joseph with him, for he had made children of Israel surely swear, saying, Visiting, Divine will visit you, and you shall bring up my bones from this with you."},{"verse":20,"restored":"They journeyed from Succoth and camped at Etham, at edge of wilderness."},{"verse":21,"restored":"YHWH went before them by day in pillar of cloud to guide them by the way, and by night in pillar of fire to give them light, so they could go by day and by night."},{"verse":22,"restored":"The pillar of cloud by day and pillar of fire by night did not turn aside from before the people."}],"translation_notes":["Firstborn consecration responds to firstborn deliverance/judgment with redemption, not death as ongoing practice.","Unleavened bread is pedagogy: children ask, parents narrate liberation.","Torah/instruction in mouth, hand, and between eyes roots command in embodied memory.","Sea of Reeds is used rather than Red Sea; route avoids immediate war as trauma-aware Divine guidance.","Joseph's bones preserve Genesis-to-Exodus continuity."],"safety_note":"Named land peoples require later ethical audit. Firstborn language should emphasize redemption of human firstborn and memory of liberation, not ongoing violence."}
+{
+  "book": "Exodus",
+  "book_id": "exodus",
+  "chapter": 13,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Exodus / Shemot text tradition, draft aligned to public-domain comparison layer later",
+    "review_note": "First-pass draft reviewed for consecration of firstborn, unleavened bread memorial, teaching children, route by wilderness, Joseph's bones, pillar of cloud/fire."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Consecrate to me every firstborn, opening every womb among children of Israel, among human and among beast; it is mine.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Moses said to the people, Remember this day on which you went out from Egypt, from house of servants/slaves, for by strength of hand YHWH brought you out from this; and no leavened bread shall be eaten.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Today you are going out, in month of Aviv.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This day came ye out in the month Abib."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And it shall be when YHWH brings you into land of Canaanite, Hittite, Amorite, Hivite, and Jebusite, which he swore to your fathers to give you, a land flowing with milk and honey, that you shall serve this service in this month.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Seven days you shall eat unleavened bread, and on seventh day festival to YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Unleavened bread shall be eaten seven days; no leavened bread shall be seen with you, and no leaven shall be seen with you in all your border.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "You shall tell your child on that day, saying, It is because of what YHWH did for me when I came out from Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "It shall be for you as sign upon your hand and as memorial between your eyes, so that Torah/instruction of YHWH may be in your mouth, for with strong hand YHWH brought you out from Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’s law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "You shall keep this statute at its appointed time from days to days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt therefore keep this ordinance in his season from year to year."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And it shall be when YHWH brings you into land of Canaanite, as he swore to you and your fathers, and gives it to you,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "you shall make pass over to YHWH every opener of womb, and every opener of young among beasts that belongs to you; the males are YHWH's.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’s."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Every firstborn donkey you shall redeem with lamb; and if you do not redeem, you shall break its neck. Every firstborn of human among your sons you shall redeem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And it shall be when your child asks you tomorrow, saying, What is this? you shall say to him, By strength of hand YHWH brought us out from Egypt, from house of servants/slaves.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "labor-power",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "labor-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "And it happened, when Pharaoh was hard against sending us, YHWH killed every firstborn in land of Egypt, from firstborn of human to firstborn of beast; therefore I sacrifice to YHWH every opener of womb, the males, and every firstborn of my sons I redeem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [
+        "war-violence",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "It shall be as sign upon your hand and as bands between your eyes, for by strength of hand YHWH brought us out from Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "When Pharaoh sent the people, Divine did not lead them by way of land of Philistines, though it was near, for Divine said, Lest the people change mind when they see war and return to Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "war-violence",
+        "ancient-people"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "violence-description-not-endorsement",
+        "ancient-name-not-modern-target"
+      ]
+    },
+    {
+      "verse": 18,
+      "restored": "So Divine turned the people by way of wilderness toward Sea of Reeds; and children of Israel went up armed/arrayed from land of Egypt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Moses took bones of Joseph with him, for he had made children of Israel surely swear, saying, Visiting, Divine will visit you, and you shall bring up my bones from this with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "They journeyed from Succoth and camped at Etham, at edge of wilderness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "YHWH went before them by day in pillar of cloud to guide them by the way, and by night in pillar of fire to give them light, so they could go by day and by night.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 22,
+      "restored": "The pillar of cloud by day and pillar of fire by night did not turn aside from before the people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Firstborn consecration responds to firstborn deliverance/judgment with redemption, not death as ongoing practice.",
+    "Unleavened bread is pedagogy: children ask, parents narrate liberation.",
+    "Torah/instruction in mouth, hand, and between eyes roots command in embodied memory.",
+    "Sea of Reeds is used rather than Red Sea; route avoids immediate war as trauma-aware Divine guidance.",
+    "Joseph's bones preserve Genesis-to-Exodus continuity."
+  ],
+  "safety_note": "Named land peoples require later ethical audit. Firstborn language should emphasize redemption of human firstborn and memory of liberation, not ongoing violence.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-12-of-22",
+    "tags": "partial-9-of-22",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-12-of-22",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}

@@ -1,1 +1,223 @@
-{"book":"Leviticus","book_id":"leviticus","chapter":12,"audit_status":{"status":"source-audited-draft","source_base":"Hebrew Leviticus / Vayiqra childbirth purification text tradition, draft aligned later","review_note":"First-pass draft reviewed for childbirth blood/purification, male/female birth durations, circumcision on eighth day, offerings, and poverty provision. Strong anti-body-shame safeguards required."},"verses":[{"verse":1,"restored":"YHWH spoke to Moses, saying,"},{"verse":2,"restored":"Speak to children of Israel, saying: When a woman conceives seed and bears a male, she shall be unclean seven days; as in days of impurity of her menstruation she shall be unclean."},{"verse":3,"restored":"On eighth day flesh of his foreskin shall be circumcised."},{"verse":4,"restored":"Thirty-three days she shall remain in bloods of purification; she shall not touch any holy thing and shall not come into sanctuary until days of her purification are fulfilled."},{"verse":5,"restored":"If she bears a female, she shall be unclean two weeks as in her menstruation, and sixty-six days she shall remain over bloods of purification."},{"verse":6,"restored":"When days of her purification are fulfilled, for son or for daughter, she shall bring lamb, son of a year, for burnt offering, and son of pigeon or turtledove for sin/purification offering to entrance of tent of meeting, to priest."},{"verse":7,"restored":"He shall bring it near before YHWH and make atonement/covering for her, and she shall be clean from flow/source of her bloods. This is Torah/instruction for one giving birth, for male or female."},{"verse":8,"restored":"If her hand does not find enough for lamb, she shall take two turtledoves or two sons of pigeon, one for burnt offering and one for sin/purification offering; priest shall make atonement/covering for her, and she shall be clean."}],"translation_notes":["Childbirth impurity is ritual-state language tied to blood/life and sanctuary approach, not moral fault, sexual shame, or disgust toward mother or baby.","Bloods of purification should be preserved; it does not mean the mother sinned by giving birth.","Different durations for male/female birth require historical/source and gender-ethics audit; do not explain away too quickly.","Bird offering option protects access for poor mothers."],"safety_note":"Do not use Leviticus 12 to shame pregnancy, birth, menstruation, postpartum bodies, women, girls, or mothers. The chapter is ancient ritual-state instruction around birth and sanctuary timing, with an accessible offering for poverty."}
+{
+  "book": "Leviticus",
+  "book_id": "leviticus",
+  "chapter": 12,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew Leviticus / Vayiqra childbirth purification text tradition, draft aligned later",
+    "review_note": "First-pass draft reviewed for childbirth blood/purification, male/female birth durations, circumcision on eighth day, offerings, and poverty provision. Strong anti-body-shame safeguards required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH spoke to Moses, saying,",
+      "familiar": {
+        "source": "KJV",
+        "text": "And the LORD spake unto Moses, saying,"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Speak to children of Israel, saying: When a woman conceives seed and bears a male, she shall be unclean seven days; as in days of impurity of her menstruation she shall be unclean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "women-gender",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "On eighth day flesh of his foreskin shall be circumcised.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And in the eighth day the flesh of his foreskin shall be circumcised."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Thirty-three days she shall remain in bloods of purification; she shall not touch any holy thing and shall not come into sanctuary until days of her purification are fulfilled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "sacred-space"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "If she bears a female, she shall be unclean two weeks as in her menstruation, and sixty-six days she shall remain over bloods of purification.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "When days of her purification are fulfilled, for son or for daughter, she shall bring lamb, son of a year, for burnt offering, and son of pigeon or turtledove for sin/purification offering to entrance of tent of meeting, to priest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "women-gender",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "gender-power-audit",
+        "child-harm-audit"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He shall bring it near before YHWH and make atonement/covering for her, and she shall be clean from flow/source of her bloods. This is Torah/instruction for one giving birth, for male or female.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "YHWH",
+          "language": "Hebrew",
+          "glossary_id": "yhwh",
+          "transliteration": "YHWH"
+        }
+      ],
+      "tags": [],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "If her hand does not find enough for lamb, she shall take two turtledoves or two sons of pigeon, one for burnt offering and one for sin/purification offering; priest shall make atonement/covering for her, and she shall be clean.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "priest",
+          "source": "kohen",
+          "language": "Hebrew",
+          "glossary_id": "kohen",
+          "transliteration": "kohen"
+        },
+        {
+          "display": "offering",
+          "source": "qorban",
+          "language": "Hebrew",
+          "glossary_id": "qorban",
+          "transliteration": "qorban"
+        },
+        {
+          "display": "burnt offering",
+          "source": "olah",
+          "language": "Hebrew",
+          "glossary_id": "olah",
+          "transliteration": "olah"
+        }
+      ],
+      "tags": [
+        "religious-authority",
+        "sacrifice-worship",
+        "family-lineage"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "child-harm-audit"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "Childbirth impurity is ritual-state language tied to blood/life and sanctuary approach, not moral fault, sexual shame, or disgust toward mother or baby.",
+    "Bloods of purification should be preserved; it does not mean the mother sinned by giving birth.",
+    "Different durations for male/female birth require historical/source and gender-ethics audit; do not explain away too quickly.",
+    "Bird offering option protects access for poor mothers."
+  ],
+  "safety_note": "Do not use Leviticus 12 to shame pregnancy, birth, menstruation, postpartum bodies, women, girls, or mothers. The chapter is ancient ritual-state instruction around birth and sanctuary timing, with an accessible offering for poverty.",
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "pending-deep-backfill",
+    "source_terms": "partial-4-of-8",
+    "tags": "partial-4-of-8",
+    "cross_references": "pending-deep-backfill",
+    "editorial_flags": "partial-3-of-8",
+    "mystical_companion": "separate-file"
+  },
+  "backfill_status": {
+    "status": "baseline-rich-layer-backfilled",
+    "basis": "Genesis-style verse schema",
+    "preserved_restored_text": true,
+    "familiar_layer": "complete-when-source-aligned",
+    "deeper_linguistic_notes": "continue-in-deep-backfill-pass",
+    "batch_version": 2
+  }
+}
