@@ -32,11 +32,11 @@ jobs:
       - name: Refresh main
         run: git pull --ff-only origin main
 
-      - name: Download public-domain World English Bible USFM
+      - name: Download current public-domain Berean Standard Bible USFM
         run: |
-          mkdir -p /tmp/web-usfm
-          curl -L --fail --retry 3 https://ebible.org/Scriptures/engwebp_usfm.zip -o /tmp/engwebp_usfm.zip
-          unzip -q /tmp/engwebp_usfm.zip -d /tmp/web-usfm
+          mkdir -p /tmp/modern-usfm
+          curl -L --fail --retry 3 https://bereanbible.com/bsb_usfm.zip -o /tmp/bsb_usfm.zip
+          unzip -q /tmp/bsb_usfm.zip -d /tmp/modern-usfm
 
       - name: Prepare Open Scriptures Hebrew Bible in English versification
         run: |
@@ -80,41 +80,74 @@ jobs:
           test -s hebrew.json
 
       - name: Prepare SBL Greek New Testament token data
-        run: |
-          git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/sblgnt
+        run: git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/sblgnt
 
-      - name: Backfill WEB and original-language layers
+      - name: Backfill BSB and original-language layers
         env:
-          WEB_USFM_DIR: /tmp/web-usfm
+          WEB_USFM_DIR: /tmp/modern-usfm
           OSHB_JSON: /tmp/morphhb/hebrew.json
           MORPHGNT_DIR: /tmp/sblgnt
-        run: node scripts/backfill-reference-layers.mjs
-
-      - name: Validate reference layer alignment
         run: |
+          node scripts/backfill-reference-layers.mjs
           node --input-type=module <<'NODE'
           import fs from 'node:fs';
           import path from 'node:path';
-          let chapters = 0;
-          let verses = 0;
-          let missingModern = 0;
-          let missingOriginal = 0;
           for (const d of fs.readdirSync('scripture', {withFileTypes:true}).filter(d=>d.isDirectory())) {
             const id = d.name;
             const dir = path.join('scripture', id);
             for (const name of fs.readdirSync(dir).filter(n => new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
-              const doc = JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
-              chapters++;
+              const p = path.join(dir,name);
+              const doc = JSON.parse(fs.readFileSync(p,'utf8'));
               for (const v of doc.verses || []) {
+                if (v.modern?.text) {
+                  v.modern.source = 'BSB';
+                  v.modern.edition = 'Berean Standard Bible, current 3rd Printing';
+                }
+              }
+              doc.reference_layers ||= {};
+              doc.reference_layers.modern = {
+                source: 'Berean Standard Bible',
+                edition: 'Current, updated to 3rd Printing',
+                license: 'Public Domain',
+                provenance: 'Official Berean Bible USFM download'
+              };
+              if (doc.verses?.every(v => v.modern?.text)) doc.layer_status.modern_comparison = 'complete-BSB';
+              fs.writeFileSync(p, JSON.stringify(doc,null,2)+'\n');
+            }
+          }
+          const reportPath = 'metadata/reference-layer-report.json';
+          if (fs.existsSync(reportPath)) {
+            const report = JSON.parse(fs.readFileSync(reportPath,'utf8'));
+            report.sources.modern = 'Berean Standard Bible, current 3rd Printing (Public Domain)';
+            fs.writeFileSync(reportPath, JSON.stringify(report,null,2)+'\n');
+          }
+          NODE
+
+      - name: Validate and identify any reference gaps
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          let chapters=0, verses=0;
+          const missingModern=[];
+          const missingOriginal=[];
+          for (const d of fs.readdirSync('scripture', {withFileTypes:true}).filter(d=>d.isDirectory())) {
+            const id=d.name, dir=path.join('scripture',id);
+            for (const name of fs.readdirSync(dir).filter(n=>new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
+              const doc=JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
+              chapters++;
+              for (const v of doc.verses||[]) {
                 verses++;
-                if (!v.modern?.text) missingModern++;
-                if (!v.original?.text) missingOriginal++;
+                const ref=`${id} ${doc.chapter}:${v.verse}`;
+                if(!v.modern?.text) missingModern.push(ref);
+                if(!v.original?.text) missingOriginal.push(ref);
               }
             }
           }
-          console.log({chapters, verses, missingModern, missingOriginal});
-          if (missingModern > 0) throw new Error(`WEB modern layer missing on ${missingModern} verses`);
-          if (missingOriginal > 0) throw new Error(`Original-language layer missing on ${missingOriginal} verses`);
+          console.log({chapters,verses,missingModernCount:missingModern.length,missingOriginalCount:missingOriginal.length});
+          if(missingModern.length) console.log('Missing modern:', missingModern.join(', '));
+          if(missingOriginal.length) console.log('Missing original:', missingOriginal.join(', '));
+          if(missingModern.length || missingOriginal.length) throw new Error('Reference-layer alignment gaps remain');
           NODE
 
       - name: Commit reference layers
@@ -126,6 +159,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add scripture metadata/reference-layer-report.json
-          git commit -m "Backfill WEB and original-language reference layers"
+          git commit -m "Backfill BSB and original-language reference layers"
           git pull --rebase origin main
           git push
