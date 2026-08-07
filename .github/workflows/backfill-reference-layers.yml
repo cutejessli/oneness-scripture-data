@@ -40,9 +40,17 @@ jobs:
 
       - name: Prepare Open Scriptures Hebrew Bible in English versification
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq libalgorithm-diff-perl libjson-perl libxml-libxml-perl libclone-perl libhash-merge-perl
           git clone --depth 1 https://github.com/openscriptures/morphhb.git /tmp/morphhb
           cd /tmp/morphhb
-          perl morphhbXML-to-JSON.pl --prefixLemmasWithH --remapVerses
+          perl morphhbXML-to-JSON.pl
+          test -s index.js
+          node - <<'NODE'
+          const fs = require('fs');
+          const data = require('/tmp/morphhb/index.js');
+          fs.writeFileSync('/tmp/morphhb/hebrew.json', JSON.stringify(data));
+          NODE
           test -s hebrew.json
 
       - name: Prepare SBL Greek New Testament token data
