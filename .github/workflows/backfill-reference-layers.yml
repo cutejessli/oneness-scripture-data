@@ -1,0 +1,97 @@
+name: Backfill modern and original scripture reference layers
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/backfill-reference-layers.yml"
+      - "scripts/backfill-reference-layers.mjs"
+  workflow_dispatch:
+  workflow_run:
+    workflows: ["Finish remaining Oneness Scripture canon"]
+    types: [completed]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oneness-reference-layer-backfill
+  cancel-in-progress: false
+
+jobs:
+  backfill:
+    if: github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Refresh main
+        run: git pull --ff-only origin main
+
+      - name: Download public-domain World English Bible USFM
+        run: |
+          mkdir -p /tmp/web-usfm
+          curl -L --fail --retry 3 https://ebible.org/Scriptures/engwebp_usfm.zip -o /tmp/engwebp_usfm.zip
+          unzip -q /tmp/engwebp_usfm.zip -d /tmp/web-usfm
+
+      - name: Prepare Open Scriptures Hebrew Bible in English versification
+        run: |
+          git clone --depth 1 https://github.com/openscriptures/morphhb.git /tmp/morphhb
+          cd /tmp/morphhb
+          perl morphhbXML-to-JSON.pl --prefixLemmasWithH --remapVerses
+          test -s hebrew.json
+
+      - name: Prepare SBL Greek New Testament token data
+        run: |
+          git clone --depth 1 https://github.com/morphgnt/sblgnt.git /tmp/sblgnt
+
+      - name: Backfill WEB and original-language layers
+        env:
+          WEB_USFM_DIR: /tmp/web-usfm
+          OSHB_JSON: /tmp/morphhb/hebrew.json
+          MORPHGNT_DIR: /tmp/sblgnt
+        run: node scripts/backfill-reference-layers.mjs
+
+      - name: Validate reference layer alignment
+        run: |
+          node --input-type=module <<'NODE'
+          import fs from 'node:fs';
+          import path from 'node:path';
+          let chapters = 0;
+          let verses = 0;
+          let missingModern = 0;
+          let missingOriginal = 0;
+          for (const d of fs.readdirSync('scripture', {withFileTypes:true}).filter(d=>d.isDirectory())) {
+            const id = d.name;
+            const dir = path.join('scripture', id);
+            for (const name of fs.readdirSync(dir).filter(n => new RegExp(`^${id}-\\d{3}\\.json$`).test(n))) {
+              const doc = JSON.parse(fs.readFileSync(path.join(dir,name),'utf8'));
+              chapters++;
+              for (const v of doc.verses || []) {
+                verses++;
+                if (!v.modern?.text) missingModern++;
+                if (!v.original?.text) missingOriginal++;
+              }
+            }
+          }
+          console.log({chapters, verses, missingModern, missingOriginal});
+          if (missingModern > 0) throw new Error(`WEB modern layer missing on ${missingModern} verses`);
+          if (missingOriginal > 0) throw new Error(`Original-language layer missing on ${missingOriginal} verses`);
+          NODE
+
+      - name: Commit reference layers
+        run: |
+          if git diff --quiet; then
+            echo "Reference layers already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripture metadata/reference-layer-report.json
+          git commit -m "Backfill WEB and original-language reference layers"
+          git pull --rebase origin main
+          git push
