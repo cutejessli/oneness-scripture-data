@@ -46,6 +46,7 @@ jobs:
           cd /tmp/morphhb
           python3 - <<'PY'
           from pathlib import Path
+          import re
           p = Path('morphhbXML-to-JSON.pl')
           lines = p.read_text().splitlines()
           out = []
@@ -53,11 +54,11 @@ jobs:
               if "my $stripPointing = 'true';" in line:
                   line = line.replace("my $stripPointing = 'true';", "my $stripPointing = 0;")
               stripped = line.lstrip()
-              if stripped.startswith('splice( $remapped'):
+              if stripped.startswith('splice') and '$remapped' in stripped:
                   indent = line[:len(line)-len(stripped)]
-                  before, rest = stripped.split(',', 1)
-                  expr = before[len('splice( '):].strip()
-                  line = f"{indent}splice( @{{ {expr} }}, {rest}"
+                  m = re.match(r'splice\s*\(\s*(\$remapped\{.*?\}\s*\[.*?\]\s*\[.*?\])\s*,\s*(.*)$', stripped)
+                  if m:
+                      line = f"{indent}splice( @{{ {m.group(1)} }}, {m.group(2)}"
               out.append(line)
           p.write_text('\n'.join(out) + '\n')
           PY
