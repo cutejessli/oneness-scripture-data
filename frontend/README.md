@@ -26,3 +26,5 @@ The restored/source-audited and mystical layers remain separate at the data leve
 - Optional display of upcoming books
 
 The reader does not need a frontend rebuild when new scripture is added. It fetches the latest `metadata/library-index.json` and chapter files from `main`.
+
+GitHub Pages is configured to deploy through GitHub Actions.
