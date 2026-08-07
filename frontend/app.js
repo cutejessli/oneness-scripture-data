@@ -1,5 +1,6 @@
 const DATA_BASE = "https://raw.githubusercontent.com/cutejessli/oneness-scripture-data/main";
 const MANIFEST_URL = `${DATA_BASE}/metadata/library-index.json`;
+const VALID_LAYERS = ["restored", "modern", "familiar", "original", "mystical", "both"];
 
 const els = {
   sidebar: document.querySelector("#sidebar"),
@@ -43,10 +44,11 @@ function padChapter(n) {
 
 function parseHash() {
   const params = new URLSearchParams(location.hash.replace(/^#/, ""));
+  const layer = params.get("layer");
   return {
     book: params.get("book"),
     chapter: Number(params.get("chapter")) || null,
-    layer: ["restored", "mystical", "both"].includes(params.get("layer")) ? params.get("layer") : null,
+    layer: VALID_LAYERS.includes(layer) ? layer : null,
   };
 }
 
@@ -155,7 +157,7 @@ async function loadChapter() {
   state.mystical = null;
   showLoadingState();
 
-  const needsSource = state.layer === "restored" || state.layer === "both";
+  const needsSource = state.layer !== "mystical";
   const hasMystical = state.book.mysticalChapters?.includes(state.chapter);
   const needsMystical = (state.layer === "mystical" || state.layer === "both") && hasMystical;
 
@@ -185,16 +187,30 @@ function showLoadingState() {
   renderChapterSelect();
 }
 
-function verseMap(data, key) {
+function verseMap(data, getter) {
   const map = new Map();
-  for (const verse of data?.verses || []) map.set(Number(verse.verse), verse[key] ?? "");
+  for (const verse of data?.verses || []) map.set(Number(verse.verse), getter(verse) ?? "");
+  return map;
+}
+
+function layerInfo(layer, verse) {
+  if (layer === "restored") return { text: verse?.restored || "", label: "Restored", className: "" };
+  if (layer === "modern") return { text: verse?.modern?.text || "", label: verse?.modern?.source || "WEB", className: "" };
+  if (layer === "familiar") return { text: verse?.familiar?.text || "", label: verse?.familiar?.source || "KJV", className: "" };
+  if (layer === "original") return { text: verse?.original?.text || "", label: verse?.original?.source || "Original", className: "original-text" };
+  return { text: "", label: "", className: "" };
+}
+
+function sourceVerseMap() {
+  const map = new Map();
+  for (const verse of state.source?.verses || []) map.set(Number(verse.verse), verse);
   return map;
 }
 
 function renderChapter() {
-  const sourceMap = verseMap(state.source, "restored");
-  const mysticalMap = verseMap(state.mystical, "mystical_translation");
-  const verseNumbers = [...new Set([...sourceMap.keys(), ...mysticalMap.keys()])].sort((a, b) => a - b);
+  const sourceVerses = sourceVerseMap();
+  const mysticalMap = verseMap(state.mystical, (verse) => verse.mystical_translation);
+  const verseNumbers = [...new Set([...sourceVerses.keys(), ...mysticalMap.keys()])].sort((a, b) => a - b);
 
   els.chapterTitle.textContent = `${state.book.name} ${state.chapter}`;
   els.sectionLabel.textContent = `${state.book.testament} · ${state.book.section}`;
@@ -216,14 +232,21 @@ function renderChapter() {
     const content = document.createElement("div");
 
     if (state.layer === "both") {
+      const restored = sourceVerses.get(number)?.restored || "";
+      const mystical = mysticalMap.get(number) || "";
       content.className = "verse-both";
       content.innerHTML = `
-        <div><span class="layer-label">Restored</span><p class="verse-text">${escapeHtml(sourceMap.get(number) || "")}</p></div>
-        <div><span class="layer-label">Mystical</span><p class="verse-text mystical-text">${escapeHtml(mysticalMap.get(number) || "")}</p></div>`;
+        <div><span class="layer-label">Restored</span><p class="verse-text">${escapeHtml(restored)}</p></div>
+        <div><span class="layer-label">Mystical</span><p class="verse-text mystical-text">${escapeHtml(mystical)}</p></div>`;
+    } else if (state.layer === "mystical") {
+      content.innerHTML = `<p class="verse-text mystical-text">${escapeHtml(mysticalMap.get(number) || "")}</p>`;
     } else {
-      const text = state.layer === "mystical" ? mysticalMap.get(number) : sourceMap.get(number);
-      content.innerHTML = `<p class="verse-text${state.layer === "mystical" ? " mystical-text" : ""}">${escapeHtml(text || "")}</p>`;
+      const info = layerInfo(state.layer, sourceVerses.get(number));
+      const fallback = info.text || "Reference layer not loaded for this verse yet.";
+      const unavailable = !info.text ? " unavailable-text" : "";
+      content.innerHTML = `<p class="verse-text ${info.className}${unavailable}" dir="auto">${escapeHtml(fallback)}</p>`;
     }
+
     row.append(num, content);
     els.verseList.appendChild(row);
   }
