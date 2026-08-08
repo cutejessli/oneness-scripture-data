@@ -9,7 +9,7 @@ on:
 
 permissions:
   contents: write
-  copilot-requests: write
+  models: read
 
 concurrency:
   group: oneness-missing-canon-production
@@ -17,7 +17,8 @@ concurrency:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  SCRIPTURE_MODEL: gpt-5.6-terra
+  SCRIPTURE_MODEL: openai/gpt-4.1
+  GITHUB_MODELS_MODEL: openai/gpt-4.1
 
 jobs:
   history:
@@ -30,7 +31,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "ezra,nehemiah,esther" 33 "Ezra-Nehemiah-Esther"
 
   psalms:
@@ -44,7 +48,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "psalms" 150 "Psalms"
 
   wisdom:
@@ -58,7 +65,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "proverbs,ecclesiastes,song-of-songs" 51 "Wisdom books"
 
   isaiah:
@@ -72,7 +82,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "isaiah" 66 "Isaiah"
 
   jeremiah:
@@ -86,7 +99,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "jeremiah,lamentations" 57 "Jeremiah-Lamentations"
 
   ezekiel_daniel:
@@ -100,7 +116,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "ezekiel,daniel" 60 "Ezekiel-Daniel"
 
   minor_prophets:
@@ -114,7 +133,10 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - run: npm install -g @github/copilot
+      - name: Install GitHub Models generator shim
+        run: |
+          chmod +x scripts/github-models-copilot-shim.mjs
+          sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
       - run: bash scripts/run-canon-generation-batch.sh "hosea,joel,amos,obadiah,jonah,micah,nahum,habakkuk,zephaniah,haggai,zechariah,malachi" 67 "Minor Prophets"
 
   final_validation:
