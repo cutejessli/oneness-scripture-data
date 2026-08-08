@@ -4,7 +4,10 @@ set -euo pipefail
 BOOKS="$1"
 MAX_CHAPTERS="$2"
 LABEL="${3:-canon batch}"
-MAX_ATTEMPTS="${SCRIPTURE_RETRY_ATTEMPTS:-6}"
+MAX_REPAIR_ATTEMPTS="${SCRIPTURE_RETRY_ATTEMPTS:-6}"
+CHUNK_SIZE="${SCRIPTURE_CHUNK_SIZE:-5}"
+GENERATED_TOTAL=0
+REPAIR_ATTEMPT=0
 
 commit_progress() {
   node scripts/build-library-index.mjs
@@ -18,30 +21,48 @@ commit_progress() {
     GENERATED=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); console.log(s.generatedThisRun || 0)")
     LAST=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); console.log(s.lastChapter || 'none')")
     git commit -m "Generate ${GENERATED} scripture chapters (${LABEL}) through ${LAST}"
+    git pull --rebase origin main
     git push
   else
     echo "No batch changes to commit"
   fi
 }
 
-for ATTEMPT in $(seq 1 "$MAX_ATTEMPTS"); do
-  echo "Generation attempt ${ATTEMPT}/${MAX_ATTEMPTS} for ${LABEL}"
-  node scripts/generate-missing-canon.mjs --books="$BOOKS" --max-chapters="$MAX_CHAPTERS"
+while [ "$GENERATED_TOTAL" -lt "$MAX_CHAPTERS" ]; do
+  REMAINING=$((MAX_CHAPTERS - GENERATED_TOTAL))
+  REQUEST_SIZE="$CHUNK_SIZE"
+  if [ "$REMAINING" -lt "$REQUEST_SIZE" ]; then REQUEST_SIZE="$REMAINING"; fi
+
+  echo "Generating next checkpoint chunk for ${LABEL}: up to ${REQUEST_SIZE} chapters"
+  node scripts/generate-missing-canon.mjs --books="$BOOKS" --max-chapters="$REQUEST_SIZE"
   commit_progress
 
+  GENERATED=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); console.log(Number(s.generatedThisRun || 0))")
   ERROR=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); process.stdout.write(s.error || '')")
+  GENERATED_TOTAL=$((GENERATED_TOTAL + GENERATED))
+
   if [ -z "$ERROR" ]; then
-    echo "${LABEL} completed with no generator error."
-    exit 0
+    REPAIR_ATTEMPT=0
+    if [ "$GENERATED" -lt "$REQUEST_SIZE" ]; then
+      echo "${LABEL} has no more missing chapters. Generated ${GENERATED_TOTAL} chapters in this job."
+      exit 0
+    fi
+    echo "Checkpoint committed; continuing ${LABEL} automatically."
+    continue
   fi
 
-  if echo "$ERROR" | grep -Eqi 'quota|credit limit|premium request|usage limit|rate limit|too many requests|exceeded'; then
+  if echo "$ERROR" | grep -Eqi 'quota|credit limit|premium request|usage limit|rate limit|too many requests|exceeded|HTTP 429|Models 429'; then
     echo "Generator stopped on account/model quota after preserving validated work: $ERROR" >&2
     exit 1
   fi
 
   if echo "$ERROR" | grep -Eqi 'JSON|double-quoted property|Unexpected token|Unexpected end|verse alignment|expected .* verses|missing restored|missing mystical|validator'; then
-    echo "Recoverable model-output error; regenerating the same missing chapter automatically: $ERROR" >&2
+    REPAIR_ATTEMPT=$((REPAIR_ATTEMPT + 1))
+    if [ "$REPAIR_ATTEMPT" -ge "$MAX_REPAIR_ATTEMPTS" ]; then
+      echo "Generator exhausted ${MAX_REPAIR_ATTEMPTS} automatic repair attempts after preserving validated work: $ERROR" >&2
+      exit 1
+    fi
+    echo "Recoverable model-output error; regenerating the same missing chapter automatically (${REPAIR_ATTEMPT}/${MAX_REPAIR_ATTEMPTS}): $ERROR" >&2
     continue
   fi
 
@@ -49,6 +70,4 @@ for ATTEMPT in $(seq 1 "$MAX_ATTEMPTS"); do
   exit 1
 done
 
-ERROR=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); process.stdout.write(s.error || 'unknown recoverable generation failure')")
-echo "Generator exhausted ${MAX_ATTEMPTS} automatic repair attempts after preserving validated work: $ERROR" >&2
-exit 1
+echo "${LABEL} reached its configured generation cap (${MAX_CHAPTERS})."
