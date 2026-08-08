@@ -1,14 +1,14 @@
 {
   "project": "Oneness Scripture",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T16:06:46.672Z",
+  "generatedAt": "2026-08-08T16:09:30.533Z",
   "dataBranch": "main",
   "dataBase": "https://raw.githubusercontent.com/cutejessli/oneness-scripture-data/main",
   "stats": {
     "canonBooks": 66,
-    "booksLive": 44,
-    "restoredChaptersLive": 728,
-    "mysticalChaptersLive": 728
+    "booksLive": 45,
+    "restoredChaptersLive": 738,
+    "mysticalChaptersLive": 738
   },
   "books": [
     {
@@ -1126,12 +1126,34 @@
       "section": "History",
       "testament": "Hebrew Bible",
       "chapterCount": 10,
-      "availableChapters": [],
-      "mysticalChapters": [],
-      "restoredCount": 0,
-      "mysticalCount": 0,
-      "complete": false,
-      "status": "not-yet-published"
+      "availableChapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "mysticalChapters": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "restoredCount": 10,
+      "mysticalCount": 10,
+      "complete": true,
+      "status": "in-progress-source-audited-draft"
     },
     {
       "id": "job",
