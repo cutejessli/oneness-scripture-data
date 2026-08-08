@@ -1,0 +1,454 @@
+{
+  "book": "Nehemiah",
+  "book_id": "nehemiah",
+  "chapter": 5,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Nehemiah 5 documents social crisis during wall-building and Nehemiah's economic reforms. Text preserves creditor-debtor conflict, vulnerability of daughters to enslavement, and Nehemiah's self-exaltation of personal honor. Verse 5 contains textual difficulty (יָדֵנוּ with negative); verse 7 shows textual variant (נשאים vs נֹשִׁים). No source-versification boundary adjustments needed."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Now there came a great cry of the people and their wives against their brothers, the Judeans.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And there was a great cry of the people and of their wives against their brethren the Jews."
+      },
+      "notes": [
+        {
+          "title": "צַעֲקַת",
+          "body": "Organized outcry, not mere lamentation; suggests coordinated complaint, collective consciousness of injustice."
+        }
+      ],
+      "terms": [
+        {
+          "display": "cry",
+          "source": "צַעֲקַת",
+          "language": "Hebrew",
+          "glossary_id": "tsaakat-outcry"
+        }
+      ],
+      "tags": [
+        "social-crisis",
+        "collective-voice"
+      ],
+      "cross_references": [
+        {
+          "reference": "Exodus 3:7",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For some were saying: 'Our sons and daughters—we are many. We must obtain grain so we can eat and live.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there were that said, We, our sons, and our daughters, are many: therefore we take up corn for them, that we may eat, and live."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "many/numerous",
+          "source": "רַבִּים",
+          "language": "Hebrew",
+          "glossary_id": "rabim-many"
+        }
+      ],
+      "tags": [
+        "famine",
+        "household-crisis"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "And some were saying: 'Our fields, our vineyards, and our houses—we are pledging them so we can get grain in the dearth.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Some also there were that said, We have mortgaged our lands, vineyards, and houses, that we might buy corn, because of the dearth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "pledging",
+          "source": "עֹרְבִים",
+          "language": "Hebrew",
+          "glossary_id": "orvim-pledge"
+        }
+      ],
+      "tags": [
+        "debt",
+        "land-loss"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "And some were saying: 'We have borrowed money for the king's portion against our fields and vineyards.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "There were also that said, We have borrowed money for the king’s tribute, and that upon our lands and vineyards."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "taxation",
+        "imperial-burden"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And now, our flesh is like the flesh of our brothers, our children like their children; yet behold, we are subjecting our sons and our daughters into slavery, and some of our daughters are already enslaved. We have no power in our hands—our fields and our vineyards belong to others.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yet now our flesh is as the flesh of our brethren, our children as their children: and, lo, we bring into bondage our sons and our daughters to be servants, and some of our daughters are brought unto bondage already: neither is it in our power to redeem them; for other men have our lands and vineyards."
+      },
+      "notes": [
+        {
+          "title": "textual anomaly",
+          "body": "Phrase 'there is no power in our hands' (אֵין לְאֵל יָדֵנוּ) is grammatically marked; may indicate textual damage or archaic construction."
+        }
+      ],
+      "terms": [
+        {
+          "display": "enslaved",
+          "source": "נִכְבָּשׁוֹת",
+          "language": "Hebrew",
+          "glossary_id": "nikvshot-enslaved"
+        }
+      ],
+      "tags": [
+        "slavery",
+        "daughters",
+        "land-dispossession"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 25:39-43",
+          "relationship": "contrast"
+        }
+      ],
+      "editorial_flags": [
+        "grammatical-anomaly",
+        "textual-damage-suspected"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "And I was very angry when I heard their cry and these words.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I was very angry when I heard their cry and these words."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "emotion",
+        "testimony"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "And my heart deliberated within me, and I contended with the nobles and the officials, saying to them: 'You—you are exacting a burden, each from his brother.' And I called together a great assembly against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then I consulted with myself, and I rebuked the nobles, and the rulers, and said unto them, Ye exact usury, every one of his brother. And I set a great assembly against them."
+      },
+      "notes": [
+        {
+          "title": "variant reading",
+          "body": "Verse 7 shows textual variant: קרי reads נֹשִׁים (exacting, participating in burden-taking); some sources show נשאים. Both preserve sense of unjust extraction."
+        }
+      ],
+      "terms": [
+        {
+          "display": "exacting a burden",
+          "source": "נֹשִׁים בְּמַשָּׁא",
+          "language": "Hebrew",
+          "glossary_id": "noshim-burden"
+        }
+      ],
+      "tags": [
+        "conflict",
+        "authority",
+        "assembly"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "textual-variant"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And I said to them: 'We have redeemed our Jewish brothers who were sold to the nations according to our ability, and you—you are selling your brothers, and they are sold to us?' And they were silent and found no word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said unto them, We after our ability have redeemed our brethren the Jews, which were sold unto the heathen; and will ye even sell your brethren? or shall they be sold unto us? Then held they their peace, and found nothing to answer."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "redeemed",
+          "source": "קָנִינוּ",
+          "language": "Hebrew",
+          "glossary_id": "qaninu-redeemed"
+        }
+      ],
+      "tags": [
+        "redemption",
+        "hypocrisy",
+        "silence"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "I said further: 'Not good is the thing that you are doing. Ought you not to walk in fear of our God, away from the reproach of the nations, our enemies?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also I said, It is not good that ye do: ought ye not to walk in the fear of our God because of the reproach of the heathen our enemies?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "reproach",
+          "source": "חֶרְפַּת",
+          "language": "Hebrew",
+          "glossary_id": "herpat-reproach"
+        }
+      ],
+      "tags": [
+        "piety",
+        "honor",
+        "foreign-shame"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Moreover, I and my brothers and my servants—we are exacting interest from them in silver and grain. Let us let go of this interest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I likewise, and my brethren, and my servants, might exact of them money and corn: I pray you, let us leave off this usury."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "interest/burden",
+          "source": "מַשָּׁא",
+          "language": "Hebrew",
+          "glossary_id": "massa-interest"
+        }
+      ],
+      "tags": [
+        "voluntary-abstention",
+        "elite-honor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Return, I pray you, to them this very day their fields, their vineyards, their oliveyards, and their houses; also the hundredth of the silver and the grain, the wine, and the oil that you are exacting from them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Restore, I pray you, to them, even this day, their lands, their vineyards, their oliveyards, and their houses, also the hundredth part of the money, and of the corn, the wine, and the oil, that ye exact of them."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "restitution",
+        "agricultural-restoration"
+      ],
+      "cross_references": [
+        {
+          "reference": "Leviticus 25:25-28",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Then they said: 'We will return them, and we will demand nothing from them. So we will do as you say.' Then I called the priests and made them swear an oath to do according to this word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then said they, We will restore them, and will require nothing of them; so will we do as thou sayest. Then I called the priests, and took an oath of them, that they should do according to this promise."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "oath",
+        "priestly-authority",
+        "covenant"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "I also shook out my lap and said: 'Thus may God shake out every man from his house and from his labor who does not keep this word—thus be he shaken out and emptied.' And all the assembly said 'Amen!' and praised YHWH. And the people did according to this word.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Also I shook my lap, and said, So God shake out every man from his house, and from his labour, that performeth not this promise, even thus be he shaken out, and emptied. And all the congregation said, Amen, and praised the LORD. And the people did according to this promise."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "shaken out",
+          "source": "יְנַעֵר",
+          "language": "Hebrew",
+          "glossary_id": "yenaer-shake"
+        }
+      ],
+      "tags": [
+        "covenant-curse",
+        "ritual-gesture"
+      ],
+      "cross_references": [
+        {
+          "reference": "Ruth 4:7-8",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Moreover, from the day when I was appointed to be their governor in the land of Judah—from the twentieth year even to the thirty-second year of King Artaxerxes, that is, twelve years—I and my brothers did not eat the bread of the governor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover from the time that I was appointed to be their governor in the land of Judah, from the twentieth year even unto the two and thirtieth year of Artaxerxes the king, that is, twelve years, I and my brethren have not eaten the bread of the governor."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "self-commemoration",
+        "temporal-span"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "But the former governors who were before me laid heavy burdens on the people and took from them bread and wine besides forty shekels of silver; moreover their servants bore rule over the people. But I did not do so because of the fear of God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But the former governors that had been before me were chargeable unto the people, and had taken of them bread and wine, beside forty shekels of silver; yea, even their servants bare rule over the people: but so did not I, because of the fear of God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "predecessor-critique",
+        "fear-of-God"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "Moreover, in the work of this wall I was strong, and we did not acquire land; and all my servants were gathered there unto the work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, also I continued in the work of this wall, neither bought we any land: and all my servants were gathered thither unto the work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "building-project",
+        "labor-concentration"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Moreover, one hundred fifty of the Judeans and the officials sat at my table, besides those coming to us from the nations round about us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Moreover there were at my table an hundred and fifty of the Jews and rulers, beside those that came unto us from among the heathen that are about us."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "hospitality",
+        "social-hierarchy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Now what was prepared for me daily was one ox and six choice sheep, and birds were prepared for me; and in every ten days all manner of wine was brought. Yet despite all this I did not demand the bread of the governor, because the labor was heavy upon this people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now that which was prepared for me daily was one ox and six choice sheep; also fowls were prepared for me, and once in ten days store of all sorts of wine: yet for all this required not I the bread of the governor, because the bondage was heavy upon this people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "abundance",
+        "restraint",
+        "labor-weight"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Remember me, my God, for good, according to all that I have done for this people.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Think upon me, my God, for good, according to all that I have done for this people."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "memorial",
+        "sole-voice"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "צַעֲקַת (cry/outcry) captures organized complaint, not mere weeping; feminine suggests collective voice.",
+    "Verse 5: יָדֵנוּ ('power in our hands') appears grammatically anomalous in negative construction; preserved as textual marker.",
+    "Verse 7: נֹשִׁים (exacting, burdensome) reads as present participle; textual variant נשאים in some sources.",
+    "Verse 13: Shaking-the-fold gesture (חׇצְנִי נָעַרְתִּי) is ancient summons formula, covenantal threat.",
+    "Verse 19: Solo final note by Nehemiah, no response; stands distinct from verse 13's collective Amen.",
+    "Throughout: עבדים (slavery, not servitude) and משא (exacted interest/burden) preserve economic coercion language."
+  ],
+  "safety_note": "Chapter presents debt-slavery, exploitation of daughters, coerced labor, and social stratification as political facts requiring redress, not moral instruction. Nehemiah's self-commemoration (vv. 14-19) frames elite honor via abstention rather than structural justice; modern readers should not mistake this as sufficient economic reform.",
+  "source_witness_audit_flags": [
+    "Verse 5: יָדֵנוּ phrase-boundary and negative grammatical form requires witness collation",
+    "Verse 7: Marginal variant נשאים vs. נֹשִׁים affects sense (bearing/burdensome vs. exacting)"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}

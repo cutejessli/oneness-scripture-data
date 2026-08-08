@@ -1,14 +1,14 @@
 {
   "project": "Oneness Scripture",
   "schemaVersion": 1,
-  "generatedAt": "2026-08-08T00:15:54.079Z",
+  "generatedAt": "2026-08-08T00:21:55.689Z",
   "dataBranch": "main",
   "dataBase": "https://raw.githubusercontent.com/cutejessli/oneness-scripture-data/main",
   "stats": {
     "canonBooks": 66,
     "booksLive": 44,
-    "restoredChaptersLive": 717,
-    "mysticalChaptersLive": 717
+    "restoredChaptersLive": 720,
+    "mysticalChaptersLive": 720
   },
   "books": [
     {
@@ -1086,14 +1086,20 @@
       "chapterCount": 13,
       "availableChapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
       "mysticalChapters": [
         1,
-        2
+        2,
+        3,
+        4,
+        5
       ],
-      "restoredCount": 2,
-      "mysticalCount": 2,
+      "restoredCount": 5,
+      "mysticalCount": 5,
       "complete": false,
       "status": "in-progress-source-audited-draft"
     },

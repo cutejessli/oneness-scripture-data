@@ -1,0 +1,611 @@
+{
+  "book": "Nehemiah",
+  "book_id": "nehemiah",
+  "chapter": 4,
+  "audit_status": {
+    "status": "source-audited-draft",
+    "source_base": "Hebrew source via Sefaria with source/English versification reconciliation; public-domain KJV familiar comparison",
+    "review_note": "Nehemiah 4 maps source versification (1–17) to KJV English (1–23). Verses 1–6 combine source material with contextual reconciliation; verses 7–23 follow source structure. Enemy opposition, leadership prayer, and militarized construction are preserved. No textual harmonization; variants (e.g., בצחחיים vs. בַּצְּחִיחִ֑ים in v. 7) flagged. Versification audit required."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "And it came to pass when Sanballat heard that we were building the wall, he became angry and greatly provoked, and he mocked the Jews.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But it came to pass, that when Sanballat heard that we builded the wall, he was wroth, and took great indignation, and mocked the Jews."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "wall",
+          "source": "חוֹמָה",
+          "language": "Hebrew",
+          "glossary_id": "choma-wall"
+        },
+        {
+          "display": "mocked",
+          "source": "וַיִּזְנַח",
+          "language": "Hebrew",
+          "glossary_id": "zanach-scorn"
+        }
+      ],
+      "tags": [
+        "opposition",
+        "mockery"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 2:10,19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "And he said before his brothers and the army of Samaria, 'What do these feeble Jews do? Will they fortify themselves? Will they sacrifice? Will they finish in a day? Will they revive stones out of heaps of burned rubbish?'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And he spake before his brethren and the army of Samaria, and said, What do these feeble Jews? will they fortify themselves? will they sacrifice? will they make an end in a day? will they revive the stones out of the heaps of the rubbish which are burned?"
+      },
+      "notes": [
+        {
+          "title": "restored stones",
+          "body": "Sanballat's derision treats burned rubble as irretrievable; the restoration narrative inverts this—charred stones are gathered and rebuilt."
+        }
+      ],
+      "terms": [
+        {
+          "display": "feeble",
+          "source": "כָּשַׁל",
+          "language": "Hebrew",
+          "glossary_id": "kashal-stumble"
+        }
+      ],
+      "tags": [
+        "mockery",
+        "enemy-speech"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Now Tobiah the Ammonite was beside him, and said, 'Even that which they build—if a fox goes up, he will break down their stone wall.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Now Tobiah the Ammonite was by him, and he said, Even that which they build, if a fox go up, he shall even break down their stone wall."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "Tobiah",
+          "source": "טוֹבִיָּ֠ה",
+          "language": "Hebrew",
+          "glossary_id": "tobiah-enemy"
+        }
+      ],
+      "tags": [
+        "mockery",
+        "alliance"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 2:10,19",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Hear, O our God, for we are despised; turn their reproach back upon their own head, and give them as plunder in the land of captivity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear, O our God; for we are despised: and turn their reproach upon their own head, and give them for a prey in the land of captivity:"
+      },
+      "notes": [
+        {
+          "title": "revenge prayer",
+          "body": "Petition for enemies' destruction and exile; ancient imprecatory prayer preserved without mediation."
+        }
+      ],
+      "terms": [
+        {
+          "display": "despised",
+          "source": "בוּזָ֔ה",
+          "language": "Hebrew",
+          "glossary_id": "buz-contempt"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "imprecation"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 79:1–12",
+          "relationship": "parallel"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "And do not cover over their iniquity, and let not their sin be blotted out from before you; for they have provoked you to anger before the builders.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And cover not their iniquity, and let not their sin be blotted out from before thee: for they have provoked thee to anger before the builders."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "prayer",
+        "judgment"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "So we built the wall; and all the wall was joined together to half its height, for the people's heart was toward the work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So built we the wall; and all the wall was joined together unto the half thereof: for the people had a mind to work."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "לֵ֦ב",
+          "language": "Hebrew",
+          "glossary_id": "lev-heart"
+        }
+      ],
+      "tags": [
+        "construction",
+        "resolve"
+      ],
+      "cross_references": [
+        {
+          "reference": "Nehemiah 3:38",
+          "relationship": "quotation"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "But when Sanballat and Tobiah and the Arabians and the Ammonites and the Ashdodites heard that the repair of the walls of Jerusalem had gone up, that the breaches were beginning to be closed, then they were very angry.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But it came to pass, that when Sanballat, and Tobiah, and the Arabians, and the Ammonites, and the Ashdodites, heard that the walls of Jerusalem were made up, and that the breaches began to be stopped, then they were very wroth,"
+      },
+      "notes": [
+        {
+          "title": "breach-closing",
+          "body": "Hebrew הַפְּרֻצִ֖ים (breaches, openings) are being הִסָּתֵ֑ם (stopped, sealed). The verb suggests deliberate closure, restoration of boundary integrity."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "opposition",
+        "coalition"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ketiv-qere-variant-v7"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "And they conspired, all of them together, to come and fight against Jerusalem and to cause harm to it.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And conspired all of them together to come and to fight against Jerusalem, and to hinder it."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "conspired",
+          "source": "וַיִּקְשְׁר֤וּ",
+          "language": "Hebrew",
+          "glossary_id": "kashar-bind"
+        }
+      ],
+      "tags": [
+        "opposition",
+        "conspiracy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "And we prayed to our God and set a watch against them day and night on account of them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Nevertheless we made our prayer unto our God, and set a watch against them day and night, because of them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "watch",
+          "source": "מִשְׁמָר",
+          "language": "Hebrew",
+          "glossary_id": "mishmeret-guard"
+        }
+      ],
+      "tags": [
+        "prayer",
+        "vigilance"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "And Judah said, 'The strength of the burden-bearers is broken, and the rubble is much; so we are not able to build the wall.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And Judah said, The strength of the bearers of burdens is decayed, and there is much rubbish; so that we are not able to build the wall."
+      },
+      "notes": [
+        {
+          "title": "internal doubt",
+          "body": "This is not enemy speech but Judah's own expression of demoralization. The text preserves the gap between resolve and capability."
+        }
+      ],
+      "terms": [
+        {
+          "display": "broken",
+          "source": "כָּשַׁל",
+          "language": "Hebrew",
+          "glossary_id": "kashal-fail"
+        }
+      ],
+      "tags": [
+        "doubt",
+        "labor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "And our adversaries said, 'They will not know and will not see until we come among them and kill them and put an end to the work.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And our adversaries said, They shall not know, neither see, till we come in the midst among them, and slay them, and cause the work to cease."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "enemy-strategy",
+        "threat"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "And it came to pass that when the Jews dwelling by them came, they said to us ten times, 'From all the places where you turn, they will be against you.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, that when the Jews which dwelt by them came, they said unto us ten times, From all places whence ye shall return unto us they will be upon you."
+      },
+      "notes": [
+        {
+          "title": "ten times",
+          "body": "Hebrew עֶ֣שֶׂר פְּעָמִ֔ים (ten times) may indicate totality or overwhelming frequency rather than literal count."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "warning",
+        "diaspora"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Therefore I stationed them in the lower places behind the wall and in the higher places, and I stationed the people by families with their swords, their spears, and their bows.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Therefore set I in the lower places behind the wall, and on the higher places, I even set the people after their families with their swords, their spears, and their bows."
+      },
+      "notes": [
+        {
+          "title": "family units",
+          "body": "Hebrew לְמִשְׁפָּח֔וֹת (by families) preserves kinship as organizing principle; children and women would have been present."
+        }
+      ],
+      "terms": [
+        {
+          "display": "stationed",
+          "source": "וָֽאַעֲמִ֤יד",
+          "language": "Hebrew",
+          "glossary_id": "amad-station"
+        }
+      ],
+      "tags": [
+        "defense",
+        "deployment"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "And I looked and rose up and said to the nobles and to the rulers and to the rest of the people, 'Do not be afraid of them; remember YHWH, the great and terrible one, and fight for your brothers, your sons and your daughters, your wives and your houses.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I looked, and rose up, and said unto the nobles, and to the rulers, and to the rest of the people, Be not ye afraid of them: remember the LORD, which is great and terrible, and fight for your brethren, your sons, and your daughters, your wives, and your houses."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh-tetragrammaton"
+        }
+      ],
+      "tags": [
+        "leadership",
+        "exhortation"
+      ],
+      "cross_references": [
+        {
+          "reference": "Deuteronomy 31:6",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "And it came to pass when our enemies heard that it was known to us and God had brought their counsel to nothing, that we returned, all of us, to the wall, each to his work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass, when our enemies heard that it was known unto us, and God had brought their counsel to nought, that we returned all of us to the wall, every one unto his work."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "counsel",
+          "source": "עֲצָתָ֑ם",
+          "language": "Hebrew",
+          "glossary_id": "atzah-counsel"
+        }
+      ],
+      "tags": [
+        "strategy",
+        "knowledge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "And it came to pass from that day forward that half of my young men were doing the work, and half of them were holding the spears, the shields, and the bows, and the armor; and the rulers were behind all the house of Judah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And it came to pass from that time forth, that the half of my servants wrought in the work, and the other half of them held both the spears, the shields, and the bows, and the habergeons; and the rulers were behind all the house of Judah."
+      },
+      "notes": [
+        {
+          "title": "armor detail",
+          "body": "Hebrew שִׁרְיֹנִ֑ים (habergeons, mail armor) indicates military-grade equipment, not improvised defense."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "militarization",
+        "labor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "The builders on the wall and the carriers of the load were at their work with one hand and with the other hand holding a weapon.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They which builded on the wall, and they that bare burdens, with those that laded, every one with one of his hands wrought in the work, and with the other hand held a weapon."
+      },
+      "notes": [
+        {
+          "title": "dual-handed work",
+          "body": "Hebrew אַחַ֤ת יָדוֹ֙ עֹשֶׂ֣ה בַמְּלָאכָ֔ה וְאַחַ֖ת מַחֲזֶ֥קֶת—one hand does work, one hand holds weapon; literalism preserved."
+        }
+      ],
+      "terms": [
+        {
+          "display": "builders",
+          "source": "הַבּוֹנִ֧ים",
+          "language": "Hebrew",
+          "glossary_id": "bonim-builders"
+        }
+      ],
+      "tags": [
+        "construction",
+        "militarization"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "And the builders—each one had his sword girded upon his thigh—and he was building. And the one sounding the trumpet was beside me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the builders, every one had his sword girded by his side, and so builded. And he that sounded the trumpet was by me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "sword",
+          "source": "חַרְבּ֛וֹ",
+          "language": "Hebrew",
+          "glossary_id": "cherev-sword"
+        }
+      ],
+      "tags": [
+        "militarization",
+        "communication"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "And I said to the nobles and to the rulers and to the rest of the people, 'The work is great and large and we are scattered upon the wall, far from one another, each from his brother.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "And I said unto the nobles, and to the rulers, and to the rest of the people, The work is great and large, and we are separated upon the wall, one far from another."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "scattered",
+          "source": "נִפְרָדִים֙",
+          "language": "Hebrew",
+          "glossary_id": "pirad-separate"
+        }
+      ],
+      "tags": [
+        "vulnerability",
+        "strategy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "In whatever place you hear the sound of the trumpet, gather to us there; our God will fight for us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In what place therefore ye hear the sound of the trumpet, resort ye thither unto us: our God shall fight for us."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "trumpet",
+          "source": "שׁוֹפָ֔ר",
+          "language": "Hebrew",
+          "glossary_id": "shofar-trumpet"
+        }
+      ],
+      "tags": [
+        "communication",
+        "faith"
+      ],
+      "cross_references": [
+        {
+          "reference": "Joshua 6:1–27",
+          "relationship": "theme"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "So we labored in the work; and half of them held the spears from the rising of the dawn until the stars appeared.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So we laboured in the work: and half of them held the spears from the rising of the morning till the stars appeared."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "endurance",
+        "labor"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Also at that same time I said to the people, 'Let each one with his servant lodge within Jerusalem, that in the night they may be a guard for us, and in the day they may do the work.'",
+      "familiar": {
+        "source": "KJV",
+        "text": "Likewise at the same time said I unto the people, Let every one with his servant lodge within Jerusalem, that in the night they may be a guard to us, and labour on the day."
+      },
+      "notes": [
+        {
+          "title": "servant lodging",
+          "body": "Hebrew נַעֲר֔וֹ (servant/young man) lodges with the master; coerced labor for construction is preserved without mitigation."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "labor",
+        "hierarchy"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "And neither I nor my brothers nor my servants nor the men of the guard who followed me—none of us put off our garments; each had his water.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So neither I, nor my brethren, nor my servants, nor the men of the guard which followed me, none of us put off our clothes, saving that every one put them off for washing."
+      },
+      "notes": [
+        {
+          "title": "water euphemism",
+          "body": "Hebrew אִ֖ישׁ שִׁלְח֥וֹ הַמָּֽיִם (each his water) likely means relieving oneself; preserved literally as source attests archaic delicacy about bodily functions amid total militarization."
+        }
+      ],
+      "terms": [
+        {
+          "display": "water",
+          "source": "הַמָּֽיִם",
+          "language": "Hebrew",
+          "glossary_id": "mayim-water"
+        }
+      ],
+      "tags": [
+        "endurance",
+        "vigilance"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "euphemism-bodily-function"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "KJV versification (23 verses) exceeds source chapter versification (17 verses). Verses 1–6 reconcile by content between previous chapter tail (3:36–38: wall completion and opposition intensifies) and current chapter head (4:1–3: specific enemy reactions). This preserves Hebrew narrative flow while meeting English verse count.",
+    "Verse 7 text includes margin note variant בצחחיים (qere: בַּצְּחִיחִ֑ים, 'open places'). Both attested; ketiv variant noted.",
+    "Divine name יהוה rendered as YHWH throughout.",
+    "Verse 14 (KJV): source has 'YHWH' (אֲדֹנָ֞י הַגָּד֤וֹל וְהַנּוֹרָא֙), not 'LORD'—KJV's rendering historically substituted 'LORD'; here restored to YHWH.",
+    "Verse 17: 'water' (הַמָּֽיִם) likely means 'to relieve themselves' in archaic context; preserved literally."
+  ],
+  "safety_note": "Chapter depicts dehumanization ('despised'), revenge prayers (4:4–5), martial mobilization of civilians including children ('sons,' 'daughters'), and endemic construction labor under existential threat. No sanitization applied. Genocide rhetoric ('slay them') and coercive labor conditions are preserved as source attests.",
+  "source_witness_audit_flags": [
+    "Verse 7: ketiv/qere variant בצחחיים (ketiv) vs. בַּצְּחִיחִ֑ים (qere) requires witness collation",
+    "Versification offset 1–6: reconciliation between 3:38 (completion signal) and 4:1–3 (enemy reaction) spans chapter boundary; confirm continuity against Hebrew manuscripts",
+    "Verse 17 closure: 'none of us loosen our garments, each his water' (לֹא פֹשְׁטִים בְּגָדֵינוּ אִישׁ שִׁלְחוֹ הַמָּיִם)—euphemistic sense requires ancient sanitation practice witness"
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete",
+    "verse_notes": "baseline-generated",
+    "source_terms": "baseline-generated",
+    "tags": "baseline-generated",
+    "cross_references": "baseline-generated",
+    "editorial_flags": "baseline-generated",
+    "mystical_companion": "separate-file"
+  },
+  "generation_status": {
+    "status": "source-sensitive-ai-draft",
+    "source_language": "Hebrew",
+    "model": "gpt-5.6-terra",
+    "continuity_audit": "pending-global-pass"
+  }
+}
