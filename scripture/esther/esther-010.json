@@ -23,7 +23,17 @@
         "peace"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Now King Xerxes imposed tribute throughout the land, even to its farthest shores."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וַיָּשֶׂם֩ הַמֶּ֨לֶךְ אחשרש מַ֛ס עַל הָאָ֖רֶץ וְאִיֵּ֥י הַיָּֽם"
+      }
     },
     {
       "verse": 2,
@@ -40,7 +50,17 @@
         "peace"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "And all of Mordecai’s powerful and magnificent accomplishments, together with the full account of the greatness to which the king had raised him, are they not written in the Book of the Chronicles of the Kings of Media and Persia?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וְכָל מַעֲשֵׂ֤ה תָקְפּוֹ֙ וּגְב֣וּרָת֔וֹ וּפָרָשַׁת֙ גְּדֻלַּ֣ת מָרְדֳּכַ֔י אֲשֶׁ֥ר גִּדְּל֖וֹ הַמֶּ֑לֶךְ הֲלוֹא הֵ֣ם כְּתוּבִ֗ים עַל סֵ֨פֶר֙ דִּבְרֵ֣י הַיָּמִ֔ים לְמַלְכֵ֖י מָדַ֥י וּפָרָֽס"
+      }
     },
     {
       "verse": 3,
@@ -57,7 +77,17 @@
         "peace"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For Mordecai the Jew was second only to King Xerxes, preeminent among the Jews and highly favored by his many kinsmen, seeking the good of his people and speaking peace to all his countrymen."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּ֣י מָרְדֳּכַ֣י הַיְּהוּדִ֗י מִשְׁנֶה֙ לַמֶּ֣לֶךְ אֲחַשְׁוֵר֔וֹשׁ וְגָדוֹל֙ לַיְּהוּדִ֔ים וְרָצ֖וּי לְרֹ֣ב אֶחָ֑יו דֹּרֵ֥שׁ טוֹב֙ לְעַמּ֔וֹ וְדֹבֵ֥ר שָׁל֖וֹם לְכָל זַרְעֽוֹ"
+      }
     }
   ],
   "translation_notes": [
@@ -76,13 +106,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
