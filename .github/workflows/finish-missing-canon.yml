@@ -9,7 +9,6 @@ on:
 
 permissions:
   contents: write
-  models: read
 
 concurrency:
   group: oneness-missing-canon-production
@@ -17,8 +16,9 @@ concurrency:
 
 env:
   GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-  SCRIPTURE_MODEL: openai/gpt-4.1
-  GITHUB_MODELS_MODEL: openai/gpt-4.1
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+  SCRIPTURE_MODEL: gpt-5.6-terra
+  OPENAI_SCRIPTURE_MODEL: gpt-5.6-terra
 
 jobs:
   history:
@@ -31,7 +31,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -48,7 +48,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -65,7 +65,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -82,7 +82,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -99,7 +99,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -116,7 +116,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
@@ -133,7 +133,7 @@ jobs:
           ref: main
           fetch-depth: 0
       - run: git pull --ff-only origin main
-      - name: Install GitHub Models generator shim
+      - name: Install OpenAI generator shim
         run: |
           chmod +x scripts/github-models-copilot-shim.mjs
           sudo ln -sf "$PWD/scripts/github-models-copilot-shim.mjs" /usr/local/bin/copilot
