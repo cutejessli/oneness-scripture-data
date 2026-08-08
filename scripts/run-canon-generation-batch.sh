@@ -15,7 +15,9 @@ commit_progress() {
 
   git config user.name "github-actions[bot]"
   git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-  git add scripture metadata/library-index.json metadata/generation-state.json metadata/*-progress.json
+  # The workflow marks the OpenAI shim executable before generation. Stage that
+  # mode change too so checkpoint commits leave a clean worktree for rebase.
+  git add scripture metadata/library-index.json metadata/generation-state.json metadata/*-progress.json scripts/github-models-copilot-shim.mjs
 
   if ! git diff --cached --quiet; then
     GENERATED=$(node -e "const s=JSON.parse(require('fs').readFileSync('metadata/generation-state.json','utf8')); console.log(s.generatedThisRun || 0)")
