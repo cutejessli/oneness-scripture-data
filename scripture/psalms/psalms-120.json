@@ -1,0 +1,193 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 120,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Songs of Ascents, lying speech, conflict, Meshech/Kedar imagery, peace, and war."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In my distress I cried to YHWH, and he heard me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In my distress I cried unto the LORD, and he heard me."
+      },
+      "notes": [
+        {
+          "title": "Songs of Ascents begin",
+          "body": "Psalm 120 begins the collection of Songs of Ascents (Psalms 120–134), likely associated in some way with pilgrimage or ascent, though the precise historical use is debated."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH, rescue my life from lying lips and from a deceitful tongue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Deliver my soul, O LORD, from lying lips, and from a deceitful tongue."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "What shall be given to thee? or what shall be done to thee, thou false tongue?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What shall be given unto thee? or what shall be done unto thee, thou false tongue?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Sharp arrows of the mighty, with coals of juniper.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Sharp arrows of the mighty, with coals of juniper."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!",
+      "familiar": {
+        "source": "KJV",
+        "text": "Woe is me, that I sojourn in Mesech, that I dwell in the tents of Kedar!"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "My soul hath long dwelt with him that hateth peace.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My soul hath long dwelt with him that hateth peace."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "I am for peace: but when I speak, they are for war.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I am for peace: but when I speak, they are for war."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "songs-of-ascents"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-peoples-land-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Ancient place/people names are poetic geography and must not become labels for modern enemies; the speaker desires peace rather than violence.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

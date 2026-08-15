@@ -1,0 +1,316 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 97,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Divine kingship, storm imagery, idols, elohim/gods, Zion, and justice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH reigneth; let the earth rejoice; let the multitude of isles be glad thereof.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD reigneth; let the earth rejoice; let the multitude of isles be glad thereof."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "A fire goeth before him, and burneth up his enemies round about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "A fire goeth before him, and burneth up his enemies round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "His lightnings enlightened the world: the earth saw, and trembled.",
+      "familiar": {
+        "source": "KJV",
+        "text": "His lightnings enlightened the world: the earth saw, and trembled."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "The hills melted like wax at the presence of YHWH, at the presence of the Lord of the whole earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The hills melted like wax at the presence of the LORD, at the presence of the Lord of the whole earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The heavens declare his righteousness, and all the people see his glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The heavens declare his righteousness, and all the people see his glory."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Let all who serve an image be put to shame, those who boast in idols; bow before him, all you gods [elohim].",
+      "familiar": {
+        "source": "KJV",
+        "text": "Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods."
+      },
+      "notes": [
+        {
+          "title": "Elohim in Psalm 97",
+          "body": "The final term elohim can be understood as gods/divine beings. Ancient religious polemic should not be converted into permission to persecute people of other religions or spiritual traditions."
+        }
+      ],
+      "terms": [
+        {
+          "display": "elohim / gods",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim-divine-beings"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For thou, YHWH, art high above all the earth: thou art exalted far above all gods.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou, LORD, art high above all the earth: thou art exalted far above all gods."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Ye that love YHWH, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye that love the LORD, hate evil: he preserveth the souls of his saints; he delivereth them out of the hand of the wicked."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Light is sown for the righteous, and gladness for the upright in heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Light is sown for the righteous, and gladness for the upright in heart."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Rejoice in YHWH, ye righteous; and give thanks at the remembrance of his holiness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Rejoice in the LORD, ye righteous; and give thanks at the remembrance of his holiness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "religious-polemic-no-modern-persecution"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Ancient idol polemic must not justify persecution of other religions or destruction of modern sacred objects.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

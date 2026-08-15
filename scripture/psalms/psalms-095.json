@@ -1,0 +1,271 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 95,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Worship, creation, shepherd imagery, wilderness rebellion, listening, and rest."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "O come, let us sing to YHWH: let us make a joyful noise to the rock of our salvation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O come, let us sing unto the LORD: let us make a joyful noise to the rock of our salvation."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let us come before his presence with thanksgiving, and make a joyful noise unto him with psalms."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For YHWH is a great God, and a great King above all gods.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD is a great God, and a great King above all gods."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "In his hand are the deep places of the earth: the strength of the hills is his also.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In his hand are the deep places of the earth: the strength of the hills is his also."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The sea is his, and he made it: and his hands formed the dry land.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sea is his, and he made it: and his hands formed the dry land."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "O come, let us worship and bow down: let us kneel before YHWH our maker.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O come, let us worship and bow down: let us kneel before the LORD our maker."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For he is our God, and we are the people of his pasture and the flock of his hand. Today, if you hear his voice,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he is our God; and we are the people of his pasture, and the sheep of his hand. To day if ye will hear his voice,"
+      },
+      "notes": [
+        {
+          "title": "Today, if you hear",
+          "body": "Hebrews 3–4 later builds an extended interpretation around this line and the wilderness generation. The psalm’s own setting remains a communal call to listen rather than harden the heart."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 3:7-4:11",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Harden not your heart, as in the provocation, and as in the day of temptation in the wilderness:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 3:7-4:11",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "When your fathers tempted me, proved me, and saw my work.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When your fathers tempted me, proved me, and saw my work."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 3:7-4:11",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 3:7-4:11",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "To whom I sware in my wrath that they should not enter into my rest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto whom I sware in my wrath that they should not enter into my rest."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 3:7-4:11",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "The wilderness warning must not become a tool for coercive religion or victim-blaming; later Hebrews reception should remain distinct from the psalm’s own voice.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

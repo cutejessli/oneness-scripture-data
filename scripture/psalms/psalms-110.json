@@ -1,0 +1,218 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 110,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Royal oracle, YHWH/adoni distinction, enemies, priesthood, Melchizedek, and later messianic reception."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "YHWH says to my lord [adoni], “Sit at my right hand until I make your enemies a footstool for your feet.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD said unto my Lord, Sit thou at my right hand, until I make thine enemies thy footstool."
+      },
+      "notes": [
+        {
+          "title": "YHWH and adoni",
+          "body": "The Hebrew distinguishes the divine name YHWH from adoni, “my lord/master.” The verse became central in later Jewish and Christian interpretation; the restored wording preserves the Hebrew distinction instead of collapsing both figures into the same title."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "my lord",
+          "source": "אדֹנִי",
+          "language": "Hebrew",
+          "glossary_id": "adoni"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [
+        {
+          "reference": "Mark 12:36; Acts 2:34-35; Hebrews 1:13",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD shall send the rod of thy strength out of Zion: rule thou in the midst of thine enemies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "YHWH has sworn and will not relent: “You are a priest forever, according to the order [or manner] of Melchizedek.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD hath sworn, and will not repent, Thou art a priest for ever after the order of Melchizedek."
+      },
+      "notes": [
+        {
+          "title": "Melchizedek",
+          "body": "The Hebrew phrase al-divrati Malki-Tzedek is difficult and has generated multiple interpretations. Hebrews 5–7 later develops a major priestly reading. The source ambiguity and later reception should remain distinct."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 5-7",
+          "relationship": "extended-later-reception"
+        }
+      ],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "The Lord at thy right hand shall strike through kings in the day of his wrath.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The Lord at thy right hand shall strike through kings in the day of his wrath."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "He shall judge among the nations, he shall fill the places with the dead bodies; he shall wound the heads over many countries.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall judge among the heathen, he shall fill the places with the dead bodies; he shall wound the heads over many countries."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "suffering-body",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "He shall drink of the brook in the way: therefore shall he lift up the head.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall drink of the brook in the way: therefore shall he lift up the head."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Royal-priestly imagery must not create leader immunity or sacred violence; later Christian readings should not erase the Hebrew psalm or Jewish interpretation.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,582 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 102,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Affliction, loneliness, mortality, Zion, creation, eternity, and later reception."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Hear my prayer, O YHWH, and let my cry come to thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear my prayer, O LORD, and let my cry come unto thee."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Hide not thy face from me in the day when I am in trouble; incline thine ear to me: in the day when I call answer me speedily.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hide not thy face from me in the day when I am in trouble; incline thine ear unto me: in the day when I call answer me speedily."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For my days are consumed like smoke, and my bones are burned as an hearth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For my days are consumed like smoke, and my bones are burned as an hearth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "suffering-body"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "My heart is smitten, and withered like grass; so that I forget to eat my bread.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My heart is smitten, and withered like grass; so that I forget to eat my bread."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "By reason of the voice of my groaning my bones cleave to my skin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "By reason of the voice of my groaning my bones cleave to my skin."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "suffering-body"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I am like a pelican of the wilderness: I am like an owl of the desert.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I am like a pelican of the wilderness: I am like an owl of the desert."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I watch, and am as a sparrow alone upon the house top.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I watch, and am as a sparrow alone upon the house top."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Mine enemies reproach me all the day; and they that are mad against me are sworn against me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For I have eaten ashes like bread, and mingled my drink with weeping,",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I have eaten ashes like bread, and mingled my drink with weeping,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Because of thine indignation and thy wrath: for thou hast lifted me up, and cast me down."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "My days are like a shadow that declineth; and I am withered like grass.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My days are like a shadow that declineth; and I am withered like grass."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "But you, YHWH, remain forever, and your remembrance from generation to generation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou, O LORD, shalt endure for ever; and thy remembrance unto all generations."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt arise, and have mercy upon Zion: for the time to favour her, yea, the set time, is come."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "For thy servants take pleasure in her stones, and favour the dust thereof.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thy servants take pleasure in her stones, and favour the dust thereof."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "So the nations shall fear the name of YHWH, and all the kings of the earth thy glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So the heathen shall fear the name of the LORD, and all the kings of the earth thy glory."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "When YHWH shall build up Zion, he shall appear in his glory.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the LORD shall build up Zion, he shall appear in his glory."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "He will regard the prayer of the destitute, and not despise their prayer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He will regard the prayer of the destitute, and not despise their prayer."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "This shall be written for the generation to come: and the people which shall be created shall praise YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "This shall be written for the generation to come: and the people which shall be created shall praise the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "For he hath looked down from the height of his sanctuary; from heaven did YHWH behold the earth;",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he hath looked down from the height of his sanctuary; from heaven did the LORD behold the earth;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "To hear the groaning of the prisoner; to loose those that are appointed to death;",
+      "familiar": {
+        "source": "KJV",
+        "text": "To hear the groaning of the prisoner; to loose those that are appointed to death;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "To declare the name of YHWH in Zion, and his praise in Jerusalem;",
+      "familiar": {
+        "source": "KJV",
+        "text": "To declare the name of the LORD in Zion, and his praise in Jerusalem;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "When the people are gathered together, and the kingdoms, to serve YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the people are gathered together, and the kingdoms, to serve the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "He weakened my strength in the way; he shortened my days.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He weakened my strength in the way; he shortened my days."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 24,
+      "restored": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I said, O my God, take me not away in the midst of my days: thy years are throughout all generations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 25,
+      "restored": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Of old hast thou laid the foundation of the earth: and the heavens are the work of thy hands."
+      },
+      "notes": [
+        {
+          "title": "Creation language and Hebrews",
+          "body": "Hebrews 1 later applies Psalm 102:25–27 christologically. The Hebrew psalm itself addresses God within an afflicted person’s prayer; both literary settings should remain visible."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 1:10-12",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 26,
+      "restored": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:",
+      "familiar": {
+        "source": "KJV",
+        "text": "They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 1:10-12",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 27,
+      "restored": "But thou art the same, and thy years shall have no end.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou art the same, and thy years shall have no end."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 1:10-12",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 28,
+      "restored": "The children of thy servants shall continue, and their seed shall be established before thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The children of thy servants shall continue, and their seed shall be established before thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 1:10-12",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Suffering and physical decline are not moral failure; Zion restoration language cannot erase modern peoples or contested history.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

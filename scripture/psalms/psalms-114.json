@@ -1,0 +1,167 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 114,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Exodus, sea, Jordan, mountains, earth, and divine presence."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "When Israel went out of Egypt, the house of Jacob from a people of strange language;",
+      "familiar": {
+        "source": "KJV",
+        "text": "When Israel went out of Egypt, the house of Jacob from a people of strange language;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Judah was his sanctuary, and Israel his dominion.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Judah was his sanctuary, and Israel his dominion."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "The sea saw it, and fled: Jordan was driven back.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sea saw it, and fled: Jordan was driven back."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "The mountains skipped like rams, and the little hills like lambs.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The mountains skipped like rams, and the little hills like lambs."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?",
+      "familiar": {
+        "source": "KJV",
+        "text": "Ye mountains, that ye skipped like rams; and ye little hills, like lambs?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Tremble, thou earth, at the presence of the Lord, at the presence of the God of Jacob;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Which turned the rock into a standing water, the flint into a fountain of waters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Which turned the rock into a standing water, the flint into a fountain of waters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Exodus poetry cannot authorize contempt for modern Egyptians or any living people.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, acrostic structure, duplicate/reused psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}
