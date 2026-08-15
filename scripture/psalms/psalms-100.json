@@ -29,7 +29,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Make a joyful noise to the LORD, all the earth."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "מִזְמ֥וֹר לְתוֹדָ֑ה הָרִ֥יעוּ לַ֝יהוָ֗ה כָּל הָאָֽרֶץ"
+      }
     },
     {
       "verse": 2,
@@ -52,7 +62,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Serve the LORD with gladness; come into His presence with joyful songs."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "עִבְד֣וּ אֶת יְהוָ֣ה בְּשִׂמְחָ֑ה בֹּ֥אוּ לְ֝פָנָ֗יו בִּרְנָנָֽה"
+      }
     },
     {
       "verse": 3,
@@ -76,7 +96,17 @@
         "peoples-land"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Know that the LORD is God. It is He who made us, and we are His; we are His people, and the sheep of His pasture."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "דְּע֗וּ כִּֽי יְהוָה֮ ה֤וּא אֱלֹ֫הִ֥ים הֽוּא עָ֭שָׂנוּ ולא אֲנַ֑חְנוּ עַ֝מּ֗וֹ וְצֹ֣אן מַרְעִיתֽוֹ"
+      }
     },
     {
       "verse": 4,
@@ -93,7 +123,17 @@
         "praise-worship"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Enter His gates with thanksgiving and His courts with praise; give thanks to Him and bless His name."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "בֹּ֤אוּ שְׁעָרָ֨יו בְּתוֹדָ֗ה חֲצֵרֹתָ֥יו בִּתְהִלָּ֑ה הֽוֹדוּ ל֝֗וֹ בָּרֲכ֥וּ שְׁמֽוֹ"
+      }
     },
     {
       "verse": 5,
@@ -116,7 +156,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For the LORD is good, and His loving devotion endures forever; His faithfulness continues to all generations."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּי ט֣וֹב יְ֭הֹוָה לְעוֹלָ֣ם חַסְדּ֑וֹ וְעַד דֹּ֥ר וָ֝דֹ֗ר אֱמוּנָתֽוֹ"
+      }
     }
   ],
   "translation_notes": [
@@ -135,13 +185,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

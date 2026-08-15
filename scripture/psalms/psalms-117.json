@@ -31,7 +31,17 @@
         "praise-worship"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Praise the LORD, all you nations! Extol Him, all you peoples!"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הַֽלְל֣וּ אֶת יְ֭הוָה כָּל גּוֹיִ֑ם שַׁ֝בְּח֗וּהוּ כָּל הָאֻמִּֽים"
+      }
     },
     {
       "verse": 2,
@@ -55,7 +65,17 @@
         "praise-worship"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For great is His loving devotion toward us, and the faithfulness of the LORD endures forever. Hallelujah!"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּ֥י גָ֘בַ֤ר עָלֵ֨ינוּ חַסְדּ֗וֹ וֶֽאֱמֶת יְהוָ֥ה לְעוֹלָ֗ם הַֽלְלוּ יָֽהּ"
+      }
     }
   ],
   "translation_notes": [
@@ -74,13 +94,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

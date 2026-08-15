@@ -37,7 +37,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "In my distress I cried to the LORD, and He answered me."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "שִׁ֗יר הַֽמַּ֫עֲל֥וֹת אֶל יְ֭הוָה בַּצָּרָ֣תָה לִּ֑י קָ֝רָ֗אתִי וַֽיַּעֲנֵֽנִי"
+      }
     },
     {
       "verse": 2,
@@ -63,7 +73,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Deliver my soul, O LORD, from lying lips and a deceitful tongue."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "יְֽהוָ֗ה הַצִּ֣ילָה נַ֭פְשִׁי מִשְּׂפַת שֶׁ֑קֶר מִלָּשׁ֥וֹן רְמִיָּֽה"
+      }
     },
     {
       "verse": 3,
@@ -82,7 +102,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "What will He do to you, and what will be added to you, O deceitful tongue?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "מַה יִּתֵּ֣ן לְ֭ךָ וּמַה יֹּסִ֥יף לָ֗ךְ לָשׁ֥וֹן רְמִיָּֽה"
+      }
     },
     {
       "verse": 4,
@@ -103,7 +133,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Sharp arrows will come from the warrior, with burning coals of the broom tree!"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "חִצֵּ֣י גִבּ֣וֹר שְׁנוּנִ֑ים עִ֝֗ם גַּחֲלֵ֥י רְתָמִֽים"
+      }
     },
     {
       "verse": 5,
@@ -122,7 +162,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Woe to me that I dwell in Meshech, that I live among the tents of Kedar!"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אֽוֹיָה לִ֭י כִּי גַ֣רְתִּי מֶ֑שֶׁךְ שָׁ֝כַ֗נְתִּי עִֽם אָהֳלֵ֥י קֵדָֽר"
+      }
     },
     {
       "verse": 6,
@@ -141,7 +191,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Too long have I dwelt among those who hate peace."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "רַ֭בַּת שָֽׁכְנָה לָּ֣הּ נַפְשִׁ֑י עִ֝֗ם שׂוֹנֵ֥א שָׁלֽוֹם"
+      }
     },
     {
       "verse": 7,
@@ -162,7 +222,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "I am in favor of peace; but when I speak, they want war."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אֲֽנִי שָׁ֭לוֹם וְכִ֣י אֲדַבֵּ֑ר הֵ֝֗מָּה לַמִּלְחָמָֽה"
+      }
     }
   ],
   "translation_notes": [
@@ -181,13 +251,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
