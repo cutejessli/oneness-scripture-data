@@ -1,0 +1,331 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 17,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Vindication, hidden scrutiny, protection, violent enemies, wealth, and awakening."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Hear the right, O YHWH, attend to my cry, give ear to my prayer, that goeth not out of feigned lips.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear the right, O LORD, attend unto my cry, give ear unto my prayer, that goeth not out of feigned lips."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Let my sentence come forth from your presence; let your eyes behold the things that are equal.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let my sentence come forth from thy presence; let thine eyes behold the things that are equal."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "You have proved mine heart; you have visited me in the night; you have tried me, and shall find nothing; I am purposed that my mouth shall not transgress.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou hast proved mine heart; thou hast visited me in the night; thou hast tried me, and shalt find nothing; I am purposed that my mouth shall not transgress."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Concerning the works of men, by the word of your lips I have kept me from the paths of the destroyer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Concerning the works of men, by the word of thy lips I have kept me from the paths of the destroyer."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Hold up my goings in your paths, that my footsteps slip not.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hold up my goings in thy paths, that my footsteps slip not."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I have called upon you, for you will hear me, O God: incline your ear to me, and hear my speech.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have called upon thee, for thou wilt hear me, O God: incline thine ear unto me, and hear my speech."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Show your marvellous lovingkindness, O you that savest by your right hand them which put their trust in you from those that rise up against them.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee from those that rise up against them."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Keep me as the apple of the eye, hide me under the shadow of your wings,",
+      "familiar": {
+        "source": "KJV",
+        "text": "Keep me as the apple of the eye, hide me under the shadow of thy wings,"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "From the wicked that oppress me, from my deadly enemies, who compass me about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "From the wicked that oppress me, from my deadly enemies, who compass me about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "justice-vulnerable"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "They are inclosed in their own fat: with their mouth they speak proudly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They are inclosed in their own fat: with their mouth they speak proudly."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;",
+      "familiar": {
+        "source": "KJV",
+        "text": "They have now compassed us in our steps: they have set their eyes bowing down to the earth;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "Arise, O YHWH, disappoint him, cast him down: deliver my soul from the wicked, which is your sword:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Arise, O LORD, disappoint him, cast him down: deliver my soul from the wicked, which is thy sword:"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 14,
+      "restored": "From men which are your hand, O YHWH, from men of the world, which have their portion in this life, and whose belly you fillest with your hid treasure: they are full of children, and leave the rest of their substance to their babes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "From men which are thy hand, O LORD, from men of the world, which have their portion in this life, and whose belly thou fillest with thy hid treasure: they are full of children, and leave the rest of their substance to their babes."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "As for me, I will behold your face in righteousness: I shall be satisfied, when I awake, with your likeness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As for me, I will behold thy face in righteousness: I shall be satisfied, when I awake, with thy likeness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Enemy imagery remains prayer-poetry; neither wealth nor poverty is proof of moral standing.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 23,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Shepherd imagery, rest, deep darkness, enemies, anointing, abundance, and dwelling."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The YHWH is my shepherd; I shall not want.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD is my shepherd; I shall not want."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "He makes me to lie down in green pastures: he leadeth me beside the still waters.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name’s sake."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Even though I walk through a valley of deep darkness, I fear no evil, for you are with me; your rod and your staff comfort me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+      },
+      "notes": [
+        {
+          "title": "Tsalmavet",
+          "body": "The Hebrew tsalmavet is traditionally “shadow of death” but is widely understood as “deep darkness” or “gloom.” The restored text uses “deep darkness” while retaining the traditional reading in comparison layers."
+        }
+      ],
+      "terms": [
+        {
+          "display": "deep darkness",
+          "source": "צַלְמָוֶת",
+          "language": "Hebrew",
+          "glossary_id": "tsalmavet"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "You preparest a table before me in the presence of mine enemies: you anointest my head with oil; my cup runneth over.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the YHWH for ever.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Comfort poetry is not a promise that faithful people will avoid danger, illness, grief, or death.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

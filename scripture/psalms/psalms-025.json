@@ -1,0 +1,522 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 25,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Trust, shame, instruction, covenant, guilt, loneliness, pain, enemies, and communal redemption."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "To you, O YHWH, do I lift up my soul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Unto thee, O LORD, do I lift up my soul."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "O my God, I trust in you: let me not be ashamed, let not mine enemies triumph over me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O my God, I trust in thee: let me not be ashamed, let not mine enemies triumph over me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Yea, let none that wait on you be ashamed: let them be ashamed which transgress without cause.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Yea, let none that wait on thee be ashamed: let them be ashamed which transgress without cause."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Show me your ways, O YHWH; teach me your paths.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Shew me thy ways, O LORD; teach me thy paths."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Lead me in your truth, and teach me: for you are the God of my salvation; on you do I wait all the day.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lead me in thy truth, and teach me: for thou art the God of my salvation; on thee do I wait all the day."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Remember, O YHWH, your tender mercies and your lovingkindnesses; for they have been ever of old.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember, O LORD, thy tender mercies and thy lovingkindnesses; for they have been ever of old."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Remember not the sins of my youth, nor my transgressions: according to your mercy remember you me for your goodness’ sake, O YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Remember not the sins of my youth, nor my transgressions: according to thy mercy remember thou me for thy goodness’ sake, O LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Good and upright is the YHWH: therefore will he teach sinners in the way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Good and upright is the LORD: therefore will he teach sinners in the way."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "The meek will he guide in judgment: and the meek will he teach his way.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The meek will he guide in judgment: and the meek will he teach his way."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "torah-wisdom"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "All the paths of the YHWH are mercy and truth to such as keep his covenant and his testimonies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "For your name’s sake, O YHWH, pardon mine iniquity; for it is great.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thy name’s sake, O LORD, pardon mine iniquity; for it is great."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "What man is he that feareth the YHWH? him shall he teach in the way that he shall choose.",
+      "familiar": {
+        "source": "KJV",
+        "text": "What man is he that feareth the LORD? him shall he teach in the way that he shall choose."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "His soul shall dwell at ease; and his seed shall inherit the earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "His soul shall dwell at ease; and his seed shall inherit the earth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "The secret of the YHWH is with them that fear him; and he will show them his covenant.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The secret of the LORD is with them that fear him; and he will shew them his covenant."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "Mine eyes are ever toward the YHWH; for he shall pluck my feet out of the net.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Mine eyes are ever toward the LORD; for he shall pluck my feet out of the net."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Turn you to me, and have mercy upon me; for I am desolate and afflicted.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Turn thee unto me, and have mercy upon me; for I am desolate and afflicted."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "justice-vulnerable"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 17,
+      "restored": "The troubles of my heart are enlarged: O bring you me out of my distresses.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The troubles of my heart are enlarged: O bring thou me out of my distresses."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Look upon mine affliction and my pain; and forgive all my sins.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Look upon mine affliction and my pain; and forgive all my sins."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "justice-vulnerable"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 19,
+      "restored": "Consider mine enemies; for they are many; and they hate me with cruel hatred.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Consider mine enemies; for they are many; and they hate me with cruel hatred."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 20,
+      "restored": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O keep my soul, and deliver me: let me not be ashamed; for I put my trust in thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Let integrity and uprightness preserve me; for I wait on you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let integrity and uprightness preserve me; for I wait on thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "Redeem Israel, O God, out of all his troubles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Redeem Israel, O God, out of all his troubles."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Confession must not be manipulated into shame, coercion, or blaming people for suffering.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

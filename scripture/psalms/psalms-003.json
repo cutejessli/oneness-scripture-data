@@ -1,0 +1,216 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 3,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Threat, fear, sleep, protection, enemy violence, and deliverance."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Lord, how are they increased that trouble me! many are they that rise up against me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lord, how are they increased that trouble me! many are they that rise up against me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Many there be which say of my soul, There is no help for him in God. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Many there be which say of my soul, There is no help for him in God. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "But you, O YHWH, are a shield for me; my glory, and the lifter up of mine head.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But thou, O LORD, art a shield for me; my glory, and the lifter up of mine head."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "I cried to the YHWH with my voice, and he heard me out of his holy hill. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I cried unto the LORD with my voice, and he heard me out of his holy hill. Selah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "I laid me down and slept; I awaked; for the YHWH sustained me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I laid me down and slept; I awaked; for the LORD sustained me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I will not be afraid of ten thousands of people, that have set themselves against me round about.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will not be afraid of ten thousands of people, that have set themselves against me round about."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Arise, O YHWH; save me, O my God: for you have smitten all mine enemies upon the cheek bone; you have broken the teeth of the wicked.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Arise, O LORD; save me, O my God: for thou hast smitten all mine enemies upon the cheek bone; thou hast broken the teeth of the ungodly."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Salvation belongeth to the YHWH: your blessing is upon your people. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Salvation belongeth unto the LORD: thy blessing is upon thy people. Selah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Enemy language belongs to a personal lament and must not be mapped onto living groups. Violent imagery is prayer-poetry, not a directive to attack people.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

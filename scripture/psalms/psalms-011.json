@@ -1,0 +1,198 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 11,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Refuge, social foundations, violence, testing, fire, and justice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In the YHWH put I my trust: how say you to my soul, Flee as a bird to your mountain?",
+      "familiar": {
+        "source": "KJV",
+        "text": "In the LORD put I my trust: how say ye to my soul, Flee as a bird to your mountain?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "If the foundations be destroyed, what can the righteous do?",
+      "familiar": {
+        "source": "KJV",
+        "text": "If the foundations be destroyed, what can the righteous do?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "The YHWH is in his holy temple, the YHWH’s throne is in heaven: his eyes behold, his eyelids try, the children of men.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD is in his holy temple, the LORD’s throne is in heaven: his eyes behold, his eyelids try, the children of men."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "kingship",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "The YHWH trieth the righteous: but the wicked and him that loves violence his soul hates.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD trieth the righteous: but the wicked and him that loveth violence his soul hateth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Upon the wicked he shall rain snares, fire and brimstone, and an horrible tempest: this shall be the portion of their cup."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For the righteous YHWH loves righteousness; his countenance does behold the upright.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the righteous LORD loveth righteousness; his countenance doth behold the upright."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Fire-and-brimstone imagery is poetic judgment language, not an instruction for violence or a basis for disaster moralization.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

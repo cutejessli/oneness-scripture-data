@@ -1,0 +1,184 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 13,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Abandonment, sorrow, enemy pressure, trust, and song."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "How long will you forget me, O YHWH? for ever? how long will you hide your face from me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "How long wilt thou forget me, O LORD? for ever? how long wilt thou hide thy face from me?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?",
+      "familiar": {
+        "source": "KJV",
+        "text": "How long shall I take counsel in my soul, having sorrow in my heart daily? how long shall mine enemy be exalted over me?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "lament-mortality"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Consider and hear me, O YHWH my God: lighten mine eyes, lest I sleep the sleep of death;",
+      "familiar": {
+        "source": "KJV",
+        "text": "Consider and hear me, O LORD my God: lighten mine eyes, lest I sleep the sleep of death;"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "lament-mortality"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lest mine enemy say, I have prevailed against him; and those that trouble me rejoice when I am moved."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "But I have trusted in your mercy; my heart shall rejoice in your salvation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I have trusted in thy mercy; my heart shall rejoice in thy salvation."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I will sing to the YHWH, because he has dealt bountifully with me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will sing unto the LORD, because he hath dealt bountifully with me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Feeling forgotten by God is allowed inside scripture and should never be treated as spiritual failure or grounds for self-harm.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

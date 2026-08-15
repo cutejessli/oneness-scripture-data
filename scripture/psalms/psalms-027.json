@@ -1,0 +1,369 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 27,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Fear, war, sanctuary, beauty, abandonment by parents, false witnesses, and patient courage."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "The YHWH is my light and my salvation; whom shall I fear? the YHWH is the strength of my life; of whom shall I be afraid?",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD is my light and my salvation; whom shall I fear? the LORD is the strength of my life; of whom shall I be afraid?"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Though an host should encamp against me, my heart shall not fear: though war should rise against me, in this will I be confident."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "One thing have I desired of the YHWH, that will I seek after; that I may dwell in the house of the YHWH all the days of my life, to behold the beauty of the YHWH, and to enquire in his temple.",
+      "familiar": {
+        "source": "KJV",
+        "text": "One thing have I desired of the LORD, that will I seek after; that I may dwell in the house of the LORD all the days of my life, to behold the beauty of the LORD, and to enquire in his temple."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For in the time of trouble he shall hide me in his pavilion: in the secret of his tabernacle shall he hide me; he shall set me up upon a rock."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises to the YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And now shall mine head be lifted up above mine enemies round about me: therefore will I offer in his tabernacle sacrifices of joy; I will sing, yea, I will sing praises unto the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Hear, O YHWH, when I cry with my voice: have mercy also upon me, and answer me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear, O LORD, when I cry with my voice: have mercy also upon me, and answer me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        },
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "When you saidst, Seek you my face; my heart said to you, Your face, YHWH, will I seek.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When thou saidst, Seek ye my face; my heart said unto thee, Thy face, LORD, will I seek."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Hide not your face far from me; put not your servant away in anger: you have been my help; leave me not, neither forsake me, O God of my salvation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hide not thy face far from me; put not thy servant away in anger: thou hast been my help; leave me not, neither forsake me, O God of my salvation."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "When my father and my mother forsake me, then the YHWH will take me up.",
+      "familiar": {
+        "source": "KJV",
+        "text": "When my father and my mother forsake me, then the LORD will take me up."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "Teach me your way, O YHWH, and lead me in a plain path, because of mine enemies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Teach me thy way, O LORD, and lead me in a plain path, because of mine enemies."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "Deliver me not over to the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 13,
+      "restored": "I had fainted, unless I had believed to see the goodness of the YHWH in the land of the living.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I had fainted, unless I had believed to see the goodness of the LORD in the land of the living."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Wait on the YHWH: be of good courage, and he shall strengthen your heart: wait, I say, on the YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wait on the LORD: be of good courage, and he shall strengthen thine heart: wait, I say, on the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "The psalm does not guarantee family acceptance, military victory, or immediate rescue; people abandoned by family deserve concrete human support as well as spiritual comfort.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

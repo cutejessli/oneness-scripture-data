@@ -1,0 +1,305 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 5,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Morning prayer, deceit, bloodshed, judgment, worship, and protection."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Give ear to my words, O YHWH, consider my meditation.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Give ear to my words, O LORD, consider my meditation."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Listen to the voice of my cry, my King, and my God: for to you will I pray.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hearken unto the voice of my cry, my King, and my God: for unto thee will I pray."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "leader-accountability-no-sacred-immunity",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "My voice shall you hear in the morning, O YHWH; in the morning will I direct my prayer to you, and will look up.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My voice shalt thou hear in the morning, O LORD; in the morning will I direct my prayer unto thee, and will look up."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "For you are not a God that has pleasure in wickedness: neither shall evil dwell with you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou art not a God that hath pleasure in wickedness: neither shall evil dwell with thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "The foolish shall not stand in your sight: you hatest all workers of iniquity.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The foolish shall not stand in thy sight: thou hatest all workers of iniquity."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "You shall destroy them that speak falsehood: the YHWH will abhor the bloody and deceitful man.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt destroy them that speak leasing: the LORD will abhor the bloody and deceitful man."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "But as for me, I will come into your house in the multitude of your mercy: and in your fear will I worship toward your holy temple.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But as for me, I will come into thy house in the multitude of thy mercy: and in thy fear will I worship toward thy holy temple."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "steadfast love",
+          "source": "חֶסֶד",
+          "language": "Hebrew",
+          "glossary_id": "hesed"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Lead me, O YHWH, in your righteousness because of mine enemies; make your way straight before my face.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lead me, O LORD, in thy righteousness because of mine enemies; make thy way straight before my face."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open grave; they flatter with their tongue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 10,
+      "restored": "Destroy you them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 11,
+      "restored": "But let all those that put their trust in you rejoice: let them ever shout for joy, because you defendest them: let them also that love your name be joyful in you.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But let all those that put their trust in thee rejoice: let them ever shout for joy, because thou defendest them: let them also that love thy name be joyful in thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "For you, YHWH, will bless the righteous; with favour will you compass him as with a shield.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou, LORD, wilt bless the righteous; with favour wilt thou compass him as with a shield."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "suffering-illness-nonstigmatizing"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Requests for an enemy’s downfall are lament language, not permission for personal retaliation or sacred violence.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 8,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Creation, human dignity, elohim, dominion, animals, sea, and cosmic praise."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "O YHWH, our Lord, how excellent is your name in all the earth! who hast set your glory above the heavens.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O LORD, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Out of the mouth of babes and sucklings hast you ordained strength because of your enemies, that you mightest still the enemy and the avenger.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-enemy-language-not-modern-target",
+        "suffering-illness-nonstigmatizing"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "When I consider your heavens, the work of your fingers, the moon and the stars, which you have ordained;",
+      "familiar": {
+        "source": "KJV",
+        "text": "When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "What is humanity, that you remember them, and a human being, that you attend to them?",
+      "familiar": {
+        "source": "KJV",
+        "text": "What is man, that thou art mindful of him? and the son of man, that thou visitest him?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Hebrews 2:6-9",
+          "relationship": "later-reception"
+        },
+        {
+          "reference": "Genesis 1:26-28",
+          "relationship": "creation-connection"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Yet you have made humanity a little lower than the divine beings [elohim], and crowned them with glory and honor.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou hast made him a little lower than the angels, and hast crowned him with glory and honour."
+      },
+      "notes": [
+        {
+          "title": "Elohim: God or divine beings",
+          "body": "Hebrew elohim can refer to God or divine beings. The Greek tradition renders “angels,” a reading later cited in Hebrews 2. The restored text keeps the Hebrew semantic range visible."
+        }
+      ],
+      "terms": [
+        {
+          "display": "elohim / divine beings",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "You madest him to have dominion over the works of your hands; you have put all things under his feet:",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "All sheep and oxen, yea, and the beasts of the field;",
+      "familiar": {
+        "source": "KJV",
+        "text": "All sheep and oxen, yea, and the beasts of the field;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "The fowl of the air, and the fish of the sea, and whatever passeth through the paths of the seas.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "O YHWH our Lord, how excellent is your name in all the earth!",
+      "familiar": {
+        "source": "KJV",
+        "text": "O LORD our Lord, how excellent is thy name in all the earth!"
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-name",
+        "creation"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter expands corpus coverage while remaining explicitly pending a deeper Hebrew/source-witness audit. KJV is retained only as the familiar comparison layer. Curated overrides preserve major lexical or textual issues where identified."
+  ],
+  "safety_note": "Human “dominion” is not a license for ecological exploitation, cruelty, or claims of superiority over vulnerable people.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Scrolls where extant, and other relevant witnesses during the global audit.",
+    "Preserve Psalm numbering and superscription differences across Hebrew and Greek traditions rather than silently harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}
