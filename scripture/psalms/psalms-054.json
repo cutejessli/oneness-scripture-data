@@ -24,7 +24,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Save me, O God, by Your name, and vindicate me by Your might!"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "בְּב֣וֹא הַ֭זִּיפִים וַיֹּאמְר֣וּ לְשָׁא֑וּל הֲלֹ֥א דָ֝וִ֗ד מִסְתַּתֵּ֥ר עִמָּֽנוּ אֱ֭לֹהִים בְּשִׁמְךָ֣ הוֹשִׁיעֵ֑נִי וּבִגְבוּרָתְךָ֥ תְדִינֵֽנִי"
+      }
     },
     {
       "verse": 2,
@@ -42,7 +52,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Hear my prayer, O God; listen to the words of my mouth."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אֱ֭לֹהִים שְׁמַ֣ע תְּפִלָּתִ֑י הַ֝אֲזִ֗ינָה לְאִמְרֵי פִֽי"
+      }
     },
     {
       "verse": 3,
@@ -61,7 +81,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For strangers rise up against me, and ruthless men seek my life— men with no regard for God. Selah"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּ֤י זָרִ֨ים קָ֤מוּ עָלַ֗י וְֽ֭עָרִיצִים בִּקְשׁ֣וּ נַפְשִׁ֑י לֹ֤א שָׂ֨מוּ אֱלֹהִ֖ים לְנֶגְדָּ֣ם סֶֽלָה"
+      }
     },
     {
       "verse": 4,
@@ -79,7 +109,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Surely God is my helper; the Lord is the sustainer of my soul."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הִנֵּ֣ה אֱ֭לֹהִים עֹזֵ֣ר לִ֑י אֲ֝דֹנָ֗י בְּֽסֹמְכֵ֥י נַפְשִֽׁי"
+      }
     },
     {
       "verse": 5,
@@ -99,7 +139,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He will reward my enemies with evil. In Your faithfulness, destroy them."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "ישוב הָ֭רַע לְשֹׁרְרָ֑י בַּ֝אֲמִתְּךָ֗ הַצְמִיתֵֽם"
+      }
     },
     {
       "verse": 6,
@@ -125,7 +175,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Freely I will sacrifice to You; I will praise Your name, O LORD, for it is good."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "בִּנְדָבָ֥ה אֶזְבְּחָה לָּ֑ךְ א֤וֹדֶה שִּׁמְךָ֖ יְהוָ֣ה כִּי טֽוֹב"
+      }
     },
     {
       "verse": 7,
@@ -145,7 +205,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For He has delivered me from every trouble, and my eyes have stared down my foes."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּ֣י מִכָּל צָ֭רָה הִצִּילָ֑נִי וּ֝בְאֹיְבַ֗י רָאֲתָ֥ה עֵינִֽי"
+      }
     }
   ],
   "translation_notes": [
@@ -164,13 +234,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

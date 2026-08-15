@@ -34,7 +34,17 @@
           "relationship": "literary-continuation"
         }
       ],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Vindicate me, O God, and plead my case against an ungodly nation; deliver me from deceitful and unjust men."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "שָׁפְטֵ֤נִי אֱלֹהִ֨ים וְרִ֘יבָ֤ה רִיבִ֗י מִגּ֥וֹי לֹא חָסִ֑יד מֵ֤אִישׁ מִרְמָ֖ה וְעַוְלָ֣ה תְפַלְּטֵֽנִי"
+      }
     },
     {
       "verse": 2,
@@ -60,7 +70,17 @@
       ],
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For You are the God of my refuge. Why have You rejected me? Why must I walk in sorrow because of the enemy’s oppression?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּֽי אַתָּ֤ה אֱלֹהֵ֣י מָֽעוּזִּי֮ לָמָ֪ה זְנַ֫חְתָּ֥נִי לָֽמָּה קֹדֵ֥ר אֶתְהַלֵּ֗ךְ בְּלַ֣חַץ אוֹיֵֽב"
+      }
     },
     {
       "verse": 3,
@@ -82,7 +102,17 @@
           "relationship": "literary-continuation"
         }
       ],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Send out Your light and Your truth; let them lead me. Let them bring me to Your holy mountain, and to the place where You dwell."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "שְׁלַח אוֹרְךָ֣ וַ֭אֲמִתְּךָ הֵ֣מָּה יַנְח֑וּנִי יְבִיא֥וּנִי אֶל הַֽר קָ֝דְשְׁךָ֗ וְאֶל מִשְׁכְּנוֹתֶֽיךָ"
+      }
     },
     {
       "verse": 4,
@@ -105,7 +135,17 @@
           "relationship": "literary-continuation"
         }
       ],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Then I will go to the altar of God, to God, my greatest joy. I will praise You with the harp, O God, my God."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וְאָב֤וֹאָה אֶל מִזְבַּ֬ח אֱלֹהִ֗ים אֶל אֵל֮ שִׂמְחַ֪ת גִּ֫ילִ֥י וְאוֹדְךָ֥ בְכִנּ֗וֹר אֱלֹהִ֥ים אֱלֹהָֽי"
+      }
     },
     {
       "verse": 5,
@@ -128,7 +168,17 @@
           "relationship": "literary-continuation"
         }
       ],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Why are you downcast, O my soul? Why the unease within me? Put your hope in God, for I will yet praise Him, my Savior and my God."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "מַה תִּשְׁתּ֬וֹחֲחִ֨י נַפְשִׁי֮ וּֽמַה תֶּהֱמִ֪י עָ֫לָ֥י הוֹחִ֣ילִי לֵֽ֭אלֹהִים כִּי ע֣וֹד אוֹדֶ֑נּוּ יְשׁוּעֹ֥ת פָּ֝נַ֗י וֵֽאלֹהָֽי"
+      }
     }
   ],
   "translation_notes": [
@@ -147,13 +197,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
