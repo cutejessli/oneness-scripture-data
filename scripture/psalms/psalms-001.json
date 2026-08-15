@@ -23,7 +23,17 @@
         "creation"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Blessed is the man who does not walk in the counsel of the wicked, or set foot on the path of sinners, or sit in the seat of mockers."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אַ֥שְֽׁרֵי הָאִ֗ישׁ אֲשֶׁ֤ר לֹ֥א הָלַךְ֮ בַּעֲצַ֪ת רְשָׁ֫עִ֥ים וּבְדֶ֣רֶךְ חַ֭טָּאִים לֹ֥א עָמָ֑ד וּבְמוֹשַׁ֥ב לֵ֝צִ֗ים לֹ֣א יָשָֽׁב"
+      }
     },
     {
       "verse": 2,
@@ -54,7 +64,17 @@
         "torah-wisdom"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "But his delight is in the Law of the LORD, and on His law he meditates day and night."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּ֤י אִ֥ם בְּתוֹרַ֥ת יְהוָ֗ה חֶ֫פְצ֥וֹ וּֽבְתוֹרָת֥וֹ יֶהְגֶּ֗ה יוֹמָ֥ם וָלָֽיְלָה"
+      }
     },
     {
       "verse": 3,
@@ -73,7 +93,17 @@
       "cross_references": [],
       "editorial_flags": [
         "anti-prosperity-formula"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He is like a tree planted by streams of water, yielding its fruit in season, whose leaf does not wither, and who prospers in all he does."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וְֽהָיָ֗ה כְּעֵץ֮ שָׁת֪וּל עַֽל פַּלְגֵ֫י מָ֥יִם אֲשֶׁ֤ר פִּרְי֨וֹ יִתֵּ֬ן בְּעִתּ֗וֹ וְעָלֵ֥הוּ לֹֽא יִבּ֑וֹל וְכֹ֖ל אֲשֶׁר יַעֲשֶׂ֣ה יַצְלִֽיחַ"
+      }
     },
     {
       "verse": 4,
@@ -89,7 +119,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Not so the wicked! For they are like chaff driven off by the wind."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "לֹא כֵ֥ן הָרְשָׁעִ֑ים כִּ֥י אִם כַּ֝מֹּ֗ץ אֲֽשֶׁר תִּדְּפֶ֥נּוּ רֽוּחַ"
+      }
     },
     {
       "verse": 5,
@@ -106,7 +146,17 @@
         "torah-wisdom"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Therefore the wicked will not stand in the judgment, nor sinners in the assembly of the righteous."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "עַל כֵּ֤ן לֹא יָקֻ֣מוּ רְ֭שָׁעִים בַּמִּשְׁפָּ֑ט וְ֝חַטָּאִ֗ים בַּעֲדַ֥ת צַדִּיקִֽים"
+      }
     },
     {
       "verse": 6,
@@ -130,7 +180,17 @@
         "divine-name"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "For the LORD guards the path of the righteous, but the way of the wicked will perish."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כִּֽי יוֹדֵ֣עַ יְ֭הוָה דֶּ֣רֶךְ צַדִּיקִ֑ים וְדֶ֖רֶךְ רְשָׁעִ֣ים תֹּאבֵֽד"
+      }
     }
   ],
   "translation_notes": [
@@ -151,13 +211,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

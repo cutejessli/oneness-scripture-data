@@ -24,7 +24,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "O LORD, who may abide in Your tent? Who may dwell on Your holy mountain?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "מִזְמ֗וֹר לְדָ֫וִ֥ד יְ֭הֹוָה מִי יָג֣וּר בְּאָהֳלֶ֑ךָ מִֽי יִ֝שְׁכֹּ֗ן בְּהַ֣ר קָדְשֶֽׁךָ"
+      }
     },
     {
       "verse": 2,
@@ -40,7 +50,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He who walks with integrity and practices righteousness, who speaks the truth from his heart,"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הוֹלֵ֣ךְ תָּ֭מִים וּפֹעֵ֥ל צֶ֑דֶק וְדֹבֵ֥ר אֱ֝מֶ֗ת בִּלְבָבֽוֹ"
+      }
     },
     {
       "verse": 3,
@@ -56,7 +76,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "who has no slander on his tongue, who does no harm to his neighbor, who casts no scorn on his friend,"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "לֹֽא רָגַ֨ל עַל לְשֹׁנ֗וֹ לֹא עָשָׂ֣ה לְרֵעֵ֣הוּ רָעָ֑ה וְ֝חֶרְפָּ֗ה לֹא נָשָׂ֥א עַל קְרֹֽבוֹ"
+      }
     },
     {
       "verse": 4,
@@ -80,7 +110,17 @@
         "divine-name"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "who despises the vile but honors those who fear the LORD, who does not revise a costly oath,"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "נִבְזֶ֤ה בְּֽעֵ֘ינָ֤יו נִמְאָ֗ס וְאֶת יִרְאֵ֣י יְהוָ֣ה יְכַבֵּ֑ד נִשְׁבַּ֥ע לְ֝הָרַ֗ע וְלֹ֣א יָמִֽר"
+      }
     },
     {
       "verse": 5,
@@ -99,7 +139,17 @@
       "cross_references": [],
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "who lends his money without interest and refuses a bribe against the innocent. He who does these things will never be shaken."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "כַּסְפּ֤וֹ לֹא נָתַ֣ן בְּנֶשֶׁךְ֮ וְשֹׁ֥חַד עַל נָקִ֗י לֹ֥א לָ֫קָ֥ח עֹֽשֵׂה אֵ֑לֶּה לֹ֖א יִמּ֣וֹט לְעוֹלָֽם"
+      }
     }
   ],
   "translation_notes": [
@@ -120,13 +170,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

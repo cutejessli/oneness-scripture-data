@@ -32,7 +32,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "How long, O LORD? Will You forget me forever? How long will You hide Your face from me?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "לַמְנַצֵּ֗חַ מִזְמ֥וֹר לְדָוִֽד עַד אָ֣נָה יְ֭הוָה תִּשְׁכָּחֵ֣נִי נֶ֑צַח עַד אָ֓נָה תַּסְתִּ֖יר אֶת פָּנֶ֣יךָ מִמֶּֽנִּי"
+      }
     },
     {
       "verse": 2,
@@ -54,7 +64,17 @@
         "poetic-violence-description-not-modern-authorization",
         "ancient-enemy-language-not-modern-target",
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "How long must I wrestle in my soul, with sorrow in my heart each day? How long will my enemy dominate me?"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "עַד אָ֨נָה אָשִׁ֪ית עֵצ֡וֹת בְּנַפְשִׁ֗י יָג֣וֹן בִּלְבָבִ֣י יוֹמָ֑ם עַד אָ֓נָה יָר֖וּם אֹיְבִ֣י עָלָֽי"
+      }
     },
     {
       "verse": 3,
@@ -81,7 +101,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Consider me and respond, O LORD my God. Give light to my eyes, lest I sleep in death,"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "הַבִּ֣יטָֽה עֲ֭נֵנִי יְהוָ֣ה אֱלֹהָ֑י הָאִ֥ירָה עֵ֝ינַ֗י פֶּן אִישַׁ֥ן הַמָּֽוֶת"
+      }
     },
     {
       "verse": 4,
@@ -101,7 +131,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-enemy-language-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "lest my enemy say, “I have overcome him,” and my foes rejoice when I fall."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "פֶּן יֹאמַ֣ר אֹיְבִ֣י יְכָלְתִּ֑יו צָרַ֥י יָ֝גִ֗ילוּ כִּ֣י אֶמּֽוֹט"
+      }
     },
     {
       "verse": 5,
@@ -125,7 +165,17 @@
         "trust-refuge"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "But I have trusted in Your loving devotion; my heart will rejoice in Your salvation."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וַאֲנִ֤י בְּחַסְדְּךָ֣ בָטַחְתִּי֮ יָ֤גֵ֥ל לִבִּ֗י בִּֽישׁוּעָ֫תֶ֥ךָ"
+      }
     },
     {
       "verse": 6,
@@ -152,7 +202,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "I will sing to the LORD, for He has been good to me."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אָשִׁ֥ירָה לַיהוָ֑ה כִּ֖י גָמַ֣ל עָלָֽי"
+      }
     }
   ],
   "translation_notes": [
@@ -173,13 +233,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }

@@ -30,7 +30,17 @@
         "divine-name"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "The LORD is my shepherd; I shall not want."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "מִזְמ֥וֹר לְדָוִ֑ד יְהוָ֥ה רֹ֝עִ֗י לֹ֣א אֶחְסָֽר"
+      }
     },
     {
       "verse": 2,
@@ -49,7 +59,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He makes me lie down in green pastures; He leads me beside quiet waters."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "בִּנְא֣וֹת דֶּ֭שֶׁא יַרְבִּיצֵ֑נִי עַל מֵ֖י מְנֻח֣וֹת יְנַהֲלֵֽנִי"
+      }
     },
     {
       "verse": 3,
@@ -65,7 +85,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He restores my soul; He guides me in the paths of righteousness for the sake of His name."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "נַפְשִׁ֥י יְשׁוֹבֵ֑ב יַֽנְחֵ֥נִי בְמַעְגְּלֵי צֶ֝֗דֶק לְמַ֣עַן שְׁמֽוֹ"
+      }
     },
     {
       "verse": 4,
@@ -93,7 +123,17 @@
         "poetry"
       ],
       "cross_references": [],
-      "editorial_flags": []
+      "editorial_flags": [],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for You are with me; Your rod and Your staff, they comfort me."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "גַּ֤ם כִּֽי אֵלֵ֨ךְ בְּגֵ֪יא צַלְמָ֡וֶת לֹא אִ֘ירָ֤א רָ֗ע כִּי אַתָּ֥ה עִמָּדִ֑י שִׁבְטְךָ֥ וּ֝מִשְׁעַנְתֶּ֗ךָ הֵ֣מָּה יְנַֽחֲמֻֽנִי"
+      }
     },
     {
       "verse": 5,
@@ -113,7 +153,17 @@
       "editorial_flags": [
         "poetic-violence-description-not-modern-authorization",
         "ancient-enemy-language-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "תַּעֲרֹ֬ךְ לְפָנַ֨י שֻׁלְחָ֗ן נֶ֥גֶד צֹרְרָ֑י דִּשַּׁ֖נְתָּ בַשֶּׁ֥מֶן רֹ֝אשִׁ֗י כּוֹסִ֥י רְוָיָֽה"
+      }
     },
     {
       "verse": 6,
@@ -145,7 +195,17 @@
       "cross_references": [],
       "editorial_flags": [
         "suffering-illness-nonstigmatizing"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Surely goodness and mercy will follow me all the days of my life, and I will dwell in the house of the LORD forever."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אַ֤ךְ ט֤וֹב וָחֶ֣סֶד יִ֭רְדְּפוּנִי כָּל יְמֵ֣י חַיָּ֑י וְשַׁבְתִּ֥י בְּבֵית יְ֝הוָ֗ה לְאֹ֣רֶךְ יָמִֽים"
+      }
     }
   ],
   "translation_notes": [
@@ -166,13 +226,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
