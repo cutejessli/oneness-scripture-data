@@ -24,7 +24,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "He has founded His city on the holy mountains."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "לִבְנֵי קֹ֭רַח מִזְמ֣וֹר שִׁ֑יר יְ֝סוּדָת֗וֹ בְּהַרְרֵי קֹֽדֶשׁ"
+      }
     },
     {
       "verse": 2,
@@ -49,7 +59,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "The LORD loves the gates of Zion more than all the dwellings of Jacob."
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אֹהֵ֣ב יְ֭הוָה שַׁעֲרֵ֣י צִיּ֑וֹן מִ֝כֹּ֗ל מִשְׁכְּנ֥וֹת יַעֲקֹֽב"
+      }
     },
     {
       "verse": 3,
@@ -67,7 +87,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Glorious things are ascribed to you, O city of God. Selah"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "נִ֭כְבָּדוֹת מְדֻבָּ֣ר בָּ֑ךְ עִ֖יר הָאֱלֹהִ֣ים סֶֽלָה"
+      }
     },
     {
       "verse": 4,
@@ -90,7 +120,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "“I will mention Rahab and Babylon among those who know Me— along with Philistia, Tyre, and Cush — when I say, ‘This one was born in Zion.’”"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "אַזְכִּ֤יר רַ֥הַב וּבָבֶ֗ל לְֽיֹ֫דְעָ֥י הִנֵּ֤ה פְלֶ֣שֶׁת וְצ֣וֹר עִם כּ֑וּשׁ זֶ֝֗ה יֻלַּד שָֽׁם"
+      }
     },
     {
       "verse": 5,
@@ -108,7 +148,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "And it will be said of Zion: “This one and that one were born in her, and the Most High Himself will establish her.”"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וּֽלֲצִיּ֨וֹן יֵאָמַ֗ר אִ֣ישׁ וְ֭אִישׁ יֻלַּד בָּ֑הּ וְה֖וּא יְכוֹנְנֶ֣הָ עֶלְיֽוֹן"
+      }
     },
     {
       "verse": 6,
@@ -134,7 +184,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "The LORD will record in the register of the peoples: “This one was born in Zion.” Selah"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "יְֽהוָ֗ה יִ֭סְפֹּר בִּכְת֣וֹב עַמִּ֑ים זֶ֖ה יֻלַּד שָׁ֣ם סֶֽלָה"
+      }
     },
     {
       "verse": 7,
@@ -152,7 +212,17 @@
       "cross_references": [],
       "editorial_flags": [
         "ancient-peoples-land-not-modern-target"
-      ]
+      ],
+      "modern": {
+        "source": "BSB",
+        "edition": "Berean Standard Bible, current 3rd Printing",
+        "text": "Singers and pipers will proclaim, “All my springs of joy are in You.”"
+      },
+      "original": {
+        "source": "WLC/OSHB",
+        "language": "Hebrew",
+        "text": "וְשָׁרִ֥ים כְּחֹלְלִ֑ים כָּֽל מַעְיָנַ֥י בָּֽךְ"
+      }
     }
   ],
   "translation_notes": [
@@ -171,13 +241,33 @@
     "cross_references": "selective",
     "editorial_flags": "baseline",
     "mystical_companion": "separate-file",
-    "modern_comparison": "pending-reference-backfill",
-    "original_language": "pending-reference-backfill"
+    "modern_comparison": "complete-BSB-with-textual-status",
+    "original_language": "complete-open-source-with-verse-status"
   },
   "generation_status": {
     "status": "chatgpt-authored-completion-draft",
     "intelligence": "ChatGPT conversation",
     "external_ai_runner": false,
     "continuity_audit": "pending-global-pass"
+  },
+  "reference_layers": {
+    "modern": {
+      "source": "Berean Standard Bible",
+      "edition": "Current 3rd Printing; eBible source files dated June 2026",
+      "license": "Public Domain",
+      "provenance": "eBible.org engbsb USFM distribution from BSB Publishing, LLC"
+    },
+    "original_hebrew": {
+      "source": "Westminster Leningrad Codex via Open Scriptures Hebrew Bible",
+      "text_license": "Public Domain",
+      "morphology_license": "CC BY 4.0",
+      "attribution": "Open Scriptures Hebrew Bible Project"
+    },
+    "original_greek": {
+      "source": "SBL Greek New Testament",
+      "edition": "official current source / v1.2 repository",
+      "license": "CC BY 4.0",
+      "attribution": "Society of Biblical Literature and Logos/Faithlife"
+    }
   }
 }
