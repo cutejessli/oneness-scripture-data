@@ -1,0 +1,37 @@
+name: Polish ChatGPT Psalms 31-60
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/polish-chatgpt-psalms-031-060.mjs"
+      - ".github/workflows/polish-chatgpt-psalms-031-060.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  polish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+      - run: git pull --ff-only origin main
+      - run: node scripts/polish-chatgpt-psalms-031-060.mjs
+      - run: node scripts/validate-generated-canon.mjs --books="psalms"
+      - run: node scripts/build-library-index.mjs
+      - name: Commit polish
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add scripture/psalms metadata/library-index.json
+          if git diff --cached --quiet; then
+            echo "No Psalms 31-60 polish changes needed."
+            exit 0
+          fi
+          git commit -m "Polish Psalms 31-60 verse tagging"
+          git pull --rebase origin main
+          git push
