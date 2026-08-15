@@ -1,0 +1,183 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 87,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Zion, nations, Rahab/Egypt, Babylon, Philistia, Tyre, Cush, birth, and belonging."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "His foundation is in the holy mountains.",
+      "familiar": {
+        "source": "KJV",
+        "text": "His foundation is in the holy mountains."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "YHWH loveth the gates of Zion more than all the dwellings of Jacob.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD loveth the gates of Zion more than all the dwellings of Jacob."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Glorious things are spoken of thee, O city of God. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Glorious things are spoken of thee, O city of God. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "I will mention Rahab and Babylon among those who know me; behold Philistia and Tyre, with Cush—“This one was born there.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there."
+      },
+      "notes": [
+        {
+          "title": "Rahab here",
+          "body": "Rahab in this verse is a poetic name for Egypt, not the woman Rahab of Joshua. The striking point is the inclusion of former or foreign powers among those who “know” God."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And of Zion it shall be said, This and that man was born in her: and the highest himself shall establish her."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "YHWH shall count, when he writeth up the people, that this man was born there. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The LORD shall count, when he writeth up the people, that this man was born there. Selah."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "As well the singers as the players on instruments shall be there: all my springs are in thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "As well the singers as the players on instruments shall be there: all my springs are in thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "The psalm’s surprising inclusion of foreign peoples should not be reversed into ethnic exclusion or territorial supremacy.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 70,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Urgent rescue, enemies, shame, seeking, and praise."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "MAKE HASTE, O GOD, TO DELIVER ME; MAKE HASTE TO HELP ME, O YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "MAKE HASTE, O GOD, TO DELIVER ME; MAKE HASTE TO HELP ME, O LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let them be ashamed and confounded that seek after my soul: let them be turned backward, and put to confusion, that desire my hurt."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Let them be turned back for a reward of their shame that say, Aha, aha.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let them be turned back for a reward of their shame that say, Aha, aha."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "But I am poor and needy: make haste to me, O God: thou art my help and my deliverer; O YHWH, make no tarrying.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I am poor and needy: make haste unto me, O God: thou art my help and my deliverer; O LORD, make no tarrying."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "poverty-justice"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Requests for enemies’ shame are prayer-poetry and cannot authorize harassment or retaliation.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

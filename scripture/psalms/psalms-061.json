@@ -1,0 +1,177 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 61,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Distance, refuge, king imagery, vows, protection, and faintness."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Hear my cry, O God; attend to my prayer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear my cry, O God; attend unto my prayer."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "From the end of the earth I call to you when my heart grows faint; lead me to a rock higher than I.",
+      "familiar": {
+        "source": "KJV",
+        "text": "From the end of the earth will I cry unto thee, when my heart is overwhelmed: lead me to the rock that is higher than I."
+      },
+      "notes": [
+        {
+          "title": "End of the earth",
+          "body": "This is poetic distance and disorientation, not a cosmological map. The prayer moves from faintness toward refuge."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For thou hast been a shelter for me, and a strong tower from the enemy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou hast been a shelter for me, and a strong tower from the enemy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will abide in thy tabernacle for ever: I will trust in the covert of thy wings. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou, O God, hast heard my vows: thou hast given me the heritage of those that fear thy name."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Thou wilt prolong the king’s life: and his years as many generations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou wilt prolong the king’s life: and his years as many generations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall abide before God for ever: O prepare mercy and truth, which may preserve him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "So will I sing praise to thy name for ever, that I may daily perform my vows.",
+      "familiar": {
+        "source": "KJV",
+        "text": "So will I sing praise unto thy name for ever, that I may daily perform my vows."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Royal and enemy language is devotional poetry, not leader immunity or permission to harm opponents.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

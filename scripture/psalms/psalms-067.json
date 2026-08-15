@@ -1,0 +1,158 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 67,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Blessing, nations, earth, harvest, and divine justice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "God be merciful to us, and bless us; and cause his face to shine upon us; Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God be merciful unto us, and bless us; and cause his face to shine upon us; Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "That thy way may be known upon earth, thy saving health among all nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "That thy way may be known upon earth, thy saving health among all nations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Let the people praise thee, O God; let all the people praise thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the people praise thee, O God; let all the people praise thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O let the nations be glad and sing for joy: for thou shalt judge the people righteously, and govern the nations upon earth. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Let the people praise thee, O God; let all the people praise thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the people praise thee, O God; let all the people praise thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Then shall the earth yield her increase; and God, even our own God, shall bless us.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shall the earth yield her increase; and God, even our own God, shall bless us."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "God shall bless us; and all the ends of the earth shall fear him.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God shall bless us; and all the ends of the earth shall fear him."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Blessing is expansive rather than ethnically exclusive; it must not support supremacy or coercive mission.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

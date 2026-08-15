@@ -1,0 +1,222 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 82,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Divine council, elohim, unjust judgment, poor and needy people, gods, mortality, and justice."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "God stands in the divine assembly; in the midst of the gods he judges.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God standeth in the congregation of the mighty; he judgeth among the gods."
+      },
+      "notes": [
+        {
+          "title": "Divine assembly",
+          "body": "Hebrew elohim appears both for God and for the beings/judges within the divine assembly. The verse preserves an ancient divine-council image rather than flattening every occurrence into the same referent."
+        }
+      ],
+      "terms": [
+        {
+          "display": "elohim / gods",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim-divine-council"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "How long will ye judge unjustly, and accept the persons of the wicked? Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "How long will ye judge unjustly, and accept the persons of the wicked? Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "Defend the poor and fatherless: do justice to the afflicted and needy.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Defend the poor and fatherless: do justice to the afflicted and needy."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "poverty-justice",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Deliver the poor and needy: rid them out of the hand of the wicked.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Deliver the poor and needy: rid them out of the hand of the wicked."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "poverty-justice",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.",
+      "familiar": {
+        "source": "KJV",
+        "text": "They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "I said, “You are gods, all of you children of the Most High.”",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have said, Ye are gods; and all of you are children of the most High."
+      },
+      "notes": [
+        {
+          "title": "“You are gods”",
+          "body": "The address to elohim is debated: divine beings, rulers, or judges have all been proposed. John 10:34 later cites this verse. The original ambiguity remains important."
+        }
+      ],
+      "terms": [
+        {
+          "display": "elohim / gods",
+          "source": "אֱלֹהִים",
+          "language": "Hebrew",
+          "glossary_id": "elohim-divine-council"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-council"
+      ],
+      "cross_references": [
+        {
+          "reference": "John 10:34-36",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "But ye shall die like men, and fall like one of the princes.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But ye shall die like men, and fall like one of the princes."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    },
+    {
+      "verse": 8,
+      "restored": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Arise, O God, judge the earth: for thou shalt inherit all nations."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "divine-council"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "authority-accountability"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "The psalm’s target is corrupt power. “Gods” language must not be used to dehumanize people or claim unquestionable authority for leaders.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}
