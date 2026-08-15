@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "scripts/chatgpt-complete-psalms-001-030.mjs"
+      - "scripts/fix-chatgpt-psalms-001-030-grammar.mjs"
       - ".github/workflows/chatgpt-psalms-001-030.yml"
   workflow_dispatch:
 
@@ -27,6 +28,8 @@ jobs:
       - run: git pull --ff-only origin main
       - name: Generate deterministic ChatGPT-authored Psalms 1-30
         run: node scripts/chatgpt-complete-psalms-001-030.mjs
+      - name: Normalize completion-draft grammar
+        run: node scripts/fix-chatgpt-psalms-001-030-grammar.mjs
       - name: Validate restored and mystical alignment
         run: node scripts/validate-generated-canon.mjs --books="psalms"
       - name: Rebuild library index
