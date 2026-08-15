@@ -1,0 +1,159 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 43,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Vindication, hostile opposition, light, truth, altar, and the Psalm 42 refrain."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Judge me, O God, and plead my cause against an wicked nation: O deliver me from the deceitful and unjust man.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Judge me, O God, and plead my cause against an ungodly nation: O deliver me from the deceitful and unjust man."
+      },
+      "notes": [
+        {
+          "title": "Psalms 42–43",
+          "body": "Psalm 43 continues Psalm 42’s language and refrain without a separate superscription. Many interpreters treat the two as one poem."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land",
+        "psalm-42-43-unity"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 42",
+          "relationship": "literary-continuation"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou art the God of my strength: why dost thou cast me off? why go I mourning because of the oppression of the enemy?"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "poverty-justice",
+        "violence-war",
+        "psalm-42-43-unity"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 42",
+          "relationship": "literary-continuation"
+        }
+      ],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "O send out thy light and thy truth: let them lead me; let them bring me to thy holy hill, and to thy tabernacles.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O send out thy light and thy truth: let them lead me; let them bring me unto thy holy hill, and to thy tabernacles."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "psalm-42-43-unity"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 42",
+          "relationship": "literary-continuation"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Then will I go to the altar of God, to God my exceeding joy: yea, upon the harp will I praise thee, O God my God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then will I go unto the altar of God, unto God my exceeding joy: yea, upon the harp will I praise thee, O God my God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship",
+        "psalm-42-43-unity"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 42",
+          "relationship": "literary-continuation"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Why art thou cast down, O my soul? and why art thou disquieted within me? hope in God: for I shall yet praise him, who is the health of my countenance, and my God."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship",
+        "psalm-42-43-unity"
+      ],
+      "cross_references": [
+        {
+          "reference": "Psalm 42",
+          "relationship": "literary-continuation"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Enemy language remains poetic and cannot justify harm.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

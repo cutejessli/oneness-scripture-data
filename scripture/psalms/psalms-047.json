@@ -1,0 +1,208 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 47,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Divine kingship, peoples, nations, land, and praise."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "O clap your hands, all ye people; shout to God with the voice of triumph.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O clap your hands, all ye people; shout unto God with the voice of triumph."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "For YHWH most high is terrible; he is a great King over all the earth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For the LORD most high is terrible; he is a great King over all the earth."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "He shall subdue the people under us, and the nations under our feet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall subdue the people under us, and the nations under our feet."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall choose our inheritance for us, the excellency of Jacob whom he loved. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "God is gone up with a shout, YHWH with the sound of a trumpet.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God is gone up with a shout, the LORD with the sound of a trumpet."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Sing praises to God, sing praises: sing praises to our King, sing praises.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Sing praises to God, sing praises: sing praises unto our King, sing praises."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "For God is the King of all the earth: sing ye praises with understanding.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For God is the King of all the earth: sing ye praises with understanding."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship",
+        "peoples-land",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "God reigneth over the nations: God sitteth upon the throne of his holiness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God reigneth over the heathen: God sitteth upon the throne of his holiness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong to God: he is greatly exalted.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Kingship language cannot be converted into theocratic domination or ethnic supremacy.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

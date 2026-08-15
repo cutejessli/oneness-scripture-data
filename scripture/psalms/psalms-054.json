@@ -1,0 +1,176 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 54,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Ziphite superscription, betrayal, enemies, rescue, and thanksgiving."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Save me, O God, by thy name, and judge me by thy strength.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Save me, O God, by thy name, and judge me by thy strength."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Hear my prayer, O God; give ear to the words of my mouth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hear my prayer, O God; give ear to the words of my mouth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 3,
+      "restored": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "poverty-justice"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 4,
+      "restored": "Behold, God is mine helper: the Lord is with them that uphold my soul.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, God is mine helper: the Lord is with them that uphold my soul."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "He shall reward evil to mine enemies: cut them off in thy truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "He shall reward evil unto mine enemies: cut them off in thy truth."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "I will freely sacrifice to thee: I will praise thy name, O YHWH; for it is good.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will freely sacrifice unto thee: I will praise thy name, O LORD; for it is good."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "ancient-peoples-land-not-modern-target"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For he hath delivered me out of all trouble: and mine eye hath seen his desire upon mine enemies."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization",
+        "ancient-peoples-land-not-modern-target"
+      ]
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "The Ziphites are an ancient narrative group, not a modern ethnic code.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

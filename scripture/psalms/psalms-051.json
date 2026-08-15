@@ -1,0 +1,479 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 51,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Repentance, Bathsheba/Uriah superscription, sin, cleansing, spirit, sacrifice, and restoration."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Have mercy upon me, O God, according to thy lovingkindness: according to the multitude of thy tender mercies blot out my transgressions.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have mercy upon me, O God, according to thy lovingkindness: according unto the multitude of thy tender mercies blot out my transgressions."
+      },
+      "notes": [
+        {
+          "title": "David, Bathsheba, and Uriah",
+          "body": "The superscription links this psalm to David after Nathan confronted him concerning Bathsheba. Any penitential reading must keep Bathsheba’s violated agency and Uriah’s killing visible rather than reducing the story to David’s private spiritual crisis."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": [
+        "victims-not-erased-by-leader-repentance"
+      ]
+    },
+    {
+      "verse": 2,
+      "restored": "Wash me throughly from mine iniquity, and cleanse me from my sin.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Wash me throughly from mine iniquity, and cleanse me from my sin."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For I acknowledge my transgressions: and my sin is ever before me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I acknowledge my transgressions: and my sin is ever before me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Against thee, thee only, have I sinned, and done this evil in thy sight: that thou mightest be justified when thou speakest, and be clear when thou judgest."
+      },
+      "notes": [
+        {
+          "title": "“Against you only”",
+          "body": "“Against you, you only, have I sinned” is confessional rhetoric before God; it cannot erase the concrete human beings harmed in the narrative associated with the psalm, especially Bathsheba and Uriah."
+        }
+      ],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": [
+        "victims-not-erased-by-leader-repentance"
+      ]
+    },
+    {
+      "verse": 5,
+      "restored": "Behold, I was shapen in iniquity; and in sin did my mother conceive me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, I was shapen in iniquity; and in sin did my mother conceive me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Behold, thou desirest truth in the inward parts: and in the hidden part thou shalt make me to know wisdom."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 7,
+      "restored": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Purge me with hyssop, and I shall be clean: wash me, and I shall be whiter than snow."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Make me to hear joy and gladness; that the bones which thou hast broken may rejoice."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "suffering-body"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "Hide thy face from my sins, and blot out all mine iniquities.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Hide thy face from my sins, and blot out all mine iniquities."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "Create in me a clean heart, O God, and renew a steadfast spirit within me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Create in me a clean heart, O God; and renew a right spirit within me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "heart",
+          "source": "לֵב",
+          "language": "Hebrew",
+          "glossary_id": "lev"
+        },
+        {
+          "display": "spirit",
+          "source": "רוּחַ",
+          "language": "Hebrew",
+          "glossary_id": "ruach"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "Do not cast me away from your presence, and do not take your holy spirit from me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Cast me not away from thy presence; and take not thy holy spirit from me."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "holy spirit",
+          "source": "רוּחַ קָדְשְׁךָ",
+          "language": "Hebrew",
+          "glossary_id": "ruach-qodesh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 12,
+      "restored": "Restore to me the joy of thy salvation; and uphold me with thy free spirit.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Restore unto me the joy of thy salvation; and uphold me with thy free spirit."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "Then will I teach transgressors thy ways; and sinners shall be converted to thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then will I teach transgressors thy ways; and sinners shall be converted unto thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Deliver me from bloodguiltiness, O God, thou God of my salvation: and my tongue shall sing aloud of thy righteousness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "praise-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 15,
+      "restored": "O Lord, open thou my lips; and my mouth shall show forth thy praise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O Lord, open thou my lips; and my mouth shall shew forth thy praise."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 16,
+      "restored": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou desirest not sacrifice; else would I give it: thou delightest not in burnt offering."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "The sacrifices of God are a broken spirit; a broken and contrite heart, O God, you will not despise.",
+      "familiar": {
+        "source": "KJV",
+        "text": "The sacrifices of God are a broken spirit: a broken and a contrite heart, O God, thou wilt not despise."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Do good in thy good pleasure to Zion: build thou the walls of Jerusalem.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Do good in thy good pleasure unto Zion: build thou the walls of Jerusalem."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Then shalt thou be pleased with the sacrifices of righteousness, with burnt offering and whole burnt offering: then shall they offer bullocks upon thine altar."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "2 Samuel 11-12",
+          "relationship": "superscription-reception-context"
+        }
+      ],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Repentance must name harm to people, not erase victims behind private God-talk. The psalm must not excuse sexual abuse, murder, or leader immunity.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

@@ -1,0 +1,512 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 31,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Refuge, siege, shame, illness imagery, enemies, trust, truth, and committing one’s spirit."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "In thee, O YHWH, do I put my trust; let me never be ashamed: deliver me in thy righteousness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "In thee, O LORD, do I put my trust; let me never be ashamed: deliver me in thy righteousness."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Bow down thine ear to me; deliver me speedily: be thou my strong rock, for an house of defence to save me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "For thou art my rock and my fortress; therefore for thy name’s sake lead me, and guide me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For thou art my rock and my fortress; therefore for thy name’s sake lead me, and guide me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Pull me out of the net that they have laid privily for me: for thou art my strength.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Pull me out of the net that they have laid privily for me: for thou art my strength."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "Into your hand I commit my spirit; you have redeemed me, YHWH, God of truth.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Into thine hand I commit my spirit: thou hast redeemed me, O LORD God of truth."
+      },
+      "notes": [
+        {
+          "title": "Into your hand I commit my spirit",
+          "body": "The Hebrew entrusts one’s ruach, “spirit/breath,” to God. Luke 23:46 later places this line on Jesus’ lips; the psalm’s original setting remains a Jewish prayer of trust under threat."
+        }
+      ],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [
+        {
+          "reference": "Luke 23:46",
+          "relationship": "later-reception"
+        }
+      ],
+      "editorial_flags": []
+    },
+    {
+      "verse": 6,
+      "restored": "I have hated them that regard lying vanities: but I trust in YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I have hated them that regard lying vanities: but I trust in the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will be glad and rejoice in thy mercy: for thou hast considered my trouble; thou hast known my soul in adversities;"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room.",
+      "familiar": {
+        "source": "KJV",
+        "text": "And hast not shut me up into the hand of the enemy: thou hast set my feet in a large room."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 9,
+      "restored": "Have mercy upon me, O YHWH, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Have mercy upon me, O LORD, for I am in trouble: mine eye is consumed with grief, yea, my soul and my belly."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 10,
+      "restored": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For my life is spent with grief, and my years with sighing: my strength faileth because of mine iniquity, and my bones are consumed."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "suffering-body"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 11,
+      "restored": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 12,
+      "restored": "I am forgotten as a dead man out of mind: I am like a broken vessel.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I am forgotten as a dead man out of mind: I am like a broken vessel."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 13,
+      "restored": "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 14,
+      "restored": "But I trusted in thee, O YHWH: I said, Thou art my God.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I trusted in thee, O LORD: I said, Thou art my God."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 15,
+      "restored": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me.",
+      "familiar": {
+        "source": "KJV",
+        "text": "My times are in thy hand: deliver me from the hand of mine enemies, and from them that persecute me."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 16,
+      "restored": "Make thy face to shine upon thy servant: save me for thy mercies’ sake.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Make thy face to shine upon thy servant: save me for thy mercies’ sake."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 17,
+      "restored": "Let me not be ashamed, O YHWH; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let me not be ashamed, O LORD; for I have called upon thee: let the wicked be ashamed, and let them be silent in the grave."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 18,
+      "restored": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Let the lying lips be put to silence; which speak grievous things proudly and contemptuously against the righteous."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 19,
+      "restored": "Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!",
+      "familiar": {
+        "source": "KJV",
+        "text": "Oh how great is thy goodness, which thou hast laid up for them that fear thee; which thou hast wrought for them that trust in thee before the sons of men!"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 20,
+      "restored": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou shalt hide them in the secret of thy presence from the pride of man: thou shalt keep them secretly in a pavilion from the strife of tongues."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 21,
+      "restored": "Blessed be YHWH: for he hath showed me his marvellous kindness in a strong city.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Blessed be the LORD: for he hath shewed me his marvellous kindness in a strong city."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 22,
+      "restored": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried to thee.",
+      "familiar": {
+        "source": "KJV",
+        "text": "For I said in my haste, I am cut off from before thine eyes: nevertheless thou heardest the voice of my supplications when I cried unto thee."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 23,
+      "restored": "O love YHWH, all ye his saints: for YHWH preserveth the faithful, and plentifully rewardeth the proud doer.",
+      "familiar": {
+        "source": "KJV",
+        "text": "O love the LORD, all ye his saints: for the LORD preserveth the faithful, and plentifully rewardeth the proud doer."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 24,
+      "restored": "Be of good courage, and he shall strengthen your heart, all ye that hope in YHWH.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Be of good courage, and he shall strengthen your heart, all ye that hope in the LORD."
+      },
+      "notes": [],
+      "terms": [
+        {
+          "display": "YHWH",
+          "source": "יהוה",
+          "language": "Hebrew",
+          "glossary_id": "yhwh"
+        }
+      ],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Enemy and punishment language is lament poetry, not authorization for retaliation. Illness language must not be moralized.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}

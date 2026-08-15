@@ -1,0 +1,189 @@
+{
+  "book": "Psalms",
+  "book_id": "psalms",
+  "chapter": 52,
+  "audit_status": {
+    "status": "draft-pending-deep-source-audit",
+    "source_base": "ChatGPT-authored Psalms completion draft using public-domain KJV as familiar alignment scaffold with curated Hebrew/textual overrides; full WLC/OSHB/source-witness audit pending",
+    "review_note": "Doeg, abusive power, deceit, killing, wealth, judgment, and rooted trust."
+  },
+  "verses": [
+    {
+      "verse": 1,
+      "restored": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Why boastest thou thyself in mischief, O mighty man? the goodness of God endureth continually."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 2,
+      "restored": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thy tongue deviseth mischiefs; like a sharp razor, working deceitfully."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "kingship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 3,
+      "restored": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou lovest evil more than good; and lying rather than to speak righteousness. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 4,
+      "restored": "Thou lovest all devouring words, O thou deceitful tongue.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Thou lovest all devouring words, O thou deceitful tongue."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 5,
+      "restored": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah.",
+      "familiar": {
+        "source": "KJV",
+        "text": "God shall likewise destroy thee for ever, he shall take thee away, and pluck thee out of thy dwelling place, and root thee out of the land of the living. Selah."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "violence-war",
+        "peoples-land"
+      ],
+      "cross_references": [],
+      "editorial_flags": [
+        "poetic-violence-description-not-modern-authorization"
+      ]
+    },
+    {
+      "verse": 6,
+      "restored": "The righteous also shall see, and fear, and shall laugh at him:",
+      "familiar": {
+        "source": "KJV",
+        "text": "The righteous also shall see, and fear, and shall laugh at him:"
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 7,
+      "restored": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness.",
+      "familiar": {
+        "source": "KJV",
+        "text": "Lo, this is the man that made not God his strength; but trusted in the abundance of his riches, and strengthened himself in his wickedness."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 8,
+      "restored": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.",
+      "familiar": {
+        "source": "KJV",
+        "text": "But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "trust-refuge"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    },
+    {
+      "verse": 9,
+      "restored": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints.",
+      "familiar": {
+        "source": "KJV",
+        "text": "I will praise thee for ever, because thou hast done it: and I will wait on thy name; for it is good before thy saints."
+      },
+      "notes": [],
+      "terms": [],
+      "tags": [
+        "psalms",
+        "poetry",
+        "praise-worship"
+      ],
+      "cross_references": [],
+      "editorial_flags": []
+    }
+  ],
+  "translation_notes": [
+    "This chapter completes corpus coverage as a ChatGPT-authored draft. KJV is retained as a familiar comparison layer; a separate automated reference pass adds BSB and pointed Hebrew without replacing the restored draft."
+  ],
+  "safety_note": "Ancient villain labels cannot be mapped onto modern populations; judgment is not a license for revenge.",
+  "source_witness_audit_flags": [
+    "Compare directly with WLC/OSHB, Septuagint, Dead Sea Psalms witnesses where extant, and other textual witnesses during the global audit. Preserve poetic parallelism, superscriptions, duplicate/parallel psalms, and significant Hebrew/Greek divergences rather than harmonizing them."
+  ],
+  "layer_status": {
+    "restored": true,
+    "familiar": "complete-KJV",
+    "verse_notes": "selective",
+    "source_terms": "selective-pending-deep-audit",
+    "tags": "baseline",
+    "cross_references": "selective",
+    "editorial_flags": "baseline",
+    "mystical_companion": "separate-file",
+    "modern_comparison": "pending-reference-backfill",
+    "original_language": "pending-reference-backfill"
+  },
+  "generation_status": {
+    "status": "chatgpt-authored-completion-draft",
+    "intelligence": "ChatGPT conversation",
+    "external_ai_runner": false,
+    "continuity_audit": "pending-global-pass"
+  }
+}
